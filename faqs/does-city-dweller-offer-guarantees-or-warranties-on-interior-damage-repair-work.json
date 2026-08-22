@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/does-city-dweller-offer-guarantees-or-warranties-on-interior-damage-repair-work",
+  "name": "Does City Dweller offer guarantees or warranties on interior damage repair work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does City Dweller offer guarantees or warranties on interior damage repair work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, City Dweller stands behind the quality of our interior damage repair work. We offer guarantees on our workmanship to ensure your peace of mind. The specific terms and duration of the warranty will be outlined in your project contract. Our commitment is to deliver lasting repairs and customer satisfaction, and we address any issues related to our work promptly and professionally.",
+        "@type": "Answer",
+        "description": "Yes, City Dweller provides guarantees on interior damage repair workmanship, with terms outlined in the project contract."
+      }
+    }
+  ],
+  "description": "Yes, City Dweller provides guarantees on interior damage repair workmanship, with terms outlined in the project contract."
+}

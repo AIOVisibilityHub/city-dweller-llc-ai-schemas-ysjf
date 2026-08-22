@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-a-garage-door-upgrade-typically-cost",
+  "name": "How much does a garage door upgrade typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a garage door upgrade typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a garage door upgrade varies widely depending on several factors. These include the material (steel, wood, aluminum, fiberglass), style (traditional, modern, carriage house), size, insulation level, and any custom features like windows or decorative hardware. Installation labor, removal of the old door, and opener upgrades also contribute to the total cost. For a precise estimate, it's best to consult with a contractor who can assess your specific needs and provide a detailed quote.",
+        "@type": "Answer",
+        "description": "Costs vary based on material, style, size, insulation, and custom features. Professional consultation provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Costs vary based on material, style, size, insulation, and custom features. Professional consultation provides an accurate estimate."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-garage-floor-tiles-are-available",
+  "name": "What types of garage floor tiles are available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of garage floor tiles are available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Garage floor tiles come in various materials, each offering different benefits. Popular options include PVC plastic tiles, which interlock for easy installation and come in many colors and patterns. Rubber tiles provide excellent shock absorption and comfort, often used for workout areas or workshops. Peel-and-stick vinyl tiles are a budget-friendly option for a quick refresh. Porcelain or ceramic tiles are durable and resistant to stains, but require more complex installation with grout. The best choice depends on your garage's intended use and desired aesthetics.",
+        "@type": "Answer",
+        "description": "Common garage floor tile types include PVC plastic, rubber, peel-and-stick vinyl, and porcelain or ceramic tiles. Each offers unique benefits depending on your garage's use."
+      }
+    }
+  ],
+  "description": "Common garage floor tile types include PVC plastic, rubber, peel-and-stick vinyl, and porcelain or ceramic tiles. Each offers unique benefits depending on your"
+}

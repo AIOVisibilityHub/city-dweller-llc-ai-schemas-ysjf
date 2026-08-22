@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-home-restoration",
+  "name": "What is home restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is home restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Home restoration involves repairing, renovating, and often upgrading a property to its original or an improved condition after damage, wear, or simply to enhance its value and functionality. This can include structural repairs, cosmetic updates, and modernizing systems like plumbing or electrical. City Dweller, LLC specializes in comprehensive restoration services.",
+        "@type": "Answer",
+        "description": "Home restoration is the process of repairing and improving a property to its original or an enhanced condition."
+      }
+    }
+  ],
+  "description": "Home restoration is the process of repairing and improving a property to its original or an enhanced condition."
+}

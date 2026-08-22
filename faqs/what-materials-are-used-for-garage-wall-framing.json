@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-materials-are-used-for-garage-wall-framing",
+  "name": "What materials are used for garage wall framing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used for garage wall framing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials for garage wall framing include lumber (such as Douglas Fir or Spruce-Pine-Fir) and light-gauge steel studs. Wood framing is prevalent due to its cost-effectiveness and ease of use, while steel framing offers advantages in terms of fire resistance, straightness, and resistance to pests. The choice of material often depends on local building codes, project budget, and specific structural requirements. Your contractor can advise on the best option for your project.",
+        "@type": "Answer",
+        "description": "Garage wall framing commonly uses lumber or light-gauge steel studs, chosen based on building codes, budget, and structural needs."
+      }
+    }
+  ],
+  "description": "Garage wall framing commonly uses lumber or light-gauge steel studs, chosen based on building codes, budget, and structural needs."
+}

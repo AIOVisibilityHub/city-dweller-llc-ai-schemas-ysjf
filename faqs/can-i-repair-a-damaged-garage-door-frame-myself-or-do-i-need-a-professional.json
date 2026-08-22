@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-a-damaged-garage-door-frame-myself-or-do-i-need-a-professional",
+  "name": "Can I repair a damaged garage door frame myself or do I need a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair a damaged garage door frame myself or do I need a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor cosmetic issues like small dents or superficial cracks might be manageable for a homeowner with basic DIY skills. However, for significant damage such as structural rot, large cracks, bent metal components, or issues affecting the door's operation and safety, professional repair is strongly recommended. Garage door systems are heavy and under tension, posing safety risks if not handled correctly. Professionals have the tools, experience, and knowledge to assess the damage accurately, ensure structural integrity, and perform repairs safely and effectively.",
+        "@type": "Answer",
+        "description": "Minor damage might be DIY, but significant issues like structural damage or operational problems require professional help due to safety risks and complexity."
+      }
+    }
+  ],
+  "description": "Minor damage might be DIY, but significant issues like structural damage or operational problems require professional help due to safety risks and complexity."
+}

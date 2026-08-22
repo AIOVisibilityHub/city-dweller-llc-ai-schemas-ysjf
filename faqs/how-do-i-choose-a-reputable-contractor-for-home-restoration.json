@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-a-reputable-contractor-for-home-restoration",
+  "name": "How do I choose a reputable contractor for home restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reputable contractor for home restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor, look for one with proper licensing, insurance, and a strong portfolio of completed restoration projects. Check references, read reviews, and ensure they provide a detailed contract outlining the scope of work, timeline, and payment schedule. Transparent communication and a clear understanding of your vision are also crucial for a successful partnership.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured contractor with good references, a strong portfolio, and clear communication."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured contractor with good references, a strong portfolio, and clear communication."
+}

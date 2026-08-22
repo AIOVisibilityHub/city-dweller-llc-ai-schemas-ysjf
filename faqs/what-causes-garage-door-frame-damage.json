@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-garage-door-frame-damage",
+  "name": "What causes garage door frame damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes garage door frame damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Garage door frames can be damaged by several factors. Common causes include vehicle impact, which can bend or break frame components. Water damage and rot, especially in wooden frames, are prevalent in areas with moisture, leading to weakening and structural compromise. Pests like termites can also infest and deteriorate wooden frames. Additionally, general wear and tear, such as repeated opening and closing cycles without proper maintenance, can stress and eventually damage the frame over time. Environmental factors like strong winds or seismic activity can also contribute to damage.",
+        "@type": "Answer",
+        "description": "Causes include vehicle impact, water damage and rot, pest infestation, and general wear and tear from repeated use or environmental factors."
+      }
+    }
+  ],
+  "description": "Causes include vehicle impact, water damage and rot, pest infestation, and general wear and tear from repeated use or environmental factors."
+}

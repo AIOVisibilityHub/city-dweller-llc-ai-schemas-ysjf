@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-preparing-the-garage-for-drywall-repair",
+  "name": "What is the process for preparing the garage for drywall repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for preparing the garage for drywall repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preparing a garage for drywall repair involves several steps to protect belongings and ensure a clean work area. This includes clearing items away from the damaged walls, covering remaining items and the floor with plastic sheeting or drop cloths to protect against dust and debris. If water damage is involved, identifying and fixing the source of the leak is a critical preparatory step before any repairs begin.",
+        "@type": "Answer",
+        "description": "Preparation involves clearing items, covering surfaces for dust protection, and fixing any water leak sources before repair begins."
+      }
+    }
+  ],
+  "description": "Preparation involves clearing items, covering surfaces for dust protection, and fixing any water leak sources before repair begins."
+}

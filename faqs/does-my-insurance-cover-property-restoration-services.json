@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/does-my-insurance-cover-property-restoration-services",
+  "name": "Does my insurance cover property restoration services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does my insurance cover property restoration services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowners insurance policies cover property damage caused by sudden and accidental events, such as burst pipes, fires, or storm damage. However, policies typically exclude damage from floods (requiring separate flood insurance) or neglect-related issues like long-term leaks leading to mold. It's crucial to review your specific policy details or contact your insurance provider to understand your coverage limits, deductibles, and what types of damage are included or excluded. We can assist with documentation for your claim.",
+        "@type": "Answer",
+        "description": "Most insurance covers sudden damage like fire or burst pipes, but not floods or neglect. Review your policy for specific coverage details and exclusions."
+      }
+    }
+  ],
+  "description": "Most insurance covers sudden damage like fire or burst pipes, but not floods or neglect. Review your policy for specific coverage details and exclusions."
+}

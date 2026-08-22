@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-interior-damage-repair-cost-in-south-san-francisco",
+  "name": "How much does interior damage repair cost in South San Francisco?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does interior damage repair cost in South San Francisco?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of interior damage repair in South San Francisco varies significantly based on the type, extent, and location of the damage, as well as the materials required. Minor repairs, like patching a small hole, will cost less than extensive water damage remediation and reconstruction. After a thorough assessment by City Dweller, we provide a detailed, itemized estimate. This allows you to understand the specific costs associated with your particular repair project.",
+        "@type": "Answer",
+        "description": "Costs for interior damage repair in South San Francisco depend on damage type, extent, and materials; City Dweller provides a detailed estimate after assessment."
+      }
+    }
+  ],
+  "description": "Costs for interior damage repair in South San Francisco depend on damage type, extent, and materials; City Dweller provides a detailed estimate after assessment"
+}

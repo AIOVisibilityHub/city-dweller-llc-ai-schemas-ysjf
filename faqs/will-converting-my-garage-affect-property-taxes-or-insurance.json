@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-converting-my-garage-affect-property-taxes-or-insurance",
+  "name": "Will converting my garage affect property taxes or insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will converting my garage affect property taxes or insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, converting your garage will likely affect both your property taxes and homeowner's insurance. Property taxes may increase because the conversion typically adds square footage and value to your home. It's considered an improvement that enhances the property's overall assessment. For insurance, you'll need to inform your provider as the change in use and increased value requires an adjustment to your policy to ensure adequate coverage for the new living space and its contents. Failure to do so could result in insufficient coverage.",
+        "@type": "Answer",
+        "description": "Yes, conversions typically increase property value, leading to higher property taxes and requiring an update to your homeowner's insurance policy for adequate coverage."
+      }
+    }
+  ],
+  "description": "Yes, conversions typically increase property value, leading to higher property taxes and requiring an update to your homeowner's insurance policy for adequate c"
+}

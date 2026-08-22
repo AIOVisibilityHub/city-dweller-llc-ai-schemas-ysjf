@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-garage-wall-framing-take",
+  "name": "How long does garage wall framing take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does garage wall framing take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration for garage wall framing depends on the garage's size, design complexity, and the crew's efficiency. For a standard two-car garage, the framing process can typically take anywhere from a few days to a week once the foundation is ready. Larger or more complex designs, or those requiring special considerations, might extend this timeline. Weather conditions can also influence the schedule, especially in regions with frequent rain or strong winds.",
+        "@type": "Answer",
+        "description": "Framing a standard two-car garage typically takes a few days to a week, depending on size, design complexity, and weather."
+      }
+    }
+  ],
+  "description": "Framing a standard two-car garage typically takes a few days to a week, depending on size, design complexity, and weather."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-city-dweller-assist-with-insurance-claims-for-interior-damage",
+  "name": "Can City Dweller assist with insurance claims for interior damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can City Dweller assist with insurance claims for interior damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While City Dweller, LLC is a general contractor focused on repair work, we understand the complexities of insurance claims. We can provide detailed documentation, estimates, and photographic evidence of the damage and repairs, which can be valuable for your insurance adjuster. We recommend discussing your policy with your insurance provider directly, but our team can help ensure you have the necessary paperwork from our end to support your claim.",
+        "@type": "Answer",
+        "description": "City Dweller can provide detailed documentation and estimates for interior damage, which can assist with your insurance claim process."
+      }
+    }
+  ],
+  "description": "City Dweller can provide detailed documentation and estimates for interior damage, which can assist with your insurance claim process."
+}

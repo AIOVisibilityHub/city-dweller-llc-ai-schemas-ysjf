@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-average-cost-to-repair-a-garage-door-frame-in-the-bay-area",
+  "name": "What is the average cost to repair a garage door frame in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to repair a garage door frame in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a garage door frame in the Bay Area can vary widely based on the extent of the damage, the materials needed, and labor rates. Minor repairs, such as replacing a small section of a wooden jamb, might range from a few hundred dollars. More significant structural repairs, like replacing an entire rotted frame or repairing extensive metal damage, could cost upwards of a thousand dollars or more. It's best to obtain a detailed quote from a local contractor after a thorough assessment of your specific situation.",
+        "@type": "Answer",
+        "description": "Costs vary significantly based on damage extent, materials, and labor. Minor repairs might be a few hundred dollars, while major structural repairs could exceed a thousand."
+      }
+    }
+  ],
+  "description": "Costs vary significantly based on damage extent, materials, and labor. Minor repairs might be a few hundred dollars, while major structural repairs could exceed"
+}

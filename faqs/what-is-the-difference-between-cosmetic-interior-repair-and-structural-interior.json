@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-cosmetic-interior-repair-and-structural-interior",
+  "name": "What is the difference between cosmetic interior repair and structural interior repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between cosmetic interior repair and structural interior repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cosmetic interior repair addresses surface-level imperfections that don't affect a building's integrity, such as patching small holes, repainting, or fixing minor dents in drywall. Structural interior repair, however, deals with damage to load-bearing elements like walls, beams, or foundations, which could compromise the safety and stability of your home. City Dweller is equipped to handle both, ensuring your home is not only visually appealing but also safe and sound.",
+        "@type": "Answer",
+        "description": "Cosmetic repair fixes surface imperfections, while structural repair addresses damage to load-bearing elements affecting safety and stability."
+      }
+    }
+  ],
+  "description": "Cosmetic repair fixes surface imperfections, while structural repair addresses damage to load-bearing elements affecting safety and stability."
+}

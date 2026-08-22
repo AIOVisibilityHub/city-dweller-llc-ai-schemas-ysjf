@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-replace-my-garage-door-opener-when-upgrading-my-garage-door",
+  "name": "Do I need to replace my garage door opener when upgrading my garage door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace my garage door opener when upgrading my garage door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While not always mandatory, it is highly recommended to replace your garage door opener when upgrading your garage door, especially if the opener is old or shows signs of wear. A new, heavier, or better-insulated garage door might require an opener with more lifting power. Modern openers also offer enhanced safety features, such as rolling codes and obstacle detection, and convenience through smart home integration. Upgrading both at the same time ensures compatibility, optimal performance, and improved safety.",
+        "@type": "Answer",
+        "description": "It's recommended to replace the opener, especially if old, for optimal performance, compatibility, and enhanced safety features with a new door."
+      }
+    }
+  ],
+  "description": "It's recommended to replace the opener, especially if old, for optimal performance, compatibility, and enhanced safety features with a new door."
+}

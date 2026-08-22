@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-paint-a-garage",
+  "name": "How long does it take to paint a garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to paint a garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to paint a garage varies based on its size, the scope of work (walls, ceiling, floor), and necessary preparation. Typically, painting the walls and ceiling of a standard two-car garage can take 1-3 days, including prep work like cleaning, patching, and priming. If a garage floor coating is applied, additional time is needed for proper curing, which can be 24-72 hours before light foot traffic and several days to a week before vehicle parking. Professional teams can often complete projects more efficiently.",
+        "@type": "Answer",
+        "description": "Painting a standard two-car garage typically takes 1-3 days for walls and ceiling, plus additional time for floor coating curing."
+      }
+    }
+  ],
+  "description": "Painting a standard two-car garage typically takes 1-3 days for walls and ceiling, plus additional time for floor coating curing."
+}

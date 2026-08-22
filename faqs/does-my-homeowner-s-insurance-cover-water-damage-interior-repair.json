@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/does-my-homeowner-s-insurance-cover-water-damage-interior-repair",
+  "name": "Does my homeowner's insurance cover water damage interior repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does my homeowner's insurance cover water damage interior repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowner's insurance policies cover interior water damage if it's sudden and accidental, such as from a burst pipe or appliance malfunction. However, damage from neglected maintenance, floods (which typically require separate flood insurance), or sewer backups may not be covered. It's essential to review your specific policy details or contact your insurance provider to understand your coverage. We can assist by documenting the damage and providing estimates for your claim.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance often covers sudden, accidental water damage, but typically excludes issues from neglect or floods; check your specific policy."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance often covers sudden, accidental water damage, but typically excludes issues from neglect or floods; check your specific policy."
+}

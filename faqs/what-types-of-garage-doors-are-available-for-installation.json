@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-garage-doors-are-available-for-installation",
+  "name": "What types of garage doors are available for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of garage doors are available for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Garage doors come in various materials and styles to suit different aesthetic and functional needs. Common types include steel for durability and insulation, wood for a classic look, aluminum for light weight and resistance to corrosion, and fiberglass for impact resistance and design flexibility. Styles range from traditional raised panel and carriage house designs to modern full-view glass doors. The best choice depends on your home's architecture, budget, desired insulation, and maintenance preferences. Our team can help you explore options that fit your specific requirements.",
+        "@type": "Answer",
+        "description": "Garage doors are available in steel, wood, aluminum, and fiberglass, with various styles like traditional, carriage house, or modern full-view glass. The best type depends on your home's architecture, budget, and functional needs."
+      }
+    }
+  ],
+  "description": "Garage doors are available in steel, wood, aluminum, and fiberglass, with various styles like traditional, carriage house, or modern full-view glass. The best t"
+}

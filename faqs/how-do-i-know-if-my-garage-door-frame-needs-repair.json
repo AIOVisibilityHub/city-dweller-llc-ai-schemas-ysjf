@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-my-garage-door-frame-needs-repair",
+  "name": "How do I know if my garage door frame needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my garage door frame needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs that your garage door frame needs repair include visible cracks, warping, or rotting in wooden frames. Metal frames might show rust, dents, or bends. If the door isn't closing or opening smoothly, is sticking, or appears misaligned, the frame could be compromised. Gaps around the door when it's closed, drafts, or unusual noises during operation are also indicators. These issues can affect the door's security, insulation, and overall functionality, making timely repair important.",
+        "@type": "Answer",
+        "description": "Look for cracks, rot, rust, dents, or misalignments. If the door isn't operating smoothly, has gaps, or makes unusual noises, repair may be needed."
+      }
+    }
+  ],
+  "description": "Look for cracks, rot, rust, dents, or misalignments. If the door isn't operating smoothly, has gaps, or makes unusual noises, repair may be needed."
+}

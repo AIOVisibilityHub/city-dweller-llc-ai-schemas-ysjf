@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-convert-my-garage-if-it-s-attached-or-detached",
+  "name": "Can I convert my garage if it's attached or detached?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert my garage if it's attached or detached?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, both attached and detached garages can be converted. The process and requirements may differ slightly. Attached garages often involve integrating the new space into the existing home's envelope, potentially simplifying utility connections but requiring careful consideration of structural integrity and fire separation. Detached garages may have more flexibility in layout but might require extending utilities like water, sewer, and electricity further from the main house. Both require permits and adherence to local zoning.",
+        "@type": "Answer",
+        "description": "Both attached and detached garages can be converted, though specific requirements and challenges regarding utilities and structural integration may vary."
+      }
+    }
+  ],
+  "description": "Both attached and detached garages can be converted, though specific requirements and challenges regarding utilities and structural integration may vary."
+}

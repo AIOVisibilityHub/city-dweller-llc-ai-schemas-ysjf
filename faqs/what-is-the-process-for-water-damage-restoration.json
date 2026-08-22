@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-water-damage-restoration",
+  "name": "What is the process for water damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for water damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water damage restoration typically involves several steps. First, emergency water extraction removes standing water. Next, drying and dehumidification eliminate moisture from structural materials and air to prevent mold growth. Affected materials are inspected, and damaged items are either cleaned, restored, or removed. Finally, reconstruction and repair work are completed, restoring the property to its pre-loss condition. Throughout the process, continuous monitoring ensures proper drying and remediation.",
+        "@type": "Answer",
+        "description": "Water damage restoration includes water extraction, drying, dehumidification, material inspection, and reconstruction to prevent mold and restore the property."
+      }
+    }
+  ],
+  "description": "Water damage restoration includes water extraction, drying, dehumidification, material inspection, and reconstruction to prevent mold and restore the property."
+}

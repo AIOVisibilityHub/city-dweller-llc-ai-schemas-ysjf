@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-sustainable-or-eco-friendly-options-are-available-for-restoration-remodelin",
+  "name": "What sustainable or eco-friendly options are available for restoration remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What sustainable or eco-friendly options are available for restoration remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We offer various sustainable and eco-friendly options for restoration remodeling projects. This can include using salvaged materials, incorporating energy-efficient windows and insulation, installing low-VOC paints and finishes, and upgrading to high-efficiency plumbing fixtures and appliances. We can also explore options for sustainable demolition waste management and the use of locally sourced, recycled content materials. Discuss your specific sustainability goals with us, and we'll integrate them into your project plan.",
+        "@type": "Answer",
+        "description": "Sustainable options include salvaged materials, energy-efficient upgrades, low-VOC products, and responsible waste management to minimize environmental impact."
+      }
+    }
+  ],
+  "description": "Sustainable options include salvaged materials, energy-efficient upgrades, low-VOC products, and responsible waste management to minimize environmental impact."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-home-restoration-and-renovation",
+  "name": "What is the difference between home restoration and renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between home restoration and renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often used interchangeably, restoration typically focuses on returning a home to its original or a historically accurate condition, often after damage or significant wear. Renovation, on the other hand, usually involves updating or improving a space to better suit modern tastes or functionality, without necessarily adhering to historical accuracy. Both can involve significant structural or cosmetic changes.",
+        "@type": "Answer",
+        "description": "Restoration aims to return a home to its original condition, while renovation focuses on modern updates and improvements."
+      }
+    }
+  ],
+  "description": "Restoration aims to return a home to its original condition, while renovation focuses on modern updates and improvements."
+}

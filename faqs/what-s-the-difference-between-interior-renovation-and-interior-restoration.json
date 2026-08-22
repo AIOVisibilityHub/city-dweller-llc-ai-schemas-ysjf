@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-interior-renovation-and-interior-restoration",
+  "name": "What's the difference between interior renovation and interior restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between interior renovation and interior restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often used interchangeably, interior renovation typically focuses on updating and improving a space, often involving design changes, modernizing fixtures, or reconfiguring layouts to enhance aesthetics and functionality. Interior restoration, however, specifically aims to return a space to its original or better condition, especially after damage from water, fire, or significant wear. It often involves more intensive repair work to structural elements or historical preservation. A project can sometimes combine elements of both, but the primary intent distinguishes them.",
+        "@type": "Answer",
+        "description": "Renovation updates and improves a space, while restoration specifically repairs and returns it to its original or better condition, often after damage."
+      }
+    }
+  ],
+  "description": "Renovation updates and improves a space, while restoration specifically repairs and returns it to its original or better condition, often after damage."
+}

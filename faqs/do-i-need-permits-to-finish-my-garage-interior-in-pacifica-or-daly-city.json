@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-permits-to-finish-my-garage-interior-in-pacifica-or-daly-city",
+  "name": "Do I need permits to finish my garage interior in Pacifica or Daly City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits to finish my garage interior in Pacifica or Daly City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, often permits are required for garage interior finishing, especially if the project involves structural changes, significant electrical or plumbing work, or changing the use of the space (e.g., converting to an ADU). Requirements vary by city, so it's essential to check with your local planning department in Pacifica or Daly City. We can help guide you through the permit application process.",
+        "@type": "Answer",
+        "description": "Permits are often needed for garage interior finishing in Pacifica or Daly City, especially for structural, electrical, or plumbing changes."
+      }
+    }
+  ],
+  "description": "Permits are often needed for garage interior finishing in Pacifica or Daly City, especially for structural, electrical, or plumbing changes."
+}

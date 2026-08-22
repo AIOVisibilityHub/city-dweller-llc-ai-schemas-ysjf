@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-timeframe-for-completing-storm-damage-repairs",
+  "name": "What is the typical timeframe for completing storm damage repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeframe for completing storm damage repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeframe for completing storm damage repairs varies significantly depending on the extent of the damage, the scope of work required, and the availability of materials. Minor repairs, such as patching a small roof leak, might take a day or two. Extensive damage, like structural reconstruction or multiple system replacements, could take several weeks or even months. City Dweller, LLC will provide an estimated timeline after a thorough assessment of your property's specific needs.",
+        "@type": "Answer",
+        "description": "Repair timeframes vary based on damage severity and scope. Minor repairs may take days, while extensive damage could take weeks or months. City Dweller, LLC provides an estimated timeline after assessment."
+      }
+    }
+  ],
+  "description": "Repair timeframes vary based on damage severity and scope. Minor repairs may take days, while extensive damage could take weeks or months. City Dweller, LLC pro"
+}

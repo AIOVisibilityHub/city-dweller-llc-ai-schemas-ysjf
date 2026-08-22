@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-do-immediately-after-my-property-sustains-storm-damage",
+  "name": "What should I do immediately after my property sustains storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after my property sustains storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Your first priority is personal safety. Once safe, take photos and videos of all damaged areas before any cleanup or repairs begin. Prevent further damage by covering broken windows or holes in the roof with tarps if it is safe to do so. Avoid entering areas with structural compromise or exposed electrical wires. Contact your insurance company to report the damage, then call City Dweller, LLC for a professional assessment and emergency repair services to mitigate further issues and secure your property.",
+        "@type": "Answer",
+        "description": "After ensuring personal safety, document all damage with photos, prevent further issues by covering exposed areas if safe, and contact your insurance company. Then, call City Dweller, LLC for professional assessment and emergency repairs."
+      }
+    }
+  ],
+  "description": "After ensuring personal safety, document all damage with photos, prevent further issues by covering exposed areas if safe, and contact your insurance company. T"
+}

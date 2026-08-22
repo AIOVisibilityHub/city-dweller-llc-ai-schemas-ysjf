@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-average-cost-of-interior-restoration",
+  "name": "What is the average cost of interior restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of interior restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of interior restoration is highly variable, as it's directly tied to the extent of damage, the materials chosen, and the labor required. Small projects, like a single room refresh, can cost a few thousand dollars. Full-home renovations, especially those involving structural changes or high-end finishes, can range from tens of thousands to well over a hundred thousand dollars. Factors such as permits, accessibility, and unforeseen issues during demolition can also impact the final price. We provide detailed estimates after an on-site consultation to accurately assess your specific project.",
+        "@type": "Answer",
+        "description": "Costs vary widely based on project scope, materials, and labor, ranging from a few thousand for small jobs to over one hundred thousand for major renovations."
+      }
+    }
+  ],
+  "description": "Costs vary widely based on project scope, materials, and labor, ranging from a few thousand for small jobs to over one hundred thousand for major renovations."
+}

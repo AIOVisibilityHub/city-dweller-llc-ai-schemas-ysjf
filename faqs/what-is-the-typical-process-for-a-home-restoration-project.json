@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-a-home-restoration-project",
+  "name": "What is the typical process for a home restoration project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a home restoration project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The restoration process typically begins with an initial consultation and assessment to understand your needs and the property's condition. This is followed by detailed planning, design, and securing necessary permits. Once approvals are in place, construction begins, including demolition, structural repairs, system installations, and finishing work. We maintain open communication and conduct regular inspections until project completion and final walkthrough.",
+        "@type": "Answer",
+        "description": "The process involves consultation, assessment, planning, permitting, construction, and final inspection."
+      }
+    }
+  ],
+  "description": "The process involves consultation, assessment, planning, permitting, construction, and final inspection."
+}

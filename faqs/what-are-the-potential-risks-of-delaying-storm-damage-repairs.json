@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-potential-risks-of-delaying-storm-damage-repairs",
+  "name": "What are the potential risks of delaying storm damage repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the potential risks of delaying storm damage repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Delaying storm damage repairs can lead to several escalating problems. Minor roof leaks can quickly develop into significant water damage, promoting mold growth, rotting wood, and structural deterioration. Exposed areas can attract pests or become fire hazards. Furthermore, insurance companies may deny coverage for secondary damage that occurred due to a delayed response, leaving you responsible for more extensive and costly repairs. Prompt action protects your property and your wallet.",
+        "@type": "Answer",
+        "description": "Delaying repairs can cause mold, rot, structural damage, pest infestations, and might lead to insurance claim denials for secondary damage."
+      }
+    }
+  ],
+  "description": "Delaying repairs can cause mold, rot, structural damage, pest infestations, and might lead to insurance claim denials for secondary damage."
+}

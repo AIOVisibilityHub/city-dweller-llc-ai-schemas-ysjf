@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-leave-my-home-during-property-restoration",
+  "name": "Do I need to leave my home during property restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to leave my home during property restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need to leave your home during property restoration depends on the extent and nature of the damage. For minor issues like a small water leak, you might be able to stay. However, for significant damage involving structural repairs, mold remediation, or extensive drying equipment, it's often safer and more practical to relocate temporarily. This protects your health from contaminants or hazards and allows restoration crews to work more efficiently. Your restoration professional will advise you on the best course of action.",
+        "@type": "Answer",
+        "description": "Leaving your home during restoration depends on damage severity. For extensive work, temporary relocation may be necessary for safety and efficiency."
+      }
+    }
+  ],
+  "description": "Leaving your home during restoration depends on damage severity. For extensive work, temporary relocation may be necessary for safety and efficiency."
+}

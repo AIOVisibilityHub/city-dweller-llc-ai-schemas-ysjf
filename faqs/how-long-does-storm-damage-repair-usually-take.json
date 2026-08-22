@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-storm-damage-repair-usually-take",
+  "name": "How long does storm damage repair usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does storm damage repair usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of storm damage repair varies significantly based on the severity and type of damage. Minor roof repairs might take a few days, while extensive structural damage or interior reconstruction could take several weeks. Factors like material availability, weather conditions during the repair phase, and insurance approval also play a role. During our initial assessment, City Dweller LLC will provide a projected timeline tailored to your specific situation and keep you informed throughout the project.",
+        "@type": "Answer",
+        "description": "Repair time depends on damage severity; minor fixes may take days, while extensive damage could take weeks. We provide a timeline after assessment."
+      }
+    }
+  ],
+  "description": "Repair time depends on damage severity; minor fixes may take days, while extensive damage could take weeks. We provide a timeline after assessment."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-garage-door-upgrade-installation-take",
+  "name": "How long does a garage door upgrade installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a garage door upgrade installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard garage door upgrade installations can be completed within a single day, typically taking between 4 to 8 hours. This timeframe includes the removal of the old door, installation of the new door and tracks, and setup of a new opener if required. However, complex installations involving custom doors, extensive framing modifications, or unexpected issues can sometimes extend the project duration. Your contractor will provide a more precise timeline based on the specifics of your project.",
+        "@type": "Answer",
+        "description": "Most standard garage door upgrades take 4-8 hours to install. Complex projects may take longer."
+      }
+    }
+  ],
+  "description": "Most standard garage door upgrades take 4-8 hours to install. Complex projects may take longer."
+}

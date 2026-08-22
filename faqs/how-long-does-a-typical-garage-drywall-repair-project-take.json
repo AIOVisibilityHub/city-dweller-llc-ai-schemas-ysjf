@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-garage-drywall-repair-project-take",
+  "name": "How long does a typical garage drywall repair project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical garage drywall repair project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a garage drywall repair project varies based on the extent of the damage. A small patch might take a few hours over one day, accounting for drying time between joint compound layers. More extensive repairs, involving multiple panels or significant preparation, could extend over several days. This allows for proper drying and curing of materials, which is crucial for a durable and smooth finish before painting.",
+        "@type": "Answer",
+        "description": "Repair time varies from a few hours for small patches to several days for extensive damage, including drying times."
+      }
+    }
+  ],
+  "description": "Repair time varies from a few hours for small patches to several days for extensive damage, including drying times."
+}

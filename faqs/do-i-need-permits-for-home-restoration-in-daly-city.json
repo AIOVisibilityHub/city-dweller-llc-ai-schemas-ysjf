@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-permits-for-home-restoration-in-daly-city",
+  "name": "Do I need permits for home restoration in Daly City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for home restoration in Daly City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most significant home restoration projects in Daly City, especially those involving structural changes, electrical work, plumbing, or changes to the building's footprint, will require permits from the City of Daly City's Building Division. Minor cosmetic updates typically do not. City Dweller, LLC assists clients in navigating the permitting process to ensure compliance with local building codes and regulations.",
+        "@type": "Answer",
+        "description": "Yes, major restoration projects in Daly City require permits, especially for structural, electrical, or plumbing work."
+      }
+    }
+  ],
+  "description": "Yes, major restoration projects in Daly City require permits, especially for structural, electrical, or plumbing work."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-types-of-garage-conversions",
+  "name": "What are the common types of garage conversions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common types of garage conversions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Garage conversions typically involve transforming the space into an Accessory Dwelling Unit (ADU), a home office, a gym, or an additional living area like a family room or bedroom. ADUs are popular for rental income or multi-generational living, while other conversions offer expanded personal living space without moving. Each type requires specific considerations regarding plumbing, electrical, insulation, and entry points, impacting design and permitting requirements.",
+        "@type": "Answer",
+        "description": "Common types include Accessory Dwelling Units (ADUs), home offices, gyms, and additional living spaces like family rooms or bedrooms."
+      }
+    }
+  ],
+  "description": "Common types include Accessory Dwelling Units (ADUs), home offices, gyms, and additional living spaces like family rooms or bedrooms."
+}

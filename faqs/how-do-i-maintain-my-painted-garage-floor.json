@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-maintain-my-painted-garage-floor",
+  "name": "How do I maintain my painted garage floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I maintain my painted garage floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintaining a painted garage floor helps extend its lifespan and appearance. Regularly sweep or vacuum to remove dirt and debris. For spills, wipe them up immediately with a cloth. For general cleaning, use a mild, pH-neutral cleaner and a mop or soft brush; avoid harsh chemicals or abrasive scrubbers, as these can damage the coating. For epoxy floors, occasional reapplication of a clear topcoat can further enhance protection and gloss.",
+        "@type": "Answer",
+        "description": "Maintain a painted garage floor by regularly sweeping, cleaning spills promptly, and using a mild, pH-neutral cleaner with a mop or soft brush."
+      }
+    }
+  ],
+  "description": "Maintain a painted garage floor by regularly sweeping, cleaning spills promptly, and using a mild, pH-neutral cleaner with a mop or soft brush."
+}

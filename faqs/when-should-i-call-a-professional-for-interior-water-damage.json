@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-call-a-professional-for-interior-water-damage",
+  "name": "When should I call a professional for interior water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for interior water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional immediately after discovering any significant water intrusion or signs of damage, especially if the water source is ongoing, the area is large, or you suspect hidden damage or mold growth. Prompt action can prevent further structural deterioration, minimize repair costs, and reduce health risks associated with mold. Even seemingly small leaks can lead to extensive problems over time if not addressed properly by experienced contractors.",
+        "@type": "Answer",
+        "description": "Call a professional immediately for significant water intrusion, ongoing leaks, large affected areas, or suspected hidden damage and mold."
+      }
+    }
+  ],
+  "description": "Call a professional immediately for significant water intrusion, ongoing leaks, large affected areas, or suspected hidden damage and mold."
+}

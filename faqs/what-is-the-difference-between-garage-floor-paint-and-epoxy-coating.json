@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-garage-floor-paint-and-epoxy-coating",
+  "name": "What is the difference between garage floor paint and epoxy coating?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between garage floor paint and epoxy coating?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Garage floor paint is typically a 1-part latex or oil-based product that adheres to concrete. It's relatively easy to apply but offers limited durability against hot tires, chemicals, and heavy wear, often peeling or chipping over time. Epoxy coating, especially a 2-part system, involves a resin and a hardener that chemically bond to the concrete. This creates a much harder, more durable, and chemical-resistant surface that withstands heavy use and hot tire pickup better than standard paint, offering superior longevity and protection.",
+        "@type": "Answer",
+        "description": "Garage floor paint is a simpler, less durable coating, while 2-part epoxy coating is a more robust, chemical-resistant system that bonds strongly to concrete."
+      }
+    }
+  ],
+  "description": "Garage floor paint is a simpler, less durable coating, while 2-part epoxy coating is a more robust, chemical-resistant system that bonds strongly to concrete."
+}

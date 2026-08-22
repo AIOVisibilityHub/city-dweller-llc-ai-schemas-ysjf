@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-city-dweller-llc-repair-both-exterior-and-interior-storm-damage",
+  "name": "Can City Dweller LLC repair both exterior and interior storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can City Dweller LLC repair both exterior and interior storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, City Dweller LLC is a full-service general contractor equipped to handle both exterior and interior storm damage repairs. Our expertise extends from roofing, siding, and window replacement to addressing internal issues such as drywall repair, painting, flooring, and mold remediation. We aim to restore your entire property, ensuring that all affected areas, visible and hidden, are meticulously repaired to the highest standards, bringing your home or business back to its pre-storm condition.",
+        "@type": "Answer",
+        "description": "Yes, City Dweller LLC repairs both exterior (roof, siding, windows) and interior (drywall, painting, flooring, mold) storm damage."
+      }
+    }
+  ],
+  "description": "Yes, City Dweller LLC repairs both exterior (roof, siding, windows) and interior (drywall, painting, flooring, mold) storm damage."
+}

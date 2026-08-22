@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-get-multiple-quotes-for-interior-damage-repair-or-can-i-trust-one-c",
+  "name": "Do I need to get multiple quotes for interior damage repair, or can I trust one contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to get multiple quotes for interior damage repair, or can I trust one contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's always wise to be informed, choosing a reputable general contractor like City Dweller can simplify the process. We encourage you to review our credentials, licenses, and customer testimonials. Our detailed estimates are transparent, breaking down costs and scope. We believe in providing fair pricing and high-quality workmanship, which often means you can trust our expertise without the need to compare numerous inconsistent bids.",
+        "@type": "Answer",
+        "description": "While comparing quotes is common, a reputable contractor like City Dweller provides transparent estimates and high-quality work you can trust."
+      }
+    }
+  ],
+  "description": "While comparing quotes is common, a reputable contractor like City Dweller provides transparent estimates and high-quality work you can trust."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-upgrading-my-garage-door",
+  "name": "When should I consider upgrading my garage door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider upgrading my garage door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider upgrading your garage door if it's showing significant signs of wear and tear, such as rust, dents, or difficulty operating smoothly. An upgrade is also beneficial if your current door lacks adequate insulation, leading to high energy bills, or if you're looking to improve your home's curb appeal for resale or personal enjoyment. Additionally, if your garage door lacks modern security features or frequently malfunctions, an upgrade can enhance safety and reliability.",
+        "@type": "Answer",
+        "description": "Upgrade if your door is worn out, lacks insulation, looks outdated, or has security issues."
+      }
+    }
+  ],
+  "description": "Upgrade if your door is worn out, lacks insulation, looks outdated, or has security issues."
+}

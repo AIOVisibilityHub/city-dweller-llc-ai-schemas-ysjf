@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-common-types-of-storm-damage-does-city-dweller-llc-repair",
+  "name": "What common types of storm damage does City Dweller LLC repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common types of storm damage does City Dweller LLC repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller LLC addresses a wide range of storm damage, including roof damage from high winds or falling trees, water intrusion leading to ceiling or wall damage, broken windows, and structural issues. We also handle exterior damage to siding, fences, and gutters. Our comprehensive approach ensures that both visible and hidden problems are identified and repaired to restore your property's safety and integrity. We serve homeowners and businesses in Pacifica, Daly City, San Bruno, and South San Francisco.",
+        "@type": "Answer",
+        "description": "City Dweller LLC repairs storm damage such as roof issues, water intrusion, broken windows, and exterior damage caused by high winds or falling debris."
+      }
+    }
+  ],
+  "description": "City Dweller LLC repairs storm damage such as roof issues, water intrusion, broken windows, and exterior damage caused by high winds or falling debris."
+}

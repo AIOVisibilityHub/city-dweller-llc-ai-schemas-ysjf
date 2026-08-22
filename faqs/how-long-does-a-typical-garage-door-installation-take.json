@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-garage-door-installation-take",
+  "name": "How long does a typical garage door installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical garage door installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation time for a new garage door generally ranges from 4 to 6 hours for a standard single or double door. This timeframe can vary based on several factors, including the complexity of the door system, whether existing components need to be removed, and any necessary frame adjustments. More elaborate installations, such as those involving custom doors or advanced opener systems, might take longer. Our technicians work efficiently while ensuring all safety protocols and quality standards are met.",
+        "@type": "Answer",
+        "description": "A typical garage door installation takes 4 to 6 hours, but can vary based on door complexity, removal of old components, and frame adjustments. More elaborate systems may take longer."
+      }
+    }
+  ],
+  "description": "A typical garage door installation takes 4 to 6 hours, but can vary based on door complexity, removal of old components, and frame adjustments. More elaborate s"
+}

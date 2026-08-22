@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-a-standard-garage-door-opener-and-a-smart-garage",
+  "name": "What is the difference between a standard garage door opener and a smart garage door opener?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a standard garage door opener and a smart garage door opener?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard garage door opener operates with a wall-mounted button or a remote control. It offers basic functionality for opening and closing the door. A smart garage door opener, however, integrates with your home's Wi-Fi network, allowing you to control and monitor your garage door remotely via a smartphone app. Smart openers often include features like activity alerts, scheduling capabilities, and integration with smart home systems, enhancing convenience and security. While both effectively open your door, a smart opener provides greater control and connectivity.",
+        "@type": "Answer",
+        "description": "A standard opener uses a remote or wall button, while a smart opener connects to Wi-Fi, allowing remote control via a smartphone app with features like alerts and scheduling."
+      }
+    }
+  ],
+  "description": "A standard opener uses a remote or wall button, while a smart opener connects to Wi-Fi, allowing remote control via a smartphone app with features like alerts a"
+}

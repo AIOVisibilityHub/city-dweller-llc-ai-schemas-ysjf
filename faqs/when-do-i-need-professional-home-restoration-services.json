@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-do-i-need-professional-home-restoration-services",
+  "name": "When do I need professional home restoration services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need professional home restoration services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You typically need professional home restoration services after significant damage from events like floods, fires, or earthquakes. Additionally, older homes experiencing widespread deterioration, or properties requiring extensive modernization that goes beyond typical DIY projects, benefit greatly from a general contractor's expertise to ensure safety, compliance, and quality.",
+        "@type": "Answer",
+        "description": "Professional home restoration is needed after significant damage or for extensive renovation of older, deteriorating properties."
+      }
+    }
+  ],
+  "description": "Professional home restoration is needed after significant damage or for extensive renovation of older, deteriorating properties."
+}

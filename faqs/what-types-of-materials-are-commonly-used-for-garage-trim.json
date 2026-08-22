@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-materials-are-commonly-used-for-garage-trim",
+  "name": "What types of materials are commonly used for garage trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are commonly used for garage trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials for garage trim include wood (such as cedar or redwood), PVC, fiber cement, and engineered wood. Each material offers different benefits: wood provides a classic look but requires more maintenance; PVC is highly durable, moisture-resistant, and low-maintenance; fiber cement offers excellent durability and fire resistance; and engineered wood provides a balance of cost-effectiveness and performance. The best choice depends on your budget, desired aesthetics, and local climate conditions.",
+        "@type": "Answer",
+        "description": "Common garage trim materials include wood, PVC, fiber cement, and engineered wood, each with varying durability and maintenance requirements."
+      }
+    }
+  ],
+  "description": "Common garage trim materials include wood, PVC, fiber cement, and engineered wood, each with varying durability and maintenance requirements."
+}

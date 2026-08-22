@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-storm-damage-repair-and-general-home-renovation",
+  "name": "What's the difference between storm damage repair and general home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between storm damage repair and general home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Storm damage repair specifically addresses restoring a property to its pre-damage condition after an unexpected event like a storm. The focus is on fixing structural issues, water intrusion, mold remediation, and replacing damaged materials. General home renovation, conversely, involves elective upgrades, aesthetic improvements, or adding new features to a home, often to enhance value or lifestyle. While both involve construction, storm damage repair is reactive and driven by necessity, often covered by insurance, whereas renovation is proactive and discretionary.",
+        "@type": "Answer",
+        "description": "Storm damage repair restores a property to its pre-damage state after an event, focusing on necessary fixes; general renovation involves elective upgrades or improvements to the home."
+      }
+    }
+  ],
+  "description": "Storm damage repair restores a property to its pre-damage state after an event, focusing on necessary fixes; general renovation involves elective upgrades or im"
+}

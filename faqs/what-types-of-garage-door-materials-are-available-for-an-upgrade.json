@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-garage-door-materials-are-available-for-an-upgrade",
+  "name": "What types of garage door materials are available for an upgrade?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of garage door materials are available for an upgrade?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common garage door materials include steel, wood, aluminum, and fiberglass. Steel doors are durable, low-maintenance, and come in various styles and colors, often with insulation options. Wood doors offer a classic, natural aesthetic but require more maintenance. Aluminum doors are lightweight and rust-resistant, suitable for modern designs. Fiberglass doors are resistant to dents and rust, offering good insulation and a wide range of finishes. Your choice depends on budget, desired aesthetic, and climate considerations.",
+        "@type": "Answer",
+        "description": "Materials include steel, wood, aluminum, and fiberglass, each offering different aesthetics, durability, and maintenance needs."
+      }
+    }
+  ],
+  "description": "Materials include steel, wood, aluminum, and fiberglass, each offering different aesthetics, durability, and maintenance needs."
+}

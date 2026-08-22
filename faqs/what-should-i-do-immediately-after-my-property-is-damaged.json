@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-do-immediately-after-my-property-is-damaged",
+  "name": "What should I do immediately after my property is damaged?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after my property is damaged?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately after property damage, prioritize safety by addressing any immediate hazards like electrical risks or gas leaks. If safe, take photos or videos of the damage for insurance purposes. Stop the source of damage if possible (e.g., turn off water). Do not attempt to clean up extensive damage yourself, as it can be dangerous or worsen the situation. Contact your insurance company and a professional property restoration company like City Dweller, LLC, for emergency services and assessment.",
+        "@type": "Answer",
+        "description": "After damage, ensure safety, document damage with photos, stop the source if safe, and contact your insurance and a professional restoration company."
+      }
+    }
+  ],
+  "description": "After damage, ensure safety, document damage with photos, stop the source if safe, and contact your insurance and a professional restoration company."
+}

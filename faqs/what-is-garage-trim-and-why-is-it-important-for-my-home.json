@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-garage-trim-and-why-is-it-important-for-my-home",
+  "name": "What is garage trim and why is it important for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is garage trim and why is it important for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Garage trim, also known as fascia or frieze board, is the protective and decorative material installed around the exterior edges of your garage door frame and eaves. It covers gaps, protects against weather, moisture, and pests, and contributes significantly to your home's curb appeal. Properly installed trim prevents water damage, rot, and improves insulation, ultimately extending the life of your garage structure and enhancing its aesthetic integration with the rest of your house.",
+        "@type": "Answer",
+        "description": "Garage trim protects the garage structure from weather and pests while enhancing your home's curb appeal."
+      }
+    }
+  ],
+  "description": "Garage trim protects the garage structure from weather and pests while enhancing your home's curb appeal."
+}

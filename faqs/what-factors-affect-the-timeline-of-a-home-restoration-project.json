@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-factors-affect-the-timeline-of-a-home-restoration-project",
+  "name": "What factors affect the timeline of a home restoration project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors affect the timeline of a home restoration project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence a project's timeline, including the extent of damage, the size and complexity of the home, material availability, the need for specialized craftsmanship, and the efficiency of the permitting process. Unforeseen issues like hidden structural damage or weather delays can also extend the schedule. We prioritize clear communication regarding potential timeline impacts.",
+        "@type": "Answer",
+        "description": "Factors affecting timeline include project scope, material availability, permitting, and unforeseen issues."
+      }
+    }
+  ],
+  "description": "Factors affecting timeline include project scope, material availability, permitting, and unforeseen issues."
+}

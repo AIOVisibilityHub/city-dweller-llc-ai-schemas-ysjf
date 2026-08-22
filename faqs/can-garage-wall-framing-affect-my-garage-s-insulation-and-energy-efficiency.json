@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-garage-wall-framing-affect-my-garage-s-insulation-and-energy-efficiency",
+  "name": "Can garage wall framing affect my garage's insulation and energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can garage wall framing affect my garage's insulation and energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, garage wall framing significantly impacts insulation and energy efficiency. The stud spacing and framing method directly influence the amount of space available for insulation within the walls. Advanced framing techniques, for instance, create larger cavities for insulation and reduce thermal bridging (heat transfer through studs), leading to better thermal performance. Proper framing allows for effective insulation, which can reduce energy costs if the garage is heated or cooled, or if it shares a wall with a conditioned living space.",
+        "@type": "Answer",
+        "description": "Yes, framing affects insulation space and thermal bridging, impacting energy efficiency. Advanced framing can improve thermal performance and reduce energy costs."
+      }
+    }
+  ],
+  "description": "Yes, framing affects insulation space and thermal bridging, impacting energy efficiency. Advanced framing can improve thermal performance and reduce energy cost"
+}

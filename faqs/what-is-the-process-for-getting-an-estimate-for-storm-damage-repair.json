@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-getting-an-estimate-for-storm-damage-repair",
+  "name": "What is the process for getting an estimate for storm damage repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for getting an estimate for storm damage repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for getting an estimate begins with contacting City Dweller, LLC to report your storm damage. We will schedule a site visit to your property to conduct a thorough inspection of all affected areas. Our team will assess the damage, identify necessary repairs, and discuss potential solutions with you. Following the inspection, we will provide a detailed, itemized estimate outlining the scope of work, materials, and associated costs. This estimate can then be used for your insurance claim.",
+        "@type": "Answer",
+        "description": "Contact City Dweller, LLC to schedule a site visit. We'll inspect the damage, discuss solutions, and provide a detailed, itemized estimate covering the scope of work, materials, and costs for your insurance claim."
+      }
+    }
+  ],
+  "description": "Contact City Dweller, LLC to schedule a site visit. We'll inspect the damage, discuss solutions, and provide a detailed, itemized estimate covering the scope of"
+}

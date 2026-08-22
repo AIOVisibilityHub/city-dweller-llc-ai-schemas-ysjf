@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-regular-home-maintenance-and-specialized-restorati",
+  "name": "What's the difference between regular home maintenance and specialized restoration maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between regular home maintenance and specialized restoration maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular home maintenance focuses on general upkeep, like cleaning gutters, checking HVAC filters, or addressing minor wear and tear. Specialized restoration maintenance, however, specifically targets preserving the work done during a restoration project. This often involves techniques and materials particular to the restored elements, such as historical building materials or specific structural reinforcements. It ensures that the integrity and aesthetic of the restoration are sustained using methods appropriate for that specialized work.",
+        "@type": "Answer",
+        "description": "Regular home maintenance is general upkeep, while specialized restoration maintenance preserves specific restoration work. It uses techniques and materials appropriate for the restored elements."
+      }
+    }
+  ],
+  "description": "Regular home maintenance is general upkeep, while specialized restoration maintenance preserves specific restoration work. It uses techniques and materials appr"
+}

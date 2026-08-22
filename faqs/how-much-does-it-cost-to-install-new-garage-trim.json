@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-install-new-garage-trim",
+  "name": "How much does it cost to install new garage trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install new garage trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of garage trim installation varies based on material choice, the size of your garage, the complexity of the trim design, and local labor rates. While basic PVC trim might be less expensive, premium wood or custom designs will increase the overall investment. It's recommended to get a detailed quote tailored to your specific project needs. We provide free estimates in the Bay Area to help you understand the potential costs.",
+        "@type": "Answer",
+        "description": "Garage trim installation costs vary by material, garage size, design complexity, and local labor rates. Free estimates are available."
+      }
+    }
+  ],
+  "description": "Garage trim installation costs vary by material, garage size, design complexity, and local labor rates. Free estimates are available."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-type-of-drywall-is-best-for-a-garage",
+  "name": "What type of drywall is best for a garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of drywall is best for a garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For garages, standard drywall (regular gypsum board) is commonly used for walls and ceilings not directly adjacent to living spaces. However, for enhanced fire safety, especially in attached garages, fire-rated (Type X) drywall is often mandated by code. In areas prone to moisture, such as garages with poor ventilation or near water sources, mold-resistant drywall can be a beneficial upgrade. The 'best' type depends on your specific garage's location, intended use, and local building code requirements, balancing cost, safety, and durability.",
+        "@type": "Answer",
+        "description": "The best drywall for a garage depends on its location and use; options include standard, fire-rated (Type X) for safety, or mold-resistant for moisture-prone areas."
+      }
+    }
+  ],
+  "description": "The best drywall for a garage depends on its location and use; options include standard, fire-rated (Type X) for safety, or mold-resistant for moisture-prone ar"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-city-dweller-assist-with-temporary-repairs-to-prevent-further-damage",
+  "name": "Can City Dweller assist with temporary repairs to prevent further damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can City Dweller assist with temporary repairs to prevent further damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, absolutely. A crucial part of our emergency storm damage service is performing temporary repairs to secure your property and prevent further damage until permanent solutions can be implemented. This often includes tarping damaged roofs, boarding up broken windows, and stabilizing compromised structures. These immediate actions are vital for protecting your property from additional weather exposure, water intrusion, and potential security breaches, helping to minimize the overall repair cost and scope of work.",
+        "@type": "Answer",
+        "description": "Yes, City Dweller can perform temporary repairs like tarping roofs and boarding windows to secure your property and prevent further damage from weather or security breaches."
+      }
+    }
+  ],
+  "description": "Yes, City Dweller can perform temporary repairs like tarping roofs and boarding windows to secure your property and prevent further damage from weather or secur"
+}

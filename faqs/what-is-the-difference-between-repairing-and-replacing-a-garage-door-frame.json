@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-repairing-and-replacing-a-garage-door-frame",
+  "name": "What is the difference between repairing and replacing a garage door frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between repairing and replacing a garage door frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a garage door frame involves fixing specific damaged sections while keeping the majority of the existing structure intact. This is suitable for localized issues like minor rot, small dents, or superficial cracks. Replacing a garage door frame means removing the entire existing frame and installing a new one. This is necessary when the damage is extensive, widespread, compromises the entire frame's integrity, or when the frame's material is obsolete or irreparable. Replacement offers a fresh start but is generally more costly and time-consuming than repair.",
+        "@type": "Answer",
+        "description": "Repair fixes specific damaged sections, while replacement involves installing an entirely new frame. Repair is for localized issues; replacement is for extensive, irreparable damage."
+      }
+    }
+  ],
+  "description": "Repair fixes specific damaged sections, while replacement involves installing an entirely new frame. Repair is for localized issues; replacement is for extensiv"
+}

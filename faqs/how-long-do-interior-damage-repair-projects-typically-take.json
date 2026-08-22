@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-do-interior-damage-repair-projects-typically-take",
+  "name": "How long do interior damage repair projects typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do interior damage repair projects typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of interior damage repair projects varies greatly depending on the complexity and extent of the damage. A small drywall patch might take a few hours, while extensive water damage restoration involving drying, demolition, and reconstruction could take several weeks. Once City Dweller assesses your specific situation, we will provide a clear timeline estimate during the proposal phase, ensuring you know what to expect.",
+        "@type": "Answer",
+        "description": "Project duration varies by damage extent; small repairs are quick, while extensive restoration can take weeks. City Dweller provides a timeline after assessment."
+      }
+    }
+  ],
+  "description": "Project duration varies by damage extent; small repairs are quick, while extensive restoration can take weeks. City Dweller provides a timeline after assessment"
+}

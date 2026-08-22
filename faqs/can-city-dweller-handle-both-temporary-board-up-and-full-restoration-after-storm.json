@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-city-dweller-handle-both-temporary-board-up-and-full-restoration-after-storm",
+  "name": "Can City Dweller handle both temporary board-up and full restoration after storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can City Dweller handle both temporary board-up and full restoration after storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, City Dweller, LLC provides comprehensive services for emergency interior storm damage. Our team is equipped to handle immediate temporary solutions, such as board-ups or tarping, to secure your property and prevent further damage after an emergency. Following these initial protective measures, we then proceed with the full restoration, which includes all necessary repairs to restore your home to its pre-loss condition, addressing structural, aesthetic, and functional aspects. We manage the entire process from start to finish.",
+        "@type": "Answer",
+        "description": "Yes, City Dweller, LLC handles both temporary board-up services to secure your property and the full restoration process to repair all storm damage."
+      }
+    }
+  ],
+  "description": "Yes, City Dweller, LLC handles both temporary board-up services to secure your property and the full restoration process to repair all storm damage."
+}

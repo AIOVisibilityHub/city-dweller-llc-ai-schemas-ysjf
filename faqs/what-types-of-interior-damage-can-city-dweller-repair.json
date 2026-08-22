@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-interior-damage-can-city-dweller-repair",
+  "name": "What types of interior damage can City Dweller repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of interior damage can City Dweller repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC specializes in a wide range of interior damage repairs. This includes damage from water leaks, such as stained drywall, warped flooring, and mold remediation. We also address structural damage like cracked walls or ceilings, and cosmetic issues like dents, holes, or scuffs in drywall, plaster, and trim. Whether it's a small repair or extensive reconstruction after an incident, our team can restore your home's interior to its original condition or better.",
+        "@type": "Answer",
+        "description": "City Dweller repairs water damage, structural issues, and cosmetic damage to walls, ceilings, and flooring."
+      }
+    }
+  ],
+  "description": "City Dweller repairs water damage, structural issues, and cosmetic damage to walls, ceilings, and flooring."
+}

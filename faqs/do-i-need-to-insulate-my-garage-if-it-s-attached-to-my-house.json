@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-insulate-my-garage-if-it-s-attached-to-my-house",
+  "name": "Do I need to insulate my garage if it's attached to my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to insulate my garage if it's attached to my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Insulating an attached garage is highly recommended. Without insulation, the garage acts as a thermal bridge, allowing heat or cold from the garage to easily transfer into your main living areas, increasing your home's energy consumption. It also prevents exhaust fumes or other odors from migrating into your home and improves soundproofing between the garage and adjacent rooms. Properly insulating an attached garage helps maintain consistent indoor temperatures and improves overall home comfort and air quality.",
+        "@type": "Answer",
+        "description": "Yes, insulating an attached garage is recommended to prevent heat transfer to your home, reduce energy costs, block odors, and improve soundproofing."
+      }
+    }
+  ],
+  "description": "Yes, insulating an attached garage is recommended to prevent heat transfer to your home, reduce energy costs, block odors, and improve soundproofing."
+}

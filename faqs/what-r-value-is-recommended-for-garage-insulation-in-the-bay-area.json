@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-r-value-is-recommended-for-garage-insulation-in-the-bay-area",
+  "name": "What R-value is recommended for garage insulation in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What R-value is recommended for garage insulation in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The recommended R-value for garage insulation in the Bay Area depends on whether the garage is attached or detached, and if it's conditioned (heated/cooled) or unconditioned. For exterior walls separating conditioned space from the garage, general recommendations often align with home exterior wall R-values. For unconditioned attached garages, or detached garages, R-values between R-13 to R-19 for walls and R-25 to R-38 for ceilings are common to provide noticeable comfort and energy benefits, especially for garages used as workshops or living extensions. We can advise on specific R-value needs for your project.",
+        "@type": "Answer",
+        "description": "Recommended R-values for Bay Area garage insulation vary by attachment and conditioning, with R-13 to R-19 common for walls and R-25 to R-38 for ceilings."
+      }
+    }
+  ],
+  "description": "Recommended R-values for Bay Area garage insulation vary by attachment and conditioning, with R-13 to R-19 common for walls and R-25 to R-38 for ceilings."
+}

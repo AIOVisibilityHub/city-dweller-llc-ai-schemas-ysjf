@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-interior-damage-repair-with-city-dweller",
+  "name": "What is the typical process for interior damage repair with City Dweller?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for interior damage repair with City Dweller?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our repair process begins with an initial inspection to accurately assess the damage and determine the scope of work. We then provide a detailed estimate outlining the necessary repairs, materials, and timeline. Upon approval, our skilled technicians will proceed with the repairs, keeping you informed throughout the project. We ensure thorough cleanup and a final walkthrough to confirm your satisfaction with the restored interior.",
+        "@type": "Answer",
+        "description": "The process involves an inspection, detailed estimate, repair work, and a final walkthrough to ensure satisfaction."
+      }
+    }
+  ],
+  "description": "The process involves an inspection, detailed estimate, repair work, and a final walkthrough to ensure satisfaction."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-warranty-for-a-new-garage-door-installation",
+  "name": "What is the typical warranty for a new garage door installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical warranty for a new garage door installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Warranties for new garage door installations typically cover both the door itself and the installation labor, though terms vary by manufacturer and contractor. Manufacturer warranties for doors often range from 1 to 10 years, covering defects in materials and workmanship. Components like springs and hardware might have shorter warranties. Labor warranties from the contractor usually last for a shorter period, often 1 to 3 years, covering installation-related issues. Always clarify specific warranty details before proceeding with an upgrade.",
+        "@type": "Answer",
+        "description": "Warranties vary, typically covering door materials (1-10 years) and installation labor (1-3 years). Always confirm specifics."
+      }
+    }
+  ],
+  "description": "Warranties vary, typically covering door materials (1-10 years) and installation labor (1-3 years). Always confirm specifics."
+}

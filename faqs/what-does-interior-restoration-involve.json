@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-does-interior-restoration-involve",
+  "name": "What does interior restoration involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does interior restoration involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interior restoration rejuvenates and repairs the inside of your property, addressing issues like wear and tear, outdated designs, or damage from events such as floods or fires. It can encompass a wide range of services, including structural repairs, drywall replacement, painting, flooring installation, cabinet refacing, and fixture upgrades. The goal is to return your space to its original condition or better, often incorporating modern aesthetics and improved functionality. This process ensures your home or business not only looks its best but also maintains its structural integrity and value.",
+        "@type": "Answer",
+        "description": "Interior restoration repairs and updates the inside of your property, covering structural fixes, cosmetic improvements, and functional upgrades."
+      }
+    }
+  ],
+  "description": "Interior restoration repairs and updates the inside of your property, covering structural fixes, cosmetic improvements, and functional upgrades."
+}

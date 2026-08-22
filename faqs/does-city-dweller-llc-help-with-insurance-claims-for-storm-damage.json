@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/does-city-dweller-llc-help-with-insurance-claims-for-storm-damage",
+  "name": "Does City Dweller LLC help with insurance claims for storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does City Dweller LLC help with insurance claims for storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, City Dweller LLC has extensive experience working with insurance companies and can assist you throughout the claims process. We can help document the damage, provide detailed estimates, and communicate directly with your adjuster to ensure all necessary repairs are covered. While we cannot file the claim for you, our support aims to streamline the process, reduce your stress, and ensure your claim is handled efficiently so you can focus on getting your property restored.",
+        "@type": "Answer",
+        "description": "Yes, City Dweller LLC assists with insurance claims by documenting damage, providing estimates, and communicating with adjusters to streamline the process."
+      }
+    }
+  ],
+  "description": "Yes, City Dweller LLC assists with insurance claims by documenting damage, providing estimates, and communicating with adjusters to streamline the process."
+}

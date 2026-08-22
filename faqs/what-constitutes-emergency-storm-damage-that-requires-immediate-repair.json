@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-constitutes-emergency-storm-damage-that-requires-immediate-repair",
+  "name": "What constitutes emergency storm damage that requires immediate repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What constitutes emergency storm damage that requires immediate repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Emergency storm damage typically involves conditions that pose an immediate threat to your property's safety, security, or structural integrity. This can include a compromised roof allowing water intrusion, extensive window breakage, severe siding damage exposing the interior, or structural issues caused by fallen trees or high winds. Immediate repair is crucial to prevent further damage, mitigate safety risks, and secure your property from weather elements and potential theft. City Dweller, LLC assesses these critical issues promptly.",
+        "@type": "Answer",
+        "description": "Emergency storm damage includes immediate threats to safety, security, or structural integrity, such as compromised roofs, broken windows, or severe siding damage. Prompt repair prevents further issues and secures your property."
+      }
+    }
+  ],
+  "description": "Emergency storm damage includes immediate threats to safety, security, or structural integrity, such as compromised roofs, broken windows, or severe siding dama"
+}

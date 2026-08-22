@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-install-garage-trim",
+  "name": "How long does it take to install garage trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install garage trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of garage trim installation depends on the scope of work, including the size of the garage, the type of trim material, and whether old trim needs to be removed. A typical installation for a standard two-car garage can often be completed within one to two days. More extensive projects or those requiring custom fabrication may take longer. We aim to complete projects efficiently while maintaining high quality standards.",
+        "@type": "Answer",
+        "description": "Installation time for garage trim typically ranges from one to two days for a standard garage, depending on project scope and materials."
+      }
+    }
+  ],
+  "description": "Installation time for garage trim typically ranges from one to two days for a standard garage, depending on project scope and materials."
+}

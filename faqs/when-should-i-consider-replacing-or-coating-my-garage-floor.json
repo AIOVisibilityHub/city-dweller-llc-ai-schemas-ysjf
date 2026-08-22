@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-or-coating-my-garage-floor",
+  "name": "When should I consider replacing or coating my garage floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing or coating my garage floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing or coating your garage floor if you notice significant cracks, spalling (flaking concrete), oil stains that are difficult to remove, or if the surface is dusty and deteriorating. These issues not only detract from the garage's appearance but can also create an unsafe environment and lead to further damage. A new coating or system can protect the concrete, enhance durability, improve aesthetics, and make cleaning much easier, extending the life of your garage slab.",
+        "@type": "Answer",
+        "description": "Consider replacing or coating your garage floor if you see extensive cracks, spalling, stubborn oil stains, or a dusty, deteriorating surface."
+      }
+    }
+  ],
+  "description": "Consider replacing or coating your garage floor if you see extensive cracks, spalling, stubborn oil stains, or a dusty, deteriorating surface."
+}

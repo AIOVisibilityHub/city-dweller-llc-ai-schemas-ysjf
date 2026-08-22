@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-stay-in-my-home-during-water-damage-interior-repair",
+  "name": "Can I stay in my home during water damage interior repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home during water damage interior repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can stay in your home during water damage repair depends on the extent of the damage and the scope of work. Minor repairs, such as addressing a small leak in one room, might allow you to stay. However, if the damage is extensive, involves structural elements, requires significant drying equipment, or if there's a risk of mold or hazardous materials, it might be safer and more practical to relocate temporarily. We will assess your specific situation and advise on the safest option during the initial consultation.",
+        "@type": "Answer",
+        "description": "Staying home depends on damage severity; minor repairs might allow it, but extensive damage or health risks often require temporary relocation for safety."
+      }
+    }
+  ],
+  "description": "Staying home depends on damage severity; minor repairs might allow it, but extensive damage or health risks often require temporary relocation for safety."
+}

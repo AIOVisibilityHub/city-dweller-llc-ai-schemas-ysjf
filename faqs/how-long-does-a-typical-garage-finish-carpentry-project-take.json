@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-garage-finish-carpentry-project-take",
+  "name": "How long does a typical garage finish carpentry project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical garage finish carpentry project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a garage finish carpentry project depends on its complexity and scale. A smaller project, such as installing basic shelving or a single workbench, might take a few days. More extensive work, like a complete custom cabinet system or full wall paneling, could take anywhere from one to three weeks from initial demolition (if any) to final installation. This estimate includes design finalization, material acquisition, and on-site construction. We will provide a detailed project schedule during the planning phase.",
+        "@type": "Answer",
+        "description": "Project duration varies: a small job may take days, while extensive custom work can take one to three weeks. A detailed schedule is provided during planning."
+      }
+    }
+  ],
+  "description": "Project duration varies: a small job may take days, while extensive custom work can take one to three weeks. A detailed schedule is provided during planning."
+}

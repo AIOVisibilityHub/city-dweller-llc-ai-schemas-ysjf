@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-fire-rated-drywall-for-my-garage",
+  "name": "Do I need fire-rated drywall for my garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need fire-rated drywall for my garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building codes often require fire-rated drywall, specifically Type X, on walls and ceilings separating an attached garage from living spaces in your home. This is a critical safety measure designed to slow the spread of fire, providing occupants more time to evacuate. Even for detached garages, fire-rated drywall can offer enhanced protection for stored items. It's essential to check local building codes in Bay Area cities like Pacifica or Daly City, as requirements can vary. A professional contractor can advise on specific compliance needs for your property.",
+        "@type": "Answer",
+        "description": "Fire-rated drywall (Type X) is often required by building codes on walls separating attached garages from living areas for safety. Check local Bay Area codes."
+      }
+    }
+  ],
+  "description": "Fire-rated drywall (Type X) is often required by building codes on walls separating attached garages from living areas for safety. Check local Bay Area codes."
+}

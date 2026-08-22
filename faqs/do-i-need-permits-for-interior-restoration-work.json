@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-permits-for-interior-restoration-work",
+  "name": "Do I need permits for interior restoration work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for interior restoration work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need permits for interior restoration work depends on the scope of the project and local building codes in cities like Pacifica or South San Francisco. Minor cosmetic changes like painting or replacing flooring typically don't require permits. However, projects involving structural alterations, significant plumbing or electrical work, changes to load-bearing walls, or modifications to the building's exterior will almost always require permits. It's crucial to consult with your contractor and local building department early in the process to ensure compliance and avoid potential fines or delays.",
+        "@type": "Answer",
+        "description": "Permits are usually required for structural, plumbing, electrical, or load-bearing changes, but not for minor cosmetic updates. Always check with your contractor and local building department."
+      }
+    }
+  ],
+  "description": "Permits are usually required for structural, plumbing, electrical, or load-bearing changes, but not for minor cosmetic updates. Always check with your contracto"
+}

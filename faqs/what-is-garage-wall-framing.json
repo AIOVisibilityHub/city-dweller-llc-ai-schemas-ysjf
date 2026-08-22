@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-garage-wall-framing",
+  "name": "What is garage wall framing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is garage wall framing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Garage wall framing is the construction of the structural support system for the walls of a garage. It typically involves using lumber or metal studs to create a skeleton that defines the shape of the garage, supports the roof, and provides attachment points for finishes like drywall and siding. Proper framing ensures the stability and longevity of the garage, as well as its ability to withstand external forces like wind and seismic activity.",
+        "@type": "Answer",
+        "description": "Garage wall framing builds the structural support for the walls using studs, defining the garage's shape and supporting the roof."
+      }
+    }
+  ],
+  "description": "Garage wall framing builds the structural support for the walls using studs, defining the garage's shape and supporting the roof."
+}

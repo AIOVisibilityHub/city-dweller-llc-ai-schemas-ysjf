@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-you-offer-painting-and-finishing-services-for-new-garage-trim",
+  "name": "Do you offer painting and finishing services for new garage trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer painting and finishing services for new garage trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we offer comprehensive painting and finishing services for all new garage trim installations. After the trim is securely installed, we can prime, paint, or seal it to match your home's existing exterior or to achieve your desired aesthetic. This ensures a cohesive look and provides an additional layer of protection against the elements, extending the lifespan and beauty of your garage trim.",
+        "@type": "Answer",
+        "description": "Yes, we provide painting, priming, or sealing services for new garage trim to match your home's exterior and provide weather protection."
+      }
+    }
+  ],
+  "description": "Yes, we provide painting, priming, or sealing services for new garage trim to match your home's exterior and provide weather protection."
+}

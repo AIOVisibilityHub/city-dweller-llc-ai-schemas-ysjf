@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-restoration-and-remodeling",
+  "name": "What is the difference between restoration and remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between restoration and remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Restoration focuses on repairing and returning a damaged property to its original or pre-damaged condition, often after events like floods or fires. This involves replicating existing styles and materials. Remodeling, conversely, involves changing the structure, layout, or aesthetics of a space to update it, improve functionality, or change its design. While both involve construction, restoration prioritizes historical accuracy or original condition, whereas remodeling aims for modernization or transformation.",
+        "@type": "Answer",
+        "description": "Restoration returns a property to its original state after damage, while remodeling updates or changes its design and functionality."
+      }
+    }
+  ],
+  "description": "Restoration returns a property to its original state after damage, while remodeling updates or changes its design and functionality."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-water-damage-repair-take",
+  "name": "How long does water damage repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does water damage repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of water damage repair varies greatly depending on the extent and severity of the damage, the size of the affected area, and the materials involved. Minor issues might take a few days for drying and cosmetic repairs, while extensive damage requiring structural work or mold remediation could take several weeks. Factors like drying times, material availability, and necessary permits can also influence the timeline. We provide an estimated timeline after a thorough initial assessment.",
+        "@type": "Answer",
+        "description": "Repair time varies from a few days for minor issues to several weeks for extensive damage, depending on severity, affected area, and necessary work."
+      }
+    }
+  ],
+  "description": "Repair time varies from a few days for minor issues to several weeks for extensive damage, depending on severity, affected area, and necessary work."
+}

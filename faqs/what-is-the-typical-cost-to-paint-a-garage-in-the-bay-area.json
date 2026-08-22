@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-to-paint-a-garage-in-the-bay-area",
+  "name": "What is the typical cost to paint a garage in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to paint a garage in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to paint a garage in the Bay Area varies significantly based on factors like size, surface condition, type of paint (e.g., standard latex for walls, epoxy for floors), and labor rates. For interior walls and ceiling, a two-car garage might range from $800 to $2,500. If a professional floor epoxy coating is included, the cost could increase to $2,000 - $5,000 or more, depending on the system chosen and floor preparation required. Getting a detailed estimate for your specific project is recommended.",
+        "@type": "Answer",
+        "description": "The cost to paint a garage in the Bay Area varies, typically $800-$2,500 for walls/ceiling and potentially $2,000-$5,000+ with floor epoxy."
+      }
+    }
+  ],
+  "description": "The cost to paint a garage in the Bay Area varies, typically $800-$2,500 for walls/ceiling and potentially $2,000-$5,000+ with floor epoxy."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-property-restoration-typically-take",
+  "name": "How long does property restoration typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does property restoration typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of property restoration varies greatly depending on the type and severity of the damage. Minor water damage might be resolved in a few days to a week, while extensive fire or flood damage requiring structural repairs and reconstruction could take several weeks or even months. Factors like drying times, material availability, and the scope of necessary repairs all influence the timeline. A detailed assessment from a restoration company can provide a more accurate estimate for your specific situation.",
+        "@type": "Answer",
+        "description": "Restoration time varies by damage type and severity. Minor issues can take days, while extensive damage may take weeks or months."
+      }
+    }
+  ],
+  "description": "Restoration time varies by damage type and severity. Minor issues can take days, while extensive damage may take weeks or months."
+}

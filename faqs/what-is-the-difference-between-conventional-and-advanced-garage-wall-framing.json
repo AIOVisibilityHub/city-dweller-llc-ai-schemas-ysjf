@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-conventional-and-advanced-garage-wall-framing",
+  "name": "What is the difference between conventional and advanced garage wall framing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between conventional and advanced garage wall framing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Conventional framing often uses more lumber, with studs placed every 16 inches on center and multiple jack studs around openings. Advanced framing, also known as optimum value engineering (OVE), optimizes material use by spacing studs 24 inches on center, using single top plates, and aligning studs above and below openings. Advanced framing can reduce material costs, labor, and improve energy efficiency by creating more space for insulation, without compromising structural integrity when correctly engineered.",
+        "@type": "Answer",
+        "description": "Conventional framing uses more lumber and closer stud spacing, while advanced framing optimizes material use for cost savings and better insulation."
+      }
+    }
+  ],
+  "description": "Conventional framing uses more lumber and closer stud spacing, while advanced framing optimizes material use for cost savings and better insulation."
+}

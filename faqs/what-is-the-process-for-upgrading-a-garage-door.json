@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-upgrading-a-garage-door",
+  "name": "What is the process for upgrading a garage door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for upgrading a garage door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The upgrade process typically begins with a consultation to discuss your needs, preferences, and budget, followed by material and style selection. Once chosen, measurements are taken to ensure a perfect fit. The old garage door and opener system are then carefully removed. Next, the new track system is installed, followed by the new garage door panels. Finally, the new garage door opener is installed and adjusted, and the entire system is tested for proper function and safety. The site is cleaned up upon completion.",
+        "@type": "Answer",
+        "description": "The process involves consultation, material selection, measurement, old door removal, new door and opener installation, and final testing."
+      }
+    }
+  ],
+  "description": "The process involves consultation, material selection, measurement, old door removal, new door and opener installation, and final testing."
+}

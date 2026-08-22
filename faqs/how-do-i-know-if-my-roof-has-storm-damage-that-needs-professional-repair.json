@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-my-roof-has-storm-damage-that-needs-professional-repair",
+  "name": "How do I know if my roof has storm damage that needs professional repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my roof has storm damage that needs professional repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a storm, look for missing, cracked, or bruised shingles, especially if you have an asphalt roof. Check for granules in your gutters, which indicate shingle wear. Inside your home, signs like water stains on ceilings or walls point to a potential leak. Even subtle damage can lead to significant problems over time, so if you notice any of these indicators or suspect damage, it's best to contact a professional for a thorough inspection. City Dweller LLC offers expert assessments.",
+        "@type": "Answer",
+        "description": "Look for missing shingles, gutter granules, or water stains on ceilings. If you suspect damage, a professional inspection is recommended."
+      }
+    }
+  ],
+  "description": "Look for missing shingles, gutter granules, or water stains on ceilings. If you suspect damage, a professional inspection is recommended."
+}

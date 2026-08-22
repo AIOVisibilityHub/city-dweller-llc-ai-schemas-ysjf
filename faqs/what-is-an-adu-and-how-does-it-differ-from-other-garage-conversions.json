@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-an-adu-and-how-does-it-differ-from-other-garage-conversions",
+  "name": "What is an ADU and how does it differ from other garage conversions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an ADU and how does it differ from other garage conversions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An Accessory Dwelling Unit (ADU) is a self-contained living unit on the same property as a primary home, complete with its own kitchen, bathroom, and sleeping area. Other garage conversions might transform the space into an office, gym, or extra bedroom that remains integrated with the main house and lacks independent facilities. ADUs often have more stringent building code requirements due to their independent living function, impacting design and utility connections.",
+        "@type": "Answer",
+        "description": "An ADU is a self-contained living unit with a kitchen and bathroom, unlike other conversions which may be integrated spaces without full independent facilities."
+      }
+    }
+  ],
+  "description": "An ADU is a self-contained living unit with a kitchen and bathroom, unlike other conversions which may be integrated spaces without full independent facilities."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-or-upgrading-my-garage-trim",
+  "name": "When should I consider replacing or upgrading my garage trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing or upgrading my garage trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing or upgrading your garage trim if you notice signs of rot, cracking, peeling paint, insect damage, or if the trim is loose or missing. These issues can compromise your home's protection against moisture and pests. Upgrading trim can also be part of a larger exterior renovation to improve your home's overall appearance and energy efficiency. Proactive replacement can prevent more extensive and costly damage down the line.",
+        "@type": "Answer",
+        "description": "Replace or upgrade garage trim if you see signs of rot, cracking, insect damage, or if it's loose, to protect your home and improve curb appeal."
+      }
+    }
+  ],
+  "description": "Replace or upgrade garage trim if you see signs of rot, cracking, insect damage, or if it's loose, to protect your home and improve curb appeal."
+}

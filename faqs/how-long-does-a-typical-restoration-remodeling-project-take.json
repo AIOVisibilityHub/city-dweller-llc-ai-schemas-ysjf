@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-restoration-remodeling-project-take",
+  "name": "How long does a typical restoration remodeling project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical restoration remodeling project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a restoration remodeling project varies significantly based on the extent of damage, the size of the area, and the complexity of the desired changes. A small water damage restoration might take a few weeks, while extensive fire or seismic damage involving structural repairs and multiple rooms could extend to several months. We provide a detailed timeline after a thorough assessment of your property and project scope. Unexpected issues discovered during the process can also affect timelines.",
+        "@type": "Answer",
+        "description": "Project length varies greatly based on damage extent and project scope, from weeks for minor issues to several months for extensive structural repairs."
+      }
+    }
+  ],
+  "description": "Project length varies greatly based on damage extent and project scope, from weeks for minor issues to several months for extensive structural repairs."
+}

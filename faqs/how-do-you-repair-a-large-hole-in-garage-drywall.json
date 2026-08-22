@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-you-repair-a-large-hole-in-garage-drywall",
+  "name": "How do you repair a large hole in garage drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you repair a large hole in garage drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a large hole in garage drywall typically involves cutting out the damaged section to create a clean, square opening. A new piece of drywall, cut to match the opening, is then installed and secured to framing or with backing strips. Joint compound is applied in multiple layers over the seams and screws, feathered out for a smooth transition. Finally, the area is sanded smooth and prepared for priming and painting.",
+        "@type": "Answer",
+        "description": "Large holes are repaired by cutting out the damaged area, installing a new drywall patch, and applying joint compound for a seamless finish."
+      }
+    }
+  ],
+  "description": "Large holes are repaired by cutting out the damaged area, installing a new drywall patch, and applying joint compound for a seamless finish."
+}

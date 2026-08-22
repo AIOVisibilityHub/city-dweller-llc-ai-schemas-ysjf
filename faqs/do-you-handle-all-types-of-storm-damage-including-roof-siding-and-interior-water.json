@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-you-handle-all-types-of-storm-damage-including-roof-siding-and-interior-water",
+  "name": "Do you handle all types of storm damage, including roof, siding, and interior water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you handle all types of storm damage, including roof, siding, and interior water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC is a general contractor experienced in addressing a comprehensive range of storm-related damages. This includes roof damage (shingle, tile, flat roofs), damaged siding, broken windows, and interior water damage, such as drywall repair, flooring restoration, and mold remediation (if present). Our team can manage the entire repair process, ensuring all affected areas of your property are restored to their pre-storm condition or better, coordinating all necessary trades.",
+        "@type": "Answer",
+        "description": "Yes, City Dweller, LLC handles all types of storm damage, including roofs, siding, windows, and interior water damage. We manage the entire repair process to restore your property."
+      }
+    }
+  ],
+  "description": "Yes, City Dweller, LLC handles all types of storm damage, including roofs, siding, windows, and interior water damage. We manage the entire repair process to re"
+}

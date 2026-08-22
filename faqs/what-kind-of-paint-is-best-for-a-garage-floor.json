@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-paint-is-best-for-a-garage-floor",
+  "name": "What kind of paint is best for a garage floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of paint is best for a garage floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For garage floors, epoxy-based paints are generally recommended due to their durability and resistance to chemicals, oil, and hot tire pickup. These typically come as 1-part or 2-part systems. A 2-part epoxy offers superior protection and longevity, ideal for high-traffic garages. Concrete sealers or stains can also be used for a less demanding finish, providing protection and improving appearance without the same level of wear resistance. The best choice depends on your garage's usage and desired lifespan.",
+        "@type": "Answer",
+        "description": "Epoxy-based paints, especially 2-part systems, are best for garage floors due to their durability and resistance to chemicals and hot tires."
+      }
+    }
+  ],
+  "description": "Epoxy-based paints, especially 2-part systems, are best for garage floors due to their durability and resistance to chemicals and hot tires."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-restoration-maintenance-and-why-is-it-important-for-my-property",
+  "name": "What is restoration maintenance and why is it important for my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is restoration maintenance and why is it important for my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Restoration maintenance involves ongoing care and preventative measures to preserve the integrity and appearance of a property after initial restoration work. This includes regular inspections, minor repairs, cleaning, and material upkeep. It's crucial because it extends the lifespan of restored elements, prevents small issues from escalating into major problems, and protects your investment. Neglecting maintenance can lead to further damage, requiring more extensive and costly repairs down the line.",
+        "@type": "Answer",
+        "description": "Restoration maintenance is ongoing care after restoration to preserve property integrity and appearance. It's important to extend lifespan, prevent costly damage, and protect your investment."
+      }
+    }
+  ],
+  "description": "Restoration maintenance is ongoing care after restoration to preserve property integrity and appearance. It's important to extend lifespan, prevent costly damag"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-frame-garage-walls",
+  "name": "How much does it cost to frame garage walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to frame garage walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of garage wall framing varies widely depending on factors like the size of the garage, material chosen (wood vs. steel), labor rates in the Bay Area, and the complexity of the design. A simple, detached garage will generally be less expensive than an attached garage requiring more integration with the existing structure. It's best to obtain a detailed estimate from a local contractor after they assess your specific project plans. This estimate will include material and labor costs.",
+        "@type": "Answer",
+        "description": "Cost depends on garage size, materials, Bay Area labor rates, and design complexity. Obtain a detailed estimate from a local contractor."
+      }
+    }
+  ],
+  "description": "Cost depends on garage size, materials, Bay Area labor rates, and design complexity. Obtain a detailed estimate from a local contractor."
+}

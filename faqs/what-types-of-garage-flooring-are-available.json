@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-garage-flooring-are-available",
+  "name": "What types of garage flooring are available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of garage flooring are available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common garage flooring options include epoxy coatings, polyaspartic coatings, and interlocking tiles. Epoxy offers durability and resistance to chemicals, while polyaspartic provides faster cure times and excellent UV stability, making it suitable for sun-exposed garages. Interlocking tiles are a DIY-friendly option, offering modularity and easy replacement, though they may not provide the same seamless protection as coatings. Each type has distinct benefits regarding longevity, appearance, and maintenance.",
+        "@type": "Answer",
+        "description": "Common garage flooring options are epoxy coatings, polyaspartic coatings, and interlocking tiles, each offering different benefits in durability and application."
+      }
+    }
+  ],
+  "description": "Common garage flooring options are epoxy coatings, polyaspartic coatings, and interlocking tiles, each offering different benefits in durability and application"
+}

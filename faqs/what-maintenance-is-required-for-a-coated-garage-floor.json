@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-maintenance-is-required-for-a-coated-garage-floor",
+  "name": "What maintenance is required for a coated garage floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a coated garage floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintaining a coated garage floor is generally straightforward and requires minimal effort. Regular cleaning with a soft-bristle broom or a dust mop is usually sufficient to remove loose debris. For spills or dirt, a mild detergent and water, followed by a rinse, will keep the surface clean. Avoid using abrasive cleaners, steel wool, or harsh chemicals that could damage the coating. Promptly cleaning up oil or chemical spills will preserve the integrity and appearance of your floor for many years.",
+        "@type": "Answer",
+        "description": "Maintain a coated garage floor with regular sweeping and occasional cleaning using mild detergent and water, avoiding abrasive cleaners."
+      }
+    }
+  ],
+  "description": "Maintain a coated garage floor with regular sweeping and occasional cleaning using mild detergent and water, avoiding abrasive cleaners."
+}

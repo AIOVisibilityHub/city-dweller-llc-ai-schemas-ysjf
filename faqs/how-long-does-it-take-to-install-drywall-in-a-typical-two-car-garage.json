@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-install-drywall-in-a-typical-two-car-garage",
+  "name": "How long does it take to install drywall in a typical two-car garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install drywall in a typical two-car garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration for drywall installation in a two-car garage can vary depending on factors like the garage's size, ceiling height, condition of the existing framing, and the number of corners or obstacles. Generally, for a professional team, the process from hanging the sheets to taping, mudding, and sanding can take anywhere from 3 to 7 days. This estimate accounts for drying times between mud coats, which are crucial for a smooth finish. Larger garages or those requiring extensive preparation might take longer.",
+        "@type": "Answer",
+        "description": "Installing drywall in a typical two-car garage usually takes 3 to 7 days, depending on size, complexity, and drying times for mudding."
+      }
+    }
+  ],
+  "description": "Installing drywall in a typical two-car garage usually takes 3 to 7 days, depending on size, complexity, and drying times for mudding."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-water-damage-interior-repair",
+  "name": "What is water damage interior repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is water damage interior repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water damage interior repair involves restoring the inside of your home after incidents like leaks, floods, or burst pipes. This process includes identifying the water source, assessing the extent of damage to materials like drywall, flooring, and insulation, then drying, cleaning, and sanitizing affected areas. It can also involve removing damaged materials, making structural repairs, and finally, restoring the aesthetics of your interior space to its pre-damage condition. Our goal is to prevent mold growth and ensure the structural integrity and safety of your home.",
+        "@type": "Answer",
+        "description": "Water damage interior repair restores the inside of your home after leaks or floods, addressing damaged materials, drying, and structural repairs to prevent mold and ensure safety."
+      }
+    }
+  ],
+  "description": "Water damage interior repair restores the inside of your home after leaks or floods, addressing damaged materials, drying, and structural repairs to prevent mol"
+}

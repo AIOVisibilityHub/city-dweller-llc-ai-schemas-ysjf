@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-preparation-is-needed-before-painting-a-garage",
+  "name": "What preparation is needed before painting a garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before painting a garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper preparation is crucial for a lasting paint job. This includes clearing out the garage, cleaning all surfaces thoroughly to remove dirt, grease, and cobwebs. For walls and ceilings, minor repairs like patching holes and cracks, followed by sanding and priming, are essential. For floors, pressure washing or etching may be needed to ensure proper adhesion, especially for concrete. Any loose paint should be scraped, and mildew treated. Masking off areas not to be painted also prevents overspray.",
+        "@type": "Answer",
+        "description": "Preparation includes clearing the garage, thoroughly cleaning all surfaces, patching holes and cracks, and potentially priming or etching for floors."
+      }
+    }
+  ],
+  "description": "Preparation includes clearing the garage, thoroughly cleaning all surfaces, patching holes and cracks, and potentially priming or etching for floors."
+}

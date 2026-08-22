@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-call-a-professional-for-interior-damage-instead-of-attempting-diy",
+  "name": "When should I call a professional for interior damage instead of attempting DIY repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for interior damage instead of attempting DIY repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for interior damage when the issue is beyond minor cosmetic fixes or if you suspect underlying problems like water intrusion, structural compromise, or potential mold growth. Professionals like City Dweller have the experience, tools, and knowledge to correctly identify the source of damage, perform durable repairs, and address hidden issues that DIY attempts might miss, preventing more costly problems down the line.",
+        "@type": "Answer",
+        "description": "Call a professional for interior damage that is extensive, involves water, structural concerns, or potential mold, as DIY may miss critical issues."
+      }
+    }
+  ],
+  "description": "Call a professional for interior damage that is extensive, involves water, structural concerns, or potential mold, as DIY may miss critical issues."
+}

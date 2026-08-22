@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-permit-for-garage-storage-renovations-in-cities-like-pacifica-or-dal",
+  "name": "Do I need a permit for garage storage renovations in cities like Pacifica or Daly City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for garage storage renovations in cities like Pacifica or Daly City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Typically, minor garage storage improvements like installing shelves, cabinets, or overhead racks do not require a building permit in cities such as Pacifica or Daly City. Permits are generally needed for structural changes, significant electrical or plumbing work, or alterations that affect the building's footprint or exterior. If your storage project involves modifying walls, adding new electrical outlets, or converting part of the garage into habitable space, then a permit would likely be required. Always consult with your general contractor or local planning department to confirm specific requirements for your project.",
+        "@type": "Answer",
+        "description": "Minor installations usually don't require permits, but structural changes or significant electrical work might. Always check with local planning departments."
+      }
+    }
+  ],
+  "description": "Minor installations usually don't require permits, but structural changes or significant electrical work might. Always check with local planning departments."
+}

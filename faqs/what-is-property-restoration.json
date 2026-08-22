@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-property-restoration",
+  "name": "What is property restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is property restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Property restoration involves repairing and rebuilding a property after damage from events like water, fire, or mold. It goes beyond simple repairs, often requiring specialized techniques to restore the structure and contents to their pre-damage condition. This includes services such as emergency board-up, water extraction, structural drying, smoke and soot removal, mold remediation, and reconstruction. The goal is to make the property safe, habitable, and visually appealing again, addressing both visible and hidden damage.",
+        "@type": "Answer",
+        "description": "Property restoration repairs and rebuilds a property after damage from events like water, fire, or mold, restoring it to its pre-damage condition."
+      }
+    }
+  ],
+  "description": "Property restoration repairs and rebuilds a property after damage from events like water, fire, or mold, restoring it to its pre-damage condition."
+}

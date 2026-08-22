@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-permit-for-garage-wall-framing-in-the-bay-area",
+  "name": "Do I need a permit for garage wall framing in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for garage wall framing in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in most Bay Area cities, any new garage construction or significant structural modification to an existing garage, including wall framing, will require a building permit. Permitting ensures that the structure meets local safety, seismic, and zoning codes specific to your municipality (e.g., Pacifica, Daly City). Your contractor will typically handle the permit application process or guide you through it. Always confirm requirements with your local building department.",
+        "@type": "Answer",
+        "description": "Yes, new garage construction or major structural modifications, including framing, typically require a building permit in Bay Area cities like Pacifica or Daly City."
+      }
+    }
+  ],
+  "description": "Yes, new garage construction or major structural modifications, including framing, typically require a building permit in Bay Area cities like Pacifica or Daly"
+}

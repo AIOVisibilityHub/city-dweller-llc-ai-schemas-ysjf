@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-an-interior-restoration-project",
+  "name": "What is the process for an interior restoration project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for an interior restoration project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The interior restoration process typically begins with an initial consultation and assessment to understand your goals and inspect the site. This leads to a detailed proposal and design plan, including material selections. Once approved, necessary permits are secured. Demolition and structural repairs follow, if needed, before proceeding with rough-ins for plumbing and electrical. Finishing stages include drywall, flooring, painting, and installing fixtures. The project concludes with a final walkthrough to ensure your complete satisfaction. Communication is maintained throughout each phase.",
+        "@type": "Answer",
+        "description": "The process involves consultation, proposal, permits, demolition, structural work, rough-ins, finishing, and a final walkthrough."
+      }
+    }
+  ],
+  "description": "The process involves consultation, proposal, permits, demolition, structural work, rough-ins, finishing, and a final walkthrough."
+}

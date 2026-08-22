@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-replace-just-a-section-of-my-garage-door-or-do-i-need-a-whole-new-door",
+  "name": "Can I replace just a section of my garage door, or do I need a whole new door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace just a section of my garage door, or do I need a whole new door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can replace just a section of your garage door depends on several factors, including the age and model of your door, the availability of matching panels, and the extent of the damage. For minor damage to a single panel on a relatively new door, a section replacement might be possible and more cost-effective. However, if the door is older, the exact panel might be hard to find, or if multiple sections are damaged, it's often more practical and aesthetically pleasing to replace the entire door. A full replacement also ensures uniform appearance and consistent performance.",
+        "@type": "Answer",
+        "description": "Replacing just a section depends on your door's age, model, panel availability, and damage extent. For older or multi-section damage, a full door replacement is often more practical for consistent appearance and performance."
+      }
+    }
+  ],
+  "description": "Replacing just a section depends on your door's age, model, panel availability, and damage extent. For older or multi-section damage, a full door replacement is"
+}

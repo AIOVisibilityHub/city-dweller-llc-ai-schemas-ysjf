@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-my-existing-garage-door",
+  "name": "When should I consider replacing my existing garage door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my existing garage door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your garage door if it shows significant signs of wear and tear, such as severe dents, rust, or cracks that compromise its integrity or appearance. Frequent malfunctions, excessive noise during operation, or a door that struggles to open or close smoothly are also indicators. If your door lacks modern safety features, provides poor insulation leading to higher energy bills, or simply doesn't enhance your home's curb appeal, replacement is a worthwhile consideration. A new door can improve safety, energy efficiency, and property value.",
+        "@type": "Answer",
+        "description": "Consider replacing your garage door if it has severe damage, frequent malfunctions, excessive noise, lacks modern safety features, or offers poor insulation. A new door improves safety, efficiency, and curb appeal."
+      }
+    }
+  ],
+  "description": "Consider replacing your garage door if it has severe damage, frequent malfunctions, excessive noise, lacks modern safety features, or offers poor insulation. A"
+}

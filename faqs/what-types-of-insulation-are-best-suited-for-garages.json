@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-insulation-are-best-suited-for-garages",
+  "name": "What types of insulation are best suited for garages?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of insulation are best suited for garages?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common insulation types for garages include fiberglass batts, rigid foam boards, and blown-in cellulose or fiberglass. Fiberglass batts are a popular, cost-effective choice for walls and ceilings. Rigid foam boards offer high R-values in thinner profiles, ideal for walls or garage doors where space is limited. Blown-in insulation is excellent for filling irregular spaces and can achieve good thermal performance. The best type for your garage depends on factors like the garage's construction, desired R-value, budget, and climate considerations.",
+        "@type": "Answer",
+        "description": "Fiberglass batts, rigid foam boards, and blown-in cellulose are common garage insulation types; the best choice depends on construction, R-value, budget, and climate."
+      }
+    }
+  ],
+  "description": "Fiberglass batts, rigid foam boards, and blown-in cellulose are common garage insulation types; the best choice depends on construction, R-value, budget, and cl"
+}

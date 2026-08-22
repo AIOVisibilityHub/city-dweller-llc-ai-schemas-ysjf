@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-contractor-for-my-restoration-remodeling-project",
+  "name": "How do I choose the right contractor for my restoration remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my restoration remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for restoration remodeling, look for experience with similar projects, valid licensing and insurance, and strong references. Verify their understanding of local building codes, especially for seismic or historical properties in the Bay Area. A good contractor provides clear communication, transparent pricing, and a detailed project plan. Ask about their process for handling unexpected issues and their warranty on work. Trust and clear communication are key.",
+        "@type": "Answer",
+        "description": "Choose a contractor with experience, proper licensing, insurance, strong references, clear communication, and a detailed project plan, especially for Bay Area specifics."
+      }
+    }
+  ],
+  "description": "Choose a contractor with experience, proper licensing, insurance, strong references, clear communication, and a detailed project plan, especially for Bay Area s"
+}

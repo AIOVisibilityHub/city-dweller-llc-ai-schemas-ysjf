@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-average-cost-to-install-a-new-garage-door",
+  "name": "What is the average cost to install a new garage door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to install a new garage door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a new garage door installation varies significantly based on factors such as the door material, style, size, insulation level, and the type of opener chosen. For instance, a basic steel door will be less expensive than a custom wood or full-view glass door. Labor costs are also a factor. While providing a precise average is difficult without specific project details, most installations in the Bay Area can range from $1,000 to $5,000 or more. We offer free estimates to give you an accurate quote for your specific needs.",
+        "@type": "Answer",
+        "description": "Garage door installation costs vary based on material, style, size, insulation, and opener type. Most Bay Area installations range from $1,000 to $5,000+. We provide free estimates for accurate pricing."
+      }
+    }
+  ],
+  "description": "Garage door installation costs vary based on material, style, size, insulation, and opener type. Most Bay Area installations range from $1,000 to $5,000+. We pr"
+}

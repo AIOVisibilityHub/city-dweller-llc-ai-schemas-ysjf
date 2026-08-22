@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-i-have-water-damage-inside-my-walls",
+  "name": "How do I know if I have water damage inside my walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I have water damage inside my walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of hidden water damage can include discolored or bulging drywall, peeling paint, a persistent musty odor, or increased utility bills indicating a leak. Soft spots on floors or ceilings, warped wood, or the presence of mold spores are also strong indicators. If you suspect an issue, it's crucial to investigate promptly. Our team uses specialized moisture detection equipment to identify hidden water intrusion and assess the full extent of the damage, even when it's not visible.",
+        "@type": "Answer",
+        "description": "Look for discolored walls, peeling paint, musty odors, or soft spots. Professional assessment with moisture detection tools can confirm hidden water damage."
+      }
+    }
+  ],
+  "description": "Look for discolored walls, peeling paint, musty odors, or soft spots. Professional assessment with moisture detection tools can confirm hidden water damage."
+}

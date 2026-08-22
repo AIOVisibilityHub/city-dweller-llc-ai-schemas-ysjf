@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-interior-restoration-project-take",
+  "name": "How long does a typical interior restoration project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical interior restoration project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an interior restoration project varies significantly depending on the scope and complexity of the work. Minor cosmetic updates, like painting a single room, might take a few days. More extensive projects involving multiple rooms, structural repairs, or significant layout changes could span several weeks to a few months. Factors influencing the timeline include material availability, inspection schedules, and the size of the crew. A detailed project plan and timeline can be provided after an initial assessment of your specific needs.",
+        "@type": "Answer",
+        "description": "Project duration depends on scope; minor work takes days, while extensive renovations can take weeks to months."
+      }
+    }
+  ],
+  "description": "Project duration depends on scope; minor work takes days, while extensive renovations can take weeks to months."
+}
