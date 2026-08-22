@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-you-help-identify-potential-fall-hazards-in-an-existing-bedroom-layout",
+  "name": "Can you help identify potential fall hazards in an existing bedroom layout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you help identify potential fall hazards in an existing bedroom layout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, our safety assessment service includes identifying potential fall hazards in existing bedroom layouts. We look for common issues such as inadequate lighting, loose rugs, obstacles in pathways, and uneven flooring transitions. We also assess furniture placement for clear access and recommend solutions like adding grab bars near beds, improving lighting, securing carpets, or modifying room layouts to create safer movement paths. Our goal is to provide practical recommendations that enhance mobility and reduce the risk of falls, especially important for elderly residents or those with mobility concerns.",
+        "@type": "Answer",
+        "description": "We identify fall hazards like poor lighting, loose rugs, or obstacles, and recommend solutions such as improved lighting, securing carpets, or modifying room layouts."
+      }
+    }
+  ],
+  "description": "We identify fall hazards like poor lighting, loose rugs, or obstacles, and recommend solutions such as improved lighting, securing carpets, or modifying room la"
+}

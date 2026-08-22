@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-consider-when-choosing-lighting-fixtures-for-my-living-room",
+  "name": "What should I consider when choosing lighting fixtures for my living room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing lighting fixtures for my living room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting living room lighting fixtures, consider the room's primary uses, desired ambiance, and existing decor. Think about layering light – general (e.g., recessed), task (e.g., floor lamps for reading), and accent (e.g., track lights for art). Evaluate bulb type (LED, incandescent, fluorescent) for energy efficiency and light temperature (warm white, cool white). The fixture's style, size, and finish should complement the room's aesthetic. Dimmers are a valuable addition for versatility.",
+        "@type": "Answer",
+        "description": "Consider the room's use, desired ambiance, and existing decor. Focus on layering light types, bulb efficiency and temperature, and the fixture's style, size, and finish."
+      }
+    }
+  ],
+  "description": "Consider the room's use, desired ambiance, and existing decor. Focus on layering light types, bulb efficiency and temperature, and the fixture's style, size, an"
+}

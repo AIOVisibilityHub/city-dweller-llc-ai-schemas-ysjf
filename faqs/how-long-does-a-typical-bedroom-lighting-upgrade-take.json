@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-bedroom-lighting-upgrade-take",
+  "name": "How long does a typical bedroom lighting upgrade take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bedroom lighting upgrade take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a bedroom lighting upgrade depends on its complexity. A simple replacement of existing fixtures can often be completed within half a day to a full day. More involved projects, such as installing new recessed lighting, adding dimmers, or rerouting electrical lines, might take one to three days. If the project requires extensive rewiring or an electrical panel upgrade, it could extend to several days. We provide a detailed timeline in our project proposal, ensuring you know what to expect.",
+        "@type": "Answer",
+        "description": "A simple bedroom lighting upgrade takes half to one day, while more complex projects involving new wiring or recessed lighting can take one to three days or more."
+      }
+    }
+  ],
+  "description": "A simple bedroom lighting upgrade takes half to one day, while more complex projects involving new wiring or recessed lighting can take one to three days or mor"
+}

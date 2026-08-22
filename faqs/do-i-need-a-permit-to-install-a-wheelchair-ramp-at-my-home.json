@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-permit-to-install-a-wheelchair-ramp-at-my-home",
+  "name": "Do I need a permit to install a wheelchair ramp at my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to install a wheelchair ramp at my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many Bay Area cities, including South San Francisco and Brisbane, installing a permanent wheelchair ramp may require a building permit. This is to ensure the ramp meets structural safety requirements and complies with local accessibility standards. The need for a permit often depends on the ramp's size, permanence, and whether it alters the structure of your home. Portable or temporary ramps typically do not require permits. We can assist in determining if a permit is needed for your specific project and manage the application process.",
+        "@type": "Answer",
+        "description": "A building permit may be required for permanent wheelchair ramps in many Bay Area cities to ensure structural safety and compliance with local standards. We can help with this process."
+      }
+    }
+  ],
+  "description": "A building permit may be required for permanent wheelchair ramps in many Bay Area cities to ensure structural safety and compliance with local standards. We can"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-living-room-pathway-clearance",
+  "name": "What is living room pathway clearance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is living room pathway clearance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Living room pathway clearance refers to ensuring unobstructed routes within your living space. This involves arranging furniture and decor to create clear paths for movement, typically maintaining a minimum width of 30-36 inches for main thoroughfares. Proper clearance improves safety, accessibility, and the overall flow of the room, preventing trips and making the space feel more open and functional for residents and guests.",
+        "@type": "Answer",
+        "description": "Living room pathway clearance means arranging furniture to create clear, unobstructed paths for movement, typically 30-36 inches wide."
+      }
+    }
+  ],
+  "description": "Living room pathway clearance means arranging furniture to create clear, unobstructed paths for movement, typically 30-36 inches wide."
+}

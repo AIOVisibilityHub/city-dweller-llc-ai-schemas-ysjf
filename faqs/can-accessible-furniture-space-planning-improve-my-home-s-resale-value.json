@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-accessible-furniture-space-planning-improve-my-home-s-resale-value",
+  "name": "Can accessible furniture space planning improve my home's resale value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can accessible furniture space planning improve my home's resale value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While not a primary driver for all buyers, accessible features can increase a home's appeal and resale value, particularly in areas with an aging population or for buyers seeking universal design. Homes that are thoughtfully planned for accessibility can attract a broader market, as they offer long-term comfort and safety for diverse needs. It signals a well-considered and future-proofed property.",
+        "@type": "Answer",
+        "description": "Yes, accessible planning can broaden appeal and potentially increase resale value, especially to those seeking universal design or future-proofed homes."
+      }
+    }
+  ],
+  "description": "Yes, accessible planning can broaden appeal and potentially increase resale value, especially to those seeking universal design or future-proofed homes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-there-grants-or-financial-aid-available-for-accessible-home-modifications",
+  "name": "Are there grants or financial aid available for accessible home modifications?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there grants or financial aid available for accessible home modifications?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While City Dweller, LLC does not directly provide grants, there are various potential sources of financial assistance for accessible home modifications. These can include federal programs, state-specific initiatives (which may vary within California), local non-profit organizations, and sometimes even insurance policies or veteran benefits. It's recommended to research government agencies like HUD or local Area Agencies on Aging, as well as disability advocacy groups in the Bay Area, to identify programs that might offer support for accessibility upgrades.",
+        "@type": "Answer",
+        "description": "While we don't provide grants, financial aid for accessible home modifications may be available through federal or state programs, local non-profits, or veteran benefits. Research government and advocacy groups for options."
+      }
+    }
+  ],
+  "description": "While we don't provide grants, financial aid for accessible home modifications may be available through federal or state programs, local non-profits, or veteran"
+}

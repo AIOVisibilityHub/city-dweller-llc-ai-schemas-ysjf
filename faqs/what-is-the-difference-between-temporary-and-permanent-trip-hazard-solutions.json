@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-temporary-and-permanent-trip-hazard-solutions",
+  "name": "What is the difference between temporary and permanent trip hazard solutions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between temporary and permanent trip hazard solutions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Temporary solutions often involve quick fixes like taping down cords, placing non-slip pads under rugs, or temporarily moving obstructing furniture. These are usually low-cost and can be done immediately. Permanent solutions, however, address the root cause of the hazard, such as rerouting electrical wiring within walls, leveling uneven subflooring, installing built-in storage, or replacing damaged flooring. Permanent fixes are more durable, provide long-term safety, and often require professional intervention.",
+        "@type": "Answer",
+        "description": "Temporary solutions are quick fixes like taping cords or moving rugs. Permanent solutions address root causes, such as rerouting wiring or leveling floors, for long-term safety."
+      }
+    }
+  ],
+  "description": "Temporary solutions are quick fixes like taping cords or moving rugs. Permanent solutions address root causes, such as rerouting wiring or leveling floors, for"
+}

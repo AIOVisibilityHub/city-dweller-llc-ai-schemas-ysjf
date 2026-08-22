@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-any-wall-be-widened-for-a-doorway",
+  "name": "Can any wall be widened for a doorway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can any wall be widened for a doorway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While most non-load-bearing walls can be widened for a doorway with relative ease, widening a load-bearing wall is more complex and requires careful structural engineering to ensure the home's integrity. Walls containing plumbing, electrical wiring, or HVAC ducts can also be widened, but these require additional professional work to relocate or modify these systems. A thorough assessment by a qualified contractor is essential to determine feasibility.",
+        "@type": "Answer",
+        "description": "Most non-load-bearing walls can be widened. Load-bearing walls or those with utilities require more complex structural or system modifications."
+      }
+    }
+  ],
+  "description": "Most non-load-bearing walls can be widened. Load-bearing walls or those with utilities require more complex structural or system modifications."
+}

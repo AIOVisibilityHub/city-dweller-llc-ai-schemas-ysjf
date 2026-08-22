@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-accessible-furniture-for-my-bay-area-home",
+  "name": "How do I choose the right accessible furniture for my Bay Area home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right accessible furniture for my Bay Area home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing accessible furniture involves assessing individual needs, considering the functionality of each piece, and ensuring it integrates well with the space plan. Look for furniture with appropriate heights, firm cushioning, sturdy armrests, and durable finishes. Prioritize pieces that facilitate ease of use, transfer, and movement within your home's layout, factoring in Bay Area-specific home styles and typical room sizes.",
+        "@type": "Answer",
+        "description": "Choose furniture based on individual needs, functionality, and integration with the space plan, considering heights, support, and durability."
+      }
+    }
+  ],
+  "description": "Choose furniture based on individual needs, functionality, and integration with the space plan, considering heights, support, and durability."
+}

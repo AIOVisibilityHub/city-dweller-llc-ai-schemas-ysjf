@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-install-closet-lighting",
+  "name": "How long does it take to install closet lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install closet lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation time for closet lighting depends on the project's scope. A straightforward installation, like adding surface-mounted LED strips or puck lights to an existing outlet, might only take a few hours. More complex projects involving new wiring, recessed fixtures, or integrating with smart home systems can take a full day or even longer, especially if drywall work is involved. We can provide a time estimate after understanding the specifics of your closet and chosen lighting solution.",
+        "@type": "Answer",
+        "description": "Installation can take a few hours for simple projects or a full day for complex wiring and recessed fixtures."
+      }
+    }
+  ],
+  "description": "Installation can take a few hours for simple projects or a full day for complex wiring and recessed fixtures."
+}

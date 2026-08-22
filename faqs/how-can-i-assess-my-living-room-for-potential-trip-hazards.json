@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-assess-my-living-room-for-potential-trip-hazards",
+  "name": "How can I assess my living room for potential trip hazards?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I assess my living room for potential trip hazards?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To assess your living room, begin by walking through all common pathways to identify any obstacles or uneven surfaces. Pay close attention to lighting in all areas, as poor visibility can conceal hazards. Check the stability and placement of rugs and examine electrical cords to ensure they are secured and not crossing traffic areas. Review furniture arrangement for clear access and look for any clutter. A systematic review helps pinpoint all potential trip risks.",
+        "@type": "Answer",
+        "description": "Walk through pathways, check lighting, secure rugs and cords, review furniture placement, and look for clutter."
+      }
+    }
+  ],
+  "description": "Walk through pathways, check lighting, secure rugs and cords, review furniture placement, and look for clutter."
+}

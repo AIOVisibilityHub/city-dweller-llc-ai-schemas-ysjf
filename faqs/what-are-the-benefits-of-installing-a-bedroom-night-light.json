@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-benefits-of-installing-a-bedroom-night-light",
+  "name": "What are the benefits of installing a bedroom night light?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of installing a bedroom night light?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bedroom night lights offer several benefits. They provide subtle illumination for safe navigation in the dark, reducing the risk of falls, especially for children or the elderly. They can create a calming ambiance, aiding in relaxation before sleep. Modern options often feature motion sensors or dimmable functions, enhancing convenience and energy efficiency. Night lights also prevent the need to turn on bright overhead lights, preserving sleep cycles and avoiding disturbance to others.",
+        "@type": "Answer",
+        "description": "Benefits include safe navigation, calming ambiance, reduced fall risk, and preserving sleep by avoiding bright overhead lights."
+      }
+    }
+  ],
+  "description": "Benefits include safe navigation, calming ambiance, reduced fall risk, and preserving sleep by avoiding bright overhead lights."
+}

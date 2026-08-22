@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-common-trip-hazards-are-found-in-living-rooms",
+  "name": "What common trip hazards are found in living rooms?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common trip hazards are found in living rooms?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common living room trip hazards include loose rugs, misplaced electrical cords, uneven flooring, furniture that obstructs pathways, and clutter. Understanding these typical issues is the first step in creating a safer environment. Addressing these hazards can prevent falls and improve the overall functionality of your living space. Regular assessment of your living room can help identify potential new hazards before they become a problem, ensuring continuous safety.",
+        "@type": "Answer",
+        "description": "Common trip hazards include loose rugs, electrical cords, uneven flooring, obstructing furniture, and clutter."
+      }
+    }
+  ],
+  "description": "Common trip hazards include loose rugs, electrical cords, uneven flooring, obstructing furniture, and clutter."
+}

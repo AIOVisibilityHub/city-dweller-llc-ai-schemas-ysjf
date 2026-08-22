@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-materials-are-commonly-used-for-thresholds-and-ramps",
+  "name": "What materials are commonly used for thresholds and ramps?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are commonly used for thresholds and ramps?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Thresholds can be made from a variety of materials including wood (often oak or other hardwoods), metal (aluminum, brass, or stainless steel), stone (marble, granite), and even durable plastics or rubber. The choice often depends on the surrounding flooring, aesthetic preferences, and traffic levels. Ramps are typically constructed from wood, concrete, or metal, chosen for their durability, load-bearing capacity, and ability to withstand weather conditions if outdoors. Slip-resistant surfaces are also a key consideration for ramps.",
+        "@type": "Answer",
+        "description": "Thresholds use wood, metal, stone, or rubber. Ramps are often wood, concrete, or metal, with a focus on durability and slip resistance."
+      }
+    }
+  ],
+  "description": "Thresholds use wood, metal, stone, or rubber. Ramps are often wood, concrete, or metal, with a focus on durability and slip resistance."
+}

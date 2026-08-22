@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-install-a-wheelchair-ramp-at-home",
+  "name": "How much does it cost to install a wheelchair ramp at home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install a wheelchair ramp at home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of installing a wheelchair ramp varies significantly based on type, materials, length, and local labor rates. Portable ramps are the least expensive, while custom-built wooden or concrete ramps can be a larger investment. Factors like site preparation, permits, and specific design requirements also influence the final price. For an accurate estimate tailored to your Bay Area home, a professional consultation is recommended, as we can assess your property and provide a detailed quote.",
+        "@type": "Answer",
+        "description": "Costs vary widely depending on the ramp type, materials, length, and installation complexity. Custom ramps are generally more expensive than portable ones."
+      }
+    }
+  ],
+  "description": "Costs vary widely depending on the ramp type, materials, length, and installation complexity. Custom ramps are generally more expensive than portable ones."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-repairs-impact-the-lifespan-of-my-wheelchair-ramp",
+  "name": "How do repairs impact the lifespan of my wheelchair ramp?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do repairs impact the lifespan of my wheelchair ramp?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Timely and proper repairs can significantly extend the lifespan of your wheelchair ramp by addressing issues before they worsen. Minor fixes, like replacing a rotted board or reinforcing a wobbly handrail, prevent larger structural problems and maintain the ramp's integrity. Conversely, neglecting necessary repairs can lead to accelerated deterioration, potentially shortening the ramp's usable life and increasing the risk of failure.",
+        "@type": "Answer",
+        "description": "Timely and proper repairs extend ramp lifespan by preventing minor issues from escalating into major structural problems, maintaining integrity and safety."
+      }
+    }
+  ],
+  "description": "Timely and proper repairs extend ramp lifespan by preventing minor issues from escalating into major structural problems, maintaining integrity and safety."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-dimensions-for-living-room-pathways",
+  "name": "What are common dimensions for living room pathways?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common dimensions for living room pathways?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard recommendations for main living room pathways suggest a minimum width of 30 to 36 inches to allow comfortable passage for most individuals. For secondary pathways or areas around furniture, 24 inches might be acceptable. If you anticipate accommodating wheelchairs or walkers, wider clearances of 36-42 inches are often necessary to ensure accessibility and ease of movement.",
+        "@type": "Answer",
+        "description": "Main living room pathways typically require 30-36 inches width, with 24 inches for secondary paths. Wider clearances (36-42 inches) are needed for wheelchair access."
+      }
+    }
+  ],
+  "description": "Main living room pathways typically require 30-36 inches width, with 24 inches for secondary paths. Wider clearances (36-42 inches) are needed for wheelchair ac"
+}

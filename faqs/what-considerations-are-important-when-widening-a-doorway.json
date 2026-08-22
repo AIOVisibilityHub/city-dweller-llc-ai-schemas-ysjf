@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-considerations-are-important-when-widening-a-doorway",
+  "name": "What considerations are important when widening a doorway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What considerations are important when widening a doorway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When widening a doorway, important considerations include identifying if the wall is load-bearing, which significantly impacts the complexity and cost. You also need to consider the available space on either side of the doorway to ensure the desired width is feasible without interfering with electrical outlets, plumbing, or adjacent rooms. Finally, the type of finish (matching existing paint, trim, etc.) and potential flooring adjustments are also key details.",
+        "@type": "Answer",
+        "description": "Key considerations include whether the wall is load-bearing, available space, interference with utilities, and matching finishes."
+      }
+    }
+  ],
+  "description": "Key considerations include whether the wall is load-bearing, available space, interference with utilities, and matching finishes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-clear-floor-space-is-required-around-laundry-appliances-for-wheelchair-acce",
+  "name": "What clear floor space is required around laundry appliances for wheelchair access?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What clear floor space is required around laundry appliances for wheelchair access?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For optimal wheelchair access, a clear floor space of at least 30 inches by 48 inches (76 cm by 122 cm) is generally required in front of all appliances, controls, and access points. This space allows a person in a wheelchair to approach, operate, and utilize the laundry equipment comfortably. Additionally, a clear turning radius of 60 inches (152 cm) is ideal for full maneuverability within the room.",
+        "@type": "Answer",
+        "description": "A clear floor space of at least 30x48 inches is needed in front of appliances for wheelchair access, with a 60-inch turning radius ideal."
+      }
+    }
+  ],
+  "description": "A clear floor space of at least 30x48 inches is needed in front of appliances for wheelchair access, with a 60-inch turning radius ideal."
+}

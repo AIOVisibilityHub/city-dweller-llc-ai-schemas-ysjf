@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-best-type-of-flooring-for-a-laundry-room",
+  "name": "What is the best type of flooring for a laundry room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the best type of flooring for a laundry room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best flooring for a laundry room balances water resistance, durability, and ease of cleaning. Popular options include luxury vinyl plank (LVP), ceramic tile, and porcelain tile. LVP is cost-effective, easy to install, and highly water-resistant. Ceramic and porcelain tiles offer superior water resistance, durability, and a wide range of aesthetic choices, though they can be colder underfoot and more challenging to install. Concrete or epoxy coatings are also options for ultimate durability and moisture protection.",
+        "@type": "Answer",
+        "description": "Luxury vinyl plank, ceramic tile, and porcelain tile are among the best options due to their water resistance, durability, and ease of cleaning."
+      }
+    }
+  ],
+  "description": "Luxury vinyl plank, ceramic tile, and porcelain tile are among the best options due to their water resistance, durability, and ease of cleaning."
+}

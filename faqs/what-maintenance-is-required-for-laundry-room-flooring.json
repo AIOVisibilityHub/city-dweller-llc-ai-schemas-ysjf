@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-maintenance-is-required-for-laundry-room-flooring",
+  "name": "What maintenance is required for laundry room flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for laundry room flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance depends on the flooring material. Vinyl plank flooring is generally low maintenance, requiring regular sweeping and occasional damp mopping. Tile floors need routine sweeping or vacuuming, and periodic mopping with a pH-neutral cleaner; grout lines may need sealing and cleaning to prevent staining. Concrete or epoxy floors are also very low maintenance. Always clean up spills promptly to prevent damage or slip hazards.",
+        "@type": "Answer",
+        "description": "Maintenance varies by material but generally involves sweeping, vacuuming, and damp mopping. Promptly clean spills for any flooring type."
+      }
+    }
+  ],
+  "description": "Maintenance varies by material but generally involves sweeping, vacuuming, and damp mopping. Promptly clean spills for any flooring type."
+}

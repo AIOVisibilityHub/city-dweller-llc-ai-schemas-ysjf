@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-involved-in-the-process-of-widening-a-doorway",
+  "name": "What is involved in the process of widening a doorway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the process of widening a doorway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process of widening a doorway begins with protecting the surrounding area and then carefully removing the existing door frame and surrounding drywall. If it's a non-load-bearing wall, the opening is simply reframed to the new desired width. For load-bearing walls, temporary supports are installed, and a new, appropriately sized header is installed to redistribute weight. Finally, new drywall is installed, taped, mudded, sanded, and painted to match the existing wall.",
+        "@type": "Answer",
+        "description": "The process involves removing the old frame, reframing the opening (with a new header for load-bearing walls), and then finishing with new drywall and paint."
+      }
+    }
+  ],
+  "description": "The process involves removing the old frame, reframing the opening (with a new header for load-bearing walls), and then finishing with new drywall and paint."
+}

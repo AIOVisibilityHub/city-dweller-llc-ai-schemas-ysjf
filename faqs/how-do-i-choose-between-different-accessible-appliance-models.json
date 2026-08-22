@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-between-different-accessible-appliance-models",
+  "name": "How do I choose between different accessible appliance models?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose between different accessible appliance models?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing accessible appliance models, prioritize features that directly address your mobility needs. Look for controls that are easy to see and operate, such as large print, tactile buttons, or remote control options. Consider front-loading washers and dryers, side-opening ovens, and dishwashers that can be raised. Research appliances with pull-out shelves, smooth gliding drawers, and well-lit interiors. Reading user reviews and consulting with an accessibility specialist or your contractor can also help identify the most suitable and user-friendly options for your specific situation.",
+        "@type": "Answer",
+        "description": "Choose accessible appliances by prioritizing features that meet your mobility needs, like easy-to-operate controls, front-loading designs, and thoughtful interior layouts. Consult with specialists or your contractor."
+      }
+    }
+  ],
+  "description": "Choose accessible appliances by prioritizing features that meet your mobility needs, like easy-to-operate controls, front-loading designs, and thoughtful interi"
+}

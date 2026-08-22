@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-consider-when-choosing-a-night-light-for-my-bedroom",
+  "name": "What should I consider when choosing a night light for my bedroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing a night light for my bedroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a night light, consider its intended purpose: is it for safety, ambiance, or both? Evaluate the light's brightness and color temperature; warm, dim lights are generally better for sleep. Look for features like motion sensors, dimmers, or timers for added convenience and energy savings. Also, consider the installation type (plug-in, hardwired, battery-operated) and how it integrates with your bedroom's decor and existing electrical setup. Safety certifications are also important for any electrical device.",
+        "@type": "Answer",
+        "description": "Consider purpose, brightness, color temperature, features like motion sensors, installation type, and how it matches your decor."
+      }
+    }
+  ],
+  "description": "Consider purpose, brightness, color temperature, features like motion sensors, installation type, and how it matches your decor."
+}

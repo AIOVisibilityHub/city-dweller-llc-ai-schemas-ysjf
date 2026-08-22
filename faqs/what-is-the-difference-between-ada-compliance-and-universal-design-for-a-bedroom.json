@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-ada-compliance-and-universal-design-for-a-bedroom",
+  "name": "What is the difference between ADA compliance and universal design for a bedroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between ADA compliance and universal design for a bedroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "ADA compliance refers to specific federal standards for public spaces to ensure accessibility for people with disabilities, primarily concerning commercial properties. Universal design, however, is a broader concept focused on creating environments that are usable by all people, to the greatest extent possible, without the need for adaptation or specialized design. For a bedroom, this means designing features like wider doorways, ample maneuvering space, and easy-to-reach controls from the outset, benefiting individuals of all ages and abilities, not just those with disabilities.",
+        "@type": "Answer",
+        "description": "ADA compliance is a legal standard for public accessibility; universal design is a broader concept for creating spaces usable by everyone without special adaptation."
+      }
+    }
+  ],
+  "description": "ADA compliance is a legal standard for public accessibility; universal design is a broader concept for creating spaces usable by everyone without special adapta"
+}

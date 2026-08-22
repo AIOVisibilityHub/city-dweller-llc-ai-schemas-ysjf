@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-you-offer-emergency-wheelchair-ramp-repair-services",
+  "name": "Do you offer emergency wheelchair ramp repair services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer emergency wheelchair ramp repair services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we understand that a damaged wheelchair ramp can pose a significant safety hazard and hinder accessibility. We strive to provide prompt service for urgent repair needs, especially when a ramp becomes unsafe or completely unusable. Please contact us immediately to discuss your situation, and we will prioritize scheduling a visit as quickly as possible to restore safety and functionality.",
+        "@type": "Answer",
+        "description": "Yes, we offer prompt service for urgent wheelchair ramp repairs when safety or accessibility is compromised. Contact us immediately for scheduling."
+      }
+    }
+  ],
+  "description": "Yes, we offer prompt service for urgent wheelchair ramp repairs when safety or accessibility is compromised. Contact us immediately for scheduling."
+}

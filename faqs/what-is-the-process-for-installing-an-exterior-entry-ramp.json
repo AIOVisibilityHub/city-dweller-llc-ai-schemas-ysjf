@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-installing-an-exterior-entry-ramp",
+  "name": "What is the process for installing an exterior entry ramp?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing an exterior entry ramp?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process typically begins with an on-site consultation and assessment to determine needs, measurements, and material preferences. Following this, a design plan is developed and, if required, permits are secured. Site preparation involves clearing the area and possibly grading. Construction then proceeds, starting with the foundation, followed by the ramp structure itself, including landings and handrails. Finally, finishing touches are applied, and a final inspection ensures compliance and quality.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design, permitting, site preparation, construction of the ramp structure, and a final inspection."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design, permitting, site preparation, construction of the ramp structure, and a final inspection."
+}

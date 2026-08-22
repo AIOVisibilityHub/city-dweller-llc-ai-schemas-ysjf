@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-brightness-and-color-temperature-for-my-closet-lights",
+  "name": "How do I choose the right brightness and color temperature for my closet lights?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right brightness and color temperature for my closet lights?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The right brightness, measured in lumens, depends on your closet's size and how much light you need to see contents clearly. For general closet lighting, 300-500 lumens per linear foot is a good starting point. Color temperature, measured in Kelvin (K), affects the feel. Warmer temperatures (2700K-3000K) create a cozy ambiance, while cooler temperatures (3500K-4000K) provide a brighter, more natural daylight feel, which is excellent for discerning clothing colors accurately. We can help you find a balance that suits your preferences and practical needs during our consultation.",
+        "@type": "Answer",
+        "description": "Brightness (lumens) depends on closet size; 300-500 lumens per linear foot is common. Color temperature (K) affects mood, with cooler (3500K-4000K) best for true color rendition."
+      }
+    }
+  ],
+  "description": "Brightness (lumens) depends on closet size; 300-500 lumens per linear foot is common. Color temperature (K) affects mood, with cooler (3500K-4000K) best for tru"
+}

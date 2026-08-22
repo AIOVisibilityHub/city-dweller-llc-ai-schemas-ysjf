@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-lighting-are-best-for-a-laundry-room",
+  "name": "What types of lighting are best for a laundry room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of lighting are best for a laundry room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For laundry rooms, bright, uniform, and energy-efficient lighting is recommended. LED recessed lighting or flush-mount fixtures provide general ambient light without taking up much space. Task lighting, such as under-cabinet strips above a folding counter, is beneficial for detailed work. Consider fixtures with a color temperature around 4000K-5000K (cool white) to accurately see fabric colors and stains. Moisture-resistant fixtures are also important if your laundry room has high humidity.",
+        "@type": "Answer",
+        "description": "LED recessed lights or flush mounts offer general illumination. Task lighting above counters helps with detailed work. Opt for cool white, moisture-resistant fixtures."
+      }
+    }
+  ],
+  "description": "LED recessed lights or flush mounts offer general illumination. Task lighting above counters helps with detailed work. Opt for cool white, moisture-resistant fi"
+}

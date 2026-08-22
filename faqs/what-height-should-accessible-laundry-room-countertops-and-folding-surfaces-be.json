@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-height-should-accessible-laundry-room-countertops-and-folding-surfaces-be",
+  "name": "What height should accessible laundry room countertops and folding surfaces be?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What height should accessible laundry room countertops and folding surfaces be?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Accessible laundry room countertops and folding surfaces are typically installed at a height that is comfortable for someone in a wheelchair, usually between 28 and 34 inches from the floor. This allows for easier access and use from a seated position. It's also beneficial to have knee clearance underneath the countertop, similar to accessible kitchen or bathroom vanities, to enhance usability.",
+        "@type": "Answer",
+        "description": "Countertops and folding surfaces should be 28-34 inches high for seated access, with knee clearance underneath."
+      }
+    }
+  ],
+  "description": "Countertops and folding surfaces should be 28-34 inches high for seated access, with knee clearance underneath."
+}

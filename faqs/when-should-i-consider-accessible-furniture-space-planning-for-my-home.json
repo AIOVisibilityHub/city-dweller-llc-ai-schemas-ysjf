@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-accessible-furniture-space-planning-for-my-home",
+  "name": "When should I consider accessible furniture space planning for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider accessible furniture space planning for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider accessible furniture space planning when renovating, building a new home, or proactively preparing for future needs. It's also essential if you or a family member has a current mobility challenge, uses a wheelchair, or has vision impairment. Implementing these plans early can save significant costs and disruption compared to making modifications later.",
+        "@type": "Answer",
+        "description": "Consider it during renovations, new construction, or when current or future mobility needs arise for you or a family member."
+      }
+    }
+  ],
+  "description": "Consider it during renovations, new construction, or when current or future mobility needs arise for you or a family member."
+}

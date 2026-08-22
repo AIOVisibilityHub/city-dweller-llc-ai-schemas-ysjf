@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-safety-features-should-i-look-for-in-a-wheelchair-ramp",
+  "name": "What safety features should I look for in a wheelchair ramp?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What safety features should I look for in a wheelchair ramp?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key safety features for a wheelchair ramp include appropriate slope or gradient to prevent tipping, non-slip surfaces for traction in all weather conditions, and sturdy handrails on both sides for support. Adequate width is essential for maneuverability, and a level landing at the top and bottom provides space for safe entry and exit. Proper edge protection also prevents wheels from rolling off the side. These features collectively ensure the ramp is safe and comfortable for users.",
+        "@type": "Answer",
+        "description": "Look for appropriate slope, non-slip surfaces, sturdy handrails, adequate width, level landings at both ends, and edge protection to ensure safety."
+      }
+    }
+  ],
+  "description": "Look for appropriate slope, non-slip surfaces, sturdy handrails, adequate width, level landings at both ends, and edge protection to ensure safety."
+}

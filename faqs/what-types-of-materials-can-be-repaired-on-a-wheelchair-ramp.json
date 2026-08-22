@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-materials-can-be-repaired-on-a-wheelchair-ramp",
+  "name": "What types of materials can be repaired on a wheelchair ramp?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials can be repaired on a wheelchair ramp?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wheelchair ramps are commonly constructed from wood, metal (like aluminum or steel), or concrete. We can repair issues specific to each material, such as replacing rotted or splintered wooden planks, reinforcing weakened metal sections, addressing corrosion, or patching cracks and spalling in concrete ramps. The repair approach is tailored to the specific material and type of damage.",
+        "@type": "Answer",
+        "description": "We repair wood (splinters, rot), metal (weakness, corrosion), and concrete (cracks, spalling) wheelchair ramps."
+      }
+    }
+  ],
+  "description": "We repair wood (splinters, rot), metal (weakness, corrosion), and concrete (cracks, spalling) wheelchair ramps."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-permit-to-install-a-threshold-ramp-in-the-bay-area",
+  "name": "Do I need a permit to install a threshold ramp in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to install a threshold ramp in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most standard residential threshold ramp installations that don't involve structural changes to the building or significant exterior modifications, a permit is typically not required. However, if the ramp is part of a larger renovation project, involves extensive construction, or is for a commercial property, permits might be necessary. We advise checking with your specific local city building department, such as in Pacifica or San Mateo, or we can assist in determining if a permit is needed for your project.",
+        "@type": "Answer",
+        "description": "Generally, permits are not needed for standard residential threshold ramps, but may be required for extensive construction or commercial properties. Consult local city building departments."
+      }
+    }
+  ],
+  "description": "Generally, permits are not needed for standard residential threshold ramps, but may be required for extensive construction or commercial properties. Consult loc"
+}

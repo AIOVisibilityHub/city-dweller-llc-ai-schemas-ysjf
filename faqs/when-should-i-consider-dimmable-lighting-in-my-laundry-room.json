@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-dimmable-lighting-in-my-laundry-room",
+  "name": "When should I consider dimmable lighting in my laundry room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider dimmable lighting in my laundry room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Dimmable lighting can be a valuable addition to your laundry room if you desire flexibility in illumination levels. While a bright light is crucial for tasks like stain checking, a dimmed setting can create a softer ambiance if the laundry room also serves as a passageway or leads into another living space. It's also useful for reducing eye strain during less intensive tasks. If your laundry room has a window, dimmers can help balance artificial light with natural daylight throughout the day.",
+        "@type": "Answer",
+        "description": "Consider dimmable lighting if you want to adjust brightness for different tasks or create a softer ambiance, especially if the room is also a thoroughfare."
+      }
+    }
+  ],
+  "description": "Consider dimmable lighting if you want to adjust brightness for different tasks or create a softer ambiance, especially if the room is also a thoroughfare."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-key-differences-between-standard-and-accessible-furniture-layouts",
+  "name": "What are the key differences between standard and accessible furniture layouts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key differences between standard and accessible furniture layouts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard layouts prioritize aesthetics and general functionality, while accessible layouts additionally focus on usability for all individuals. Accessible designs incorporate specific clearances for turning radii, wider doorways, and clear paths of travel. They also consider placement of controls, switches, and appliances at reachable heights, ensuring universal access and safety.",
+        "@type": "Answer",
+        "description": "Accessible layouts prioritize universal usability, including specific clearances and reachable heights, beyond just aesthetics and general function."
+      }
+    }
+  ],
+  "description": "Accessible layouts prioritize universal usability, including specific clearances and reachable heights, beyond just aesthetics and general function."
+}

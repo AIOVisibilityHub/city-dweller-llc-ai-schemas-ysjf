@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-material-for-my-wheelchair-ramp",
+  "name": "How do I choose the right material for my wheelchair ramp?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right material for my wheelchair ramp?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selecting the right material for your wheelchair ramp involves considering durability, maintenance, aesthetic appeal, and budget. Wood ramps are customizable and can blend well with home architecture but require regular maintenance. Aluminum ramps are durable, lightweight, and low-maintenance, often used for modular systems. Concrete ramps are highly durable, permanent, and virtually maintenance-free, but they are a significant investment and require professional installation. Your choice should align with your long-term needs, local climate, and preferred upkeep.",
+        "@type": "Answer",
+        "description": "Choose materials based on durability, maintenance needs, aesthetics, and budget. Options include wood (customizable, higher maintenance), aluminum (durable, low maintenance), and concrete (permanent, low maintenance)."
+      }
+    }
+  ],
+  "description": "Choose materials based on durability, maintenance needs, aesthetics, and budget. Options include wood (customizable, higher maintenance), aluminum (durable, low"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-special-subfloor-for-laundry-room-tile",
+  "name": "Do I need a special subfloor for laundry room tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a special subfloor for laundry room tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing tile in a laundry room requires a stable and rigid subfloor to prevent cracking. Typically, a cement board underlayment is installed over the plywood subfloor to provide a suitable, moisture-resistant base for tile. The subfloor must be level, clean, and structurally sound to support the weight of the tile and appliances without flexing. Consult a professional to ensure your subfloor meets the specific requirements for tile installation.",
+        "@type": "Answer",
+        "description": "Yes, tile installation typically requires a stable subfloor with a cement board underlayment to prevent cracking and provide moisture resistance."
+      }
+    }
+  ],
+  "description": "Yes, tile installation typically requires a stable subfloor with a cement board underlayment to prevent cracking and provide moisture resistance."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-living-room-lighting-upgrade-project-take",
+  "name": "How long does a typical living room lighting upgrade project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical living room lighting upgrade project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a living room lighting upgrade project depends on its complexity. A simple replacement of existing fixtures might take only a day. However, if the project involves installing new recessed lighting, running new electrical lines, adding or relocating switches, or upgrading the electrical panel, it could extend to several days or even a week. We provide a detailed timeline after assessing your specific project requirements during the initial consultation.",
+        "@type": "Answer",
+        "description": "Project duration varies: simple replacements take a day, while extensive upgrades involving new wiring or fixtures can take several days to a week."
+      }
+    }
+  ],
+  "description": "Project duration varies: simple replacements take a day, while extensive upgrades involving new wiring or fixtures can take several days to a week."
+}

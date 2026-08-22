@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-install-closet-lighting-myself-or-should-i-hire-a-professional",
+  "name": "Can I install closet lighting myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install closet lighting myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While simple, battery-operated closet lights can often be installed as a DIY project, hardwired solutions typically require a professional. Installing wired lighting involves working with electrical circuits, which can be dangerous if not done correctly. A professional ensures that the installation meets all safety codes, is properly grounded, and functions reliably. Hiring a general contractor like City Dweller, LLC ensures the job is done safely, efficiently, and to high standards, especially if new wiring or structural modifications are needed.",
+        "@type": "Answer",
+        "description": "Simple, battery-operated lights can be DIY, but hardwired installations should be done by a professional for safety and code compliance."
+      }
+    }
+  ],
+  "description": "Simple, battery-operated lights can be DIY, but hardwired installations should be done by a professional for safety and code compliance."
+}

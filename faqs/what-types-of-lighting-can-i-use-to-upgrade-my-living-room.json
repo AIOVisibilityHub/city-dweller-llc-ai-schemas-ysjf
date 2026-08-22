@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-lighting-can-i-use-to-upgrade-my-living-room",
+  "name": "What types of lighting can I use to upgrade my living room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of lighting can I use to upgrade my living room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Living room lighting upgrades often incorporate a layered approach using various fixture types. Common options include recessed lighting for general illumination, track lighting for adjustable focus on artwork or architectural features, and decorative fixtures like chandeliers or pendant lights for ambient and aesthetic appeal. Floor and table lamps provide task lighting and contribute to the room's atmosphere. Smart lighting systems allow for customizable color and brightness control, enhancing flexibility and energy efficiency.",
+        "@type": "Answer",
+        "description": "Common lighting types for living room upgrades include recessed, track, chandeliers, pendants, and smart lighting systems for layered illumination."
+      }
+    }
+  ],
+  "description": "Common lighting types for living room upgrades include recessed, track, chandeliers, pendants, and smart lighting systems for layered illumination."
+}

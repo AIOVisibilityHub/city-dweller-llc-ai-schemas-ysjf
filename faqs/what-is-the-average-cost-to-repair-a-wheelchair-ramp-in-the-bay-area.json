@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-average-cost-to-repair-a-wheelchair-ramp-in-the-bay-area",
+  "name": "What is the average cost to repair a wheelchair ramp in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to repair a wheelchair ramp in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of wheelchair ramp repair in the Bay Area can vary widely depending on the type of material, the extent of the damage, and the labor involved. Minor repairs might range from a few hundred dollars, while more complex structural repairs could be significantly higher. We provide detailed estimates after a thorough inspection, considering local labor rates and material costs specific to your situation.",
+        "@type": "Answer",
+        "description": "Repair costs vary based on material, damage extent, and labor. Minor fixes may be a few hundred dollars, while complex structural repairs are higher. We offer detailed estimates."
+      }
+    }
+  ],
+  "description": "Repair costs vary based on material, damage extent, and labor. Minor fixes may be a few hundred dollars, while complex structural repairs are higher. We offer d"
+}

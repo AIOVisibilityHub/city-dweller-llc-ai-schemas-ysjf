@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-installing-a-new-hardwired-night-light",
+  "name": "What is the process for installing a new hardwired night light?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing a new hardwired night light?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for installing a hardwired night light typically begins with planning the optimal location and identifying a power source. A licensed electrician will then safely cut power to the circuit. They will run new wiring from a switch or existing circuit to the new fixture location, cut an opening in the wall or ceiling, install a junction box, and securely mount the fixture. Finally, they'll connect the electrical wires, restore power, and test the light to ensure it functions correctly and safely. This often involves patching and finishing any wall openings.",
+        "@type": "Answer",
+        "description": "The process involves planning, cutting power, running wiring, installing a junction box, mounting the fixture, connecting wires, and testing."
+      }
+    }
+  ],
+  "description": "The process involves planning, cutting power, running wiring, installing a junction box, mounting the fixture, connecting wires, and testing."
+}

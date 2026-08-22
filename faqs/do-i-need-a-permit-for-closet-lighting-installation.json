@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-permit-for-closet-lighting-installation",
+  "name": "Do I need a permit for closet lighting installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for closet lighting installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most minor closet lighting installations, such as replacing existing fixtures or adding battery-operated options, a permit is typically not required. However, if the installation involves extensive new electrical wiring, altering existing circuits, or installing permanent, hardwired fixtures in a new location, a permit from your local city or county building department might be necessary to ensure compliance with electrical codes. Our team can advise you on permit requirements specific to your project and location during our initial consultation.",
+        "@type": "Answer",
+        "description": "Permits are usually not needed for minor lighting changes. New electrical wiring or significant alterations may require one."
+      }
+    }
+  ],
+  "description": "Permits are usually not needed for minor lighting changes. New electrical wiring or significant alterations may require one."
+}

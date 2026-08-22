@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-smart-lighting-options-for-a-laundry-room",
+  "name": "What are smart lighting options for a laundry room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are smart lighting options for a laundry room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Smart lighting options for a laundry room offer convenience and energy savings. These can include Wi-Fi enabled bulbs or fixtures that allow you to control brightness, color temperature, and schedules via a smartphone app or voice assistant. Motion-activated lights can automatically turn on when you enter and off when you leave, which is ideal for a utility space. Dimmers allow you to adjust the ambiance. Integration with a broader smart home system can streamline control alongside other household devices.",
+        "@type": "Answer",
+        "description": "Smart lighting allows app or voice control, motion activation, and dimming. It enhances convenience and can integrate with existing smart home systems."
+      }
+    }
+  ],
+  "description": "Smart lighting allows app or voice control, motion activation, and dimming. It enhances convenience and can integrate with existing smart home systems."
+}

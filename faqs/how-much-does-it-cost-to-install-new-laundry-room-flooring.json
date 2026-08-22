@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-install-new-laundry-room-flooring",
+  "name": "How much does it cost to install new laundry room flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install new laundry room flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of installing new laundry room flooring varies significantly based on material choice, room size, and labor rates. For example, luxury vinyl plank might range from $3 to $7 per square foot for materials, plus installation. Ceramic or porcelain tile can cost $5 to $15 per square foot for materials, with installation adding a substantial amount due to the specialized skills required. Get a detailed quote to understand the total project cost for your specific needs.",
+        "@type": "Answer",
+        "description": "Costs vary based on material, room size, and labor. Expect $3-$7 per sq ft for LVP materials and $5-$15 per sq ft for tile materials, plus installation."
+      }
+    }
+  ],
+  "description": "Costs vary based on material, room size, and labor. Expect $3-$7 per sq ft for LVP materials and $5-$15 per sq ft for tile materials, plus installation."
+}

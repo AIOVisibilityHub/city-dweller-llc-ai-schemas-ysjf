@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-my-living-room-pathways-need-improving",
+  "name": "How do I know if my living room pathways need improving?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my living room pathways need improving?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You might need to improve your living room pathways if you frequently bump into furniture, find it difficult to move around, or feel cramped. Signs also include challenges for guests, especially those with mobility aids, or if the room feels cluttered. A professional assessment can identify tight spots and suggest solutions for better flow and safety.",
+        "@type": "Answer",
+        "description": "Assess if you frequently bump into furniture, feel cramped, or if movement is difficult for you or guests, indicating a need for pathway improvement."
+      }
+    }
+  ],
+  "description": "Assess if you frequently bump into furniture, feel cramped, or if movement is difficult for you or guests, indicating a need for pathway improvement."
+}

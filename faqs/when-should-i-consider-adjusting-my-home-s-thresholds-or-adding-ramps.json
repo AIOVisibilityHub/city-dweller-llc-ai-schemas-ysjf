@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-adjusting-my-home-s-thresholds-or-adding-ramps",
+  "name": "When should I consider adjusting my home's thresholds or adding ramps?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider adjusting my home's thresholds or adding ramps?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider adjusting thresholds or adding ramps if you have uneven flooring transitions, issues with accessibility for family members or guests, or if you're undertaking a renovation project. Common reasons include making your home more wheelchair-friendly, addressing tripping hazards, or creating a seamless transition between indoor and outdoor spaces. Consulting with a general contractor like City Dweller can help determine the best solution for your specific needs and ensure compliance with any relevant building codes.",
+        "@type": "Answer",
+        "description": "Consider adjustments for uneven floors, accessibility needs, or during renovations to improve safety and ease of movement."
+      }
+    }
+  ],
+  "description": "Consider adjustments for uneven floors, accessibility needs, or during renovations to improve safety and ease of movement."
+}

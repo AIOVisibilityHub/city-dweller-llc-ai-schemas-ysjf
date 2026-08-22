@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-lighting-are-best-for-closets",
+  "name": "What types of lighting are best for closets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of lighting are best for closets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For closets, LED strip lights, puck lights, and recessed lighting are popular choices. LED strips offer continuous, even illumination and can be customized to fit shelves or rods. Puck lights provide focused light and are good for specific areas. Recessed lights offer a clean, built-in look and general ambient light. The best type depends on the closet's size, contents, and your desired aesthetic. We can help you select the most suitable option during an on-site consultation.",
+        "@type": "Answer",
+        "description": "LED strip lights, puck lights, and recessed lighting are common options. The best choice depends on your closet's size and needs."
+      }
+    }
+  ],
+  "description": "LED strip lights, puck lights, and recessed lighting are common options. The best choice depends on your closet's size and needs."
+}

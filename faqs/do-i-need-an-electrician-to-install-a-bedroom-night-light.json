@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-an-electrician-to-install-a-bedroom-night-light",
+  "name": "Do I need an electrician to install a bedroom night light?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need an electrician to install a bedroom night light?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most plug-in night lights, no electrician is needed as they simply plug into an existing outlet. However, if you're installing hardwired fixtures, such as wall-mounted or recessed lights that require connecting to your home's electrical system, it's highly recommended to use a licensed electrician. This ensures the installation is safe, up to code, and properly grounded, preventing potential fire hazards or electrical issues. Professional installation also often includes warranty protection.",
+        "@type": "Answer",
+        "description": "An electrician is recommended for hardwired night lights requiring connection to your home's electrical system to ensure safety and code compliance."
+      }
+    }
+  ],
+  "description": "An electrician is recommended for hardwired night lights requiring connection to your home's electrical system to ensure safety and code compliance."
+}

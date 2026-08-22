@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-correct-size-threshold-ramp-for-my-doorway",
+  "name": "How do I choose the correct size threshold ramp for my doorway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the correct size threshold ramp for my doorway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the correct threshold ramp size primarily depends on the height of the rise you need to overcome and the desired slope. The general rule of thumb for safe accessibility is a 1:12 slope, meaning for every 1 inch of rise, you need 12 inches of ramp length. You'll need to measure the vertical height of the step or threshold. Additionally, consider the width of the doorway and any space constraints to ensure the ramp fits properly and provides adequate maneuverability.",
+        "@type": "Answer",
+        "description": "Measure the vertical rise and use a 1:12 slope ratio (1 inch rise = 12 inches length) to determine ramp size, also considering doorway width."
+      }
+    }
+  ],
+  "description": "Measure the vertical rise and use a 1:12 slope ratio (1 inch rise = 12 inches length) to determine ramp size, also considering doorway width."
+}

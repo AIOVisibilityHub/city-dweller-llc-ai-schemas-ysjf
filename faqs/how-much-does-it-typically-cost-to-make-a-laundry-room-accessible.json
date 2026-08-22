@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-typically-cost-to-make-a-laundry-room-accessible",
+  "name": "How much does it typically cost to make a laundry room accessible?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it typically cost to make a laundry room accessible?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for laundry room accessibility modifications varies widely based on the scope of work and existing layout. Minor changes like installing grab bars or new shelving might range from a few hundred to a couple of thousand dollars. More extensive renovations, such as widening doorways, relocating plumbing for raised appliances, or reconfiguring the layout for wheelchair access, can range from several thousand to tens of thousands of dollars. An on-site assessment is necessary to provide an accurate estimate tailored to your specific needs and the structural requirements of your home.",
+        "@type": "Answer",
+        "description": "Costs vary significantly, from a few hundred for minor additions like grab bars to tens of thousands for major renovations involving layout changes or plumbing relocation."
+      }
+    }
+  ],
+  "description": "Costs vary significantly, from a few hundred for minor additions like grab bars to tens of thousands for major renovations involving layout changes or plumbing"
+}

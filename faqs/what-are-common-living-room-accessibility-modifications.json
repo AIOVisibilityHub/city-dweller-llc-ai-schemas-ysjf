@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-living-room-accessibility-modifications",
+  "name": "What are common living room accessibility modifications?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common living room accessibility modifications?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common living room accessibility modifications include widening doorways to accommodate wheelchairs or walkers, installing lever-style door handles for easier grip, improving lighting for better visibility, and ensuring clear pathways. Other modifications might involve adjusting furniture layouts, adding non-slip flooring, or incorporating smart home technology for simplified control of lights and entertainment systems. These changes aim to enhance safety, independence, and comfort for individuals with mobility challenges or visual impairments, allowing them to use their living space more effectively.",
+        "@type": "Answer",
+        "description": "Common modifications include widening doorways, installing lever handles, improving lighting, and ensuring clear pathways for enhanced safety and independence."
+      }
+    }
+  ],
+  "description": "Common modifications include widening doorways, installing lever handles, improving lighting, and ensuring clear pathways for enhanced safety and independence."
+}

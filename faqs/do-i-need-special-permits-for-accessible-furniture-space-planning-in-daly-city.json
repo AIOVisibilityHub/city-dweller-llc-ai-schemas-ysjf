@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-special-permits-for-accessible-furniture-space-planning-in-daly-city",
+  "name": "Do I need special permits for accessible furniture space planning in Daly City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need special permits for accessible furniture space planning in Daly City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Accessible furniture space planning itself generally does not require special permits, as it primarily involves interior arrangement and non-structural changes. However, if the planning leads to structural modifications like widening doorways or reconfiguring walls, or significant plumbing/electrical work, then building permits from the City of Daly City planning department would be required. It’s always best to consult with your contractor regarding specific project needs.",
+        "@type": "Answer",
+        "description": "Permits are usually not needed for furniture arrangement, but are required for structural changes like widening doorways or major utility work."
+      }
+    }
+  ],
+  "description": "Permits are usually not needed for furniture arrangement, but are required for structural changes like widening doorways or major utility work."
+}

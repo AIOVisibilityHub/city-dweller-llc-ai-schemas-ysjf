@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-handrails-are-suitable-for-bedroom-use",
+  "name": "What types of handrails are suitable for bedroom use?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of handrails are suitable for bedroom use?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bedroom handrails come in various styles and materials to suit different needs and aesthetics. Options include wall-mounted rails made from wood or metal, freestanding bed rails that tuck under the mattress for support when getting in and out of bed, and floor-to-ceiling poles for robust stability. Materials like brushed steel, anodized aluminum, and finished wood are popular, offering durability and a clean look. The best type depends on the user's specific mobility needs, the room's layout, and desired visual integration.",
+        "@type": "Answer",
+        "description": "Common types include wall-mounted, freestanding bed rails, and floor-to-ceiling poles, available in materials like wood or metal."
+      }
+    }
+  ],
+  "description": "Common types include wall-mounted, freestanding bed rails, and floor-to-ceiling poles, available in materials like wood or metal."
+}

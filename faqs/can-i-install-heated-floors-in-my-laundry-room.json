@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-install-heated-floors-in-my-laundry-room",
+  "name": "Can I install heated floors in my laundry room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install heated floors in my laundry room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, installing heated floors (radiant floor heating) in a laundry room is an option, especially with tile or concrete flooring. It can enhance comfort, making the space more pleasant. Heated floors can also help dry up minor spills more quickly, though they are not a substitute for proper ventilation or moisture management. Installation typically involves an electric mat or hydronic tubing system beneath the finished floor.",
+        "@type": "Answer",
+        "description": "Yes, heated floors can be installed in a laundry room, particularly with tile, to enhance comfort and assist with drying minor spills."
+      }
+    }
+  ],
+  "description": "Yes, heated floors can be installed in a laundry room, particularly with tile, to enhance comfort and assist with drying minor spills."
+}

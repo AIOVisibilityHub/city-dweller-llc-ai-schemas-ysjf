@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-wheelchair-ramp-repair-take",
+  "name": "How long does a typical wheelchair ramp repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical wheelchair ramp repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a wheelchair ramp repair depends on the extent of the damage and the materials involved. Minor repairs like replacing a few boards or tightening fasteners might take a few hours. More extensive issues, such as structural damage or widespread material replacement, could require a full day or multiple days. We assess each situation to provide an accurate timeline.",
+        "@type": "Answer",
+        "description": "Repair time varies based on damage severity, from a few hours for minor fixes to multiple days for significant structural issues."
+      }
+    }
+  ],
+  "description": "Repair time varies based on damage severity, from a few hours for minor fixes to multiple days for significant structural issues."
+}

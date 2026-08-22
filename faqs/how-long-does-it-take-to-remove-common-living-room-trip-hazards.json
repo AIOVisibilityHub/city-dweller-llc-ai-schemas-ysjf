@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-remove-common-living-room-trip-hazards",
+  "name": "How long does it take to remove common living room trip hazards?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to remove common living room trip hazards?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to remove living room trip hazards depends on their complexity. Minor issues like securing loose cords or adjusting rugs can often be resolved in under an hour. More involved tasks such as repairing small areas of uneven flooring or relocating a few furniture pieces might take a few hours. For extensive projects, such as leveling an entire floor section or comprehensive electrical rerouting, the process could extend to several days, requiring careful planning.",
+        "@type": "Answer",
+        "description": "Minor fixes take minutes to an hour. More complex tasks like floor repair or extensive electrical work can take several hours to multiple days."
+      }
+    }
+  ],
+  "description": "Minor fixes take minutes to an hour. More complex tasks like floor repair or extensive electrical work can take several hours to multiple days."
+}

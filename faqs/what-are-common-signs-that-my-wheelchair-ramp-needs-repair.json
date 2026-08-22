@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-signs-that-my-wheelchair-ramp-needs-repair",
+  "name": "What are common signs that my wheelchair ramp needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my wheelchair ramp needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Look for visible damage such as cracks, splinters, loose fasteners, uneven surfaces, or unstable handrails. Ramps should feel solid and secure when used. Any noticeable flexing, shifting, or deterioration of materials like wood rot or corroded metal indicates a need for repair to ensure safety and functionality. Regular inspection helps catch issues early.",
+        "@type": "Answer",
+        "description": "Common signs include cracks, splinters, loose fasteners, uneven surfaces, unstable handrails, or general deterioration of materials."
+      }
+    }
+  ],
+  "description": "Common signs include cracks, splinters, loose fasteners, uneven surfaces, unstable handrails, or general deterioration of materials."
+}

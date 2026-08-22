@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-modifying-a-living-room-for-accessibility",
+  "name": "What is the process for modifying a living room for accessibility?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for modifying a living room for accessibility?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with an initial consultation to assess existing needs and discuss desired modifications. A general contractor will then conduct a site visit to evaluate the living room's current layout, structural elements, and potential challenges. Based on this, they will propose design solutions, material options, and provide a detailed project estimate. Once approved, the contractor manages permits if necessary, schedules work, and oversees construction, ensuring modifications meet accessibility standards and client expectations. Regular communication keeps the client informed throughout the project.",
+        "@type": "Answer",
+        "description": "The process involves consultation, site assessment, design proposal, detailed estimate, and then project management including permits and construction."
+      }
+    }
+  ],
+  "description": "The process involves consultation, site assessment, design proposal, detailed estimate, and then project management including permits and construction."
+}

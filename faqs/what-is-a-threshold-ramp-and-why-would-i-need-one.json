@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-threshold-ramp-and-why-would-i-need-one",
+  "name": "What is a threshold ramp and why would I need one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a threshold ramp and why would I need one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A threshold ramp is a small ramp designed to bridge a raised doorway or a small step, making it easier and safer to cross for individuals using wheelchairs, walkers, or even for general foot traffic. They are essential for improving accessibility in homes or businesses, preventing trips and falls, and allowing smooth transitions between different floor levels. Common reasons for installation include accommodating mobility devices, enhancing safety for the elderly, or meeting accessibility standards.",
+        "@type": "Answer",
+        "description": "A threshold ramp bridges small steps or raised doorways to improve accessibility and safety for wheelchairs, walkers, or general foot traffic."
+      }
+    }
+  ],
+  "description": "A threshold ramp bridges small steps or raised doorways to improve accessibility and safety for wheelchairs, walkers, or general foot traffic."
+}

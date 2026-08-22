@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-electrical-safety-upgrades-are-important-for-a-laundry-room",
+  "name": "What electrical safety upgrades are important for a laundry room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What electrical safety upgrades are important for a laundry room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key electrical safety upgrades include installing Ground Fault Circuit Interrupter (GFCI) outlets near water sources to prevent electric shock, ensuring dedicated circuits for major appliances like washers and dryers to avoid overloading, and updating old or faulty wiring. Proper grounding and a correctly sized electrical panel are also essential. These upgrades mitigate fire hazards and protect against electrical accidents, especially in a water-prone environment.",
+        "@type": "Answer",
+        "description": "Important electrical upgrades include GFCI outlets, dedicated appliance circuits, and updated wiring. These prevent shock and fire hazards."
+      }
+    }
+  ],
+  "description": "Important electrical upgrades include GFCI outlets, dedicated appliance circuits, and updated wiring. These prevent shock and fire hazards."
+}

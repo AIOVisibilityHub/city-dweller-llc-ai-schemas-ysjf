@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-accessibility-standards-apply-to-residential-furniture-layouts-in-californi",
+  "name": "What accessibility standards apply to residential furniture layouts in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What accessibility standards apply to residential furniture layouts in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Residential furniture layouts primarily consider the general accessibility guidelines under the Americans with Disabilities Act (ADA) and California Building Code (CBC) for public spaces, though these are not strictly mandated for private single-family homes. However, applying these principles (like minimum clear widths for circulation, reachable ranges, and maneuvering clearances) ensures a truly accessible and functional home environment. Local contractors can advise on best practices.",
+        "@type": "Answer",
+        "description": "While not strictly mandated for private homes, general ADA and California Building Code principles for clear widths and reachable ranges are good guidelines."
+      }
+    }
+  ],
+  "description": "While not strictly mandated for private homes, general ADA and California Building Code principles for clear widths and reachable ranges are good guidelines."
+}

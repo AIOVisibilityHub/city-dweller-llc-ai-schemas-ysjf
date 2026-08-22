@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-a-wheelchair-ramp-be-installed-on-a-sloped-yard-or-uneven-terrain",
+  "name": "Can a wheelchair ramp be installed on a sloped yard or uneven terrain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a wheelchair ramp be installed on a sloped yard or uneven terrain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, wheelchair ramps can be installed on sloped yards or uneven terrain, but it often requires more complex design and construction. Our team can engineer solutions that safely navigate varied landscapes, potentially involving terracing, grading, or custom support structures. We conduct a thorough site assessment to determine the best approach for stability, safety, and compliance with accessibility standards, ensuring the ramp integrates effectively with your property's unique characteristics. This ensures a safe and accessible path regardless of the original ground conditions.",
+        "@type": "Answer",
+        "description": "Yes, ramps can be installed on sloped or uneven terrain, but it requires careful design and construction, often involving grading or custom support structures, for stability and safety."
+      }
+    }
+  ],
+  "description": "Yes, ramps can be installed on sloped or uneven terrain, but it requires careful design and construction, often involving grading or custom support structures,"
+}

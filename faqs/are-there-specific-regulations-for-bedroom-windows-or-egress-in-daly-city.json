@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-there-specific-regulations-for-bedroom-windows-or-egress-in-daly-city",
+  "name": "Are there specific regulations for bedroom windows or egress in Daly City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific regulations for bedroom windows or egress in Daly City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, building codes, including those adopted by Daly City, typically require all sleeping rooms to have an emergency escape and rescue opening (egress window). These windows must meet specific minimum dimensions for clear opening height, width, and net clear opening area, and be accessible from the inside without special tools. Sill height requirements also apply. These regulations are in place to ensure occupants can safely exit in an emergency and that emergency personnel can enter. We can review your bedroom windows to ensure they meet current Daly City egress codes.",
+        "@type": "Answer",
+        "description": "Daly City requires bedroom windows to meet specific egress (emergency escape) dimensions for height, width, area, and sill height to ensure safety and code compliance."
+      }
+    }
+  ],
+  "description": "Daly City requires bedroom windows to meet specific egress (emergency escape) dimensions for height, width, area, and sill height to ensure safety and code comp"
+}

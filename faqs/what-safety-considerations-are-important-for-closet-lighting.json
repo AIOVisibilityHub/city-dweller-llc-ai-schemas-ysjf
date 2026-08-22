@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-safety-considerations-are-important-for-closet-lighting",
+  "name": "What safety considerations are important for closet lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What safety considerations are important for closet lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When installing closet lighting, it's crucial to prioritize safety. Ensure all fixtures are rated for enclosed spaces if applicable, to prevent overheating. Use LED lights as they produce less heat than incandescent bulbs, reducing fire risk, especially near fabrics. Proper wiring by a qualified electrician is essential to avoid electrical hazards. Always ensure adequate clearance around light fixtures, especially recessed ones, and comply with all local electrical codes. Avoid covering lights with clothing or stored items.",
+        "@type": "Answer",
+        "description": "Key safety considerations include using appropriate fixtures (like LEDs to reduce heat), proper wiring, and ensuring adequate clearance to prevent fire hazards."
+      }
+    }
+  ],
+  "description": "Key safety considerations include using appropriate fixtures (like LEDs to reduce heat), proper wiring, and ensuring adequate clearance to prevent fire hazards."
+}

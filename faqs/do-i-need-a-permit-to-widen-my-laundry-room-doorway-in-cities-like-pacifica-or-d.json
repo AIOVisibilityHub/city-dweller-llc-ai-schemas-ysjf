@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-permit-to-widen-my-laundry-room-doorway-in-cities-like-pacifica-or-d",
+  "name": "Do I need a permit to widen my laundry room doorway in cities like Pacifica or Daly City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to widen my laundry room doorway in cities like Pacifica or Daly City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In cities like Pacifica or Daly City, a permit is typically required if the doorway widening involves altering a load-bearing wall or if the project significantly changes the structural integrity of the home. Non-load-bearing wall modifications might not always require a permit, but it's always best practice to consult with a licensed contractor. They can assess your specific situation and advise on permit requirements to ensure compliance with local building codes.",
+        "@type": "Answer",
+        "description": "A permit is usually required for doorway widening in cities like Pacifica or Daly City if structural or load-bearing walls are involved."
+      }
+    }
+  ],
+  "description": "A permit is usually required for doorway widening in cities like Pacifica or Daly City if structural or load-bearing walls are involved."
+}

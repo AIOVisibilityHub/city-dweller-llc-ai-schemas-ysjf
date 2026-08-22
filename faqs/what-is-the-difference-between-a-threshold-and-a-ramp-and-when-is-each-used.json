@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-a-threshold-and-a-ramp-and-when-is-each-used",
+  "name": "What is the difference between a threshold and a ramp, and when is each used?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a threshold and a ramp, and when is each used?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A threshold is typically a raised strip of material at the bottom of a doorway that separates two different flooring types or rooms. It helps prevent drafts and can provide a finished look. A ramp, on the other hand, is an inclined surface connecting two different levels, designed to provide accessible passage for wheelchairs, strollers, or to move heavy objects. Thresholds are used for minor height differences or aesthetic transitions, while ramps are essential for larger elevation changes and accessibility compliance, particularly with ADA standards.",
+        "@type": "Answer",
+        "description": "Thresholds are for minor height differences and transitions, while ramps provide accessible passage over larger elevation changes, often for accessibility."
+      }
+    }
+  ],
+  "description": "Thresholds are for minor height differences and transitions, while ramps provide accessible passage over larger elevation changes, often for accessibility."
+}

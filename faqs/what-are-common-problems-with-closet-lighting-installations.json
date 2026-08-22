@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-problems-with-closet-lighting-installations",
+  "name": "What are common problems with closet lighting installations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common problems with closet lighting installations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common problems with closet lighting installations include insufficient brightness, poor light distribution leaving dark spots, flickering lights due to faulty wiring, or fixtures that overheat. Incorrectly chosen color temperatures can make it difficult to distinguish clothing colors. DIY installations without proper electrical knowledge can lead to safety hazards like short circuits or fire risks. Overlooking local building codes can also cause issues during inspections. Professional installation helps avoid these problems by ensuring proper planning, safe wiring, and appropriate fixture selection.",
+        "@type": "Answer",
+        "description": "Problems include insufficient brightness, poor distribution, flickering, overheating, incorrect color temperature, and safety hazards from improper wiring."
+      }
+    }
+  ],
+  "description": "Problems include insufficient brightness, poor distribution, flickering, overheating, incorrect color temperature, and safety hazards from improper wiring."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-repair-my-existing-ramp-versus-replacing-it-entirely",
+  "name": "When should I repair my existing ramp versus replacing it entirely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair my existing ramp versus replacing it entirely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing is often suitable for localized damage like a few cracked boards, loose handrails, or minor surface issues. Consider replacement if the ramp has extensive structural rot, severe corrosion, widespread deterioration, or if it no longer meets current accessibility standards. A professional assessment can help determine the most cost-effective and safest option based on the ramp's overall condition and your needs.",
+        "@type": "Answer",
+        "description": "Repair minor damage; replace if there's extensive structural rot, severe corrosion, widespread deterioration, or if it no longer meets current accessibility standards."
+      }
+    }
+  ],
+  "description": "Repair minor damage; replace if there's extensive structural rot, severe corrosion, widespread deterioration, or if it no longer meets current accessibility sta"
+}

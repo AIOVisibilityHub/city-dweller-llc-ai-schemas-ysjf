@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-a-bedroom-handrail-be-installed-on-any-wall-type",
+  "name": "Can a bedroom handrail be installed on any wall type?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a bedroom handrail be installed on any wall type?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most bedroom handrails require secure attachment to structural elements within the wall, such as studs, to ensure stability and safety. While installation is straightforward on walls with accessible studs, walls made of plaster, drywall without solid backing, or unusual materials may require specialized anchoring techniques or additional reinforcement. Our team conducts a thorough assessment of your wall type to determine the safest and most effective installation method, ensuring your handrail is securely mounted.",
+        "@type": "Answer",
+        "description": "Handrails require secure attachment to wall studs for stability. Walls without solid backing may need specialized anchoring or reinforcement. We assess wall types to ensure safe installation."
+      }
+    }
+  ],
+  "description": "Handrails require secure attachment to wall studs for stability. Walls without solid backing may need specialized anchoring or reinforcement. We assess wall typ"
+}

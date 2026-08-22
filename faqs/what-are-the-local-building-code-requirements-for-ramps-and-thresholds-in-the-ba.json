@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-local-building-code-requirements-for-ramps-and-thresholds-in-the-ba",
+  "name": "What are the local building code requirements for ramps and thresholds in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the local building code requirements for ramps and thresholds in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building code requirements for ramps and thresholds in the Bay Area, including cities like Pacifica and Daly City, primarily follow the California Building Code (CBC) which incorporates ADA guidelines for accessibility. This includes specifications for slope, width, landings, handrails, and surface texture for ramps, and height limitations for thresholds. Specific requirements can vary slightly depending on the type of building (residential vs. commercial) and local ordinances. City Dweller can help navigate these codes to ensure your project is compliant.",
+        "@type": "Answer",
+        "description": "Bay Area codes follow California Building Code and ADA guidelines for ramp slope, width, and threshold height. Requirements vary by building type."
+      }
+    }
+  ],
+  "description": "Bay Area codes follow California Building Code and ADA guidelines for ramp slope, width, and threshold height. Requirements vary by building type."
+}

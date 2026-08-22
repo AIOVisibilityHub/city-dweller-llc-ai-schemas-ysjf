@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-clear-floor-space-is-needed-for-accessible-appliance-use",
+  "name": "What clear floor space is needed for accessible appliance use?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What clear floor space is needed for accessible appliance use?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For accessible appliance use, a clear floor space of at least 30 inches by 48 inches is generally required in front of all appliances, controls, and work surfaces. This space allows for comfortable maneuverability for individuals using wheelchairs, walkers, or other mobility aids. This clear zone should not be obstructed by doors, furniture, or other fixtures. Ensuring adequate turning radius within the kitchen or laundry room is also vital for overall accessibility.",
+        "@type": "Answer",
+        "description": "A clear floor space of at least 30x48 inches is needed in front of appliances and work surfaces for accessible use, accommodating wheelchairs and mobility aids."
+      }
+    }
+  ],
+  "description": "A clear floor space of at least 30x48 inches is needed in front of appliances and work surfaces for accessible use, accommodating wheelchairs and mobility aids."
+}

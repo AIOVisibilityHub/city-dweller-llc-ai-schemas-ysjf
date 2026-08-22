@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-living-room-accessibility-modifications",
+  "name": "When should I consider living room accessibility modifications?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider living room accessibility modifications?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider living room accessibility modifications when a household member experiences changes in mobility, vision, or other physical abilities that make navigating the current space difficult or unsafe. This often includes planning for aging in place, recovering from an injury, or adapting to a progressive condition. Proactive modifications can prevent accidents and maintain independence. Even without immediate needs, evaluating future accessibility can be beneficial during a renovation or home purchase to ensure long-term usability and comfort.",
+        "@type": "Answer",
+        "description": "Consider modifications when a household member has mobility or vision changes, or when planning for aging in place, to enhance safety and independence."
+      }
+    }
+  ],
+  "description": "Consider modifications when a household member has mobility or vision changes, or when planning for aging in place, to enhance safety and independence."
+}

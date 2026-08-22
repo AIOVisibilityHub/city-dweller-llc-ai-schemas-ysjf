@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-common-mistakes-should-i-avoid-in-accessible-furniture-layout",
+  "name": "What common mistakes should I avoid in accessible furniture layout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common mistakes should I avoid in accessible furniture layout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Avoid creating narrow pathways, blocking entryways or windows, and placing essential items out of reach. Another common mistake is overlooking the turning radius required for wheelchairs in bathrooms or kitchens. Not considering future needs or failing to test the layout with actual users are also pitfalls. Always prioritize clear, unobstructed movement and functional access to all areas.",
+        "@type": "Answer",
+        "description": "Avoid narrow pathways, blocked access, unreachable items, ignoring turning radii, and not considering future needs or user testing."
+      }
+    }
+  ],
+  "description": "Avoid narrow pathways, blocked access, unreachable items, ignoring turning radii, and not considering future needs or user testing."
+}

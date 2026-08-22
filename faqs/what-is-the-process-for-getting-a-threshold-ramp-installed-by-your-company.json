@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-getting-a-threshold-ramp-installed-by-your-company",
+  "name": "What is the process for getting a threshold ramp installed by your company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for getting a threshold ramp installed by your company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation where we discuss your specific needs and assess the installation site. We'll take measurements, evaluate the existing doorway or step, and recommend suitable ramp options. Following this, we provide a detailed quote. Once approved, we schedule the installation at your convenience. Our team handles the delivery and professional installation, ensuring the ramp is secure, safe, and meets your accessibility requirements. We also perform a final check for stability and proper function.",
+        "@type": "Answer",
+        "description": "Our process involves consultation, site assessment, recommendation, detailed quote, scheduled installation, and final safety check."
+      }
+    }
+  ],
+  "description": "Our process involves consultation, site assessment, recommendation, detailed quote, scheduled installation, and final safety check."
+}

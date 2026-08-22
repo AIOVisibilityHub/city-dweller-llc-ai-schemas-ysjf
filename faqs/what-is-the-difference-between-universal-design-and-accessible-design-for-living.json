@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-universal-design-and-accessible-design-for-living",
+  "name": "What is the difference between universal design and accessible design for living rooms?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between universal design and accessible design for living rooms?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Universal design aims to create spaces that are usable by all people, to the greatest extent possible, without the need for adaptation or specialized design. For a living room, this might mean wider doorways and open layouts from the initial construction, benefiting everyone. Accessible design, on the other hand, focuses on modifying existing spaces to meet the specific needs of individuals with disabilities, addressing barriers. While both promote usability, universal design is proactive and inclusive from the start, whereas accessible design is often reactive or retrofit-oriented.",
+        "@type": "Answer",
+        "description": "Universal design creates spaces for all without adaptation, like wider doorways. Accessible design modifies existing spaces for specific disability needs, often retroactively."
+      }
+    }
+  ],
+  "description": "Universal design creates spaces for all without adaptation, like wider doorways. Accessible design modifies existing spaces for specific disability needs, often"
+}

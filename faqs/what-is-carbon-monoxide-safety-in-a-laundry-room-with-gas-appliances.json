@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-carbon-monoxide-safety-in-a-laundry-room-with-gas-appliances",
+  "name": "What is carbon monoxide safety in a laundry room with gas appliances?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is carbon monoxide safety in a laundry room with gas appliances?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Carbon monoxide (CO) safety in a laundry room with gas appliances primarily involves ensuring proper ventilation and installing CO detectors. Gas dryers, water heaters, or furnaces can produce CO if not properly vented, leading to a silent, odorless, and potentially fatal gas leak. Regular inspection of exhaust flues for blockages or damage is critical. Installing a CO detector near gas-fired appliances provides an early warning, protecting your household from this dangerous gas.",
+        "@type": "Answer",
+        "description": "Carbon monoxide safety with gas appliances requires proper ventilation and CO detectors. Regular flue inspections prevent dangerous, silent leaks."
+      }
+    }
+  ],
+  "description": "Carbon monoxide safety with gas appliances requires proper ventilation and CO detectors. Regular flue inspections prevent dangerous, silent leaks."
+}

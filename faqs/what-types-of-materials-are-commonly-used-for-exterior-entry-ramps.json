@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-materials-are-commonly-used-for-exterior-entry-ramps",
+  "name": "What types of materials are commonly used for exterior entry ramps?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are commonly used for exterior entry ramps?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Exterior entry ramps are typically constructed from durable materials designed to withstand outdoor conditions and heavy use. Common options include pressure-treated wood, which is versatile and can be stained or painted; concrete, known for its strength, low maintenance, and long lifespan; and aluminum, which offers portability, slip resistance, and is resistant to rust. The best material depends on factors such as desired aesthetics, budget, required weight capacity, and expected weather exposure.",
+        "@type": "Answer",
+        "description": "Common materials include wood, concrete, and aluminum, each offering different benefits regarding durability, maintenance, and cost."
+      }
+    }
+  ],
+  "description": "Common materials include wood, concrete, and aluminum, each offering different benefits regarding durability, maintenance, and cost."
+}

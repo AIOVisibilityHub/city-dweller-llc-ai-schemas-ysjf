@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-there-specific-requirements-for-accessible-ovens",
+  "name": "Are there specific requirements for accessible ovens?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific requirements for accessible ovens?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, accessible ovens typically involve wall-mounted units rather than traditional range ovens, allowing for independent operation without bending or reaching over hot burners. The bottom of the oven should be between 15 to 30 inches from the floor, with controls at a height that is within reach range, usually between 15 to 48 inches from the floor. Side-opening doors can also be beneficial, as they eliminate the need to reach over a hot pull-down door. Clear floor space in front is also essential.",
+        "@type": "Answer",
+        "description": "Accessible ovens are usually wall-mounted, with the bottom 15-30 inches from the floor and controls within 15-48 inches. Side-opening doors are also beneficial, along with clear floor space."
+      }
+    }
+  ],
+  "description": "Accessible ovens are usually wall-mounted, with the bottom 15-30 inches from the floor and controls within 15-48 inches. Side-opening doors are also beneficial,"
+}

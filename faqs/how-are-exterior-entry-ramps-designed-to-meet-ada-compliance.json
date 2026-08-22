@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-are-exterior-entry-ramps-designed-to-meet-ada-compliance",
+  "name": "How are exterior entry ramps designed to meet ADA compliance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How are exterior entry ramps designed to meet ADA compliance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "ADA compliance for exterior entry ramps primarily focuses on ensuring accessibility for individuals with disabilities. Key design elements include a maximum slope of 1:12 (one inch of rise for every 12 inches of run), a minimum clear width of 36 inches, level landings at the top and bottom, and handrails on both sides if the rise is greater than 6 inches or the horizontal projection is greater than 72 inches. Surfaces must also be firm, stable, and slip-resistant. We ensure all ramp designs adhere to current ADA guidelines.",
+        "@type": "Answer",
+        "description": "ADA-compliant ramps require specific slopes, widths, landings, and handrails to ensure accessibility, with a common slope of 1:12."
+      }
+    }
+  ],
+  "description": "ADA-compliant ramps require specific slopes, widths, landings, and handrails to ensure accessibility, with a common slope of 1:12."
+}

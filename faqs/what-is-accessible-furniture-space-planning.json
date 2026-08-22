@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-accessible-furniture-space-planning",
+  "name": "What is accessible furniture space planning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is accessible furniture space planning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Accessible furniture space planning focuses on arranging furniture to ensure ease of movement and access for individuals with diverse mobility needs. This includes considerations like wider pathways, appropriate clearances around fixtures, and furniture heights that accommodate wheelchairs or other mobility aids. The goal is to create functional, comfortable, and inclusive environments that comply with accessibility standards.",
+        "@type": "Answer",
+        "description": "Accessible furniture space planning designs layouts for easy movement and access, especially for those with mobility needs."
+      }
+    }
+  ],
+  "description": "Accessible furniture space planning designs layouts for easy movement and access, especially for those with mobility needs."
+}

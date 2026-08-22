@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-there-any-grants-or-financial-assistance-programs-available-for-wheelchair-r",
+  "name": "Are there any grants or financial assistance programs available for wheelchair ramp repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any grants or financial assistance programs available for wheelchair ramp repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While City Dweller, LLC does not directly offer grants, we recommend researching local, state, and national programs that may provide financial assistance for home modifications related to accessibility. Organizations focused on disability support, veterans' affairs, or senior services sometimes offer grants or low-interest loans. We can provide documentation for your repair project, which might be needed for such applications.",
+        "@type": "Answer",
+        "description": "We don't offer grants, but we recommend researching local, state, and national programs for financial assistance for accessibility modifications. We can provide repair documentation."
+      }
+    }
+  ],
+  "description": "We don't offer grants, but we recommend researching local, state, and national programs for financial assistance for accessibility modifications. We can provide"
+}

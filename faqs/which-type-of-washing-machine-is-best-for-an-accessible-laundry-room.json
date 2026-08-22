@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/which-type-of-washing-machine-is-best-for-an-accessible-laundry-room",
+  "name": "Which type of washing machine is best for an accessible laundry room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Which type of washing machine is best for an accessible laundry room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Front-loading washing machines and dryers are generally considered best for accessible laundry rooms. Their design allows for easier loading and unloading from a wheelchair or a seated position, eliminating the need to bend over a top-loader. Pedestals can also be used to raise front-loading machines to a more comfortable height. Look for models with accessible controls, such as large buttons, digital displays, and audible feedback.",
+        "@type": "Answer",
+        "description": "Front-loading washers and dryers are typically best, allowing easier access from a seated position, especially when paired with pedestals."
+      }
+    }
+  ],
+  "description": "Front-loading washers and dryers are typically best, allowing easier access from a seated position, especially when paired with pedestals."
+}

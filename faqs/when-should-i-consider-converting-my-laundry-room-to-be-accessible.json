@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-converting-my-laundry-room-to-be-accessible",
+  "name": "When should I consider converting my laundry room to be accessible?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider converting my laundry room to be accessible?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider converting your laundry room to be accessible if you or a family member has mobility challenges, or if you are planning for future needs (aging in place). It's also a valuable upgrade for increasing home functionality and resale appeal. Making changes proactively can prevent future difficulties and enhance daily living. We can assess your current setup and advise on the most beneficial modifications.",
+        "@type": "Answer",
+        "description": "Consider converting your laundry room for accessibility if you or a family member has mobility challenges, are aging in place, or to enhance home value."
+      }
+    }
+  ],
+  "description": "Consider converting your laundry room for accessibility if you or a family member has mobility challenges, are aging in place, or to enhance home value."
+}

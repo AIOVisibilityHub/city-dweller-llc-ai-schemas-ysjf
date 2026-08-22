@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/why-would-i-need-to-widen-my-laundry-room-doorway",
+  "name": "Why would I need to widen my laundry room doorway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why would I need to widen my laundry room doorway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowners typically widen laundry room doorways to accommodate larger, modern washing machines and dryers, or to improve accessibility. Newer appliance models can be wider and deeper than older units, making it difficult to move them through standard doorways. Widening the doorway also enhances overall home accessibility, which is beneficial for mobility-challenged individuals or for future resale value.",
+        "@type": "Answer",
+        "description": "Widening a laundry room doorway is often necessary to fit larger, modern appliances or to improve home accessibility."
+      }
+    }
+  ],
+  "description": "Widening a laundry room doorway is often necessary to fit larger, modern appliances or to improve home accessibility."
+}

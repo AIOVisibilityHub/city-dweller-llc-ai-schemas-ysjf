@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-maintenance-is-required-for-exterior-entry-ramps",
+  "name": "What maintenance is required for exterior entry ramps?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for exterior entry ramps?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance for exterior entry ramps varies by material. Wooden ramps require regular inspection for rot, splinters, or loose fasteners, and may need periodic sealing or painting. Concrete ramps are generally low-maintenance, primarily requiring occasional cleaning and checking for cracks. Aluminum ramps are highly durable and rust-resistant, usually only needing periodic cleaning. Regardless of material, regular clearing of debris, ice, or snow is essential to maintain safety and functionality.",
+        "@type": "Answer",
+        "description": "Maintenance depends on the material; wood needs regular checks and sealing, concrete requires cleaning, and aluminum needs periodic cleaning."
+      }
+    }
+  ],
+  "description": "Maintenance depends on the material; wood needs regular checks and sealing, concrete requires cleaning, and aluminum needs periodic cleaning."
+}

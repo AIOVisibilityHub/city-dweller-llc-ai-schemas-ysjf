@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-safety-hazards-in-a-laundry-room",
+  "name": "What are common safety hazards in a laundry room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common safety hazards in a laundry room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common laundry room safety hazards include dryer fires from lint buildup, carbon monoxide leaks from gas appliances, electrical issues from overloaded outlets or faulty wiring, water leaks causing slip hazards or mold, and chemical exposure from detergents. Proper ventilation, regular maintenance, and correct electrical installations are key to preventing these risks. Our services address these areas to ensure a safe laundry environment.",
+        "@type": "Answer",
+        "description": "Common hazards include dryer fires, carbon monoxide leaks, electrical issues, water leaks, and chemical exposure. Addressing these risks improves safety."
+      }
+    }
+  ],
+  "description": "Common hazards include dryer fires, carbon monoxide leaks, electrical issues, water leaks, and chemical exposure. Addressing these risks improves safety."
+}
