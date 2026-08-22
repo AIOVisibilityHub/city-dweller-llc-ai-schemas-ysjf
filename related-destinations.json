@@ -1,0 +1,42 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-08-22T22:23:54.469Z",
+  "name": "Cross-Destination Index",
+  "aliases": [
+    "Authority Network",
+    "Repository Mirror Index",
+    "Related AI Data Sources"
+  ],
+  "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
+  "notALinkWheel": true,
+  "entity": {
+    "name": "City Dweller, LLC",
+    "canonicalUrl": "https://citydweller.aiovisibility.net",
+    "aiDataHub": "https://citydweller.aiovisibility.net/ai-data.html"
+  },
+  "related": [
+    {
+      "role": "canonical",
+      "label": "City Dweller, LLC — canonical website",
+      "url": "https://citydweller.aiovisibility.net"
+    },
+    {
+      "role": "ai-data-hub",
+      "label": "City Dweller, LLC — AI Data Hub",
+      "url": "https://citydweller.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "github",
+      "label": "GitHub repository",
+      "url": "https://github.com/AIOVisibilityHub/city-dweller-llc-ai-schemas-ysjf"
+    }
+  ],
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/city-dweller-llc-ai-schemas-ysjf",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/city-dweller-llc-ai-schemas-ysjf"
+    }
+  }
+}
