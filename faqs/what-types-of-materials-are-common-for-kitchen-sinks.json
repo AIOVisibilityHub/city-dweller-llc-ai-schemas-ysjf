@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-materials-are-common-for-kitchen-sinks",
+  "name": "What types of materials are common for kitchen sinks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are common for kitchen sinks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common kitchen sink materials include stainless steel, cast iron, fireclay, granite composite, and copper. Stainless steel is popular for its durability, affordability, and ease of cleaning. Cast iron sinks are known for their heavy-duty construction and enamel coating. Fireclay offers a classic, smooth finish, while granite composite provides resistance to scratches and heat. Copper sinks offer a unique aesthetic and antimicrobial properties, though they require specific care.",
+        "@type": "Answer",
+        "description": "Common kitchen sink materials include stainless steel, cast iron, fireclay, granite composite, and copper, each offering distinct benefits."
+      }
+    }
+  ],
+  "description": "Common kitchen sink materials include stainless steel, cast iron, fireclay, granite composite, and copper, each offering distinct benefits."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-remove-my-old-countertops-before-installation",
+  "name": "Do I need to remove my old countertops before installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to remove my old countertops before installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most cases, yes, existing countertops need to be completely removed before new ones can be installed. This ensures a clean, level surface for the new installation and allows for precise templating. We can typically handle the demolition and removal of your old countertops as part of our service. However, if you prefer to remove them yourself, please ensure the cabinets are completely clear and accessible for our installers on the scheduled date.",
+        "@type": "Answer",
+        "description": "Yes, old countertops typically need removal to ensure a clean, level surface for new installation. We can handle the demolition."
+      }
+    }
+  ],
+  "description": "Yes, old countertops typically need removal to ensure a clean, level surface for new installation. We can handle the demolition."
+}

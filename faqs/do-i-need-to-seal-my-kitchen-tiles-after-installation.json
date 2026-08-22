@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-seal-my-kitchen-tiles-after-installation",
+  "name": "Do I need to seal my kitchen tiles after installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to seal my kitchen tiles after installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need to seal your kitchen tiles depends on the type of tile and grout used. Glazed ceramic and porcelain tiles are generally non-porous and do not require sealing. However, all cement-based grout, regardless of the tile type, is porous and should be sealed to protect against stains and moisture penetration. Natural stone tiles, such as marble, granite, or slate, are inherently porous and require sealing both before grouting and after the installation is complete. Sealing helps maintain the tile's appearance and prolong its lifespan.",
+        "@type": "Answer",
+        "description": "Sealing depends on tile type; glazed ceramic/porcelain usually don't need it, but all cement-based grout and natural stone tiles do."
+      }
+    }
+  ],
+  "description": "Sealing depends on tile type; glazed ceramic/porcelain usually don't need it, but all cement-based grout and natural stone tiles do."
+}

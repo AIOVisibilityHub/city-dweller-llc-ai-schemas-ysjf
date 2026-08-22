@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-my-kitchen-sink-and-faucet-always-match-in-finish",
+  "name": "Should my kitchen sink and faucet always match in finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should my kitchen sink and faucet always match in finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While a matching finish creates a classic, unified look, it's not strictly necessary. You can achieve a sophisticated design by mixing finishes, provided they complement each other and the broader kitchen aesthetic. For instance, a matte black faucet can contrast beautifully with a stainless steel sink, or a brushed brass faucet can add warmth to a white ceramic sink. The key is to ensure the chosen finishes work together harmoniously to create an intentional and appealing design.",
+        "@type": "Answer",
+        "description": "Matching finishes create a unified look, but complementary mixed finishes can also achieve a sophisticated design."
+      }
+    }
+  ],
+  "description": "Matching finishes create a unified look, but complementary mixed finishes can also achieve a sophisticated design."
+}

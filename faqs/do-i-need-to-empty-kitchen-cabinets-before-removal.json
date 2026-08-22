@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-empty-kitchen-cabinets-before-removal",
+  "name": "Do I need to empty kitchen cabinets before removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to empty kitchen cabinets before removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is essential to completely empty all kitchen cabinets before the removal process begins. This includes removing all contents such as dishes, food items, appliances, and any personal belongings. Emptying the cabinets ensures the safety of our crew, prevents damage to your items, and streamlines the removal process. Please also disconnect any small appliances and clear countertops to provide unobstructed access.",
+        "@type": "Answer",
+        "description": "Yes, you must completely empty all kitchen cabinets of contents before removal for safety, to prevent damage, and to streamline the process."
+      }
+    }
+  ],
+  "description": "Yes, you must completely empty all kitchen cabinets of contents before removal for safety, to prevent damage, and to streamline the process."
+}

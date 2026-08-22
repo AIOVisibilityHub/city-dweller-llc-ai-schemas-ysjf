@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-there-eco-friendly-countertop-options-available",
+  "name": "Are there eco-friendly countertop options available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there eco-friendly countertop options available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, several eco-friendly countertop options are available for those prioritizing sustainability. Recycled glass countertops use post-consumer or industrial glass fragments embedded in a resin or cement base, offering unique aesthetics. Bamboo and reclaimed wood offer renewable and natural warmth. Other options include recycled paper composites, which are durable and stain-resistant. These materials provide a sustainable choice without compromising on style or functionality, often available in a variety of colors and finishes.",
+        "@type": "Answer",
+        "description": "Eco-friendly options include recycled glass, bamboo, reclaimed wood, and recycled paper composites, offering sustainable choices without compromising style or functionality."
+      }
+    }
+  ],
+  "description": "Eco-friendly options include recycled glass, bamboo, reclaimed wood, and recycled paper composites, offering sustainable choices without compromising style or f"
+}

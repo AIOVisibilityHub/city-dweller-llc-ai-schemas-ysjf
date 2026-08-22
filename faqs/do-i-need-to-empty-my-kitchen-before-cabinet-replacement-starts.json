@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-empty-my-kitchen-before-cabinet-replacement-starts",
+  "name": "Do I need to empty my kitchen before cabinet replacement starts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to empty my kitchen before cabinet replacement starts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is essential to completely empty your kitchen of all contents, including dishes, food, small appliances, and decorations, before cabinet replacement begins. This protects your belongings from dust and potential damage during demolition and installation. We recommend finding a temporary storage solution for these items. Additionally, clearing countertops and ensuring easy access to the work area will help our team work efficiently and safely.",
+        "@type": "Answer",
+        "description": "Yes, you must completely empty your kitchen of all contents before cabinet replacement to protect items and allow for efficient work."
+      }
+    }
+  ],
+  "description": "Yes, you must completely empty your kitchen of all contents before cabinet replacement to protect items and allow for efficient work."
+}

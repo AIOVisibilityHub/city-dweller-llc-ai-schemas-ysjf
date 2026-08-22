@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-kitchen-drywall-repair-take",
+  "name": "How long does a typical kitchen drywall repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical kitchen drywall repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a kitchen drywall repair depends on the extent of the damage. Small patches for dents or nail holes might take a few hours, including drying time. Larger repairs involving cutting out damaged sections, installing new drywall, taping, mudding, and sanding typically require 1-3 days, allowing for proper drying between coats of joint compound. Painting will add additional time.",
+        "@type": "Answer",
+        "description": "Repair time varies; small patches take hours, while larger repairs involving replacement and finishing can take 1-3 days."
+      }
+    }
+  ],
+  "description": "Repair time varies; small patches take hours, while larger repairs involving replacement and finishing can take 1-3 days."
+}

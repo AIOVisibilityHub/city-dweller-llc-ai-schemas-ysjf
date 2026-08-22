@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-maintenance-requirements-for-different-countertop-materials",
+  "name": "What are the maintenance requirements for different countertop materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the maintenance requirements for different countertop materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance varies significantly by material. Quartz is non-porous and generally low-maintenance, requiring only mild soap and water for cleaning. Granite needs to be sealed periodically (typically annually) to prevent staining and should be cleaned with pH-neutral cleaners. Marble is the most porous and requires frequent sealing, immediate spill cleanup, and gentle cleaners to prevent etching and stains. Laminate is low-maintenance but susceptible to heat damage and scratches. We provide specific care instructions for your chosen material.",
+        "@type": "Answer",
+        "description": "Maintenance varies: quartz is low-maintenance, granite needs periodic sealing, and marble requires frequent sealing and careful cleaning."
+      }
+    }
+  ],
+  "description": "Maintenance varies: quartz is low-maintenance, granite needs periodic sealing, and marble requires frequent sealing and careful cleaning."
+}

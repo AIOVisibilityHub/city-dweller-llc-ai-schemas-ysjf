@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-does-kitchen-size-affect-appliance-selection-and-layout",
+  "name": "How does kitchen size affect appliance selection and layout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does kitchen size affect appliance selection and layout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kitchen size significantly impacts appliance selection and layout. Smaller kitchens benefit from compact or multi-functional appliances, and a linear or galley layout to maximize space. Larger kitchens offer more flexibility for dedicated zones (e.g., baking, coffee bar) and larger appliances like double ovens or professional-grade ranges. The available footprint dictates the size and number of appliances you can comfortably incorporate while maintaining adequate counter space and safe clearances, especially for appliance doors and walkways.",
+        "@type": "Answer",
+        "description": "Kitchen size determines appliance selection and layout; smaller kitchens need compact options, while larger ones allow for more appliances and specialized zones, impacting overall functionality."
+      }
+    }
+  ],
+  "description": "Kitchen size determines appliance selection and layout; smaller kitchens need compact options, while larger ones allow for more appliances and specialized zones"
+}

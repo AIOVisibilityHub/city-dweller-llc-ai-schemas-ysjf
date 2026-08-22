@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-types-of-kitchen-cabinet-materials",
+  "name": "What are the common types of kitchen cabinet materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common types of kitchen cabinet materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common kitchen cabinet materials include solid wood (like maple, cherry, oak), plywood, MDF (medium-density fiberboard), and particleboard. Solid wood offers durability and a classic look, often at a higher cost. Plywood is a strong, stable, and moisture-resistant option. MDF is an engineered wood product known for its smooth finish and affordability, ideal for painted cabinets. Particleboard is the most budget-friendly but less durable. Each material has distinct characteristics regarding appearance, durability, and price point.",
+        "@type": "Answer",
+        "description": "Common cabinet materials are solid wood, plywood, MDF, and particleboard, each offering different aesthetics, durability, and price points."
+      }
+    }
+  ],
+  "description": "Common cabinet materials are solid wood, plywood, MDF, and particleboard, each offering different aesthetics, durability, and price points."
+}

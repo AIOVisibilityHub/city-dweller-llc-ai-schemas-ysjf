@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-maintenance-is-required-for-different-kitchen-flooring-types",
+  "name": "What maintenance is required for different kitchen flooring types?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for different kitchen flooring types?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance varies by material. LVP and tile are relatively low maintenance, requiring regular sweeping or vacuuming and occasional damp mopping with a mild cleaner. Hardwood floors require more care, including immediate spill cleanup, specific wood cleaners, and periodic refinishing to protect against wear and moisture. Always follow the manufacturer's guidelines for your specific flooring.",
+        "@type": "Answer",
+        "description": "LVP and tile require basic cleaning, while hardwood needs more specific care, including immediate spill cleanup and periodic refinishing."
+      }
+    }
+  ],
+  "description": "LVP and tile require basic cleaning, while hardwood needs more specific care, including immediate spill cleanup and periodic refinishing."
+}

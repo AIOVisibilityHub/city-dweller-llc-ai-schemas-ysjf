@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-primary-purpose-of-a-kitchen-backsplash",
+  "name": "What is the primary purpose of a kitchen backsplash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the primary purpose of a kitchen backsplash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen backsplash primarily serves to protect the walls behind countertops and sinks from splashes of water, food, and grease. This protection prevents moisture damage, staining, and the growth of mold or mildew, especially in high-traffic areas like cooking zones and sinks. Beyond its practical function, a backsplash also acts as a significant design element, adding aesthetic appeal, color, texture, and a focal point to the kitchen's overall design. It helps define the space and can tie together different design elements within the room.",
+        "@type": "Answer",
+        "description": "A kitchen backsplash protects walls from splashes and moisture, preventing damage and staining. It also adds significant aesthetic value and design appeal to the kitchen."
+      }
+    }
+  ],
+  "description": "A kitchen backsplash protects walls from splashes and moisture, preventing damage and staining. It also adds significant aesthetic value and design appeal to th"
+}

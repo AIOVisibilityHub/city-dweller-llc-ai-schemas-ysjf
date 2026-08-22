@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-to-install-a-kitchen-backsplash-in-the-bay-area",
+  "name": "What is the typical cost to install a kitchen backsplash in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to install a kitchen backsplash in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of kitchen backsplash installation in the Bay Area varies widely, typically ranging from $15 to $50 per square foot, including materials and labor. Factors influencing this price include the type of tile chosen (ceramic, porcelain, natural stone, glass), the complexity of the design, wall preparation needed, and the specific contractor's rates. We provide detailed estimates after an initial consultation.",
+        "@type": "Answer",
+        "description": "Installation cost in the Bay Area generally ranges from $15-$50 per square foot, depending on tile type, design complexity, and labor."
+      }
+    }
+  ],
+  "description": "Installation cost in the Bay Area generally ranges from $15-$50 per square foot, depending on tile type, design complexity, and labor."
+}

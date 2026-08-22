@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-installing-new-kitchen-countertops",
+  "name": "What is the process for installing new kitchen countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing new kitchen countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process typically begins with a consultation to select materials and design. Next, we visit your home to create precise templates of your existing cabinets. These templates guide the fabrication of your chosen countertops. Once fabricated, we schedule the installation date. On installation day, old countertops are removed if necessary, followed by the careful placement, leveling, and securing of the new countertops. Final steps include sealing (for natural stone) and reconnecting sinks and cooktops.",
+        "@type": "Answer",
+        "description": "The process involves consultation, templating, fabrication, and then installation, which includes securing and finishing the new countertops."
+      }
+    }
+  ],
+  "description": "The process involves consultation, templating, fabrication, and then installation, which includes securing and finishing the new countertops."
+}

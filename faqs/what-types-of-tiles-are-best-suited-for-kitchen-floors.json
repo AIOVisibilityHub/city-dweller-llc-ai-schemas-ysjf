@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-tiles-are-best-suited-for-kitchen-floors",
+  "name": "What types of tiles are best suited for kitchen floors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of tiles are best suited for kitchen floors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For kitchen floors, durable and water-resistant tiles are ideal. Porcelain tiles are a popular choice due to their high durability, low porosity, and resistance to stains and scratches, making them excellent for high-traffic areas. Ceramic tiles are also a good option, offering versatility in design and good performance. Natural stone tiles like granite or slate provide a luxurious look but require more maintenance and sealing. We can help you select the best option based on your lifestyle and budget.",
+        "@type": "Answer",
+        "description": "Durable and water-resistant tiles like porcelain and ceramic are best for kitchen floors. Natural stone is also an option but requires more maintenance."
+      }
+    }
+  ],
+  "description": "Durable and water-resistant tiles like porcelain and ceramic are best for kitchen floors. Natural stone is also an option but requires more maintenance."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-install-a-new-kitchen-sink-and-faucet",
+  "name": "How long does it take to install a new kitchen sink and faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a new kitchen sink and faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard kitchen sink and faucet installation can typically be completed within a single day, often taking 4-8 hours. This timeframe includes removing the old fixtures, preparing the area, installing the new sink, connecting the faucet, and testing for leaks. However, if plumbing modifications are required, such as relocating water lines, installing a new garbage disposal, or cutting a new countertop opening, the process could extend to two days or require additional specialized trades.",
+        "@type": "Answer",
+        "description": "A standard installation usually takes 4-8 hours. More complex jobs with plumbing modifications or countertop work may take longer."
+      }
+    }
+  ],
+  "description": "A standard installation usually takes 4-8 hours. More complex jobs with plumbing modifications or countertop work may take longer."
+}

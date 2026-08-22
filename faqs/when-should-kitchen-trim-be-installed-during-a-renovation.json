@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-kitchen-trim-be-installed-during-a-renovation",
+  "name": "When should kitchen trim be installed during a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should kitchen trim be installed during a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kitchen trim is typically installed towards the end of a renovation project, after cabinets have been fully installed and aligned. This allows the trim to be cut and fitted precisely to conceal any gaps between cabinets, walls, or ceilings. Flooring should ideally be in place before trim installation, especially for base molding, to ensure accurate measurements. Painting or staining of the trim can occur before or after installation, depending on the type of trim and your contractor's recommendations for the best finish.",
+        "@type": "Answer",
+        "description": "Kitchen trim should be installed near the end of a renovation, after cabinets are in place and ideally after flooring, to ensure precise fitting."
+      }
+    }
+  ],
+  "description": "Kitchen trim should be installed near the end of a renovation, after cabinets are in place and ideally after flooring, to ensure precise fitting."
+}

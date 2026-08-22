@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-appliance-delivery-and-appliance-hookup",
+  "name": "What is the difference between appliance delivery and appliance hookup?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between appliance delivery and appliance hookup?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Appliance delivery typically involves bringing the new appliances to your home and placing them in the desired location. This service usually does not include connecting them to utilities or removing old appliances. Appliance hookup, on the other hand, is the technical process of safely and correctly connecting the new appliances to your home's electrical, gas, and water lines. It also includes ensuring proper ventilation and testing the appliance for functionality. We focus on the hookup coordination to ensure these connections are done professionally and meet all safety standards.",
+        "@type": "Answer",
+        "description": "Delivery brings appliances to your home; hookup involves technically connecting them to utilities, ensuring proper function and safety."
+      }
+    }
+  ],
+  "description": "Delivery brings appliances to your home; hookup involves technically connecting them to utilities, ensuring proper function and safety."
+}

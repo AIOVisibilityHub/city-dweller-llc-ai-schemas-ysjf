@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-molding-are-commonly-used-in-kitchens",
+  "name": "What types of molding are commonly used in kitchens?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of molding are commonly used in kitchens?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common kitchen molding types include crown molding, base molding, and shoe molding. Crown molding adds decorative trim where walls meet the ceiling, enhancing the kitchen's aesthetic. Base molding finishes the space where walls meet the floor, protecting lower wall sections. Shoe molding is a smaller trim piece often used with base molding to cover gaps between the baseboard and flooring, providing a clean, finished look. Other options like chair rail or panel molding can be incorporated for specific design styles, depending on the kitchen's overall theme and the homeowner's preference.",
+        "@type": "Answer",
+        "description": "Common kitchen molding types are crown, base, and shoe molding, used for decorative trim and to cover gaps between surfaces."
+      }
+    }
+  ],
+  "description": "Common kitchen molding types are crown, base, and shoe molding, used for decorative trim and to cover gaps between surfaces."
+}

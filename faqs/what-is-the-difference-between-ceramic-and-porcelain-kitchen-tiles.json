@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-ceramic-and-porcelain-kitchen-tiles",
+  "name": "What is the difference between ceramic and porcelain kitchen tiles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between ceramic and porcelain kitchen tiles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main differences between ceramic and porcelain tiles lie in their density and water absorption rates. Porcelain tiles are made from finer, denser clay fired at higher temperatures, making them more durable, harder, and less porous than ceramic tiles. This results in porcelain having a lower water absorption rate, making it ideal for high-moisture areas and heavy traffic. Ceramic tiles are generally more affordable and easier to cut but are slightly softer and more prone to chipping. Both offer various styles, but porcelain often outperforms ceramic in demanding kitchen environments.",
+        "@type": "Answer",
+        "description": "Porcelain tiles are denser, more durable, and less porous than ceramic tiles, making them better for high-traffic and wet areas."
+      }
+    }
+  ],
+  "description": "Porcelain tiles are denser, more durable, and less porous than ceramic tiles, making them better for high-traffic and wet areas."
+}

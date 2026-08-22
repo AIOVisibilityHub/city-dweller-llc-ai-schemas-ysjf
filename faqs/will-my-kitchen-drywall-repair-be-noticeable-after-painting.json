@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-my-kitchen-drywall-repair-be-noticeable-after-painting",
+  "name": "Will my kitchen drywall repair be noticeable after painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my kitchen drywall repair be noticeable after painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional drywall repair, when done correctly, should be virtually unnoticeable after painting. This requires meticulous preparation, including proper feathering of joint compound, smooth sanding, and the application of a quality primer before the final paint coats. Matching existing textures and paint colors is also crucial for a seamless blend with the surrounding wall.",
+        "@type": "Answer",
+        "description": "A professional drywall repair, correctly done with proper finishing and matching paint, should be unnoticeable after painting."
+      }
+    }
+  ],
+  "description": "A professional drywall repair, correctly done with proper finishing and matching paint, should be unnoticeable after painting."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-finishes-are-available-for-kitchen-molding",
+  "name": "What finishes are available for kitchen molding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What finishes are available for kitchen molding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kitchen molding is available in various finishes to match any kitchen design. Common options include paint-grade finishes, where the molding is primed and painted to match or contrast with your walls and cabinets. Stain-grade finishes highlight the natural wood grain, perfect for complementing wood cabinetry or flooring. Materials like MDF are typically paint-grade, while various hardwoods are ideal for staining. We can also provide custom finishes, such as distressed looks or specialty glazes, to achieve a unique aesthetic. The chosen finish significantly impacts the molding's durability and visual appeal.",
+        "@type": "Answer",
+        "description": "Kitchen molding finishes include paint-grade for color matching and stain-grade to highlight wood, with custom options also available."
+      }
+    }
+  ],
+  "description": "Kitchen molding finishes include paint-grade for color matching and stain-grade to highlight wood, with custom options also available."
+}

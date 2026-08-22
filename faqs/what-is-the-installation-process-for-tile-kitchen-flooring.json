@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-installation-process-for-tile-kitchen-flooring",
+  "name": "What is the installation process for tile kitchen flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the installation process for tile kitchen flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tile kitchen flooring installation typically involves several steps. First, the subfloor is prepared, ensuring it is clean, level, and dry. Next, a thin-set mortar is applied, and tiles are carefully laid, often with spacers for even grout lines. After the mortar cures, grout is applied to fill the spaces between tiles, followed by cleaning and sealing the grout. This process usually spans multiple days.",
+        "@type": "Answer",
+        "description": "Tile kitchen flooring installation involves subfloor preparation, applying mortar, laying tiles, grouting, and sealing, often spanning several days."
+      }
+    }
+  ],
+  "description": "Tile kitchen flooring installation involves subfloor preparation, applying mortar, laying tiles, grouting, and sealing, often spanning several days."
+}

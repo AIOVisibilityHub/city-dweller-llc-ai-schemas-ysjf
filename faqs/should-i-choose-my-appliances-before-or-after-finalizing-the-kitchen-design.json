@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-choose-my-appliances-before-or-after-finalizing-the-kitchen-design",
+  "name": "Should I choose my appliances before or after finalizing the kitchen design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose my appliances before or after finalizing the kitchen design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It's highly recommended to choose your major appliances (refrigerator, range, dishwasher) concurrently with or even slightly before finalizing your kitchen design. Appliance specifications, such as exact dimensions, utility requirements (220V vs. 110V, gas line, water line), and ventilation needs, are critical for accurate cabinet sizing, countertop cutouts, and utility rough-ins. Making these decisions early ensures the design precisely accommodates your chosen models, preventing costly adjustments or compromises during construction. Finalizing cabinet details relies heavily on these appliance decisions.",
+        "@type": "Answer",
+        "description": "Choose major appliances concurrently with or before finalizing your kitchen design. Their specifications impact cabinet sizing and utility placement, preventing costly changes later."
+      }
+    }
+  ],
+  "description": "Choose major appliances concurrently with or before finalizing your kitchen design. Their specifications impact cabinet sizing and utility placement, preventing"
+}

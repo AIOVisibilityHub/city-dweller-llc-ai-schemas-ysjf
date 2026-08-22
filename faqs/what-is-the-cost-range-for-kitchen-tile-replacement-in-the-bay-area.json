@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-cost-range-for-kitchen-tile-replacement-in-the-bay-area",
+  "name": "What is the cost range for kitchen tile replacement in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost range for kitchen tile replacement in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of kitchen tile replacement in the Bay Area can vary significantly, typically ranging from $10 to $30 per square foot or more, including labor and materials. Factors influencing cost include the type of tile chosen (ceramic, porcelain, natural stone), the complexity of the installation (e.g., custom patterns, demolition of existing tile), the condition of the subfloor, and local labor rates. Premium materials or extensive subfloor preparation will increase the overall price. We provide detailed estimates tailored to your specific project after an on-site consultation.",
+        "@type": "Answer",
+        "description": "Costs for kitchen tile replacement in the Bay Area generally range from $10 to $30+ per square foot, depending on materials and project complexity."
+      }
+    }
+  ],
+  "description": "Costs for kitchen tile replacement in the Bay Area generally range from $10 to $30+ per square foot, depending on materials and project complexity."
+}

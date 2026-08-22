@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-standard-drywall-and-moisture-resistant-drywall",
+  "name": "What is the difference between standard drywall and moisture-resistant drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between standard drywall and moisture-resistant drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard drywall, also known as regular or white board, is the most common and economical option for general use in dry areas. Moisture-resistant drywall, often called 'green board,' has a water-repellent paper facing and a chemically treated core that makes it more resistant to moisture absorption and mold growth. While not waterproof, it performs better than standard drywall in humid environments like kitchens and bathrooms. It is typically slightly more expensive than standard drywall.",
+        "@type": "Answer",
+        "description": "Standard drywall is for dry areas; moisture-resistant (green board) has a treated core and facing to resist humidity and mold in places like kitchens."
+      }
+    }
+  ],
+  "description": "Standard drywall is for dry areas; moisture-resistant (green board) has a treated core and facing to resist humidity and mold in places like kitchens."
+}

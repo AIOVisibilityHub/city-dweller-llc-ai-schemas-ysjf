@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-wood-are-commonly-used-for-kitchen-finish-carpentry",
+  "name": "What types of wood are commonly used for kitchen finish carpentry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of wood are commonly used for kitchen finish carpentry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common wood types for kitchen finish carpentry include maple, oak, cherry, birch, and poplar. Maple and cherry are popular for their smooth grain and ability to take stains well, often used for a more refined look. Oak offers a distinct grain pattern and durability. Poplar is a cost-effective option, frequently used when painted finishes are desired due to its smooth surface. The choice depends on the desired aesthetic, durability, and whether the wood will be stained, painted, or left natural.",
+        "@type": "Answer",
+        "description": "Common wood types include maple, oak, cherry, birch, and poplar, chosen based on desired aesthetic, durability, and finishing method."
+      }
+    }
+  ],
+  "description": "Common wood types include maple, oak, cherry, birch, and poplar, chosen based on desired aesthetic, durability, and finishing method."
+}

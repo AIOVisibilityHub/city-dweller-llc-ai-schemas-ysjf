@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-kitchen-layout-types-and-how-do-they-compare",
+  "name": "What are common kitchen layout types, and how do they compare?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common kitchen layout types, and how do they compare?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common kitchen layouts include the L-shape, U-shape, galley, and island. The L-shape is versatile for open concepts, offering good workflow and storage. The U-shape maximizes counter and storage space, ideal for larger kitchens. Galley kitchens are efficient in smaller spaces, with two parallel counters. An island can be added to many layouts to enhance prep space, storage, or dining. Each offers different benefits for traffic flow, storage, and socializing.",
+        "@type": "Answer",
+        "description": "L-shape, U-shape, galley, and island are common. They compare in traffic flow, storage, and social integration based on kitchen size and needs."
+      }
+    }
+  ],
+  "description": "L-shape, U-shape, galley, and island are common. They compare in traffic flow, storage, and social integration based on kitchen size and needs."
+}

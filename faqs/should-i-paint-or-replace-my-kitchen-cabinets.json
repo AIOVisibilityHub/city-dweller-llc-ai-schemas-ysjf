@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-paint-or-replace-my-kitchen-cabinets",
+  "name": "Should I paint or replace my kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I paint or replace my kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between painting and replacing kitchen cabinets depends on their current condition and your budget. If your cabinet boxes are structurally sound and you are satisfied with their layout, painting is a cost-effective way to refresh the look of your kitchen. Painting can save significant money compared to replacement, which also involves demolition and installation costs. If cabinets are damaged, outdated in style, or you desire a new layout, replacement might be the better option. We can assess your cabinets and recommend the best approach.",
+        "@type": "Answer",
+        "description": "If cabinets are structurally sound, painting offers a cost-effective refresh. Replace them if they are damaged, outdated, or you want a new layout. We can help you decide."
+      }
+    }
+  ],
+  "description": "If cabinets are structurally sound, painting offers a cost-effective refresh. Replace them if they are damaged, outdated, or you want a new layout. We can help"
+}

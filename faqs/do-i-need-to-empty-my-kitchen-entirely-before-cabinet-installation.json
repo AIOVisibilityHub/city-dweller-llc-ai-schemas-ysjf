@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-empty-my-kitchen-entirely-before-cabinet-installation",
+  "name": "Do I need to empty my kitchen entirely before cabinet installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to empty my kitchen entirely before cabinet installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is highly recommended to empty your kitchen entirely before cabinet installation. This includes clearing out all contents from existing cabinets, removing small appliances from countertops, and taking down any wall decor. This ensures our installation team has clear access to the workspace, minimizes the risk of damage to your belongings, and helps the project proceed efficiently. We also advise covering adjacent areas to protect them from dust and debris during the installation.",
+        "@type": "Answer",
+        "description": "Yes, empty your kitchen completely before cabinet installation to provide clear access for installers, protect your belongings, and ensure efficiency."
+      }
+    }
+  ],
+  "description": "Yes, empty your kitchen completely before cabinet installation to provide clear access for installers, protect your belongings, and ensure efficiency."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-signs-that-my-kitchen-cabinets-need-repair",
+  "name": "What are common signs that my kitchen cabinets need repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my kitchen cabinets need repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several signs indicate your kitchen cabinets may need repair. These include drawers that stick or don't close properly, cabinet doors that are misaligned or constantly come loose from their hinges, visible water damage like swelling or discoloration, chipped or peeling finishes, and general wear and tear such as deep scratches or dents. Persistent squeaking or difficulty opening and closing can also point to underlying issues. Addressing these problems early can prevent more extensive damage.",
+        "@type": "Answer",
+        "description": "Signs include sticking drawers, misaligned doors, loose hinges, water damage, chipped finishes, and general wear. Early repair prevents worse damage."
+      }
+    }
+  ],
+  "description": "Signs include sticking drawers, misaligned doors, loose hinges, water damage, chipped finishes, and general wear. Early repair prevents worse damage."
+}

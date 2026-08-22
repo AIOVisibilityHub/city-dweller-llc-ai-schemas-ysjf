@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-should-i-prepare-my-kitchen-for-tile-replacement",
+  "name": "How should I prepare my kitchen for tile replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my kitchen for tile replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare your kitchen for tile replacement, begin by clearing out all items from your countertops and cabinets that could be affected by dust or debris. You'll need to empty and potentially disconnect and move major appliances like the refrigerator and stove. Protecting adjacent areas with plastic sheeting and drop cloths is also crucial to minimize dust spread. Ensure a clear path for installers and discuss with your contractor about temporary utility shut-offs for plumbing or gas lines, if necessary, especially if working near sinks or ranges.",
+        "@type": "Answer",
+        "description": "Prepare by clearing items, emptying cabinets, moving appliances, and covering adjacent areas to protect from dust and debris."
+      }
+    }
+  ],
+  "description": "Prepare by clearing items, emptying cabinets, moving appliances, and covering adjacent areas to protect from dust and debris."
+}

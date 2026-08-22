@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-use-my-kitchen-during-cabinet-painting",
+  "name": "Can I use my kitchen during cabinet painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I use my kitchen during cabinet painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While we strive to minimize disruption, using your kitchen fully during cabinet painting is not advisable. The process involves sanding, painting, and drying, which can produce dust and fumes. We recommend making alternative arrangements for cooking and food preparation, especially during the active painting phase. Our team will seal off the work area to contain dust and odors as much as possible, but limited access ensures safety and the best possible outcome for your cabinets.",
+        "@type": "Answer",
+        "description": "Full kitchen use is not advisable during cabinet painting due to dust and fumes. We recommend alternative arrangements for cooking, though we seal off the work area."
+      }
+    }
+  ],
+  "description": "Full kitchen use is not advisable during cabinet painting due to dust and fumes. We recommend alternative arrangements for cooking, though we seal off the work"
+}

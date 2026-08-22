@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-separate-contractor-for-appliance-installation",
+  "name": "Do I need a separate contractor for appliance installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a separate contractor for appliance installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "As a general contractor, City Dweller, LLC can manage the entire kitchen renovation, including appliance hookup coordination. You do not necessarily need a separate contractor for appliance installation if your general contractor offers this service. We coordinate with our network of licensed electricians, plumbers, and gas fitters to ensure all hookups are done correctly and to code. This integrated approach simplifies communication, streamlines the project timeline, and provides a single point of contact for your entire renovation, ensuring a cohesive and efficient process.",
+        "@type": "Answer",
+        "description": "No, if your general contractor offers this service, they can manage appliance hookup coordination. City Dweller, LLC provides integrated project management."
+      }
+    }
+  ],
+  "description": "No, if your general contractor offers this service, they can manage appliance hookup coordination. City Dweller, LLC provides integrated project management."
+}

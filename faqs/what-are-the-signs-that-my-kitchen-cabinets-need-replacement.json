@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-signs-that-my-kitchen-cabinets-need-replacement",
+  "name": "What are the signs that my kitchen cabinets need replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my kitchen cabinets need replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several indicators suggest it's time to replace kitchen cabinets. Look for significant structural damage like warped frames, crumbling particleboard, or persistent mold. Functionality issues, such as drawers that won't slide or doors that don't close properly, also point to a need for replacement. Additionally, if you're undertaking a major kitchen renovation and your existing cabinets are outdated in style or layout, replacing them can significantly improve the overall aesthetic and resale value of your home. Minor cosmetic issues might be addressed with refacing or repainting, but extensive damage warrants full replacement.",
+        "@type": "Answer",
+        "description": "Signs include structural damage, persistent mold, functional issues like sticking drawers, or outdated styles during a major renovation."
+      }
+    }
+  ],
+  "description": "Signs include structural damage, persistent mold, functional issues like sticking drawers, or outdated styles during a major renovation."
+}

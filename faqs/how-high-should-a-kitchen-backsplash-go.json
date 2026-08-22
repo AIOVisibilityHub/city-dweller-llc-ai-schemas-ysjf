@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-high-should-a-kitchen-backsplash-go",
+  "name": "How high should a kitchen backsplash go?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How high should a kitchen backsplash go?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The height of a kitchen backsplash is primarily a design choice, but it also has practical considerations. A standard height is four inches, often matching the countertop material, but full-height backsplashes extending to the bottom of the upper cabinets are very popular for maximum protection and a cohesive look. Some designs even extend to the ceiling, creating a dramatic focal point. In areas behind the range or sink, it's common to extend the backsplash higher, even if other areas are shorter, to provide better splash protection. We can help you determine the ideal height based on your kitchen's layout and aesthetic goals.",
+        "@type": "Answer",
+        "description": "Backsplash height is a design choice, typically four inches or full-height to upper cabinets for protection and aesthetics. High-splash areas may extend further."
+      }
+    }
+  ],
+  "description": "Backsplash height is a design choice, typically four inches or full-height to upper cabinets for protection and aesthetics. High-splash areas may extend further"
+}

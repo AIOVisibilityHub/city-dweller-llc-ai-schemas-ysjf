@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-install-kitchen-cabinets-directly-onto-new-drywall",
+  "name": "Can I install kitchen cabinets directly onto new drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install kitchen cabinets directly onto new drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, kitchen cabinets are typically installed directly onto new drywall. However, it's crucial that the cabinets are securely fastened into the wall studs behind the drywall, not just into the drywall itself. Drywall alone cannot support the weight of cabinets, especially when loaded with dishes and cookware. Before drywall installation, we often mark stud locations, or use a stud finder during cabinet installation, to ensure proper and safe mounting of all cabinetry.",
+        "@type": "Answer",
+        "description": "Yes, but cabinets must be securely fastened to wall studs behind the drywall, not just the drywall itself, to ensure proper support."
+      }
+    }
+  ],
+  "description": "Yes, but cabinets must be securely fastened to wall studs behind the drywall, not just the drywall itself, to ensure proper support."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-repair-my-kitchen-door-frame-versus-replacing-the-entire-door-and",
+  "name": "When should I repair my kitchen door frame versus replacing the entire door and frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair my kitchen door frame versus replacing the entire door and frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should repair your kitchen door frame when the damage is localized and hasn't compromised the overall structural integrity. This typically includes minor cracks, dings, or small areas of rot that can be isolated and fixed. Consider replacing the entire door and frame if the frame is severely warped, extensive rot is present throughout, or if the frame's structural stability is compromised, making simple repairs ineffective or unsafe. We can help you determine the best approach.",
+        "@type": "Answer",
+        "description": "Repair if damage is localized and minor; replace if the frame is severely warped, has extensive rot, or its structural integrity is compromised."
+      }
+    }
+  ],
+  "description": "Repair if damage is localized and minor; replace if the frame is severely warped, has extensive rot, or its structural integrity is compromised."
+}

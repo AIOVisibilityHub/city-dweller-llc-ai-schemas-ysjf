@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-average-cost-of-installing-new-kitchen-flooring",
+  "name": "What is the average cost of installing new kitchen flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of installing new kitchen flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of kitchen flooring installation varies widely based on material choice, labor rates, and the complexity of the job. Materials like LVP or laminate are generally more affordable, while high-end tile or hardwood can be more expensive. Installation labor costs are influenced by subfloor condition and any necessary repairs. We provide detailed estimates after an on-site assessment.",
+        "@type": "Answer",
+        "description": "The average cost varies significantly by material (LVP, tile, hardwood), labor, and kitchen specifics. A detailed estimate is provided after an on-site assessment."
+      }
+    }
+  ],
+  "description": "The average cost varies significantly by material (LVP, tile, hardwood), labor, and kitchen specifics. A detailed estimate is provided after an on-site assessme"
+}

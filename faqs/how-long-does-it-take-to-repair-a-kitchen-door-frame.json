@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-repair-a-kitchen-door-frame",
+  "name": "How long does it take to repair a kitchen door frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a kitchen door frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a kitchen door frame repair varies depending on the severity and type of damage. Minor repairs, such as filling small cracks or tightening loose components, might take a few hours. More extensive work, like replacing a section of the frame due to significant rot or damage, could take one to two days. A complete frame replacement, including drying times for fillers or paint, may extend to several days. We provide an estimated timeline after a thorough assessment.",
+        "@type": "Answer",
+        "description": "Minor repairs take a few hours, while extensive damage or full replacement can take one to several days, depending on the severity."
+      }
+    }
+  ],
+  "description": "Minor repairs take a few hours, while extensive damage or full replacement can take one to several days, depending on the severity."
+}

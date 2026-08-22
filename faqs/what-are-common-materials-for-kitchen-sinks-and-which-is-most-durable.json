@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-materials-for-kitchen-sinks-and-which-is-most-durable",
+  "name": "What are common materials for kitchen sinks, and which is most durable?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common materials for kitchen sinks, and which is most durable?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common kitchen sink materials include stainless steel, cast iron (enameled), composite granite, and fireclay. Stainless steel is popular for its durability, resistance to heat, and ease of cleaning. Enameled cast iron offers a classic look and excellent heat retention but can chip. Composite granite is highly scratch and stain-resistant. Fireclay provides a farmhouse aesthetic but can be heavy. Stainless steel and composite granite are generally considered among the most durable for everyday use, resisting impacts and scratches well.",
+        "@type": "Answer",
+        "description": "Stainless steel, cast iron, composite granite, and fireclay are common materials. Stainless steel and composite granite are highly durable."
+      }
+    }
+  ],
+  "description": "Stainless steel, cast iron, composite granite, and fireclay are common materials. Stainless steel and composite granite are highly durable."
+}

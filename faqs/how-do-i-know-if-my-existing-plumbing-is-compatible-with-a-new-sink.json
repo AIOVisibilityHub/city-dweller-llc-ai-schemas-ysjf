@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-my-existing-plumbing-is-compatible-with-a-new-sink",
+  "name": "How do I know if my existing plumbing is compatible with a new sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my existing plumbing is compatible with a new sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most new kitchen sinks are designed to be compatible with standard plumbing connections. However, significant changes in sink type (e.g., single basin to double basin, or a deeper sink) might require minor adjustments to the drain lines or P-trap to ensure proper slope and alignment. If you're relocating the sink or adding features like a garbage disposal, more extensive plumbing work, potentially involving drain line modifications or new water supply lines, might be necessary. A professional assessment is recommended.",
+        "@type": "Answer",
+        "description": "Most new sinks fit standard plumbing, but deep or multi-basin sinks, or feature additions like disposals, may need minor drain or supply line adjustments."
+      }
+    }
+  ],
+  "description": "Most new sinks fit standard plumbing, but deep or multi-basin sinks, or feature additions like disposals, may need minor drain or supply line adjustments."
+}

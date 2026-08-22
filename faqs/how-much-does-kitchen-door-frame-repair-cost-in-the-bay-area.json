@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-kitchen-door-frame-repair-cost-in-the-bay-area",
+  "name": "How much does kitchen door frame repair cost in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does kitchen door frame repair cost in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for kitchen door frame repair in the Bay Area varies significantly based on the extent of the damage and materials required. Simple cosmetic fixes, like filling small holes or cracks, will be less expensive. Repairs involving replacing sections of wood due to water damage or rot will incur higher costs. A complete frame replacement will be the most costly. We provide a detailed estimate after assessing the specific damage to your kitchen door frame.",
+        "@type": "Answer",
+        "description": "Costs vary based on damage severity. Simple fixes are less expensive than replacing sections or the entire frame. A detailed estimate is provided after assessment."
+      }
+    }
+  ],
+  "description": "Costs vary based on damage severity. Simple fixes are less expensive than replacing sections or the entire frame. A detailed estimate is provided after assessme"
+}

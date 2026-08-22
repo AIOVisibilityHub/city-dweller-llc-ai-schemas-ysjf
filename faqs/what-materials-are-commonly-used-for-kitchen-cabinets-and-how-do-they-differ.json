@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-materials-are-commonly-used-for-kitchen-cabinets-and-how-do-they-differ",
+  "name": "What materials are commonly used for kitchen cabinets, and how do they differ?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are commonly used for kitchen cabinets, and how do they differ?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common kitchen cabinet materials include solid wood (like maple, oak, cherry), plywood, MDF (medium-density fiberboard), and particleboard. Solid wood is durable and offers a classic look but can be more expensive. Plywood is strong, moisture-resistant, and a good balance of cost and quality. MDF is stable and smooth, excellent for painted finishes, but less resistant to moisture than plywood. Particleboard is the most affordable but also the least durable and most susceptible to moisture damage. Your choice impacts longevity, appearance, and budget.",
+        "@type": "Answer",
+        "description": "Common materials are solid wood (durable, classic), plywood (strong, moisture-resistant), MDF (smooth, good for paint), and particleboard (affordable, least durable)."
+      }
+    }
+  ],
+  "description": "Common materials are solid wood (durable, classic), plywood (strong, moisture-resistant), MDF (smooth, good for paint), and particleboard (affordable, least dur"
+}

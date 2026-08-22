@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-remove-kitchen-cabinets-myself-or-should-i-hire-a-professional",
+  "name": "Can I remove kitchen cabinets myself or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remove kitchen cabinets myself or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While DIY cabinet removal is possible for those with experience, hiring a professional general contractor is often recommended. Professionals have the right tools, knowledge, and experience to safely and efficiently remove cabinets without damaging walls, flooring, or plumbing. They also handle the proper disposal of old materials, which can be challenging for homeowners. Professional removal ensures a cleaner worksite and a ready space for your new kitchen.",
+        "@type": "Answer",
+        "description": "Hiring a professional ensures safe, efficient removal without damage to your home, and includes proper disposal, which is often preferable to DIY."
+      }
+    }
+  ],
+  "description": "Hiring a professional ensures safe, efficient removal without damage to your home, and includes proper disposal, which is often preferable to DIY."
+}

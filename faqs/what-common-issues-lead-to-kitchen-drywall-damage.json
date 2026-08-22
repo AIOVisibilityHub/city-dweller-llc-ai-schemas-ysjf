@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-common-issues-lead-to-kitchen-drywall-damage",
+  "name": "What common issues lead to kitchen drywall damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common issues lead to kitchen drywall damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kitchen drywall often sustains damage from water exposure, such as leaks from plumbing, dishwashers, or sinks, and high humidity levels. Other common causes include accidental impacts from moving appliances or cookware, pest infestations creating holes, and general wear and tear over time. Minor cracks can also appear due to settling foundations or seismic activity, which is a consideration in the Bay Area.",
+        "@type": "Answer",
+        "description": "Common kitchen drywall damage includes water leaks, impacts, pest issues, and cracks from settling or seismic activity."
+      }
+    }
+  ],
+  "description": "Common kitchen drywall damage includes water leaks, impacts, pest issues, and cracks from settling or seismic activity."
+}

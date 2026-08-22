@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-new-molding-if-i-m-only-repainting-my-kitchen-cabinets",
+  "name": "Do I need new molding if I'm only repainting my kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need new molding if I'm only repainting my kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You typically do not need new molding if you are only repainting your kitchen cabinets, assuming the existing molding is in good condition and you are satisfied with its style. Repainting the existing molding along with the cabinets can create a cohesive and updated look. However, if the current molding is damaged, outdated, or doesn't complement your desired new cabinet color and kitchen aesthetic, it might be an opportune time to replace it. This decision often depends on your budget, design goals, and the condition of the current trim.",
+        "@type": "Answer",
+        "description": "New molding isn't usually needed when repainting cabinets unless the current molding is damaged, outdated, or doesn't match the new design."
+      }
+    }
+  ],
+  "description": "New molding isn't usually needed when repainting cabinets unless the current molding is damaged, outdated, or doesn't match the new design."
+}

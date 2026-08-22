@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-custom-and-stock-kitchen-trim",
+  "name": "What is the difference between custom and stock kitchen trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between custom and stock kitchen trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Stock kitchen trim refers to pre-manufactured moldings available in standard profiles, materials, and lengths. It's generally more affordable and readily available, suitable for many common kitchen designs. Custom kitchen trim, on the other hand, is made to order, allowing for unique profiles, specific wood species, or exact dimensions to match a distinctive design vision or historical aesthetic. Custom trim offers greater design flexibility and precision but typically comes with a higher cost and longer lead time due to the specialized craftsmanship involved.",
+        "@type": "Answer",
+        "description": "Stock trim is pre-made and cost-effective, while custom trim is made-to-order for unique designs, offering greater flexibility at a higher cost."
+      }
+    }
+  ],
+  "description": "Stock trim is pre-made and cost-effective, while custom trim is made-to-order for unique designs, offering greater flexibility at a higher cost."
+}

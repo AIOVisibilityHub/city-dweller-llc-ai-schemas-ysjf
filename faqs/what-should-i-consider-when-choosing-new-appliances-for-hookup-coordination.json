@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-consider-when-choosing-new-appliances-for-hookup-coordination",
+  "name": "What should I consider when choosing new appliances for hookup coordination?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing new appliances for hookup coordination?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing new appliances, consider their utility requirements (e.g., 120V vs. 240V electricity, gas vs. electric, water lines for ice makers, ventilation needs). Also, think about the dimensions to ensure they fit correctly into your cabinet openings. Understanding these specifications beforehand allows for accurate planning of necessary utility upgrades and ensures seamless integration into your kitchen design. We can advise on these aspects to help you make informed decisions that align with your renovation goals and budget, avoiding last-minute surprises during installation.",
+        "@type": "Answer",
+        "description": "Consider utility requirements (electrical, gas, water, ventilation) and dimensions of new appliances to ensure proper fit and necessary upgrades."
+      }
+    }
+  ],
+  "description": "Consider utility requirements (electrical, gas, water, ventilation) and dimensions of new appliances to ensure proper fit and necessary upgrades."
+}

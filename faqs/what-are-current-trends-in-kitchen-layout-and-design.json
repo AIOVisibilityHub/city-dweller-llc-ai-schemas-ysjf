@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-current-trends-in-kitchen-layout-and-design",
+  "name": "What are current trends in kitchen layout and design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are current trends in kitchen layout and design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Current kitchen layout and design trends emphasize open-concept living, integrating the kitchen with dining and living areas. Large islands are popular, serving as versatile hubs for cooking, dining, and socializing. Smart storage solutions, hidden pantries, and dedicated zones for specific tasks (like a coffee bar or baking station) are also common. Aesthetically, trends lean towards clean lines, natural materials, and personalized touches that reflect the homeowner's style and functional needs.",
+        "@type": "Answer",
+        "description": "Current trends favor open concepts, large islands, smart storage, dedicated task zones, and personalized designs with natural materials."
+      }
+    }
+  ],
+  "description": "Current trends favor open concepts, large islands, smart storage, dedicated task zones, and personalized designs with natural materials."
+}

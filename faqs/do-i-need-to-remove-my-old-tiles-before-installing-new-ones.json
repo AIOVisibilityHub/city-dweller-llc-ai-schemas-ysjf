@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-remove-my-old-tiles-before-installing-new-ones",
+  "name": "Do I need to remove my old tiles before installing new ones?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to remove my old tiles before installing new ones?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most cases, yes, it is highly recommended to remove old tiles before installing new ones. Installing new tiles over existing ones can lead to an uneven floor surface, potential adhesion issues, and increased floor height, which can interfere with appliances or cabinet clearances. Removing the old tiles allows for proper inspection and preparation of the subfloor, ensuring a stable and long-lasting base for your new installation. While it adds to the project's labor, proper subfloor preparation is crucial for durability.",
+        "@type": "Answer",
+        "description": "Yes, removing old tiles is recommended to ensure a level surface, proper adhesion, and to inspect the subfloor for issues."
+      }
+    }
+  ],
+  "description": "Yes, removing old tiles is recommended to ensure a level surface, proper adhesion, and to inspect the subfloor for issues."
+}

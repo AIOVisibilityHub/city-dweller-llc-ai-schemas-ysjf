@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-to-install-a-new-kitchen-faucet",
+  "name": "What is the typical cost to install a new kitchen faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to install a new kitchen faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to install a new kitchen faucet varies based on several factors. These include the type of faucet being installed (e.g., standard, pull-down, touchless), whether new plumbing lines or holes need to be drilled, and the complexity of removing the old faucet. Labor costs also depend on the contractor's rates and the time required for the job. Generally, basic installations might range from $150 to $400, not including the faucet itself, but more complex jobs can be higher. It's best to get a specific quote after an assessment.",
+        "@type": "Answer",
+        "description": "Typical kitchen faucet installation costs range from $150 to $400 for labor, depending on faucet type and installation complexity."
+      }
+    }
+  ],
+  "description": "Typical kitchen faucet installation costs range from $150 to $400 for labor, depending on faucet type and installation complexity."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-kitchen-tile-replacement-project-take",
+  "name": "How long does a typical kitchen tile replacement project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical kitchen tile replacement project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a kitchen tile replacement project varies based on the kitchen's size, the type of existing subfloor, and the new tile material. Generally, a small to medium-sized kitchen (around 100-150 sq ft) might take 3-5 days from demolition to grouting. This includes time for old tile removal, subfloor preparation, new tile installation, and curing time for adhesive and grout. Larger or more complex projects, such as those requiring subfloor repair or intricate tile patterns, could extend to 1-2 weeks. We provide a detailed timeline after assessing your specific kitchen.",
+        "@type": "Answer",
+        "description": "A typical kitchen tile replacement can take 3-5 days for small to medium kitchens, depending on size and complexity."
+      }
+    }
+  ],
+  "description": "A typical kitchen tile replacement can take 3-5 days for small to medium kitchens, depending on size and complexity."
+}

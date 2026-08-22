@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-start-planning-for-appliance-hookups-during-a-kitchen-renovation",
+  "name": "When should I start planning for appliance hookups during a kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I start planning for appliance hookups during a kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should start planning for appliance hookups as early as possible in your kitchen renovation, ideally during the design phase. This allows us to assess your chosen appliance specifications and ensure your kitchen layout includes the correct utility provisions (electrical, gas, water, ventilation) in the right locations. Early planning prevents costly changes later on, ensuring smooth integration of appliances with cabinetry and countertops. Discussing this upfront helps us create an efficient project timeline and avoid delays.",
+        "@type": "Answer",
+        "description": "Start planning during the kitchen design phase. This ensures proper utility provisions are integrated into the layout and avoids costly changes later."
+      }
+    }
+  ],
+  "description": "Start planning during the kitchen design phase. This ensures proper utility provisions are integrated into the layout and avoids costly changes later."
+}

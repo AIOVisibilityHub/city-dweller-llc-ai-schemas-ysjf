@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-kitchen-countertop-installation-typically-take",
+  "name": "How long does kitchen countertop installation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does kitchen countertop installation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation timeline for kitchen countertops varies depending on the material, project complexity, and cabinet preparation. Generally, after template creation, fabrication can take 1-3 weeks. The actual installation usually takes 1-2 days. This timeframe can be extended if existing countertops need to be removed, if custom cuts or complex layouts are involved, or if additional services like plumbing disconnections/reconnections are part of the scope. We provide a detailed timeline after the initial consultation.",
+        "@type": "Answer",
+        "description": "Countertop installation typically takes 1-3 weeks for fabrication after templating, with the actual installation lasting 1-2 days."
+      }
+    }
+  ],
+  "description": "Countertop installation typically takes 1-3 weeks for fabrication after templating, with the actual installation lasting 1-2 days."
+}

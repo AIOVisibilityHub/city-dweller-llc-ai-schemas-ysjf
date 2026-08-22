@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-color-for-my-kitchen-cabinets",
+  "name": "How do I choose the right color for my kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right color for my kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right cabinet color involves considering your kitchen's existing elements like countertops, flooring, and wall color, as well as the amount of natural light. Lighter colors can make a small kitchen feel larger and brighter, while darker shades add drama and sophistication. Reflect on your home's overall style and your personal preferences. We can offer color consultation services, providing samples and expert advice to help you select a shade that complements your space and brings your vision to life.",
+        "@type": "Answer",
+        "description": "Consider existing elements, natural light, and your home's style. Lighter colors brighten small spaces; darker shades add drama. We offer color consultation and samples to help you choose."
+      }
+    }
+  ],
+  "description": "Consider existing elements, natural light, and your home's style. Lighter colors brighten small spaces; darker shades add drama. We offer color consultation and"
+}

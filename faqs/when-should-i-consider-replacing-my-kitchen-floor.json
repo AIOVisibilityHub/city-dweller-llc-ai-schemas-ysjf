@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-my-kitchen-floor",
+  "name": "When should I consider replacing my kitchen floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my kitchen floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your kitchen floor when it shows significant signs of wear and tear, such as deep scratches, cracks, water damage, or lifting planks. Beyond cosmetic issues, an old or damaged floor can become a safety hazard or harbor mold if water damage is present. Replacing your floor can also be part of a larger kitchen renovation to update its aesthetic or improve its functionality and value.",
+        "@type": "Answer",
+        "description": "Replace your kitchen floor when it has significant wear, damage, or is part of a larger renovation to update its look and function."
+      }
+    }
+  ],
+  "description": "Replace your kitchen floor when it has significant wear, damage, or is part of a larger renovation to update its look and function."
+}

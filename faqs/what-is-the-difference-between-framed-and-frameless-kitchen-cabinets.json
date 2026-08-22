@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-framed-and-frameless-kitchen-cabinets",
+  "name": "What is the difference between framed and frameless kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between framed and frameless kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Framed and frameless refer to the cabinet construction style. Framed cabinets have a face frame around the cabinet opening, similar to a picture frame. This frame adds rigidity and provides a surface for attaching doors and drawers. Frameless cabinets, also known as European style, lack this face frame; doors and drawers attach directly to the cabinet box. Frameless designs offer a sleek, contemporary look and provide more accessible storage space due to the absence of the frame obstruction, while framed cabinets often have a more traditional aesthetic.",
+        "@type": "Answer",
+        "description": "Framed cabinets have a face frame around the opening for rigidity, while frameless (European style) cabinets lack this frame, offering a sleek look and more accessible storage."
+      }
+    }
+  ],
+  "description": "Framed cabinets have a face frame around the opening for rigidity, while frameless (European style) cabinets lack this frame, offering a sleek look and more acc"
+}

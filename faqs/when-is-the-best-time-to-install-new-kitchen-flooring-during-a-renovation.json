@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-is-the-best-time-to-install-new-kitchen-flooring-during-a-renovation",
+  "name": "When is the best time to install new kitchen flooring during a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time to install new kitchen flooring during a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The ideal time to install new kitchen flooring is usually after major construction, plumbing, and electrical work is complete, but before cabinets and appliances are installed. This protects your new floor from construction debris and potential damage. If cabinets are being replaced, install flooring before they go in. If keeping existing cabinets, it's often done after cabinet painting or refacing.",
+        "@type": "Answer",
+        "description": "Install new kitchen flooring after major construction and utility work, but before cabinets and appliances, to protect it from damage."
+      }
+    }
+  ],
+  "description": "Install new kitchen flooring after major construction and utility work, but before cabinets and appliances, to protect it from damage."
+}

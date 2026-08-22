@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-water-damage-to-a-kitchen-door-frame-be-repaired",
+  "name": "Can water damage to a kitchen door frame be repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can water damage to a kitchen door frame be repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, water damage to a kitchen door frame can often be repaired, especially if caught early. Minor water damage may only require drying, sanding, and sealing. If the damage has led to rot, the affected wood sections can often be carefully removed and replaced with new, treated wood. However, if the rot is extensive and has compromised a large portion of the frame's structural integrity, a full frame replacement might be the more durable solution to prevent recurrence.",
+        "@type": "Answer",
+        "description": "Yes, minor water damage can be dried and sealed. For rot, affected sections can be replaced. Extensive rot may require full frame replacement."
+      }
+    }
+  ],
+  "description": "Yes, minor water damage can be dried and sealed. For rot, affected sections can be replaced. Extensive rot may require full frame replacement."
+}

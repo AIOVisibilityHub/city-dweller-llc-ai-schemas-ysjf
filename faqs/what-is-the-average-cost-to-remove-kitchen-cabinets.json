@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-average-cost-to-remove-kitchen-cabinets",
+  "name": "What is the average cost to remove kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to remove kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to remove kitchen cabinets is influenced by several factors, including the number and type of cabinets, the complexity of the removal (e.g., integrated appliances, specific wall finishes), and disposal fees. Pricing often includes labor, specialized tools, and transportation for debris. For an accurate estimate tailored to your project in the Bay Area, we recommend a consultation. This allows us to assess your specific kitchen and provide a transparent, detailed quote.",
+        "@type": "Answer",
+        "description": "Cabinet removal costs vary based on kitchen size, cabinet quantity, complexity, and disposal. A consultation provides an accurate, project-specific estimate."
+      }
+    }
+  ],
+  "description": "Cabinet removal costs vary based on kitchen size, cabinet quantity, complexity, and disposal. A consultation provides an accurate, project-specific estimate."
+}

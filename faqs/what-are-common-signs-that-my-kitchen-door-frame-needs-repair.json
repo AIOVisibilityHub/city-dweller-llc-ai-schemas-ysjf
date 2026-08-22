@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-signs-that-my-kitchen-door-frame-needs-repair",
+  "name": "What are common signs that my kitchen door frame needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my kitchen door frame needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs indicating your kitchen door frame needs repair include visible cracks, splits, or rot in the wood. You might also notice the door sticking when opening or closing, or failing to latch properly. Gaps between the frame and the wall, or a draft coming through the door, can also point to a compromised frame. Addressing these issues early can prevent further damage and maintain structural integrity.",
+        "@type": "Answer",
+        "description": "Look for cracks, rot, sticking doors, or gaps around the frame. These indicate potential damage and a need for repair."
+      }
+    }
+  ],
+  "description": "Look for cracks, rot, sticking doors, or gaps around the frame. These indicate potential damage and a need for repair."
+}

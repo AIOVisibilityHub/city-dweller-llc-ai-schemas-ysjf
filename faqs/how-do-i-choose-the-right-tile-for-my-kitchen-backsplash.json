@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-tile-for-my-kitchen-backsplash",
+  "name": "How do I choose the right tile for my kitchen backsplash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right tile for my kitchen backsplash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right tile involves considering several factors: your kitchen's existing style, cabinet and countertop colors, and your personal preference. Consider the tile's material for durability and ease of cleaning, especially behind the stove. Size, shape, and color play a crucial role in the overall aesthetic. We can help you select options that complement your space and meet your functional needs.",
+        "@type": "Answer",
+        "description": "Choose tile based on kitchen style, cabinet/countertop colors, material durability, ease of cleaning, and desired aesthetic."
+      }
+    }
+  ],
+  "description": "Choose tile based on kitchen style, cabinet/countertop colors, material durability, ease of cleaning, and desired aesthetic."
+}

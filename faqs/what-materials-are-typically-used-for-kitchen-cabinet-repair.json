@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-materials-are-typically-used-for-kitchen-cabinet-repair",
+  "name": "What materials are typically used for kitchen cabinet repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are typically used for kitchen cabinet repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The materials used for kitchen cabinet repair depend on the original cabinet material and the type of damage. For wood cabinets, common materials include wood fillers, epoxy putties, wood glue, and various stains or paints for finishing. Laminate or thermofoil cabinets may require specialized patching compounds and matching veneers. Hardware such as hinges, drawer slides, and handles are replaced with new, compatible components. Professional repairs aim to match existing finishes and materials as closely as possible for a seamless look.",
+        "@type": "Answer",
+        "description": "Materials vary by cabinet type and damage. Wood repairs use fillers, glues, stains; laminate repairs use patching compounds and veneers. Hardware is replaced as needed to match existing components."
+      }
+    }
+  ],
+  "description": "Materials vary by cabinet type and damage. Wood repairs use fillers, glues, stains; laminate repairs use patching compounds and veneers. Hardware is replaced as"
+}

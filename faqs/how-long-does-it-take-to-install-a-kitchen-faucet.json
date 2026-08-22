@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-install-a-kitchen-faucet",
+  "name": "How long does it take to install a kitchen faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a kitchen faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a kitchen faucet installation can vary depending on the existing plumbing setup and the type of faucet. A straightforward replacement where the new faucet fits the existing holes and plumbing connections typically takes about 1 to 3 hours. However, if new holes need to be drilled, old corroded connections are difficult to remove, or complex features like water filters or soap dispensers are added, the process can take longer, potentially up to 4-6 hours.",
+        "@type": "Answer",
+        "description": "A standard kitchen faucet installation usually takes 1 to 3 hours, but can extend to 4-6 hours for more complex jobs."
+      }
+    }
+  ],
+  "description": "A standard kitchen faucet installation usually takes 1 to 3 hours, but can extend to 4-6 hours for more complex jobs."
+}

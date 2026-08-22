@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-install-a-new-kitchen-sink",
+  "name": "How long does it take to install a new kitchen sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a new kitchen sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a kitchen sink installation can vary depending on the complexity of the job. A straightforward replacement of an existing sink with a similar model might take 2-4 hours. However, if modifications to the countertop are required, like enlarging the opening for a larger sink or changing from a drop-in to an undermount style, it could extend to 4-8 hours. Plumbing issues or additional modifications can further impact the timeline.",
+        "@type": "Answer",
+        "description": "A kitchen sink installation typically takes 2-8 hours, depending on complexity, including countertop modifications and plumbing adjustments."
+      }
+    }
+  ],
+  "description": "A kitchen sink installation typically takes 2-8 hours, depending on complexity, including countertop modifications and plumbing adjustments."
+}

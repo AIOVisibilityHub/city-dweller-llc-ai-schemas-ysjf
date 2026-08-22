@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-remove-my-old-kitchen-floor-before-installing-a-new-one",
+  "name": "Do I need to remove my old kitchen floor before installing a new one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to remove my old kitchen floor before installing a new one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most cases, yes, removing the old kitchen floor is recommended for the best results. This ensures a stable and level subfloor, which is crucial for proper installation and longevity of your new flooring. Sometimes, a new floor can be installed over an existing one if the existing floor is flat, structurally sound, and compatible with the new material, but this is less common for kitchens.",
+        "@type": "Answer",
+        "description": "Removing the old kitchen floor is usually recommended to ensure a stable and level subfloor for proper installation and longevity of the new flooring."
+      }
+    }
+  ],
+  "description": "Removing the old kitchen floor is usually recommended to ensure a stable and level subfloor for proper installation and longevity of the new flooring."
+}

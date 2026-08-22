@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-kitchen-tile-installation-typically-take",
+  "name": "How long does kitchen tile installation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does kitchen tile installation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of kitchen tile installation varies based on the kitchen's size, the complexity of the tile pattern, and the type of tile chosen. A typical kitchen remodel involving new tile can take anywhere from 3 to 7 days. This includes preparation, tile setting, grouting, and allowing for proper curing times between stages. Larger kitchens or intricate designs, such as herringbone or mosaics, may extend the timeline. We provide a detailed project schedule after the initial consultation.",
+        "@type": "Answer",
+        "description": "Kitchen tile installation typically takes 3 to 7 days, depending on kitchen size and tile complexity."
+      }
+    }
+  ],
+  "description": "Kitchen tile installation typically takes 3 to 7 days, depending on kitchen size and tile complexity."
+}

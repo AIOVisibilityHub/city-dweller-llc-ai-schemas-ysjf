@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-kitchen-drywall-installation-typically-take",
+  "name": "How long does kitchen drywall installation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does kitchen drywall installation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of kitchen drywall installation depends on the project's scope, whether it's a new build or a renovation, and the kitchen size. For a standard kitchen renovation requiring drywall replacement, the installation itself (hanging, taping, mudding, and sanding) can take approximately 3-7 days. This estimate does not include demolition or painting. Factors like complex layouts, high ceilings, or extensive repairs can extend this timeline. We aim for efficient completion while ensuring quality finishing.",
+        "@type": "Answer",
+        "description": "Kitchen drywall installation usually takes 3-7 days for hanging, taping, mudding, and sanding, depending on kitchen size and project complexity."
+      }
+    }
+  ],
+  "description": "Kitchen drywall installation usually takes 3-7 days for hanging, taping, mudding, and sanding, depending on kitchen size and project complexity."
+}

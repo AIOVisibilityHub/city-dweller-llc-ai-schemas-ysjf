@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-happens-to-the-old-kitchen-cabinets-after-removal",
+  "name": "What happens to the old kitchen cabinets after removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens to the old kitchen cabinets after removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After kitchen cabinet removal, the old cabinets are typically either disposed of or recycled. Depending on their condition and material, some cabinets might be suitable for donation to local charities or reuse centers. However, many older or damaged cabinets are destined for landfill or specialized recycling facilities for wood and composite materials. Our service includes the responsible hauling and disposal of all removed cabinetry and debris, ensuring your space is left clean.",
+        "@type": "Answer",
+        "description": "Old kitchen cabinets are either disposed of responsibly or recycled, depending on their condition and material. Our service includes debris hauling."
+      }
+    }
+  ],
+  "description": "Old kitchen cabinets are either disposed of responsibly or recycled, depending on their condition and material. Our service includes debris hauling."
+}

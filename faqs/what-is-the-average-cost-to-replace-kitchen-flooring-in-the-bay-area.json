@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-average-cost-to-replace-kitchen-flooring-in-the-bay-area",
+  "name": "What is the average cost to replace kitchen flooring in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to replace kitchen flooring in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of kitchen floor replacement in the Bay Area varies significantly based on the materials selected, labor rates, and the complexity of the installation. For materials like LVP, tile, or hardwood, prices can range from $8 to $25 per square foot, including installation. This is a general estimate, and additional costs may apply for subfloor repairs, old floor removal, or custom designs. We provide detailed estimates after an on-site consultation to accurately assess your project needs.",
+        "@type": "Answer",
+        "description": "Average kitchen floor replacement costs in the Bay Area range from $8 to $25 per square foot, depending on materials and labor."
+      }
+    }
+  ],
+  "description": "Average kitchen floor replacement costs in the Bay Area range from $8 to $25 per square foot, depending on materials and labor."
+}

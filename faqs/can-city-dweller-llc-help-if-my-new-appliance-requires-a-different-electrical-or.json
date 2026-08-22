@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-city-dweller-llc-help-if-my-new-appliance-requires-a-different-electrical-or",
+  "name": "Can City Dweller, LLC help if my new appliance requires a different electrical or gas connection than my old one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can City Dweller, LLC help if my new appliance requires a different electrical or gas connection than my old one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, absolutely. This is a common situation we address. If your new appliance, such as an induction range, requires a dedicated 240V circuit, or if you're switching from electric to a gas cooktop, we will arrange for our licensed electricians and plumbers/gas fitters to install the necessary wiring, outlets, or gas lines. We ensure all modifications comply with current building codes in areas like the Bay Area, Pacifica, or Daly City, ensuring your home is safe and properly equipped for your new appliances.",
+        "@type": "Answer",
+        "description": "Yes, we arrange for licensed electricians and gas fitters to upgrade electrical or gas connections to meet new appliance requirements, ensuring code compliance."
+      }
+    }
+  ],
+  "description": "Yes, we arrange for licensed electricians and gas fitters to upgrade electrical or gas connections to meet new appliance requirements, ensuring code compliance."
+}

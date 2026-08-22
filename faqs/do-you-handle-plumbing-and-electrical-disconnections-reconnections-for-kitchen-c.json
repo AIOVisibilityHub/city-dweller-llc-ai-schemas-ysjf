@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-you-handle-plumbing-and-electrical-disconnections-reconnections-for-kitchen-c",
+  "name": "Do you handle plumbing and electrical disconnections/reconnections for kitchen countertop projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you handle plumbing and electrical disconnections/reconnections for kitchen countertop projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For kitchen countertop installations, we typically include the disconnection and reconnection of standard sinks and cooktops as part of our service. This ensures a smooth transition and proper functionality after the new countertops are in place. If your project involves more complex plumbing or electrical work, such as relocating appliances or extensive wiring, we can coordinate with qualified plumbers and electricians or recommend trusted professionals to handle those specific aspects.",
+        "@type": "Answer",
+        "description": "Yes, we handle standard sink and cooktop disconnections/reconnections for countertop projects. Complex work may require specialized professionals."
+      }
+    }
+  ],
+  "description": "Yes, we handle standard sink and cooktop disconnections/reconnections for countertop projects. Complex work may require specialized professionals."
+}

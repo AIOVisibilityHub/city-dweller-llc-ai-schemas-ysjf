@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-factors-influence-the-cost-of-kitchen-tile-installation",
+  "name": "What factors influence the cost of kitchen tile installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of kitchen tile installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors determine the cost of kitchen tile installation. These include the size of the area to be tiled, the type of tile selected (e.g., ceramic, porcelain, natural stone), the complexity of the layout or pattern, and any necessary subfloor preparation or removal of old flooring. Labor rates, which can vary by region, and the cost of setting materials like mortar and grout also contribute to the overall price. We provide detailed estimates tailored to your specific project needs.",
+        "@type": "Answer",
+        "description": "Cost is influenced by kitchen size, tile type, pattern complexity, subfloor preparation, and labor rates."
+      }
+    }
+  ],
+  "description": "Cost is influenced by kitchen size, tile type, pattern complexity, subfloor preparation, and labor rates."
+}

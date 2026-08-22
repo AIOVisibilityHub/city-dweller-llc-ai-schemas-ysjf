@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-grout-color-for-my-kitchen-tiles",
+  "name": "How do I choose the right grout color for my kitchen tiles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right grout color for my kitchen tiles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right grout color depends on your desired aesthetic and the tile you've selected. A contrasting grout color, such as dark gray with light tiles, can make the tile pattern stand out and add visual interest. Matching the grout color closely to the tile can create a more seamless, expansive look, minimizing the appearance of grout lines. Consider the undertones of your tile and cabinetry. Lighter grouts tend to show dirt more easily, while darker grouts can make a space feel smaller. We can provide samples to help visualize the final look.",
+        "@type": "Answer",
+        "description": "Grout color can contrast for visual interest or match tiles for a seamless look. Consider maintenance and room size, and we can provide samples."
+      }
+    }
+  ],
+  "description": "Grout color can contrast for visual interest or match tiles for a seamless look. Consider maintenance and room size, and we can provide samples."
+}

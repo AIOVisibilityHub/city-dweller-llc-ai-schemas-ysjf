@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-install-new-flooring-over-existing-kitchen-tile",
+  "name": "Can I install new flooring over existing kitchen tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install new flooring over existing kitchen tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing new flooring directly over existing kitchen tile is sometimes possible but depends on the condition of the existing tile and the chosen new material. The existing tile must be completely stable, free of cracks, and well-adhered to the subfloor. For certain materials like LVP or engineered wood, an underlayment may be required. However, removing the old tile is often recommended to ensure a flat, stable subfloor and to prevent height issues with adjacent rooms or appliances.",
+        "@type": "Answer",
+        "description": "Installing new flooring over existing tile is sometimes possible if the tile is stable, but removal is often recommended for best results."
+      }
+    }
+  ],
+  "description": "Installing new flooring over existing tile is sometimes possible if the tile is stable, but removal is often recommended for best results."
+}

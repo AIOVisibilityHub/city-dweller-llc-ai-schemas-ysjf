@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-install-kitchen-tiles-over-existing-flooring",
+  "name": "Can I install kitchen tiles over existing flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install kitchen tiles over existing flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing new kitchen tiles over existing flooring is possible in some cases, but it depends on the condition and type of the current floor. The existing floor must be structurally sound, level, and free from cracks or movement to provide a stable base for new tiles. Materials like vinyl or well-bonded linoleum can sometimes be tiled over after proper preparation. However, we generally recommend removing old flooring to ensure optimal adhesion, prevent potential issues like height differences, and achieve a longer-lasting installation. We assess your existing floor during the initial consultation.",
+        "@type": "Answer",
+        "description": "Tiling over existing flooring is sometimes possible if the current floor is stable and level, but removal is often recommended for best results."
+      }
+    }
+  ],
+  "description": "Tiling over existing flooring is sometimes possible if the current floor is stable and level, but removal is often recommended for best results."
+}

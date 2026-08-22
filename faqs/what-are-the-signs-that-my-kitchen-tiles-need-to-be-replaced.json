@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-signs-that-my-kitchen-tiles-need-to-be-replaced",
+  "name": "What are the signs that my kitchen tiles need to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my kitchen tiles need to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common indicators that your kitchen tiles need replacement include cracked, chipped, or loose tiles, which can be a tripping hazard and allow water to seep underneath, potentially causing subfloor damage. Discolored grout that won't clean, significant stains, or an outdated appearance that no longer matches your aesthetic can also warrant replacement. If you notice any tiles lifting or making hollow sounds when tapped, it often signifies an issue with the adhesive or subfloor. Addressing these issues promptly can prevent more extensive and costly repairs later on.",
+        "@type": "Answer",
+        "description": "Signs include cracked, loose, or discolored tiles, as well as outdated appearance or water damage concerns."
+      }
+    }
+  ],
+  "description": "Signs include cracked, loose, or discolored tiles, as well as outdated appearance or water damage concerns."
+}

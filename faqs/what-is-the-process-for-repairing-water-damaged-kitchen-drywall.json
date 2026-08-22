@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-repairing-water-damaged-kitchen-drywall",
+  "name": "What is the process for repairing water-damaged kitchen drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing water-damaged kitchen drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For water-damaged drywall, the first step is to stop the water source. Next, the affected area is cut out and removed, ensuring all wet or moldy material is gone. New drywall is then cut to fit and secured to existing studs. Joint compound is applied to seams and screw heads, followed by sanding and additional coats until smooth. Finally, the repaired area is primed and painted to match the surrounding wall.",
+        "@type": "Answer",
+        "description": "The process involves stopping the leak, removing damaged sections, installing new drywall, taping, mudding, sanding, priming, and painting."
+      }
+    }
+  ],
+  "description": "The process involves stopping the leak, removing damaged sections, installing new drywall, taping, mudding, sanding, priming, and painting."
+}

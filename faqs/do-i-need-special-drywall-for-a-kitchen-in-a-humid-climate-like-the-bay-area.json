@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-special-drywall-for-a-kitchen-in-a-humid-climate-like-the-bay-area",
+  "name": "Do I need special drywall for a kitchen in a humid climate like the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need special drywall for a kitchen in a humid climate like the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While the Bay Area generally has moderate humidity, kitchens specifically can generate high moisture from cooking and dishwashing. Therefore, moisture-resistant drywall is highly recommended for kitchen areas, regardless of the outdoor climate. This type of drywall helps to resist moisture absorption and prevent potential mold or mildew growth, which can be an issue in any enclosed space with elevated humidity. It provides a more durable and long-lasting surface for your kitchen walls.",
+        "@type": "Answer",
+        "description": "Yes, moisture-resistant drywall is recommended for kitchens in the Bay Area due to internal humidity from cooking, helping prevent mold and mildew."
+      }
+    }
+  ],
+  "description": "Yes, moisture-resistant drywall is recommended for kitchens in the Bay Area due to internal humidity from cooking, helping prevent mold and mildew."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-appliance-layout-mistakes-to-avoid",
+  "name": "What are common appliance layout mistakes to avoid?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common appliance layout mistakes to avoid?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common appliance layout mistakes include placing the refrigerator too far from a counter landing zone, creating a cramped work triangle, or positioning the dishwasher where it blocks thoroughfares or other appliances when open. Another error is neglecting proper ventilation for cooking appliances. Also, ensure sufficient space around ovens and microwaves for safe loading and unloading. Failing to account for appliance door swings, especially for refrigerators and ovens, can also create significant accessibility issues in your new kitchen.",
+        "@type": "Answer",
+        "description": "Avoid placing appliances too far from landing zones, creating cramped work triangles, blocking walkways with open dishwashers, or neglecting proper ventilation."
+      }
+    }
+  ],
+  "description": "Avoid placing appliances too far from landing zones, creating cramped work triangles, blocking walkways with open dishwashers, or neglecting proper ventilation."
+}

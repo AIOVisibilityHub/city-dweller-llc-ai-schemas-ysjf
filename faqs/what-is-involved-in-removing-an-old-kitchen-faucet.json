@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-involved-in-removing-an-old-kitchen-faucet",
+  "name": "What is involved in removing an old kitchen faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in removing an old kitchen faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Removing an old kitchen faucet typically involves several steps. First, the water supply to the sink must be shut off. Then, the hot and cold water supply lines connected to the faucet are disconnected. Next, the mounting nuts or hardware that secure the faucet to the sink or countertop are loosened and removed from underneath. Finally, the old faucet is lifted out. Sometimes, corrosion or tight spaces can make removal challenging, requiring specialized tools or extra effort. Draining any remaining water from the lines before disconnecting helps minimize mess.",
+        "@type": "Answer",
+        "description": "Removing an old kitchen faucet involves shutting off water, disconnecting supply lines, loosening mounting hardware, and then lifting the faucet out."
+      }
+    }
+  ],
+  "description": "Removing an old kitchen faucet involves shutting off water, disconnecting supply lines, loosening mounting hardware, and then lifting the faucet out."
+}

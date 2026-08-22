@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-you-install-kitchen-wall-tiles-over-existing-tiles-or-drywall",
+  "name": "Can you install kitchen wall tiles over existing tiles or drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you install kitchen wall tiles over existing tiles or drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing new tiles over existing tiles is generally not recommended due to potential issues with adhesion, uneven surfaces, and added weight, which can lead to future cracking. It's usually best to remove old tiles first. We can install directly over drywall, provided the drywall is in good condition, structurally sound, and properly prepared. If the drywall is damaged or not suitable, a new substrate like cement backer board may be required.",
+        "@type": "Answer",
+        "description": "Installing tiles over existing tiles is not recommended. We can install over sound drywall, but damaged or unsuitable drywall requires a new substrate like cement backer board."
+      }
+    }
+  ],
+  "description": "Installing tiles over existing tiles is not recommended. We can install over sound drywall, but damaged or unsuitable drywall requires a new substrate like ceme"
+}

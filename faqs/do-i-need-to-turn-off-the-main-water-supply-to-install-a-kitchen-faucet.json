@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-turn-off-the-main-water-supply-to-install-a-kitchen-faucet",
+  "name": "Do I need to turn off the main water supply to install a kitchen faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to turn off the main water supply to install a kitchen faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is essential to turn off the main water supply to your house or, at minimum, the hot and cold water shut-off valves located directly underneath your kitchen sink before beginning any faucet installation. Failing to do so will result in water gushing out when the old faucet is disconnected, leading to significant flooding and potential water damage. Always double-check that the water flow has completely stopped by briefly opening the old faucet before proceeding with removal or installation.",
+        "@type": "Answer",
+        "description": "Yes, you must turn off the main water supply or the under-sink shut-off valves before installing a kitchen faucet to prevent flooding."
+      }
+    }
+  ],
+  "description": "Yes, you must turn off the main water supply or the under-sink shut-off valves before installing a kitchen faucet to prevent flooding."
+}

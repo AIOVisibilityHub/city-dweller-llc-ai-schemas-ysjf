@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-install-new-countertops-if-my-cabinets-are-old",
+  "name": "Can I install new countertops if my cabinets are old?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install new countertops if my cabinets are old?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can often install new countertops on older cabinets, provided the cabinets are structurally sound, level, and securely fastened. Our team will inspect your existing cabinets during the initial consultation to assess their condition. If there are signs of rot, significant warping, or instability, we might recommend repairs or replacement before proceeding with countertop installation to ensure a durable and safe foundation for your new surfaces.",
+        "@type": "Answer",
+        "description": "New countertops can be installed on old cabinets if they are structurally sound and level. We assess cabinet condition during consultation."
+      }
+    }
+  ],
+  "description": "New countertops can be installed on old cabinets if they are structurally sound and level. We assess cabinet condition during consultation."
+}

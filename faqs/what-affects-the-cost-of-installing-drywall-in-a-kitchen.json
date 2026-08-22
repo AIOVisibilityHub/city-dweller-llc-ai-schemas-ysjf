@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-affects-the-cost-of-installing-drywall-in-a-kitchen",
+  "name": "What affects the cost of installing drywall in a kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What affects the cost of installing drywall in a kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of kitchen drywall installation varies based on several factors. Key determinants include the kitchen's square footage, the type of drywall selected (e.g., moisture-resistant, fire-rated), and the complexity of the layout (e.g., numerous corners, archways, or cutouts for cabinets and appliances). Labor rates, which can differ across the Bay Area, also play a significant role. Additional costs may arise from old drywall removal, necessary repairs to underlying structures, and the desired level of finish (e.g., smooth vs. textured).",
+        "@type": "Answer",
+        "description": "Cost factors include kitchen size, drywall type, layout complexity, labor rates, and whether old drywall needs removal."
+      }
+    }
+  ],
+  "description": "Cost factors include kitchen size, drywall type, layout complexity, labor rates, and whether old drywall needs removal."
+}

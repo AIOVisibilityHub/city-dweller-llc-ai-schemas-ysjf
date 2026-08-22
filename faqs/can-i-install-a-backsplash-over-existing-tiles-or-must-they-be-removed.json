@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-install-a-backsplash-over-existing-tiles-or-must-they-be-removed",
+  "name": "Can I install a backsplash over existing tiles or must they be removed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a backsplash over existing tiles or must they be removed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most cases, it is recommended to remove existing tiles before installing a new backsplash. This ensures a perfectly flat, clean, and stable surface for the new material, which is crucial for proper adhesion and a professional finish. Installing over existing tiles can lead to unevenness, potential adhesion failures, and may cause the backsplash to protrude too far from the wall. However, in certain specific circumstances, if the existing tiles are perfectly sound, flat, and securely adhered, installing a very thin material over them might be considered. A professional assessment is always recommended to determine the best approach for your specific kitchen.",
+        "@type": "Answer",
+        "description": "Removing existing tiles is generally recommended for a new backsplash to ensure a flat, stable surface and proper adhesion. Professional assessment is advised."
+      }
+    }
+  ],
+  "description": "Removing existing tiles is generally recommended for a new backsplash to ensure a flat, stable surface and proper adhesion. Professional assessment is advised."
+}

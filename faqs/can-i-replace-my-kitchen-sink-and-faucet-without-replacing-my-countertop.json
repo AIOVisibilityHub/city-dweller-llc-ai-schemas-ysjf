@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-replace-my-kitchen-sink-and-faucet-without-replacing-my-countertop",
+  "name": "Can I replace my kitchen sink and faucet without replacing my countertop?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my kitchen sink and faucet without replacing my countertop?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is often possible to replace your kitchen sink and faucet without replacing the countertop, especially if you choose a new sink with the same dimensions or a slightly larger one that can fit the existing cutout. If the new sink is smaller, it might require a new countertop. Faucet replacement is generally independent of the countertop, provided the new faucet fits the existing holes. Our team can assess your current setup to determine feasibility and recommend suitable options.",
+        "@type": "Answer",
+        "description": "Yes, you can often replace just the sink and faucet, especially if the new sink fits the existing countertop cutout."
+      }
+    }
+  ],
+  "description": "Yes, you can often replace just the sink and faucet, especially if the new sink fits the existing countertop cutout."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-type-of-drywall-is-best-for-kitchen-environments",
+  "name": "What type of drywall is best for kitchen environments?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of drywall is best for kitchen environments?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For kitchen environments, moisture-resistant drywall, often called 'green board,' is recommended due to the higher humidity and potential for splashes. For areas with even greater exposure to water, such as behind sinks or near dishwashers, mold-resistant or cement board might be considered, as they offer superior protection against moisture and mold growth compared to standard drywall.",
+        "@type": "Answer",
+        "description": "Moisture-resistant drywall ('green board') is best for kitchens due to humidity, with mold-resistant or cement board for high-water areas."
+      }
+    }
+  ],
+  "description": "Moisture-resistant drywall ('green board') is best for kitchens due to humidity, with mold-resistant or cement board for high-water areas."
+}

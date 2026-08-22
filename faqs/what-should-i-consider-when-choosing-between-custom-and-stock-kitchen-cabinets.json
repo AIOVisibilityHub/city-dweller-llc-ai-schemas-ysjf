@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-consider-when-choosing-between-custom-and-stock-kitchen-cabinets",
+  "name": "What should I consider when choosing between custom and stock kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing between custom and stock kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When deciding between custom and stock kitchen cabinets, consider your budget, desired aesthetics, and functional needs. Stock cabinets are pre-manufactured in standard sizes, offering a quicker installation and lower cost. Custom cabinets, while more expensive and taking longer to produce, provide unlimited design flexibility, precise fit for unique spaces, and personalized features. Custom options allow for optimal use of every inch and can perfectly match your home's style. We can help you weigh the pros and cons based on your project goals.",
+        "@type": "Answer",
+        "description": "Choose stock cabinets for quicker installation and lower cost; custom cabinets offer design flexibility and a precise fit for unique spaces, though at a higher price."
+      }
+    }
+  ],
+  "description": "Choose stock cabinets for quicker installation and lower cost; custom cabinets offer design flexibility and a precise fit for unique spaces, though at a higher"
+}

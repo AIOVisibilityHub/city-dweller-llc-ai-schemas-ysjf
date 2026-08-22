@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-kitchen-work-triangle-and-why-is-it-important-for-appliance-layout",
+  "name": "What is the 'kitchen work triangle' and why is it important for appliance layout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the 'kitchen work triangle' and why is it important for appliance layout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The kitchen work triangle connects the three main workstations: the refrigerator, sink, and cooktop/oven. This concept aims to minimize steps and maximize efficiency for the primary tasks of food preparation, cooking, and cleanup. An optimal work triangle allows for smooth movement and reduces congestion, particularly in busy kitchens. While modern kitchen designs may adapt this concept to include additional zones (like prep sinks or separate ovens), the core principle of logical flow between primary appliances remains crucial for a functional kitchen layout.",
+        "@type": "Answer",
+        "description": "The kitchen work triangle connects the refrigerator, sink, and cooktop, optimizing efficiency by minimizing movement between key workstations for food preparation and cooking."
+      }
+    }
+  ],
+  "description": "The kitchen work triangle connects the refrigerator, sink, and cooktop, optimizing efficiency by minimizing movement between key workstations for food preparati"
+}

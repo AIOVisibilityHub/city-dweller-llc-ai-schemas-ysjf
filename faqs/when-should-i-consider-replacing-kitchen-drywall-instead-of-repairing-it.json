@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-kitchen-drywall-instead-of-repairing-it",
+  "name": "When should I consider replacing kitchen drywall instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing kitchen drywall instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider replacing kitchen drywall if it has extensive water damage, significant mold growth, or structural damage that compromises its integrity. Large holes, multiple cracks, or widespread deterioration that would require numerous patches often make replacement more cost-effective and result in a better, more uniform finish than extensive repairs. If the existing drywall contains hazardous materials like asbestos (common in older homes), professional removal and replacement are necessary for safety.",
+        "@type": "Answer",
+        "description": "Replace kitchen drywall for extensive water damage, mold, structural issues, or widespread deterioration. Professional removal is needed for hazardous materials like asbestos."
+      }
+    }
+  ],
+  "description": "Replace kitchen drywall for extensive water damage, mold, structural issues, or widespread deterioration. Professional removal is needed for hazardous materials"
+}

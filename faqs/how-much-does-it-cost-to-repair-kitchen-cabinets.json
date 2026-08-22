@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-repair-kitchen-cabinets",
+  "name": "How much does it cost to repair kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of kitchen cabinet repair varies widely depending on the type and extent of damage, the materials involved, and labor rates in the Bay Area. Minor fixes like hinge adjustments or small scratch repairs might be relatively inexpensive, while more extensive work such as repairing significant water damage, refacing, or custom color matching could cost more. Getting a detailed estimate from a local contractor is essential to understand the specific costs for your project. Often, repair is significantly less expensive than full cabinet replacement.",
+        "@type": "Answer",
+        "description": "Costs vary based on damage severity, materials, and local labor rates. Minor fixes are less expensive than extensive repairs or refacing. Obtain a local contractor estimate for specifics."
+      }
+    }
+  ],
+  "description": "Costs vary based on damage severity, materials, and local labor rates. Minor fixes are less expensive than extensive repairs or refacing. Obtain a local contrac"
+}

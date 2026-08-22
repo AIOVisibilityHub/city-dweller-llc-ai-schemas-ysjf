@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-rough-carpentry-and-finish-carpentry-in-a-kitchen",
+  "name": "What's the difference between rough carpentry and finish carpentry in a kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between rough carpentry and finish carpentry in a kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rough carpentry involves the structural framework of a kitchen, including framing walls, installing subflooring, and constructing foundational elements that are typically hidden once the project is complete. Finish carpentry, on the other hand, deals with all the visible, aesthetic elements after the rough work is done. This includes installing decorative trims, moldings, casings, baseboards, and custom millwork that defines the kitchen's style and provides a polished, refined appearance. Rough carpentry builds the bones; finish carpentry adds the beauty.",
+        "@type": "Answer",
+        "description": "Rough carpentry builds the hidden structural framework, while finish carpentry installs visible decorative elements like trim and molding for aesthetic appeal."
+      }
+    }
+  ],
+  "description": "Rough carpentry builds the hidden structural framework, while finish carpentry installs visible decorative elements like trim and molding for aesthetic appeal."
+}

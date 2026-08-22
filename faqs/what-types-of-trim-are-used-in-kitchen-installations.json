@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-trim-are-used-in-kitchen-installations",
+  "name": "What types of trim are used in kitchen installations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of trim are used in kitchen installations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kitchen trim includes various components that provide a finished look and hide gaps. Common types are crown molding for the top of cabinets, base molding for the bottom, and scribe molding to conceal uneven wall gaps. Other options include light rail molding, which hides under-cabinet lighting, and panel molding for decorative cabinet door enhancements. The choice depends on the desired aesthetic, from contemporary to traditional, and the specific functional needs of your kitchen design.",
+        "@type": "Answer",
+        "description": "Common kitchen trim types include crown molding, base molding, scribe molding, and light rail molding, each serving aesthetic or functional purposes."
+      }
+    }
+  ],
+  "description": "Common kitchen trim types include crown molding, base molding, scribe molding, and light rail molding, each serving aesthetic or functional purposes."
+}

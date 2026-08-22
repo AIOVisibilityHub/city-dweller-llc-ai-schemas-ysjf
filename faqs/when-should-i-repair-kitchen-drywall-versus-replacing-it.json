@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-repair-kitchen-drywall-versus-replacing-it",
+  "name": "When should I repair kitchen drywall versus replacing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair kitchen drywall versus replacing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Small holes, dents, or surface cracks in kitchen drywall can often be repaired with patching compounds, tape, and a new coat of paint. However, if the damage is extensive, such as large holes, widespread water damage causing structural compromise, or significant mold growth, replacement is usually the more effective and long-lasting solution. Replacement ensures structural integrity and prevents recurring issues.",
+        "@type": "Answer",
+        "description": "Repair minor damage like small holes or cracks; replace drywall for extensive water damage, large holes, or mold growth."
+      }
+    }
+  ],
+  "description": "Repair minor damage like small holes or cracks; replace drywall for extensive water damage, large holes, or mold growth."
+}

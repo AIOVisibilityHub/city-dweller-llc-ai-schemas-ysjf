@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-wood-are-commonly-used-for-kitchen-trim",
+  "name": "What types of wood are commonly used for kitchen trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of wood are commonly used for kitchen trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common types of wood used for kitchen trim include maple, oak, cherry, and poplar. Maple and poplar are popular choices for painted trim due to their smooth, fine grain that holds paint well. Oak offers a distinct grain pattern often favored for stained finishes, providing a traditional or rustic feel. Cherry wood is valued for its rich color that darkens beautifully over time, often used in more elegant or classic kitchen designs. The choice typically aligns with the cabinet material or desired finish.",
+        "@type": "Answer",
+        "description": "Common wood types for kitchen trim include maple, oak, cherry, and poplar, chosen based on desired finish, grain, and overall kitchen aesthetic."
+      }
+    }
+  ],
+  "description": "Common wood types for kitchen trim include maple, oak, cherry, and poplar, chosen based on desired finish, grain, and overall kitchen aesthetic."
+}

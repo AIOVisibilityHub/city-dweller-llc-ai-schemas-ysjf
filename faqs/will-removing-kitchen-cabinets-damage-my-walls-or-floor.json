@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-removing-kitchen-cabinets-damage-my-walls-or-floor",
+  "name": "Will removing kitchen cabinets damage my walls or floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will removing kitchen cabinets damage my walls or floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional kitchen cabinet removal aims to minimize any damage to your walls and flooring. Our team uses specialized techniques and tools to carefully detach cabinets, reducing the risk of scrapes, dents, or tears. While some minor cosmetic touch-ups to walls may be necessary after removal, especially if new cabinets have different dimensions, significant damage is avoided. We take precautions to protect your home throughout the process.",
+        "@type": "Answer",
+        "description": "Professional removal minimizes damage to walls and flooring. Some minor cosmetic touch-ups may be needed, but significant damage is avoided with careful techniques."
+      }
+    }
+  ],
+  "description": "Professional removal minimizes damage to walls and flooring. Some minor cosmetic touch-ups may be needed, but significant damage is avoided with careful techniq"
+}

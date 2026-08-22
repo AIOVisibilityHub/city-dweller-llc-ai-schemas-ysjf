@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-permits-for-kitchen-cabinet-removal-in-the-bay-area",
+  "name": "Do I need permits for kitchen cabinet removal in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for kitchen cabinet removal in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, simple kitchen cabinet removal for replacement in the same footprint does not require a specific permit in Bay Area cities like Pacifica or San Mateo. However, if the removal is part of a larger renovation project that involves structural changes, plumbing alterations, or electrical modifications, then permits will likely be necessary. It's always best to consult with your general contractor, like City Dweller, LLC, to determine permit requirements for your specific project.",
+        "@type": "Answer",
+        "description": "Simple cabinet removal usually doesn't require a permit in the Bay Area, but major renovations involving structural, plumbing, or electrical changes often do."
+      }
+    }
+  ],
+  "description": "Simple cabinet removal usually doesn't require a permit in the Bay Area, but major renovations involving structural, plumbing, or electrical changes often do."
+}

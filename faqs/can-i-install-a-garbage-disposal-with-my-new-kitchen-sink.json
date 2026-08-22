@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-install-a-garbage-disposal-with-my-new-kitchen-sink",
+  "name": "Can I install a garbage disposal with my new kitchen sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a garbage disposal with my new kitchen sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a garbage disposal can typically be installed with most new kitchen sinks, provided there is adequate space under the sink and existing electrical wiring. The sink must have a standard drain opening, which nearly all modern sinks do. If you don't have an existing electrical outlet under the sink, a dedicated circuit and outlet may need to be installed by a qualified electrician, which would be an additional project step.",
+        "@type": "Answer",
+        "description": "Yes, a garbage disposal can usually be installed with a new kitchen sink, provided there's under-sink space and adequate electrical access."
+      }
+    }
+  ],
+  "description": "Yes, a garbage disposal can usually be installed with a new kitchen sink, provided there's under-sink space and adequate electrical access."
+}

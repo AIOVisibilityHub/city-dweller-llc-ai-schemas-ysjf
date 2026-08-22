@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-remove-kitchen-cabinets",
+  "name": "How long does it take to remove kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to remove kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required for kitchen cabinet removal varies depending on the size of the kitchen, the number of cabinets, and the complexity of the installation. A small kitchen with standard cabinetry might take a few hours, while a large kitchen with custom or integrated units could take a full day or more. Factors like existing plumbing or electrical connections within cabinets can also influence the timeline. Our team aims for efficient and thorough removal to minimize disruption.",
+        "@type": "Answer",
+        "description": "Removal time varies, typically from a few hours for small kitchens to a full day for larger, more complex layouts. Factors include kitchen size and cabinet type."
+      }
+    }
+  ],
+  "description": "Removal time varies, typically from a few hours for small kitchens to a full day for larger, more complex layouts. Factors include kitchen size and cabinet type"
+}

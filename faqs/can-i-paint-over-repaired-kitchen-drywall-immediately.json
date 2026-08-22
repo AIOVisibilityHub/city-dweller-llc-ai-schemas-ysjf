@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-paint-over-repaired-kitchen-drywall-immediately",
+  "name": "Can I paint over repaired kitchen drywall immediately?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I paint over repaired kitchen drywall immediately?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, it's crucial to allow sufficient drying time for all layers of joint compound and primer before painting over repaired kitchen drywall. Rushing the process can lead to cracking, blistering, or an uneven finish. Typically, each coat of compound needs 12-24 hours to dry, and primer requires several hours. Always follow the manufacturer's recommendations for drying times for optimal results.",
+        "@type": "Answer",
+        "description": "No, allow sufficient drying time for joint compound and primer, usually 12-24 hours per coat, before painting."
+      }
+    }
+  ],
+  "description": "No, allow sufficient drying time for joint compound and primer, usually 12-24 hours per coat, before painting."
+}

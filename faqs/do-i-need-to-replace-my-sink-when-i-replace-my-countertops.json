@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-replace-my-sink-when-i-replace-my-countertops",
+  "name": "Do I need to replace my sink when I replace my countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace my sink when I replace my countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While not strictly mandatory, it is highly recommended to replace your sink when getting new countertops. Countertop removal can sometimes damage existing sinks, and installing a new sink with new countertops ensures a fresh, cohesive look and proper sealing. It also provides an opportunity to upgrade to a more modern or functional sink style, and often reduces future plumbing work. If you choose to keep your old sink, we will carefully reinstall it, but cannot guarantee its condition after removal.",
+        "@type": "Answer",
+        "description": "It is highly recommended to replace your sink with new countertops for a cohesive look and proper sealing. This also allows for upgrades and reduces future plumbing work."
+      }
+    }
+  ],
+  "description": "It is highly recommended to replace your sink with new countertops for a cohesive look and proper sealing. This also allows for upgrades and reduces future plum"
+}

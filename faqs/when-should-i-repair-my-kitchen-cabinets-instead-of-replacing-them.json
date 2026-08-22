@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-repair-my-kitchen-cabinets-instead-of-replacing-them",
+  "name": "When should I repair my kitchen cabinets instead of replacing them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair my kitchen cabinets instead of replacing them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider repairing cabinets when the damage is localized and doesn't compromise the overall structure. This includes fixing minor scratches, loose hinges, or a single damaged door. Repair is also a cost-effective option if the cabinet boxes are in good condition and you're happy with the layout. Replacement becomes necessary if there is extensive water damage, mold, significant structural deterioration, or if you desire a complete kitchen redesign and layout change. A professional can help evaluate the extent of damage.",
+        "@type": "Answer",
+        "description": "Repair is suitable for localized damage like scratches or loose hinges when the cabinet boxes are sound. Replacement is needed for extensive structural damage or a full redesign."
+      }
+    }
+  ],
+  "description": "Repair is suitable for localized damage like scratches or loose hinges when the cabinet boxes are sound. Replacement is needed for extensive structural damage o"
+}

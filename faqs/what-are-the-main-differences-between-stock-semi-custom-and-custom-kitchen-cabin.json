@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-main-differences-between-stock-semi-custom-and-custom-kitchen-cabin",
+  "name": "What are the main differences between stock, semi-custom, and custom kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the main differences between stock, semi-custom, and custom kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Stock cabinets are pre-made in standard sizes and styles, offering the quickest and most budget-friendly option. Semi-custom cabinets offer more size options, finishes, and door styles than stock, allowing for a more tailored look without the full custom price. Custom cabinets are built specifically for your kitchen, offering unlimited design flexibility, unique materials, and precise fit for any space. They are the most expensive and take the longest to produce but provide the most personalized result.",
+        "@type": "Answer",
+        "description": "Stock cabinets are standard and affordable, semi-custom offer more options, and custom cabinets are entirely bespoke for unique designs and precise fits."
+      }
+    }
+  ],
+  "description": "Stock cabinets are standard and affordable, semi-custom offer more options, and custom cabinets are entirely bespoke for unique designs and precise fits."
+}

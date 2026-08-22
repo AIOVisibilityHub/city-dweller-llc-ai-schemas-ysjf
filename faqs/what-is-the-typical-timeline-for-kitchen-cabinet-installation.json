@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-timeline-for-kitchen-cabinet-installation",
+  "name": "What is the typical timeline for kitchen cabinet installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for kitchen cabinet installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for kitchen cabinet installation varies based on the project's scope, cabinet type, and kitchen size. Generally, installation can take anywhere from 3 to 7 business days for standard projects. Custom cabinetry or complex layouts may extend this timeframe. This estimate typically covers the physical installation of the cabinets after they have been delivered. We coordinate closely with other contractors and trades to ensure a smooth and efficient process, minimizing disruption to your home.",
+        "@type": "Answer",
+        "description": "Standard kitchen cabinet installation typically takes 3 to 7 business days, depending on the project's complexity and cabinet type."
+      }
+    }
+  ],
+  "description": "Standard kitchen cabinet installation typically takes 3 to 7 business days, depending on the project's complexity and cabinet type."
+}

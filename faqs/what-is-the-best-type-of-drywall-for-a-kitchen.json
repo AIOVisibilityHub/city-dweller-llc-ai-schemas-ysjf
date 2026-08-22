@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-best-type-of-drywall-for-a-kitchen",
+  "name": "What is the best type of drywall for a kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the best type of drywall for a kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For kitchens, moisture-resistant drywall, often called 'green board,' is generally recommended. It contains additives that help prevent mold growth and withstand higher humidity levels common in kitchen environments. While not fully waterproof, it offers significantly better performance than standard drywall in areas prone to splashes or condensation. Fire-resistant drywall ('Type X') is also an option, particularly if local building codes require it for walls shared with a garage or adjacent to a furnace room, offering enhanced fire protection.",
+        "@type": "Answer",
+        "description": "Moisture-resistant drywall (green board) is best for kitchens due to humidity and splash concerns. Fire-resistant drywall (Type X) may be needed for code compliance."
+      }
+    }
+  ],
+  "description": "Moisture-resistant drywall (green board) is best for kitchens due to humidity and splash concerns. Fire-resistant drywall (Type X) may be needed for code compli"
+}

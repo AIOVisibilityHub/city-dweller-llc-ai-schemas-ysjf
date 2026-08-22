@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-an-undermount-and-a-drop-in-sink",
+  "name": "What's the difference between an undermount and a drop-in sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between an undermount and a drop-in sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An undermount sink is installed beneath the countertop, creating a seamless look and making countertop cleaning easier as crumbs can be wiped directly into the sink. A drop-in (or top-mount) sink has a rim that rests on top of the countertop, supporting its weight and simplifying installation. Undermount sinks are generally perceived as more modern and require a solid surface countertop, while drop-in sinks are versatile and work with various countertop materials, often at a lower installation cost.",
+        "@type": "Answer",
+        "description": "Undermount sinks are installed beneath the counter for a seamless look, while drop-in sinks rest on top with a visible rim."
+      }
+    }
+  ],
+  "description": "Undermount sinks are installed beneath the counter for a seamless look, while drop-in sinks rest on top with a visible rim."
+}

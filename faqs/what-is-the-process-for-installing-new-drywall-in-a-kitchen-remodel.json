@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-installing-new-drywall-in-a-kitchen-remodel",
+  "name": "What is the process for installing new drywall in a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing new drywall in a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically starts after framing, plumbing, and electrical rough-ins are complete. First, drywall sheets are cut to size and securely fastened to wall studs and ceiling joists. Next, the joints between sheets are taped and covered with multiple layers of joint compound (mud). Each layer requires drying time, followed by sanding to create a smooth, seamless surface. Corner beads are installed to protect exterior corners. The final step is a thorough inspection to ensure a paint-ready finish before primer and paint can be applied.",
+        "@type": "Answer",
+        "description": "Installation involves hanging drywall, taping and mudding joints, sanding smooth, and installing corner beads to create a paint-ready surface."
+      }
+    }
+  ],
+  "description": "Installation involves hanging drywall, taping and mudding joints, sanding smooth, and installing corner beads to create a paint-ready surface."
+}

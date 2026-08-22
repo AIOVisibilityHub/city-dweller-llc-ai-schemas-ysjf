@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-best-layout-for-my-small-kitchen",
+  "name": "How do I choose the best layout for my small kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the best layout for my small kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a small kitchen, focus on layouts that maximize efficiency without feeling cramped. Galley kitchens are often ideal, offering two parallel workspaces. L-shaped layouts can also work well, especially with an open wall. Consider incorporating vertical storage, compact appliances, and smart storage solutions. Avoid U-shaped or large island layouts that can overwhelm the space. The goal is to create a functional 'work triangle' between the sink, refrigerator, and stove in a compact area.",
+        "@type": "Answer",
+        "description": "Choose layouts like galley or L-shape for small kitchens, focusing on vertical storage and a compact work triangle. Avoid overwhelming the space."
+      }
+    }
+  ],
+  "description": "Choose layouts like galley or L-shape for small kitchens, focusing on vertical storage and a compact work triangle. Avoid overwhelming the space."
+}
