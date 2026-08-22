@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-paint-do-you-use-for-interior-repainting-projects",
+  "name": "What kind of paint do you use for interior repainting projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of paint do you use for interior repainting projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We primarily use high-quality, low-VOC (Volatile Organic Compound) latex paints from reputable brands for interior repainting. These paints are known for their durability, easy cleanup, and minimal odor, contributing to a healthier indoor environment. Depending on the specific application area, such as bathrooms or kitchens, we might recommend paints with enhanced mildew resistance or scrubbability. We discuss paint options with you to match your preferences and budget.",
+        "@type": "Answer",
+        "description": "We use high-quality, low-VOC latex paints from reputable brands for durability and minimal odor, suggesting specialized paints for specific areas."
+      }
+    }
+  ],
+  "description": "We use high-quality, low-VOC latex paints from reputable brands for durability and minimal odor, suggesting specialized paints for specific areas."
+}

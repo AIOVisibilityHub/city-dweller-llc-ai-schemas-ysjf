@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-services-does-city-dweller-llc-offer-for-home-remodeling",
+  "name": "What services does City Dweller, LLC offer for home remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What services does City Dweller, LLC offer for home remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC provides comprehensive home remodeling services, including kitchen and bathroom renovations, basement finishing, room additions, and whole-house remodels. We handle everything from initial design and planning to project completion, ensuring a seamless process. Our team manages permits, material selection, and all construction phases, working closely with clients to bring their vision to life. We focus on delivering high-quality craftsmanship and functional, aesthetically pleasing results tailored to your specific needs and preferences.",
+        "@type": "Answer",
+        "description": "City Dweller, LLC offers complete home remodeling services, including kitchen, bathroom, basement, and room additions, managing the entire project from design to construction."
+      }
+    }
+  ],
+  "description": "City Dweller, LLC offers complete home remodeling services, including kitchen, bathroom, basement, and room additions, managing the entire project from design t"
+}

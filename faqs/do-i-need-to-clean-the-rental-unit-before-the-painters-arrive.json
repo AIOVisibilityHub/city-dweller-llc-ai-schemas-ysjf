@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-clean-the-rental-unit-before-the-painters-arrive",
+  "name": "Do I need to clean the rental unit before the painters arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to clean the rental unit before the painters arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is highly recommended to have the rental unit thoroughly cleaned before the painters arrive. This includes dusting, wiping down walls, and ensuring surfaces are free of grease and grime. A clean surface allows for better paint adhesion and a smoother, more professional finish. Our team will perform light preparation like patching small holes and sanding, but major cleaning or removal of personal items should be completed beforehand to avoid delays and ensure the best outcome for your property.",
+        "@type": "Answer",
+        "description": "Yes, thoroughly clean the rental unit before painters arrive to ensure proper paint adhesion and a professional finish."
+      }
+    }
+  ],
+  "description": "Yes, thoroughly clean the rental unit before painters arrive to ensure proper paint adhesion and a professional finish."
+}

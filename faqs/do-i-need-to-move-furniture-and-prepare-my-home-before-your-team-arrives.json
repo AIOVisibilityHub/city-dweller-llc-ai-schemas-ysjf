@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-move-furniture-and-prepare-my-home-before-your-team-arrives",
+  "name": "Do I need to move furniture and prepare my home before your team arrives?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to move furniture and prepare my home before your team arrives?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While we take precautions to protect your belongings, we recommend clearing small, valuable, or easily breakable items from the rooms to be painted. You don't need to move all large furniture; our team will carefully shift and cover larger pieces like sofas and beds with plastic sheeting before starting work. We ensure that your floors are also protected with drop cloths. This preparation helps us work efficiently and keeps your items safe.",
+        "@type": "Answer",
+        "description": "We protect furniture and floors, but please clear small, valuable items. Our team will move and cover larger furniture."
+      }
+    }
+  ],
+  "description": "We protect furniture and floors, but please clear small, valuable items. Our team will move and cover larger furniture."
+}

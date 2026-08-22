@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-matte-eggshell-and-satin-paint-finishes",
+  "name": "What is the difference between matte, eggshell, and satin paint finishes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between matte, eggshell, and satin paint finishes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Matte paint has a flat, non-reflective finish that hides imperfections well, making it ideal for low-traffic areas like bedrooms. Eggshell offers a slight sheen, making it more durable and easier to clean than matte, suitable for living rooms and hallways. Satin has a noticeable sheen, similar to an eggshell but slightly more reflective, providing excellent durability and washability, often used in kitchens, bathrooms, and for trim. The choice depends on the desired aesthetic, traffic level, and ease of maintenance.",
+        "@type": "Answer",
+        "description": "Matte is flat and hides imperfections; eggshell has a slight sheen and is more durable; satin has a noticeable sheen, is highly durable, and is easy to clean."
+      }
+    }
+  ],
+  "description": "Matte is flat and hides imperfections; eggshell has a slight sheen and is more durable; satin has a noticeable sheen, is highly durable, and is easy to clean."
+}

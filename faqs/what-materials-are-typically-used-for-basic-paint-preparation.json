@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-materials-are-typically-used-for-basic-paint-preparation",
+  "name": "What materials are typically used for basic paint preparation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are typically used for basic paint preparation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Basic paint preparation typically involves several common materials. You'll need cleaning supplies such as mild detergent or degreaser, sponges, and rags. For repairs, spackle or joint compound, a putty knife, and various grit sandpaper (medium to fine) are essential. Masking tools include painter's tape and drop cloths or plastic sheeting. Depending on the project, you might also use a paint scraper, wire brush, or a sanding block to ensure smooth, clean surfaces ready for priming and painting.",
+        "@type": "Answer",
+        "description": "Materials include cleaning supplies, spackle, putty knives, sandpaper, painter's tape, and drop cloths for essential surface preparation."
+      }
+    }
+  ],
+  "description": "Materials include cleaning supplies, spackle, putty knives, sandpaper, painter's tape, and drop cloths for essential surface preparation."
+}

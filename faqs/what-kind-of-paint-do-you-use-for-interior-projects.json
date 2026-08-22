@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-paint-do-you-use-for-interior-projects",
+  "name": "What kind of paint do you use for interior projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of paint do you use for interior projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We primarily use high-quality, durable, and low-VOC (Volatile Organic Compound) paints from reputable brands. The specific type of paint – such as matte, eggshell, satin, or semi-gloss – will be selected based on the room's function, desired aesthetic, and durability requirements. For example, higher-sheen paints are often recommended for kitchens and bathrooms due to their moisture resistance and ease of cleaning. We discuss paint options with you to meet your project's needs.",
+        "@type": "Answer",
+        "description": "We use high-quality, durable, and low-VOC paints from reputable brands, selected based on the room's function and your desired finish."
+      }
+    }
+  ],
+  "description": "We use high-quality, durable, and low-VOC paints from reputable brands, selected based on the room's function and your desired finish."
+}

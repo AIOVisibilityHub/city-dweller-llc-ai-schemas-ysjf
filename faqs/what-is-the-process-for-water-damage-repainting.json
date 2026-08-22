@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-water-damage-repainting",
+  "name": "What is the process for water damage repainting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for water damage repainting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with damage assessment and ensuring the water source is fixed and the area is completely dry. Next, affected materials like drywall or plaster are repaired or replaced. Surfaces are then thoroughly cleaned, sanitized, and often treated with mold-resistant products. A specialized stain-blocking and mold-inhibiting primer is applied. Finally, the area is repainted with high-quality interior or exterior paint, matching existing colors or applying new ones. Each step is critical for a durable and aesthetically pleasing result.",
+        "@type": "Answer",
+        "description": "The process involves damage assessment, drying, repairs, cleaning, priming with stain-blocking primer, and then repainting."
+      }
+    }
+  ],
+  "description": "The process involves damage assessment, drying, repairs, cleaning, priming with stain-blocking primer, and then repainting."
+}

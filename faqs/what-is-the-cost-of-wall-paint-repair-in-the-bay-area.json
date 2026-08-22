@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-cost-of-wall-paint-repair-in-the-bay-area",
+  "name": "What is the cost of wall paint repair in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of wall paint repair in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of wall paint repair in the Bay Area varies widely based on the scope of work. Factors include the size and number of damaged areas, the complexity of the repair (e.g., simple scuff vs. large drywall patch), the type of paint required, and labor. Small repairs might start at a few hundred dollars, while more extensive work could be higher. We provide detailed, transparent quotes after an on-site assessment to ensure you understand the exact cost for your specific needs.",
+        "@type": "Answer",
+        "description": "Cost varies based on damage size, complexity, paint type, and labor. Small repairs are a few hundred dollars; we provide detailed quotes after assessment."
+      }
+    }
+  ],
+  "description": "Cost varies based on damage size, complexity, paint type, and labor. Small repairs are a few hundred dollars; we provide detailed quotes after assessment."
+}

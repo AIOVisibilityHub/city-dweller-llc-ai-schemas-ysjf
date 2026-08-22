@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-multi-room-painting",
+  "name": "What is multi-room painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is multi-room painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Multi-room painting involves painting two or more distinct rooms within a property as part of a single project. This approach can be more efficient than painting rooms individually over time, as it allows for bulk purchasing of materials, streamlined scheduling, and consistent project management. For homeowners in the Bay Area, this often means a single contractor like City Dweller, LLC can manage the entire interior aesthetic update, ensuring color coordination and a cohesive look across multiple living spaces. It's a popular choice for larger renovation projects or when refreshing an entire floor.",
+        "@type": "Answer",
+        "description": "Multi-room painting is the process of painting two or more separate rooms in a single, coordinated project. It offers efficiency and a cohesive aesthetic for your property."
+      }
+    }
+  ],
+  "description": "Multi-room painting is the process of painting two or more separate rooms in a single, coordinated project. It offers efficiency and a cohesive aesthetic for yo"
+}

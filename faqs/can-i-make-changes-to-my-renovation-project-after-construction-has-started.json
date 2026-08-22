@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-make-changes-to-my-renovation-project-after-construction-has-started",
+  "name": "Can I make changes to my renovation project after construction has started?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I make changes to my renovation project after construction has started?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, changes can be made, but they are typically managed through a formal change order process. This involves documenting the requested alteration, assessing its impact on the project's cost and schedule, and getting written approval from both the client and the contractor. While City Dweller, LLC strives to accommodate client requests, changes can lead to additional costs and delays. It's always best to finalize all decisions during the planning phase to minimize these impacts, but we understand flexibility is sometimes needed.",
+        "@type": "Answer",
+        "description": "Changes are possible after construction starts via a change order, impacting cost and schedule. Finalizing decisions early minimizes disruptions."
+      }
+    }
+  ],
+  "description": "Changes are possible after construction starts via a change order, impacting cost and schedule. Finalizing decisions early minimizes disruptions."
+}

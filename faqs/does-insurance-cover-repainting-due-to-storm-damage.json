@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/does-insurance-cover-repainting-due-to-storm-damage",
+  "name": "Does insurance cover repainting due to storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does insurance cover repainting due to storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many homeowner insurance policies cover exterior repainting if the damage is directly caused by a covered peril, such as wind, hail, or falling trees during a storm. The extent of coverage depends on your specific policy, including your deductible and the type of damage. It's important to document all damage with photos and contact your insurance provider as soon as possible after the storm to file a claim and understand your benefits.",
+        "@type": "Answer",
+        "description": "Homeowner insurance often covers repainting for storm damage caused by covered perils. Check your policy and document damage for a claim."
+      }
+    }
+  ],
+  "description": "Homeowner insurance often covers repainting for storm damage caused by covered perils. Check your policy and document damage for a claim."
+}

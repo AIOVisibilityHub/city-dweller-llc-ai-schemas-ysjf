@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-preparation-is-needed-before-painting-interior-trim",
+  "name": "What preparation is needed before painting interior trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before painting interior trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper preparation is crucial for a durable and professional trim paint finish. This typically involves cleaning the trim thoroughly to remove dirt and grease, filling any nail holes or imperfections with spackle, sanding rough spots or glossy surfaces to create a good adhesion profile for the new paint, and applying painter's tape to protect adjacent walls and floors. If the existing finish is oil-based or significantly damaged, a primer may also be necessary.",
+        "@type": "Answer",
+        "description": "Preparation for interior trim painting includes cleaning, filling holes, sanding, and taping. Primer may be needed for certain existing finishes."
+      }
+    }
+  ],
+  "description": "Preparation for interior trim painting includes cleaning, filling holes, sanding, and taping. Primer may be needed for certain existing finishes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/does-city-dweller-llc-handle-all-aspects-of-a-construction-project-including-des",
+  "name": "Does City Dweller, LLC handle all aspects of a construction project, including design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does City Dweller, LLC handle all aspects of a construction project, including design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC operates as a general contractor, meaning we oversee and manage all phases of your construction project from start to finish. While we don't have in-house architectural design services, we frequently collaborate with trusted architects and designers to bring your vision to life. Our role includes coordinating design professionals, managing permits, procuring materials, scheduling and supervising subcontractors, and ensuring the project adheres to timelines and budget. We provide a single point of contact for the entire process.",
+        "@type": "Answer",
+        "description": "As a general contractor, City Dweller, LLC manages all project phases and collaborates with architects and designers, providing a single point of contact."
+      }
+    }
+  ],
+  "description": "As a general contractor, City Dweller, LLC manages all project phases and collaborates with architects and designers, providing a single point of contact."
+}

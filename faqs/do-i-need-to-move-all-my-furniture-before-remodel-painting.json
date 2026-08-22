@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-move-all-my-furniture-before-remodel-painting",
+  "name": "Do I need to move all my furniture before remodel painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to move all my furniture before remodel painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While our team will assist with moving larger items, it is generally recommended that clients remove smaller, fragile items, decor, and personal belongings from the rooms to be painted. This protects your valuables and helps our painters work more efficiently. Larger furniture can often be moved to the center of the room and covered with protective sheeting. Discuss specific furniture arrangements with our team during the initial consultation for best preparation.",
+        "@type": "Answer",
+        "description": "It's recommended to remove small, fragile items. Larger furniture can often be moved and covered, but discuss specifics with the painting team."
+      }
+    }
+  ],
+  "description": "It's recommended to remove small, fragile items. Larger furniture can often be moved and covered, but discuss specifics with the painting team."
+}

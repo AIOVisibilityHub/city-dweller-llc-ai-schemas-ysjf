@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-steps-are-involved-in-the-interior-painting-process",
+  "name": "What steps are involved in the interior painting process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in the interior painting process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our interior painting process begins with protecting all furniture, flooring, and non-painted surfaces. Next, we prepare the walls by cleaning, patching holes, filling cracks, and sanding uneven areas. After preparation, a primer is applied if necessary, followed by two coats of premium paint. Finally, we conduct a thorough clean-up, replace furniture, and perform a final inspection with you to ensure satisfaction with the completed work. Communication is maintained throughout each stage.",
+        "@type": "Answer",
+        "description": "The interior painting process involves preparation (protecting, patching, sanding), priming, two coats of paint, cleanup, and a final inspection."
+      }
+    }
+  ],
+  "description": "The interior painting process involves preparation (protecting, patching, sanding), priming, two coats of paint, cleanup, and a final inspection."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-factors-influence-the-cost-of-remodel-painting",
+  "name": "What factors influence the cost of remodel painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of remodel painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence the cost of remodel painting, including the square footage of the area to be painted, the condition of the surfaces requiring preparation (e.g., extensive patching, sanding), the type and quality of paint selected, and the complexity of the job (e.g., high ceilings, intricate trim work). Additionally, the number of coats required and whether specialty finishes are requested can impact the overall price. We provide a detailed, itemized quote after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Cost is influenced by square footage, surface condition, paint type, job complexity, and the number of coats or specialty finishes required."
+      }
+    }
+  ],
+  "description": "Cost is influenced by square footage, surface condition, paint type, job complexity, and the number of coats or specialty finishes required."
+}

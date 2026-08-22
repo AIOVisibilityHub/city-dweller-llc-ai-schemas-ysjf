@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-repaired-wall-paint-last",
+  "name": "How long does repaired wall paint last?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does repaired wall paint last?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When professionally done, wall paint repair can last as long as the original paint on your walls, often several years. The longevity depends on the quality of materials used, proper surface preparation, and the specific area repaired. High-traffic areas or walls prone to impact might show wear sooner. For optimal durability, we use high-quality primers and paints, ensuring the repaired section is as robust as the surrounding finish.",
+        "@type": "Answer",
+        "description": "Professionally repaired wall paint can last as long as the original paint, depending on materials, preparation, and location."
+      }
+    }
+  ],
+  "description": "Professionally repaired wall paint can last as long as the original paint, depending on materials, preparation, and location."
+}

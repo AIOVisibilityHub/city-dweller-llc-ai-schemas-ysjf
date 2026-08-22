@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-professional-paint-preparation-versus-diy",
+  "name": "When should I consider professional paint preparation versus DIY?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider professional paint preparation versus DIY?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider professional paint preparation when dealing with significant surface damage, lead-based paint concerns, extensive exterior work, or if you lack the time, tools, or expertise. Professionals have specialized equipment, experience with various materials, and can handle hazardous substances safely. For smaller, straightforward interior projects with minimal issues, a DIY approach might be feasible. However, for a durable and high-quality finish, professional preparation often yields superior results.",
+        "@type": "Answer",
+        "description": "Opt for professionals with significant damage, lead paint, exterior work, or if you lack time/expertise. DIY may suit small, simple interior projects."
+      }
+    }
+  ],
+  "description": "Opt for professionals with significant damage, lead paint, exterior work, or if you lack time/expertise. DIY may suit small, simple interior projects."
+}

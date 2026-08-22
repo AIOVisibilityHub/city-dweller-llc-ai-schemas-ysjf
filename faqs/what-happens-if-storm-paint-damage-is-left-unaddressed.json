@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-happens-if-storm-paint-damage-is-left-unaddressed",
+  "name": "What happens if storm paint damage is left unaddressed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if storm paint damage is left unaddressed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Leaving storm paint damage unaddressed can lead to a cascade of problems. The compromised paint barrier exposes your home's exterior to further moisture penetration, which can cause wood rot, mold and mildew growth, and even structural damage over time. This neglect can significantly diminish your home's curb appeal, reduce its value, and eventually lead to much more extensive and costly repairs than if the initial damage had been handled promptly.",
+        "@type": "Answer",
+        "description": "Unaddressed storm paint damage can lead to wood rot, mold, structural damage, reduced home value, and more costly future repairs."
+      }
+    }
+  ],
+  "description": "Unaddressed storm paint damage can lead to wood rot, mold, structural damage, reduced home value, and more costly future repairs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-you-match-paint-colors-for-wall-repairs",
+  "name": "How do you match paint colors for wall repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you match paint colors for wall repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Matching paint colors accurately is crucial for an invisible repair. We primarily rely on the original paint can or leftover paint from the initial application if available. If not, we can take a small sample chip from an inconspicuous area of your wall and have it color-matched professionally. Alternatively, we utilize advanced color-matching technology or choose the closest possible shade from a fan deck, considering how age and light exposure might have altered the existing paint's appearance.",
+        "@type": "Answer",
+        "description": "We match paint using original cans, sample chips, color-matching technology, or by selecting the closest shade considering paint aging."
+      }
+    }
+  ],
+  "description": "We match paint using original cans, sample chips, color-matching technology, or by selecting the closest shade considering paint aging."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-role-of-a-residential-general-contractor",
+  "name": "What is the role of a residential general contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the role of a residential general contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A residential general contractor, like City Dweller, LLC, manages all aspects of a home improvement or construction project. This includes overseeing subcontractors, coordinating schedules, managing budgets, procuring materials, and ensuring quality and compliance with building codes. We serve as the primary point of contact, streamlining communication and ensuring the project progresses smoothly from conception to completion. Our goal is to deliver your vision efficiently and to a high standard, minimizing stress for homeowners.",
+        "@type": "Answer",
+        "description": "A residential general contractor manages all aspects of a home construction or renovation project, overseeing subcontractors, budgets, schedules, and quality control."
+      }
+    }
+  ],
+  "description": "A residential general contractor manages all aspects of a home construction or renovation project, overseeing subcontractors, budgets, schedules, and quality co"
+}

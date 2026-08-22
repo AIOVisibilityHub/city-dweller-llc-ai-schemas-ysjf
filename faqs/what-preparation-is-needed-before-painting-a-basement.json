@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-preparation-is-needed-before-painting-a-basement",
+  "name": "What preparation is needed before painting a basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before painting a basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper preparation is key to a lasting basement paint job. This includes thoroughly cleaning the walls and floor to remove dirt, grease, and efflorescence. Any cracks or holes should be filled and repaired. Surfaces often need to be etched, especially concrete floors, to create a profile for paint adhesion. Finally, applying a suitable primer is essential to seal the surface and ensure the paint adheres correctly, preventing peeling or bubbling.",
+        "@type": "Answer",
+        "description": "Preparation involves cleaning, repairing cracks, possibly etching surfaces, and applying a suitable primer for proper paint adhesion."
+      }
+    }
+  ],
+  "description": "Preparation involves cleaning, repairing cracks, possibly etching surfaces, and applying a suitable primer for proper paint adhesion."
+}

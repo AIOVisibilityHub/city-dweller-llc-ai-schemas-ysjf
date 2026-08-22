@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-for-painting-one-room-in-the-bay-area",
+  "name": "What is the typical cost for painting one room in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for painting one room in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to paint a single room in the Bay Area varies based on factors such as room size, ceiling height, current wall condition, and the type of paint chosen. While we provide detailed, customized quotes after a consultation, a general estimate for a standard bedroom might range from $400 to $800. This includes labor, materials, surface preparation, and two coats of quality paint. More complex projects with extensive repairs or specialized finishes will be quoted accordingly.",
+        "@type": "Answer",
+        "description": "The cost for painting one room in the Bay Area typically ranges from $400-$800, depending on room size, condition, and paint type."
+      }
+    }
+  ],
+  "description": "The cost for painting one room in the Bay Area typically ranges from $400-$800, depending on room size, condition, and paint type."
+}

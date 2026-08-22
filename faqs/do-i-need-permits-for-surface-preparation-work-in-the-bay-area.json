@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-permits-for-surface-preparation-work-in-the-bay-area",
+  "name": "Do I need permits for surface preparation work in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for surface preparation work in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, basic surface preparation like grinding or cleaning for interior projects does not require specific permits. However, if the work involves structural changes, extensive demolition, or modifications to exterior elements that fall under local building codes, permits may be necessary. For projects in the Bay Area cities we serve, like Pacifica or Daly City, it's always recommended to check with your local city's planning department for specific requirements, especially if the project scope is larger.",
+        "@type": "Answer",
+        "description": "Basic interior surface prep usually doesn't need permits. However, check local city planning departments (e.g., Pacifica, Daly City) if your project involves structural changes or extensive exterior modifications."
+      }
+    }
+  ],
+  "description": "Basic interior surface prep usually doesn't need permits. However, check local city planning departments (e.g., Pacifica, Daly City) if your project involves st"
+}

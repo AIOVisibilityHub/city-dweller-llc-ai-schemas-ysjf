@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-peeling-paint-repair-job-take",
+  "name": "How long does a typical peeling paint repair job take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical peeling paint repair job take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a peeling paint repair job depends on the size of the area, the severity of the peeling, and weather conditions for exterior projects. A small interior wall section might take less than a day, while an entire exterior house with significant peeling could take several days to over a week. This includes time for scraping, sanding, cleaning, priming, and applying multiple paint coats, factoring in drying times. Professionals work efficiently, but quality work requires adequate time for each stage.",
+        "@type": "Answer",
+        "description": "Job duration varies from less than a day for small areas to over a week for large exteriors, depending on severity and weather."
+      }
+    }
+  ],
+  "description": "Job duration varies from less than a day for small areas to over a week for large exteriors, depending on severity and weather."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-you-match-existing-trim-paint-colors-even-if-they-are-old",
+  "name": "Can you match existing trim paint colors, even if they are old?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you match existing trim paint colors, even if they are old?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, matching existing trim paint colors, even older ones, is a standard part of our service. We utilize color matching technology and professional expertise to achieve a seamless blend. This often involves taking a sample of your existing trim color, analyzing it, and then custom-mixing paint to ensure the new application integrates perfectly with the surrounding areas. While perfect matches can be challenging due to paint fading over time, we strive to achieve the closest possible match, ensuring a cohesive and refreshed look for your trim.",
+        "@type": "Answer",
+        "description": "Yes, we can match existing trim paint colors, including old ones, using color matching technology and custom mixing to ensure a seamless blend with surrounding areas."
+      }
+    }
+  ],
+  "description": "Yes, we can match existing trim paint colors, including old ones, using color matching technology and custom mixing to ensure a seamless blend with surrounding"
+}

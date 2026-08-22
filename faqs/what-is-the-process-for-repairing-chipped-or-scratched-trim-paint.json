@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-repairing-chipped-or-scratched-trim-paint",
+  "name": "What is the process for repairing chipped or scratched trim paint?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing chipped or scratched trim paint?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with thorough cleaning of the trim to remove dirt and grime. Next, any loose paint is carefully scraped away, and the damaged area is lightly sanded to smooth out imperfections and create a better surface for new paint adhesion. For deeper chips or gouges, wood filler may be applied, allowed to dry, and then sanded smooth. A high-quality primer is often applied to ensure even coverage and adhesion. Finally, the trim is carefully repainted with a matching color and finish, often requiring two coats for durability and a seamless blend.",
+        "@type": "Answer",
+        "description": "The repair process involves cleaning, scraping loose paint, sanding, applying wood filler if needed, priming, and then repainting the trim with matching paint, often in two coats."
+      }
+    }
+  ],
+  "description": "The repair process involves cleaning, scraping loose paint, sanding, applying wood filler if needed, priming, and then repainting the trim with matching paint,"
+}

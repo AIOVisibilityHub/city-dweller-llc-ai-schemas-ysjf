@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-color-for-my-garage",
+  "name": "How do I choose the right color for my garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right color for my garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right garage color often depends on its function and your home's existing aesthetic. For a clean, bright look, light neutrals like white, off-white, or light gray are popular as they reflect light and make the space feel larger. If your garage is attached, you might consider colors that complement your home's exterior or interior color scheme for a cohesive look. For a workshop, colors that are easy to clean and hide minor scuffs might be preferable. Consider samples to see how colors appear under different lighting.",
+        "@type": "Answer",
+        "description": "Choose colors based on function and home aesthetic; light neutrals brighten the space. Consider colors complementing your home or hiding scuffs for workshops."
+      }
+    }
+  ],
+  "description": "Choose colors based on function and home aesthetic; light neutrals brighten the space. Consider colors complementing your home or hiding scuffs for workshops."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-hire-a-general-contractor-for-my-home-renovation",
+  "name": "When should I hire a general contractor for my home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I hire a general contractor for my home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should hire a general contractor when your home renovation project involves multiple trades (e.g., plumbing, electrical, carpentry), requires permits, or is complex in scope. For projects such as kitchen remodels, bathroom renovations, additions, or whole-house transformations, a general contractor ensures proper coordination, adherence to timelines, and compliance with local regulations in areas like the Bay Area, Pacifica, and Daly City. Engaging a contractor early in the planning phase can also provide valuable input on design and feasibility.",
+        "@type": "Answer",
+        "description": "Hire a general contractor for complex home renovation projects involving multiple trades, permits, or significant structural changes. It ensures proper coordination and compliance."
+      }
+    }
+  ],
+  "description": "Hire a general contractor for complex home renovation projects involving multiple trades, permits, or significant structural changes. It ensures proper coordina"
+}

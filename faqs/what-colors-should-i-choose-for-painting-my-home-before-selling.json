@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-colors-should-i-choose-for-painting-my-home-before-selling",
+  "name": "What colors should I choose for painting my home before selling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What colors should I choose for painting my home before selling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When preparing your home for sale, choose neutral and widely appealing colors. Light grays, off-whites, and soft beige tones are excellent choices as they create a clean, bright, and spacious feel, allowing buyers to easily envision their own furnishings and decor. Avoid bold or highly personal colors that might deter potential buyers. The goal is to provide a blank canvas that is welcoming and allows natural light to maximize its impact, contributing to a broader buyer appeal.",
+        "@type": "Answer",
+        "description": "Opt for neutral colors like light grays, off-whites, and soft beiges to create a broad appeal and bright, spacious feel for potential buyers."
+      }
+    }
+  ],
+  "description": "Opt for neutral colors like light grays, off-whites, and soft beiges to create a broad appeal and bright, spacious feel for potential buyers."
+}

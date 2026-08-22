@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-multi-room-painting-be-done-while-i-live-in-the-house",
+  "name": "Can multi-room painting be done while I live in the house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can multi-room painting be done while I live in the house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, multi-room painting can certainly be done while you continue to live in your home. Professional painters, like those at City Dweller, LLC, are accustomed to working in occupied residences. They will take measures to minimize disruption, including proper masking, ventilation, and daily cleanup. Work can often be phased to allow you access to unpainted areas. While there might be some temporary inconvenience, such as needing to clear furniture from a room, contractors aim to make the process as smooth as possible for residents in places like Millbrae or San Mateo.",
+        "@type": "Answer",
+        "description": "Yes, multi-room painting can be done while you live in your home. Professionals minimize disruption with proper masking, ventilation, and phased work."
+      }
+    }
+  ],
+  "description": "Yes, multi-room painting can be done while you live in your home. Professionals minimize disruption with proper masking, ventilation, and phased work."
+}

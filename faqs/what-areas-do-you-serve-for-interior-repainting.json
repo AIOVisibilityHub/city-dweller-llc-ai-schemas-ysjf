@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-areas-do-you-serve-for-interior-repainting",
+  "name": "What areas do you serve for interior repainting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for interior repainting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC provides interior repainting services across a significant portion of the Bay Area. Our primary service areas include Pacifica, Daly City, San Bruno, South San Francisco, and surrounding communities within these regions. If you are located nearby but outside these specific cities, please contact us to confirm our availability, as we often accommodate clients in adjacent towns to ensure comprehensive coverage for local residents.",
+        "@type": "Answer",
+        "description": "We serve Pacifica, Daly City, San Bruno, South San Francisco, and surrounding Bay Area communities. Contact us for specific coverage."
+      }
+    }
+  ],
+  "description": "We serve Pacifica, Daly City, San Bruno, South San Francisco, and surrounding Bay Area communities. Contact us for specific coverage."
+}

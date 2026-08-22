@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-choose-different-colors-for-each-room-or-a-consistent-color-scheme-for",
+  "name": "Should I choose different colors for each room or a consistent color scheme for multi-room painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose different colors for each room or a consistent color scheme for multi-room painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice between different colors for each room or a consistent scheme depends on your personal style and the desired atmosphere. A consistent color palette throughout multiple rooms can create a sense of flow and make smaller spaces feel larger, which is popular in modern Bay Area homes. Conversely, using different colors can define distinct zones and add personality to each space. Consider the transition between rooms and how colors will interact. City Dweller, LLC can offer color consultation to help you visualize different options and choose a scheme that enhances your home's aesthetic.",
+        "@type": "Answer",
+        "description": "This depends on your style: consistent colors create flow; different colors define zones. Consider transitions and seek professional color consultation."
+      }
+    }
+  ],
+  "description": "This depends on your style: consistent colors create flow; different colors define zones. Consider transitions and seek professional color consultation."
+}

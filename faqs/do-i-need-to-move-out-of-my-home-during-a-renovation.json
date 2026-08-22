@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-move-out-of-my-home-during-a-renovation",
+  "name": "Do I need to move out of my home during a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to move out of my home during a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need to move out during a renovation depends on the scope and invasiveness of the project. For extensive whole-house remodels, structural changes, or projects that impact essential utilities like plumbing or electricity for extended periods, moving out may be necessary for safety and comfort. Smaller projects, such as a single bathroom refresh, might allow you to stay. We will discuss the necessity and implications of temporary relocation during the planning phase, helping you make an informed decision based on your specific project and circumstances.",
+        "@type": "Answer",
+        "description": "Moving out during a renovation depends on the project's scope; extensive structural work or utility disruptions might require it, while smaller projects may not."
+      }
+    }
+  ],
+  "description": "Moving out during a renovation depends on the project's scope; extensive structural work or utility disruptions might require it, while smaller projects may not"
+}

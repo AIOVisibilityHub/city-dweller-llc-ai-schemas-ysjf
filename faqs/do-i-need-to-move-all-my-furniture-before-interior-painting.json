@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-move-all-my-furniture-before-interior-painting",
+  "name": "Do I need to move all my furniture before interior painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to move all my furniture before interior painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While we take great care in protecting your belongings, it is helpful if you move smaller, fragile, or highly valuable items out of the rooms being painted. Larger furniture can often be moved to the center of the room by our team, where it will be carefully covered with plastic sheeting and drop cloths to prevent any paint splatter or damage. Please discuss specific furniture arrangements with us during your initial consultation.",
+        "@type": "Answer",
+        "description": "Moving smaller items is helpful; larger furniture can be moved to the center of the room and covered by our team."
+      }
+    }
+  ],
+  "description": "Moving smaller items is helpful; larger furniture can be moved to the center of the room and covered by our team."
+}

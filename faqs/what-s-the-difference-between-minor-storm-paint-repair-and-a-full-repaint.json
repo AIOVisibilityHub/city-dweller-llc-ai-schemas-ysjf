@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-minor-storm-paint-repair-and-a-full-repaint",
+  "name": "What's the difference between minor storm paint repair and a full repaint?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between minor storm paint repair and a full repaint?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor storm paint repair involves addressing isolated areas of damage, such as small chips, scratches, or localized peeling, without repainting the entire surface. This approach is suitable when the majority of the paint is still in good condition. A full repaint, conversely, is necessary when damage is widespread, covers large sections of the exterior, or when the existing paint has significantly deteriorated across the entire property, compromising its protective barrier.",
+        "@type": "Answer",
+        "description": "Minor repair fixes isolated damage; a full repaint is for widespread damage or general deterioration across the exterior."
+      }
+    }
+  ],
+  "description": "Minor repair fixes isolated damage; a full repaint is for widespread damage or general deterioration across the exterior."
+}

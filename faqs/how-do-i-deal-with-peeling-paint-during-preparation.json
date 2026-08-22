@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-deal-with-peeling-paint-during-preparation",
+  "name": "How do I deal with peeling paint during preparation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I deal with peeling paint during preparation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Dealing with peeling paint involves several steps to ensure a smooth, lasting finish. First, use a paint scraper or wire brush to remove all loose and flaking paint. Be thorough, getting down to the bare, sound surface. Next, sand the edges of the remaining paint smooth to feather them into the scraped areas. If there are significant dips or imperfections, apply a thin layer of spackle or patching compound, sand again once dry, and then clean the dust. Finally, prime the repaired area before applying new paint.",
+        "@type": "Answer",
+        "description": "Remove all loose peeling paint with a scraper, sand the edges smooth, patch imperfections if needed, and then prime the surface."
+      }
+    }
+  ],
+  "description": "Remove all loose peeling paint with a scraper, sand the edges smooth, patch imperfections if needed, and then prime the surface."
+}

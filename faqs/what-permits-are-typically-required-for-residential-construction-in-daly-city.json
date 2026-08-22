@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-permits-are-typically-required-for-residential-construction-in-daly-city",
+  "name": "What permits are typically required for residential construction in Daly City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are typically required for residential construction in Daly City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Residential construction projects in Daly City generally require various permits, including building permits for structural changes, electrical permits, plumbing permits, and mechanical permits. Depending on the scope, you might also need planning permits, grading permits, or permits for specific installations like pools or retaining walls. The exact requirements depend on the project's nature and local ordinances. City Dweller, LLC manages the permitting process, ensuring all necessary approvals are secured before construction begins to avoid delays.",
+        "@type": "Answer",
+        "description": "Projects in Daly City require building, electrical, plumbing, and mechanical permits. Other permits may be needed based on project scope and local rules."
+      }
+    }
+  ],
+  "description": "Projects in Daly City require building, electrical, plumbing, and mechanical permits. Other permits may be needed based on project scope and local rules."
+}

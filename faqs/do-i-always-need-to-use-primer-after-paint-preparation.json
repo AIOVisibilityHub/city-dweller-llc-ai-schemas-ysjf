@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-always-need-to-use-primer-after-paint-preparation",
+  "name": "Do I always need to use primer after paint preparation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I always need to use primer after paint preparation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While not always mandatory, using a primer after paint preparation is highly recommended in many situations. Primer creates a uniform surface, improves paint adhesion, blocks stains, and ensures true paint color. You should definitely use primer on new drywall, patched areas, bare wood, or when making a significant color change. If painting over previously painted surfaces in good condition and with a similar color, a high-quality paint-and-primer-in-one might suffice, but a dedicated primer still offers superior results.",
+        "@type": "Answer",
+        "description": "Primer is highly recommended, especially on new or patched surfaces, or when changing colors. It improves adhesion and ensures true paint color."
+      }
+    }
+  ],
+  "description": "Primer is highly recommended, especially on new or patched surfaces, or when changing colors. It improves adhesion and ensures true paint color."
+}

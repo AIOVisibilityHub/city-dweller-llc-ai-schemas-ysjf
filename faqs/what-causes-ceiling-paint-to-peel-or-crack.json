@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-ceiling-paint-to-peel-or-crack",
+  "name": "What causes ceiling paint to peel or crack?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes ceiling paint to peel or crack?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ceiling paint often peels or cracks due to moisture issues, such as leaks from the roof or plumbing, or high humidity in rooms like bathrooms. Poor surface preparation before painting, using incompatible paint types, or applying new paint over old, unstable layers can also lead to these problems. Temperature fluctuations and general wear over time contribute as well. Identifying the root cause is crucial for a lasting repair.",
+        "@type": "Answer",
+        "description": "Common causes include moisture from leaks or humidity, poor surface preparation, incompatible paint types, or aging paint."
+      }
+    }
+  ],
+  "description": "Common causes include moisture from leaks or humidity, poor surface preparation, incompatible paint types, or aging paint."
+}

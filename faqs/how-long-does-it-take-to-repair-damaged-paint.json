@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-repair-damaged-paint",
+  "name": "How long does it take to repair damaged paint?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair damaged paint?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a paint repair project depends on the size and complexity of the damage. Minor repairs, such as small chips or scratches, might only take a few hours to a full day, including drying time. More extensive damage, like significant peeling or multiple areas requiring attention, could extend to several days. We provide a projected timeline during the initial assessment, considering preparation, painting, and drying stages to minimize disruption.",
+        "@type": "Answer",
+        "description": "Repair time for damaged paint varies; minor issues take hours to a day, while extensive damage may require several days."
+      }
+    }
+  ],
+  "description": "Repair time for damaged paint varies; minor issues take hours to a day, while extensive damage may require several days."
+}

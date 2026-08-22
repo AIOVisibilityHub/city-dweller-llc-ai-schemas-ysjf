@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-causes-of-peeling-paint-specific-to-homes-in-a-coastal-area",
+  "name": "What are the common causes of peeling paint specific to homes in a coastal area like Pacifica?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common causes of peeling paint specific to homes in a coastal area like Pacifica?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homes in coastal areas like Pacifica often experience peeling paint due to high humidity, salt exposure, and frequent temperature fluctuations. The constant moisture and saline air accelerate paint degradation and reduce adhesion. Additionally, strong winds can carry abrasive particles that damage paint surfaces. Proper surface preparation, including thorough cleaning and using high-quality, weather-resistant primers and paints specifically designed for coastal environments, is crucial for durability.",
+        "@type": "Answer",
+        "description": "Coastal homes like those in Pacifica face peeling paint due to high humidity, salt exposure, and temperature changes."
+      }
+    }
+  ],
+  "description": "Coastal homes like those in Pacifica face peeling paint due to high humidity, salt exposure, and temperature changes."
+}

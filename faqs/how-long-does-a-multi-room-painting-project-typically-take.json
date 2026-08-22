@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-multi-room-painting-project-typically-take",
+  "name": "How long does a multi-room painting project typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a multi-room painting project typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a multi-room painting project depends on several factors, including the number of rooms, their size, the type of paint and finishes chosen, and the amount of preparation required (e.g., patching, sanding). A project involving 2-3 standard-sized rooms might take 3-5 days. Larger projects, such as an entire floor or multiple rooms with complex architectural details, could extend to 1-2 weeks. City Dweller, LLC provides a detailed timeline during the estimation phase, considering all these variables to give you an accurate expectation for your property in the Bay Area.",
+        "@type": "Answer",
+        "description": "Project duration varies by the number and size of rooms, paint type, and prep work. Expect 3-5 days for 2-3 rooms, or longer for larger projects."
+      }
+    }
+  ],
+  "description": "Project duration varies by the number and size of rooms, paint type, and prep work. Expect 3-5 days for 2-3 rooms, or longer for larger projects."
+}

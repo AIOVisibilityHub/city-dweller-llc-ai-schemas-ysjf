@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-you-match-existing-paint-colors-for-a-seamless-repair",
+  "name": "How do you match existing paint colors for a seamless repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you match existing paint colors for a seamless repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Achieving a seamless paint repair involves careful color matching. We typically start by identifying the existing paint's color code, if available. If not, we use color matching tools and samples to get as close as possible. For older or custom paints, we might use spectrophotometers or custom tinting techniques. We also consider factors like paint sheen (flat, eggshell, semi-gloss) and how light affects the color to ensure the repair blends perfectly with the surrounding area.",
+        "@type": "Answer",
+        "description": "We match existing paint colors by using color codes, samples, spectrophotometers, and custom tinting, while also considering paint sheen and lighting."
+      }
+    }
+  ],
+  "description": "We match existing paint colors by using color codes, samples, spectrophotometers, and custom tinting, while also considering paint sheen and lighting."
+}

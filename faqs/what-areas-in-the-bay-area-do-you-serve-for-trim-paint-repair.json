@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-areas-in-the-bay-area-do-you-serve-for-trim-paint-repair",
+  "name": "What areas in the Bay Area do you serve for trim paint repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas in the Bay Area do you serve for trim paint repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC provides trim paint repair services across various locations in the Bay Area. Our primary service areas include Pacifica, Daly City, San Bruno, South San Francisco, and surrounding communities. If you are located in a nearby city within the broader Bay Area, please contact us to confirm our availability. We are dedicated to serving our local communities with high-quality general contracting and painting services, ensuring your trim looks its best.",
+        "@type": "Answer",
+        "description": "We serve Pacifica, Daly City, San Bruno, South San Francisco, and surrounding Bay Area communities for trim paint repair. Contact us to confirm availability in your specific location."
+      }
+    }
+  ],
+  "description": "We serve Pacifica, Daly City, San Bruno, South San Francisco, and surrounding Bay Area communities for trim paint repair. Contact us to confirm availability in"
+}

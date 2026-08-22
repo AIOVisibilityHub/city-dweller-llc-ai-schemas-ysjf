@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-schedule-painting-before-listing-my-home",
+  "name": "When should I schedule painting before listing my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I schedule painting before listing my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Schedule painting to be completed approximately 1-2 weeks before you plan to list your home. This allows ample time for the paint to fully cure and for any lingering paint odors to dissipate. It also provides a buffer for final cleaning and staging once the painters are finished. Avoid last-minute painting, as wet paint or strong fumes can detract from a buyer's showing experience. Coordinating with other pre-sale tasks, like repairs or deep cleaning, is crucial for a smooth timeline.",
+        "@type": "Answer",
+        "description": "Complete painting 1-2 weeks before listing to allow curing and odor dissipation, ensuring a fresh space for showings."
+      }
+    }
+  ],
+  "description": "Complete painting 1-2 weeks before listing to allow curing and odor dissipation, ensuring a fresh space for showings."
+}

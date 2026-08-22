@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-included-in-your-single-room-painting-service",
+  "name": "What is included in your single room painting service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in your single room painting service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our single room painting service is comprehensive, covering all aspects from preparation to clean-up. This includes protecting your floors and furnishings, patching and sanding minor wall imperfections, priming as needed, applying two coats of premium interior paint, and ensuring clean, crisp trim lines. After painting, we perform a thorough clean-up, removing all debris and leaving your room tidy and ready to enjoy. Our goal is a hassle-free experience with a beautiful, lasting finish.",
+        "@type": "Answer",
+        "description": "Our single room painting service includes surface preparation, priming, two coats of paint, trim work, and full clean-up."
+      }
+    }
+  ],
+  "description": "Our single room painting service includes surface preparation, priming, two coats of paint, trim work, and full clean-up."
+}

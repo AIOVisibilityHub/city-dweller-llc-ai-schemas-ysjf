@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-starting-a-new-home-construction-project-with-city-dwell",
+  "name": "What is the process for starting a new home construction project with City Dweller, LLC?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for starting a new home construction project with City Dweller, LLC?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an initial consultation to discuss your vision, needs, and budget. Following this, we move to the design phase, often collaborating with architects to finalize plans. Once designs are approved, we assist with permitting and regulatory compliance. The construction phase then commences, involving site preparation, foundation work, framing, and installation of all systems and finishes. Throughout, City Dweller, LLC maintains open communication, manages subcontractors, and oversees quality control until project completion and final walkthrough.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design, permitting, construction, and final walkthrough, with continuous communication and quality control."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design, permitting, construction, and final walkthrough, with continuous communication and quality control."
+}

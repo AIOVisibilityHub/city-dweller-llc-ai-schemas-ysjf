@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-paint-preparation-typically-take-for-an-average-sized-room",
+  "name": "How long does paint preparation typically take for an average-sized room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does paint preparation typically take for an average-sized room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required for paint preparation varies depending on the room's condition and size. For an average-sized room with minor imperfections, preparation can take anywhere from 4 to 8 hours. This includes cleaning, minor repairs, sanding, and masking. Rooms with significant damage, peeling paint, or extensive wallpaper removal could extend the preparation time considerably, potentially requiring a full day or more before any paint is applied.",
+        "@type": "Answer",
+        "description": "Preparation for an average room with minor issues typically takes 4-8 hours. Significant damage can extend this time."
+      }
+    }
+  ],
+  "description": "Preparation for an average room with minor issues typically takes 4-8 hours. Significant damage can extend this time."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-my-concrete-surface-needs-preparation-before-new-flooring",
+  "name": "How do I know if my concrete surface needs preparation before new flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my concrete surface needs preparation before new flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A concrete surface needs preparation if it shows signs of damage like cracks or spalling, or if there are existing coatings, sealers, or adhesives. Contamination from oil, grease, or dirt also necessitates preparation. For new flooring, the surface must be clean, dry, sound, and have an appropriate profile for the adhesive to bond effectively. A simple scratch test can sometimes indicate if the surface is too smooth or flaky for proper adhesion.",
+        "@type": "Answer",
+        "description": "Your concrete needs preparation if it's damaged, contaminated, or has existing coatings. It must be clean, dry, sound, and properly profiled for new flooring to adhere."
+      }
+    }
+  ],
+  "description": "Your concrete needs preparation if it's damaged, contaminated, or has existing coatings. It must be clean, dry, sound, and properly profiled for new flooring to"
+}

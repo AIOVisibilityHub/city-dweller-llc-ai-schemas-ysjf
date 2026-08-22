@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-hire-a-general-contractor-instead-of-managing-a-project-myself",
+  "name": "When should I hire a general contractor instead of managing a project myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I hire a general contractor instead of managing a project myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider hiring a general contractor when your project involves multiple trades (e.g., plumbing, electrical, carpentry), requires permits, or has a complex scope. Managing such projects yourself can be time-consuming and challenging without industry knowledge and established subcontractor relationships. A general contractor, like City Dweller, LLC, brings expertise in scheduling, quality control, and problem-solving, which can save you time, stress, and potentially money in the long run by avoiding costly mistakes.",
+        "@type": "Answer",
+        "description": "Hire a general contractor for complex projects involving multiple trades, permits, or when you lack the time and expertise to manage it yourself. They bring efficiency and experience to avoid common pitfalls."
+      }
+    }
+  ],
+  "description": "Hire a general contractor for complex projects involving multiple trades, permits, or when you lack the time and expertise to manage it yourself. They bring eff"
+}

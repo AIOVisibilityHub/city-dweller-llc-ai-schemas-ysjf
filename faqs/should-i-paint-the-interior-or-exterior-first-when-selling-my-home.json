@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-paint-the-interior-or-exterior-first-when-selling-my-home",
+  "name": "Should I paint the interior or exterior first when selling my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I paint the interior or exterior first when selling my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, it's advisable to paint the exterior of your home first if both are being done, as exterior painting can be more weather-dependent and requires a longer drying period. Starting outside also means any accidental drips or dust from exterior work are less likely to impact freshly painted interiors. However, if curb appeal is a significant concern due to a worn exterior, prioritizing that can immediately boost initial buyer interest. Conversely, if interior flaws are more prominent, addressing those first might be strategic.",
+        "@type": "Answer",
+        "description": "Prioritize exterior painting first due to weather dependence and to avoid impacting fresh interior paint, though interior flaws may warrant starting there."
+      }
+    }
+  ],
+  "description": "Prioritize exterior painting first due to weather dependence and to avoid impacting fresh interior paint, though interior flaws may warrant starting there."
+}

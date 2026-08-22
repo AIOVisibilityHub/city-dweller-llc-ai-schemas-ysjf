@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-be-home-during-the-trim-paint-repair-process",
+  "name": "Do I need to be home during the trim paint repair process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home during the trim paint repair process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's not strictly necessary for you to be home for the entire duration of the trim paint repair, it is helpful for the initial consultation and for a final walk-through upon completion. During the actual work, our team is self-sufficient. We take care to protect your belongings and minimize disruption. We will establish clear communication channels to provide updates on progress and address any questions that may arise. Your presence is welcome, but our goal is to make the process as convenient for you as possible.",
+        "@type": "Answer",
+        "description": "You don't need to be home for the entire trim paint repair process, but your presence is helpful for the initial consultation and final walk-through. We ensure clear communication throughout."
+      }
+    }
+  ],
+  "description": "You don't need to be home for the entire trim paint repair process, but your presence is helpful for the initial consultation and final walk-through. We ensure"
+}

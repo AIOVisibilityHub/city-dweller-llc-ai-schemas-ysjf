@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-you-protect-my-kitchen-during-the-painting-process",
+  "name": "How do you protect my kitchen during the painting process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you protect my kitchen during the painting process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Protecting your kitchen is a top priority during painting. We meticulously cover countertops, floors, appliances, and adjacent areas with protective sheeting and painter's tape to prevent any paint splatter or dust. Cabinets doors are often removed and painted off-site or in a designated, protected area to ensure a clean, even finish without risk to your home's interior. Our team takes extensive measures to minimize disruption and maintain a clean workspace throughout the project.",
+        "@type": "Answer",
+        "description": "We protect your kitchen by covering countertops, floors, appliances, and adjacent areas with sheeting and tape. Cabinet doors may be painted off-site to ensure a clean, high-quality finish and minimize disruption."
+      }
+    }
+  ],
+  "description": "We protect your kitchen by covering countertops, floors, appliances, and adjacent areas with sheeting and tape. Cabinet doors may be painted off-site to ensure"
+}

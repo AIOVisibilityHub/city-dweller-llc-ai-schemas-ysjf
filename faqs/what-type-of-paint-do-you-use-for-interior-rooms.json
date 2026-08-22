@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-type-of-paint-do-you-use-for-interior-rooms",
+  "name": "What type of paint do you use for interior rooms?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of paint do you use for interior rooms?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For interior room painting, we primarily use high-quality, low-VOC (volatile organic compound) acrylic latex paints. These paints offer excellent durability, superior coverage, and are generally more environmentally friendly with less odor, making them suitable for residential spaces. We can also accommodate requests for specific brands or types of paint, including specialty finishes, after discussing your preferences and the requirements of your project. Our goal is to use products that deliver a lasting, professional finish.",
+        "@type": "Answer",
+        "description": "We primarily use high-quality, low-VOC acrylic latex paints for interior rooms due to their durability, coverage, and low odor."
+      }
+    }
+  ],
+  "description": "We primarily use high-quality, low-VOC acrylic latex paints for interior rooms due to their durability, coverage, and low odor."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-an-hourly-painter-and-a-full-interior-paint-packa",
+  "name": "What is the difference between an hourly painter and a full interior paint package?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between an hourly painter and a full interior paint package?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An hourly painter charges based on the time spent on the job, which can be unpredictable for larger projects and may not always include materials. A full interior paint package, like those offered by City Dweller, LLC, typically provides a comprehensive, fixed-price quote covering all labor, surface preparation, materials (paint, primer, supplies), and cleanup. This offers cost predictability and ensures a complete, high-quality finish without hidden fees, focusing on the entire project's scope rather than just labor hours.",
+        "@type": "Answer",
+        "description": "An hourly painter charges by time, while a full interior paint package is a fixed-price quote including all labor, materials, and cleanup for predictability."
+      }
+    }
+  ],
+  "description": "An hourly painter charges by time, while a full interior paint package is a fixed-price quote including all labor, materials, and cleanup for predictability."
+}

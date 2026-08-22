@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-preparation-do-i-need-to-do-before-painters-arrive",
+  "name": "What preparation do I need to do before painters arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation do I need to do before painters arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before our painting crew arrives, we recommend that you clear the room as much as possible. This includes removing small items, wall decorations, and delicate furnishings. Larger furniture pieces can be moved to the center of the room, and we will cover them with protective sheeting. Please also ensure that any pets are secured in another area of your home for their safety and to avoid interruptions. This preparation helps us start work immediately upon arrival, ensuring a smooth and efficient process.",
+        "@type": "Answer",
+        "description": "Before painters arrive, please clear small items, wall decorations, and delicate furnishings, and move large furniture to the room's center."
+      }
+    }
+  ],
+  "description": "Before painters arrive, please clear small items, wall decorations, and delicate furnishings, and move large furniture to the room's center."
+}

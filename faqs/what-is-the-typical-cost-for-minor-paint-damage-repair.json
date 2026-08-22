@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-for-minor-paint-damage-repair",
+  "name": "What is the typical cost for minor paint damage repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for minor paint damage repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of minor paint damage repair can vary depending on the extent of the damage, the type of paint, and the surface material. Small chips or scratches might be a few hundred dollars, covering labor, materials, and color matching. More complex repairs involving multiple layers or larger areas will be higher. We provide detailed estimates after a thorough assessment of the specific damage. Our goal is to offer a cost-effective solution without compromising quality.",
+        "@type": "Answer",
+        "description": "The cost for minor paint damage repair varies based on damage extent, paint type, and surface, typically ranging from a few hundred dollars for small issues."
+      }
+    }
+  ],
+  "description": "The cost for minor paint damage repair varies based on damage extent, paint type, and surface, typically ranging from a few hundred dollars for small issues."
+}

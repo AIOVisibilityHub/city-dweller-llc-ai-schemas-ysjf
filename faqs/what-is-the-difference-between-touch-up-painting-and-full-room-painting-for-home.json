@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-touch-up-painting-and-full-room-painting-for-home",
+  "name": "What is the difference between touch-up painting and full room painting for home sale prep?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between touch-up painting and full room painting for home sale prep?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Touch-up painting involves applying paint only to small, localized areas to cover scuffs, nicks, or marks that are inconsistent with the rest of the wall. It's a quick and less expensive option, suitable for walls that are generally in good condition with minor flaws. Full room painting, conversely, involves repainting all walls, and often ceilings and trim, in a room. This is necessary when walls have significant damage, outdated colors, or numerous imperfections, providing a completely refreshed and cohesive look for potential buyers.",
+        "@type": "Answer",
+        "description": "Touch-up painting fixes small flaws, while full room painting refreshes entire walls when damage is extensive or colors are outdated."
+      }
+    }
+  ],
+  "description": "Touch-up painting fixes small flaws, while full room painting refreshes entire walls when damage is extensive or colors are outdated."
+}

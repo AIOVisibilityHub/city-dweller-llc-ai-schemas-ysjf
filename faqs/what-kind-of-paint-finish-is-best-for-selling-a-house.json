@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-paint-finish-is-best-for-selling-a-house",
+  "name": "What kind of paint finish is best for selling a house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of paint finish is best for selling a house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For selling a house, a matte or eggshell finish is generally recommended for interior walls. These finishes are excellent at hiding minor imperfections and provide a soft, non-reflective appearance that enhances natural light. For trim and doors, a semi-gloss or satin finish is ideal as it's more durable and easier to clean, offering a subtle contrast. Avoid high-gloss finishes on walls as they highlight every flaw. Opt for low-VOC (volatile organic compound) paints to minimize odors for showings.",
+        "@type": "Answer",
+        "description": "Use matte or eggshell finishes for interior walls to hide imperfections and semi-gloss or satin for trim for durability. Choose low-VOC paints."
+      }
+    }
+  ],
+  "description": "Use matte or eggshell finishes for interior walls to hide imperfections and semi-gloss or satin for trim for durability. Choose low-VOC paints."
+}

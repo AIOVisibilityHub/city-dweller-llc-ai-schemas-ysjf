@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-do-i-need-professional-water-damage-repainting",
+  "name": "When do I need professional water damage repainting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need professional water damage repainting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need professional water damage repainting when surfaces show signs of staining, peeling, bubbling, or if there's a risk of mold after a water incident. Minor cosmetic water spots might be manageable for a skilled DIYer, but significant damage, structural concerns, or suspected mold growth requires expert intervention. Professionals can properly assess the extent of damage, ensure complete drying, remediate mold if present, and apply appropriate primers and paints for a lasting finish, preventing recurring issues.",
+        "@type": "Answer",
+        "description": "Professional repainting is needed for significant water damage, structural concerns, mold risk, or when surfaces show peeling, bubbling, or persistent staining."
+      }
+    }
+  ],
+  "description": "Professional repainting is needed for significant water damage, structural concerns, mold risk, or when surfaces show peeling, bubbling, or persistent staining."
+}

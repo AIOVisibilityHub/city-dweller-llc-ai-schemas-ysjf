@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-storm-damage-repainting-project-typically-take",
+  "name": "How long does a storm damage repainting project typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a storm damage repainting project typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a storm damage repainting project varies based on the extent of the damage, the size of the property, and weather conditions. Minor repairs on small areas might take a few days, while extensive damage requiring significant surface preparation and a full exterior repaint could take one to two weeks, or even longer. Your contractor should provide a realistic timeline after a thorough assessment.",
+        "@type": "Answer",
+        "description": "Project duration depends on damage extent, property size, and weather. It can range from a few days for minor repairs to several weeks for full repaints."
+      }
+    }
+  ],
+  "description": "Project duration depends on damage extent, property size, and weather. It can range from a few days for minor repairs to several weeks for full repaints."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-you-match-existing-paint-colors-if-only-touch-ups-are-needed",
+  "name": "Can you match existing paint colors if only touch-ups are needed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you match existing paint colors if only touch-ups are needed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we can often match existing paint colors for touch-ups, provided we have a sample of the original paint or the exact color code. However, even with an exact match, touch-ups may show slightly if the existing paint has faded or discolored over time due to sun exposure or cleaning. For optimal results, especially on prominent walls, a full repaint of the affected wall or room is sometimes recommended to ensure a seamless finish. We assess each situation individually to advise on the best approach.",
+        "@type": "Answer",
+        "description": "We can match existing paint colors for touch-ups with a sample or code, but a full repaint might be needed for a seamless finish if existing paint has faded."
+      }
+    }
+  ],
+  "description": "We can match existing paint colors for touch-ups with a sample or code, but a full repaint might be needed for a seamless finish if existing paint has faded."
+}

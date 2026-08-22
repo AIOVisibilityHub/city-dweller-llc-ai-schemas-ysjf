@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-repair-peeling-paint-in-the-bay-area",
+  "name": "How much does it cost to repair peeling paint in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair peeling paint in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of peeling paint repair in the Bay Area varies widely depending on the extent of the damage, the type of surface, and whether lead paint abatement is required. Small, isolated areas might be a few hundred dollars, while extensive exterior work on a multi-story home could range from several thousand dollars. Factors like accessibility, necessary surface preparation, and the quality of materials chosen will also influence the final price. A detailed on-site estimate provides the most accurate cost.",
+        "@type": "Answer",
+        "description": "Costs vary significantly based on damage extent, surface type, and lead paint presence; a detailed estimate is needed."
+      }
+    }
+  ],
+  "description": "Costs vary significantly based on damage extent, surface type, and lead paint presence; a detailed estimate is needed."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-factors-influence-the-cost-of-surface-preparation-services",
+  "name": "What factors influence the cost of surface preparation services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of surface preparation services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of surface preparation depends on several factors. These include the size of the area, the current condition of the surface (e.g., heavily contaminated or multiple layers of existing coatings), the specific preparation method required (e.g., grinding versus shot blasting), the type of materials being removed, and access to the site. Complex jobs requiring specialized equipment or extensive repairs will generally incur higher costs.",
+        "@type": "Answer",
+        "description": "Cost factors include area size, surface condition, required method, type of materials to be removed, and site accessibility. More complex jobs typically cost more."
+      }
+    }
+  ],
+  "description": "Cost factors include area size, surface condition, required method, type of materials to be removed, and site accessibility. More complex jobs typically cost mo"
+}

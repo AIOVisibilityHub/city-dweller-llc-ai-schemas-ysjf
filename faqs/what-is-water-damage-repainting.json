@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-water-damage-repainting",
+  "name": "What is water damage repainting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is water damage repainting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water damage repainting involves preparing and painting surfaces affected by water, after the initial water source has been fixed and the area thoroughly dried. This process often includes cleaning, sanitizing, repairing damaged drywall or plaster, applying mold-resistant primers, and then repainting to restore the surface to its original condition. Proper preparation is crucial to prevent future issues like mold growth or peeling paint. A professional assessment helps ensure all underlying issues are addressed before repainting begins.",
+        "@type": "Answer",
+        "description": "Water damage repainting restores surfaces affected by water after repairs and drying, involving cleaning, repairs, priming, and repainting."
+      }
+    }
+  ],
+  "description": "Water damage repainting restores surfaces affected by water after repairs and drying, involving cleaning, repairs, priming, and repainting."
+}

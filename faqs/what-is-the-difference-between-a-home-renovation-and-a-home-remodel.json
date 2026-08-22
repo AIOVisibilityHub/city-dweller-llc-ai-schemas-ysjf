@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-a-home-renovation-and-a-home-remodel",
+  "name": "What is the difference between a home renovation and a home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a home renovation and a home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often used interchangeably, a home renovation typically refers to restoring something to a good state of repair, often updating existing elements without significantly changing the layout or structure. This might include repainting, replacing fixtures, or updating surfaces. A home remodel, however, involves changing the structure, layout, or function of a space, such as moving walls, reconfiguring a kitchen, or adding square footage. Remodels are generally more complex and often require more extensive permitting.",
+        "@type": "Answer",
+        "description": "Renovation updates existing features, while remodeling changes the layout, structure, or function of a space."
+      }
+    }
+  ],
+  "description": "Renovation updates existing features, while remodeling changes the layout, structure, or function of a space."
+}

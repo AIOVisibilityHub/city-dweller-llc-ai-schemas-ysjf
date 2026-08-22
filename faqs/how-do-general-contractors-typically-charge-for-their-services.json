@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-general-contractors-typically-charge-for-their-services",
+  "name": "How do general contractors typically charge for their services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do general contractors typically charge for their services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "General contractors typically charge for their services using one of several methods: a fixed-price contract, a cost-plus contract, or a time-and-materials contract. A fixed-price contract offers a single, all-inclusive price for the entire project. A cost-plus contract involves the client paying for actual project costs plus a pre-agreed percentage or fixed fee for the contractor's overhead and profit. Time-and-materials contracts are common for smaller projects where costs are less predictable, billing for hours worked and materials used. The best method depends on the project's scope and client preferences.",
+        "@type": "Answer",
+        "description": "General contractors typically charge via fixed-price, cost-plus, or time-and-materials contracts. The method chosen depends on the project's scope and client agreement."
+      }
+    }
+  ],
+  "description": "General contractors typically charge via fixed-price, cost-plus, or time-and-materials contracts. The method chosen depends on the project's scope and client ag"
+}

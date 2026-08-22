@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-paint-repair-fix-textured-walls",
+  "name": "Can paint repair fix textured walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can paint repair fix textured walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, paint repair can fix textured walls, but it requires specialized skill and technique to match the existing texture. Our contractors are experienced in various texture matching methods, such as orange peel, knockdown, or stucco, using appropriate tools and materials. The goal is to recreate the texture so that the repaired area seamlessly blends with the rest of the wall, making the repair virtually invisible once painted. This typically adds a layer of complexity compared to smooth walls.",
+        "@type": "Answer",
+        "description": "Yes, paint repair can fix textured walls, but it requires specialized skill to match the existing texture for a seamless blend."
+      }
+    }
+  ],
+  "description": "Yes, paint repair can fix textured walls, but it requires specialized skill to match the existing texture for a seamless blend."
+}

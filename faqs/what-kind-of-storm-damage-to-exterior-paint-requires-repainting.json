@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-storm-damage-to-exterior-paint-requires-repainting",
+  "name": "What kind of storm damage to exterior paint requires repainting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of storm damage to exterior paint requires repainting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Storms can cause various types of damage to exterior paint, including chipping, peeling, blistering, and cracking due to strong winds, hail, and heavy rain. Water intrusion can also lead to mold or mildew growth under the paint, necessitating removal and repainting. Even without visible damage, high winds carrying debris can abrade the paint surface, reducing its protective qualities and aesthetic appeal. Inspect your property thoroughly for any signs of degradation after a significant storm.",
+        "@type": "Answer",
+        "description": "Storm damage like chipping, peeling, blistering, cracking, or mold growth requires repainting. High winds can also abrade the paint surface."
+      }
+    }
+  ],
+  "description": "Storm damage like chipping, peeling, blistering, cracking, or mold growth requires repainting. High winds can also abrade the paint surface."
+}

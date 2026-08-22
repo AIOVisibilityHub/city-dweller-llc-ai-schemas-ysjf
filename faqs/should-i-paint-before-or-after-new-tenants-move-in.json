@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-paint-before-or-after-new-tenants-move-in",
+  "name": "Should I paint before or after new tenants move in?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I paint before or after new tenants move in?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is almost always preferable to paint a rental unit when it is vacant, before new tenants move in. Painting an empty unit allows painters unrestricted access to all areas, resulting in a more efficient and higher-quality job without the need to move furniture or work around personal belongings. This also ensures that tenants move into a freshly painted, clean space, enhancing their initial experience and potentially reducing future maintenance requests related to paint issues. Scheduling paint during vacancy minimizes disruption and facilitates a smoother turnover.",
+        "@type": "Answer",
+        "description": "Paint a rental unit when it's vacant, before new tenants move in, for efficiency, better quality, and a positive tenant experience."
+      }
+    }
+  ],
+  "description": "Paint a rental unit when it's vacant, before new tenants move in, for efficiency, better quality, and a positive tenant experience."
+}

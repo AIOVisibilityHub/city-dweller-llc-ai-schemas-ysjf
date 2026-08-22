@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-should-i-wait-before-putting-furniture-back-and-cleaning-after-interior",
+  "name": "How long should I wait before putting furniture back and cleaning after interior painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long should I wait before putting furniture back and cleaning after interior painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, it's advisable to wait at least 24 hours before moving furniture back against freshly painted walls to allow the paint to cure sufficiently and prevent damage or marks. For full curing and gentle cleaning, it's best to wait about 7-14 days. While the paint may feel dry to the touch within a few hours, it needs more time to achieve its full hardness and durability. We will advise you on specific drying times for your chosen paint.",
+        "@type": "Answer",
+        "description": "Wait 24 hours before moving furniture back. For full curing and gentle cleaning, allow 7-14 days for optimal paint durability."
+      }
+    }
+  ],
+  "description": "Wait 24 hours before moving furniture back. For full curing and gentle cleaning, allow 7-14 days for optimal paint durability."
+}

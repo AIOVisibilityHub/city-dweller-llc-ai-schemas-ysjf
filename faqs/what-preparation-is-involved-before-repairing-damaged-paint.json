@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-preparation-is-involved-before-repairing-damaged-paint",
+  "name": "What preparation is involved before repairing damaged paint?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is involved before repairing damaged paint?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper preparation is crucial for a lasting paint repair. This often involves cleaning the damaged area to remove dirt and debris, scraping away loose or peeling paint, and sanding to create a smooth surface. Depending on the damage, we might also use patching compounds or primers to fill holes, cracks, or surface imperfections. Adequate preparation ensures proper adhesion of new paint and a uniform finish that blends seamlessly with the existing surface.",
+        "@type": "Answer",
+        "description": "Preparation for paint repair involves cleaning, scraping loose paint, sanding, and potentially using patching compounds or primers for a smooth, lasting finish."
+      }
+    }
+  ],
+  "description": "Preparation for paint repair involves cleaning, scraping loose paint, sanding, and potentially using patching compounds or primers for a smooth, lasting finish."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-home-sale-preparation-painting",
+  "name": "What is home sale preparation painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is home sale preparation painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Home sale preparation painting involves applying fresh coats of paint to interior and/or exterior surfaces of a property before listing it on the market. The primary goal is to enhance the home's aesthetic appeal, address minor imperfections, and create a clean, modern look that appeals to a broad range of potential buyers. This can include repainting entire rooms, touching up trim, or refreshing the exterior siding to improve curb appeal. A well-executed paint job can significantly impact first impressions and potentially increase a home's perceived value.",
+        "@type": "Answer",
+        "description": "Home sale preparation painting updates a property's appearance before listing to attract buyers and potentially increase value."
+      }
+    }
+  ],
+  "description": "Home sale preparation painting updates a property's appearance before listing to attract buyers and potentially increase value."
+}

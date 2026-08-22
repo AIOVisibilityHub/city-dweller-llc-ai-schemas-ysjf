@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-residential-construction-services-does-city-dweller-llc-offer",
+  "name": "What types of residential construction services does City Dweller, LLC offer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of residential construction services does City Dweller, LLC offer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC provides a comprehensive range of residential construction services. This includes new home construction, custom home building, home additions like second-story expansions or room extensions, and major home renovations such as kitchen and bathroom remodels. We also handle accessory dwelling unit (ADU) construction, exterior improvements, and general contracting for residential projects. Our focus is on delivering high-quality craftsmanship and tailored solutions to meet client needs across various project scales.",
+        "@type": "Answer",
+        "description": "City Dweller, LLC offers new home construction, additions, renovations, custom homes, and ADU construction."
+      }
+    }
+  ],
+  "description": "City Dweller, LLC offers new home construction, additions, renovations, custom homes, and ADU construction."
+}

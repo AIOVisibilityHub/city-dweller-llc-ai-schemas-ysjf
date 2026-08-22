@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-a-home-addition-instead-of-moving-to-a-larger-house",
+  "name": "When should I consider a home addition instead of moving to a larger house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a home addition instead of moving to a larger house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider a home addition when your current location, neighborhood, or property size is ideal, but you need more living space. If relocating presents significant costs, such as real estate fees, higher property taxes, or losing desired school districts, an addition can be a more cost-effective and convenient solution. Additions allow you to customize the new space precisely to your needs and preferences, enhancing your existing home's value and functionality without the disruption of a full move. City Dweller, LLC can help evaluate the feasibility.",
+        "@type": "Answer",
+        "description": "Consider an addition if you love your location and need more space, finding it more cost-effective and convenient than moving."
+      }
+    }
+  ],
+  "description": "Consider an addition if you love your location and need more space, finding it more cost-effective and convenient than moving."
+}

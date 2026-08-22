@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-included-in-a-whole-home-interior-painting-service",
+  "name": "What is included in a whole home interior painting service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a whole home interior painting service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whole home interior painting typically includes preparing all interior surfaces, such as walls, ceilings, trim, and doors. This involves patching small holes, sanding uneven areas, and cleaning surfaces to ensure proper paint adhesion. We then apply primer where necessary, followed by two coats of high-quality paint in your chosen colors. Our service also covers protecting your furniture and flooring, and a thorough cleanup after completion. We aim to provide a fresh, cohesive look throughout your entire living space.",
+        "@type": "Answer",
+        "description": "Whole home interior painting includes surface preparation, priming, painting walls, ceilings, trim, and doors, plus protection and cleanup."
+      }
+    }
+  ],
+  "description": "Whole home interior painting includes surface preparation, priming, painting walls, ceilings, trim, and doors, plus protection and cleanup."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-you-repair-a-small-water-stain-on-a-ceiling",
+  "name": "How do you repair a small water stain on a ceiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you repair a small water stain on a ceiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To repair a small water stain, first ensure the moisture source is completely fixed and the ceiling is dry. Clean the stained area with a mild detergent and water, then allow it to dry thoroughly. Apply a stain-blocking primer, specifically designed for water stains, to the affected area. Once the primer is dry, repaint the patch with ceiling paint that matches the existing finish. For best results, consider repainting the entire ceiling for a uniform look.",
+        "@type": "Answer",
+        "description": "Fix the moisture source, clean the stain, apply a stain-blocking primer, and then repaint the area."
+      }
+    }
+  ],
+  "description": "Fix the moisture source, clean the stain, apply a stain-blocking primer, and then repaint the area."
+}

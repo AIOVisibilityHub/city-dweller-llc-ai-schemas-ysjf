@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/is-it-better-to-do-a-full-repaint-or-just-touch-up-problem-areas",
+  "name": "Is it better to do a full repaint or just touch up problem areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it better to do a full repaint or just touch up problem areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing between a full repaint and touch-ups depends on the overall condition of your paint. Touch-ups are ideal for isolated imperfections like minor scuffs, dings, or small stains that don't cover large sections. If the entire room's paint is faded, discolored, or has widespread damage, a full repaint will likely yield a more uniform and refreshed result. A full repaint ensures consistent color and finish throughout. We can help assess your specific situation to recommend the most cost-effective and aesthetically pleasing solution.",
+        "@type": "Answer",
+        "description": "Touch-ups are best for isolated, minor imperfections. A full repaint is better for widespread fading, discoloration, or damage across an entire room."
+      }
+    }
+  ],
+  "description": "Touch-ups are best for isolated, minor imperfections. A full repaint is better for widespread fading, discoloration, or damage across an entire room."
+}

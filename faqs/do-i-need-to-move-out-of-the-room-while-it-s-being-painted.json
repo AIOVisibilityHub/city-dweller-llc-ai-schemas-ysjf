@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-move-out-of-the-room-while-it-s-being-painted",
+  "name": "Do I need to move out of the room while it's being painted?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to move out of the room while it's being painted?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, you do not need to move out of the room while it's being painted, especially for single room projects. We take precautions to minimize disruption, including using low-VOC paints that produce less odor. However, it's advisable to avoid spending extended periods in the room immediately during and after painting, particularly for individuals with respiratory sensitivities, pregnant women, or young children. We ensure good ventilation during the process to facilitate drying and air circulation.",
+        "@type": "Answer",
+        "description": "You generally don't need to move out of a room while it's being painted, but it's best to avoid extended periods in the room during and immediately after, especially for sensitive individuals."
+      }
+    }
+  ],
+  "description": "You generally don't need to move out of a room while it's being painted, but it's best to avoid extended periods in the room during and immediately after, espec"
+}

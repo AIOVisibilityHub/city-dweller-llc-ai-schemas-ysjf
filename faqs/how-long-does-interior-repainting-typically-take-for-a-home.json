@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-interior-repainting-typically-take-for-a-home",
+  "name": "How long does interior repainting typically take for a home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does interior repainting typically take for a home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an interior repainting project depends on several factors, including the size of the area, the number of rooms, the condition of the walls, and the type of paint used. A single room might take 1-2 days, while an entire home could range from 3-7 days or more. We provide a detailed timeline after assessing your specific project needs and discussing desired finishes. Preparation work like patching holes or extensive cleaning also adds to the overall project duration.",
+        "@type": "Answer",
+        "description": "Interior repainting duration varies by project size and complexity, from 1-2 days for a room to 3-7+ days for a whole home."
+      }
+    }
+  ],
+  "description": "Interior repainting duration varies by project size and complexity, from 1-2 days for a room to 3-7+ days for a whole home."
+}

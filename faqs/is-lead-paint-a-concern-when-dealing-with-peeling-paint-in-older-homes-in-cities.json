@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/is-lead-paint-a-concern-when-dealing-with-peeling-paint-in-older-homes-in-cities",
+  "name": "Is lead paint a concern when dealing with peeling paint in older homes in cities like Daly City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is lead paint a concern when dealing with peeling paint in older homes in cities like Daly City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, lead paint is a significant concern when dealing with peeling paint in older homes, especially in areas like Daly City, where many properties were built before 1978. If lead paint is present, improper removal can release hazardous dust and chips, posing serious health risks. It is legally required to test for lead paint before disturbing painted surfaces in older homes. If lead is confirmed, professional abatement by certified contractors is necessary to ensure safe and compliant removal and repair.",
+        "@type": "Answer",
+        "description": "Yes, lead paint is a concern in older homes, especially those built before 1978; professional abatement may be required."
+      }
+    }
+  ],
+  "description": "Yes, lead paint is a concern in older homes, especially those built before 1978; professional abatement may be required."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-involved-in-preparing-a-garage-for-painting",
+  "name": "What's involved in preparing a garage for painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's involved in preparing a garage for painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Effective preparation is key for a lasting garage paint job. This typically includes thoroughly cleaning the walls and ceiling to remove dirt, grease, and cobwebs. Any cracks or holes in the drywall or concrete will be patched and sanded smooth. Loose paint will be scraped, and surfaces might be lightly sanded to create a better adhesion for the new paint. Finally, all non-painted areas like floors, windows, and fixtures are masked off to protect them from paint splatter, ensuring a clean finish.",
+        "@type": "Answer",
+        "description": "Preparation involves cleaning, repairing cracks, sanding, and masking off areas to ensure proper paint adhesion and a clean finish."
+      }
+    }
+  ],
+  "description": "Preparation involves cleaning, repairing cracks, sanding, and masking off areas to ensure proper paint adhesion and a clean finish."
+}

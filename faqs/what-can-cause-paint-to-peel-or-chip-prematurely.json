@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-can-cause-paint-to-peel-or-chip-prematurely",
+  "name": "What can cause paint to peel or chip prematurely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What can cause paint to peel or chip prematurely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Premature paint peeling or chipping can be caused by several factors. Inadequate surface preparation, such as painting over dirt, grease, or a glossy surface without proper sanding, is a common culprit. Moisture intrusion, either from leaks, high humidity, or condensation, can also compromise paint adhesion. Using low-quality paint, applying paint too thinly, or painting in extreme temperatures can also lead to premature failure. Understanding the cause helps prevent recurrence.",
+        "@type": "Answer",
+        "description": "Paint peels or chips due to poor surface preparation, moisture, low-quality paint, thin application, or extreme painting temperatures."
+      }
+    }
+  ],
+  "description": "Paint peels or chips due to poor surface preparation, moisture, low-quality paint, thin application, or extreme painting temperatures."
+}

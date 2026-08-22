@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-general-contractor-and-what-services-do-they-provide",
+  "name": "What is a general contractor and what services do they provide?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a general contractor and what services do they provide?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A general contractor manages all aspects of a construction or renovation project. This includes planning, hiring subcontractors, managing budgets and timelines, and ensuring the project adheres to local building codes and safety regulations. For homeowners in the Bay Area, this can involve anything from kitchen and bathroom remodels to home additions or even complete new builds. City Dweller, LLC provides comprehensive project management, coordinating all trades to deliver your project efficiently and to a high standard.",
+        "@type": "Answer",
+        "description": "A general contractor manages construction or renovation projects from start to finish, including planning, hiring, budgeting, and ensuring code compliance. City Dweller, LLC offers full project management for various home improvements."
+      }
+    }
+  ],
+  "description": "A general contractor manages construction or renovation projects from start to finish, including planning, hiring, budgeting, and ensuring code compliance. City"
+}

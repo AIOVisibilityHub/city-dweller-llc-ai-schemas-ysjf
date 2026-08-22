@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-average-cost-for-a-full-interior-paint-package",
+  "name": "What is the average cost for a full interior paint package?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost for a full interior paint package?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a full interior paint package varies widely based on the square footage of your home, ceiling height, the condition of current surfaces, the type and quality of paint selected, and the amount of preparation needed. Factors such as extensive repairs, intricate trim work, or custom color schemes can also influence the final price. We offer free, detailed estimates after a thorough assessment of your property to provide an accurate quote tailored to your specific needs.",
+        "@type": "Answer",
+        "description": "The average cost for a full interior paint package varies significantly based on home size, surface condition, and paint choices. Detailed estimates are provided after an on-site assessment."
+      }
+    }
+  ],
+  "description": "The average cost for a full interior paint package varies significantly based on home size, surface condition, and paint choices. Detailed estimates are provide"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-professional-wall-paint-repair-versus-diy",
+  "name": "When should I consider professional wall paint repair versus DIY?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider professional wall paint repair versus DIY?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider professional repair for larger areas of damage, complex textures, or when an exact paint match is critical for a seamless finish. Professionals have the tools, experience, and techniques to handle challenging repairs, such as water stains, extensive cracks, or difficult-to-match colors. For small, simple scuffs or nail holes where an exact match isn't paramount, a DIY approach might suffice, but professional results often offer greater satisfaction and durability.",
+        "@type": "Answer",
+        "description": "Choose professional repair for large or complex damage, critical color matching, or challenging textures; DIY suits small, simple scuffs."
+      }
+    }
+  ],
+  "description": "Choose professional repair for large or complex damage, critical color matching, or challenging textures; DIY suits small, simple scuffs."
+}

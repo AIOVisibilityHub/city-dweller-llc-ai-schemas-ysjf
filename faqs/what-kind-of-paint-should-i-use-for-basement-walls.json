@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-paint-should-i-use-for-basement-walls",
+  "name": "What kind of paint should I use for basement walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of paint should I use for basement walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For basement walls, especially concrete, it's recommended to use paints specifically designed for these environments. Options include acrylic latex masonry paint, which is breathable and durable, or epoxy coatings, which offer superior durability and moisture resistance, particularly for floors or high-traffic areas. Water-resistant or mildew-resistant formulas are often beneficial. Avoid standard interior wall paints, as they may not withstand basement conditions.",
+        "@type": "Answer",
+        "description": "Use acrylic latex masonry paint or epoxy coatings for basement walls, prioritizing water and mildew resistance. Avoid standard interior paints."
+      }
+    }
+  ],
+  "description": "Use acrylic latex masonry paint or epoxy coatings for basement walls, prioritizing water and mildew resistance. Avoid standard interior paints."
+}

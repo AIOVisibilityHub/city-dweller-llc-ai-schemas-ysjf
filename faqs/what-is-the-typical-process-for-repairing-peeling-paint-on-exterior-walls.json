@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-repairing-peeling-paint-on-exterior-walls",
+  "name": "What is the typical process for repairing peeling paint on exterior walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for repairing peeling paint on exterior walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process for exterior peeling paint typically involves several steps. First, the loose and flaking paint is scraped and sanded to create a smooth, sound surface. Any bare wood or existing caulk issues are addressed. Next, the area is cleaned thoroughly to remove dust and debris. A high-quality primer is then applied to ensure good adhesion for the new paint. Finally, two coats of exterior paint are applied, often requiring drying time between coats for optimal results.",
+        "@type": "Answer",
+        "description": "The process includes scraping, sanding, cleaning, priming, and applying two coats of exterior paint to the affected area."
+      }
+    }
+  ],
+  "description": "The process includes scraping, sanding, cleaning, priming, and applying two coats of exterior paint to the affected area."
+}

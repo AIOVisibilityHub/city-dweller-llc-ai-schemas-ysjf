@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-cleaning-and-degreasing-surfaces-before-painting",
+  "name": "What's the difference between cleaning and degreasing surfaces before painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between cleaning and degreasing surfaces before painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cleaning generally refers to removing loose dirt, dust, and cobwebs using a mild detergent and water. Degreasing, however, targets oil, grease, food splatters, and heavy grime that common cleaners might leave behind. Degreasers contain stronger agents specifically designed to break down these tougher residues. Both steps are crucial: cleaning removes superficial debris, while degreasing ensures a truly pristine surface for optimal paint adhesion, especially in kitchens or high-traffic areas.",
+        "@type": "Answer",
+        "description": "Cleaning removes loose dirt, while degreasing targets stubborn oil and grease. Both are vital for proper paint adhesion."
+      }
+    }
+  ],
+  "description": "Cleaning removes loose dirt, while degreasing targets stubborn oil and grease. Both are vital for proper paint adhesion."
+}

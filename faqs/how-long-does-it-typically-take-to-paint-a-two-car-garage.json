@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-typically-take-to-paint-a-two-car-garage",
+  "name": "How long does it typically take to paint a two-car garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to paint a two-car garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration to paint a two-car garage can vary based on several factors, including the condition of the walls, the extent of preparation needed, and the number of coats required. Generally, for a standard two-car garage with average wall heights and minimal repairs, the process can take anywhere from one to three days. This estimate includes time for cleaning, patching, priming (if necessary), and applying two coats of paint, allowing for adequate drying time between coats.",
+        "@type": "Answer",
+        "description": "Painting a standard two-car garage typically takes one to three days, depending on preparation needs and the number of paint coats applied."
+      }
+    }
+  ],
+  "description": "Painting a standard two-car garage typically takes one to three days, depending on preparation needs and the number of paint coats applied."
+}

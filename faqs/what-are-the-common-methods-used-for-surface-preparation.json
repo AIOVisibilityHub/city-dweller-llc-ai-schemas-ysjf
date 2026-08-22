@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-methods-used-for-surface-preparation",
+  "name": "What are the common methods used for surface preparation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common methods used for surface preparation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common methods include mechanical treatments like grinding, sanding, shot blasting, and scarifying, which physically remove existing coatings or irregularities. Chemical cleaning involves using degreasers or detergents to remove contaminants. Pressure washing can clean and etch surfaces, while abrasive blasting uses high-pressure abrasive materials to strip and profile. The choice of method depends on the existing surface, the new material to be applied, and the desired profile.",
+        "@type": "Answer",
+        "description": "Common methods include mechanical treatments (grinding, sanding), chemical cleaning, pressure washing, and abrasive blasting. The best method depends on the specific project needs."
+      }
+    }
+  ],
+  "description": "Common methods include mechanical treatments (grinding, sanding), chemical cleaning, pressure washing, and abrasive blasting. The best method depends on the spe"
+}

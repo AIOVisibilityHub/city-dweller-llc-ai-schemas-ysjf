@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-satin-and-semi-gloss-paint-for-trim",
+  "name": "What's the difference between satin and semi-gloss paint for trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between satin and semi-gloss paint for trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Satin and semi-gloss are both popular choices for interior trim, differing primarily in their sheen level and durability. Satin offers a softer, subtle sheen that's easy to clean but can show minor imperfections. Semi-gloss provides a noticeable shine, reflects more light, and is highly durable and very easy to wipe clean, making it excellent for high-traffic areas. The choice often comes down to aesthetic preference and the level of durability needed for your specific trim.",
+        "@type": "Answer",
+        "description": "Satin paint has a softer sheen and is easier to clean, while semi-gloss has a noticeable shine, is more durable, and very easy to clean."
+      }
+    }
+  ],
+  "description": "Satin paint has a softer sheen and is easier to clean, while semi-gloss has a noticeable shine, is more durable, and very easy to clean."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-are-general-contractor-fees-typically-structured",
+  "name": "How are general contractor fees typically structured?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How are general contractor fees typically structured?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "General contractor fees are typically structured in one of three ways: fixed-price, cost-plus, or time and materials. A fixed-price contract provides a single total cost for the entire project. Cost-plus involves the actual cost of materials and labor plus a percentage or fixed fee for the contractor's overhead and profit. Time and materials bills for actual hours worked and materials used. City Dweller, LLC discusses the most suitable fee structure for your specific project during the initial consultation to ensure transparency and clarity.",
+        "@type": "Answer",
+        "description": "Contractor fees are often fixed-price, cost-plus, or time and materials. We discuss the best structure for your project during consultation."
+      }
+    }
+  ],
+  "description": "Contractor fees are often fixed-price, cost-plus, or time and materials. We discuss the best structure for your project during consultation."
+}

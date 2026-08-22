@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-surface-preparation-typically-take-for-a-residential-project",
+  "name": "How long does surface preparation typically take for a residential project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does surface preparation typically take for a residential project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of surface preparation for a residential project varies significantly based on the size of the area and the complexity of the work. A small, relatively clean concrete slab might take a few hours for basic cleaning and profiling. A larger area requiring extensive remediation, such as adhesive removal, crack repair, or leveling, could take several days. It's important to allow adequate time for proper drying and curing before subsequent applications.",
+        "@type": "Answer",
+        "description": "Duration depends on project size and complexity; a small, clean area might take hours, while larger or more damaged surfaces could take days. Proper drying and curing time is also essential."
+      }
+    }
+  ],
+  "description": "Duration depends on project size and complexity; a small, clean area might take hours, while larger or more damaged surfaces could take days. Proper drying and"
+}

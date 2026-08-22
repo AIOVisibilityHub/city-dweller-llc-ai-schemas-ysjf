@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-do-to-prepare-my-garage-before-the-painters-arrive",
+  "name": "What should I do to prepare my garage before the painters arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare my garage before the painters arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before professional painters arrive, it's beneficial to clear out as much as possible from your garage. This includes moving vehicles, tools, storage boxes, and any other items away from the walls. For larger items that cannot be removed, consolidate them to the center of the garage and cover them with protective tarps or sheets. This allows painters unobstructed access to all surfaces, reduces prep time, and helps ensure a smoother, more efficient painting process. Inform the painters about any specific concerns or delicate items.",
+        "@type": "Answer",
+        "description": "Clear out all items from the garage or move them to the center and cover them. This provides painters with unobstructed access to the walls."
+      }
+    }
+  ],
+  "description": "Clear out all items from the garage or move them to the center and cover them. This provides painters with unobstructed access to the walls."
+}

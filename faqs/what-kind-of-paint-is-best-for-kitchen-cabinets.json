@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-paint-is-best-for-kitchen-cabinets",
+  "name": "What kind of paint is best for kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of paint is best for kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For kitchen cabinets, durable, washable paints designed for high-traffic areas are essential. Alkyd or hybrid enamel paints are often recommended due to their excellent adhesion, hard finish, and resistance to chipping and scuffing. These paints provide a smooth, factory-like finish that can withstand the demands of a kitchen environment, including humidity, grease, and frequent cleaning. We primarily use high-quality, low-VOC (Volatile Organic Compound) options for safety and longevity.",
+        "@type": "Answer",
+        "description": "Durable, washable alkyd or hybrid enamel paints are best for kitchen cabinets. They offer excellent adhesion, a hard finish, and resistance to chipping, suitable for the kitchen environment."
+      }
+    }
+  ],
+  "description": "Durable, washable alkyd or hybrid enamel paints are best for kitchen cabinets. They offer excellent adhesion, a hard finish, and resistance to chipping, suitabl"
+}

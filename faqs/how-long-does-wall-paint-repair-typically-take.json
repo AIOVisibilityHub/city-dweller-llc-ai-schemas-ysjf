@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-wall-paint-repair-typically-take",
+  "name": "How long does wall paint repair typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does wall paint repair typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of wall paint repair depends on the extent of the damage and the size of the area. Small repairs like nail holes or minor scuffs might take only an hour or two. Larger patches, multiple damaged spots, or areas requiring multiple coats of paint and drying time could take several hours or even a full day. Our team in the Bay Area can provide a more precise estimate after assessing the specific repair needs.",
+        "@type": "Answer",
+        "description": "Repair time varies from an hour for small issues to a full day for larger or multiple repairs, depending on the damage."
+      }
+    }
+  ],
+  "description": "Repair time varies from an hour for small issues to a full day for larger or multiple repairs, depending on the damage."
+}

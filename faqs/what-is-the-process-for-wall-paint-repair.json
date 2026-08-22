@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-wall-paint-repair",
+  "name": "What is the process for wall paint repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for wall paint repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process involves several steps. First, the damaged area is cleaned and prepared, often by sanding loose paint or debris. Next, appropriate filler or spackle is applied to holes or cracks, allowed to dry, and then sanded smooth. Primer is then applied to ensure proper paint adhesion and uniform color. Finally, the area is repainted, often requiring multiple coats to blend seamlessly with the existing wall color and texture. We take care to protect surrounding areas during the process.",
+        "@type": "Answer",
+        "description": "The process involves cleaning, filling damage, sanding, priming, and then repainting, often with multiple coats."
+      }
+    }
+  ],
+  "description": "The process involves cleaning, filling damage, sanding, priming, and then repainting, often with multiple coats."
+}

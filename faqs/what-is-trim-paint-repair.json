@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-trim-paint-repair",
+  "name": "What is trim paint repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is trim paint repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Trim paint repair involves restoring painted trim surfaces, such as baseboards, door frames, window casings, and crown molding, that have become chipped, scratched, scuffed, or faded. This process typically includes cleaning the damaged area, light sanding to smooth imperfections, applying primer if necessary, and then carefully repainting to match the existing finish. The goal is to seamlessly blend the repaired section with the surrounding trim, improving the overall appearance and protecting the wood underneath from further wear and moisture. It's an effective way to refresh interiors without full-scale renovation.",
+        "@type": "Answer",
+        "description": "Trim paint repair restores damaged painted trim like baseboards and door frames by cleaning, sanding, priming, and repainting to match existing finishes. It improves aesthetics and protects underlying wood."
+      }
+    }
+  ],
+  "description": "Trim paint repair restores damaged painted trim like baseboards and door frames by cleaning, sanding, priming, and repainting to match existing finishes. It imp"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-storm-damage-repainting",
+  "name": "What is the process for storm damage repainting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for storm damage repainting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The storm damage repainting process typically begins with a thorough inspection to assess the extent of damage. This is followed by necessary repairs to the underlying surfaces, such as patching holes or replacing damaged siding. Next, the surfaces are meticulously cleaned, scraped, and sanded to ensure proper paint adhesion. A high-quality primer is then applied, followed by two coats of exterior paint. Finally, a thorough cleanup and final inspection are conducted.",
+        "@type": "Answer",
+        "description": "The process involves inspection, surface repairs, cleaning, priming, and applying two coats of exterior paint. Cleanup follows."
+      }
+    }
+  ],
+  "description": "The process involves inspection, surface repairs, cleaning, priming, and applying two coats of exterior paint. Cleanup follows."
+}

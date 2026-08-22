@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-you-licensed-and-insured-to-work-in-the-bay-area",
+  "name": "Are you licensed and insured to work in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are you licensed and insured to work in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, City Dweller, LLC is fully licensed and insured to perform residential general contracting services throughout the Bay Area, including cities such as Pacifica, Daly City, San Bruno, and South San Francisco. We adhere to all state and local regulations, ensuring that your project is not only built to the highest standards but also complies with all legal requirements. Our licensing and insurance provide peace of mind and protection for both our clients and our team throughout the duration of your renovation or construction project.",
+        "@type": "Answer",
+        "description": "Yes, City Dweller, LLC is fully licensed and insured to perform residential general contracting services across the Bay Area, adhering to all local regulations."
+      }
+    }
+  ],
+  "description": "Yes, City Dweller, LLC is fully licensed and insured to perform residential general contracting services across the Bay Area, adhering to all local regulations."
+}

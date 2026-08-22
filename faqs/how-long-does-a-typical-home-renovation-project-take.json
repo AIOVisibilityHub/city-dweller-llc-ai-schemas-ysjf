@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-home-renovation-project-take",
+  "name": "How long does a typical home renovation project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical home renovation project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a home renovation project varies significantly based on its scope, complexity, and the need for permits. Smaller projects, like a bathroom remodel, might take a few weeks, while larger undertakings, such as a full home addition or extensive remodel, could take several months. Factors like material availability, subcontractor scheduling, and unforeseen structural issues can also impact the timeline. City Dweller, LLC provides a detailed project schedule at the outset and communicates any potential adjustments promptly.",
+        "@type": "Answer",
+        "description": "Project duration varies by scope; small renovations may take weeks, while larger ones can take months. Factors like materials and permits influence the timeline."
+      }
+    }
+  ],
+  "description": "Project duration varies by scope; small renovations may take weeks, while larger ones can take months. Factors like materials and permits influence the timeline"
+}

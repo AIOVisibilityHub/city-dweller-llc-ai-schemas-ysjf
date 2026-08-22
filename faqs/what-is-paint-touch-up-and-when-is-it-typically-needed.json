@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-paint-touch-up-and-when-is-it-typically-needed",
+  "name": "What is paint touch-up and when is it typically needed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is paint touch-up and when is it typically needed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Paint touch-up involves applying a small amount of paint to repair minor imperfections, scuffs, or small areas of damage on existing painted surfaces. It is typically needed when your walls or trim have suffered small chips, scratches, or wear marks from everyday life, furniture movement, or pets. This service helps restore the uniform appearance of your painted surfaces without requiring a full repaint, saving time and resources. It's an ideal solution for maintaining the aesthetic of your home between major painting projects.",
+        "@type": "Answer",
+        "description": "Paint touch-up repairs minor imperfections like chips, scuffs, or scratches on painted surfaces. It's needed to restore uniform appearance without a full repaint."
+      }
+    }
+  ],
+  "description": "Paint touch-up repairs minor imperfections like chips, scuffs, or scratches on painted surfaces. It's needed to restore uniform appearance without a full repain"
+}

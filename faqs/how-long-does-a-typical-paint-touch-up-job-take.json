@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-paint-touch-up-job-take",
+  "name": "How long does a typical paint touch-up job take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical paint touch-up job take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a paint touch-up job depends on the number of areas needing attention and the extent of the damage. Small scuffs or chips might take only an hour or two to prepare and paint. Larger areas or multiple spots across several rooms could extend the time to half a day. We prioritize efficient and clean work, aiming to complete projects with minimal disruption to your daily routine. We can provide a more precise time estimate after assessing the specific touch-up needs in your home.",
+        "@type": "Answer",
+        "description": "The time for a paint touch-up varies based on the number and size of areas. Small jobs might take hours, larger ones up to half a day."
+      }
+    }
+  ],
+  "description": "The time for a paint touch-up varies based on the number and size of areas. Small jobs might take hours, larger ones up to half a day."
+}

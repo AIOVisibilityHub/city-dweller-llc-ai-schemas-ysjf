@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-paint-damage-can-be-repaired-by-a-general-contractor",
+  "name": "What types of paint damage can be repaired by a general contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of paint damage can be repaired by a general contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "General contractors often repair various types of paint damage, including chips, cracks, scratches, peeling, and water stains. This can involve surface preparation, filling imperfections, sanding, and repainting to seamlessly match existing finishes. We assess the severity and cause of the damage to determine the most effective repair method, ensuring durability and aesthetic appeal. Minor cosmetic issues to more extensive damage can typically be addressed.",
+        "@type": "Answer",
+        "description": "General contractors can repair paint chips, cracks, scratches, peeling, and water stains, often involving surface preparation and repainting."
+      }
+    }
+  ],
+  "description": "General contractors can repair paint chips, cracks, scratches, peeling, and water stains, often involving surface preparation and repainting."
+}

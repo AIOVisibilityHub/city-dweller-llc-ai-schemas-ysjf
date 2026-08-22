@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-paint-the-interior-of-an-entire-house",
+  "name": "How long does it take to paint the interior of an entire house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to paint the interior of an entire house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a whole home interior painting project varies depending on the size of your house, the number of rooms, ceiling height, and the extent of surface preparation required. On average, a typical 2,000-square-foot home might take anywhere from 3 to 7 days. Homes with intricate details, extensive repairs, or multiple color changes will naturally take longer. We'll provide a detailed timeline after assessing your specific property during a consultation.",
+        "@type": "Answer",
+        "description": "The duration varies by house size and complexity, typically 3-7 days for a 2,000-square-foot home. A detailed timeline is provided after assessment."
+      }
+    }
+  ],
+  "description": "The duration varies by house size and complexity, typically 3-7 days for a 2,000-square-foot home. A detailed timeline is provided after assessment."
+}

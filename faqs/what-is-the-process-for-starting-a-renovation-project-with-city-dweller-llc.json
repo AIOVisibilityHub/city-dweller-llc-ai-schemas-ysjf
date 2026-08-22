@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-starting-a-renovation-project-with-city-dweller-llc",
+  "name": "What is the process for starting a renovation project with City Dweller, LLC?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for starting a renovation project with City Dweller, LLC?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation to discuss your vision, needs, and budget. Following this, we conduct an on-site visit to assess the project scope and gather detailed information. We then develop a comprehensive proposal outlining the project timeline, costs, and materials. Upon approval, we assist with necessary permits, schedule trades, and manage the project through to completion, providing regular updates. Our goal is a transparent and collaborative experience, ensuring your project is completed to your satisfaction in the Bay Area and surrounding communities.",
+        "@type": "Answer",
+        "description": "Our process starts with a consultation and site visit, followed by a detailed proposal. Once approved, we manage permits, scheduling, and project execution with regular updates."
+      }
+    }
+  ],
+  "description": "Our process starts with a consultation and site visit, followed by a detailed proposal. Once approved, we manage permits, scheduling, and project execution with"
+}

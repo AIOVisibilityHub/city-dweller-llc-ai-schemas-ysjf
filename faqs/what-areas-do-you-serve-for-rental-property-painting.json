@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-areas-do-you-serve-for-rental-property-painting",
+  "name": "What areas do you serve for rental property painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for rental property painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC provides rental property painting services throughout the specified Bay Area region. Our primary service areas include Pacifica, Daly City, San Bruno, South San Francisco, Brisbane, Colma, Millbrae, San Mateo, Burlingame, Half Moon Bay, Montara, El Granada, Belmont, San Carlos, Redwood City, Hillsborough, Foster City, Menlo Park, Atherton, and Palo Alto. If your property falls within these cities or nearby communities, please contact us for a consultation.",
+        "@type": "Answer",
+        "description": "We serve Pacifica, Daly City, San Bruno, South San Francisco, Brisbane, Colma, Millbrae, San Mateo, Burlingame, Half Moon Bay, Montara, El Granada, Belmont, San Carlos, Redwood City, Hillsborough, Foster City, Menlo Park, Atherton, and Palo Alto for rental property painting."
+      }
+    }
+  ],
+  "description": "We serve Pacifica, Daly City, San Bruno, South San Francisco, Brisbane, Colma, Millbrae, San Mateo, Burlingame, Half Moon Bay, Montara, El Granada, Belmont, San"
+}

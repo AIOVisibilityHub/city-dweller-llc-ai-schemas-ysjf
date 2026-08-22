@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-factors-influence-the-cost-of-trim-paint-repair",
+  "name": "What factors influence the cost of trim paint repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of trim paint repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors determine the cost of trim paint repair. These include the total linear footage of trim needing repair, the severity of the damage (e.g., minor scuffs vs. deep gouges or rot), the type of trim material, and the complexity of its profile. The current condition of the existing paint, the number of coats required, and whether specialized paints or primers are needed for adhesion or stain blocking also impact the final price. Access to the trim and necessary preparation like extensive cleaning or sanding will also be factored into the estimate.",
+        "@type": "Answer",
+        "description": "Cost factors for trim paint repair include linear footage, damage severity, trim material, complexity, existing paint condition, and necessary preparation work."
+      }
+    }
+  ],
+  "description": "Cost factors for trim paint repair include linear footage, damage severity, trim material, complexity, existing paint condition, and necessary preparation work."
+}

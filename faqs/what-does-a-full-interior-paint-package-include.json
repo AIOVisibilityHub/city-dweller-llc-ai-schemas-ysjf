@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-does-a-full-interior-paint-package-include",
+  "name": "What does a 'Full Interior Paint Package' include?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a 'Full Interior Paint Package' include?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Full Interior Paint Package typically covers all interior walls, ceilings, trim, and doors within a home. This comprehensive service usually includes surface preparation like patching and sanding, primer application, and two coats of high-quality paint. It also encompasses protecting your furniture and flooring, daily clean-up, and a final walk-through to ensure satisfaction. Specific inclusions can vary slightly based on the project's scope and the condition of the surfaces.",
+        "@type": "Answer",
+        "description": "A Full Interior Paint Package includes painting all walls, ceilings, trim, and doors, along with surface preparation and cleanup."
+      }
+    }
+  ],
+  "description": "A Full Interior Paint Package includes painting all walls, ceilings, trim, and doors, along with surface preparation and cleanup."
+}

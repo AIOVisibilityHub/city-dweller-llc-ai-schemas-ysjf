@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-colors-make-a-small-bathroom-look-bigger",
+  "name": "What colors make a small bathroom look bigger?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What colors make a small bathroom look bigger?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To make a small bathroom appear more spacious, light and cool colors are generally recommended. Shades of white, off-white, light gray, pale blues, and soft greens can reflect light, making the room feel brighter and more open. Using a monochromatic scheme or painting the ceiling a lighter shade than the walls can also contribute to an expansive feel. Consider glossier finishes to further enhance light reflection.",
+        "@type": "Answer",
+        "description": "Light and cool colors like whites, pale blues, and soft greens can make a small bathroom look bigger by reflecting light."
+      }
+    }
+  ],
+  "description": "Light and cool colors like whites, pale blues, and soft greens can make a small bathroom look bigger by reflecting light."
+}

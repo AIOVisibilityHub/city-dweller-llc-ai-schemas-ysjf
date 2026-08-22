@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-paint-over-water-stains",
+  "name": "Can I paint over water stains?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I paint over water stains?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Painting directly over water stains is generally not recommended without proper preparation. Standard paint will not effectively cover water stains, and they will likely bleed through the new coat. To properly address water stains, the source of the water must first be resolved, and the surface thoroughly dried. Then, the stained area should be cleaned, and a high-quality, oil-based, stain-blocking primer applied. This primer seals the stain, preventing it from reappearing, before the final topcoats of paint are applied.",
+        "@type": "Answer",
+        "description": "No, painting over water stains without proper preparation is ineffective; stains will bleed through. Use a stain-blocking primer after addressing the water source and drying."
+      }
+    }
+  ],
+  "description": "No, painting over water stains without proper preparation is ineffective; stains will bleed through. Use a stain-blocking primer after addressing the water sour"
+}

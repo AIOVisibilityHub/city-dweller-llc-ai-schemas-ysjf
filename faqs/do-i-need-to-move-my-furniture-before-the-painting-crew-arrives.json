@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-move-my-furniture-before-the-painting-crew-arrives",
+  "name": "Do I need to move my furniture before the painting crew arrives?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to move my furniture before the painting crew arrives?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's helpful if smaller, delicate items and wall hangings are removed, you generally do not need to move all your heavy furniture. Our painting crew will carefully move and protect your larger furniture items by covering them with plastic sheeting. We take great care to ensure all your belongings and flooring are completely covered and protected from paint splatters and dust throughout the entire project duration.",
+        "@type": "Answer",
+        "description": "You don't need to move all heavy furniture; our crew will carefully move and protect it, along with your flooring and belongings."
+      }
+    }
+  ],
+  "description": "You don't need to move all heavy furniture; our crew will carefully move and protect it, along with your flooring and belongings."
+}

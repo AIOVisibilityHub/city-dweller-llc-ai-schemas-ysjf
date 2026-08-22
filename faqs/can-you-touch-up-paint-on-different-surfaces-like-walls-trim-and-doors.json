@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-you-touch-up-paint-on-different-surfaces-like-walls-trim-and-doors",
+  "name": "Can you touch up paint on different surfaces like walls, trim, and doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you touch up paint on different surfaces like walls, trim, and doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, our paint touch-up services extend to various interior surfaces, including walls, trim, baseboards, door frames, and doors. The approach for each surface may vary slightly due to material differences and finish types. For example, trim and doors often use a more durable, semi-gloss or high-gloss paint, while walls typically have a matte or eggshell finish. We use appropriate paint types and application techniques to ensure the touch-up blends effectively on each specific surface, maintaining the original look and feel.",
+        "@type": "Answer",
+        "description": "Yes, we can touch up paint on various surfaces like walls, trim, and doors. We use appropriate paint types and techniques for each material."
+      }
+    }
+  ],
+  "description": "Yes, we can touch up paint on various surfaces like walls, trim, and doors. We use appropriate paint types and techniques for each material."
+}

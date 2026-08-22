@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-paint-to-peel-on-interior-and-exterior-surfaces",
+  "name": "What causes paint to peel on interior and exterior surfaces?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes paint to peel on interior and exterior surfaces?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Paint typically peels due to poor surface preparation before painting, moisture issues, or incompatible paint layers. On exteriors, exposure to sunlight, rain, and fluctuating temperatures can degrade paint, leading to peeling. Interiors might experience peeling from high humidity, leaks, or inadequate primer application. Properly preparing the surface by cleaning, sanding, and priming is crucial for paint adhesion and longevity.",
+        "@type": "Answer",
+        "description": "Paint peels due to poor surface preparation, moisture issues, or incompatible paint layers, exacerbated by weather on exteriors."
+      }
+    }
+  ],
+  "description": "Paint peels due to poor surface preparation, moisture issues, or incompatible paint layers, exacerbated by weather on exteriors."
+}

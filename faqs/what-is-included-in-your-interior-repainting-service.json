@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-included-in-your-interior-repainting-service",
+  "name": "What is included in your interior repainting service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in your interior repainting service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our interior repainting service is comprehensive, covering all necessary steps from preparation to final touch-ups. This typically includes protecting your furniture and floors, repairing minor wall imperfections such as small holes or cracks, cleaning surfaces, applying primer as needed, and then applying two coats of high-quality paint. We conclude with a thorough cleanup and a final walk-through to ensure your complete satisfaction with the finished work.",
+        "@type": "Answer",
+        "description": "Our service includes surface preparation, minor repairs, priming, two coats of paint, cleanup, and a final inspection."
+      }
+    }
+  ],
+  "description": "Our service includes surface preparation, minor repairs, priming, two coats of paint, cleanup, and a final inspection."
+}

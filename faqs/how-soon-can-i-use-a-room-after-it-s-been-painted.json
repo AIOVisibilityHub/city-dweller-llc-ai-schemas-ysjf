@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-soon-can-i-use-a-room-after-it-s-been-painted",
+  "name": "How soon can I use a room after it's been painted?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How soon can I use a room after it's been painted?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can typically re-enter and light furniture can be moved back into a freshly painted room within a few hours after the final coat. However, the paint needs more time to fully cure and harden. We generally recommend waiting 24 to 48 hours before placing heavy furniture against walls or hanging pictures, and up to a week for full curing before subjecting the walls to heavy use or cleaning. This allows the paint to achieve its maximum durability and finish.",
+        "@type": "Answer",
+        "description": "You can re-enter a room and move light furniture within a few hours after painting, but wait 24-48 hours for heavy items and up to a week for full curing."
+      }
+    }
+  ],
+  "description": "You can re-enter a room and move light furniture within a few hours after painting, but wait 24-48 hours for heavy items and up to a week for full curing."
+}

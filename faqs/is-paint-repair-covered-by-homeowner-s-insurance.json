@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/is-paint-repair-covered-by-homeowner-s-insurance",
+  "name": "Is paint repair covered by homeowner's insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is paint repair covered by homeowner's insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether paint repair is covered by homeowner's insurance depends on the cause of the damage and your specific policy. Generally, damage caused by sudden, accidental events like storms, fire, or vandalism might be covered. However, damage resulting from normal wear and tear, lack of maintenance, or gradual issues like prolonged water leaks or sun exposure is typically not covered. It's always best to review your policy details or consult with your insurance provider.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance may cover paint repair for sudden accidental damage like storms or vandalism, but usually not for wear and tear or gradual issues."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance may cover paint repair for sudden accidental damage like storms or vandalism, but usually not for wear and tear or gradual issues."
+}

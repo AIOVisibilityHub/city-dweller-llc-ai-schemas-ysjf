@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-build-an-accessory-dwelling-unit-adu-in-the-pacifica-ar",
+  "name": "How much does it cost to build an Accessory Dwelling Unit (ADU) in the Pacifica area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to build an Accessory Dwelling Unit (ADU) in the Pacifica area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of building an ADU in areas like Pacifica can vary widely, typically ranging from $150,000 to over $400,000, depending on its size, design complexity, finishes, and site conditions. Factors like utility hookups, foundation work, and interior amenities all influence the final price. Detached ADUs tend to be more expensive than attached or garage conversion ADUs due to more extensive foundation and utility work. City Dweller, LLC provides detailed estimates after an initial consultation to assess your specific project requirements.",
+        "@type": "Answer",
+        "description": "ADU costs in Pacifica typically range from $150,000 to $400,000+, depending on size, design, and site specifics."
+      }
+    }
+  ],
+  "description": "ADU costs in Pacifica typically range from $150,000 to $400,000+, depending on size, design, and site specifics."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/does-city-dweller-llc-offer-free-consultations-or-estimates-for-projects-in-the",
+  "name": "Does City Dweller, LLC offer free consultations or estimates for projects in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does City Dweller, LLC offer free consultations or estimates for projects in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, City Dweller, LLC offers initial consultations and estimates for prospective projects in our service areas, including Pacifica, Daly City, San Bruno, South San Francisco, and Brisbane. This allows us to understand your project needs, discuss your vision, and provide a preliminary assessment of the scope and potential costs without obligation. It's an opportunity for you to ask questions and determine if our services are the right fit for your home improvement or construction goals.",
+        "@type": "Answer",
+        "description": "Yes, City Dweller, LLC provides free initial consultations and estimates for projects in our Bay Area service locations. This helps assess your project needs and costs."
+      }
+    }
+  ],
+  "description": "Yes, City Dweller, LLC provides free initial consultations and estimates for projects in our Bay Area service locations. This helps assess your project needs an"
+}

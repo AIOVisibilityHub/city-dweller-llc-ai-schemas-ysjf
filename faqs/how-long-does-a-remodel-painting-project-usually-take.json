@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-remodel-painting-project-usually-take",
+  "name": "How long does a remodel painting project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a remodel painting project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a remodel painting project depends on several factors, including the size of the area, the extent of surface preparation required, and the type of paint and finishes chosen. For a standard room, painting might take 2-3 days, while an entire interior house could take 1-2 weeks. Exterior painting projects, depending on weather and house size, can also vary significantly. We provide a detailed timeline after assessing the scope of work during the initial consultation.",
+        "@type": "Answer",
+        "description": "Project duration varies based on size, preparation needed, and paint type; typically 2-3 days for a room, or 1-2 weeks for an entire interior."
+      }
+    }
+  ],
+  "description": "Project duration varies based on size, preparation needed, and paint type; typically 2-3 days for a room, or 1-2 weeks for an entire interior."
+}

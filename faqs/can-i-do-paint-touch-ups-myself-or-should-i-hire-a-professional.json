@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-do-paint-touch-ups-myself-or-should-i-hire-a-professional",
+  "name": "Can I do paint touch-ups myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I do paint touch-ups myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor paint touch-ups can seem simple, achieving an invisible repair often requires professional skill and tools. DIY touch-ups risk improper paint matching, visible brush strokes, uneven sheen, or texture differences that can make the touched-up area stand out more than the original damage. Professionals like City Dweller, LLC have the experience, color-matching expertise, and application techniques to seamlessly blend repairs, ensuring a uniform and high-quality finish that protects your home's aesthetic appeal and value.",
+        "@type": "Answer",
+        "description": "Professionals offer better paint matching and seamless blending to avoid visible repairs. DIY risks uneven sheen or texture, making damage more noticeable."
+      }
+    }
+  ],
+  "description": "Professionals offer better paint matching and seamless blending to avoid visible repairs. DIY risks uneven sheen or texture, making damage more noticeable."
+}

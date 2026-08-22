@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-expect-regarding-communication-from-my-general-contractor-during-a",
+  "name": "What should I expect regarding communication from my general contractor during a project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I expect regarding communication from my general contractor during a project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should expect regular and clear communication from your general contractor throughout the project. This includes updates on progress, discussions about any unforeseen issues or decisions needed, and schedule adjustments. Communication methods can range from weekly meetings to phone calls, emails, or dedicated project management software. City Dweller, LLC prioritizes transparent communication, ensuring you are always informed and comfortable with the project's direction and status, from commencement to completion.",
+        "@type": "Answer",
+        "description": "Expect regular updates on progress, issues, and schedule from your general contractor, typically via meetings, calls, or emails, to keep you informed."
+      }
+    }
+  ],
+  "description": "Expect regular updates on progress, issues, and schedule from your general contractor, typically via meetings, calls, or emails, to keep you informed."
+}

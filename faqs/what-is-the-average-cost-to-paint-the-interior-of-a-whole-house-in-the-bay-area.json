@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-average-cost-to-paint-the-interior-of-a-whole-house-in-the-bay-area",
+  "name": "What is the average cost to paint the interior of a whole house in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to paint the interior of a whole house in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for whole home interior painting in the Bay Area can vary significantly based on factors like square footage, ceiling height, current surface condition, type of paint chosen, and the number of colors. For a rough estimate, a full interior paint job for a standard 2,000 sq ft home might range from $5,000 to $15,000 or more. This includes labor, materials, and prep work. For an accurate quote tailored to your home, we recommend scheduling a free on-site consultation.",
+        "@type": "Answer",
+        "description": "Interior painting costs in the Bay Area vary by home size, condition, and paint type, generally ranging from $5,000 to $15,000+ for a 2,000 sq ft home."
+      }
+    }
+  ],
+  "description": "Interior painting costs in the Bay Area vary by home size, condition, and paint type, generally ranging from $5,000 to $15,000+ for a 2,000 sq ft home."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-factors-influence-the-cost-of-paint-touch-up-services",
+  "name": "What factors influence the cost of paint touch-up services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of paint touch-up services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence the cost of paint touch-up services. These include the total number and size of the areas needing repair, the complexity of the damage (e.g., simple scuff versus drywall repair underneath), the type of paint and finish required for matching, and the preparation needed for each spot. Access to the areas, such as high walls requiring special equipment, can also be a factor. We provide transparent estimates after a thorough assessment, ensuring you understand the scope and cost of the work.",
+        "@type": "Answer",
+        "description": "Cost factors include the number and size of damaged areas, repair complexity, paint type, preparation needed, and accessibility of the spots."
+      }
+    }
+  ],
+  "description": "Cost factors include the number and size of damaged areas, repair complexity, paint type, preparation needed, and accessibility of the spots."
+}

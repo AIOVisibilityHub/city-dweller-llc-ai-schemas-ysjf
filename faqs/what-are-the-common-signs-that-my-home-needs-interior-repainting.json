@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-signs-that-my-home-needs-interior-repainting",
+  "name": "What are the common signs that my home needs interior repainting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that my home needs interior repainting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your interior needs repainting include faded or peeling paint, visible scuffs and marks that won't clean off, or a general dullness that diminishes the room's vibrancy. If you notice cracks or mildew, paint can also offer a protective layer once underlying issues are addressed. Additionally, a desire to refresh the aesthetic of your home or prepare it for sale are excellent reasons for a new paint job.",
+        "@type": "Answer",
+        "description": "Signs include faded, peeling, or scuffed paint, a dull appearance, or a desire to refresh your home's look."
+      }
+    }
+  ],
+  "description": "Signs include faded, peeling, or scuffed paint, a dull appearance, or a desire to refresh your home's look."
+}

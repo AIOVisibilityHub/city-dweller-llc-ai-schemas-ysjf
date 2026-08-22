@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-you-match-existing-paint-for-touch-ups",
+  "name": "How do you match existing paint for touch-ups?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you match existing paint for touch-ups?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Accurate paint matching is crucial for seamless touch-ups. We start by requesting any leftover paint cans or color codes you might have from the original painting project. If these are unavailable, our team can carefully take a small sample from an inconspicuous area of your wall, such as behind a picture frame or outlet cover. This sample is then professionally matched using color-matching technology or by a paint expert to ensure the new paint blends perfectly with the existing finish, minimizing noticeable differences.",
+        "@type": "Answer",
+        "description": "We match existing paint using leftover cans, color codes, or by taking a small sample from your wall for professional matching."
+      }
+    }
+  ],
+  "description": "We match existing paint using leftover cans, color codes, or by taking a small sample from your wall for professional matching."
+}

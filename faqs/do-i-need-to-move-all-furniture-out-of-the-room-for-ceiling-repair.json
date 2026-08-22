@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-move-all-furniture-out-of-the-room-for-ceiling-repair",
+  "name": "Do I need to move all furniture out of the room for ceiling repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to move all furniture out of the room for ceiling repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it might not always be necessary to completely remove all furniture, it is highly recommended to move as much as possible out of the room or at least to the center and cover it thoroughly. This protects your belongings from dust, paint splatters, and debris, which are inevitable during ceiling repairs. Covering floors and securing drapes are also important steps. Adequate space allows the technicians to work efficiently and safely, ensuring a cleaner outcome.",
+        "@type": "Answer",
+        "description": "It's highly recommended to move furniture out or cover it thoroughly to protect from dust and paint, and to provide clear workspace."
+      }
+    }
+  ],
+  "description": "It's highly recommended to move furniture out or cover it thoroughly to protect from dust and paint, and to provide clear workspace."
+}

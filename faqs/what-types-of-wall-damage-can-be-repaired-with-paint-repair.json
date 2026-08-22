@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-wall-damage-can-be-repaired-with-paint-repair",
+  "name": "What types of wall damage can be repaired with paint repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of wall damage can be repaired with paint repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wall paint repair addresses various cosmetic issues, including minor scuffs, scratches, small holes from nails or anchors, and surface discoloration. It's suitable for patching drywall dings, repairing peeling paint, or restoring areas affected by water stains (after the source of water is fixed). More significant structural damage, large holes, or extensive moisture problems might require broader drywall repair or remediation before painting.",
+        "@type": "Answer",
+        "description": "Wall paint repair fixes minor scuffs, scratches, small holes, and discoloration, but not major structural damage."
+      }
+    }
+  ],
+  "description": "Wall paint repair fixes minor scuffs, scratches, small holes, and discoloration, but not major structural damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-paint-is-best-for-water-damaged-walls",
+  "name": "What kind of paint is best for water-damaged walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of paint is best for water-damaged walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After addressing the water source, drying, and any necessary repairs or mold remediation, the best paint for water-damaged walls typically involves a two-step approach. First, a high-quality, oil-based or shellac-based stain-blocking primer is essential to seal off water stains and prevent them from bleeding through the finish coat. Some primers also offer mold and mildew resistance. Following the primer, a durable, washable, and often mildew-resistant interior latex paint is recommended for the topcoats, especially in areas prone to moisture like bathrooms or kitchens.",
+        "@type": "Answer",
+        "description": "Use a high-quality, stain-blocking primer first, followed by a durable, washable, and potentially mildew-resistant latex paint for topcoats."
+      }
+    }
+  ],
+  "description": "Use a high-quality, stain-blocking primer first, followed by a durable, washable, and potentially mildew-resistant latex paint for topcoats."
+}

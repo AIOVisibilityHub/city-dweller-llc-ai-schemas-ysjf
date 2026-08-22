@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-soon-after-a-storm-should-i-address-paint-damage",
+  "name": "How soon after a storm should I address paint damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How soon after a storm should I address paint damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Addressing storm paint damage promptly is crucial to prevent further deterioration and more costly repairs. Water intrusion can lead to structural damage, rot, or mold if not addressed quickly. While immediate emergency repairs might be needed, professional assessment for repainting should ideally happen within a few weeks of the storm. This allows time to secure insurance claims and ensures the integrity of your home's exterior protection.",
+        "@type": "Answer",
+        "description": "Address storm paint damage promptly to prevent further deterioration and higher costs. Aim for a professional assessment within a few weeks."
+      }
+    }
+  ],
+  "description": "Address storm paint damage promptly to prevent further deterioration and higher costs. Aim for a professional assessment within a few weeks."
+}

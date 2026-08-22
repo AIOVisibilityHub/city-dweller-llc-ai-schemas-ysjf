@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-paint-over-existing-peeling-paint-in-my-garage",
+  "name": "Can I paint over existing peeling paint in my garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I paint over existing peeling paint in my garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Painting over peeling paint is not recommended as it will lead to poor adhesion and a short-lived finish. The new paint will likely peel along with the old, compromising the entire job. Before applying any new paint, all loose and peeling paint must be scraped off. The remaining edges should be feathered with sandpaper, and the surface cleaned thoroughly. This preparation ensures a smooth, stable base for the new paint, allowing it to adhere properly and last longer.",
+        "@type": "Answer",
+        "description": "No, you should not paint over peeling paint. All loose paint must be scraped, sanded, and cleaned for proper adhesion and a lasting finish."
+      }
+    }
+  ],
+  "description": "No, you should not paint over peeling paint. All loose paint must be scraped, sanded, and cleaned for proper adhesion and a lasting finish."
+}

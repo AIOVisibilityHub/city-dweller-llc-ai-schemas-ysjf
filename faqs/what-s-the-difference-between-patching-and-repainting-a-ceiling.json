@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-patching-and-repainting-a-ceiling",
+  "name": "What's the difference between patching and repainting a ceiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between patching and repainting a ceiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Patching a ceiling involves repairing specific damaged areas, such as holes, cracks, or water-damaged sections, using materials like spackle, joint compound, or new drywall. This process focuses on restoring the structural integrity and smoothness of the localized area. Repainting, on the other hand, involves applying a new coat of paint to the entire ceiling or a large section to refresh its appearance, cover stains, or achieve a uniform color after patching. Patching is a prerequisite for effective repainting.",
+        "@type": "Answer",
+        "description": "Patching fixes specific damage like holes or cracks, while repainting applies a new coat of paint to refresh the overall appearance."
+      }
+    }
+  ],
+  "description": "Patching fixes specific damage like holes or cracks, while repainting applies a new coat of paint to refresh the overall appearance."
+}

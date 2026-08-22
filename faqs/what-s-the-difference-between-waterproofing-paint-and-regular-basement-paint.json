@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-waterproofing-paint-and-regular-basement-paint",
+  "name": "What's the difference between waterproofing paint and regular basement paint?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between waterproofing paint and regular basement paint?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Waterproofing paint contains special additives that create a very dense, impermeable barrier, designed to resist hydrostatic pressure and prevent water from seeping through walls. It's often thicker and more elastic than regular basement paint. Regular basement paints, while often moisture-resistant, are primarily for aesthetics and mild dampness protection; they don't typically withstand significant water pressure. True waterproofing paints are engineered for more severe moisture challenges.",
+        "@type": "Answer",
+        "description": "Waterproofing paint creates an impermeable barrier against significant water pressure, while regular basement paint offers aesthetics and mild dampness protection."
+      }
+    }
+  ],
+  "description": "Waterproofing paint creates an impermeable barrier against significant water pressure, while regular basement paint offers aesthetics and mild dampness protecti"
+}

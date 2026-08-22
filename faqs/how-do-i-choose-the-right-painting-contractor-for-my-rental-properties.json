@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-painting-contractor-for-my-rental-properties",
+  "name": "How do I choose the right painting contractor for my rental properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right painting contractor for my rental properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a painting contractor for your rental properties, prioritize experience with multi-unit or rental turnovers, strong references, and proper licensing and insurance. Look for contractors who offer clear, detailed proposals that outline the scope of work, materials, and timeline. Communication is key; ensure they are responsive and understand the specific needs and tight schedules often associated with rental property turnovers. A contractor familiar with local Bay Area properties can also offer valuable insights into suitable materials and approaches.",
+        "@type": "Answer",
+        "description": "Choose a contractor with experience in rental turnovers, strong references, proper licensing/insurance, clear proposals, and good communication to meet your property needs."
+      }
+    }
+  ],
+  "description": "Choose a contractor with experience in rental turnovers, strong references, proper licensing/insurance, clear proposals, and good communication to meet your pro"
+}

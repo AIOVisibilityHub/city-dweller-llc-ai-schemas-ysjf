@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-paint-over-existing-stained-wood-trim",
+  "name": "Can I paint over existing stained wood trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I paint over existing stained wood trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can paint over existing stained wood trim, but it requires specific preparation to ensure proper adhesion and prevent bleed-through of the stain or tannins. The process typically involves thoroughly cleaning the trim, light sanding to dull the surface, and applying a high-quality stain-blocking primer. After the primer dries, you can then apply your chosen trim paint. Skipping these steps can lead to the stain seeping through your new paint, causing discoloration.",
+        "@type": "Answer",
+        "description": "Painting over stained wood trim is possible with proper preparation, including cleaning, light sanding, and applying a stain-blocking primer."
+      }
+    }
+  ],
+  "description": "Painting over stained wood trim is possible with proper preparation, including cleaning, light sanding, and applying a stain-blocking primer."
+}

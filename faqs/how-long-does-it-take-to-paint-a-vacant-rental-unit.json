@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-paint-a-vacant-rental-unit",
+  "name": "How long does it take to paint a vacant rental unit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to paint a vacant rental unit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration for painting a vacant rental unit varies based on its size, the scope of work (e.g., walls only vs. walls, ceilings, and trim), and any necessary prep work like patching or repairs. A standard one-bedroom apartment might take 2-3 days, while a larger multi-bedroom home could require 4-7 days. This estimate includes preparation, painting, and drying time. Our team works efficiently to minimize vacancy periods for landlords in areas like Daly City and San Mateo.",
+        "@type": "Answer",
+        "description": "Painting a vacant rental unit typically takes 2-3 days for a one-bedroom and 4-7 days for larger homes, depending on size and scope."
+      }
+    }
+  ],
+  "description": "Painting a vacant rental unit typically takes 2-3 days for a one-bedroom and 4-7 days for larger homes, depending on size and scope."
+}

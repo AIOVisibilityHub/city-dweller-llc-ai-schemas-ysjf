@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-you-paint-over-bathroom-tiles",
+  "name": "Can you paint over bathroom tiles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you paint over bathroom tiles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can paint over bathroom tiles, but it requires specific preparation and products to ensure durability. The tiles must be thoroughly cleaned, degreased, and lightly sanded to create a profile for adhesion. A specialized epoxy or bonding primer designed for tile surfaces is essential, followed by a durable, moisture-resistant topcoat, such as a high-quality enamel or specific tile paint. This approach can refresh a bathroom's look without the cost of full tile replacement.",
+        "@type": "Answer",
+        "description": "Yes, bathroom tiles can be painted with proper preparation, specialized primers, and durable, moisture-resistant paint."
+      }
+    }
+  ],
+  "description": "Yes, bathroom tiles can be painted with proper preparation, specialized primers, and durable, moisture-resistant paint."
+}
