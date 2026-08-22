@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-a-single-room-remodel-and-a-renovation",
+  "name": "What is the difference between a single room remodel and a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a single room remodel and a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often used interchangeably, a 'renovation' typically refers to restoring something to a new or better state, often involving cosmetic updates or repairs without changing the layout. A 'remodel' usually implies changing the structure or layout, such as moving walls, reconfiguring plumbing, or updating electrical systems to improve functionality and aesthetics. Both aim to enhance a room, but remodeling is generally more extensive and costly.",
+        "@type": "Answer",
+        "description": "Renovation often means cosmetic updates or repairs, while remodeling involves changing the room's structure or layout, making it more extensive."
+      }
+    }
+  ],
+  "description": "Renovation often means cosmetic updates or repairs, while remodeling involves changing the room's structure or layout, making it more extensive."
+}

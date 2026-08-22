@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-stay-in-my-home-during-a-room-renovation",
+  "name": "Can I stay in my home during a room renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home during a room renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can stay in your home during a room renovation depends on the scope of work. For minor projects in a single room, it might be feasible, though disruptions like noise, dust, and temporary utility shut-offs are likely. For major renovations like a kitchen or bathroom overhaul, especially those impacting essential services, it's often more practical and safer to arrange temporary accommodation. We discuss these logistics with you during planning.",
+        "@type": "Answer",
+        "description": "Staying home during renovation depends on the scope; minor projects might allow it, but major overhauls often require temporary relocation due to disruption."
+      }
+    }
+  ],
+  "description": "Staying home during renovation depends on the scope; minor projects might allow it, but major overhauls often require temporary relocation due to disruption."
+}

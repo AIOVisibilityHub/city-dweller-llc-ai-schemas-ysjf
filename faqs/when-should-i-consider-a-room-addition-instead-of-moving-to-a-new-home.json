@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-a-room-addition-instead-of-moving-to-a-new-home",
+  "name": "When should I consider a room addition instead of moving to a new home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a room addition instead of moving to a new home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider a room addition when you love your current neighborhood, have a good school district, or want to stay close to work and family, but simply need more space. It's often a more cost-effective solution than incurring moving expenses, real estate fees, and higher property taxes on a new, larger home. An addition allows you to customize the new space exactly to your needs while increasing your property value and enhancing your existing lifestyle without changing your address.",
+        "@type": "Answer",
+        "description": "Opt for a room addition when you value your current location but need more space. It can be more cost-effective than moving, allows customization, and increases your home's value."
+      }
+    }
+  ],
+  "description": "Opt for a room addition when you value your current location but need more space. It can be more cost-effective than moving, allows customization, and increases"
+}

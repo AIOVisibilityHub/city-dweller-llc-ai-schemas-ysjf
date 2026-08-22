@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-home-addition-project-take",
+  "name": "How long does a typical home addition project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical home addition project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a home addition project varies significantly based on its size, complexity, and the specific permitting requirements of your city (e.g., Pacifica, Daly City). Generally, a smaller addition might take 3-6 months from design to completion, while a larger, more complex project, like a second-story addition or a significant expansion, could take 8-12 months or longer. This includes time for architectural design, securing permits, material procurement, and construction. Unexpected site conditions or design changes can also influence the schedule.",
+        "@type": "Answer",
+        "description": "A typical home addition can take 3-12 months or more, depending on its size, complexity, and local permitting processes. This includes design, permits, and construction."
+      }
+    }
+  ],
+  "description": "A typical home addition can take 3-12 months or more, depending on its size, complexity, and local permitting processes. This includes design, permits, and cons"
+}

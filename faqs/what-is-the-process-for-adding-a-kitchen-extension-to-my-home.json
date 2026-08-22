@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-adding-a-kitchen-extension-to-my-home",
+  "name": "What is the process for adding a kitchen extension to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for adding a kitchen extension to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an initial consultation and site assessment with a general contractor to discuss your vision, needs, and budget. This leads to architectural design and structural engineering plans, which are then submitted to the local planning department for permits. Once permits are secured, construction commences, involving foundation work, framing, roofing, utility rough-ins (plumbing, electrical), insulation, drywall, and then interior finishes like flooring, cabinetry, countertops, and appliance installation. The project concludes with final inspections.",
+        "@type": "Answer",
+        "description": "The kitchen addition process involves consultation, design, permit acquisition, construction (foundation, framing, utilities, finishes), and final inspections."
+      }
+    }
+  ],
+  "description": "The kitchen addition process involves consultation, design, permit acquisition, construction (foundation, framing, utilities, finishes), and final inspections."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-information-do-i-need-to-provide-for-permit-coordination",
+  "name": "What information do I need to provide for permit coordination?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to provide for permit coordination?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To initiate permit coordination, you typically need to provide detailed project plans, architectural drawings, engineering reports (if applicable), and property information. Specific requirements can vary by city and project type. Having clear, complete documentation from the outset helps expedite the application process and reduces the likelihood of delays caused by missing information.",
+        "@type": "Answer",
+        "description": "You need to provide detailed project plans, architectural drawings, engineering reports, and property information to begin permit coordination."
+      }
+    }
+  ],
+  "description": "You need to provide detailed project plans, architectural drawings, engineering reports, and property information to begin permit coordination."
+}

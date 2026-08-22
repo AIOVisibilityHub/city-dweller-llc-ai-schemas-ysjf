@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-i-need-to-move-out-of-my-home-during-a-single-room-renovation",
+  "name": "Will I need to move out of my home during a single room renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will I need to move out of my home during a single room renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most single room renovations, moving out is not typically necessary, especially if the project is contained to one area like a bedroom or home office. However, if you are renovating a primary bathroom or kitchen, especially if it's your only one, you might experience significant inconvenience and disruption. Your contractor can discuss the project's specific impact and help you plan temporary solutions, such as setting up a temporary kitchen, if staying in your home is important.",
+        "@type": "Answer",
+        "description": "You typically won't need to move out for a single room renovation, but projects like kitchen or primary bathroom remodels might cause significant disruption."
+      }
+    }
+  ],
+  "description": "You typically won't need to move out for a single room renovation, but projects like kitchen or primary bathroom remodels might cause significant disruption."
+}

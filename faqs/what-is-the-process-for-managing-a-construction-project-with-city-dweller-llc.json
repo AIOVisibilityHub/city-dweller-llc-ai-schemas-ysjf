@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-managing-a-construction-project-with-city-dweller-llc",
+  "name": "What is the process for managing a construction project with City Dweller, LLC?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for managing a construction project with City Dweller, LLC?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "At City Dweller, LLC, our process begins with an initial consultation to understand your vision, budget, and timeline. We then move to pre-construction planning, which includes design review, permit acquisition, and detailed scheduling. During construction, we oversee daily operations, manage subcontractors, monitor progress, ensure quality, and handle all communications. Regular client updates keep you informed. Finally, we conduct a thorough walkthrough and address any finishing touches before project closeout.",
+        "@type": "Answer",
+        "description": "Our process involves initial consultation, pre-construction planning (design, permits, scheduling), active construction oversight, regular client updates, and final project closeout."
+      }
+    }
+  ],
+  "description": "Our process involves initial consultation, pre-construction planning (design, permits, scheduling), active construction oversight, regular client updates, and f"
+}

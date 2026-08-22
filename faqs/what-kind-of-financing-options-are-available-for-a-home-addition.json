@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-financing-options-are-available-for-a-home-addition",
+  "name": "What kind of financing options are available for a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of financing options are available for a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common financing options for home additions include a home equity loan, a home equity line of credit (HELOC), or a cash-out refinance. A home equity loan provides a lump sum with a fixed interest rate, while a HELOC offers a revolving credit line. A cash-out refinance replaces your existing mortgage with a new, larger one. Some homeowners also opt for construction loans, which are specifically designed for building projects. We recommend consulting with a financial advisor to determine the best option for your situation.",
+        "@type": "Answer",
+        "description": "Financing options include home equity loans, HELOCs, cash-out refinances, or construction loans. Consult a financial advisor to find the best fit."
+      }
+    }
+  ],
+  "description": "Financing options include home equity loans, HELOCs, cash-out refinances, or construction loans. Consult a financial advisor to find the best fit."
+}

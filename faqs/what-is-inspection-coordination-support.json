@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-inspection-coordination-support",
+  "name": "What is inspection coordination support?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is inspection coordination support?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Inspection coordination support is a service offered by general contractors like City Dweller, LLC to manage and streamline the various inspections required during a construction or remodeling project. This includes scheduling appointments with city inspectors, ensuring the site is ready for inspection, being present during the inspection, and addressing any questions or concerns that may arise. Our goal is to keep your project on schedule and compliant with local building codes, preventing delays and ensuring all necessary approvals are obtained efficiently. We handle the administrative and logistical burden so you can focus on the project's progress.",
+        "@type": "Answer",
+        "description": "Inspection coordination support manages and streamlines all required inspections for your construction project, ensuring compliance and preventing delays."
+      }
+    }
+  ],
+  "description": "Inspection coordination support manages and streamlines all required inspections for your construction project, ensuring compliance and preventing delays."
+}

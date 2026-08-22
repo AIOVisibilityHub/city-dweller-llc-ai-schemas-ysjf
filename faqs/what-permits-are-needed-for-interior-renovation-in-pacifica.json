@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-permits-are-needed-for-interior-renovation-in-pacifica",
+  "name": "What permits are needed for interior renovation in Pacifica?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for interior renovation in Pacifica?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For interior renovations in Pacifica, permits are generally required for any work involving structural changes, electrical, plumbing, or mechanical systems. This includes moving walls, altering load-bearing elements, or significantly changing the layout of your home. Minor cosmetic updates like painting or flooring may not require permits. We handle the permit application process to ensure compliance with local building codes.",
+        "@type": "Answer",
+        "description": "Permits in Pacifica are needed for structural, electrical, plumbing, or mechanical work. We manage the application process."
+      }
+    }
+  ],
+  "description": "Permits in Pacifica are needed for structural, electrical, plumbing, or mechanical work. We manage the application process."
+}

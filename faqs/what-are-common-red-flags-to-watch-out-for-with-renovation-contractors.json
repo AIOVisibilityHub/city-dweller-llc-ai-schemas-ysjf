@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-red-flags-to-watch-out-for-with-renovation-contractors",
+  "name": "What are common red flags to watch out for with renovation contractors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common red flags to watch out for with renovation contractors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common red flags include contractors who demand full payment upfront, refuse to provide a detailed written contract, or pressure you into quick decisions. Be cautious of those who lack proper licensing or insurance, have no verifiable references, or whose bids are significantly lower than others without a clear explanation. Poor communication, an unwillingness to answer questions, or a lack of professionalism during initial interactions can also indicate potential issues down the line.",
+        "@type": "Answer",
+        "description": "Red flags include upfront full payment demands, no written contract, lack of license/insurance, poor references, or unusually low bids."
+      }
+    }
+  ],
+  "description": "Red flags include upfront full payment demands, no written contract, lack of license/insurance, poor references, or unusually low bids."
+}

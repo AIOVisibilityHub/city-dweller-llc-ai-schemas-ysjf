@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-add-a-bathroom-if-i-have-a-septic-system-instead-of-city-sewer",
+  "name": "Can I add a bathroom if I have a septic system instead of city sewer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a bathroom if I have a septic system instead of city sewer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, adding a bathroom with a septic system is possible, but it requires careful planning and evaluation. Your septic system must have adequate capacity to handle the increased wastewater volume. This often involves a professional assessment of your current system's size, age, and condition, and potentially upgrading your septic tank or drain field. Local health department regulations also play a significant role. We coordinate with septic system specialists to ensure your addition complies with all environmental and capacity requirements.",
+        "@type": "Answer",
+        "description": "Adding a bathroom with a septic system is possible but requires evaluating the system's capacity and adhering to local health department regulations. Upgrades may be necessary."
+      }
+    }
+  ],
+  "description": "Adding a bathroom with a septic system is possible but requires evaluating the system's capacity and adhering to local health department regulations. Upgrades m"
+}

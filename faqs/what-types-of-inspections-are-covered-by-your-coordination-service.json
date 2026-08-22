@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-inspections-are-covered-by-your-coordination-service",
+  "name": "What types of inspections are covered by your coordination service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of inspections are covered by your coordination service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our inspection coordination service covers a wide range of inspections required for typical construction and remodeling projects. This includes, but is not limited to, foundation inspections, framing inspections, plumbing rough-in and final inspections, electrical rough-in and final inspections, mechanical inspections, insulation inspections, and final occupancy inspections. The specific inspections will vary depending on the scope of your project and local building codes in your area, whether it's Daly City, San Mateo, or other surrounding cities. We ensure all permit-related inspections are identified and managed.",
+        "@type": "Answer",
+        "description": "We cover all necessary inspections for construction and remodeling projects, including foundation, framing, plumbing, electrical, mechanical, insulation, and final occupancy inspections."
+      }
+    }
+  ],
+  "description": "We cover all necessary inspections for construction and remodeling projects, including foundation, framing, plumbing, electrical, mechanical, insulation, and fi"
+}

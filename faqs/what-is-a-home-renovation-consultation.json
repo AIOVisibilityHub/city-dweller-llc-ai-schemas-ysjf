@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-home-renovation-consultation",
+  "name": "What is a home renovation consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a home renovation consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A home renovation consultation is an initial meeting with a general contractor to discuss your renovation ideas, goals, and budget. It's an opportunity to ask questions, understand the potential scope of your project, and determine if the contractor is a good fit. During this meeting, City Dweller, LLC will listen to your vision, assess the existing space, and provide preliminary insights into design possibilities, material considerations, and regulatory requirements specific to the Bay Area.",
+        "@type": "Answer",
+        "description": "A home renovation consultation is an initial meeting with a contractor to discuss your project ideas, goals, and budget, allowing you to ask questions and assess compatibility."
+      }
+    }
+  ],
+  "description": "A home renovation consultation is an initial meeting with a contractor to discuss your project ideas, goals, and budget, allowing you to ask questions and asses"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-a-general-contractor-help-with-design-ideas-and-material-selection",
+  "name": "Can a general contractor help with design ideas and material selection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a general contractor help with design ideas and material selection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, many general contractors, including City Dweller, LLC, offer assistance with design ideas and material selection as part of their comprehensive service. While they may not be architects or interior designers, they often have extensive experience and can provide practical advice on what works well structurally, aesthetically, and within your budget. They can guide you through options, suggest durable materials, and connect you with trusted suppliers, ensuring your design vision is both beautiful and functional.",
+        "@type": "Answer",
+        "description": "Many general contractors can assist with design ideas and material selection, offering practical advice and connecting you with suppliers."
+      }
+    }
+  ],
+  "description": "Many general contractors can assist with design ideas and material selection, offering practical advice and connecting you with suppliers."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-timeline-for-a-major-interior-renovation-project",
+  "name": "What is the typical timeline for a major interior renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a major interior renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a major interior renovation, such as a kitchen or bathroom remodel, typically ranges from 6 to 12 weeks. This can vary significantly based on the project's scope, the extent of structural changes, material availability, and the permitting process. Smaller projects, like painting or minor updates, may take a few days to a couple of weeks. A detailed schedule will be provided after the initial consultation and design phase.",
+        "@type": "Answer",
+        "description": "Major interior renovations typically take 6 to 12 weeks, depending on scope and materials. Smaller projects can be completed in days or weeks."
+      }
+    }
+  ],
+  "description": "Major interior renovations typically take 6 to 12 weeks, depending on scope and materials. Smaller projects can be completed in days or weeks."
+}

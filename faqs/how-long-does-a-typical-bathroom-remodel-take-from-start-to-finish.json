@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-bathroom-remodel-take-from-start-to-finish",
+  "name": "How long does a typical bathroom remodel take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bathroom remodel take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a bathroom remodel can vary significantly based on its scope. A cosmetic update, involving paint and fixture replacements, might take 1-2 weeks. A complete gut and remodel, including layout changes, new plumbing, and electrical work, typically ranges from 3 to 6 weeks. Factors like material availability, inspection schedules, and unexpected discoveries can influence the timeline. We provide a detailed project schedule upfront to manage expectations.",
+        "@type": "Answer",
+        "description": "A typical bathroom remodel can take from 1-2 weeks for cosmetic changes to 3-6 weeks for a full renovation, depending on scope and other factors."
+      }
+    }
+  ],
+  "description": "A typical bathroom remodel can take from 1-2 weeks for cosmetic changes to 3-6 weeks for a full renovation, depending on scope and other factors."
+}

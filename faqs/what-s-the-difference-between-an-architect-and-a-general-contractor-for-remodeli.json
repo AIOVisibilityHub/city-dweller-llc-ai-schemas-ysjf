@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-an-architect-and-a-general-contractor-for-remodeli",
+  "name": "What's the difference between an architect and a general contractor for remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between an architect and a general contractor for remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An architect primarily focuses on design and structural planning, creating blueprints and detailed drawings for a project. They ensure the design is functional, aesthetically pleasing, and meets building codes. A general contractor, like City Dweller, LLC, manages the construction process itself. They hire subcontractors, coordinate schedules, oversee on-site work, and manage the budget and timeline based on the architect's plans. For complex remodels, you might work with both; for simpler projects, a general contractor often handles design elements or partners with a designer.",
+        "@type": "Answer",
+        "description": "Architects design and plan, creating blueprints. General contractors manage the construction, hiring trades, coordinating schedules, and overseeing work."
+      }
+    }
+  ],
+  "description": "Architects design and plan, creating blueprints. General contractors manage the construction, hiring trades, coordinating schedules, and overseeing work."
+}

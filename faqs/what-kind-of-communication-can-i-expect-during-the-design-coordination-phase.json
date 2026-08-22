@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-communication-can-i-expect-during-the-design-coordination-phase",
+  "name": "What kind of communication can I expect during the design coordination phase?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of communication can I expect during the design coordination phase?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During the design coordination phase, you can expect regular and transparent communication. This includes scheduled meetings to review plans, discuss progress, and make decisions. We use various communication channels, including calls, emails, and possibly a project management platform, to keep you informed. Our goal is to ensure you are fully aware of design developments, budget impacts, and schedule adjustments, fostering a collaborative and informed decision-making process.",
+        "@type": "Answer",
+        "description": "Expect regular, transparent communication through scheduled meetings, calls, emails, and project platforms, keeping you informed on design, budget, and schedule."
+      }
+    }
+  ],
+  "description": "Expect regular, transparent communication through scheduled meetings, calls, emails, and project platforms, keeping you informed on design, budget, and schedule"
+}

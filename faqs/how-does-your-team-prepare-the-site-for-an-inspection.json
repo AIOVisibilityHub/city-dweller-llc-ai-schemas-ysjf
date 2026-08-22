@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-does-your-team-prepare-the-site-for-an-inspection",
+  "name": "How does your team prepare the site for an inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does your team prepare the site for an inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our team prepares the site for an inspection by ensuring all work relevant to that specific inspection is completed and accessible. This includes clearing debris, ensuring proper lighting, and making sure all required elements (e.g., framing, plumbing lines, electrical wiring) are visible and ready for the inspector to assess. We also organize and have on hand all necessary documentation, such as approved plans and permits. This meticulous preparation helps prevent immediate re-inspection requirements, saving time and ensuring a smooth process during the inspector's visit.",
+        "@type": "Answer",
+        "description": "Our team prepares the site by completing relevant work, ensuring accessibility, having documentation ready, and clearing debris for a smooth inspection process."
+      }
+    }
+  ],
+  "description": "Our team prepares the site by completing relevant work, ensuring accessibility, having documentation ready, and clearing debris for a smooth inspection process."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-look-for-when-choosing-a-general-contractor-for-my-home-renovation",
+  "name": "What should I look for when choosing a general contractor for my home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a general contractor for my home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a general contractor, prioritize those with proven experience in projects similar to yours and a strong portfolio. Verify their licensing and insurance to ensure they meet state requirements and protect your property. Look for clear communication, transparent bidding, and a detailed contract outlining the scope of work, timeline, and payment schedule. Checking references and reading reviews can provide insight into their reliability and professionalism. A good contractor ensures quality and manages the project effectively.",
+        "@type": "Answer",
+        "description": "Choose a general contractor with relevant experience, proper licensing and insurance, clear communication, transparent bids, and positive references."
+      }
+    }
+  ],
+  "description": "Choose a general contractor with relevant experience, proper licensing and insurance, clear communication, transparent bids, and positive references."
+}

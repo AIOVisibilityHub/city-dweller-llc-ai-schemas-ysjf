@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-an-architect-for-a-home-addition",
+  "name": "Do I need an architect for a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need an architect for a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While not every small addition strictly requires an architect, for most significant home additions, an architect is highly recommended. An architect can provide crucial expertise in maximizing space, ensuring structural integrity, navigating complex zoning regulations, and creating a cohesive design that blends seamlessly with your existing home. They can also help translate your vision into detailed blueprints necessary for permits and construction, often saving time and money by preventing costly design errors.",
+        "@type": "Answer",
+        "description": "For most significant home additions, an architect is highly recommended to ensure optimal space utilization, structural integrity, regulatory compliance, and cohesive design, preventing costly errors."
+      }
+    }
+  ],
+  "description": "For most significant home additions, an architect is highly recommended to ensure optimal space utilization, structural integrity, regulatory compliance, and co"
+}

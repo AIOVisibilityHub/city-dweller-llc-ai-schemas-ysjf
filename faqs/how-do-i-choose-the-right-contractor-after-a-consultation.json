@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-contractor-after-a-consultation",
+  "name": "How do I choose the right contractor after a consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor after a consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor, compare their communication style, experience with similar projects, detailed proposals, references, and licensing. Consider if their vision aligns with yours and if you feel comfortable communicating openly. City Dweller, LLC encourages you to check our portfolio, read testimonials, and ask for proof of insurance and licensing relevant to working in areas like the Bay Area. Trust your instincts about reliability and professionalism.",
+        "@type": "Answer",
+        "description": "Choose a contractor by comparing their communication, experience, proposals, references, and licensing, ensuring their vision and professionalism align with your needs."
+      }
+    }
+  ],
+  "description": "Choose a contractor by comparing their communication, experience, proposals, references, and licensing, ensuring their vision and professionalism align with you"
+}

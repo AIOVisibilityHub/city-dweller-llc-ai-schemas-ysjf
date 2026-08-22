@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-structure-for-remodeling-project-coordination-services",
+  "name": "What is the typical cost structure for remodeling project coordination services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost structure for remodeling project coordination services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for remodeling project coordination services can vary. It's often structured as a percentage of the total project cost, typically ranging from 10% to 20%. Alternatively, some coordinators may charge a fixed fee based on the project's scope and estimated duration, or an hourly rate for their time. The specific pricing model depends on the project's complexity, size, and the coordinator's experience. It’s important to get a clear proposal detailing all fees.",
+        "@type": "Answer",
+        "description": "Coordination costs are typically a percentage of project cost (10-20%), a fixed fee, or an hourly rate, depending on project complexity."
+      }
+    }
+  ],
+  "description": "Coordination costs are typically a percentage of project cost (10-20%), a fixed fee, or an hourly rate, depending on project complexity."
+}

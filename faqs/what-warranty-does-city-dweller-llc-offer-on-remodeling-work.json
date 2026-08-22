@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-warranty-does-city-dweller-llc-offer-on-remodeling-work",
+  "name": "What warranty does City Dweller, LLC offer on remodeling work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What warranty does City Dweller, LLC offer on remodeling work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC stands behind the quality of our work with a comprehensive warranty on all our remodeling projects. This warranty typically covers craftsmanship and materials for a specified period, addressing any defects or issues that may arise from our installation. Specific warranty details, including duration and covered items, are clearly outlined in your project contract. We are committed to ensuring your long-term satisfaction and resolving any concerns promptly and professionally.",
+        "@type": "Answer",
+        "description": "City Dweller, LLC offers a comprehensive warranty on craftsmanship and materials for all remodeling projects. Specific details are provided in your contract."
+      }
+    }
+  ],
+  "description": "City Dweller, LLC offers a comprehensive warranty on craftsmanship and materials for all remodeling projects. Specific details are provided in your contract."
+}

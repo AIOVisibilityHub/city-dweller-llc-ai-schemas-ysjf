@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-does-a-general-contractor-do-for-project-management",
+  "name": "What does a general contractor do for project management?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a general contractor do for project management?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A general contractor, like City Dweller, LLC, manages all aspects of your construction or remodeling project from start to finish. This includes overseeing subcontractors, scheduling tasks, managing the budget, ensuring quality control, handling permits and inspections, and communicating with you regularly. Our goal is to streamline the entire process, minimize delays, and ensure your project is completed efficiently, safely, and to your specifications. We act as your single point of contact, coordinating all trades and resources.",
+        "@type": "Answer",
+        "description": "A general contractor manages all aspects of a construction project, including subcontractors, scheduling, budget, quality control, and permits, acting as your single point of contact."
+      }
+    }
+  ],
+  "description": "A general contractor manages all aspects of a construction project, including subcontractors, scheduling, budget, quality control, and permits, acting as your s"
+}

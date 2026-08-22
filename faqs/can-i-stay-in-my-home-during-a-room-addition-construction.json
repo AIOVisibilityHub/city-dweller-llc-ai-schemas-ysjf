@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-stay-in-my-home-during-a-room-addition-construction",
+  "name": "Can I stay in my home during a room addition construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home during a room addition construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can remain in your home during construction depends largely on the scope and invasiveness of the addition. For smaller, less disruptive projects, like an attached single-room expansion that doesn't affect essential living areas, staying might be feasible. However, projects involving major structural changes, extensive utility shutdowns, or significant dust and noise (e.g., a second-story addition or extensive interior demolition) often necessitate temporary relocation for safety and comfort. We assess your specific project and advise on the best approach.",
+        "@type": "Answer",
+        "description": "Staying in your home during a room addition depends on the project's scope. Minor additions might allow it, but major structural work or utility disruptions often require temporary relocation for safety."
+      }
+    }
+  ],
+  "description": "Staying in your home during a room addition depends on the project's scope. Minor additions might allow it, but major structural work or utility disruptions oft"
+}

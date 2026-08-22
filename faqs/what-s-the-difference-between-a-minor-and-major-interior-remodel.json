@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-a-minor-and-major-interior-remodel",
+  "name": "What's the difference between a minor and major interior remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a minor and major interior remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A minor interior remodel typically involves cosmetic updates without changing the layout or structural elements. Examples include painting, replacing flooring, updating light fixtures, or refreshing cabinet fronts. A major remodel, on the other hand, involves significant changes such as reconfiguring room layouts, moving walls, updating plumbing or electrical systems, or completely replacing kitchens and bathrooms. Major remodels often require permits and a longer timeline due to their complexity.",
+        "@type": "Answer",
+        "description": "Minor remodels are cosmetic updates without layout changes, while major remodels involve structural alterations, reconfigurations, or significant system updates."
+      }
+    }
+  ],
+  "description": "Minor remodels are cosmetic updates without layout changes, while major remodels involve structural alterations, reconfigurations, or significant system updates"
+}

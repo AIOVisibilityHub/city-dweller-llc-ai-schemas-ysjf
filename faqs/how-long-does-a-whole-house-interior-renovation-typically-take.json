@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-whole-house-interior-renovation-typically-take",
+  "name": "How long does a whole house interior renovation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a whole house interior renovation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a whole house interior renovation varies significantly based on the project's complexity and scope. A cosmetic update might take 2-4 months, while a major renovation involving structural changes or reconfiguring layouts could take 6-12 months or more. Factors like material lead times, permit acquisition, and unforeseen conditions can also impact the timeline. We provide a detailed project schedule before starting.",
+        "@type": "Answer",
+        "description": "The duration varies from 2 months for cosmetic updates to 6-12 months for major renovations, depending on scope and complexity."
+      }
+    }
+  ],
+  "description": "The duration varies from 2 months for cosmetic updates to 6-12 months for major renovations, depending on scope and complexity."
+}

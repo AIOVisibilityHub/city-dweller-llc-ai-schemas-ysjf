@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-common-issues-might-arise-during-a-single-room-renovation",
+  "name": "What common issues might arise during a single room renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common issues might arise during a single room renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common issues during a renovation include encountering unforeseen structural problems, outdated plumbing or electrical systems not up to current code, or unexpected material delays. Sometimes, homeowners also change their minds about design choices mid-project. A reputable contractor will anticipate many of these challenges, include contingency plans in the budget, and maintain open communication to address issues promptly, minimizing disruptions and additional costs.",
+        "@type": "Answer",
+        "description": "Common issues include unforeseen structural problems, outdated systems, or material delays. A good contractor plans for contingencies and communicates proactively."
+      }
+    }
+  ],
+  "description": "Common issues include unforeseen structural problems, outdated systems, or material delays. A good contractor plans for contingencies and communicates proactive"
+}

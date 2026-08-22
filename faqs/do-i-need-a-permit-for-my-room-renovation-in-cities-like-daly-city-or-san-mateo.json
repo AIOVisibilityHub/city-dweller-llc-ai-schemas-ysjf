@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-permit-for-my-room-renovation-in-cities-like-daly-city-or-san-mateo",
+  "name": "Do I need a permit for my room renovation in cities like Daly City or San Mateo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for my room renovation in cities like Daly City or San Mateo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many room renovations in cities like Daly City, San Mateo, and other Bay Area municipalities require permits. This is typically true for projects involving structural changes, significant plumbing or electrical work, or increasing the conditioned area of your home. Minor cosmetic updates usually do not require permits. We can assess your specific project during our consultation and advise on all necessary permits, handling the application process on your behalf.",
+        "@type": "Answer",
+        "description": "Permits are often needed for structural, plumbing, or electrical renovations. We assess your project and handle permit applications for you."
+      }
+    }
+  ],
+  "description": "Permits are often needed for structural, plumbing, or electrical renovations. We assess your project and handle permit applications for you."
+}

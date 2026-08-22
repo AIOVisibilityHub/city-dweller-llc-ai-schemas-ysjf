@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-if-an-inspection-fails-or-requires-corrections",
+  "name": "What if an inspection fails or requires corrections?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if an inspection fails or requires corrections?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If an inspection fails or requires corrections, City Dweller, LLC will promptly receive the inspector's report detailing the deficiencies. Our team will review the required corrections, explain them to you, and develop a plan to address the issues quickly. We then execute the necessary work to bring the project into compliance and reschedule the re-inspection. Our proactive approach aims to minimize rework and delays by anticipating potential issues, but if they occur, we manage the entire correction process to ensure your project meets all code requirements without significant disruption.",
+        "@type": "Answer",
+        "description": "If an inspection fails, City Dweller, LLC will identify the issues, make the necessary corrections, and reschedule the re-inspection to keep your project compliant and on track."
+      }
+    }
+  ],
+  "description": "If an inspection fails, City Dweller, LLC will identify the issues, make the necessary corrections, and reschedule the re-inspection to keep your project compli"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-timeline-for-a-kitchen-remodeling-project",
+  "name": "What is the typical timeline for a kitchen remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a kitchen remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a kitchen remodel can vary significantly based on the scope and complexity of the project. A minor refresh, like cabinet repainting and new countertops, might take 2-4 weeks. A more extensive renovation involving layout changes, plumbing, and electrical work could range from 6-12 weeks. This includes design, material selection, demolition, and installation. We work to establish a clear schedule upfront, keeping you informed of progress and potential adjustments to ensure a smooth process.",
+        "@type": "Answer",
+        "description": "Kitchen remodels typically take 2-12 weeks depending on scope, from minor refreshes to extensive renovations with layout changes."
+      }
+    }
+  ],
+  "description": "Kitchen remodels typically take 2-12 weeks depending on scope, from minor refreshes to extensive renovations with layout changes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-general-contractors-manage-project-budgets",
+  "name": "How do general contractors manage project budgets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do general contractors manage project budgets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "General contractors manage project budgets by providing a detailed estimate at the outset, tracking all expenses against this estimate, and ensuring costs stay within agreed-upon limits. This includes negotiating with subcontractors and suppliers, monitoring material costs, and proactively addressing potential cost overruns. We provide regular financial updates and transparent communication about spending. Our aim is to deliver your project within the allocated budget while maintaining quality and avoiding unexpected financial surprises.",
+        "@type": "Answer",
+        "description": "General contractors manage budgets by providing detailed estimates, tracking expenses, negotiating with suppliers, and proactively addressing cost overruns, providing transparent financial updates."
+      }
+    }
+  ],
+  "description": "General contractors manage budgets by providing detailed estimates, tracking expenses, negotiating with suppliers, and proactively addressing cost overruns, pro"
+}

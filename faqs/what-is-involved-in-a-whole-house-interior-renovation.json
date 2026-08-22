@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-involved-in-a-whole-house-interior-renovation",
+  "name": "What is involved in a whole house interior renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a whole house interior renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A whole house interior renovation typically involves updating multiple rooms and systems within your home. This can include kitchen and bathroom remodels, flooring replacement, interior painting, reconfiguring layouts, updating electrical and plumbing, and installing new fixtures. The scope depends on your goals, whether it's a cosmetic refresh or a complete overhaul for improved functionality and aesthetic.",
+        "@type": "Answer",
+        "description": "A whole house interior renovation updates multiple rooms and systems like kitchens, bathrooms, flooring, and electrical for improved functionality and aesthetics."
+      }
+    }
+  ],
+  "description": "A whole house interior renovation updates multiple rooms and systems like kitchens, bathrooms, flooring, and electrical for improved functionality and aesthetic"
+}

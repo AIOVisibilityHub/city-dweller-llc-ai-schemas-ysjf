@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-construction-project-managers-handle-unexpected-issues-or-delays",
+  "name": "How do construction project managers handle unexpected issues or delays?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do construction project managers handle unexpected issues or delays?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Effective construction project managers anticipate potential issues and have contingency plans in place. When unexpected problems or delays arise, such as material shortages, unforeseen site conditions, or weather impacts, they act quickly to assess the situation, communicate with all stakeholders, and implement solutions. This might involve adjusting schedules, sourcing alternative materials, or revising work plans, always aiming to minimize impact on the project's timeline and budget.",
+        "@type": "Answer",
+        "description": "Project managers anticipate issues and have contingency plans. They assess problems, communicate with stakeholders, and implement solutions to minimize impact on schedule and budget."
+      }
+    }
+  ],
+  "description": "Project managers anticipate issues and have contingency plans. They assess problems, communicate with stakeholders, and implement solutions to minimize impact o"
+}

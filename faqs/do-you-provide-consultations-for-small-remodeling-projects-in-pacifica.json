@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-you-provide-consultations-for-small-remodeling-projects-in-pacifica",
+  "name": "Do you provide consultations for small remodeling projects in Pacifica?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you provide consultations for small remodeling projects in Pacifica?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, City Dweller, LLC provides consultations for both small and large remodeling projects in Pacifica and other service areas like Daly City, San Bruno, and South San Francisco. We understand that not all renovations are extensive, and even smaller updates require professional guidance and execution. We are happy to discuss your specific needs, whether it's a bathroom refresh, kitchen update, or another home improvement, to ensure your project is successful and meets your expectations.",
+        "@type": "Answer",
+        "description": "Yes, City Dweller, LLC provides consultations for all sizes of remodeling projects in Pacifica and our other service areas."
+      }
+    }
+  ],
+  "description": "Yes, City Dweller, LLC provides consultations for all sizes of remodeling projects in Pacifica and our other service areas."
+}

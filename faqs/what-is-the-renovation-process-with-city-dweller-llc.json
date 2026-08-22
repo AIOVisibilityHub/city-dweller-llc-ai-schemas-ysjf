@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-renovation-process-with-city-dweller-llc",
+  "name": "What is the renovation process with City Dweller, LLC?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the renovation process with City Dweller, LLC?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our renovation process typically begins with an initial consultation to discuss your vision, needs, and budget. Next, we develop a detailed proposal and design plan. Once approved, we handle permit acquisition if needed. Construction then commences, managed by our experienced team, with regular communication. Finally, we conduct a walkthrough to ensure your complete satisfaction before project completion. We aim for a smooth and transparent experience.",
+        "@type": "Answer",
+        "description": "Our process involves consultation, proposal, design, permitting, construction, and a final walkthrough for your satisfaction."
+      }
+    }
+  ],
+  "description": "Our process involves consultation, proposal, design, permitting, construction, and a final walkthrough for your satisfaction."
+}

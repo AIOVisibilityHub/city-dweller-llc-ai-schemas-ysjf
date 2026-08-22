@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-prepare-my-home-for-an-interior-renovation",
+  "name": "How can I prepare my home for an interior renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare my home for an interior renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare your home, clear the work area of furniture, personal items, and valuables. Protect adjacent areas with dust sheets or temporary barriers. Disconnect and move any appliances or fixtures that will be affected. Discuss with your contractor about utility shut-offs, access points, and where debris will be collected. Planning ahead minimizes disruption and ensures a smoother start to the project.",
+        "@type": "Answer",
+        "description": "Prepare by clearing the work area, protecting adjacent spaces, and discussing logistics like utilities and access with your contractor."
+      }
+    }
+  ],
+  "description": "Prepare by clearing the work area, protecting adjacent spaces, and discussing logistics like utilities and access with your contractor."
+}

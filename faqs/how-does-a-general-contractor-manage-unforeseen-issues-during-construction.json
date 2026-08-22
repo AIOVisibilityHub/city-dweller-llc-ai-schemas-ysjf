@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-does-a-general-contractor-manage-unforeseen-issues-during-construction",
+  "name": "How does a general contractor manage unforeseen issues during construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a general contractor manage unforeseen issues during construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "General contractors manage unforeseen issues, such as unexpected structural problems or material delays, by first assessing the impact on the schedule and budget. They then propose solutions, obtain necessary approvals from you, and adjust the project plan accordingly. Effective communication is key; we keep you informed about the issue, the proposed resolution, and any implications. Our experience allows us to anticipate potential problems and react swiftly to keep the project moving forward with minimal disruption, often having contingency plans in place.",
+        "@type": "Answer",
+        "description": "General contractors assess unforeseen issues, propose solutions, obtain approvals, adjust plans, and communicate impacts to keep the project moving forward with minimal disruption."
+      }
+    }
+  ],
+  "description": "General contractors assess unforeseen issues, propose solutions, obtain approvals, adjust plans, and communicate impacts to keep the project moving forward with"
+}

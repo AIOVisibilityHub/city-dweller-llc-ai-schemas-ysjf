@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-home-remodeling-consultation",
+  "name": "What is a home remodeling consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a home remodeling consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A home remodeling consultation is an initial meeting with a general contractor to discuss your renovation ideas, goals, and budget. It's an opportunity to explore possibilities, understand the scope of work, and learn about the contractor's process. During this meeting, the contractor will assess your home, listen to your vision, and offer professional insights regarding design, materials, and potential challenges. This step helps both parties determine if they are a good fit for the project and lays the groundwork for detailed planning.",
+        "@type": "Answer",
+        "description": "A home remodeling consultation is an initial meeting with a contractor to discuss your renovation ideas, goals, and budget, assessing your home and vision."
+      }
+    }
+  ],
+  "description": "A home remodeling consultation is an initial meeting with a contractor to discuss your renovation ideas, goals, and budget, assessing your home and vision."
+}

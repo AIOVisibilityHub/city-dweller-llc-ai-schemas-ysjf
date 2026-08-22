@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-home-additions-are-most-common-in-the-bay-area",
+  "name": "What types of home additions are most common in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of home additions are most common in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the Bay Area, common home additions include adding new bedrooms, bathrooms, or expanding living spaces such as kitchens and family rooms. Many homeowners also consider second-story additions to maximize space on smaller lots, or garage conversions to create auxiliary dwelling units (ADUs), which can provide additional living space or rental income. The best type of addition depends on your property's existing layout, local zoning regulations, and your specific needs, such as accommodating a growing family or increasing property value.",
+        "@type": "Answer",
+        "description": "Common home additions in the Bay Area include new bedrooms, bathrooms, expanded living spaces, second-story additions, and garage conversions for ADUs. The best option depends on your needs, property, and local zoning."
+      }
+    }
+  ],
+  "description": "Common home additions in the Bay Area include new bedrooms, bathrooms, expanded living spaces, second-story additions, and garage conversions for ADUs. The best"
+}

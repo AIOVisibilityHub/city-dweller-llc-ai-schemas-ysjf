@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-engage-a-general-contractor-for-design-coordination",
+  "name": "When should I engage a general contractor for design coordination?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I engage a general contractor for design coordination?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is most beneficial to engage your general contractor early in the design phase, ideally when architectural drawings are still conceptual. This allows the contractor to provide valuable input on constructability, cost implications of design choices, and potential scheduling challenges. Their early involvement can lead to more practical and cost-effective design solutions, identify long-lead items, and establish realistic budget expectations before construction begins.",
+        "@type": "Answer",
+        "description": "Engage your general contractor early in the design phase to benefit from their input on constructability, cost, and scheduling, leading to better design decisions."
+      }
+    }
+  ],
+  "description": "Engage your general contractor early in the design phase to benefit from their input on constructability, cost, and scheduling, leading to better design decisio"
+}

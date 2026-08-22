@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-move-out-of-my-house-during-a-whole-home-remodel",
+  "name": "Do I need to move out of my house during a whole home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to move out of my house during a whole home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it is sometimes possible to live in your home during a whole home remodel, it's often advisable to find temporary accommodation, especially for extensive projects. Living on-site can be disruptive due to noise, dust, lack of essential utilities, and safety concerns. Moving out allows the project to proceed more efficiently and reduces stress for your household. Your contractor can advise on whether staying is feasible based on the specific scope of work and which areas will be affected.",
+        "@type": "Answer",
+        "description": "For extensive whole home remodels, moving out is often recommended due to noise, dust, utility disruptions, and safety. This allows for a more efficient and less stressful renovation process."
+      }
+    }
+  ],
+  "description": "For extensive whole home remodels, moving out is often recommended due to noise, dust, utility disruptions, and safety. This allows for a more efficient and les"
+}

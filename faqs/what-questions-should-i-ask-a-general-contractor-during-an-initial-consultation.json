@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-questions-should-i-ask-a-general-contractor-during-an-initial-consultation",
+  "name": "What questions should I ask a general contractor during an initial consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What questions should I ask a general contractor during an initial consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During an initial consultation, ask about their experience with similar projects, their licensing and insurance details, how they handle project changes, their communication style, and their warranty policy. Inquire about their typical project management process, how they vet subcontractors, and request references from previous clients. It's also important to discuss budget transparency, payment schedules, and their availability to start your project. These questions help you assess their expertise and ensure a good fit for your needs.",
+        "@type": "Answer",
+        "description": "Ask about experience, licensing, insurance, project change handling, communication, warranty, project process, subcontractor vetting, references, budget transparency, and availability."
+      }
+    }
+  ],
+  "description": "Ask about experience, licensing, insurance, project change handling, communication, warranty, project process, subcontractor vetting, references, budget transpa"
+}

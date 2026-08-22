@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-hiring-an-interior-remodeling-contractor",
+  "name": "What is the process for hiring an interior remodeling contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for hiring an interior remodeling contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for hiring an interior remodeling contractor typically involves several steps. First, define your project scope and budget. Next, research and solicit bids from several licensed and insured contractors. Review their portfolios, check references, and verify their licenses. Schedule consultations to discuss your vision, ask questions, and ensure good communication. Finally, compare bids, focusing on detailed proposals, timelines, and payment schedules, then sign a comprehensive contract with your chosen professional. We encourage clients to ask about our experience in your specific neighborhood.",
+        "@type": "Answer",
+        "description": "Hiring a contractor involves defining your project, researching licensed professionals, soliciting bids, checking references, and signing a detailed contract."
+      }
+    }
+  ],
+  "description": "Hiring a contractor involves defining your project, researching licensed professionals, soliciting bids, checking references, and signing a detailed contract."
+}

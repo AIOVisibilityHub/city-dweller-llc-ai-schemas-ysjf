@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-move-out-of-my-home-during-a-multi-room-renovation",
+  "name": "Do I need to move out of my home during a multi-room renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to move out of my home during a multi-room renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need to move out depends on the scale and nature of the renovation. If the project involves major structural changes, extensive utility shutdowns, or multiple essential rooms like the kitchen and all bathrooms are affected simultaneously, it is often advisable for your safety and comfort to temporarily relocate. For less disruptive renovations, it may be possible to live in your home, with careful planning for dust, noise, and access to essential amenities. We will discuss this thoroughly during the planning phase.",
+        "@type": "Answer",
+        "description": "Moving out depends on the renovation's scale; major structural changes or extensive utility shutdowns may require temporary relocation for safety and comfort."
+      }
+    }
+  ],
+  "description": "Moving out depends on the renovation's scale; major structural changes or extensive utility shutdowns may require temporary relocation for safety and comfort."
+}

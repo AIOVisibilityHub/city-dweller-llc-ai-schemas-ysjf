@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-home-renovation-consultation-last",
+  "name": "How long does a typical home renovation consultation last?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical home renovation consultation last?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical initial home renovation consultation with City Dweller, LLC usually lasts between 60 to 90 minutes. This timeframe allows us to thoroughly discuss your project, assess the site, answer your questions, and provide a clear overview of the potential scope and next steps. For more complex projects, or if you have many questions, the meeting might extend slightly. We ensure enough time to cover all critical aspects without rushing.",
+        "@type": "Answer",
+        "description": "An initial home renovation consultation typically lasts 60 to 90 minutes, allowing for thorough discussion, site assessment, and outlining next steps."
+      }
+    }
+  ],
+  "description": "An initial home renovation consultation typically lasts 60 to 90 minutes, allowing for thorough discussion, site assessment, and outlining next steps."
+}

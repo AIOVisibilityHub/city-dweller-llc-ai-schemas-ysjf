@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-permits-do-i-need-for-a-home-addition",
+  "name": "What permits do I need for a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits do I need for a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most home additions require several permits to ensure compliance with local building codes and zoning ordinances. You will typically need a building permit, and depending on the scope, plumbing, electrical, and mechanical permits. If the addition affects property lines or significantly alters the structure, zoning or planning approval might also be necessary. Our team assists with navigating the specific permit requirements for your city within the Bay Area, ensuring all necessary approvals are secured before construction begins.",
+        "@type": "Answer",
+        "description": "Home additions generally require building, plumbing, electrical, and mechanical permits, with potential zoning approvals. Our team helps navigate specific local permit requirements."
+      }
+    }
+  ],
+  "description": "Home additions generally require building, plumbing, electrical, and mechanical permits, with potential zoning approvals. Our team helps navigate specific local"
+}

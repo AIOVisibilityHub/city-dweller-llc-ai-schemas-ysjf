@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-single-room-renovation-project-take-from-start-to-finish",
+  "name": "How long does a typical single room renovation project take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical single room renovation project take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a single room renovation depends on its complexity and the room type. A small bathroom or bedroom renovation might take 3-6 weeks, while a more extensive kitchen renovation, involving custom elements or layout changes, could extend to 8-12 weeks. This timeframe includes design, material selection, demolition, construction, and final finishing. Unexpected issues or material delays can sometimes prolong the schedule.",
+        "@type": "Answer",
+        "description": "A single room renovation generally takes 3-12 weeks, varying by room type and project complexity, with kitchens typically requiring more time."
+      }
+    }
+  ],
+  "description": "A single room renovation generally takes 3-12 weeks, varying by room type and project complexity, with kitchens typically requiring more time."
+}

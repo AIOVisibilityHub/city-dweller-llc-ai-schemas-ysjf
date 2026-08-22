@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-permit-for-interior-home-improvements-like-painting-or-flooring",
+  "name": "Do I need a permit for interior home improvements like painting or flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for interior home improvements like painting or flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor interior home improvements such as painting, replacing flooring, or updating light fixtures typically do not require a permit. However, if your project involves structural changes, altering load-bearing walls, significant plumbing or electrical work, or increasing the conditioned living space, a permit is almost certainly required. It's always best to consult with your general contractor or local building department (e.g., in South San Francisco) to confirm specific requirements for your project to avoid future issues.",
+        "@type": "Answer",
+        "description": "Minor interior updates like painting or flooring usually don't need a permit. Projects involving structural, plumbing, or electrical changes typically do."
+      }
+    }
+  ],
+  "description": "Minor interior updates like painting or flooring usually don't need a permit. Projects involving structural, plumbing, or electrical changes typically do."
+}

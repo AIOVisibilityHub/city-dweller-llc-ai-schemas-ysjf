@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-does-remodel-design-coordination-work-with-my-interior-designer",
+  "name": "How does remodel design coordination work with my interior designer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does remodel design coordination work with my interior designer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our coordination process complements your interior designer's work by integrating their aesthetic vision with the practicalities of construction. We ensure that material specifications, fixture selections, and finish details are compatible with structural plans and building codes. We facilitate communication between your designer and the construction team, resolving any conflicts and ensuring that the design intent is fully realized during the build. This partnership creates a cohesive project.",
+        "@type": "Answer",
+        "description": "We integrate your interior designer's vision with construction realities, ensuring material and fixture selections are compatible with structural plans and building codes."
+      }
+    }
+  ],
+  "description": "We integrate your interior designer's vision with construction realities, ensuring material and fixture selections are compatible with structural plans and buil"
+}

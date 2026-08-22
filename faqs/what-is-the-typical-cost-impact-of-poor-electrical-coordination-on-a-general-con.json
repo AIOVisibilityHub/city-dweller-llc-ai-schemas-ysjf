@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-impact-of-poor-electrical-coordination-on-a-general-con",
+  "name": "What is the typical cost impact of poor electrical coordination on a general construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost impact of poor electrical coordination on a general construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Poor electrical coordination can significantly increase project costs. These include expenses from schedule delays, which can lead to extended labor costs for all trades, liquidated damages, and increased equipment rental periods. Rework due to conflicts (e.g., demolition and reinstallation of wrongly placed conduits) directly adds material and labor expenses. Additionally, uncoordinated changes can lead to change orders, administrative overhead, and potential legal disputes, all contributing to substantial budget overruns. Proactive coordination is a cost-saving measure.",
+        "@type": "Answer",
+        "description": "Poor electrical coordination increases costs through schedule delays, rework expenses, extended labor, and potential change orders or disputes."
+      }
+    }
+  ],
+  "description": "Poor electrical coordination increases costs through schedule delays, rework expenses, extended labor, and potential change orders or disputes."
+}

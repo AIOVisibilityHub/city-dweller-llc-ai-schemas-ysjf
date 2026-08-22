@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-a-general-contractor-and-a-specialized-contractor",
+  "name": "What is the difference between a general contractor and a specialized contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a general contractor and a specialized contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A general contractor, like City Dweller, LLC, oversees the entire renovation project from start to finish. They manage all aspects, including hiring subcontractors (e.g., plumbers, electricians), scheduling, material procurement, and ensuring quality control. A specialized contractor, in contrast, focuses on a single trade, such as roofing, painting, or flooring. For comprehensive home renovations, a general contractor is typically preferred as they streamline communication and coordination across multiple trades, simplifying the process for the homeowner.",
+        "@type": "Answer",
+        "description": "A general contractor manages the entire project and all subcontractors, while a specialized contractor focuses on a single trade."
+      }
+    }
+  ],
+  "description": "A general contractor manages the entire project and all subcontractors, while a specialized contractor focuses on a single trade."
+}

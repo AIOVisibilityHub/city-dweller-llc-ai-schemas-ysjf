@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-happens-after-the-initial-remodeling-consultation",
+  "name": "What happens after the initial remodeling consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after the initial remodeling consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After the initial remodeling consultation, if there's a mutual fit, the contractor will typically prepare a detailed proposal or estimate based on the discussed scope of work. This document will outline the project specifics, estimated costs, and a potential timeline. For larger projects, it might involve further design development or material selections before a final contract is presented. You'll have the opportunity to review this proposal, ask follow-up questions, and request any adjustments before deciding to move forward.",
+        "@type": "Answer",
+        "description": "After the consultation, the contractor typically provides a detailed proposal or estimate outlining project specifics, costs, and timeline for your review."
+      }
+    }
+  ],
+  "description": "After the consultation, the contractor typically provides a detailed proposal or estimate outlining project specifics, costs, and timeline for your review."
+}

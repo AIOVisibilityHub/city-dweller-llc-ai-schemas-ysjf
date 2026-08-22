@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-permit-coordination-support-cost",
+  "name": "How much does permit coordination support cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does permit coordination support cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for permit coordination support depends on the scope and complexity of your project. Factors influencing the fee include the number and type of permits required, the expected duration of the process, and the specific requirements of the local building department. We provide a detailed estimate after reviewing your project plans, ensuring transparency in our services.",
+        "@type": "Answer",
+        "description": "Permit coordination support costs vary by project scope, complexity, and number of permits. We provide estimates after reviewing project plans."
+      }
+    }
+  ],
+  "description": "Permit coordination support costs vary by project scope, complexity, and number of permits. We provide estimates after reviewing project plans."
+}

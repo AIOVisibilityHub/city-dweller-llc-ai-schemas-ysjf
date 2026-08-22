@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-return-on-investment-can-i-expect-from-a-room-remodel",
+  "name": "What kind of return on investment can I expect from a room remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of return on investment can I expect from a room remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The return on investment (ROI) for a room remodel varies widely depending on the type of room, the extent of the remodel, and local market conditions. Kitchen and bathroom remodels often yield higher ROIs due to their significant impact on home value and buyer appeal. While some projects may not fully recoup their cost in resale value, they can greatly enhance your quality of life and enjoyment of your home. We can discuss current market trends and help you make choices that balance personal enjoyment with potential resale benefits.",
+        "@type": "Answer",
+        "description": "ROI varies by room type, remodel scope, and market. Kitchen and bath remodels often offer higher returns, enhancing both value and quality of life."
+      }
+    }
+  ],
+  "description": "ROI varies by room type, remodel scope, and market. Kitchen and bath remodels often offer higher returns, enhancing both value and quality of life."
+}

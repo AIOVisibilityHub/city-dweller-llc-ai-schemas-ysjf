@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-a-full-bathroom-three-quarter-bath-and-half-bath",
+  "name": "What is the difference between a full bathroom, three-quarter bath, and half bath?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a full bathroom, three-quarter bath, and half bath?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A full bathroom typically includes a toilet, sink, and a shower/bathtub combination. A three-quarter bath generally contains a toilet, sink, and a shower, but no bathtub. A half bath, also known as a powder room, usually has only a toilet and a sink. Understanding these distinctions is crucial for planning your addition, as each type has different space requirements, plumbing needs, and cost implications. We can help you determine which type best fits your needs and budget.",
+        "@type": "Answer",
+        "description": "A full bath has a toilet, sink, and shower/tub. A three-quarter bath has a toilet, sink, and shower. A half bath has only a toilet and sink."
+      }
+    }
+  ],
+  "description": "A full bath has a toilet, sink, and shower/tub. A three-quarter bath has a toilet, sink, and shower. A half bath has only a toilet and sink."
+}

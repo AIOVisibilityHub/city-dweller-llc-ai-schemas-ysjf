@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-timeline-for-a-home-remodeling-project",
+  "name": "What is the typical timeline for a home remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a home remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a home remodeling project varies significantly based on its scope and complexity. A small bathroom remodel might take 3-6 weeks, while a kitchen remodel could range from 6-12 weeks. Larger projects like room additions or whole-house renovations can take several months, sometimes 4-6 months or more. This duration includes design, permitting, material procurement, and construction phases. City Dweller, LLC provides a detailed project schedule upfront, keeping you informed every step of the way.",
+        "@type": "Answer",
+        "description": "Project timelines vary; small remodels take weeks, while larger projects can span several months. Factors include scope, permitting, and material availability."
+      }
+    }
+  ],
+  "description": "Project timelines vary; small remodels take weeks, while larger projects can span several months. Factors include scope, permitting, and material availability."
+}

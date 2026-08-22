@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-a-home-remodel-cost-in-the-bay-area",
+  "name": "How much does a home remodel cost in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a home remodel cost in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Home remodel costs in the Bay Area depend on the project's size, materials chosen, and scope of work. Kitchen remodels can range from $25,000 to over $100,000, while bathroom remodels typically fall between $15,000 and $50,000. Room additions or whole-house remodels can be substantially more. These are estimates, and exact costs require a detailed assessment. City Dweller, LLC provides transparent, detailed estimates after an initial consultation to help you budget effectively for your specific project.",
+        "@type": "Answer",
+        "description": "Remodel costs in the Bay Area vary widely by project size, materials, and scope. Kitchens can be $25k-$100k+, bathrooms $15k-$50k. Detailed estimates require a consultation."
+      }
+    }
+  ],
+  "description": "Remodel costs in the Bay Area vary widely by project size, materials, and scope. Kitchens can be $25k-$100k+, bathrooms $15k-$50k. Detailed estimates require a"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-use-my-own-architect-or-designer-with-your-coordination-services",
+  "name": "Can I use my own architect or designer with your coordination services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I use my own architect or designer with your coordination services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we frequently collaborate with external architects and designers. Our design coordination services are designed to integrate seamlessly with your chosen professionals. We act as the central point of contact for the construction phase, ensuring that their designs are understood and implemented correctly by our team and subcontractors. This collaborative approach ensures that your preferred design vision is respected while benefiting from our construction expertise.",
+        "@type": "Answer",
+        "description": "Yes, we collaborate with external architects and designers, integrating their designs seamlessly into our construction coordination process."
+      }
+    }
+  ],
+  "description": "Yes, we collaborate with external architects and designers, integrating their designs seamlessly into our construction coordination process."
+}

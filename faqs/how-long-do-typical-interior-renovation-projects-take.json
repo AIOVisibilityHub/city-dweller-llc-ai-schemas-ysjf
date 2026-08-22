@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-do-typical-interior-renovation-projects-take",
+  "name": "How long do typical interior renovation projects take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do typical interior renovation projects take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an interior renovation project varies significantly based on its scope and complexity. Minor updates, like painting a room or replacing a single fixture, might take a few days. Larger projects, such as a full kitchen remodel or a multi-room renovation, can span several weeks to a few months. Factors like material availability, permit requirements, and unexpected structural issues can also influence the timeline. We provide a detailed project schedule at the outset.",
+        "@type": "Answer",
+        "description": "Project timelines vary; minor updates take days, while full kitchen or multi-room renovations can take weeks to months depending on scope and complexity."
+      }
+    }
+  ],
+  "description": "Project timelines vary; minor updates take days, while full kitchen or multi-room renovations can take weeks to months depending on scope and complexity."
+}

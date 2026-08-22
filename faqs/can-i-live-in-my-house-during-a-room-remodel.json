@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-live-in-my-house-during-a-room-remodel",
+  "name": "Can I live in my house during a room remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my house during a room remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in many cases, you can continue to live in your house during a room remodel, especially if the work is confined to a single area. However, be prepared for noise, dust, and temporary disruptions to utilities or access. For extensive projects involving essential areas like kitchens or bathrooms, you might consider making temporary arrangements for cooking or bathing. Your contractor will work with you to minimize inconvenience and ensure your living space remains as comfortable and safe as possible during construction.",
+        "@type": "Answer",
+        "description": "Living in your home during a remodel is often possible, but expect noise, dust, and temporary disruptions. Discuss arrangements with your contractor."
+      }
+    }
+  ],
+  "description": "Living in your home during a remodel is often possible, but expect noise, dust, and temporary disruptions. Discuss arrangements with your contractor."
+}

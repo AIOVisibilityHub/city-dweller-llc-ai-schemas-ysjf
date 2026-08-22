@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-steps-are-involved-in-an-interior-upgrade-project-with-city-dweller",
+  "name": "What steps are involved in an interior upgrade project with City Dweller?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in an interior upgrade project with City Dweller?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our interior upgrade process typically begins with an initial consultation to discuss your vision, needs, and budget. Following this, we conduct an on-site assessment and develop a detailed proposal outlining the scope of work, timeline, and cost. Once approved, we assist with material selection and handle all necessary permit applications. Construction then commences, managed by our experienced team, with regular communication. The project concludes with a final walkthrough to ensure your complete satisfaction.",
+        "@type": "Answer",
+        "description": "Our process involves consultation, on-site assessment, proposal, material selection, permits, construction, and a final walkthrough to ensure satisfaction."
+      }
+    }
+  ],
+  "description": "Our process involves consultation, on-site assessment, proposal, material selection, permits, construction, and a final walkthrough to ensure satisfaction."
+}

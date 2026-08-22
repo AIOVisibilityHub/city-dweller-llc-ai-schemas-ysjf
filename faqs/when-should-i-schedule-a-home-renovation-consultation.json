@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-schedule-a-home-renovation-consultation",
+  "name": "When should I schedule a home renovation consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I schedule a home renovation consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should schedule a home renovation consultation when you have a clear idea of what you want to achieve with your renovation, even if the details are still evolving. It's beneficial to consult before finalizing plans or making significant purchases. This early engagement allows City Dweller, LLC to provide expert advice on feasibility, potential challenges, and cost-effective solutions, ensuring your project starts on the right track and avoids costly revisions later on.",
+        "@type": "Answer",
+        "description": "Schedule a consultation when you have a clear vision for your renovation, allowing for early expert advice on feasibility and cost-effective solutions."
+      }
+    }
+  ],
+  "description": "Schedule a consultation when you have a clear vision for your renovation, allowing for early expert advice on feasibility and cost-effective solutions."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-finance-a-home-addition",
+  "name": "How do I finance a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I finance a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Home additions can be financed through several options. A common method is a home equity line of credit (HELOC) or a home equity loan, which allow you to borrow against the equity in your home. Cash-out refinances are another option, replacing your current mortgage with a larger one and taking the difference in cash. Some homeowners also use construction loans, specifically designed for renovation projects, or personal loans for smaller additions. It's advisable to consult with a financial advisor to determine the best financing strategy for your specific situation.",
+        "@type": "Answer",
+        "description": "Financing options for home additions include HELOCs, home equity loans, cash-out refinances, construction loans, or personal loans. Consult a financial advisor for the best approach."
+      }
+    }
+  ],
+  "description": "Financing options for home additions include HELOCs, home equity loans, cash-out refinances, construction loans, or personal loans. Consult a financial advisor"
+}

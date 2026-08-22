@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-prepare-my-home-for-a-single-room-renovation-project",
+  "name": "How can I prepare my home for a single room renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare my home for a single room renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preparing your home involves several steps. First, remove all personal items, furniture, and wall decor from the room and nearby areas to prevent damage and allow contractor access. Protect adjacent rooms and pathways with drop cloths or plastic sheeting to minimize dust spread. Ensure clear access for workers and materials, and discuss with your contractor any specific requirements for utilities like water or electricity during the project.",
+        "@type": "Answer",
+        "description": "Prepare your home by removing personal items and furniture, protecting adjacent areas from dust, and ensuring clear access for workers and materials."
+      }
+    }
+  ],
+  "description": "Prepare your home by removing personal items and furniture, protecting adjacent areas from dust, and ensuring clear access for workers and materials."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-do-i-need-inspection-coordination-support-for-my-bay-area-project",
+  "name": "When do I need inspection coordination support for my Bay Area project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need inspection coordination support for my Bay Area project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You typically need inspection coordination support whenever your project requires permits from local authorities, which is common for most construction, renovation, or significant repair work in the Bay Area. This includes structural changes, plumbing or electrical system alterations, and new construction. Engaging this support early ensures that inspections are integrated into the project timeline from the start, avoiding last-minute rushes or compliance issues. City Dweller, LLC advises on specific inspection requirements based on your project's scope and location within our service areas, such as Pacifica, Daly City, or South San Francisco.",
+        "@type": "Answer",
+        "description": "You need inspection coordination support for any project requiring permits, such as structural changes or system alterations, to ensure compliance with local building codes."
+      }
+    }
+  ],
+  "description": "You need inspection coordination support for any project requiring permits, such as structural changes or system alterations, to ensure compliance with local bu"
+}

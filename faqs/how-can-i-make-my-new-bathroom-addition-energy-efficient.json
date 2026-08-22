@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-make-my-new-bathroom-addition-energy-efficient",
+  "name": "How can I make my new bathroom addition energy-efficient?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I make my new bathroom addition energy-efficient?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To enhance energy efficiency in your new bathroom addition, consider incorporating several key features. Opt for low-flow toilets and showerheads to reduce water consumption. Install LED lighting for lower electricity usage and longer lifespan. Choose an energy-efficient exhaust fan that is properly sized for the room. High-quality insulation in walls and ceilings, along with energy-efficient windows, will help maintain temperature and reduce heating or cooling costs. We can guide you in selecting sustainable options that meet your preferences.",
+        "@type": "Answer",
+        "description": "Make your bathroom addition energy-efficient with low-flow fixtures, LED lighting, efficient exhaust fans, and good insulation."
+      }
+    }
+  ],
+  "description": "Make your bathroom addition energy-efficient with low-flow fixtures, LED lighting, efficient exhaust fans, and good insulation."
+}

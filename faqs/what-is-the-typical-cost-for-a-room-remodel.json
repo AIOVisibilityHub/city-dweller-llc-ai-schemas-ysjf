@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-for-a-room-remodel",
+  "name": "What is the typical cost for a room remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for a room remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a room remodel varies significantly based on factors such as the room's size, the scope of work, material selections, and any necessary structural or utility changes. Minor cosmetic updates like painting and flooring will be less expensive than a full renovation involving layout changes, new fixtures, or custom cabinetry. During an initial consultation, we can discuss your vision and provide a more accurate estimate tailored to your project. We focus on transparent pricing and helping you maximize your budget for your specific needs.",
+        "@type": "Answer",
+        "description": "Remodel costs vary widely by room size, scope, materials, and structural changes. We provide estimates after understanding your project details."
+      }
+    }
+  ],
+  "description": "Remodel costs vary widely by room size, scope, materials, and structural changes. We provide estimates after understanding your project details."
+}

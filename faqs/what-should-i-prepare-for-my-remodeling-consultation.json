@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-prepare-for-my-remodeling-consultation",
+  "name": "What should I prepare for my remodeling consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare for my remodeling consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To make the most of your remodeling consultation, prepare a list of your goals, desired features, and any inspiration photos or design ideas you've collected. Having a rough budget range in mind is also helpful. Be ready to discuss your lifestyle, how you use the space, and any specific problems you want to solve with the renovation. If available, have existing architectural plans or property surveys ready, as these can provide valuable context for the contractor.",
+        "@type": "Answer",
+        "description": "Prepare your renovation goals, inspiration photos, a rough budget, and be ready to discuss your lifestyle and any existing architectural plans."
+      }
+    }
+  ],
+  "description": "Prepare your renovation goals, inspiration photos, a rough budget, and be ready to discuss your lifestyle and any existing architectural plans."
+}

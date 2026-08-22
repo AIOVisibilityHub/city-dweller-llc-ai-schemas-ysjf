@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-move-out-during-a-major-interior-renovation",
+  "name": "Should I move out during a major interior renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I move out during a major interior renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether to move out during a major interior renovation depends on the project's scope and your personal comfort with disruption. If the renovation involves significant dust, noise, utility shut-offs (like water or electricity for extended periods), or affects essential living areas like the kitchen or only bathroom, moving out might be advisable. For less intrusive projects, living on-site with temporary accommodations may be feasible.",
+        "@type": "Answer",
+        "description": "Moving out during a major renovation is advisable if it involves significant dust, noise, or utility disruptions to essential living areas."
+      }
+    }
+  ],
+  "description": "Moving out during a major renovation is advisable if it involves significant dust, noise, or utility disruptions to essential living areas."
+}

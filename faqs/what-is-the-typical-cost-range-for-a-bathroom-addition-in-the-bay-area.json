@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-range-for-a-bathroom-addition-in-the-bay-area",
+  "name": "What is the typical cost range for a bathroom addition in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for a bathroom addition in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a bathroom addition in the Bay Area can vary significantly based on factors like size, fixture choices, and the complexity of plumbing and electrical work. A basic addition might start around $30,000 to $50,000, while a high-end, custom luxury bathroom can exceed $100,000. These figures are estimates and depend heavily on material selections, labor rates, and local permit fees. We provide detailed, itemized quotes after an initial consultation to ensure accuracy for your specific project.",
+        "@type": "Answer",
+        "description": "Costs for a bathroom addition in the Bay Area generally range from $30,000 for basic to over $100,000 for luxury, depending on size, fixtures, and complexity."
+      }
+    }
+  ],
+  "description": "Costs for a bathroom addition in the Bay Area generally range from $30,000 for basic to over $100,000 for luxury, depending on size, fixtures, and complexity."
+}

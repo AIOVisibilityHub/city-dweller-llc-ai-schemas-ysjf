@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-permits-can-city-dweller-help-me-obtain",
+  "name": "What types of permits can City Dweller help me obtain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of permits can City Dweller help me obtain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller can assist with a wide range of permits commonly required for residential and commercial construction. This includes building permits, electrical permits, plumbing permits, mechanical permits, zoning permits, demolition permits, and sometimes environmental or historical review permits, depending on the project and location. We handle permits for new construction, additions, remodels, and structural alterations.",
+        "@type": "Answer",
+        "description": "City Dweller helps obtain various permits for residential and commercial construction, including building, electrical, plumbing, mechanical, and zoning permits."
+      }
+    }
+  ],
+  "description": "City Dweller helps obtain various permits for residential and commercial construction, including building, electrical, plumbing, mechanical, and zoning permits."
+}

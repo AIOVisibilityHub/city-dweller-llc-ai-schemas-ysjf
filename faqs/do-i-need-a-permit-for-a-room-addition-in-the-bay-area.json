@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-permit-for-a-room-addition-in-the-bay-area",
+  "name": "Do I need a permit for a room addition in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for a room addition in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a building permit is almost always required for any room addition project in the Bay Area, including cities like Pacifica, Daly City, and San Bruno. Permits ensure that your addition meets local building codes, zoning regulations, and safety standards. Attempting to build without proper permits can lead to fines, forced demolition, and difficulties selling your home in the future. City Dweller, LLC assists with preparing and submitting all necessary permit applications.",
+        "@type": "Answer",
+        "description": "Yes, permits are almost always required for room additions in the Bay Area to ensure compliance with local building codes. We assist with the permit process."
+      }
+    }
+  ],
+  "description": "Yes, permits are almost always required for room additions in the Bay Area to ensure compliance with local building codes. We assist with the permit process."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-general-contractor-after-a-consultation",
+  "name": "How do I choose the right general contractor after a consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right general contractor after a consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right general contractor involves comparing several factors beyond just the price quote. Consider their experience with projects similar to yours, their communication style, and the clarity of their proposal. Check their references and verify their licensing and insurance. Trust your gut feeling about their professionalism and whether you feel comfortable with them managing your home. A contractor who listens to your needs, offers practical solutions, and clearly outlines their process is often a good choice.",
+        "@type": "Answer",
+        "description": "Choose a contractor by evaluating their experience, communication, proposal clarity, references, licensing, insurance, and overall professionalism and trustworthiness."
+      }
+    }
+  ],
+  "description": "Choose a contractor by evaluating their experience, communication, proposal clarity, references, licensing, insurance, and overall professionalism and trustwort"
+}

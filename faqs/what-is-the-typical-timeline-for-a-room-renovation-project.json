@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-timeline-for-a-room-renovation-project",
+  "name": "What is the typical timeline for a room renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a room renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a room renovation varies significantly based on the scope and complexity. A small cosmetic update, like painting and new flooring, might take 2-4 weeks. A more extensive renovation involving structural changes, plumbing, or electrical work could take 6-12 weeks or longer. Factors like material availability, permit approvals, and unforeseen issues can also impact the schedule. We provide a detailed project timeline during the planning phase.",
+        "@type": "Answer",
+        "description": "Renovation timelines vary by scope; small projects take weeks, extensive ones months. We provide a detailed project timeline upfront."
+      }
+    }
+  ],
+  "description": "Renovation timelines vary by scope; small projects take weeks, extensive ones months. We provide a detailed project timeline upfront."
+}

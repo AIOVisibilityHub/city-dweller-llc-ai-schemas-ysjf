@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-prepare-for-my-renovation-consultation",
+  "name": "What should I prepare for my renovation consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare for my renovation consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To make the most of your renovation consultation, prepare a list of your goals, desired features, and any inspiration photos or Pinterest boards you've collected. Having a rough idea of your budget and timeline is also helpful. City Dweller, LLC appreciates clients who come prepared, as it helps us understand your vision quickly and provide more relevant feedback and suggestions tailored to your specific project needs and preferences.",
+        "@type": "Answer",
+        "description": "Prepare a list of your goals, desired features, inspiration photos, and a rough idea of your budget and timeline to maximize your consultation."
+      }
+    }
+  ],
+  "description": "Prepare a list of your goals, desired features, inspiration photos, and a rough idea of your budget and timeline to maximize your consultation."
+}

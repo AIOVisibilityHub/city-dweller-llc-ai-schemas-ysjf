@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-consider-when-planning-a-kitchen-renovation",
+  "name": "What should I consider when planning a kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when planning a kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When planning a kitchen renovation, consider functionality, storage, and workflow. Think about your daily routines and how the new layout can improve efficiency. Key elements include cabinet style and materials, countertop choices, appliance selection, lighting design, and flooring. Budget allocation for each component is crucial. Also, consider the long-term value and how the renovation integrates with the rest of your home's aesthetic.",
+        "@type": "Answer",
+        "description": "Plan a kitchen renovation by considering functionality, storage, workflow, and aesthetic integration. Focus on cabinets, countertops, appliances, and lighting."
+      }
+    }
+  ],
+  "description": "Plan a kitchen renovation by considering functionality, storage, workflow, and aesthetic integration. Focus on cabinets, countertops, appliances, and lighting."
+}

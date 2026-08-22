@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-a-kitchen-addition-typically-cost-in-the-bay-area",
+  "name": "How much does a kitchen addition typically cost in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a kitchen addition typically cost in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a kitchen addition in the Bay Area varies widely based on size, complexity, materials, and finishes chosen. Factors such as foundation work, utility relocation, structural changes, and high-end appliances can significantly impact the budget. While a small bump-out might start at $50,000, a complete new kitchen extension could range from $100,000 to over $300,000. It's crucial to get a detailed estimate from a general contractor after an on-site evaluation to understand the specific costs for your project.",
+        "@type": "Answer",
+        "description": "Kitchen addition costs in the Bay Area vary greatly, typically ranging from $50,000 for a small bump-out to over $300,000 for a large extension, depending on scope and materials."
+      }
+    }
+  ],
+  "description": "Kitchen addition costs in the Bay Area vary greatly, typically ranging from $50,000 for a small bump-out to over $300,000 for a large extension, depending on sc"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-does-city-dweller-llc-handle-inspection-scheduling",
+  "name": "How does City Dweller, LLC handle inspection scheduling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does City Dweller, LLC handle inspection scheduling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC takes responsibility for scheduling all necessary inspections with the relevant local building departments. Once a permit is issued and construction milestones are reached, our team coordinates directly with city inspectors to find suitable dates and times. We proactively communicate with you about upcoming inspections and prepare the site accordingly. Our process minimizes your involvement in scheduling logistics, allowing you to focus on other aspects of your project while ensuring all inspections are performed in a timely manner. We manage the entire schedule from foundation to final inspection.",
+        "@type": "Answer",
+        "description": "City Dweller, LLC handles all inspection scheduling with local building departments, communicating with you and preparing the site to ensure timely completion."
+      }
+    }
+  ],
+  "description": "City Dweller, LLC handles all inspection scheduling with local building departments, communicating with you and preparing the site to ensure timely completion."
+}

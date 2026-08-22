@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-hire-a-general-contractor-for-my-bay-area-project",
+  "name": "When should I hire a general contractor for my Bay Area project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I hire a general contractor for my Bay Area project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should hire a general contractor as soon as your project design is finalized and you're ready to begin construction. Engaging a contractor early allows for their expertise to be incorporated into the planning and budgeting stages, potentially identifying efficiencies or cost savings. For projects in the Bay Area, especially those requiring multiple trades or permits, a general contractor ensures compliance with local regulations and smooth execution, handling the complexities of construction on your behalf.",
+        "@type": "Answer",
+        "description": "Hire a general contractor as soon as your project design is finalized to benefit from their expertise in planning, budgeting, and executing complex construction, especially in the Bay Area."
+      }
+    }
+  ],
+  "description": "Hire a general contractor as soon as your project design is finalized to benefit from their expertise in planning, budgeting, and executing complex construction"
+}

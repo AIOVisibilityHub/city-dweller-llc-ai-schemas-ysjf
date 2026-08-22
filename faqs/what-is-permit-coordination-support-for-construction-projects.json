@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-permit-coordination-support-for-construction-projects",
+  "name": "What is permit coordination support for construction projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is permit coordination support for construction projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit coordination support involves managing the entire permitting process for your construction project. This includes identifying necessary permits, preparing applications, liaising with local building departments, tracking approval progress, and addressing any requests for additional information. The goal is to streamline the process, reduce delays, and ensure your project complies with all local regulations before construction begins.",
+        "@type": "Answer",
+        "description": "Permit coordination support manages the entire permitting process for construction projects, ensuring compliance and reducing delays."
+      }
+    }
+  ],
+  "description": "Permit coordination support manages the entire permitting process for construction projects, ensuring compliance and reducing delays."
+}

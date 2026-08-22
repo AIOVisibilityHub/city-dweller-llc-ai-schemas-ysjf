@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-permits-for-my-home-remodeling-project",
+  "name": "Do I need permits for my home remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for my home remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most significant home remodeling projects, especially those involving structural changes, plumbing, electrical work, or expanding the footprint of your home, require permits. This ensures that the work complies with local building codes and safety standards. Even some smaller projects may require permits depending on your city's regulations. City Dweller, LLC handles all necessary permit applications and inspections for projects in the Bay Area, including Pacifica, Daly City, and San Bruno, ensuring your remodel meets all legal requirements.",
+        "@type": "Answer",
+        "description": "Yes, most significant remodeling projects require permits for structural, plumbing, or electrical work to ensure compliance with local building codes. We manage the permitting process."
+      }
+    }
+  ],
+  "description": "Yes, most significant remodeling projects require permits for structural, plumbing, or electrical work to ensure compliance with local building codes. We manage"
+}

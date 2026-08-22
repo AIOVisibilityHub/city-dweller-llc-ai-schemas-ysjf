@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-between-a-bump-out-addition-and-a-full-size-room-addition",
+  "name": "How do I choose between a bump-out addition and a full-size room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose between a bump-out addition and a full-size room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing between a bump-out and a full-size room addition depends on your needs and budget. A bump-out is a smaller extension, often cantilevered, that typically expands an existing room minimally (e.g., for a breakfast nook or enlarged bathroom). It's generally less expensive and quicker to build. A full-size addition creates an entirely new room or significantly expands an existing one, offering more space and flexibility but involving greater cost and complexity. Consider your space requirements, desired functionality, and investment goals when making this decision.",
+        "@type": "Answer",
+        "description": "A bump-out is a small, typically cantilevered extension, while a full-size addition creates a new room. Choose based on space needs, budget, and desired functionality."
+      }
+    }
+  ],
+  "description": "A bump-out is a small, typically cantilevered extension, while a full-size addition creates a new room. Choose based on space needs, budget, and desired functio"
+}

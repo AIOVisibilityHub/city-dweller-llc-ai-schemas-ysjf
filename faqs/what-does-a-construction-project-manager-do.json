@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-does-a-construction-project-manager-do",
+  "name": "What does a construction project manager do?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a construction project manager do?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A construction project manager oversees all aspects of a building project from start to finish. This includes planning, scheduling, budgeting, risk management, and quality control. They act as the main point of contact, coordinating architects, engineers, subcontractors, and suppliers to ensure the project stays on track, within budget, and meets all specifications and safety standards. Their goal is to deliver a successful project that satisfies the client's vision.",
+        "@type": "Answer",
+        "description": "A construction project manager plans, schedules, budgets, and oversees all aspects of a building project, coordinating teams to ensure successful completion."
+      }
+    }
+  ],
+  "description": "A construction project manager plans, schedules, budgets, and oversees all aspects of a building project, coordinating teams to ensure successful completion."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-city-dweller-assist-with-permit-revisions-or-corrections",
+  "name": "Can City Dweller assist with permit revisions or corrections?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can City Dweller assist with permit revisions or corrections?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, City Dweller actively assists with permit revisions and addressing any corrections requested by the building department. It's common for initial submissions to require adjustments. Our team works with you and the city to efficiently resolve any issues, make necessary plan changes, and resubmit documentation to keep your project moving forward without unnecessary setbacks.",
+        "@type": "Answer",
+        "description": "Yes, City Dweller assists with permit revisions and corrections requested by building departments to keep projects moving."
+      }
+    }
+  ],
+  "description": "Yes, City Dweller assists with permit revisions and corrections requested by building departments to keep projects moving."
+}

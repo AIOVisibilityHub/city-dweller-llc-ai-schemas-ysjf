@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-planning-a-room-addition",
+  "name": "What is the typical process for planning a room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for planning a room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The planning process for a room addition typically begins with an initial consultation to discuss your vision and needs. This is followed by site assessment and feasibility studies, then architectural design and drafting of plans. Once designs are finalized, we assist with preparing and submitting permits to local building departments, like those in Pacifica or San Bruno. After permits are secured, the construction phase begins. We maintain open communication throughout to ensure your project stays on track and meets your expectations.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design, permit acquisition, and construction. We guide you through each step."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design, permit acquisition, and construction. We guide you through each step."
+}

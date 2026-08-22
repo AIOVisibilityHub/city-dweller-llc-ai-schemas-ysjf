@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-complete-a-room-addition-project",
+  "name": "How long does it take to complete a room addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete a room addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a room addition project varies greatly depending on its size, complexity, and local permitting requirements. Small additions might take 3-6 months from design to completion, while larger, more complex projects could extend to 9-12 months or longer. A significant portion of this time is often dedicated to securing necessary permits from city planning departments in areas like Daly City or South San Francisco. We provide a detailed project schedule after the design phase is complete.",
+        "@type": "Answer",
+        "description": "Project timelines vary by size and complexity, typically ranging from 3-12 months. Permit acquisition is a key factor."
+      }
+    }
+  ],
+  "description": "Project timelines vary by size and complexity, typically ranging from 3-12 months. Permit acquisition is a key factor."
+}

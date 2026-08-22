@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-schedule-a-home-remodeling-consultation",
+  "name": "When should I schedule a home remodeling consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I schedule a home remodeling consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should schedule a home remodeling consultation once you have a general idea of the type of renovation you want and a preliminary budget in mind. It's beneficial to consult early in your planning process, even before finalizing designs or selecting materials. This allows the contractor to provide valuable input on feasibility, cost-effectiveness, and potential structural considerations. Early engagement can help you refine your vision and avoid costly changes later in the project timeline.",
+        "@type": "Answer",
+        "description": "Schedule a consultation once you have a general renovation idea and preliminary budget, ideally early in your planning process for contractor input."
+      }
+    }
+  ],
+  "description": "Schedule a consultation once you have a general renovation idea and preliminary budget, ideally early in your planning process for contractor input."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-permit-for-minor-repairs-or-cosmetic-changes",
+  "name": "Do I need a permit for minor repairs or cosmetic changes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for minor repairs or cosmetic changes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, minor repairs or cosmetic changes that do not affect the structure, safety systems, or occupancy of your property do not require permits. Examples include repainting, replacing flooring, or updating light fixtures without rewiring. However, if a 'minor repair' involves altering load-bearing walls or significant electrical/plumbing work, a permit will likely be necessary. It's always best to consult with a professional.",
+        "@type": "Answer",
+        "description": "Minor cosmetic changes like repainting or replacing flooring typically don't need permits. Projects altering structure or safety systems do."
+      }
+    }
+  ],
+  "description": "Minor cosmetic changes like repainting or replacing flooring typically don't need permits. Projects altering structure or safety systems do."
+}

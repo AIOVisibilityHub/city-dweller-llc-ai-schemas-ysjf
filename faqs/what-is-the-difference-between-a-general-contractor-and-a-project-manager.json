@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-a-general-contractor-and-a-project-manager",
+  "name": "What is the difference between a general contractor and a project manager?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a general contractor and a project manager?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While both roles involve oversight, a general contractor like City Dweller, LLC is a licensed entity responsible for the entire construction process, including hiring and managing all subcontractors, procuring materials, and ensuring the physical build. A project manager, especially in larger corporate settings, might focus solely on planning, coordination, and communication without direct responsibility for the physical construction or holding the construction license. For most residential and commercial building projects, a general contractor fulfills both the project management and execution roles.",
+        "@type": "Answer",
+        "description": "A general contractor is a licensed entity responsible for the entire physical construction and managing all aspects, whereas a project manager may only focus on planning and coordination without direct build responsibility."
+      }
+    }
+  ],
+  "description": "A general contractor is a licensed entity responsible for the entire physical construction and managing all aspects, whereas a project manager may only focus on"
+}

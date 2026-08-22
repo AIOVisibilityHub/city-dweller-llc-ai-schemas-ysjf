@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-a-contractor-consultation-and-an-architect-consult",
+  "name": "What's the difference between a contractor consultation and an architect consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a contractor consultation and an architect consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An architect consultation typically focuses on design, aesthetic vision, and detailed technical drawings, often for larger, more complex projects or custom homes. A general contractor consultation, like those offered by City Dweller, LLC, focuses on the buildability, practical execution, budget, timeline, and overall project management. While architects design, contractors bring those designs to life. For many renovations, especially remodels and additions, a contractor consultation is the essential first step to understand practical implications.",
+        "@type": "Answer",
+        "description": "An architect consultation focuses on design and technical drawings, while a general contractor consultation focuses on buildability, budget, timeline, and project management."
+      }
+    }
+  ],
+  "description": "An architect consultation focuses on design and technical drawings, while a general contractor consultation focuses on buildability, budget, timeline, and proje"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-contractor-for-my-room-renovation",
+  "name": "How do I choose the right contractor for my room renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my room renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for your room renovation, look for experience, strong communication, and transparent pricing. Check their licensing, insurance, and references. Review their portfolio to ensure their style aligns with your vision. It's advisable to get multiple bids, but don't base your decision solely on price; consider the contractor's reputation, project management skills, and warranty offerings. We encourage you to ask detailed questions about our process and past projects.",
+        "@type": "Answer",
+        "description": "Choose a contractor based on experience, communication, transparency, licensing, insurance, and references. Consider their portfolio and project management skills."
+      }
+    }
+  ],
+  "description": "Choose a contractor based on experience, communication, transparency, licensing, insurance, and references. Consider their portfolio and project management skil"
+}

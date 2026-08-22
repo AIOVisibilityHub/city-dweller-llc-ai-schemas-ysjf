@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-the-permit-coordination-process-usually-take-in-the-bay-area",
+  "name": "How long does the permit coordination process usually take in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the permit coordination process usually take in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of the permit coordination process varies significantly based on the project's complexity and the specific jurisdiction within the Bay Area (e.g., Daly City vs. Palo Alto). Simple projects might take a few weeks, while complex commercial builds or large residential additions could span several months. Factors like completeness of initial submissions, responsiveness to corrections, and the city's current workload all influence timelines.",
+        "@type": "Answer",
+        "description": "Permit coordination in the Bay Area varies from weeks for simple projects to several months for complex ones, depending on project scope and jurisdiction."
+      }
+    }
+  ],
+  "description": "Permit coordination in the Bay Area varies from weeks for simple projects to several months for complex ones, depending on project scope and jurisdiction."
+}

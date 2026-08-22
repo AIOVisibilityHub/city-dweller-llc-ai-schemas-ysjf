@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-city-dweller-help-with-interior-design-and-material-selection",
+  "name": "Can City Dweller help with interior design and material selection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can City Dweller help with interior design and material selection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, City Dweller offers comprehensive support for interior upgrade projects, including assistance with design and material selection. We collaborate with clients to understand their vision, functional needs, and budget, providing guidance on everything from flooring, cabinetry, countertops, and paint colors to lighting fixtures and finishes. Our goal is to ensure that the final design is cohesive, functional, and reflects your personal style while adhering to quality and budget considerations.",
+        "@type": "Answer",
+        "description": "Yes, City Dweller assists with interior design and material selection, guiding clients on choices for flooring, cabinetry, colors, and fixtures to match their vision and budget."
+      }
+    }
+  ],
+  "description": "Yes, City Dweller assists with interior design and material selection, guiding clients on choices for flooring, cabinetry, colors, and fixtures to match their v"
+}

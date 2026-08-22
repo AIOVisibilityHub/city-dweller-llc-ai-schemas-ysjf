@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-information-do-i-need-to-provide-for-effective-inspection-coordination",
+  "name": "What information do I need to provide for effective inspection coordination?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to provide for effective inspection coordination?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To ensure effective inspection coordination, you should provide City Dweller, LLC with your approved architectural and engineering plans, permit documents, and any specific requirements or conditions outlined by the local building department for your project. Communicating your overall project timeline and any preferred scheduling windows also helps us integrate inspections seamlessly. Providing accurate and complete initial information allows our team to proactively plan and manage all inspection-related activities, ensuring compliance and efficiency throughout the construction process without unnecessary delays.",
+        "@type": "Answer",
+        "description": "Provide approved plans, permit documents, and project timelines to City Dweller, LLC for effective inspection coordination."
+      }
+    }
+  ],
+  "description": "Provide approved plans, permit documents, and project timelines to City Dweller, LLC for effective inspection coordination."
+}

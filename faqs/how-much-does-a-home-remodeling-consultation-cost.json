@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-a-home-remodeling-consultation-cost",
+  "name": "How much does a home remodeling consultation cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a home remodeling consultation cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a home remodeling consultation can vary. Many reputable general contractors, including City Dweller, LLC, offer initial consultations at no charge. This complimentary first meeting allows both parties to assess the project's scope and compatibility without obligation. For more extensive preliminary design work or detailed feasibility studies required upfront, some contractors may charge a fee, which is typically discussed and agreed upon beforehand. Always confirm the consultation fee policy when scheduling.",
+        "@type": "Answer",
+        "description": "Many initial home remodeling consultations are free of charge, including those offered by City Dweller, LLC. Some detailed preliminary work may incur a fee."
+      }
+    }
+  ],
+  "description": "Many initial home remodeling consultations are free of charge, including those offered by City Dweller, LLC. Some detailed preliminary work may incur a fee."
+}

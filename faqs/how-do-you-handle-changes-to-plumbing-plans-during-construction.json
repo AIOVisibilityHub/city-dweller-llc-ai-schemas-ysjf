@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-you-handle-changes-to-plumbing-plans-during-construction",
+  "name": "How do you handle changes to plumbing plans during construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you handle changes to plumbing plans during construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When changes to plumbing plans occur during construction, City Dweller, LLC implements a structured change order process. First, we assess the impact of the change on the plumbing system and other affected trades. We then communicate immediately with the client, architect, and all relevant sub-trades to discuss the proposed adjustments, potential implications, and revised timelines or costs. Once approved, the changes are documented, and our project managers ensure the plumbing sub-trade executes the revised plans efficiently and safely, minimizing disruption.",
+        "@type": "Answer",
+        "description": "We manage changes by assessing impact, communicating with all parties, documenting approved adjustments, and ensuring efficient execution of revised plans."
+      }
+    }
+  ],
+  "description": "We manage changes by assessing impact, communicating with all parties, documenting approved adjustments, and ensuring efficient execution of revised plans."
+}

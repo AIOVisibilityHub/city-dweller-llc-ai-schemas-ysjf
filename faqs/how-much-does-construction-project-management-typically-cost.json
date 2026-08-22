@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-construction-project-management-typically-cost",
+  "name": "How much does construction project management typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does construction project management typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of construction project management varies based on the project's size, complexity, duration, and the scope of services required. Some project managers charge a flat fee, while others charge a percentage of the total project cost, typically ranging from 10% to 20%. Hourly rates are also common for smaller or specialized tasks. It's best to get a detailed proposal after an initial consultation to understand the specific costs for your project.",
+        "@type": "Answer",
+        "description": "Construction project management costs vary by project size and complexity. Charges can be a flat fee, a percentage of the total cost (10-20%), or an hourly rate."
+      }
+    }
+  ],
+  "description": "Construction project management costs vary by project size and complexity. Charges can be a flat fee, a percentage of the total cost (10-20%), or an hourly rate"
+}

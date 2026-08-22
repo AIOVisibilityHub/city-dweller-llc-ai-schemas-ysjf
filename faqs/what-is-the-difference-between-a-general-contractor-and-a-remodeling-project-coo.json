@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-a-general-contractor-and-a-remodeling-project-coo",
+  "name": "What is the difference between a general contractor and a remodeling project coordinator?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a general contractor and a remodeling project coordinator?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While both manage projects, a general contractor typically oversees all aspects of construction, including hiring subcontractors, managing labor, purchasing materials, and ensuring the build quality. A remodeling project coordinator, especially if hired separately from the builder, might focus more on the client's interests, overseeing the general contractor, managing overall timelines and budgets, and ensuring the project aligns with the client's vision. City Dweller, LLC operates as a general contractor providing comprehensive project coordination.",
+        "@type": "Answer",
+        "description": "A general contractor directly builds and manages all trades, while a remodeling project coordinator may focus on client advocacy, overseeing the contractor and overall project goals."
+      }
+    }
+  ],
+  "description": "A general contractor directly builds and manages all trades, while a remodeling project coordinator may focus on client advocacy, overseeing the contractor and"
+}

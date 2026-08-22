@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-a-home-renovation-project-with-a-contractor",
+  "name": "What is the typical process for a home renovation project with a contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a home renovation project with a contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard home renovation process typically begins with an initial consultation to discuss your vision and project goals. This is followed by a site visit, where the contractor assesses the space and gathers necessary details. Next, a detailed proposal outlining the scope of work, timeline, and cost estimate is presented. Upon agreement, permits are secured, and construction commences. Throughout the project, there is ongoing communication, regular progress updates, and quality checks. The process concludes with a final walkthrough, addressing any remaining items, and project completion.",
+        "@type": "Answer",
+        "description": "The process generally involves consultation, site assessment, proposal, permitting, construction, communication, and a final walkthrough."
+      }
+    }
+  ],
+  "description": "The process generally involves consultation, site assessment, proposal, permitting, construction, communication, and a final walkthrough."
+}

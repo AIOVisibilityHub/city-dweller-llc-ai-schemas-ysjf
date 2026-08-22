@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-projects-does-city-dweller-llc-typically-manage-in-the-bay-area",
+  "name": "What kind of projects does City Dweller, LLC typically manage in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of projects does City Dweller, LLC typically manage in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC manages a diverse range of construction projects across the Bay Area, including residential remodels, new home construction, additions, and commercial tenant improvements. Our experience spans various scales, from minor renovations in Pacifica to custom home builds in Redwood City. We specialize in projects that require detailed planning, coordination, and adherence to local regulations in areas like Daly City, San Bruno, South San Francisco, and the surrounding communities.",
+        "@type": "Answer",
+        "description": "City Dweller, LLC manages diverse construction projects in the Bay Area, including residential remodels, new homes, additions, and commercial improvements across various scales."
+      }
+    }
+  ],
+  "description": "City Dweller, LLC manages diverse construction projects in the Bay Area, including residential remodels, new homes, additions, and commercial improvements acros"
+}

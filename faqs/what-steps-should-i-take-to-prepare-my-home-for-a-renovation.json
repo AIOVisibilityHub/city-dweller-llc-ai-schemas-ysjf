@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-steps-should-i-take-to-prepare-my-home-for-a-renovation",
+  "name": "What steps should I take to prepare my home for a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps should I take to prepare my home for a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preparing your home for a renovation involves several steps to protect your belongings and facilitate the work. Clear out the renovation area, removing furniture, decor, and anything susceptible to dust or damage. Cover remaining items with tarps or plastic sheeting. Secure valuables and fragile items. Ensure clear access for workers and materials. If pets are present, arrange for their safety and minimize their exposure to the construction zone. We provide specific guidance before starting your project.",
+        "@type": "Answer",
+        "description": "Prepare your home by clearing the renovation area, covering belongings, securing valuables, ensuring access for workers, and arranging for pet safety."
+      }
+    }
+  ],
+  "description": "Prepare your home by clearing the renovation area, covering belongings, securing valuables, ensuring access for workers, and arranging for pet safety."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-whole-home-remodel-and-how-does-it-differ-from-a-renovation",
+  "name": "What is a 'whole home remodel' and how does it differ from a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a 'whole home remodel' and how does it differ from a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A whole home remodel involves significant changes to multiple areas of your house, often including structural modifications, reconfiguring layouts, and updating major systems like plumbing or electrical. It aims to transform the entire living space, enhancing functionality, aesthetics, and overall value. In contrast, a renovation typically focuses on cosmetic updates or repairs to specific rooms without major structural alterations. A remodel offers a more comprehensive transformation, often leading to a completely refreshed living experience.",
+        "@type": "Answer",
+        "description": "A whole home remodel involves significant structural and systemic changes across multiple areas of your house, transforming its entire living space. A renovation usually focuses on cosmetic updates to specific rooms."
+      }
+    }
+  ],
+  "description": "A whole home remodel involves significant structural and systemic changes across multiple areas of your house, transforming its entire living space. A renovatio"
+}

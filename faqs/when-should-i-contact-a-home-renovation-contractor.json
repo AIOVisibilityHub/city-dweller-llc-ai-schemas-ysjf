@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-contact-a-home-renovation-contractor",
+  "name": "When should I contact a home renovation contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I contact a home renovation contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It's best to contact a home renovation contractor early in your planning process, ideally once you have a general idea of your renovation goals and budget. Engaging a contractor early allows them to provide valuable input on design feasibility, material selections, and cost estimations. Their expertise can help refine your vision, identify potential challenges, and ensure a more realistic and efficient project plan before significant design work or material purchases are made.",
+        "@type": "Answer",
+        "description": "Contact a contractor early in your planning, once you have general goals and a budget, for their expert input on design and feasibility."
+      }
+    }
+  ],
+  "description": "Contact a contractor early in your planning, once you have general goals and a budget, for their expert input on design and feasibility."
+}

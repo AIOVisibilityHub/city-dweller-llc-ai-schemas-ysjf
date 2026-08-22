@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-does-a-multi-room-interior-renovation-typically-involve",
+  "name": "What does a multi-room interior renovation typically involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a multi-room interior renovation typically involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A multi-room interior renovation involves updating or redesigning multiple spaces within your home simultaneously. This can range from cosmetic changes like painting and new flooring in several rooms to more extensive structural modifications, reconfiguring layouts, updating plumbing and electrical systems, and installing new fixtures across various areas such as kitchens, bathrooms, living rooms, and bedrooms. The scope is highly customizable based on your goals, budget, and the current condition of your home.",
+        "@type": "Answer",
+        "description": "It involves simultaneously updating or redesigning multiple rooms, from cosmetic changes to structural modifications and system upgrades."
+      }
+    }
+  ],
+  "description": "It involves simultaneously updating or redesigning multiple rooms, from cosmetic changes to structural modifications and system upgrades."
+}

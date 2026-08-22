@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-estimated-cost-per-square-foot-for-a-home-addition-in-the-bay-area",
+  "name": "What is the estimated cost per square foot for a home addition in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the estimated cost per square foot for a home addition in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost per square foot for a home addition in the Bay Area can range widely, typically from $300 to $600+, depending on several factors. These include the quality of finishes, complexity of design (e.g., plumbing and electrical work for kitchens/bathrooms), site access, and current material and labor costs. Foundations, roofing, and structural requirements also play a significant role. It's important to obtain detailed bids, as a square foot estimate is a preliminary guide and doesn't account for all project specifics or potential unforeseen conditions.",
+        "@type": "Answer",
+        "description": "Estimated costs per square foot for a Bay Area home addition typically range from $300 to $600+, varying with finishes, design complexity, and site conditions. Detailed bids are essential for accurate pricing."
+      }
+    }
+  ],
+  "description": "Estimated costs per square foot for a Bay Area home addition typically range from $300 to $600+, varying with finishes, design complexity, and site conditions."
+}

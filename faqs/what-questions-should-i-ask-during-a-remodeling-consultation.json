@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-questions-should-i-ask-during-a-remodeling-consultation",
+  "name": "What questions should I ask during a remodeling consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What questions should I ask during a remodeling consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a remodeling consultation, ask about the contractor's experience with similar projects, their licensing and insurance, and their typical project timeline. Inquire about their communication process, how they handle changes, and what steps they take to stay within budget. It's also important to ask for references and understand their warranty policy. Discussing these points helps you evaluate their professionalism, reliability, and suitability for your specific home renovation needs.",
+        "@type": "Answer",
+        "description": "Ask about the contractor's experience, licensing, insurance, typical timeline, communication, change order process, budget management, references, and warranty."
+      }
+    }
+  ],
+  "description": "Ask about the contractor's experience, licensing, insurance, typical timeline, communication, change order process, budget management, references, and warranty."
+}

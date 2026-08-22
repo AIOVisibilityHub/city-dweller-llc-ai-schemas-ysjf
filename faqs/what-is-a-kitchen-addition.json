@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-kitchen-addition",
+  "name": "What is a kitchen addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a kitchen addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen addition expands your existing home's footprint to create a larger or entirely new kitchen space. This typically involves extending an exterior wall, adding a new foundation, roofing, and connecting utilities. It allows for significant changes to layout, increased square footage, and the incorporation of new features like a larger island, walk-in pantry, or dedicated dining area, which might not be possible within the original kitchen's dimensions. This type of project often requires permits and adherence to local building codes.",
+        "@type": "Answer",
+        "description": "A kitchen addition expands your home's footprint to create a larger or new kitchen, involving structural changes, new utilities, and permits."
+      }
+    }
+  ],
+  "description": "A kitchen addition expands your home's footprint to create a larger or new kitchen, involving structural changes, new utilities, and permits."
+}

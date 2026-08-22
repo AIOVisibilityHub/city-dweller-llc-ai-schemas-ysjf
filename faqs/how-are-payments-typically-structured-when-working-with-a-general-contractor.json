@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-are-payments-typically-structured-when-working-with-a-general-contractor",
+  "name": "How are payments typically structured when working with a general contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How are payments typically structured when working with a general contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Payment structures typically involve an initial deposit, followed by a series of progress payments at agreed-upon project milestones or at regular intervals (e.g., bi-weekly or monthly). The final payment is usually due upon satisfactory completion of the project and final inspection. These terms are clearly outlined in the contract, ensuring transparency and accountability for both parties. City Dweller, LLC ensures our payment schedule aligns with the project's progress, reflecting the work completed and materials acquired.",
+        "@type": "Answer",
+        "description": "Payments usually include an initial deposit, followed by progress payments at project milestones, with the final payment due upon completion, all clearly outlined in the contract."
+      }
+    }
+  ],
+  "description": "Payments usually include an initial deposit, followed by progress payments at project milestones, with the final payment due upon completion, all clearly outlin"
+}

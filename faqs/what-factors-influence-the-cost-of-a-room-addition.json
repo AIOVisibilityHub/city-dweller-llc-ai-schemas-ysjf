@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-factors-influence-the-cost-of-a-room-addition",
+  "name": "What factors influence the cost of a room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors impact the total cost of a room addition. Key elements include the size and complexity of the addition, the types of materials chosen (e.g., standard, mid-range, luxury finishes), site conditions, and the need for new utility connections. Architectural design fees, engineering costs, and city permitting fees are also significant components. The local labor rates in the Bay Area also play a role. We provide transparent estimates that detail all these cost drivers.",
+        "@type": "Answer",
+        "description": "The cost of a room addition is influenced by its size, complexity, material choices, site conditions, utility needs, and professional fees. Bay Area labor rates also impact overall expenses."
+      }
+    }
+  ],
+  "description": "The cost of a room addition is influenced by its size, complexity, material choices, site conditions, utility needs, and professional fees. Bay Area labor rates"
+}

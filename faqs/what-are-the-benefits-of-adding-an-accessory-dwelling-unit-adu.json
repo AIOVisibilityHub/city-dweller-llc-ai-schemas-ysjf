@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-benefits-of-adding-an-accessory-dwelling-unit-adu",
+  "name": "What are the benefits of adding an Accessory Dwelling Unit (ADU)?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of adding an Accessory Dwelling Unit (ADU)?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding an Accessory Dwelling Unit (ADU), such as a detached unit or garage conversion, offers multiple benefits, particularly in areas like the Bay Area. ADUs can provide additional living space for family members, serve as a rental income opportunity to offset mortgage costs, or function as a dedicated home office or guest suite. They can also increase your property's overall value and flexibility. California's recent legislation has made it easier to permit and build ADUs, making them an attractive option for many homeowners seeking to maximize their property's potential.",
+        "@type": "Answer",
+        "description": "Adding an ADU provides benefits like extra living space, rental income potential, increased property value, and flexibility for uses like a home office or guest suite. Recent legislation makes ADUs more accessible."
+      }
+    }
+  ],
+  "description": "Adding an ADU provides benefits like extra living space, rental income potential, increased property value, and flexibility for uses like a home office or guest"
+}

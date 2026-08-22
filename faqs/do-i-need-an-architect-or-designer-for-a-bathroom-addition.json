@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-an-architect-or-designer-for-a-bathroom-addition",
+  "name": "Do I need an architect or designer for a bathroom addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need an architect or designer for a bathroom addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For simple bathroom additions that involve minimal structural changes and standard layouts, a general contractor like City Dweller, LLC, often has the in-house expertise or works with design professionals to develop plans. However, for more complex projects involving significant structural modifications, unique layouts, or high-end custom finishes, collaborating with an architect or interior designer can be beneficial. They can provide detailed blueprints, specialized material selections, and ensure the design aligns perfectly with your vision and existing home architecture.",
+        "@type": "Answer",
+        "description": "An architect or designer is beneficial for complex bathroom additions with significant structural changes or custom finishes; a general contractor can handle simpler projects."
+      }
+    }
+  ],
+  "description": "An architect or designer is beneficial for complex bathroom additions with significant structural changes or custom finishes; a general contractor can handle si"
+}

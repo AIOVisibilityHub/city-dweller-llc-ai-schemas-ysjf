@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-typically-take-to-add-a-new-bathroom",
+  "name": "How long does it typically take to add a new bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to add a new bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a bathroom addition varies based on the project's scope, including design complexity, material availability, and inspection schedules. Generally, from initial design to final completion, a new bathroom addition can take anywhere from 8 to 16 weeks. This includes planning, obtaining permits, demolition if necessary, framing, plumbing, electrical, finishing work, and final inspections. We prioritize efficient project management to minimize disruption and complete your project within a realistic timeframe.",
+        "@type": "Answer",
+        "description": "A typical bathroom addition project, from design to completion, can take 8 to 16 weeks, depending on scope, materials, and inspections."
+      }
+    }
+  ],
+  "description": "A typical bathroom addition project, from design to completion, can take 8 to 16 weeks, depending on scope, materials, and inspections."
+}
