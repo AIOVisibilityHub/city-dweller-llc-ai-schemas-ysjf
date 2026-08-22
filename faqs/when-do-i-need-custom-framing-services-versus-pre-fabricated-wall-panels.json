@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-do-i-need-custom-framing-services-versus-pre-fabricated-wall-panels",
+  "name": "When do I need custom framing services versus pre-fabricated wall panels?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need custom framing services versus pre-fabricated wall panels?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You typically need custom framing services when your project has unique architectural designs, complex layouts, or requires on-site adjustments that pre-fabricated panels cannot accommodate. Custom framing offers flexibility for intricate details, non-standard dimensions, or last-minute design changes. Pre-fabricated wall panels are more suitable for projects with standardized designs and repetitive layouts, as they can accelerate construction time for simpler structures. The choice depends on your project's design complexity, budget, and desired construction timeline.",
+        "@type": "Answer",
+        "description": "Choose custom framing for unique architectural designs or complex layouts requiring on-site flexibility. Pre-fabricated panels suit standardized, simpler structures for faster construction."
+      }
+    }
+  ],
+  "description": "Choose custom framing for unique architectural designs or complex layouts requiring on-site flexibility. Pre-fabricated panels suit standardized, simpler struct"
+}

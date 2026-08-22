@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-general-contractor-for-door-frame-repair-or-can-a-handyman-do-it",
+  "name": "Do I need a general contractor for door frame repair, or can a handyman do it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a general contractor for door frame repair, or can a handyman do it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For simple, superficial door frame repairs like minor cosmetic damage or small crack filling, an experienced handyman may be sufficient. However, for more complex issues such as significant rot, structural damage, or repairs following a forced entry, a general contractor like City Dweller LLC is often a better choice. General contractors have broader expertise, can manage specialized sub-trades if needed, and ensure the repair integrates correctly with the surrounding structure, especially if it affects security or building integrity.",
+        "@type": "Answer",
+        "description": "A handyman might handle minor cosmetic repairs. For significant rot, structural damage, or forced entry repairs, a general contractor offers broader expertise and ensures structural integrity."
+      }
+    }
+  ],
+  "description": "A handyman might handle minor cosmetic repairs. For significant rot, structural damage, or forced entry repairs, a general contractor offers broader expertise a"
+}

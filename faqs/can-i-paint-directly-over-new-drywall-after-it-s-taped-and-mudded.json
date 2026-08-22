@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-paint-directly-over-new-drywall-after-it-s-taped-and-mudded",
+  "name": "Can I paint directly over new drywall after it's taped and mudded?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I paint directly over new drywall after it's taped and mudded?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, you should not paint directly over newly taped and mudded drywall. Before applying paint, it is crucial to prime the surface. A quality drywall primer-sealer serves several important functions: it equalizes the porosity of the drywall paper and the joint compound, prevents flashing (where different absorption rates cause an uneven sheen in the paint), and helps to seal the surface for better paint adhesion. Skipping primer can lead to a patchy, inconsistent finish and reduce the durability of your paint job.",
+        "@type": "Answer",
+        "description": "No, you must prime new drywall after taping and mudding to equalize porosity, prevent flashing, and ensure proper paint adhesion."
+      }
+    }
+  ],
+  "description": "No, you must prime new drywall after taping and mudding to equalize porosity, prevent flashing, and ensure proper paint adhesion."
+}

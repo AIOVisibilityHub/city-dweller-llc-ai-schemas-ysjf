@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-ceiling-drywall-repair-take",
+  "name": "How long does a typical ceiling drywall repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical ceiling drywall repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a ceiling drywall repair depends on the extent of the damage. Small patches might take a few hours to a day, including drying time for spackle or joint compound. Larger repairs involving replacing entire sections of drywall, multiple coats of compound, and texturing can take several days to a week. This timeline accounts for necessary drying times between applications to ensure a durable and smooth finish.",
+        "@type": "Answer",
+        "description": "Repair time varies from a few hours for small patches to several days for larger, more complex repairs."
+      }
+    }
+  ],
+  "description": "Repair time varies from a few hours for small patches to several days for larger, more complex repairs."
+}

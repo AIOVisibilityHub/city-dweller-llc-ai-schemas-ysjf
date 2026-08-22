@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-do-i-need-new-structural-wall-framing-for-my-existing-property",
+  "name": "When do I need new structural wall framing for my existing property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need new structural wall framing for my existing property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You typically need new structural wall framing when undertaking major renovations that alter the layout of load-bearing walls, adding an extension or a new story, or if existing framing is severely damaged by rot, pests, or seismic events. Signs like significant cracks in walls, sagging floors, or visible deterioration of wood components can indicate a need for professional assessment. We recommend consulting with a general contractor to evaluate your specific situation and determine the best course of action.",
+        "@type": "Answer",
+        "description": "New framing is needed for major renovations, additions, or if existing framing is severely damaged. Signs include significant cracks or sagging floors."
+      }
+    }
+  ],
+  "description": "New framing is needed for major renovations, additions, or if existing framing is severely damaged. Signs include significant cracks or sagging floors."
+}

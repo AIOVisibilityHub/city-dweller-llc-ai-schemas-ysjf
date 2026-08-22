@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-door-frame-installation-typically-cost",
+  "name": "How much does door frame installation typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does door frame installation typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of door frame installation varies widely based on several factors. These include the type of frame material (wood, metal, fiberglass), whether it's an interior or exterior door, the complexity of the installation (e.g., modifying the opening size, repairing existing damage), and the labor rates in the Bay Area. Custom frames, specialized materials, or the need for structural modifications will increase costs. We provide detailed estimates after assessing your specific project requirements, ensuring transparency for your investment.",
+        "@type": "Answer",
+        "description": "Door frame installation costs vary based on material, complexity, and whether it's interior or exterior, with detailed estimates provided after assessment."
+      }
+    }
+  ],
+  "description": "Door frame installation costs vary based on material, complexity, and whether it's interior or exterior, with detailed estimates provided after assessment."
+}

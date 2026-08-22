@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-water-damage-to-a-door-frame-be-repaired-or-does-it-always-require-replaceme",
+  "name": "Can water damage to a door frame be repaired, or does it always require replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can water damage to a door frame be repaired, or does it always require replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water damage to a door frame can sometimes be repaired if caught early and the damage is localized. Minor rot or swelling might be addressed by drying, treating the wood, and applying wood fillers or sealants. However, if the water damage has led to significant structural weakening, extensive rot, or widespread mold growth, replacement of the affected sections or the entire frame is typically necessary to ensure safety and prevent recurrence.",
+        "@type": "Answer",
+        "description": "Minor water damage with localized rot can often be repaired. Extensive water damage, severe rot, or mold growth usually requires replacement."
+      }
+    }
+  ],
+  "description": "Minor water damage with localized rot can often be repaired. Extensive water damage, severe rot, or mold growth usually requires replacement."
+}

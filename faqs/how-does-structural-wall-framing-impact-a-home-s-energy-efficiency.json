@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-does-structural-wall-framing-impact-a-home-s-energy-efficiency",
+  "name": "How does structural wall framing impact a home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does structural wall framing impact a home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The design and execution of structural wall framing significantly impact a home's energy efficiency, primarily through thermal bridging and the allowance for insulation. Poorly framed walls can create thermal breaks where heat can easily escape or enter, reducing insulation effectiveness. Advanced framing techniques, such as optimizing stud spacing (e.g., 24-inch on-center) and using insulated headers, can minimize thermal bridging and create larger cavities for more insulation. This improves a home's thermal performance, leading to lower energy bills.",
+        "@type": "Answer",
+        "description": "Framing impacts energy efficiency through thermal bridging and insulation space. Optimized framing techniques reduce heat transfer, improving thermal performance and lowering energy costs."
+      }
+    }
+  ],
+  "description": "Framing impacts energy efficiency through thermal bridging and insulation space. Optimized framing techniques reduce heat transfer, improving thermal performanc"
+}

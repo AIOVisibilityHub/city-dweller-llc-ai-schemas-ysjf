@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-permit-to-modify-or-add-a-door-opening-in-the-bay-area",
+  "name": "Do I need a permit to modify or add a door opening in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to modify or add a door opening in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in most Bay Area cities like Pacifica or South San Francisco, you typically need a permit to modify or add a door opening, especially if it involves altering a load-bearing wall, changing an exterior opening, or significantly affecting the structural integrity of your home. Building departments review plans to ensure safety and compliance with local codes, including seismic requirements. It's always best to consult with us or your local building department before starting any structural changes to avoid potential issues.",
+        "@type": "Answer",
+        "description": "Yes, permits are generally required in the Bay Area for modifying or adding door openings, especially for load-bearing or exterior walls."
+      }
+    }
+  ],
+  "description": "Yes, permits are generally required in the Bay Area for modifying or adding door openings, especially for load-bearing or exterior walls."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-perform-structural-wall-framing-myself-or-should-i-hire-a-professional",
+  "name": "Can I perform structural wall framing myself or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I perform structural wall framing myself or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Structural wall framing is a highly specialized task that requires significant knowledge of building codes, engineering principles, and proper construction techniques to ensure safety and compliance. Mistakes in framing can lead to serious structural integrity issues, costly repairs, and potential safety hazards. For these reasons, it is strongly recommended to hire a licensed general contractor with experience in structural framing, especially in seismically active regions like the Bay Area, to guarantee the work meets all standards and regulations.",
+        "@type": "Answer",
+        "description": "Structural wall framing requires specialized knowledge and adherence to building codes for safety. It's strongly recommended to hire a licensed general contractor."
+      }
+    }
+  ],
+  "description": "Structural wall framing requires specialized knowledge and adherence to building codes for safety. It's strongly recommended to hire a licensed general contract"
+}

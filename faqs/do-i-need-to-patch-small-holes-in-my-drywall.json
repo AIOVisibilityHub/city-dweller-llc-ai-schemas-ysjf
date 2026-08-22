@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-patch-small-holes-in-my-drywall",
+  "name": "Do I need to patch small holes in my drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to patch small holes in my drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Even small holes, such as those from nails or screws, should be patched to maintain the integrity and appearance of your walls. Unpatched holes can allow moisture or pests to enter, and they detract from the overall aesthetic of your home. Patching also creates a smooth, uniform surface for painting, ensuring a professional and finished look for your interiors.",
+        "@type": "Answer",
+        "description": "Yes, patching small holes preserves wall integrity, prevents issues like moisture entry, and ensures a smooth surface for painting."
+      }
+    }
+  ],
+  "description": "Yes, patching small holes preserves wall integrity, prevents issues like moisture entry, and ensures a smooth surface for painting."
+}

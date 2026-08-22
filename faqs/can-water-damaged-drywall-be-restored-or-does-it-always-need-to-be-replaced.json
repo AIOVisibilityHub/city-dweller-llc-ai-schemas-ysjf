@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-water-damaged-drywall-be-restored-or-does-it-always-need-to-be-replaced",
+  "name": "Can water-damaged drywall be restored, or does it always need to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can water-damaged drywall be restored, or does it always need to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether water-damaged drywall can be restored or needs replacement depends on the severity and duration of the water exposure. If the damage is superficial and caught early, the drywall might be dried, treated for mold, and repaired. However, if the drywall has softened, swelled, or developed extensive mold, it typically needs to be completely removed and replaced to prevent structural issues and health hazards. A professional assessment is crucial.",
+        "@type": "Answer",
+        "description": "Minor, superficial water damage can often be restored, but severely soaked, swollen, or moldy drywall usually requires full replacement for safety and structural integrity."
+      }
+    }
+  ],
+  "description": "Minor, superficial water damage can often be restored, but severely soaked, swollen, or moldy drywall usually requires full replacement for safety and structura"
+}

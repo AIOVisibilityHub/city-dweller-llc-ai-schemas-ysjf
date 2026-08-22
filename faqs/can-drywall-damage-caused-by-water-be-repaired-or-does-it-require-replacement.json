@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-drywall-damage-caused-by-water-be-repaired-or-does-it-require-replacement",
+  "name": "Can drywall damage caused by water be repaired, or does it require replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can drywall damage caused by water be repaired, or does it require replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor water-damaged drywall, where the integrity of the board is still sound and mold growth is not extensive, can often be repaired by cutting out the affected section and patching it. However, if the drywall is soft, crumbling, or if there's significant mold present, replacement of a larger section is usually necessary to ensure structural integrity and a healthy environment. Addressing the source of the water leak is crucial before any repair.",
+        "@type": "Answer",
+        "description": "Minor water-damaged drywall can be patched, but significant damage, softness, or mold often requires replacement. Always fix the water source first."
+      }
+    }
+  ],
+  "description": "Minor water-damaged drywall can be patched, but significant damage, softness, or mold often requires replacement. Always fix the water source first."
+}

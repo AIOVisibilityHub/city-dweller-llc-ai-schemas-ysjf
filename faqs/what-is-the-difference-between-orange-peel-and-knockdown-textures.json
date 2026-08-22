@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-orange-peel-and-knockdown-textures",
+  "name": "What is the difference between orange peel and knockdown textures?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between orange peel and knockdown textures?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Orange peel texture features a subtle, bumpy finish resembling an orange peel, created by spraying thinned drywall mud onto the surface. It provides a soft, understated look that helps conceal minor imperfections. Knockdown texture starts similarly but is then 'knocked down' or flattened with a trowel after application, resulting in a slightly smoother, more uniform surface with distinct, flattened peaks. Knockdown offers a more pronounced texture than orange peel.",
+        "@type": "Answer",
+        "description": "Orange peel has a subtle, bumpy finish, while knockdown is sprayed mud then flattened with a trowel, creating a more pronounced, uniform texture."
+      }
+    }
+  ],
+  "description": "Orange peel has a subtle, bumpy finish, while knockdown is sprayed mud then flattened with a trowel, creating a more pronounced, uniform texture."
+}

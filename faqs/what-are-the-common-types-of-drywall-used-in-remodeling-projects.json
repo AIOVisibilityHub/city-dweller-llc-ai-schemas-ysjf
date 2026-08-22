@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-types-of-drywall-used-in-remodeling-projects",
+  "name": "What are the common types of drywall used in remodeling projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common types of drywall used in remodeling projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common types of drywall include regular (whiteboard), moisture-resistant (greenboard), fire-resistant (Type X), and soundproof drywall. Regular drywall is standard for most walls and ceilings. Greenboard is ideal for bathrooms and kitchens due to its mold and moisture resistance, though it's not waterproof. Type X contains special additives for fire protection, often used in garages or multi-family dwellings. Soundproof drywall uses laminated layers for noise reduction, suitable for home theaters or quiet spaces. The choice depends on the specific needs of each area.",
+        "@type": "Answer",
+        "description": "Common drywall types include regular, moisture-resistant (greenboard), fire-resistant (Type X), and soundproof, each suited for different remodeling needs."
+      }
+    }
+  ],
+  "description": "Common drywall types include regular, moisture-resistant (greenboard), fire-resistant (Type X), and soundproof, each suited for different remodeling needs."
+}

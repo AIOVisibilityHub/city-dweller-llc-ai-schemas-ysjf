@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-ensure-a-new-partition-wall-is-soundproofed",
+  "name": "How do I ensure a new partition wall is soundproofed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I ensure a new partition wall is soundproofed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To improve soundproofing in a new partition wall, several techniques can be employed. These include using insulation designed for sound attenuation (like mineral wool batts) within the stud cavities, installing resilient channels to decouple drywall from the studs, and using thicker or multiple layers of drywall. Sealing all gaps and penetrations with acoustic caulk is also vital to prevent sound leaks. Consulting with an expert can help you achieve optimal results.",
+        "@type": "Answer",
+        "description": "Soundproofing involves using acoustic insulation, resilient channels, multiple drywall layers, and sealing gaps with acoustic caulk."
+      }
+    }
+  ],
+  "description": "Soundproofing involves using acoustic insulation, resilient channels, multiple drywall layers, and sealing gaps with acoustic caulk."
+}

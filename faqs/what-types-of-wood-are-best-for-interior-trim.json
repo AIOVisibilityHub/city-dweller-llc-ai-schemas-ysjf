@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-wood-are-best-for-interior-trim",
+  "name": "What types of wood are best for interior trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of wood are best for interior trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best type of wood for interior trim depends on whether you plan to paint or stain it. For paint-grade trim, common choices include MDF (medium-density fiberboard) for its cost-effectiveness and smooth finish, or clear pine. For stain-grade trim, popular options include oak for its distinct grain, maple for a smoother, lighter appearance, cherry for its rich color, or poplar if you want a natural wood look that's still paintable. Each has unique characteristics regarding durability, grain, and cost.",
+        "@type": "Answer",
+        "description": "The best wood for interior trim depends on whether it's painted (MDF, clear pine) or stained (oak, maple, cherry, poplar) for its grain and durability."
+      }
+    }
+  ],
+  "description": "The best wood for interior trim depends on whether it's painted (MDF, clear pine) or stained (oak, maple, cherry, poplar) for its grain and durability."
+}

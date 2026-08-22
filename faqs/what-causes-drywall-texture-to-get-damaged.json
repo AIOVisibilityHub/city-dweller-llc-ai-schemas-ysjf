@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-drywall-texture-to-get-damaged",
+  "name": "What causes drywall texture to get damaged?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes drywall texture to get damaged?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall texture can be damaged by various factors. Common causes include accidental impacts from moving furniture or everyday activities, moisture exposure leading to water stains or swelling, settling of the house causing cracks, and holes from mounting fixtures or plumbing work. Wear and tear over time, especially in high-traffic areas, can also contribute to texture degradation. Understanding the cause is important for ensuring the repair is effective and preventing future recurrence of the issue.",
+        "@type": "Answer",
+        "description": "Damage can result from impacts, moisture, house settling, holes from fixtures, or general wear and tear over time."
+      }
+    }
+  ],
+  "description": "Damage can result from impacts, moisture, house settling, holes from fixtures, or general wear and tear over time."
+}

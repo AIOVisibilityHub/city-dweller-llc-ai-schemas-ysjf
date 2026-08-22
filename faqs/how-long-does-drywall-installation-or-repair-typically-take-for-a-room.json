@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-drywall-installation-or-repair-typically-take-for-a-room",
+  "name": "How long does drywall installation or repair typically take for a room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does drywall installation or repair typically take for a room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of drywall installation or repair varies based on the project's scope, room size, and the number of workers. For a standard room repair, it could take a few days, including drying and sanding time between compound layers. A full room installation can take 3-5 days for hanging, taping, mudding, and sanding, not including painting. Larger or more complex projects, like an entire basement remodel, will naturally extend this timeline. We provide an estimated timeline after assessing your specific project.",
+        "@type": "Answer",
+        "description": "Drywall repair for a room can take a few days, while full installation might take 3-5 days, depending on room size and project complexity."
+      }
+    }
+  ],
+  "description": "Drywall repair for a room can take a few days, while full installation might take 3-5 days, depending on room size and project complexity."
+}

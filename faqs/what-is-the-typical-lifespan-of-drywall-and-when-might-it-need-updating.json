@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-lifespan-of-drywall-and-when-might-it-need-updating",
+  "name": "What is the typical lifespan of drywall, and when might it need updating?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical lifespan of drywall, and when might it need updating?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical lifespan of drywall itself can be indefinite if properly installed and maintained in a stable environment, often lasting 30 to 70 years or more. However, it might need updating sooner due to various factors. These include accidental physical damage, water leaks, pest infestations, significant structural shifts in the building, or when remodeling to change the layout or improve insulation/soundproofing. Often, 'updating' refers to aesthetic changes or repairs to maintain its appearance and function, rather than the material itself degrading.",
+        "@type": "Answer",
+        "description": "Drywall can last indefinitely with proper care, but may need updating due to damage, water issues, pests, structural changes, or aesthetic remodeling."
+      }
+    }
+  ],
+  "description": "Drywall can last indefinitely with proper care, but may need updating due to damage, water issues, pests, structural changes, or aesthetic remodeling."
+}

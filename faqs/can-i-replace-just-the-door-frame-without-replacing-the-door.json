@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-replace-just-the-door-frame-without-replacing-the-door",
+  "name": "Can I replace just the door frame without replacing the door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace just the door frame without replacing the door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is often possible to replace just the door frame without replacing the door itself, especially if the door is in good condition and fits standard dimensions. This is a common solution when the existing frame is damaged by rot, insects, or wear, but the door slab remains functional and aesthetically pleasing. The new frame must be carefully chosen to match the dimensions and hinge placement of your current door to ensure a proper fit and smooth operation. Your contractor can assess if your existing door is suitable for a frame-only replacement.",
+        "@type": "Answer",
+        "description": "Yes, you can replace just the door frame if your existing door is in good condition and fits standard dimensions, especially when the frame is damaged."
+      }
+    }
+  ],
+  "description": "Yes, you can replace just the door frame if your existing door is in good condition and fits standard dimensions, especially when the frame is damaged."
+}

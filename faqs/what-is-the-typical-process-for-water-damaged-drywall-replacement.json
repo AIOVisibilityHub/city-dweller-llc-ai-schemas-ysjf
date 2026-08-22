@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-water-damaged-drywall-replacement",
+  "name": "What is the typical process for water-damaged drywall replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for water-damaged drywall replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with identifying and stopping the water source. Then, the affected area is thoroughly assessed for mold and structural damage. Damaged drywall is carefully cut out and removed, followed by cleaning and drying the exposed studs and surrounding areas. New drywall sheets are cut to fit, installed, taped, and mudded to create a smooth surface. Finally, the area is primed and painted to match the existing walls, completing the restoration.",
+        "@type": "Answer",
+        "description": "The process involves stopping the leak, removing damaged sections, installing new drywall, finishing, priming, and painting."
+      }
+    }
+  ],
+  "description": "The process involves stopping the leak, removing damaged sections, installing new drywall, finishing, priming, and painting."
+}

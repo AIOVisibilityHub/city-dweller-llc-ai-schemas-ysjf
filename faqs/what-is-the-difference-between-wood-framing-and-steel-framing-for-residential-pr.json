@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-wood-framing-and-steel-framing-for-residential-pr",
+  "name": "What is the difference between wood framing and steel framing for residential projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between wood framing and steel framing for residential projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wood framing is traditional, cost-effective for most homes, and offers good thermal performance. It's readily available and easier for tradespeople to work with for standard residential builds. Steel framing, while more expensive and requiring specialized tools, offers superior strength, fire resistance, and is impervious to pests like termites and rot. It's often preferred for larger spans, commercial projects, or in areas with extreme pest concerns. While both are viable, wood remains dominant for typical Bay Area residential wall framing.",
+        "@type": "Answer",
+        "description": "Wood framing is traditional, cost-effective, and common for homes. Steel framing offers superior strength, fire resistance, and pest immunity but is more expensive."
+      }
+    }
+  ],
+  "description": "Wood framing is traditional, cost-effective, and common for homes. Steel framing offers superior strength, fire resistance, and pest immunity but is more expens"
+}

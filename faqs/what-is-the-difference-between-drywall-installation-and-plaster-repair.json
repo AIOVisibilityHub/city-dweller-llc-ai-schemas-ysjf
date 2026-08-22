@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-drywall-installation-and-plaster-repair",
+  "name": "What is the difference between drywall installation and plaster repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between drywall installation and plaster repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall installation involves fastening gypsum wallboard panels to framing and then finishing the seams with joint compound. It's a faster, drier process than traditional plaster. Plaster repair, conversely, often involves working with existing plaster walls, which are built up in layers over lath, offering a harder, more soundproof, and fire-resistant surface. Repairing plaster is more complex, requiring specific skills to match textures and ensure proper bonding. While both create smooth wall surfaces, their materials, application methods, and repair techniques differ significantly.",
+        "@type": "Answer",
+        "description": "Drywall involves installing gypsum panels, while plaster is built in layers over lath. Drywall is faster; plaster repair is more complex and specialized."
+      }
+    }
+  ],
+  "description": "Drywall involves installing gypsum panels, while plaster is built in layers over lath. Drywall is faster; plaster repair is more complex and specialized."
+}

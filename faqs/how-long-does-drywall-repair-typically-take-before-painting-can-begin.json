@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-drywall-repair-typically-take-before-painting-can-begin",
+  "name": "How long does drywall repair typically take before painting can begin?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does drywall repair typically take before painting can begin?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of drywall repair varies significantly based on the extent and type of damage. Minor repairs, like filling small nail holes, might take a few hours to complete and dry. More extensive repairs, involving patching larger holes or multiple layers of joint compound, can require 24-48 hours for each layer to dry properly, potentially stretching the repair process over several days. Drying times are also influenced by humidity and ventilation.",
+        "@type": "Answer",
+        "description": "Repair time depends on damage severity; minor fixes take hours, while extensive repairs with multiple compound layers can take several days due to drying times."
+      }
+    }
+  ],
+  "description": "Repair time depends on damage severity; minor fixes take hours, while extensive repairs with multiple compound layers can take several days due to drying times."
+}

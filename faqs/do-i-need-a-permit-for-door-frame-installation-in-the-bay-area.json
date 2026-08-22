@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-permit-for-door-frame-installation-in-the-bay-area",
+  "name": "Do I need a permit for door frame installation in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for door frame installation in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether a permit is required for door frame installation depends on the scope of the project and local building codes in specific Bay Area cities like Pacifica or Daly City. Simple like-for-like replacements of interior door frames typically do not require a permit. However, if the project involves altering the structural integrity of a wall, enlarging a door opening, changing an exterior doorway, or affecting fire ratings, a permit will likely be necessary. It's always best to consult with your general contractor or local building department to confirm permit requirements for your specific project.",
+        "@type": "Answer",
+        "description": "Permit requirements for door frame installation in the Bay Area depend on the project's scope; structural changes or exterior modifications often require one."
+      }
+    }
+  ],
+  "description": "Permit requirements for door frame installation in the Bay Area depend on the project's scope; structural changes or exterior modifications often require one."
+}

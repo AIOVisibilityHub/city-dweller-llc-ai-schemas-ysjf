@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-is-it-necessary-to-replace-water-damaged-drywall-versus-repairing-it",
+  "name": "When is it necessary to replace water-damaged drywall versus repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it necessary to replace water-damaged drywall versus repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacement is necessary if the drywall has absorbed a significant amount of water, leading to structural compromise, mold growth, or extensive damage that cannot be effectively patched. If the damage is superficial, such as a small stain from a minor leak, repairing with spackle and paint might be sufficient after addressing the water source. However, for large areas, long-term exposure, or any signs of mold, full replacement is the safer and more durable solution to prevent ongoing issues.",
+        "@type": "Answer",
+        "description": "Replace extensively damaged drywall with mold or structural issues; repair small, superficial damage."
+      }
+    }
+  ],
+  "description": "Replace extensively damaged drywall with mold or structural issues; repair small, superficial damage."
+}

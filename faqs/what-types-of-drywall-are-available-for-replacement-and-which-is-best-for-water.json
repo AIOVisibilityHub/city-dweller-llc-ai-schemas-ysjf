@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-drywall-are-available-for-replacement-and-which-is-best-for-water",
+  "name": "What types of drywall are available for replacement, and which is best for water-prone areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of drywall are available for replacement, and which is best for water-prone areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard drywall is common for general use, but for areas susceptible to moisture, there are better options. Green board (moisture-resistant drywall) has a water-resistant paper facing and is suitable for bathrooms or laundry rooms. Cement board offers superior water resistance and is often used in showers or as a tile backer. Purple drywall is enhanced to resist mold and moisture, making it a good choice for environments with elevated humidity.",
+        "@type": "Answer",
+        "description": "Options include standard, green board (moisture-resistant), cement board (highly water-resistant), and purple drywall (mold/moisture-resistant)."
+      }
+    }
+  ],
+  "description": "Options include standard, green board (moisture-resistant), cement board (highly water-resistant), and purple drywall (mold/moisture-resistant)."
+}

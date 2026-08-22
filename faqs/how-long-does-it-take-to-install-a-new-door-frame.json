@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-install-a-new-door-frame",
+  "name": "How long does it take to install a new door frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a new door frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required for door frame installation can vary based on the complexity of the project and the type of door. A standard interior door frame replacement might take a few hours for an experienced professional. Exterior door frames, especially if they involve removing an existing frame, modifying the opening, or installing a pre-hung unit, could take a half-day to a full day. Factors like existing damage, wall material, and trim work can also influence the timeline. We prioritize efficient and quality work for residents in the Bay Area.",
+        "@type": "Answer",
+        "description": "A standard interior door frame can take a few hours, while exterior or more complex installations may take a half-day to a full day."
+      }
+    }
+  ],
+  "description": "A standard interior door frame can take a few hours, while exterior or more complex installations may take a half-day to a full day."
+}

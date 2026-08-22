@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-door-frame-repair-typically-cost-in-the-bay-area",
+  "name": "How much does door frame repair typically cost in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does door frame repair typically cost in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of door frame repair in the Bay Area varies significantly based on the type and extent of damage, the materials involved, and the labor required. Minor repairs, such as small crack filling or patching, might range from a few hundred dollars. More extensive work, like replacing a rotted section or repairing forced entry damage, could be higher. For a precise estimate, it's best to have a professional assessment as prices are specific to each project and location.",
+        "@type": "Answer",
+        "description": "Door frame repair costs in the Bay Area vary based on damage extent, materials, and labor. Minor repairs can be a few hundred dollars; extensive work costs more. A professional assessment provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Door frame repair costs in the Bay Area vary based on damage extent, materials, and labor. Minor repairs can be a few hundred dollars; extensive work costs more"
+}

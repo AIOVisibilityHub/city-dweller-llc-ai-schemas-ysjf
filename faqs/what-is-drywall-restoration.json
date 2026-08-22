@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-drywall-restoration",
+  "name": "What is drywall restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is drywall restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall restoration involves repairing and refinishing damaged drywall to its original condition. This can include fixing holes, cracks, water damage, or general wear and tear. The process typically involves patching, sanding, and repainting to seamlessly blend the repaired area with the existing wall. Restoration prevents further damage, maintains structural integrity, and improves the aesthetic appeal of your home or business.",
+        "@type": "Answer",
+        "description": "Drywall restoration repairs and refinishes damaged drywall, fixing issues like holes, cracks, and water damage to restore its original appearance."
+      }
+    }
+  ],
+  "description": "Drywall restoration repairs and refinishes damaged drywall, fixing issues like holes, cracks, and water damage to restore its original appearance."
+}

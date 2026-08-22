@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-frame-a-standard-door-opening",
+  "name": "How long does it take to frame a standard door opening?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to frame a standard door opening?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to frame a standard door opening depends on whether it's a new opening in an existing wall, part of a new construction, or replacing an old frame. For a straightforward interior, non-load-bearing wall, framing a new opening can typically be completed within a day. If it's a load-bearing wall, an exterior opening, or involves significant demolition, it might extend to a few days due to additional structural work, permitting, and inspections. We aim to minimize disruption and complete projects efficiently.",
+        "@type": "Answer",
+        "description": "Framing a standard interior door can take a day; load-bearing or exterior openings may take longer due to complexity, permits, and inspections."
+      }
+    }
+  ],
+  "description": "Framing a standard interior door can take a day; load-bearing or exterior openings may take longer due to complexity, permits, and inspections."
+}

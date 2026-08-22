@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-new-trim-when-replacing-doors-or-windows",
+  "name": "Do I need new trim when replacing doors or windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need new trim when replacing doors or windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is highly recommended to replace the trim around doors and windows when installing new ones. New doors and windows often have different dimensions or installation requirements, making it difficult to reuse old trim without gaps or an unprofessional appearance. Replacing the trim ensures a seamless, clean finish that complements the new installations and enhances the overall aesthetic of your space. It also provides an opportunity to update your home's style.",
+        "@type": "Answer",
+        "description": "Yes, it's highly recommended to replace trim around new doors or windows to ensure a clean, seamless finish and accommodate potential dimension differences."
+      }
+    }
+  ],
+  "description": "Yes, it's highly recommended to replace trim around new doors or windows to ensure a clean, seamless finish and accommodate potential dimension differences."
+}

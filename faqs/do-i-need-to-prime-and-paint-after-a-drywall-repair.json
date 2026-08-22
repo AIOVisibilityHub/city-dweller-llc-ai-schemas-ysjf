@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-prime-and-paint-after-a-drywall-repair",
+  "name": "Do I need to prime and paint after a drywall repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to prime and paint after a drywall repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, priming and painting are essential steps after any drywall repair. Primer ensures that the new drywall compound absorbs paint evenly, preventing dull spots or color variations compared to the surrounding wall. It also creates a consistent surface for the final paint coat, improving adhesion and durability. Skipping these steps can result in a visible patch, even if the texture match is perfect.",
+        "@type": "Answer",
+        "description": "Yes, priming and painting are crucial. Primer ensures even paint absorption and creates a consistent surface, making the repair invisible and durable."
+      }
+    }
+  ],
+  "description": "Yes, priming and painting are crucial. Primer ensures even paint absorption and creates a consistent surface, making the repair invisible and durable."
+}

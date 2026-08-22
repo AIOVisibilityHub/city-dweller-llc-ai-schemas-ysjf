@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-best-type-of-joint-compound-to-use",
+  "name": "What is the best type of joint compound to use?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the best type of joint compound to use?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The 'best' joint compound depends on the specific task. All-purpose joint compound is versatile and widely used for taping, filling, and finishing. Lightweight all-purpose mud is easier to sand and weighs less, making it suitable for top coats. Setting-type compounds, or 'hot mud,' dry much faster (e.g., 20, 45, or 90 minutes) and are ideal for repairs, initial coats, or when working in humid conditions where drying time is critical. Each type has pros and cons regarding drying time, strength, and ease of sanding.",
+        "@type": "Answer",
+        "description": "The best joint compound varies: all-purpose for versatility, lightweight for easy sanding, and setting-type for quick drying and repairs."
+      }
+    }
+  ],
+  "description": "The best joint compound varies: all-purpose for versatility, lightweight for easy sanding, and setting-type for quick drying and repairs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-materials-are-used-in-custom-framing",
+  "name": "What types of materials are used in custom framing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are used in custom framing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary material used in custom framing is lumber, typically dimensional softwood like Douglas fir, spruce, pine, or fir (SPF). Engineered wood products such as LVLs (Laminated Veneer Lumber), PSLs (Parallel Strand Lumber), and I-joists are also commonly used for beams, headers, and floor joists due to their strength and stability. Plywood or OSB (Oriented Strand Board) is used for shear walls and roof sheathing. The selection of materials depends on structural requirements, budget, and local building codes.",
+        "@type": "Answer",
+        "description": "Custom framing primarily uses dimensional lumber (Douglas fir, SPF) and engineered wood products like LVLs and I-joists for structural components. Plywood or OSB is used for sheathing."
+      }
+    }
+  ],
+  "description": "Custom framing primarily uses dimensional lumber (Douglas fir, SPF) and engineered wood products like LVLs and I-joists for structural components. Plywood or OS"
+}

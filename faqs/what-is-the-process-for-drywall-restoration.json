@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-drywall-restoration",
+  "name": "What is the process for drywall restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for drywall restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The drywall restoration process typically begins with an assessment of the damage. For repairs, we remove compromised sections, install new drywall patches, and apply joint compound (mud) in layers, sanding between each application. For water damage, we ensure the area is dry and mold-free before proceeding. Finally, the repaired area is primed and painted to match the surrounding wall, ensuring a smooth, undetectable finish. This process can take several days depending on drying times.",
+        "@type": "Answer",
+        "description": "The process involves assessing damage, removing compromised sections, patching with new drywall, applying and sanding joint compound, then priming and painting for a seamless finish."
+      }
+    }
+  ],
+  "description": "The process involves assessing damage, removing compromised sections, patching with new drywall, applying and sanding joint compound, then priming and painting"
+}

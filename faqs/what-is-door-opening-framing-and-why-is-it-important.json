@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-door-opening-framing-and-why-is-it-important",
+  "name": "What is door opening framing and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is door opening framing and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Door opening framing involves constructing the structural support around a doorway. This includes the header, king studs, jack studs, and cripple studs, which bear the weight from above the opening and transfer it to the foundation. Proper framing ensures the door fits correctly, operates smoothly, and maintains the structural integrity of your wall and home. It prevents issues like sagging headers, sticking doors, or cracks in the drywall around the opening.",
+        "@type": "Answer",
+        "description": "Door opening framing creates the structural support for a doorway, ensuring the door fits and functions correctly while maintaining wall integrity."
+      }
+    }
+  ],
+  "description": "Door opening framing creates the structural support for a doorway, ensuring the door fits and functions correctly while maintaining wall integrity."
+}

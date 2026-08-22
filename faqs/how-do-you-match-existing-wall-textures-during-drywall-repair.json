@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-you-match-existing-wall-textures-during-drywall-repair",
+  "name": "How do you match existing wall textures during drywall repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you match existing wall textures during drywall repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Matching existing wall textures is a specialized skill critical for an invisible repair. Our professionals identify the specific texture (e.g., orange peel, knockdown, skip trowel) and use appropriate tools and techniques, such as sprayers or hand application, to replicate it. This often involves trial and error on test boards to achieve the closest possible match before applying to the wall, ensuring the repaired area blends seamlessly.",
+        "@type": "Answer",
+        "description": "We identify existing textures like orange peel or knockdown, then use specialized tools and techniques to replicate them for a seamless blend."
+      }
+    }
+  ],
+  "description": "We identify existing textures like orange peel or knockdown, then use specialized tools and techniques to replicate them for a seamless blend."
+}

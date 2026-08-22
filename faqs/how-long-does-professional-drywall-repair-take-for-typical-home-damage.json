@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-professional-drywall-repair-take-for-typical-home-damage",
+  "name": "How long does professional drywall repair take for typical home damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does professional drywall repair take for typical home damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of professional drywall repair varies based on the extent and type of damage. Small repairs, like patching a few holes or cracks, might take a few hours to a day, including drying time for joint compound and paint. More extensive repairs, such as replacing larger sections due to water damage or impact, could take several days, especially if multiple coats of compound and sanding are required. Your contractor can provide a specific timeline after assessing the damage.",
+        "@type": "Answer",
+        "description": "Small drywall repairs can take a few hours to a day, while extensive damage may require several days, depending on the scope."
+      }
+    }
+  ],
+  "description": "Small drywall repairs can take a few hours to a day, while extensive damage may require several days, depending on the scope."
+}

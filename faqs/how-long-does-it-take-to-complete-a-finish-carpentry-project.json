@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-complete-a-finish-carpentry-project",
+  "name": "How long does it take to complete a finish carpentry project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete a finish carpentry project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a finish carpentry project depends on its size and complexity. A small project, such as installing trim in a single room, might take a few days. Larger projects involving multiple rooms, custom built-ins, or intricate molding work could extend to several weeks. Factors like material availability, drying times for finishes, and coordination with other trades can also influence the timeline. Your contractor can provide a more precise schedule once the project details are finalized.",
+        "@type": "Answer",
+        "description": "Project duration varies; small trim jobs may take days, while larger projects with custom elements can take several weeks, depending on complexity and material availability."
+      }
+    }
+  ],
+  "description": "Project duration varies; small trim jobs may take days, while larger projects with custom elements can take several weeks, depending on complexity and material"
+}

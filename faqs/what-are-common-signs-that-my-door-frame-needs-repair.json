@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-signs-that-my-door-frame-needs-repair",
+  "name": "What are common signs that my door frame needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my door frame needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs indicating door frame repair is needed include visible cracks, splits, rot, or warping in the wood. You might also notice difficulty opening or closing the door, drafts, or issues with the door latching securely. Gaps between the door and the frame, or a frame that appears out of square, are also strong indicators. Addressing these issues promptly can prevent further damage and maintain your home's security and energy efficiency.",
+        "@type": "Answer",
+        "description": "Look for cracks, rot, warping, difficulty operating the door, drafts, or gaps around the frame. These indicate a need for repair."
+      }
+    }
+  ],
+  "description": "Look for cracks, rot, warping, difficulty operating the door, drafts, or gaps around the frame. These indicate a need for repair."
+}

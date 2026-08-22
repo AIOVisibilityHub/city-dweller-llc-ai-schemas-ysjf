@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/is-it-better-to-repair-or-replace-a-damaged-door-frame",
+  "name": "Is it better to repair or replace a damaged door frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it better to repair or replace a damaged door frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace a door frame depends on the severity of the damage. Minor issues like small cracks, dents, or localized rot can often be effectively repaired, extending the frame's lifespan without significant cost. However, if the damage is extensive, structural, involves widespread rot, or affects the frame's integrity and ability to hold a door securely, replacement is generally the safer and more cost-effective long-term solution. A professional assessment can help determine the best course of action.",
+        "@type": "Answer",
+        "description": "Repair minor damage like small cracks or localized rot. Replace if the damage is extensive, structural, or compromises the frame's integrity. A professional can advise the best option."
+      }
+    }
+  ],
+  "description": "Repair minor damage like small cracks or localized rot. Replace if the damage is extensive, structural, or compromises the frame's integrity. A professional can"
+}

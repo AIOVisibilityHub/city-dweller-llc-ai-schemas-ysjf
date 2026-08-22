@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-paint-after-drywall-texture-matching",
+  "name": "Do I need to paint after drywall texture matching?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to paint after drywall texture matching?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, painting is almost always required after drywall texture matching. The newly applied texture will be a different color (the color of the drywall compound) than your existing wall or ceiling. Even if the texture match is perfect, the color difference will make the repair stand out. Priming the repaired area before painting is also recommended to ensure consistent paint absorption and a uniform finish across the entire surface.",
+        "@type": "Answer",
+        "description": "Yes, painting is required after drywall texture matching because the new texture will be a different color. Priming is also recommended."
+      }
+    }
+  ],
+  "description": "Yes, painting is required after drywall texture matching because the new texture will be a different color. Priming is also recommended."
+}

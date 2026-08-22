@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-using-metal-studs-instead-of-wood-for-framing",
+  "name": "When should I consider using metal studs instead of wood for framing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider using metal studs instead of wood for framing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Metal studs are a good alternative to wood in several situations. They are often preferred in commercial buildings due to their fire resistance and straightness. For residential projects, metal studs can be beneficial in areas prone to moisture, as they are resistant to rot and mold. They are also lighter and offer a more consistent product without warping. However, they can be more challenging for DIYers and may require specific fasteners.",
+        "@type": "Answer",
+        "description": "Consider metal studs for fire resistance, moisture-prone areas, or where consistent straightness is crucial, especially in commercial builds."
+      }
+    }
+  ],
+  "description": "Consider metal studs for fire resistance, moisture-prone areas, or where consistent straightness is crucial, especially in commercial builds."
+}

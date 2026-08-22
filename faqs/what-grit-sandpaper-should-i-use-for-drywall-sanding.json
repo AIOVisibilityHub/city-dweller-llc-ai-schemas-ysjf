@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-grit-sandpaper-should-i-use-for-drywall-sanding",
+  "name": "What grit sandpaper should I use for drywall sanding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What grit sandpaper should I use for drywall sanding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most drywall sanding, starting with 100-120 grit sandpaper is common for the initial smoothing of joint compound. This grit effectively removes excess material and levels the surface. If further refinement is needed or for a very smooth finish, a lighter pass with 150-220 grit can be used for the final sanding. Avoid grits coarser than 100, as they can scratch the drywall paper, and grits finer than 220, as they may polish the compound, potentially affecting paint adhesion. Always sand lightly to avoid creating depressions.",
+        "@type": "Answer",
+        "description": "Start drywall sanding with 100-120 grit sandpaper for initial smoothing. For a finer finish, use 150-220 grit. Avoid grits too coarse or too fine to prevent damage or adhesion issues."
+      }
+    }
+  ],
+  "description": "Start drywall sanding with 100-120 grit sandpaper for initial smoothing. For a finer finish, use 150-220 grit. Avoid grits too coarse or too fine to prevent dam"
+}

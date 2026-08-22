@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-do-i-need-interior-framing-for-my-home-renovation",
+  "name": "When do I need interior framing for my home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need interior framing for my home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You typically need interior framing when significantly altering a home's layout, such as moving or adding walls, creating new rooms, or reconfiguring existing spaces. This also applies when finishing an unfinished basement or attic, or when repairing structural damage. Even minor renovations like installing built-in shelving or creating a niche might require some level of framing. Consulting with a general contractor helps determine the specific framing needs for your project.",
+        "@type": "Answer",
+        "description": "Interior framing is needed when changing a home's layout, adding rooms, finishing spaces, or repairing structural damage."
+      }
+    }
+  ],
+  "description": "Interior framing is needed when changing a home's layout, adding rooms, finishing spaces, or repairing structural damage."
+}

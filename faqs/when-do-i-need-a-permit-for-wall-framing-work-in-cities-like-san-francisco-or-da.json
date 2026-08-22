@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-do-i-need-a-permit-for-wall-framing-work-in-cities-like-san-francisco-or-da",
+  "name": "When do I need a permit for wall framing work in cities like San Francisco or Daly City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need a permit for wall framing work in cities like San Francisco or Daly City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In San Francisco, Daly City, and most Bay Area municipalities, a building permit is generally required for any wall framing work that alters the structural integrity of your home, changes its footprint, creates new openings in load-bearing walls, or adds new framed walls. This includes moving or removing load-bearing walls, adding new rooms, or constructing exterior walls. Minor, non-structural alterations to existing interior walls often do not require a permit, but it's always best to consult with your local building department or a licensed contractor to ensure compliance and avoid potential issues.",
+        "@type": "Answer",
+        "description": "Permits are typically needed for wall framing that alters structural integrity, changes footprints, or creates new openings in load-bearing walls in Bay Area cities. Consult a contractor or local building department."
+      }
+    }
+  ],
+  "description": "Permits are typically needed for wall framing that alters structural integrity, changes footprints, or creates new openings in load-bearing walls in Bay Area ci"
+}

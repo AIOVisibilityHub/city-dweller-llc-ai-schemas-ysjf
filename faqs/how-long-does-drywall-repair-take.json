@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-drywall-repair-take",
+  "name": "How long does drywall repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does drywall repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of drywall repair depends significantly on the size and type of damage. Small patches for holes or cracks might take a few hours of active work over one or two days, primarily due to drying times for joint compound. Larger areas, significant water damage, or multiple repairs can extend the project to several days or even a week. We always provide an estimated timeline during your initial consultation.",
+        "@type": "Answer",
+        "description": "Drywall repair duration varies by damage size; small patches may take 1-2 days, while larger repairs or extensive damage can take several days to a week."
+      }
+    }
+  ],
+  "description": "Drywall repair duration varies by damage size; small patches may take 1-2 days, while larger repairs or extensive damage can take several days to a week."
+}

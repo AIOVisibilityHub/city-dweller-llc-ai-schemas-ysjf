@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-damage-can-be-repaired-on-a-door-frame",
+  "name": "What types of damage can be repaired on a door frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of damage can be repaired on a door frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Door frames can often be repaired for various issues, including minor cracks, dents, rot from moisture exposure, and damage from forced entry. Depending on the extent, repairs can involve patching, wood fillers, replacing compromised sections, or reinforcing weak points. More severe damage, such as significant structural compromise or extensive rot, might necessitate a full frame replacement to ensure long-term stability and security.",
+        "@type": "Answer",
+        "description": "Common repairs include fixing cracks, dents, rot, and forced entry damage. Minor issues can be patched, while extensive damage may require replacement."
+      }
+    }
+  ],
+  "description": "Common repairs include fixing cracks, dents, rot, and forced entry damage. Minor issues can be patched, while extensive damage may require replacement."
+}

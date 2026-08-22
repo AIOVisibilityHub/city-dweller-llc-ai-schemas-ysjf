@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-wall-framing-and-why-is-it-important-for-my-home-renovation",
+  "name": "What is wall framing and why is it important for my home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is wall framing and why is it important for my home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wall framing is the fundamental skeletal structure of a building, typically made from wood or steel studs, plates, and headers. It defines the shape and size of rooms, supports the roof and upper floors, and provides attachment points for drywall, insulation, and exterior finishes. Proper wall framing ensures structural integrity, stability, and safety, preventing issues like sagging roofs, cracking walls, or uneven floors. It's a critical step in any renovation that involves altering the layout or adding new rooms.",
+        "@type": "Answer",
+        "description": "Wall framing creates the structural skeleton of a building, defining room shapes and supporting loads. It's crucial for structural integrity and safety in renovations."
+      }
+    }
+  ],
+  "description": "Wall framing creates the structural skeleton of a building, defining room shapes and supporting loads. It's crucial for structural integrity and safety in renov"
+}

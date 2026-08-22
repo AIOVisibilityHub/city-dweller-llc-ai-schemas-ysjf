@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-custom-framing-for-residential-properties",
+  "name": "What is custom framing for residential properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is custom framing for residential properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom framing in residential construction involves building the structural skeleton of a house or addition according to specific architectural plans. This includes erecting walls, floors, and roof systems using lumber and other materials. It's the foundational stage that defines the layout, size, and integrity of the living spaces before insulation, drywall, and finishes are installed. This process ensures the home meets local building codes and structural requirements, providing a safe and durable structure tailored to the homeowner's design specifications.",
+        "@type": "Answer",
+        "description": "Custom framing constructs the structural skeleton of a house, including walls, floors, and roofs, based on architectural plans. It's the foundational stage that defines the home's layout and structural integrity."
+      }
+    }
+  ],
+  "description": "Custom framing constructs the structural skeleton of a house, including walls, floors, and roofs, based on architectural plans. It's the foundational stage that"
+}

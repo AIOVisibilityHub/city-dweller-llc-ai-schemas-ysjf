@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-hire-a-separate-finish-carpenter-or-can-my-general-contractor-handl",
+  "name": "Do I need to hire a separate finish carpenter or can my general contractor handle it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to hire a separate finish carpenter or can my general contractor handle it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many general contractors, including City Dweller, LLC, have skilled finish carpenters on staff or work with trusted subcontractors who specialize in this craft. Hiring a general contractor who oversees finish carpentry as part of the overall project can streamline communication, ensure better coordination between trades, and simplify project management. It often provides a more cohesive timeline and a single point of contact, rather than managing multiple independent contractors.",
+        "@type": "Answer",
+        "description": "A general contractor can often handle or oversee finish carpentry, simplifying project management and ensuring coordination with other trades."
+      }
+    }
+  ],
+  "description": "A general contractor can often handle or oversee finish carpentry, simplifying project management and ensuring coordination with other trades."
+}

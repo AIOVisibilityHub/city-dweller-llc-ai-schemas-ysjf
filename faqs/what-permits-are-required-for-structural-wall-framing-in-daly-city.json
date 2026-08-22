@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-permits-are-required-for-structural-wall-framing-in-daly-city",
+  "name": "What permits are required for structural wall framing in Daly City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for structural wall framing in Daly City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For any project involving new structural wall framing, significant modifications to existing framing, or additions that change the structural footprint, you will almost certainly need a building permit from the City of Daly City's building department. This includes ensuring compliance with local zoning ordinances, seismic requirements, and all applicable building codes. A licensed general contractor will typically manage the permit application process, including submitting plans and facilitating inspections, to ensure all work is approved and up to standard.",
+        "@type": "Answer",
+        "description": "Building permits are required from Daly City for new structural framing or significant modifications. A licensed contractor typically manages this process."
+      }
+    }
+  ],
+  "description": "Building permits are required from Daly City for new structural framing or significant modifications. A licensed contractor typically manages this process."
+}

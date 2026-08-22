@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-a-section-of-drywall-instead-of-repairing-it",
+  "name": "When should I consider replacing a section of drywall instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing a section of drywall instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider replacing a section of drywall when the damage is extensive, such as large holes over 6 inches in diameter, severe water damage that has compromised the board's integrity (making it soft, moldy, or crumbling), or widespread impact damage. While repairs are often feasible, replacing a section can be more time-efficient and cost-effective than attempting to salvage severely damaged drywall, ensuring a more stable and aesthetically pleasing result for painting.",
+        "@type": "Answer",
+        "description": "Replace drywall for extensive damage like large holes, severe water damage, or widespread impact, as it can be more efficient and provide a better outcome than repair."
+      }
+    }
+  ],
+  "description": "Replace drywall for extensive damage like large holes, severe water damage, or widespread impact, as it can be more efficient and provide a better outcome than"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-door-frames-are-available-for-installation",
+  "name": "What types of door frames are available for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of door frames are available for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Door frames come in various materials and styles, each suited for different applications. Common types include wood frames, which offer classic aesthetics and good insulation; metal frames, known for their durability and security, often used in commercial settings; and fiberglass frames, which are low-maintenance and resistant to rot or insects. Pre-hung door units include the frame, door, and hinges, simplifying installation. The best choice depends on the door's location, desired security, and aesthetic preferences for your Bay Area property.",
+        "@type": "Answer",
+        "description": "Common door frame types include wood, metal, and fiberglass, each offering different benefits for durability, aesthetics, and maintenance."
+      }
+    }
+  ],
+  "description": "Common door frame types include wood, metal, and fiberglass, each offering different benefits for durability, aesthetics, and maintenance."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/does-homeowner-s-insurance-cover-water-damaged-drywall-replacement",
+  "name": "Does homeowner's insurance cover water-damaged drywall replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does homeowner's insurance cover water-damaged drywall replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance typically covers water damage if it's sudden and accidental, such as a burst pipe or storm damage. However, it usually does not cover damage resulting from neglect, poor maintenance, or continuous leaks that could have been prevented. It's crucial to review your specific policy and contact your insurance provider as soon as possible after discovering the damage to understand your coverage and filing requirements.",
+        "@type": "Answer",
+        "description": "Insurance usually covers sudden accidental water damage, but not damage from neglect or preventable leaks."
+      }
+    }
+  ],
+  "description": "Insurance usually covers sudden accidental water damage, but not damage from neglect or preventable leaks."
+}

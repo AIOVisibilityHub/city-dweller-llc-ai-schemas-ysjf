@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-affects-the-cost-of-drywall-repair-in-the-bay-area",
+  "name": "What affects the cost of drywall repair in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What affects the cost of drywall repair in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of drywall repair in the Bay Area, including cities like Pacifica and Daly City, is influenced by several factors. These include the size and complexity of the damage (e.g., small holes versus large sections requiring new drywall), the type of finish required (e.g., smooth vs. textured match), the accessibility of the area, and local labor rates. Professionals also factor in material costs, which can vary. Getting a detailed quote is always recommended.",
+        "@type": "Answer",
+        "description": "Costs in the Bay Area depend on damage size and complexity, finish type, accessibility, local labor rates, and material costs."
+      }
+    }
+  ],
+  "description": "Costs in the Bay Area depend on damage size and complexity, finish type, accessibility, local labor rates, and material costs."
+}

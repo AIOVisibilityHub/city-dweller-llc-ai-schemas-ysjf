@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-common-drywall-damage-that-requires-restoration",
+  "name": "What causes common drywall damage that requires restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes common drywall damage that requires restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common causes of drywall damage include accidental impacts, such as furniture bumps or doorknob dents. Water leaks from plumbing or roofs are a frequent culprit, leading to stains, softening, or mold growth. Foundation shifts or settling can cause cracks, especially around door and window frames. Everyday wear and tear, previous poor repairs, or even pest infestations can also necessitate drywall restoration to maintain your home's integrity and appearance.",
+        "@type": "Answer",
+        "description": "Common drywall damage sources include impacts, water leaks, foundation shifts causing cracks, and general wear and tear."
+      }
+    }
+  ],
+  "description": "Common drywall damage sources include impacts, water leaks, foundation shifts causing cracks, and general wear and tear."
+}

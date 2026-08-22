@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-drywall-hole-repair-cost-in-the-bay-area",
+  "name": "How much does drywall hole repair cost in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does drywall hole repair cost in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of drywall hole repair in the Bay Area varies depending on the size and number of holes, the complexity of the damage, and whether painting is included. Small patch repairs might start around $150-$300, while larger repairs or those requiring texture matching could range from $300 to $600 or more per area. It's best to get a detailed estimate for your specific situation.",
+        "@type": "Answer",
+        "description": "Drywall repair costs in the Bay Area depend on hole size, complexity, and whether painting is included, typically ranging from $150 to over $600."
+      }
+    }
+  ],
+  "description": "Drywall repair costs in the Bay Area depend on hole size, complexity, and whether painting is included, typically ranging from $150 to over $600."
+}

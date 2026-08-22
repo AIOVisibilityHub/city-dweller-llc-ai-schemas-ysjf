@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-ceiling-drywall-damage",
+  "name": "What causes ceiling drywall damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes ceiling drywall damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ceiling drywall damage can stem from several common issues. Water leaks are a primary cause, often from plumbing, roof leaks, or condensation, leading to stains, softening, or sagging. Structural movement can cause cracks, especially near joists or corners. Impact damage from falling objects or accidents is another factor. Additionally, poor installation or aging materials can contribute to wear and tear over time, necessitating repairs.",
+        "@type": "Answer",
+        "description": "Common causes include water leaks, structural shifts, impact damage, and material aging."
+      }
+    }
+  ],
+  "description": "Common causes include water leaks, structural shifts, impact damage, and material aging."
+}

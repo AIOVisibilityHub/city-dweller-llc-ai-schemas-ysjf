@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-structural-wall-framing-and-why-is-it-important-for-my-home",
+  "name": "What is structural wall framing and why is it important for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is structural wall framing and why is it important for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Structural wall framing creates the skeleton of your home, providing essential support for floors, roofs, and all building loads. It defines the shape of rooms, provides surfaces for finishes like drywall, and creates spaces for insulation, wiring, and plumbing. Proper framing ensures your home's stability, safety, and longevity, especially in areas prone to seismic activity like the Bay Area. A well-built frame is fundamental to the entire structure, preventing issues like sagging floors or cracking walls over time.",
+        "@type": "Answer",
+        "description": "Structural wall framing forms the load-bearing skeleton of your home, ensuring its stability, safety, and shape. It supports all building loads and creates space for utilities."
+      }
+    }
+  ],
+  "description": "Structural wall framing forms the load-bearing skeleton of your home, ensuring its stability, safety, and shape. It supports all building loads and creates spac"
+}

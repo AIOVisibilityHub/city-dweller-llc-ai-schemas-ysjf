@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-framing-a-new-partition-wall",
+  "name": "What is the typical process for framing a new partition wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for framing a new partition wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with planning and marking the wall's location on the floor and ceiling. Next, bottom and top plates are secured, followed by cutting and installing vertical studs at regular intervals, typically 16 or 24 inches on center. Special framing is then added for door and window openings. Bracing and blocking might be included for stability or to support fixtures before utilities like electrical and plumbing are roughed in.",
+        "@type": "Answer",
+        "description": "The process involves marking, securing plates, installing studs, framing openings, adding bracing, and roughing in utilities."
+      }
+    }
+  ],
+  "description": "The process involves marking, securing plates, installing studs, framing openings, adding bracing, and roughing in utilities."
+}

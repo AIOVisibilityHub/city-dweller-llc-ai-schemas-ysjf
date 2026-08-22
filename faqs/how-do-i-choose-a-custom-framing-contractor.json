@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-a-custom-framing-contractor",
+  "name": "How do I choose a custom framing contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a custom framing contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a custom framing contractor, look for experience, strong communication, and a proven track record. Verify their licensing and insurance to ensure they meet local requirements and protect your project. Ask for references from past clients and review their portfolio to assess the quality of their work. A good contractor should provide a detailed, transparent bid and be able to answer all your questions thoroughly. Prioritize a contractor who demonstrates a clear understanding of your project’s scope and local building codes.",
+        "@type": "Answer",
+        "description": "Choose a custom framing contractor based on experience, licensing, insurance, and references. Ensure they provide a transparent bid and understand your project's scope and local codes."
+      }
+    }
+  ],
+  "description": "Choose a custom framing contractor based on experience, licensing, insurance, and references. Ensure they provide a transparent bid and understand your project'"
+}

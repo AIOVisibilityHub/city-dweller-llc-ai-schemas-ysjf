@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-interior-framing-a-new-wall",
+  "name": "What is the typical process for interior framing a new wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for interior framing a new wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process for framing a new interior wall begins with laying out the wall's location on the floor and ceiling. Next, the top and bottom plates (horizontal members) are cut and secured. Vertical studs are then measured, cut, and fastened between the plates at appropriate intervals, usually 16 or 24 inches on center. Openings for doors and windows are created using headers, sills, and king/jack studs. Finally, blocking and bracing might be added for stability or to support future fixtures, followed by necessary inspections.",
+        "@type": "Answer",
+        "description": "Framing a new wall involves marking its location, securing top and bottom plates, installing vertical studs, and creating door/window openings."
+      }
+    }
+  ],
+  "description": "Framing a new wall involves marking its location, securing top and bottom plates, installing vertical studs, and creating door/window openings."
+}

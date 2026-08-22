@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-tape-and-mud-drywall",
+  "name": "How long does it take to tape and mud drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to tape and mud drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration for taping and mudding drywall varies significantly based on the project size, complexity, and drying times between coats. Typically, for a standard room, the process can take anywhere from 3 to 7 days, including application of multiple mud coats and sanding. Factors like humidity, temperature, and the specific type of joint compound used directly impact drying time, which is the most time-consuming part of the process. Larger or more intricate areas will naturally require more time.",
+        "@type": "Answer",
+        "description": "It typically takes 3 to 7 days for a standard room, depending on project size, complexity, and drying times between mud coats."
+      }
+    }
+  ],
+  "description": "It typically takes 3 to 7 days for a standard room, depending on project size, complexity, and drying times between mud coats."
+}

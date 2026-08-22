@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-wood-and-metal-stud-framing-for-interior-walls",
+  "name": "What's the difference between wood and metal stud framing for interior walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between wood and metal stud framing for interior walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wood stud framing is a traditional and common method, offering good sound dampening and ease of modification, often preferred for residential projects due to its warmth and familiar feel. Metal stud framing, typically galvanized steel, is lighter, resistant to rot, termites, and fire, and offers greater uniformity. While often used in commercial buildings, metal studs are increasingly chosen for residential interiors for their durability and straightness. The choice often depends on budget, specific structural needs, and desired long-term performance.",
+        "@type": "Answer",
+        "description": "Wood studs are traditional, offer good sound dampening, and are easy to modify. Metal studs are lighter, rot-resistant, fire-resistant, and more uniform."
+      }
+    }
+  ],
+  "description": "Wood studs are traditional, offer good sound dampening, and are easy to modify. Metal studs are lighter, rot-resistant, fire-resistant, and more uniform."
+}

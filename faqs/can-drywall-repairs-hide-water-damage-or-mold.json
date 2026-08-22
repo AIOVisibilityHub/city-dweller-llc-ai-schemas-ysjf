@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-drywall-repairs-hide-water-damage-or-mold",
+  "name": "Can drywall repairs hide water damage or mold?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can drywall repairs hide water damage or mold?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall repairs should never simply hide water damage or mold. Before any repair, the underlying cause of water damage must be identified and fixed, and any mold growth must be professionally remediated. Simply patching over these issues will lead to recurring problems and could pose significant health risks, potentially jeopardizing a home sale or leading to future legal complications. City Dweller, LLC addresses the source before repairing the surface.",
+        "@type": "Answer",
+        "description": "No, drywall repairs should not hide water damage or mold. The underlying issues must be fixed and remediated first."
+      }
+    }
+  ],
+  "description": "No, drywall repairs should not hide water damage or mold. The underlying issues must be fixed and remediated first."
+}

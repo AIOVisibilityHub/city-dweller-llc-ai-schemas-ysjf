@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-drywall-repair-or-installation-cost-in-the-bay-area",
+  "name": "How much does drywall repair or installation cost in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does drywall repair or installation cost in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of drywall repair or installation in the Bay Area varies significantly based on factors like the project's size, material chosen (e.g., standard vs. moisture-resistant), complexity of the work (e.g., extensive patching vs. new room installation), and labor rates. Small repairs might be a few hundred dollars, while a full room installation can range from a few thousand. Given the higher cost of living and materials in the Bay Area, prices can be higher than national averages. We provide detailed, transparent quotes after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Drywall costs in the Bay Area vary widely by project size, material, and complexity, with prices generally higher than national averages. We offer detailed quotes."
+      }
+    }
+  ],
+  "description": "Drywall costs in the Bay Area vary widely by project size, material, and complexity, with prices generally higher than national averages. We offer detailed quot"
+}

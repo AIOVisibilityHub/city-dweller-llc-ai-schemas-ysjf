@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-materials-are-commonly-used-for-structural-wall-framing-in-the-bay-area",
+  "name": "What materials are commonly used for structural wall framing in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are commonly used for structural wall framing in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most common material for structural wall framing in the Bay Area is lumber, specifically dimensional lumber such as Douglas Fir or Southern Yellow Pine. Engineered wood products, like LVL (Laminated Veneer Lumber) or PSL (Parallel Strand Lumber), are also frequently used for headers, beams, and larger spans where increased strength and stability are required. Steel framing is another option, often chosen for commercial projects or specific residential applications requiring fire resistance or wider spans, though it is less common for typical residential wall framing.",
+        "@type": "Answer",
+        "description": "Lumber, especially Douglas Fir, is standard for residential framing. Engineered wood products are used for strength, and steel framing is an option for specific needs."
+      }
+    }
+  ],
+  "description": "Lumber, especially Douglas Fir, is standard for residential framing. Engineered wood products are used for strength, and steel framing is an option for specific"
+}

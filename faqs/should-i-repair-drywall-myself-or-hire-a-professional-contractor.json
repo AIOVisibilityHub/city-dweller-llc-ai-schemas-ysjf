@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-repair-drywall-myself-or-hire-a-professional-contractor",
+  "name": "Should I repair drywall myself or hire a professional contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair drywall myself or hire a professional contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For minor imperfections like small nail pops or tiny holes, a DIY repair might be feasible if you have the right tools and experience. However, for significant cracks, large holes, water damage, or if you lack confidence in achieving a seamless finish, hiring a professional contractor is recommended. Professionals ensure a smooth, durable repair that blends seamlessly with existing walls, crucial for presenting your home in its best light to potential buyers.",
+        "@type": "Answer",
+        "description": "Hire a professional for significant damage or if you want a flawless finish. DIY is suitable only for very minor, simple repairs."
+      }
+    }
+  ],
+  "description": "Hire a professional for significant damage or if you want a flawless finish. DIY is suitable only for very minor, simple repairs."
+}

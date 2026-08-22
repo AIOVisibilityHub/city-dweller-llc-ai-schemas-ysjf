@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-do-i-need-new-door-opening-framing",
+  "name": "When do I need new door opening framing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need new door opening framing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New door opening framing is typically needed when installing a new door, enlarging an existing doorway, or repairing damage to the current frame. This includes situations during a renovation where a wall is being altered, or if an existing door frame shows signs of structural issues like significant cracks, rot, or shifting that affect the door's operation or the wall's stability. It's also essential when changing a standard door to a larger or specialized door type.",
+        "@type": "Answer",
+        "description": "New framing is needed for new door installations, enlarging existing openings, or repairing damaged frames."
+      }
+    }
+  ],
+  "description": "New framing is needed for new door installations, enlarging existing openings, or repairing damaged frames."
+}

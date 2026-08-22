@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-drywall-texture-matching-cost",
+  "name": "How much does drywall texture matching cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does drywall texture matching cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of drywall texture matching varies based on several factors, including the extent of the damage, the complexity of the existing texture, and the area needing repair. Smaller patch jobs might cost less, while larger areas or intricate textures like skip trowel will be more expensive due to increased labor and material requirements. Getting a detailed estimate from a contractor is crucial to understand the specific costs for your project.",
+        "@type": "Answer",
+        "description": "Cost varies based on damage extent, texture complexity, and repair area. Larger or more intricate jobs will cost more."
+      }
+    }
+  ],
+  "description": "Cost varies based on damage extent, texture complexity, and repair area. Larger or more intricate jobs will cost more."
+}

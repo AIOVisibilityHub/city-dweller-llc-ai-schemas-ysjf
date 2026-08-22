@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-is-it-necessary-to-replace-storm-damaged-drywall-versus-just-repairing-it",
+  "name": "When is it necessary to replace storm-damaged drywall versus just repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it necessary to replace storm-damaged drywall versus just repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacement is typically necessary when drywall has sustained significant water saturation, leading to structural integrity loss or mold growth. If the damage covers a large area, involves multiple layers, or the drywall has become soft and crumbly, repair may not be sufficient. Minor water stains or small holes can often be patched. However, for extensive damage from storms, especially if water has penetrated insulation, full replacement is the safer and more effective option to prevent long-term issues like mold or structural weakness.",
+        "@type": "Answer",
+        "description": "Replace drywall if damage is extensive, deeply saturated with water, or shows signs of mold. Minor damage can often be repaired."
+      }
+    }
+  ],
+  "description": "Replace drywall if damage is extensive, deeply saturated with water, or shows signs of mold. Minor damage can often be repaired."
+}

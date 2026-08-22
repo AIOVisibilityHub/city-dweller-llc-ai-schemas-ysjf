@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-repair-ceiling-drywall-myself-versus-hiring-a-professional",
+  "name": "When should I repair ceiling drywall myself versus hiring a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair ceiling drywall myself versus hiring a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Small cracks or minor holes, typically less than a few inches, can often be addressed by an experienced homeowner with basic tools and patching compounds. However, if the damage is extensive, involves water damage, structural issues, or covers a large area, hiring a professional is recommended. Professionals ensure proper preparation, seamless repairs, and address underlying issues, which can prevent future problems and maintain home value.",
+        "@type": "Answer",
+        "description": "Minor damage can be DIY; extensive water damage, structural issues, or large areas require professional repair."
+      }
+    }
+  ],
+  "description": "Minor damage can be DIY; extensive water damage, structural issues, or large areas require professional repair."
+}

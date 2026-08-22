@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-repairing-a-large-hole-in-drywall",
+  "name": "What is the process for repairing a large hole in drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a large hole in drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For larger holes (over 6 inches), the process typically involves cutting out the damaged section to create a clean, square opening. A new piece of drywall, cut to fit precisely, is then secured to furring strips or existing studs behind the wall. Joints are taped, and multiple layers of joint compound are applied, feathered out, and sanded smooth to blend seamlessly with the surrounding wall. Finally, the repaired area is primed, ready for paint.",
+        "@type": "Answer",
+        "description": "Large drywall holes are repaired by cutting out the damage, installing a new drywall patch, taping, applying and sanding joint compound, then priming."
+      }
+    }
+  ],
+  "description": "Large drywall holes are repaired by cutting out the damage, installing a new drywall patch, taping, applying and sanding joint compound, then priming."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-framing-a-new-doorway-in-an-existing-wall",
+  "name": "What is the typical process for framing a new doorway in an existing wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for framing a new doorway in an existing wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Framing a new doorway involves several key steps. First, the exact location and dimensions are marked. If it's a load-bearing wall, temporary supports are installed to carry the load above. The existing wall material is then carefully cut and removed. Next, vertical studs (jacks and kings) are installed to frame the sides of the opening, and a horizontal header is installed above the opening to support the weight from above. Cripple studs are added between the header and the top plate. Finally, a sill plate might be installed at the bottom. This ensures the opening is structurally sound and ready for a door frame.",
+        "@type": "Answer",
+        "description": "Framing a new doorway involves marking, temporarily supporting if load-bearing, cutting, and then installing vertical studs, a header, and cripple studs to create a structurally sound opening."
+      }
+    }
+  ],
+  "description": "Framing a new doorway involves marking, temporarily supporting if load-bearing, cutting, and then installing vertical studs, a header, and cripple studs to crea"
+}

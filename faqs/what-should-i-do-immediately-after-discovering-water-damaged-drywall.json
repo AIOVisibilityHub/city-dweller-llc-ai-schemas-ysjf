@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-do-immediately-after-discovering-water-damaged-drywall",
+  "name": "What should I do immediately after discovering water-damaged drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after discovering water-damaged drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately after discovering water-damaged drywall, your first step should be to stop the water source to prevent further damage. Then, ventilate the area to promote drying and prevent mold growth. Take photos of the damage for insurance purposes. Avoid touching or disturbing visibly moldy areas. Contact a qualified general contractor or water damage restoration specialist promptly to assess the extent of the damage and plan for remediation and repair.",
+        "@type": "Answer",
+        "description": "Stop the water source, ventilate the area, document damage, and contact a professional contractor immediately."
+      }
+    }
+  ],
+  "description": "Stop the water source, ventilate the area, document damage, and contact a professional contractor immediately."
+}

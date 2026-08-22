@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-drywall-texture-matching",
+  "name": "What is drywall texture matching?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is drywall texture matching?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall texture matching is the process of repairing damaged drywall in a way that replicates the existing wall or ceiling texture. This ensures a seamless blend between the old and new surfaces, avoiding noticeable patches. Techniques vary depending on the original texture, such as smooth, orange peel, knockdown, or skip trowel. Achieving a good match requires skilled application and knowledge of different texturing methods to integrate repairs into the surrounding area.",
+        "@type": "Answer",
+        "description": "Drywall texture matching repairs damaged drywall by replicating the existing wall or ceiling texture for a seamless blend."
+      }
+    }
+  ],
+  "description": "Drywall texture matching repairs damaged drywall by replicating the existing wall or ceiling texture for a seamless blend."
+}

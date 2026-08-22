@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-my-homeowner-s-insurance-cover-storm-damaged-drywall-replacement",
+  "name": "Will my homeowner's insurance cover storm-damaged drywall replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover storm-damaged drywall replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard homeowner's insurance policies cover storm-related damage, including drywall replacement, as long as the damage was sudden and accidental. This typically includes damage from wind, hail, or direct rain intrusion caused by a covered peril. However, policies often exclude damage from floods or gradual leaks. It's essential to review your specific policy, understand your deductible, and contact your insurance provider promptly to file a claim and confirm coverage details.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance usually covers sudden storm-related drywall damage but check your specific policy for exclusions like floods."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance usually covers sudden storm-related drywall damage but check your specific policy for exclusions like floods."
+}

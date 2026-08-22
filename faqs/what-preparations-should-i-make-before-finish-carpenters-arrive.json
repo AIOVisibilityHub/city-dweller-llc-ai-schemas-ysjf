@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-preparations-should-i-make-before-finish-carpenters-arrive",
+  "name": "What preparations should I make before finish carpenters arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations should I make before finish carpenters arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before finish carpenters arrive, ensure the work area is clear of furniture, personal belongings, and any debris. Walls should be painted with at least the first coat, and flooring should ideally be installed or protected. Ensure access to power outlets and a well-lit workspace. Discuss material delivery and storage locations beforehand. Having these preparations complete helps the carpenters work efficiently and prevents delays, ensuring a smoother installation process.",
+        "@type": "Answer",
+        "description": "Prepare for finish carpenters by clearing the work area, ensuring walls are painted, and having flooring installed or protected to facilitate efficient work."
+      }
+    }
+  ],
+  "description": "Prepare for finish carpenters by clearing the work area, ensuring walls are painted, and having flooring installed or protected to facilitate efficient work."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-try-to-remove-wet-drywall-myself-after-a-storm",
+  "name": "Should I try to remove wet drywall myself after a storm?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I try to remove wet drywall myself after a storm?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it might seem like a way to save money, removing wet drywall yourself after a storm carries risks. You could expose yourself to mold, which can cause health issues, or improperly assess the extent of water damage, leading to future problems. There's also a risk of damaging electrical wiring, plumbing, or structural elements behind the walls. Professional contractors have the proper safety equipment, tools, and expertise to safely remove damaged materials and accurately evaluate the scope of repairs needed.",
+        "@type": "Answer",
+        "description": "DIY removal risks mold exposure, incorrect damage assessment, and damage to hidden utilities. Professionals offer safer, more thorough service."
+      }
+    }
+  ],
+  "description": "DIY removal risks mold exposure, incorrect damage assessment, and damage to hidden utilities. Professionals offer safer, more thorough service."
+}

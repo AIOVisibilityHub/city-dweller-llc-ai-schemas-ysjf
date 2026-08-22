@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-different-levels-of-drywall-finish",
+  "name": "What are the different levels of drywall finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the different levels of drywall finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall finishes are categorized into levels, from 0 to 5, indicating the smoothness and preparation for final decoration. Level 0 means no finishing. Level 1 involves embedding tape in joint compound. Level 2 adds a thin coat over tape and fasteners. Level 3 includes a second coat over joints and fasteners, suitable for heavy textures. Level 4 adds a third coat, ideal for flat paints or light textures. Level 5 is the highest standard, requiring a skim coat over the entire surface for optimal smoothness, recommended for glossy paints and critical lighting.",
+        "@type": "Answer",
+        "description": "Drywall finishes range from Level 0 (no finish) to Level 5 (a skim coat over the entire surface for maximum smoothness)."
+      }
+    }
+  ],
+  "description": "Drywall finishes range from Level 0 (no finish) to Level 5 (a skim coat over the entire surface for maximum smoothness)."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-do-before-a-drywall-repair-team-arrives",
+  "name": "What should I do before a drywall repair team arrives?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do before a drywall repair team arrives?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before the drywall repair team arrives, please clear the work area by moving furniture, wall hangings, and other items away from the damaged section. Covering nearby items with plastic sheeting can help protect them from dust. Ensure clear access to the repair site and inform us of any specific concerns or access limitations you may have. This preparation helps our team work efficiently and effectively.",
+        "@type": "Answer",
+        "description": "Clear the work area of furniture and wall hangings, cover nearby items to protect from dust, and ensure clear access for the repair team."
+      }
+    }
+  ],
+  "description": "Clear the work area of furniture and wall hangings, cover nearby items to protect from dust, and ensure clear access for the repair team."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-tell-if-a-crack-in-my-drywall-is-structural-or-cosmetic",
+  "name": "How can I tell if a crack in my drywall is structural or cosmetic?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if a crack in my drywall is structural or cosmetic?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Distinguishing between structural and cosmetic cracks is important. Cosmetic cracks are usually thin, hairline, and often appear near windows, doors, or ceiling corners due to normal house settling. Structural cracks are typically wider than 1/8 inch, zig-zag shaped, extend across walls and ceilings, and may be accompanied by other signs like sticking doors or windows. If you suspect a structural issue, it's advisable to consult a structural engineer or general contractor.",
+        "@type": "Answer",
+        "description": "Cosmetic cracks are thin and hairline, often from settling. Structural cracks are wider, zig-zag, and may indicate deeper issues, warranting professional inspection."
+      }
+    }
+  ],
+  "description": "Cosmetic cracks are thin and hairline, often from settling. Structural cracks are wider, zig-zag, and may indicate deeper issues, warranting professional inspec"
+}

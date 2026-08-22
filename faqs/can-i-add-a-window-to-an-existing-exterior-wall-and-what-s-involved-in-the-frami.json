@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-add-a-window-to-an-existing-exterior-wall-and-what-s-involved-in-the-frami",
+  "name": "Can I add a window to an existing exterior wall, and what's involved in the framing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a window to an existing exterior wall, and what's involved in the framing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, adding a window to an existing exterior wall is a common renovation. The process involves careful planning, often requiring a building permit due to structural modifications and energy efficiency considerations. The framing work includes cutting an opening in the existing wall, installing a new header (a strong horizontal beam) above the window opening to support the weight from above, and adding cripple studs, jack studs, and a window sill. Proper flashing and sealing are also crucial to prevent water intrusion. This ensures the structural integrity and weatherproofing of your home.",
+        "@type": "Answer",
+        "description": "Yes, adding a window to an exterior wall is possible, involving cutting an opening, installing a new header for support, and framing with cripple, jack, and sill studs. A permit is usually required."
+      }
+    }
+  ],
+  "description": "Yes, adding a window to an exterior wall is possible, involving cutting an opening, installing a new header for support, and framing with cripple, jack, and sil"
+}

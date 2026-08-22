@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-drywall-damage-require-repair-before-painting",
+  "name": "What types of drywall damage require repair before painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of drywall damage require repair before painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before painting, common drywall damage needing repair includes small holes from nails or anchors, larger holes from impacts, cracks due to settling or structural shifts, water damage stains or warped sections, and uneven textures from previous repairs. Additionally, loose joint tape or peeling paint edges should be re-secured or feathered. Any imperfection that creates an uneven surface or compromises the integrity of the drywall should be addressed.",
+        "@type": "Answer",
+        "description": "Common damage includes holes, cracks, water damage, and uneven textures. All imperfections affecting the surface or integrity need repair."
+      }
+    }
+  ],
+  "description": "Common damage includes holes, cracks, water damage, and uneven textures. All imperfections affecting the surface or integrity need repair."
+}

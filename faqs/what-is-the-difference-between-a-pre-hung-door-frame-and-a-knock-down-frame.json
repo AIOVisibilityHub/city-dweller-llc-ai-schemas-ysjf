@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-a-pre-hung-door-frame-and-a-knock-down-frame",
+  "name": "What is the difference between a pre-hung door frame and a knock-down frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a pre-hung door frame and a knock-down frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pre-hung door frame comes as a complete unit with the door already installed in the frame, including hinges and often the bore for the doorknob. This option simplifies installation as it's designed to fit directly into a prepared rough opening. A knock-down frame, also known as a slab door frame kit, comes as separate pieces that need to be assembled on-site before the door slab is hung. Pre-hung units are generally faster to install, while knock-down frames offer more flexibility for custom sizing or specific door hardware.",
+        "@type": "Answer",
+        "description": "A pre-hung frame includes the door and frame as a complete unit for easier installation, while a knock-down frame comes in pieces for assembly on-site."
+      }
+    }
+  ],
+  "description": "A pre-hung frame includes the door and frame as a complete unit for easier installation, while a knock-down frame comes in pieces for assembly on-site."
+}

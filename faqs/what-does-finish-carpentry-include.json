@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-does-finish-carpentry-include",
+  "name": "What does finish carpentry include?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does finish carpentry include?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Finish carpentry focuses on the visible, aesthetic elements of a construction project. This includes installing trim work like baseboards, crown molding, door and window casings, and chair rails. It also covers the installation of custom built-ins, wainscoting, mantels, and cabinetry. The goal is to enhance the interior's visual appeal and provide a polished look, often involving precise measurements and careful detailing to achieve a high-quality finish.",
+        "@type": "Answer",
+        "description": "Finish carpentry involves installing visible, aesthetic elements like trim, molding, built-ins, and cabinetry to complete the interior look of a space."
+      }
+    }
+  ],
+  "description": "Finish carpentry involves installing visible, aesthetic elements like trim, molding, built-ins, and cabinetry to complete the interior look of a space."
+}

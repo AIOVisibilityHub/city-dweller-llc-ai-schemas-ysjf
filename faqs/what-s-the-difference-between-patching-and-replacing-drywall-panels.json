@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-patching-and-replacing-drywall-panels",
+  "name": "What's the difference between patching and replacing drywall panels?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between patching and replacing drywall panels?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Patching is suitable for minor damage like small holes, dents, or localized water stains where the surrounding drywall is intact and dry. It involves applying joint compound or using a small patch kit. Replacement, on the other than, is necessary for larger areas of damage, significant water saturation, or structural compromise where the integrity of the drywall is lost. Replacing full panels ensures a more uniform finish and addresses deeper issues like mold or weakened structure, which patching cannot effectively resolve.",
+        "@type": "Answer",
+        "description": "Patching is for minor damage, while replacement is for larger areas, significant water saturation, or structural compromise."
+      }
+    }
+  ],
+  "description": "Patching is for minor damage, while replacement is for larger areas, significant water saturation, or structural compromise."
+}

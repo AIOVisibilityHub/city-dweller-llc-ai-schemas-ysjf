@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/is-priming-necessary-after-drywall-repair-and-before-painting",
+  "name": "Is priming necessary after drywall repair and before painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is priming necessary after drywall repair and before painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, priming after drywall repair and before painting is essential. Repaired areas, especially those with new joint compound, are highly porous and absorb paint differently than the surrounding undamaged drywall. Without primer, the new paint will look dull and uneven, creating 'flashing' or blotchy spots. Primer seals the repaired surface, equalizes porosity, and provides a uniform base for the topcoat, ensuring consistent color and sheen.",
+        "@type": "Answer",
+        "description": "Yes, priming is essential. It seals porous repaired areas, prevents uneven paint absorption, and ensures a uniform color and sheen for the topcoat."
+      }
+    }
+  ],
+  "description": "Yes, priming is essential. It seals porous repaired areas, prevents uneven paint absorption, and ensures a uniform color and sheen for the topcoat."
+}

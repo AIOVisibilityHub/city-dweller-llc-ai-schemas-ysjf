@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-storm-damaged-drywall-replacement",
+  "name": "What is the typical process for storm-damaged drywall replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for storm-damaged drywall replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with a thorough inspection to assess the damage and identify affected areas, including behind walls. Next, the damaged sections of drywall are carefully removed, along with any wet insulation or debris. The area is then dried completely, often using industrial fans and dehumidifiers, to prevent mold. New drywall panels are cut and installed, followed by taping, mudding, and sanding to create a smooth surface. Finally, the area is primed and painted to match the existing interior.",
+        "@type": "Answer",
+        "description": "The process involves inspection, removal of damaged sections, drying, new drywall installation, finishing, and painting."
+      }
+    }
+  ],
+  "description": "The process involves inspection, removal of damaged sections, drying, new drywall installation, finishing, and painting."
+}

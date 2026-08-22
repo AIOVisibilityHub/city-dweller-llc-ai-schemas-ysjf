@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-issues-that-can-occur-during-drywall-taping-and-mudding",
+  "name": "What are the common issues that can occur during drywall taping and mudding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common issues that can occur during drywall taping and mudding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common issues include visible seams, nail pops, and cracking. Visible seams often result from insufficient mud coats or improper sanding. Nail pops occur when screws are not properly seated or framing lumber shrinks. Cracking can be caused by structural movement, insufficient tape, or applying mud too thickly. Other problems might include 'blisters' from trapped air under tape, or an uneven texture from poor sanding techniques. Proper technique and sufficient drying time are crucial to avoid these imperfections.",
+        "@type": "Answer",
+        "description": "Common issues are visible seams, nail pops, cracking, and uneven textures, often due to improper application or insufficient drying."
+      }
+    }
+  ],
+  "description": "Common issues are visible seams, nail pops, cracking, and uneven textures, often due to improper application or insufficient drying."
+}

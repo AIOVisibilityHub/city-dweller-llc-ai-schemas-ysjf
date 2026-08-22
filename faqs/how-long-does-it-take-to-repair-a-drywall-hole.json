@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-repair-a-drywall-hole",
+  "name": "How long does it take to repair a drywall hole?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a drywall hole?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of drywall hole repair depends on the size and number of holes. Small nail holes might take an hour or two. Larger repairs, especially those requiring multiple coats of joint compound and drying time between coats, typically take 1-2 days to complete fully. This includes prep work, patching, sanding, and priming. The drying time for compound is a significant factor in the overall timeline.",
+        "@type": "Answer",
+        "description": "Small drywall hole repairs can take a few hours, while larger repairs needing multiple compound coats and drying time often take 1-2 days."
+      }
+    }
+  ],
+  "description": "Small drywall hole repairs can take a few hours, while larger repairs needing multiple compound coats and drying time often take 1-2 days."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-interior-framing-and-why-is-it-important",
+  "name": "What is interior framing and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is interior framing and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interior framing involves constructing the internal skeletal structure of walls, ceilings, and other architectural features within a building. It establishes the layout and defines rooms, hallways, and open spaces. Proper interior framing ensures structural integrity, supports drywall, insulation, and finishes, and provides pathways for electrical, plumbing, and HVAC systems. It's a critical foundational step that impacts the overall safety, functionality, and aesthetics of a renovation or new construction project.",
+        "@type": "Answer",
+        "description": "Interior framing builds the internal structure of walls and ceilings, defining room layouts and supporting building systems."
+      }
+    }
+  ],
+  "description": "Interior framing builds the internal structure of walls and ceilings, defining room layouts and supporting building systems."
+}

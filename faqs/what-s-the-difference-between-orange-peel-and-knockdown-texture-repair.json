@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-orange-peel-and-knockdown-texture-repair",
+  "name": "What's the difference between orange peel and knockdown texture repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between orange peel and knockdown texture repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Orange peel and knockdown are two distinct drywall textures, each requiring specific repair techniques. Orange peel texture resembles the bumpy surface of an orange, created by spraying thinned joint compound. Repairing it involves precise spraying to match the existing density and pattern. Knockdown texture is created by spraying joint compound and then 'knocking down' the wet peaks with a trowel, resulting in a flatter, yet still textured, finish. Repairing knockdown involves carefully replicating the spray pattern and then troweling correctly to blend the new texture seamlessly. Both require skill to make the repair invisible.",
+        "@type": "Answer",
+        "description": "Orange peel is a sprayed, bumpy texture, repaired by precise spraying. Knockdown involves spraying and then flattening peaks with a trowel, requiring specific blending techniques. Both need distinct repair methods."
+      }
+    }
+  ],
+  "description": "Orange peel is a sprayed, bumpy texture, repaired by precise spraying. Knockdown involves spraying and then flattening peaks with a trowel, requiring specific b"
+}

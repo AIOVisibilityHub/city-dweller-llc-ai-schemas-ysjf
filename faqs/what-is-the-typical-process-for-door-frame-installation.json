@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-door-frame-installation",
+  "name": "What is the typical process for door frame installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for door frame installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Door frame installation typically begins with removing the old frame and preparing the rough opening. This involves ensuring the opening is plumb, level, and square. The new frame is then carefully positioned, shimmed to ensure it's plumb and level, and securely fastened to the wall studs. Insulation is often added around the frame to prevent drafts. Finally, the door itself is hung, and trim is installed to finish the opening. The process is precise to ensure the door operates smoothly and seals properly.",
+        "@type": "Answer",
+        "description": "The process involves removing the old frame, preparing the opening, positioning and securing the new frame, adding insulation, hanging the door, and installing trim."
+      }
+    }
+  ],
+  "description": "The process involves removing the old frame, preparing the opening, positioning and securing the new frame, adding insulation, hanging the door, and installing"
+}

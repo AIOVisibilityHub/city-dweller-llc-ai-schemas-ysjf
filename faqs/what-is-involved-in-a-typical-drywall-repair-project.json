@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-involved-in-a-typical-drywall-repair-project",
+  "name": "What is involved in a typical drywall repair project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a typical drywall repair project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical drywall repair project involves assessing the damage, preparing the area by protecting surrounding surfaces, and then patching or replacing the affected drywall. For small holes, a patch kit might be used. Larger damage requires cutting out the compromised section, installing new drywall, taping the seams, applying multiple layers of joint compound, and sanding until smooth. Finally, the repaired area is primed and painted to match the existing wall. The complexity depends on the extent and type of damage.",
+        "@type": "Answer",
+        "description": "Drywall repair typically involves assessing damage, patching or replacing sections, taping seams, applying joint compound, sanding, and then priming and painting."
+      }
+    }
+  ],
+  "description": "Drywall repair typically involves assessing damage, patching or replacing sections, taping seams, applying joint compound, sanding, and then priming and paintin"
+}

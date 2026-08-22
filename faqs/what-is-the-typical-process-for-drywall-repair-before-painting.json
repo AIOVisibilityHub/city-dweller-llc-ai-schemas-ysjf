@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-drywall-repair-before-painting",
+  "name": "What is the typical process for drywall repair before painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for drywall repair before painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process involves several steps. First, the damaged area is assessed and cleaned. Small holes are filled with spackle or joint compound. Larger holes may require cutting out the damaged section and installing a patch, often with mesh tape and multiple layers of joint compound. Cracks are usually widened slightly, filled, and taped. Each layer of compound is allowed to dry, then sanded smooth. Finally, the repaired area is primed to ensure consistent paint absorption and a uniform finish.",
+        "@type": "Answer",
+        "description": "The process includes cleaning, filling small holes, patching larger ones, taping cracks, applying and sanding multiple layers of joint compound, and priming."
+      }
+    }
+  ],
+  "description": "The process includes cleaning, filling small holes, patching larger ones, taping cracks, applying and sanding multiple layers of joint compound, and priming."
+}

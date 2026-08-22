@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-load-bearing-and-non-load-bearing-partition-walls",
+  "name": "What is the difference between load-bearing and non-load-bearing partition walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between load-bearing and non-load-bearing partition walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A load-bearing wall supports structural weight from above, such as a roof, ceiling, or upper floor, and removing it requires structural engineering. A non-load-bearing partition wall, conversely, only divides space and does not support any significant structural weight. It can generally be modified or removed with less structural impact. Proper identification by a professional is crucial before any modifications.",
+        "@type": "Answer",
+        "description": "Load-bearing walls support structural weight, while non-load-bearing partition walls only divide space and carry no structural load."
+      }
+    }
+  ],
+  "description": "Load-bearing walls support structural weight, while non-load-bearing partition walls only divide space and carry no structural load."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-water-damaged-drywall-be-repaired-or-does-it-always-need-replacement",
+  "name": "Can water-damaged drywall be repaired, or does it always need replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can water-damaged drywall be repaired, or does it always need replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor water-damaged drywall that is still structurally sound and completely dry may sometimes be repaired with specialized treatments to prevent mold and reinforce the area. However, if the drywall has softened, swelled, or developed mold, it typically requires full replacement. Our assessment determines the extent of the damage and recommends the most appropriate and safest solution to restore your walls.",
+        "@type": "Answer",
+        "description": "Minor, dry water damage might be repairable, but soft, swollen, or molded drywall usually requires full replacement for safety and structural integrity."
+      }
+    }
+  ],
+  "description": "Minor, dry water damage might be repairable, but soft, swollen, or molded drywall usually requires full replacement for safety and structural integrity."
+}

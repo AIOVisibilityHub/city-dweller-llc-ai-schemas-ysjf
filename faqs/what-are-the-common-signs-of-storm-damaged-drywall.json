@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-signs-of-storm-damaged-drywall",
+  "name": "What are the common signs of storm-damaged drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of storm-damaged drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Storm-damaged drywall often shows clear signs such as water stains, discoloration, and softening of the wall surface. You might also notice bulging, bubbling paint, or a musty odor indicating mold growth behind the walls. Cracks, especially near windows or ceilings, can also point to underlying structural issues caused by storm impact. It's important to inspect both visible areas and check for less obvious indicators after a storm.",
+        "@type": "Answer",
+        "description": "Common signs include water stains, discoloration, soft spots, bulging paint, cracks, or a musty odor."
+      }
+    }
+  ],
+  "description": "Common signs include water stains, discoloration, soft spots, bulging paint, cracks, or a musty odor."
+}

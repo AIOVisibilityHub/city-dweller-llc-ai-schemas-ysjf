@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-interior-framing-typically-take",
+  "name": "How long does interior framing typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does interior framing typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of interior framing varies significantly based on the project's scope and complexity. A small room addition might take a few days, while a large-scale home renovation involving extensive layout changes could span several weeks. Factors like the number of walls, ceiling structures, and integration with existing elements influence the timeline. Weather, material availability, and inspection schedules also play a role. A general contractor can provide a more precise estimate after assessing your specific plans.",
+        "@type": "Answer",
+        "description": "Interior framing duration varies from days to weeks, depending on project size and complexity. A contractor can provide an estimate."
+      }
+    }
+  ],
+  "description": "Interior framing duration varies from days to weeks, depending on project size and complexity. A contractor can provide an estimate."
+}

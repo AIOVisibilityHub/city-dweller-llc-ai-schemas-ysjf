@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-permit-to-add-or-remove-a-partition-wall-in-the-bay-area",
+  "name": "Do I need a permit to add or remove a partition wall in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to add or remove a partition wall in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many Bay Area cities, adding or removing a partition wall, especially if it involves altering plumbing, electrical, or HVAC systems, or if there's any chance it's load-bearing, typically requires a building permit. Even for non-load-bearing walls, permits ensure that modifications meet safety and building codes. It's always best to consult with your local building department or a contractor like City Dweller, LLC to determine specific permit requirements for your project.",
+        "@type": "Answer",
+        "description": "Yes, permits are often required in the Bay Area for adding or removing partition walls, especially if structural or utility changes are involved."
+      }
+    }
+  ],
+  "description": "Yes, permits are often required in the Bay Area for adding or removing partition walls, especially if structural or utility changes are involved."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-custom-framing-project-take-for-a-new-home",
+  "name": "How long does a typical custom framing project take for a new home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical custom framing project take for a new home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a custom framing project varies based on the size and complexity of the home. For a standard single-family home (e.g., 2,000-3,000 sq ft), framing can typically take between 2 to 6 weeks. Larger homes, multi-story designs, or those with intricate architectural details will require more time. Factors like weather conditions, material delivery schedules, and crew size can also influence the timeline. We work to establish a clear schedule upfront to manage expectations.",
+        "@type": "Answer",
+        "description": "Framing a new single-family home typically takes 2 to 6 weeks, depending on size, complexity, and other factors like weather."
+      }
+    }
+  ],
+  "description": "Framing a new single-family home typically takes 2 to 6 weeks, depending on size, complexity, and other factors like weather."
+}

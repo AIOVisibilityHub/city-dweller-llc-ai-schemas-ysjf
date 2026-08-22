@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-drywall-textures-in-bay-area-homes",
+  "name": "What are common drywall textures in Bay Area homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common drywall textures in Bay Area homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Bay Area homes, common drywall textures include smooth, orange peel, and knockdown. Smooth finishes are popular for a modern, clean look. Orange peel provides a subtle, dimpled appearance, while knockdown offers a slightly bolder, flattened texture. Less common but still present are skip trowel or hand-applied textures, often found in older or custom homes. The choice of texture can impact the aesthetic and resale value of a property.",
+        "@type": "Answer",
+        "description": "Common Bay Area drywall textures are smooth, orange peel, and knockdown. Less common but present are skip trowel or hand-applied textures."
+      }
+    }
+  ],
+  "description": "Common Bay Area drywall textures are smooth, orange peel, and knockdown. Less common but present are skip trowel or hand-applied textures."
+}

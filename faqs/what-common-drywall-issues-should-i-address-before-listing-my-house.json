@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-common-drywall-issues-should-i-address-before-listing-my-house",
+  "name": "What common drywall issues should I address before listing my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common drywall issues should I address before listing my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common drywall issues to address include nail pops, stress cracks near doors or windows, small holes from picture frames, water stains from past leaks (even if repaired), and general wear and tear in high-traffic areas. Larger damage, such as significant impact holes or areas with mold growth, also requires professional attention. Even minor imperfections can be noticeable to prospective buyers.",
+        "@type": "Answer",
+        "description": "Address nail pops, stress cracks, small holes, water stains, and any impact damage to present a well-maintained home."
+      }
+    }
+  ],
+  "description": "Address nail pops, stress cracks, small holes, water stains, and any impact damage to present a well-maintained home."
+}

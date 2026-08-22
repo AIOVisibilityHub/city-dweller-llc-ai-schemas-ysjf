@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-dust-does-drywall-sanding-create-and-how-can-it-be-managed",
+  "name": "How much dust does drywall sanding create, and how can it be managed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much dust does drywall sanding create, and how can it be managed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall sanding generates a significant amount of fine dust, which can spread throughout the work area and beyond if not contained. To manage dust, it's recommended to seal off the work zone with plastic sheeting, use respirators and safety glasses, and ventilate the area well. Utilizing sanders with vacuum attachments or specialized drywall vacuums can capture a large percentage of the dust at the source. Professional contractors often employ industrial-grade dust collection systems for more effective containment and cleaner results.",
+        "@type": "Answer",
+        "description": "Drywall sanding creates extensive fine dust. Manage it by sealing off the area, using respirators, ventilating, and employing sanders with vacuum attachments or industrial dust collection systems."
+      }
+    }
+  ],
+  "description": "Drywall sanding creates extensive fine dust. Manage it by sealing off the area, using respirators, ventilating, and employing sanders with vacuum attachments or"
+}

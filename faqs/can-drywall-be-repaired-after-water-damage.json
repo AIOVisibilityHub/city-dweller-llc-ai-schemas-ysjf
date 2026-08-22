@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-drywall-be-repaired-after-water-damage",
+  "name": "Can drywall be repaired after water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can drywall be repaired after water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, drywall can often be repaired after water damage, but the extent depends on the severity. Small areas with minor discoloration might only need cleaning, drying, and painting. However, if the drywall is soft, crumbling, or shows signs of mold, it must be completely removed and replaced. Addressing the source of the water leak before repair is crucial to prevent recurrence and further damage.",
+        "@type": "Answer",
+        "description": "Drywall can be repaired after water damage; minor cases may be cleaned and painted, but severe damage or mold requires full replacement."
+      }
+    }
+  ],
+  "description": "Drywall can be repaired after water damage; minor cases may be cleaned and painted, but severe damage or mold requires full replacement."
+}

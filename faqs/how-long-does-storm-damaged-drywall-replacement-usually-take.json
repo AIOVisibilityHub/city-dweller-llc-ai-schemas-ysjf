@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-storm-damaged-drywall-replacement-usually-take",
+  "name": "How long does storm-damaged drywall replacement usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does storm-damaged drywall replacement usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for storm-damaged drywall replacement varies significantly depending on the extent of the damage. A small section in one room might take a day or two for removal, drying, and installation, plus drying time for mud and paint. Larger projects involving multiple rooms or significant water intrusion can extend to several days or even a week, not including potential delays for material availability or specialized drying equipment. Drying thoroughly is a critical step that cannot be rushed.",
+        "@type": "Answer",
+        "description": "Replacement time varies based on damage extent, from a few days for small areas to over a week for larger projects."
+      }
+    }
+  ],
+  "description": "Replacement time varies based on damage extent, from a few days for small areas to over a week for larger projects."
+}

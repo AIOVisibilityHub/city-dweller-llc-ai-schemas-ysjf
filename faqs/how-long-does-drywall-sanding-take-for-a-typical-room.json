@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-drywall-sanding-take-for-a-typical-room",
+  "name": "How long does drywall sanding take for a typical room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does drywall sanding take for a typical room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required for drywall sanding varies significantly based on the room's size, the number of joints and corners, the complexity of the wall surfaces, and the desired finish quality. For an average-sized room (e.g., 10x12 feet) with standard drywall installation, the sanding phase might take a professional anywhere from a few hours to a full day, assuming all joint compound coats have dried. This estimate does not include drying times between compound applications, which can add several days to the overall project timeline.",
+        "@type": "Answer",
+        "description": "Drywall sanding for a typical room can take a professional a few hours to a full day, depending on size and complexity, not including compound drying times."
+      }
+    }
+  ],
+  "description": "Drywall sanding for a typical room can take a professional a few hours to a full day, depending on size and complexity, not including compound drying times."
+}

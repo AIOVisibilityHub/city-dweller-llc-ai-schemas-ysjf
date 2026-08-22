@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-materials-are-used-for-interior-framing",
+  "name": "What materials are used for interior framing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used for interior framing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most common material for interior framing is wood, primarily dimensional lumber like 2x4s and 2x6s, due to its cost-effectiveness and ease of use. Steel studs are another option, often preferred in commercial projects or for specific residential applications where non-combustible materials or increased structural stability are required. Advanced framing techniques might also incorporate engineered wood products. Material choice depends on structural requirements, budget, and local building codes.",
+        "@type": "Answer",
+        "description": "Common interior framing materials include wood (dimensional lumber) and steel studs, chosen based on project needs and codes."
+      }
+    }
+  ],
+  "description": "Common interior framing materials include wood (dimensional lumber) and steel studs, chosen based on project needs and codes."
+}

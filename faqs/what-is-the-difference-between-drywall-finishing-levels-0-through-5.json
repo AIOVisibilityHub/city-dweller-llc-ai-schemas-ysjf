@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-drywall-finishing-levels-0-through-5",
+  "name": "What is the difference between drywall finishing levels 0 through 5?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between drywall finishing levels 0 through 5?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall finishing levels range from 0 to 5, indicating the degree of surface preparation. Level 0 means no finishing, just hung drywall. Level 1 covers joints with tape and joint compound, suitable for concealed areas. Level 2 adds a thin coat over fasteners and accessories, often used in garages. Level 3 involves two coats of compound over joints and fasteners, preparing for heavy textures. Level 4 adds a third coat, sanding, and is ideal for light textures or flat paint. Level 5 is the highest standard, with a thin skim coat over the entire surface, providing a perfectly smooth finish for glossy paints or critical lighting.",
+        "@type": "Answer",
+        "description": "Drywall finishing levels (0-5) define the smoothness and preparation of the surface, from unfinshed drywall (Level 0) to a perfectly smooth, skim-coated finish (Level 5). Each level dictates the number of compound coats and sanding required."
+      }
+    }
+  ],
+  "description": "Drywall finishing levels (0-5) define the smoothness and preparation of the surface, from unfinshed drywall (Level 0) to a perfectly smooth, skim-coated finish"
+}

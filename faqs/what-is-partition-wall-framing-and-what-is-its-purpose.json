@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-partition-wall-framing-and-what-is-its-purpose",
+  "name": "What is partition wall framing and what is its purpose?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is partition wall framing and what is its purpose?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Partition wall framing involves constructing the internal, non-load-bearing walls that divide spaces within a building. It typically uses wood or metal studs to create the skeleton of a wall, which is then covered with drywall or other finishes. The main purpose is to define rooms, create privacy, and support electrical wiring, plumbing, and insulation without carrying structural loads from the roof or upper floors.",
+        "@type": "Answer",
+        "description": "Partition wall framing builds the internal, non-load-bearing walls that divide rooms and define spaces within a building."
+      }
+    }
+  ],
+  "description": "Partition wall framing builds the internal, non-load-bearing walls that divide rooms and define spaces within a building."
+}

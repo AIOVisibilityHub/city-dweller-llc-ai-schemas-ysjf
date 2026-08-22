@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-paint-my-ceiling-immediately-after-drywall-repair",
+  "name": "Can I paint my ceiling immediately after drywall repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I paint my ceiling immediately after drywall repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, it is not recommended to paint immediately after drywall repair. The joint compound used for patching and finishing needs sufficient time to fully dry and cure. This process can take 24 to 48 hours or longer, depending on the thickness of the application and humidity levels. Rushing the process can lead to cracking, bubbling, or an uneven finish in the paint. Once fully dry, a quality primer should be applied before painting.",
+        "@type": "Answer",
+        "description": "No, wait 24-48 hours for joint compound to fully dry and cure; apply primer before painting."
+      }
+    }
+  ],
+  "description": "No, wait 24-48 hours for joint compound to fully dry and cure; apply primer before painting."
+}

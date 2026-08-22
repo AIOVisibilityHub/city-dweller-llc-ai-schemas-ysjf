@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-materials-used-for-door-opening-framing",
+  "name": "What are the common materials used for door opening framing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common materials used for door opening framing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most common material for door opening framing is lumber, specifically dimensional lumber like 2x4s or 2x6s, depending on the wall's construction and load-bearing requirements. For headers, engineered wood products such as LVLs (Laminated Veneer Lumber) or solid structural lumber are often used, especially for wider openings or load-bearing walls, to provide superior strength and prevent sagging. Metal studs may also be used in commercial or some modern residential constructions.",
+        "@type": "Answer",
+        "description": "Common materials include dimensional lumber (2x4s, 2x6s) and engineered wood products like LVLs for headers, especially in load-bearing walls."
+      }
+    }
+  ],
+  "description": "Common materials include dimensional lumber (2x4s, 2x6s) and engineered wood products like LVLs for headers, especially in load-bearing walls."
+}

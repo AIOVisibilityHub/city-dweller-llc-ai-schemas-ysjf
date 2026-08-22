@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-drywall-finishing-from-hanging-to-paint-ready",
+  "name": "What is the process for drywall finishing, from hanging to paint-ready?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for drywall finishing, from hanging to paint-ready?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The drywall finishing process begins after the drywall sheets are securely hung. First, joint tape is applied over all seams, embedded in a thin layer of joint compound. This is followed by successive coats of joint compound applied over the tape and fastener heads, feathering out the edges to blend with the wall surface. Typically, two to three coats are applied, with sufficient drying time between each. Each coat builds up the surface, filling depressions and smoothing imperfections. The final step involves sanding the dried compound to create a smooth, seamless surface, ready for primer and paint.",
+        "@type": "Answer",
+        "description": "Drywall finishing involves taping seams, applying multiple coats of joint compound over tape and fasteners with drying time between coats, and then sanding to create a smooth, paint-ready surface."
+      }
+    }
+  ],
+  "description": "Drywall finishing involves taping seams, applying multiple coats of joint compound over tape and fasteners with drying time between coats, and then sanding to c"
+}

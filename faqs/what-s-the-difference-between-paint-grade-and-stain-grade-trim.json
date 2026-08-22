@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-paint-grade-and-stain-grade-trim",
+  "name": "What's the difference between paint-grade and stain-grade trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between paint-grade and stain-grade trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Paint-grade trim is typically made from less expensive woods or MDF and is intended to be painted. It may have minor imperfections or a less prominent grain, as these will be covered by paint. Stain-grade trim, on the other hand, uses higher-quality woods like oak, maple, or cherry, chosen for their attractive grain patterns. It is designed to be stained or clear-coated, allowing the natural beauty of the wood to show through. The choice depends on your desired aesthetic and budget.",
+        "@type": "Answer",
+        "description": "Paint-grade trim is designed to be painted, often from less expensive materials, while stain-grade uses higher-quality wood to showcase its natural grain with stains or clear coats."
+      }
+    }
+  ],
+  "description": "Paint-grade trim is designed to be painted, often from less expensive materials, while stain-grade uses higher-quality wood to showcase its natural grain with s"
+}

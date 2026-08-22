@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-purpose-of-drywall-sanding",
+  "name": "What is the purpose of drywall sanding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the purpose of drywall sanding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall sanding is crucial for achieving a smooth, even surface after drywall installation or repair. It removes excess joint compound, feathering the edges to blend with the existing drywall. This process eliminates imperfections, such as ridges and bumps, ensuring that paint or wallpaper adheres properly and looks uniform. Proper sanding prevents blemishes from showing through the final finish, contributing to a professional and aesthetically pleasing result.",
+        "@type": "Answer",
+        "description": "Drywall sanding smooths joint compound after installation or repair, creating an even surface for painting or wallpapering by removing imperfections."
+      }
+    }
+  ],
+  "description": "Drywall sanding smooths joint compound after installation or repair, creating an even surface for painting or wallpapering by removing imperfections."
+}

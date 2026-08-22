@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-common-types-of-drywall-damage-can-be-repaired",
+  "name": "What common types of drywall damage can be repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common types of drywall damage can be repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common drywall damage includes small holes from hanging pictures, larger holes from impacts, cracks from settling or stress, water stains, and general wear and tear. Minor surface imperfections like scuffs or nail pops are also frequently addressed. Our repair services cover a spectrum from simple patching to more extensive sections requiring replacement and seamless blending with existing walls.",
+        "@type": "Answer",
+        "description": "Common drywall damage includes holes, cracks, water stains, and scuffs. We repair issues ranging from small patches to larger section replacements."
+      }
+    }
+  ],
+  "description": "Common drywall damage includes holes, cracks, water stains, and scuffs. We repair issues ranging from small patches to larger section replacements."
+}

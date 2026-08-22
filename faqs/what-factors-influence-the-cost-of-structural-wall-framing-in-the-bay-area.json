@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-factors-influence-the-cost-of-structural-wall-framing-in-the-bay-area",
+  "name": "What factors influence the cost of structural wall framing in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of structural wall framing in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of structural wall framing in the Bay Area is influenced by several factors: the project's size and complexity (e.g., single-story vs. multi-story, intricate designs), the type of materials used (standard lumber vs. engineered wood products), labor costs specific to the Bay Area market, and the need for seismic upgrades if applicable. Access to the job site, demolition requirements, and the necessity for temporary shoring during renovations also contribute to the overall cost. A detailed estimate requires an on-site assessment.",
+        "@type": "Answer",
+        "description": "Cost factors include project size and complexity, material types, Bay Area labor rates, seismic upgrade needs, site access, and demolition requirements."
+      }
+    }
+  ],
+  "description": "Cost factors include project size and complexity, material types, Bay Area labor rates, seismic upgrade needs, site access, and demolition requirements."
+}

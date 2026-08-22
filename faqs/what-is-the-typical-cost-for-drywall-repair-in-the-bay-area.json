@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-for-drywall-repair-in-the-bay-area",
+  "name": "What is the typical cost for drywall repair in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for drywall repair in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for drywall repair in the Bay Area varies widely depending on the size and complexity of the damage, as well as the specific services required (e.g., patching, texturing, painting). Minor repairs might range from a few hundred dollars, while more extensive projects involving large sections or multiple rooms could cost thousands. Obtaining a detailed estimate from a local contractor like City Dweller, LLC is essential for an accurate price. Factors like material costs and labor rates in our service areas of Pacifica, Daly City, and San Mateo influence pricing.",
+        "@type": "Answer",
+        "description": "Drywall repair costs in the Bay Area vary from a few hundred dollars for minor fixes to thousands for extensive damage. Get a local contractor estimate for accurate pricing."
+      }
+    }
+  ],
+  "description": "Drywall repair costs in the Bay Area vary from a few hundred dollars for minor fixes to thousands for extensive damage. Get a local contractor estimate for accu"
+}

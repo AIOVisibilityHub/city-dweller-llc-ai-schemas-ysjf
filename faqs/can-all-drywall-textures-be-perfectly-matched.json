@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-all-drywall-textures-be-perfectly-matched",
+  "name": "Can all drywall textures be perfectly matched?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can all drywall textures be perfectly matched?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While professionals strive for an exact match, achieving 100% perfection can be challenging, especially with older, hand-applied, or very unique textures. Factors like the age of the original texture, paint layers, and environmental conditions can influence the final result. However, a skilled contractor can achieve a blend that is visually indistinguishable to the casual observer. In some cases, blending the repair into a larger area may be suggested for the best result.",
+        "@type": "Answer",
+        "description": "Achieving a 100% perfect match is challenging, especially with old or unique textures, but skilled contractors can achieve a visually indistinguishable blend."
+      }
+    }
+  ],
+  "description": "Achieving a 100% perfect match is challenging, especially with old or unique textures, but skilled contractors can achieve a visually indistinguishable blend."
+}

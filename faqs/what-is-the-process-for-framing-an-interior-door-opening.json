@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-framing-an-interior-door-opening",
+  "name": "What is the process for framing an interior door opening?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for framing an interior door opening?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for framing an interior door opening begins by marking the desired location and dimensions. If an existing wall, the drywall and studs are carefully removed. New king studs are installed from floor to ceiling on either side of the opening. Jack studs are then cut and nailed to the king studs, providing support for the header. The header, sized to span the opening and support loads, is placed on the jack studs. Finally, cripple studs are added above the header to fill the gap to the top plate, and sometimes below the rough sill if applicable.",
+        "@type": "Answer",
+        "description": "The process involves marking, removing existing wall material, installing king and jack studs, placing the header, and adding cripple studs."
+      }
+    }
+  ],
+  "description": "The process involves marking, removing existing wall material, installing king and jack studs, placing the header, and adding cripple studs."
+}

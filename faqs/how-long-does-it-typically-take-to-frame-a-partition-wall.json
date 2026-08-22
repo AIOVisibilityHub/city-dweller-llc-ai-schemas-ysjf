@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-typically-take-to-frame-a-partition-wall",
+  "name": "How long does it typically take to frame a partition wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to frame a partition wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to frame a partition wall varies based on its size, complexity, and the specific site conditions. A simple, straight wall in an existing structure might take a few hours for an experienced team. Larger or more intricate walls involving door openings, multiple corners, or integration with existing systems could take a day or more. This estimate does not include drywall, finishing, or painting.",
+        "@type": "Answer",
+        "description": "Framing time depends on wall size and complexity; a simple wall might take a few hours, while larger ones could take a day or more."
+      }
+    }
+  ],
+  "description": "Framing time depends on wall size and complexity; a simple wall might take a few hours, while larger ones could take a day or more."
+}

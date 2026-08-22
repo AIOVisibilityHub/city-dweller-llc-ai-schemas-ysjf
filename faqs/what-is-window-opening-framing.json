@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-window-opening-framing",
+  "name": "What is window opening framing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is window opening framing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window opening framing refers to the structural work involved in creating or modifying an opening in a wall to install a window. This typically includes cutting into existing studs, installing headers to support the load above the opening, and adding cripple studs, jack studs, and sills. Proper framing ensures the window is securely installed, the wall maintains its structural integrity, and the opening is square and plumb for efficient window operation and energy performance. It's a critical step that impacts the overall stability and appearance of your home.",
+        "@type": "Answer",
+        "description": "Window opening framing is the structural work to create or modify a wall opening for a window, including headers and studs, ensuring structural integrity and proper window installation."
+      }
+    }
+  ],
+  "description": "Window opening framing is the structural work to create or modify a wall opening for a window, including headers and studs, ensuring structural integrity and pr"
+}

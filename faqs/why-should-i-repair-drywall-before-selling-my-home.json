@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/why-should-i-repair-drywall-before-selling-my-home",
+  "name": "Why should I repair drywall before selling my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why should I repair drywall before selling my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing drywall before selling your home improves its aesthetic appeal and can significantly increase its market value. Buyers often prefer move-in ready homes, and visible drywall damage like cracks, holes, or water stains can deter potential offers or lead to lower appraisals. Addressing these issues demonstrates proper home maintenance and helps create a positive first impression, potentially leading to a faster and more profitable sale.",
+        "@type": "Answer",
+        "description": "Repairing drywall improves home aesthetics and market value, making it more attractive to buyers and potentially leading to a faster sale."
+      }
+    }
+  ],
+  "description": "Repairing drywall improves home aesthetics and market value, making it more attractive to buyers and potentially leading to a faster sale."
+}

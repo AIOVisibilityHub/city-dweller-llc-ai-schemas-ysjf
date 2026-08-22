@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-signs-of-water-damaged-drywall",
+  "name": "What are the common signs of water-damaged drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of water-damaged drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of water-damaged drywall include discoloration, such as yellow or brown stains, bubbling or peeling paint, and a soft or crumbling texture when touched. You might also notice a musty odor, indicating potential mold growth behind the wall. Visible sagging or bowing of the drywall panels are also strong indicators of significant water exposure, requiring prompt attention to prevent further damage and maintain structural integrity.",
+        "@type": "Answer",
+        "description": "Signs include discoloration, bubbling paint, soft texture, musty odors, and sagging drywall."
+      }
+    }
+  ],
+  "description": "Signs include discoloration, bubbling paint, soft texture, musty odors, and sagging drywall."
+}

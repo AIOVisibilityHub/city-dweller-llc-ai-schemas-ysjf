@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-structural-considerations-for-framing-an-exterior-door-opening",
+  "name": "What are the structural considerations for framing an exterior door opening?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the structural considerations for framing an exterior door opening?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Exterior door opening framing requires careful structural considerations due to exposure to the elements and often bearing significant structural loads from the roof or upper floors. This includes using appropriately sized headers (often engineered lumber like LVLs) to support the weight, ensuring proper connection to the overall wall structure, and integrating weather-resistant barriers. Flashing and proper sealing are critical to prevent moisture intrusion. Local building codes, especially in the Bay Area, also dictate specific requirements for seismic bracing and shear strength.",
+        "@type": "Answer",
+        "description": "Exterior door framing needs strong headers, proper connections, weather resistance, and adherence to local building codes for seismic bracing."
+      }
+    }
+  ],
+  "description": "Exterior door framing needs strong headers, proper connections, weather resistance, and adherence to local building codes for seismic bracing."
+}

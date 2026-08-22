@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-my-door-frame",
+  "name": "When should I consider replacing my door frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my door frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your door frame if you notice signs of damage such as rot, cracks, warping, or insect infestation. A damaged frame can compromise the security and energy efficiency of your home. Additionally, if you are upgrading to a new door that doesn't fit your existing frame, or if you're experiencing drafts around the door, a frame replacement may be necessary. Replacing a damaged frame ensures proper door function and can improve your home's insulation.",
+        "@type": "Answer",
+        "description": "Replace your door frame if it shows signs of rot, cracks, warping, or if you're upgrading to a new door that doesn't fit the existing frame."
+      }
+    }
+  ],
+  "description": "Replace your door frame if it shows signs of rot, cracks, warping, or if you're upgrading to a new door that doesn't fit the existing frame."
+}

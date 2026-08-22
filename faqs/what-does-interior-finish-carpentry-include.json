@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-does-interior-finish-carpentry-include",
+  "name": "What does interior finish carpentry include?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does interior finish carpentry include?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interior finish carpentry encompasses the non-structural, decorative elements that add character and completeness to a home's interior. This includes installing baseboards, crown molding, door and window casings, wainscoting, and built-in shelving or cabinetry. It's the detailed work that transforms a basic room into a polished and inviting living space, focusing on precision, aesthetics, and the smooth integration of these elements into the overall design.",
+        "@type": "Answer",
+        "description": "Interior finish carpentry involves installing decorative elements like baseboards, crown molding, door casings, and built-in shelving, enhancing a home's aesthetic appeal."
+      }
+    }
+  ],
+  "description": "Interior finish carpentry involves installing decorative elements like baseboards, crown molding, door casings, and built-in shelving, enhancing a home's aesthe"
+}

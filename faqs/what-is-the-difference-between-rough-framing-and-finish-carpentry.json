@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-rough-framing-and-finish-carpentry",
+  "name": "What is the difference between rough framing and finish carpentry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between rough framing and finish carpentry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rough framing establishes the structural skeleton of a building, including walls, floors, and roofs. It uses larger, often un-sanded lumber, and focuses on structural integrity and adherence to building codes. Finish carpentry, on the other hand, comes much later in the construction process. It involves installing decorative and functional elements like trim, molding, doors, windows, cabinets, and built-ins. Finish carpentry emphasizes aesthetics, precision, and craftsmanship, using finer materials and careful detailing to complete the visible elements of a home.",
+        "@type": "Answer",
+        "description": "Rough framing builds the structural skeleton of a home. Finish carpentry adds decorative and functional elements like trim, doors, and cabinets after the structure is complete."
+      }
+    }
+  ],
+  "description": "Rough framing builds the structural skeleton of a home. Finish carpentry adds decorative and functional elements like trim, doors, and cabinets after the struct"
+}

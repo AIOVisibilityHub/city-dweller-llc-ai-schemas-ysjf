@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-common-issues-can-arise-during-drywall-finishing-and-how-are-they-avoided",
+  "name": "What common issues can arise during drywall finishing and how are they avoided?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common issues can arise during drywall finishing and how are they avoided?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common issues in drywall finishing include visible seams or",
+        "@type": "Answer",
+        "description": "Common drywall finishing issues are visible seams, nail pops, cracks, and uneven surfaces, often caused by inadequate compound application or insufficient drying. These are avoided by proper technique, sufficient coats, and allowing ample drying time."
+      }
+    }
+  ],
+  "description": "Common drywall finishing issues are visible seams, nail pops, cracks, and uneven surfaces, often caused by inadequate compound application or insufficient dryin"
+}

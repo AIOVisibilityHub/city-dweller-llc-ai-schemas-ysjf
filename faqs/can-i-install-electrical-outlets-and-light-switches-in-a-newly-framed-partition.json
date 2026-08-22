@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-install-electrical-outlets-and-light-switches-in-a-newly-framed-partition",
+  "name": "Can I install electrical outlets and light switches in a newly framed partition wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install electrical outlets and light switches in a newly framed partition wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, newly framed partition walls are designed to accommodate electrical outlets, light switches, and other wiring. During the framing process, or immediately after, channels and openings can be created within the stud cavities for routing electrical conduits and boxes. It's crucial that all electrical work is performed by a licensed electrician to ensure compliance with safety codes and proper functionality.",
+        "@type": "Answer",
+        "description": "Yes, newly framed partition walls can accommodate electrical outlets and switches, with wiring routed inside the stud cavities by a licensed electrician."
+      }
+    }
+  ],
+  "description": "Yes, newly framed partition walls can accommodate electrical outlets and switches, with wiring routed inside the stud cavities by a licensed electrician."
+}

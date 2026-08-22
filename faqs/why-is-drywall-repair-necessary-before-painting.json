@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/why-is-drywall-repair-necessary-before-painting",
+  "name": "Why is drywall repair necessary before painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is drywall repair necessary before painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall repair is crucial before painting to ensure a smooth, uniform finish. Paint magnifies imperfections like cracks, holes, and uneven textures. Addressing these issues beforehand prevents them from showing through the new paint, which can detract from the overall aesthetic and make the work appear unprofessional. Proper repair creates a perfect canvas, allowing the paint to adhere evenly and achieve the desired look and longevity.",
+        "@type": "Answer",
+        "description": "Drywall repair is necessary before painting to create a smooth, uniform surface, as paint highlights imperfections like cracks and holes."
+      }
+    }
+  ],
+  "description": "Drywall repair is necessary before painting to create a smooth, uniform surface, as paint highlights imperfections like cracks and holes."
+}
