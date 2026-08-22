@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-windows-for-my-home",
+  "name": "How do I choose the right windows for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right windows for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right windows involves considering your home's architectural style, your budget, desired energy efficiency, and maintenance preferences. Evaluate window materials like vinyl, wood, or fiberglass based on durability and insulation. Consider different operating styles for ventilation and aesthetics. Looking at energy performance ratings, like U-factor and SHGC, can help you select windows that contribute to lower energy bills and greater comfort.",
+        "@type": "Answer",
+        "description": "Consider your home's style, budget, energy goals, maintenance needs, and specific window features to make the best choice."
+      }
+    }
+  ],
+  "description": "Consider your home's style, budget, energy goals, maintenance needs, and specific window features to make the best choice."
+}

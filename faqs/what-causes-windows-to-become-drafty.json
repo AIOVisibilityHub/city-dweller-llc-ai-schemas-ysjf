@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-windows-to-become-drafty",
+  "name": "What causes windows to become drafty?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes windows to become drafty?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drafty windows are commonly caused by degraded weatherstripping or caulk, which are essential seals around the window frame. Over time, these materials can crack, shrink, or become brittle, creating gaps where air can leak. Additionally, issues with the window's fit, such as a loose sash or an improperly installed frame, can contribute to drafts. Older windows, especially single-pane types, are more susceptible due to less effective sealing technology and poorer insulation properties.",
+        "@type": "Answer",
+        "description": "Degraded weatherstripping, cracked caulk, or a loose window fit are common causes of drafts."
+      }
+    }
+  ],
+  "description": "Degraded weatherstripping, cracked caulk, or a loose window fit are common causes of drafts."
+}

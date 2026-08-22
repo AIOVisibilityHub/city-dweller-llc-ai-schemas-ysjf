@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-whole-house-window-replacement-project-take",
+  "name": "How long does a typical whole-house window replacement project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical whole-house window replacement project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a whole-house window replacement project varies based on the number of windows, the type of windows being installed, and the complexity of the installation. For an average-sized home in the Bay Area, the installation itself can typically be completed within 3 to 5 days. However, the entire process, from initial consultation and material ordering to final installation, may span several weeks or even a few months, depending on lead times for custom windows and scheduling.",
+        "@type": "Answer",
+        "description": "Installation for an average home usually takes 3-5 days. The entire process, from consultation to completion, can take several weeks to a few months."
+      }
+    }
+  ],
+  "description": "Installation for an average home usually takes 3-5 days. The entire process, from consultation to completion, can take several weeks to a few months."
+}

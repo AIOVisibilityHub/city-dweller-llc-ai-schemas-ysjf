@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-types-of-new-windows-available-for-homes",
+  "name": "What are the common types of new windows available for homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common types of new windows available for homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common types of new windows include single-hung, double-hung, casement, awning, slider, fixed, bay, and bow windows. Single-hung windows open from the bottom, while double-hung allow both sashes to move. Casement windows crank open outward, providing excellent ventilation. Awning windows hinge at the top and open outward, protecting from rain. Slider windows glide horizontally. Fixed windows do not open but offer maximum light. Bay and bow windows extend outward, creating more space and light. Each type offers different benefits regarding ventilation, style, and energy efficiency.",
+        "@type": "Answer",
+        "description": "Common window types include single-hung, double-hung, casement, awning, slider, fixed, bay, and bow, each offering unique benefits for ventilation, style, and efficiency."
+      }
+    }
+  ],
+  "description": "Common window types include single-hung, double-hung, casement, awning, slider, fixed, bay, and bow, each offering unique benefits for ventilation, style, and e"
+}

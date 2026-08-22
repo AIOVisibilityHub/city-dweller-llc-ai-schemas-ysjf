@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/does-replacing-foggy-glass-improve-my-home-s-energy-efficiency",
+  "name": "Does replacing foggy glass improve my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does replacing foggy glass improve my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, replacing foggy glass significantly improves your home's energy efficiency. The fog indicates a failed seal in your insulated glass unit (IGU), meaning the inert gas (like argon) has escaped, and its insulating properties are lost. A new IGU restores this thermal barrier, reducing heat transfer into and out of your home. Opting for modern, energy-efficient glass types like Low-E (low-emissivity) glass can further enhance performance, leading to more stable indoor temperatures and potential savings on your utility bills.",
+        "@type": "Answer",
+        "description": "Yes, replacing foggy glass restores the insulating barrier of your windows, improving energy efficiency and potentially lowering utility costs, especially with Low-E glass."
+      }
+    }
+  ],
+  "description": "Yes, replacing foggy glass restores the insulating barrier of your windows, improving energy efficiency and potentially lowering utility costs, especially with"
+}

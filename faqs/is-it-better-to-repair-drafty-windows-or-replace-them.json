@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/is-it-better-to-repair-drafty-windows-or-replace-them",
+  "name": "Is it better to repair drafty windows or replace them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it better to repair drafty windows or replace them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace depends on the extent of the damage and the window's overall condition. If drafts are due to minor issues like old caulk or weatherstripping, repair is often the most cost-effective solution. However, if the window frame is rotted, the glass is cracked, or the window is very old and inefficient (e.g., single-pane), replacement might be the better long-term investment. Our team can assess your windows and provide a recommendation based on their condition and your budget.",
+        "@type": "Answer",
+        "description": "Repair is suitable for minor issues like seals, while replacement is better for extensive damage or very old, inefficient windows."
+      }
+    }
+  ],
+  "description": "Repair is suitable for minor issues like seals, while replacement is better for extensive damage or very old, inefficient windows."
+}

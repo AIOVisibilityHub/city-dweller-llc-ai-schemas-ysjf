@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-replacement-windows-increase-home-value",
+  "name": "Do replacement windows increase home value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do replacement windows increase home value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, replacement windows can increase your home's value and appeal to potential buyers. New, energy-efficient windows are an attractive feature, as they offer long-term savings on utility bills and require less maintenance than older windows. They also enhance your home's curb appeal, making a strong first impression. The exact return on investment can vary based on the market and the quality of the windows installed.",
+        "@type": "Answer",
+        "description": "Yes, replacement windows can increase home value by improving curb appeal, energy efficiency, and offering long-term savings."
+      }
+    }
+  ],
+  "description": "Yes, replacement windows can increase home value by improving curb appeal, energy efficiency, and offering long-term savings."
+}

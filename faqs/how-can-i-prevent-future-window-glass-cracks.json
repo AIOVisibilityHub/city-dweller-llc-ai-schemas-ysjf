@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-prevent-future-window-glass-cracks",
+  "name": "How can I prevent future window glass cracks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future window glass cracks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While some cracks are unavoidable, you can take steps to minimize the risk of future window glass damage. Ensure your windows are properly installed and maintained, as loose frames can contribute to stress on the glass. Avoid placing heavy objects near windows that could fall or swing into them. Regularly inspect and clear debris from window sills. Consider upgrading to tempered or laminated safety glass in high-traffic areas or where impact is a concern, as these options offer increased resistance to breakage.",
+        "@type": "Answer",
+        "description": "Prevent cracks by ensuring proper installation, avoiding nearby heavy objects, clearing debris, and considering tempered or laminated safety glass in vulnerable areas."
+      }
+    }
+  ],
+  "description": "Prevent cracks by ensuring proper installation, avoiding nearby heavy objects, clearing debris, and considering tempered or laminated safety glass in vulnerable"
+}

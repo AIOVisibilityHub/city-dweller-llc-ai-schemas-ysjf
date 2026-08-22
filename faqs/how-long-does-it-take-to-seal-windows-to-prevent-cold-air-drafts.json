@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-seal-windows-to-prevent-cold-air-drafts",
+  "name": "How long does it take to seal windows to prevent cold air drafts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to seal windows to prevent cold air drafts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to seal windows depends on the method and the number of windows. Temporary solutions like applying window film or rope caulk might take 15-30 minutes per window for a DIY approach. Professional sealing or recaulking of existing windows can take a few hours to a full day, depending on the scope. If the issue requires full window replacement, the process can span several days for multiple windows, including removal, installation, and finishing work. A contractor can provide a more precise estimate.",
+        "@type": "Answer",
+        "description": "Temporary sealing can take 15-30 minutes per window. Professional sealing might take hours to a day, while full replacement spans several days."
+      }
+    }
+  ],
+  "description": "Temporary sealing can take 15-30 minutes per window. Professional sealing might take hours to a day, while full replacement spans several days."
+}

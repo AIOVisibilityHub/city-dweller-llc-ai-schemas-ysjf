@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-repair-a-broken-window-versus-replacing-the-entire-window",
+  "name": "When should I repair a broken window versus replacing the entire window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair a broken window versus replacing the entire window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a broken window glass is typically possible if only the glass pane is damaged and the window frame remains intact and functional. This is often more cost-effective. However, if the frame is warped, rotted, or significantly damaged, or if the window mechanism is failing, a full window replacement is usually recommended. Modern windows also offer better energy efficiency, so an older, inefficient window with broken glass might be better replaced entirely for long-term savings.",
+        "@type": "Answer",
+        "description": "Repairing just the glass is suitable if the frame is in good condition; replace the whole window if the frame or mechanism is damaged, or for energy efficiency upgrades."
+      }
+    }
+  ],
+  "description": "Repairing just the glass is suitable if the frame is in good condition; replace the whole window if the frame or mechanism is damaged, or for energy efficiency"
+}

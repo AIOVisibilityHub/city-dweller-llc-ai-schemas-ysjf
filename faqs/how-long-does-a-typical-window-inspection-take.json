@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-window-inspection-take",
+  "name": "How long does a typical window inspection take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical window inspection take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a window inspection can vary based on the number and type of windows in your home, as well as the overall size of the property. For a standard residential home, an inspection might take anywhere from one to three hours. Larger homes or properties with many windows, or those requiring more detailed assessment due to visible issues, could take longer. Our goal is always a thorough yet efficient process.",
+        "@type": "Answer",
+        "description": "A typical window inspection for a residential home can take one to three hours, depending on the number of windows and property size."
+      }
+    }
+  ],
+  "description": "A typical window inspection for a residential home can take one to three hours, depending on the number of windows and property size."
+}

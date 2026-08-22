@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-a-broken-window-seal-be-repaired-or-do-i-need-a-new-window",
+  "name": "Can a broken window seal be repaired, or do I need a new window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a broken window seal be repaired, or do I need a new window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Often, only the insulated glass unit (IGU) with the broken seal needs to be replaced, not the entire window frame. This process involves removing the old glass unit and installing a new one within the existing frame, which is typically more cost-effective and less disruptive than full window replacement. However, if the window frame itself is damaged or outdated, a full replacement might be recommended for long-term performance and energy efficiency.",
+        "@type": "Answer",
+        "description": "Typically, only the insulated glass unit needs replacement, not the entire window. A full window replacement is only necessary if the frame is also damaged."
+      }
+    }
+  ],
+  "description": "Typically, only the insulated glass unit needs replacement, not the entire window. A full window replacement is only necessary if the frame is also damaged."
+}

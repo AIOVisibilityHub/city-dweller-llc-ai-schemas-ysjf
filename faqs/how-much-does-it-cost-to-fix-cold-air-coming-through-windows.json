@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-fix-cold-air-coming-through-windows",
+  "name": "How much does it cost to fix cold air coming through windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix cold air coming through windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix cold air coming through windows varies widely based on the repair method. DIY solutions like caulk or weatherstripping kits can be under $50 per window. Professional recaulking and weatherstripping might range from $75 to $250 per window, depending on access and materials. If the issue necessitates full window replacement, costs can be significantly higher, starting from a few hundred dollars to over a thousand per window, depending on the type, material, and installation complexity. A professional estimate is crucial for accurate pricing.",
+        "@type": "Answer",
+        "description": "Costs vary: DIY fixes are under $50 per window. Professional sealing ranges from $75-$250 per window, while replacement can cost hundreds to over a thousand per window."
+      }
+    }
+  ],
+  "description": "Costs vary: DIY fixes are under $50 per window. Professional sealing ranges from $75-$250 per window, while replacement can cost hundreds to over a thousand per"
+}

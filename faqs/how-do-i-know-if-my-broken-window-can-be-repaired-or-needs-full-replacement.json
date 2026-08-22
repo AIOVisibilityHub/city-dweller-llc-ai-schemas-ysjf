@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-my-broken-window-can-be-repaired-or-needs-full-replacement",
+  "name": "How do I know if my broken window can be repaired or needs full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my broken window can be repaired or needs full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision depends on the extent of the damage and the window type. Small cracks or single-pane glass often allow for glass-only replacement. However, if the frame is damaged, the window is a complex style (like a bay or bow window), or it's a double-pane unit with a broken seal, a full window replacement might be more cost-effective and provide better long-term performance. A professional assessment can determine the best solution.",
+        "@type": "Answer",
+        "description": "Small cracks or single-pane glass often allow repair. Frame damage, complex styles, or broken seals in double-pane units usually require full replacement."
+      }
+    }
+  ],
+  "description": "Small cracks or single-pane glass often allow repair. Frame damage, complex styles, or broken seals in double-pane units usually require full replacement."
+}

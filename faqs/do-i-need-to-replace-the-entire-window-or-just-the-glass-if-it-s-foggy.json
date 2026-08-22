@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-replace-the-entire-window-or-just-the-glass-if-it-s-foggy",
+  "name": "Do I need to replace the entire window, or just the glass, if it's foggy?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace the entire window, or just the glass, if it's foggy?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Often, you only need to replace the glass unit (the insulated glass unit or IGU) and not the entire window frame. If your window frame is in good condition – not rotting, warped, or otherwise damaged – replacing just the glass is a more cost-effective solution. This process involves carefully removing the old, foggy glass and installing a new IGU into the existing frame. A professional can assess your specific situation to determine the best approach.",
+        "@type": "Answer",
+        "description": "In many cases, only the foggy glass unit needs replacement, not the entire window, if the frame is in good condition."
+      }
+    }
+  ],
+  "description": "In many cases, only the foggy glass unit needs replacement, not the entire window, if the frame is in good condition."
+}

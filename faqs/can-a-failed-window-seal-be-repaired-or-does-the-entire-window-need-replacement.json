@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-a-failed-window-seal-be-repaired-or-does-the-entire-window-need-replacement",
+  "name": "Can a failed window seal be repaired, or does the entire window need replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a failed window seal be repaired, or does the entire window need replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Often, a failed window seal can be repaired by replacing only the insulated glass unit (IGU) rather than the entire window frame. This process involves removing the old, compromised glass unit and installing a new one within the existing frame. This approach can be more cost-effective and less disruptive than full window replacement, provided the frame is still in good condition.",
+        "@type": "Answer",
+        "description": "Often, only the insulated glass unit (IGU) can be replaced, not the entire window, if the frame is sound."
+      }
+    }
+  ],
+  "description": "Often, only the insulated glass unit (IGU) can be replaced, not the entire window, if the frame is sound."
+}

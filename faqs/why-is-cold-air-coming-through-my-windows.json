@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/why-is-cold-air-coming-through-my-windows",
+  "name": "Why is cold air coming through my windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is cold air coming through my windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cold air infiltration through windows typically occurs due to worn-out weatherstripping, cracks in the window frame or glass, gaps between the window frame and the wall, or improperly sealed glazing. Over time, these components can deteriorate, losing their ability to create an airtight seal. This allows cold outside air to seep into your home, reducing energy efficiency and comfort. Identifying the exact source of the leak is the first step in resolving the issue.",
+        "@type": "Answer",
+        "description": "Cold air typically enters through worn weatherstripping, cracks in frames or glass, or gaps around the window. These issues compromise the airtight seal."
+      }
+    }
+  ],
+  "description": "Cold air typically enters through worn weatherstripping, cracks in frames or glass, or gaps around the window. These issues compromise the airtight seal."
+}

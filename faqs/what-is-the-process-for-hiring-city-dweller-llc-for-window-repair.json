@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-hiring-city-dweller-llc-for-window-repair",
+  "name": "What is the process for hiring City Dweller, LLC for window repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for hiring City Dweller, LLC for window repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with a consultation where you describe the window issue. We then schedule an on-site inspection to accurately assess the damage and determine the best course of action, whether it's repair or replacement. Following the inspection, we provide a detailed, transparent quote outlining the scope of work and estimated costs. Once approved, we schedule the repair at your convenience and execute the work efficiently and professionally, ensuring minimal disruption to your home.",
+        "@type": "Answer",
+        "description": "Our process involves an initial consultation, on-site damage assessment, a detailed quote, and then scheduling and executing the repair work efficiently."
+      }
+    }
+  ],
+  "description": "Our process involves an initial consultation, on-site damage assessment, a detailed quote, and then scheduling and executing the repair work efficiently."
+}

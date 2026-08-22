@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-recaulking-my-windows-reduce-my-energy-bills",
+  "name": "Will recaulking my windows reduce my energy bills?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will recaulking my windows reduce my energy bills?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, recaulking your windows can significantly contribute to reducing your energy bills. Gaps and cracks in old caulk allow conditioned air (heated in winter, cooled in summer) to escape your home, while unconditioned outside air infiltrates. This forces your HVAC system to work harder to maintain your desired indoor temperature. By creating an airtight seal, new caulk prevents this energy loss, improving your home's thermal efficiency and reducing the workload on your heating and cooling systems, directly leading to lower utility costs.",
+        "@type": "Answer",
+        "description": "Yes, recaulking creates an airtight seal, preventing conditioned air from escaping and unconditioned air from entering. This reduces your HVAC system's workload and lowers energy bills."
+      }
+    }
+  ],
+  "description": "Yes, recaulking creates an airtight seal, preventing conditioned air from escaping and unconditioned air from entering. This reduces your HVAC system's workload"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-weatherproofing-my-windows-really-lower-my-energy-bills",
+  "name": "Will weatherproofing my windows really lower my energy bills?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will weatherproofing my windows really lower my energy bills?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, weatherproofing your windows can significantly lower your energy bills. Unsealed windows are major sources of heat loss in winter and heat gain in summer, forcing your HVAC system to work harder to maintain a comfortable indoor temperature. By sealing these leaks, weatherproofing reduces drafts and minimizes temperature fluctuations, leading to less energy consumption for heating and cooling. Many homeowners see a noticeable reduction in their monthly utility costs, especially in areas with fluctuating temperatures like the Bay Area.",
+        "@type": "Answer",
+        "description": "Yes, weatherproofing reduces drafts and temperature fluctuations, decreasing the workload on your HVAC system and lowering energy bills."
+      }
+    }
+  ],
+  "description": "Yes, weatherproofing reduces drafts and temperature fluctuations, decreasing the workload on your HVAC system and lowering energy bills."
+}

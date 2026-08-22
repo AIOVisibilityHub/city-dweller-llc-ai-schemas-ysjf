@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-replacing-cracked-window-glass",
+  "name": "What is the typical process for replacing cracked window glass?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for replacing cracked window glass?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with an assessment of the damage and precise measurements of the existing glass. Our technicians will safely remove the broken glass, ensuring all shards are cleared from the frame. A new pane of glass, custom-cut to fit your window, is then installed. For insulated units, this involves replacing the entire sealed unit. The new glass is properly glazed, sealed, and secured into the frame to ensure a weather-tight and energy-efficient installation. We then clean the area and dispose of the old glass responsibly.",
+        "@type": "Answer",
+        "description": "The process involves assessing damage, measuring, safely removing old glass, installing a new custom-cut pane, glazing, sealing, and cleanup."
+      }
+    }
+  ],
+  "description": "The process involves assessing damage, measuring, safely removing old glass, installing a new custom-cut pane, glazing, sealing, and cleanup."
+}

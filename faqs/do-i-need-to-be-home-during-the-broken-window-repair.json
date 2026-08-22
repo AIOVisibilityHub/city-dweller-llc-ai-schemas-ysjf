@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-be-home-during-the-broken-window-repair",
+  "name": "Do I need to be home during the broken window repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home during the broken window repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, it is advisable for an adult to be present during the repair process, especially for the initial assessment and when the work is being completed. This allows our technicians to access the window, discuss any specifics with you, and address any questions or concerns you might have. Your presence ensures smooth communication and enables us to complete the job to your satisfaction.",
+        "@type": "Answer",
+        "description": "It is generally advisable for an adult to be home during the repair for access, discussions, and addressing any questions."
+      }
+    }
+  ],
+  "description": "It is generally advisable for an adult to be home during the repair for access, discussions, and addressing any questions."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-often-should-i-caulk-my-windows",
+  "name": "How often should I caulk my windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I caulk my windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of window caulk depends on the type of caulk used and environmental factors. Generally, caulk should be inspected annually and replaced every 5 to 10 years. However, if you notice visible cracks, shrinking, peeling, or a loss of adhesion, it's time to recaulk sooner. Proactive maintenance helps ensure your home remains energy- efficient and protected from moisture.",
+        "@type": "Answer",
+        "description": "Inspect window caulk annually and plan to replace it every 5 to 10 years, or sooner if you see signs of cracking, shrinking, or peeling."
+      }
+    }
+  ],
+  "description": "Inspect window caulk annually and plan to replace it every 5 to 10 years, or sooner if you see signs of cracking, shrinking, or peeling."
+}

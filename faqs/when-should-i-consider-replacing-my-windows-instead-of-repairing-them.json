@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-my-windows-instead-of-repairing-them",
+  "name": "When should I consider replacing my windows instead of repairing them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my windows instead of repairing them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider window replacement if your windows are old, single-pane, consistently foggy between panes, difficult to open or close, or if multiple repairs have failed to eliminate drafts. Significant damage to the frame, sash, or glass, or if you're facing high energy bills due to poor insulation, are also strong indicators. While repairs can fix minor issues, replacement offers a long-term solution for improved energy efficiency, comfort, and home value.",
+        "@type": "Answer",
+        "description": "Consider replacement for old, single-pane, or consistently foggy windows, or if repairs are ineffective. Replacement offers long-term energy efficiency and value."
+      }
+    }
+  ],
+  "description": "Consider replacement for old, single-pane, or consistently foggy windows, or if repairs are ineffective. Replacement offers long-term energy efficiency and valu"
+}

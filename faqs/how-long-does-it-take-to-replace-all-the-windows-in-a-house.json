@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-replace-all-the-windows-in-a-house",
+  "name": "How long does it take to replace all the windows in a house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace all the windows in a house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration for replacing all windows in a house varies based on the number of windows, their type, the complexity of the installation, and the crew size. For a typical Bay Area home with 10-15 windows, the process usually takes 2-5 days. Larger homes or those requiring significant frame repairs might take longer. Our project managers provide a detailed timeline after the initial assessment.",
+        "@type": "Answer",
+        "description": "Replacing all windows in a house typically takes 2-5 days for a standard home, depending on the number and type of windows."
+      }
+    }
+  ],
+  "description": "Replacing all windows in a house typically takes 2-5 days for a standard home, depending on the number and type of windows."
+}

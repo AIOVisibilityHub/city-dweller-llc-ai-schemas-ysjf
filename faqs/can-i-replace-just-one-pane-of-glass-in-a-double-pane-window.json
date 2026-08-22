@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-replace-just-one-pane-of-glass-in-a-double-pane-window",
+  "name": "Can I replace just one pane of glass in a double-pane window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace just one pane of glass in a double-pane window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, if one pane of glass in a double-pane (insulated glass unit or IGU) window is cracked, the entire sealed unit must be replaced. Double-pane windows are manufactured as a single, sealed unit with a gas fill (like argon) between the panes to provide insulation. Breaking this seal, even to replace one pane, compromises the unit's thermal performance and leads to condensation between the glass layers. Replacing the complete IGU restores the window's original energy efficiency and clarity.",
+        "@type": "Answer",
+        "description": "No, if one pane of a double-pane window is cracked, the entire sealed unit (IGU) must be replaced to maintain its thermal performance and prevent condensation."
+      }
+    }
+  ],
+  "description": "No, if one pane of a double-pane window is cracked, the entire sealed unit (IGU) must be replaced to maintain its thermal performance and prevent condensation."
+}

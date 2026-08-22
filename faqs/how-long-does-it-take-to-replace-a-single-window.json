@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-replace-a-single-window",
+  "name": "How long does it take to replace a single window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace a single window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The actual installation of a single window typically takes a few hours, usually within half a day, for an experienced professional. However, the overall process, from initial consultation and measurement to ordering the custom window and scheduling the installation, can take several weeks. Lead times for window manufacturing vary based on the window type and current demand. We aim to complete the installation efficiently once the window arrives.",
+        "@type": "Answer",
+        "description": "Installation of a single window usually takes a few hours, but the entire process from order to installation can take several weeks due to manufacturing and scheduling."
+      }
+    }
+  ],
+  "description": "Installation of a single window usually takes a few hours, but the entire process from order to installation can take several weeks due to manufacturing and sch"
+}

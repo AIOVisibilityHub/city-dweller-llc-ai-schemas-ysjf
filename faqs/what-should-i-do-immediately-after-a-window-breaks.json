@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-do-immediately-after-a-window-breaks",
+  "name": "What should I do immediately after a window breaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after a window breaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Safety is the first priority. Carefully clear any large pieces of broken glass from the opening and surrounding area. Use gloves and eye protection. Cover the opening with a temporary material like plywood, a thick tarp, or heavy-duty plastic sheeting secured with duct tape or nails to prevent further damage, weather entry, and maintain security until professional repair can be arranged. Keep children and pets away from the broken window.",
+        "@type": "Answer",
+        "description": "Immediately clear large glass pieces, cover the opening with a temporary material like plywood or plastic, and ensure safety until professional repair."
+      }
+    }
+  ],
+  "description": "Immediately clear large glass pieces, cover the opening with a temporary material like plywood or plastic, and ensure safety until professional repair."
+}

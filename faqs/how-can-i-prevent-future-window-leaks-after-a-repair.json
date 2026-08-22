@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-prevent-future-window-leaks-after-a-repair",
+  "name": "How can I prevent future window leaks after a repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future window leaks after a repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent future window leaks, ensure proper ongoing maintenance, including regular inspection and re-caulking of exterior seals as needed. Keep weep holes clear of debris. Address any issues with exterior siding or roofing that might direct water toward windows. Proper installation with correct flashing is key to long-term prevention. Consider professional inspections periodically, especially in areas with heavy rain.",
+        "@type": "Answer",
+        "description": "Prevent future leaks by regular inspection, re-caulking, keeping weep holes clear, addressing exterior siding/roofing issues, and ensuring proper flashing and installation."
+      }
+    }
+  ],
+  "description": "Prevent future leaks by regular inspection, re-caulking, keeping weep holes clear, addressing exterior siding/roofing issues, and ensuring proper flashing and i"
+}

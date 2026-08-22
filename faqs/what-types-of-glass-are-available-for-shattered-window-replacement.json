@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-glass-are-available-for-shattered-window-replacement",
+  "name": "What types of glass are available for shattered window replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of glass are available for shattered window replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several glass options are available, each with different benefits. Common choices include standard annealed glass, tempered safety glass (required for doors, bathrooms, and certain large windows due to its breakage pattern), laminated glass (offering enhanced security and sound reduction), and insulated glass units (IGUs) for improved energy efficiency. We will discuss the best type for your specific needs, considering safety, insulation, and local building codes.",
+        "@type": "Answer",
+        "description": "Available glass types include annealed, tempered (safety), laminated (security/sound), and insulated (energy efficiency). We recommend the best option based on your needs and local codes."
+      }
+    }
+  ],
+  "description": "Available glass types include annealed, tempered (safety), laminated (security/sound), and insulated (energy efficiency). We recommend the best option based on"
+}

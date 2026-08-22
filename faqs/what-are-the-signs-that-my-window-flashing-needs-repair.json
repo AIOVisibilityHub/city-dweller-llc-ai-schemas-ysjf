@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-signs-that-my-window-flashing-needs-repair",
+  "name": "What are the signs that my window flashing needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my window flashing needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your window flashing may need repair include water stains on interior walls or ceilings near windows, peeling paint or bubbling drywall around window frames, and visible rot or mold on window sills or frames. Exterior indicators can include deteriorated caulk, warped or soft siding around windows, or recurring leaks after rain. Sometimes, drafts around windows can also indicate a compromised seal, which might be related to flashing issues. Addressing these signs promptly can prevent more extensive and costly water damage.",
+        "@type": "Answer",
+        "description": "Signs include interior water stains, peeling paint, visible rot or mold, exterior caulk deterioration, and warped siding around windows. Address these to prevent further water damage."
+      }
+    }
+  ],
+  "description": "Signs include interior water stains, peeling paint, visible rot or mold, exterior caulk deterioration, and warped siding around windows. Address these to preven"
+}

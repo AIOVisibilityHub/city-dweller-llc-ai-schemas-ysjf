@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-foggy-window-repair",
+  "name": "What is the process for foggy window repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for foggy window repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for foggy window repair typically begins with an inspection to determine if repair or replacement of the insulated glass unit (IGU) is the best option. If repairing the IGU, measurements are taken for a custom-built replacement glass unit. Once manufactured, the old foggy IGU is carefully removed from the existing window frame, and the new, clear IGU is installed and securely sealed. This process ensures the frame remains intact while only the glass is replaced, restoring clarity and energy efficiency to the window.",
+        "@type": "Answer",
+        "description": "The foggy window repair process involves inspecting the damage, measuring for a new insulated glass unit (IGU) if needed, then removing the old unit and installing the new one within the existing frame."
+      }
+    }
+  ],
+  "description": "The foggy window repair process involves inspecting the damage, measuring for a new insulated glass unit (IGU) if needed, then removing the old unit and install"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-window-inspection-before-selling-my-home",
+  "name": "Do I need a window inspection before selling my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a window inspection before selling my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While not always legally mandated, obtaining a window inspection before selling your home is highly recommended. It allows you to identify and address any existing problems, such as drafts, leaks, or inoperable windows, which could deter potential buyers or lead to complications during negotiations. A pre-listing inspection can provide transparency to buyers and help ensure a smoother sales process, potentially increasing your home's appeal and value.",
+        "@type": "Answer",
+        "description": "An inspection before selling is recommended to identify and address issues, providing transparency to buyers and potentially increasing home value."
+      }
+    }
+  ],
+  "description": "An inspection before selling is recommended to identify and address issues, providing transparency to buyers and potentially increasing home value."
+}

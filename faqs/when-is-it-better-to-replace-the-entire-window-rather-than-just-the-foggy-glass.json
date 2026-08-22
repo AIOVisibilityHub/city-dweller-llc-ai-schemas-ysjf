@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-is-it-better-to-replace-the-entire-window-rather-than-just-the-foggy-glass",
+  "name": "When is it better to replace the entire window rather than just the foggy glass?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it better to replace the entire window rather than just the foggy glass?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is better to replace the entire window when the frame itself is significantly damaged, such as suffering from rot, warping, cracking, or severe structural issues. If the frame's integrity is compromised, installing new glass into it won't resolve the underlying problems, and you may face future issues like drafts, leaks, or further damage. Additionally, if you're looking for a complete aesthetic upgrade, different window styles, or a substantial improvement in insulation or noise reduction that a simple glass replacement cannot provide, a full window replacement is often the better investment.",
+        "@type": "Answer",
+        "description": "Replace the entire window if the frame is significantly damaged (rot, warp, cracks) or if you seek a complete aesthetic and functional upgrade beyond glass replacement."
+      }
+    }
+  ],
+  "description": "Replace the entire window if the frame is significantly damaged (rot, warp, cracks) or if you seek a complete aesthetic and functional upgrade beyond glass repl"
+}

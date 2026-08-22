@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-signs-that-my-windows-need-recaulking",
+  "name": "What are the signs that my windows need recaulking?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my windows need recaulking?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several indicators suggest your windows need recaulking. You might feel drafts near windows, especially on windy days, indicating air leakage. Higher energy bills without a clear explanation can also be a sign of poor insulation due to failing caulk. Visually inspect the caulk for cracks, crumbling, peeling, or gaps between the window frame and the wall. Water stains or signs of moisture around window sills or walls also point to compromised seals that allow water intrusion.",
+        "@type": "Answer",
+        "description": "Look for drafts, higher energy bills, visible cracks or gaps in the caulk, or water stains around your windows. These are signs recaulking is needed."
+      }
+    }
+  ],
+  "description": "Look for drafts, higher energy bills, visible cracks or gaps in the caulk, or water stains around your windows. These are signs recaulking is needed."
+}

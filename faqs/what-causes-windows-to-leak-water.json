@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-windows-to-leak-water",
+  "name": "What causes windows to leak water?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes windows to leak water?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window water leaks are often caused by degraded sealants, cracked or damaged frames, improper installation, or clogged weep holes designed for drainage. Issues with flashing around the window, or problems with exterior siding and stucco that direct water towards the window, can also contribute to leaks. Identifying the exact source is crucial for effective repair.",
+        "@type": "Answer",
+        "description": "Window leaks are commonly caused by degraded sealants, damaged frames, improper installation, or clogged drainage, as well as issues with exterior flashing or siding."
+      }
+    }
+  ],
+  "description": "Window leaks are commonly caused by degraded sealants, damaged frames, improper installation, or clogged drainage, as well as issues with exterior flashing or s"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-window-flashing-and-why-is-it-important",
+  "name": "What is window flashing and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is window flashing and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window flashing is a protective barrier installed around window openings to prevent water penetration into the wall assembly. It typically consists of a waterproof material like metal, rubber, or plastic, integrated with the window and wall sheathing. Proper flashing diverts water away from the window frame and into the exterior drainage plane, protecting against rot, mold, and structural damage to your home. Without effective flashing, water can seep behind siding, leading to costly repairs over time. It's a critical component for the long-term integrity and weather resistance of your home's exterior.",
+        "@type": "Answer",
+        "description": "Window flashing is a waterproof barrier around windows that prevents water from entering walls, protecting against rot and mold. It's crucial for the structural integrity and weather resistance of your home."
+      }
+    }
+  ],
+  "description": "Window flashing is a waterproof barrier around windows that prevents water from entering walls, protecting against rot and mold. It's crucial for the structural"
+}

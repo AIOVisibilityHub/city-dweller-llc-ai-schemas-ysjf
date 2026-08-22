@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-to-replace-window-weatherstripping",
+  "name": "What is the typical cost to replace window weatherstripping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to replace window weatherstripping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to replace window weatherstripping varies depending on the type of material, the number of windows, and the complexity of the installation. For a professional service, you might expect to pay for both materials and labor. While minor repairs can be relatively inexpensive, replacing weatherstripping on an entire house, especially with higher-quality materials, will incur a greater cost. We provide detailed estimates after assessing your specific needs.",
+        "@type": "Answer",
+        "description": "Cost varies based on material type, number of windows, and installation complexity. A professional assessment provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Cost varies based on material type, number of windows, and installation complexity. A professional assessment provides an accurate estimate."
+}

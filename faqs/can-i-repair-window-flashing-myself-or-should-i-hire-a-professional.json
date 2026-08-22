@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-window-flashing-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair window flashing myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair window flashing myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor window caulking or sealing might seem like a DIY task, professional expertise is highly recommended for proper window flashing repair. Correct flashing installation requires specific knowledge of building codes, water drainage principles, and experience with various materials and techniques. Improperly installed flashing can lead to continued water intrusion, hidden rot, and more costly structural damage down the line. A professional contractor like City Dweller, LLC, has the tools, experience, and understanding to ensure the repair is done correctly and effectively, protecting your home's integrity and warranty.",
+        "@type": "Answer",
+        "description": "Professional expertise is recommended for window flashing repair due to complex building codes and drainage principles. Improper DIY can lead to costly damage, making professional service a safer choice."
+      }
+    }
+  ],
+  "description": "Professional expertise is recommended for window flashing repair due to complex building codes and drainage principles. Improper DIY can lead to costly damage,"
+}

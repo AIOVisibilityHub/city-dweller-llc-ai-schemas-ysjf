@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-replacing-a-broken-window-glass",
+  "name": "What is the process for replacing a broken window glass?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing a broken window glass?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with an assessment of the damaged window and measurements for the new glass. If immediate securing is needed, temporary boarding might be installed. Once the new glass is ready, the old, broken glass is carefully removed, and the window frame is cleaned and prepared. The new glass unit is then installed, sealed, and glazed to ensure a weather-tight fit. Finally, the work area is cleaned, and the new window's functionality is tested.",
+        "@type": "Answer",
+        "description": "The process involves assessment, measurement, temporary securing if needed, careful removal of old glass, preparation of the frame, installation of new glass, sealing, and cleanup."
+      }
+    }
+  ],
+  "description": "The process involves assessment, measurement, temporary securing if needed, careful removal of old glass, preparation of the frame, installation of new glass, s"
+}

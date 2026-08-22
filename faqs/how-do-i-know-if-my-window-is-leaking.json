@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-my-window-is-leaking",
+  "name": "How do I know if my window is leaking?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my window is leaking?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of a leaking window include visible water stains on walls or ceilings near the window, peeling paint or bubbling drywall, mold or mildew growth, or a damp smell. You might also notice rot on the window frame or sill. During heavy rain, you might see water actively dripping or pooling on the windowsill or floor below.",
+        "@type": "Answer",
+        "description": "Look for water stains, peeling paint, mold, damp smells, or rot around the window. Active dripping during rain is a clear indicator."
+      }
+    }
+  ],
+  "description": "Look for water stains, peeling paint, mold, damp smells, or rot around the window. Active dripping during rain is a clear indicator."
+}

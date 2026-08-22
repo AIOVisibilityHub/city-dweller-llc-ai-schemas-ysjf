@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-window-repair-take",
+  "name": "How long does a typical window repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical window repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a window repair depends on its complexity. Simple fixes, like replacing a broken pane of glass or a piece of hardware, can often be completed within a few hours to a single day. Repairs involving custom-cut glass, ordering specific parts, or addressing extensive frame damage may require multiple visits or longer lead times for materials to arrive. We strive to complete repairs efficiently while ensuring quality workmanship.",
+        "@type": "Answer",
+        "description": "Simple window repairs typically take a few hours to a day. More complex issues or those requiring custom parts may take longer, depending on material availability."
+      }
+    }
+  ],
+  "description": "Simple window repairs typically take a few hours to a day. More complex issues or those requiring custom parts may take longer, depending on material availabili"
+}

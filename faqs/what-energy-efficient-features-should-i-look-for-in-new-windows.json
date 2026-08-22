@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-energy-efficient-features-should-i-look-for-in-new-windows",
+  "name": "What energy-efficient features should I look for in new windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What energy-efficient features should I look for in new windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing energy-efficient windows, look for features such as Low-E (low-emissivity) glass coatings, which reflect heat while allowing light in. Double-pane or triple-pane glazing with inert gas fills (like argon or krypton) between the panes significantly improves insulation. Also, consider frames made from materials with good insulating properties and look for NFRC (National Fenestration Rating Council) labels to compare U-factor, Solar Heat Gain Coefficient (SHGC), and Visible Transmittance ratings.",
+        "@type": "Answer",
+        "description": "Key energy-efficient features include Low-E glass, double or triple-pane glazing with inert gas fills, and well-insulated frames. Check NFRC ratings for performance metrics."
+      }
+    }
+  ],
+  "description": "Key energy-efficient features include Low-E glass, double or triple-pane glazing with inert gas fills, and well-insulated frames. Check NFRC ratings for perform"
+}

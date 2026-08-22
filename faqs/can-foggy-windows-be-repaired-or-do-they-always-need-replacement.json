@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-foggy-windows-be-repaired-or-do-they-always-need-replacement",
+  "name": "Can foggy windows be repaired, or do they always need replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can foggy windows be repaired, or do they always need replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Often, foggy windows can be repaired without needing full window replacement. Specialized processes, sometimes called defogging or de-misting, involve drilling small holes into the glass to drain moisture and clean the interior surfaces. Afterward, a new vent is installed to prevent future fogging. However, the effectiveness of repair depends on the extent of the damage and the type of window. If the glass itself is damaged or the frame is compromised, replacement of the insulated glass unit (IGU) or the entire window might be necessary.",
+        "@type": "Answer",
+        "description": "Foggy windows can often be repaired by defogging processes, but severe damage to the glass or frame may require insulated glass unit (IGU) or full window replacement."
+      }
+    }
+  ],
+  "description": "Foggy windows can often be repaired by defogging processes, but severe damage to the glass or frame may require insulated glass unit (IGU) or full window replac"
+}

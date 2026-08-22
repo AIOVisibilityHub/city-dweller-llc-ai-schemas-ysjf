@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-of-window-replacement-in-the-bay-area",
+  "name": "What is the typical cost of window replacement in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost of window replacement in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of window replacement in the Bay Area varies significantly based on factors such as window material (vinyl, wood, fiberglass), style, size, number of windows, and type of glass (e.g., double-pane, low-E). Installation complexity also plays a role. It's best to get a detailed estimate for your specific project, as prices can range from several hundred to over a thousand dollars per window, including installation.",
+        "@type": "Answer",
+        "description": "Window replacement costs in the Bay Area vary widely depending on materials, style, size, and installation complexity. Obtain a detailed estimate for accurate pricing."
+      }
+    }
+  ],
+  "description": "Window replacement costs in the Bay Area vary widely depending on materials, style, size, and installation complexity. Obtain a detailed estimate for accurate p"
+}

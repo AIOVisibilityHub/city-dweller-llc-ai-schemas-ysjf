@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-a-leaking-window-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair a leaking window myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair a leaking window myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For minor leaks caused by superficial issues like small gaps in caulk or worn weatherstripping, you might be able to perform a DIY repair. However, if the leak source is unclear, involves frame damage, or has led to water intrusion into walls, it's best to hire a professional. Professionals have the experience and tools to accurately diagnose complex problems and ensure a lasting, effective repair, preventing further, more costly damage.",
+        "@type": "Answer",
+        "description": "You can DIY minor leaks from small caulk gaps or worn weatherstripping. For unclear sources, frame damage, or wall intrusion, hire a professional for accurate diagnosis and lasting repair."
+      }
+    }
+  ],
+  "description": "You can DIY minor leaks from small caulk gaps or worn weatherstripping. For unclear sources, frame damage, or wall intrusion, hire a professional for accurate d"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-windows-to-leak",
+  "name": "What causes windows to leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes windows to leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window leaks can stem from various issues, including compromised seals, deteriorated caulking, damaged frames, or improper installation. Over time, exposure to weather elements can degrade materials, creating gaps where water can penetrate. Clogged or improperly installed drainage systems around the window can also lead to water accumulation and eventual leaks. Identifying the root cause is crucial for an effective repair.",
+        "@type": "Answer",
+        "description": "Window leaks are often caused by deteriorated seals, caulking, damaged frames, or improper installation. Weather exposure and poor drainage can also contribute."
+      }
+    }
+  ],
+  "description": "Window leaks are often caused by deteriorated seals, caulking, damaged frames, or improper installation. Weather exposure and poor drainage can also contribute."
+}

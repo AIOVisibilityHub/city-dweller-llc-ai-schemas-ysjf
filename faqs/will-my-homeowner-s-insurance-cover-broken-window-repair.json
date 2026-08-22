@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-my-homeowner-s-insurance-cover-broken-window-repair",
+  "name": "Will my homeowner's insurance cover broken window repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover broken window repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance policies often cover broken windows, especially if the damage is due to perils like vandalism, storms, or accidents. However, coverage specifics, deductibles, and claim processes vary greatly depending on your individual policy. It's best to review your policy documents or contact your insurance provider directly to understand your coverage before initiating a repair claim. We can provide documentation for your claim.",
+        "@type": "Answer",
+        "description": "Many homeowner's insurance policies cover broken windows from perils like vandalism or storms. Check your specific policy for details and deductibles."
+      }
+    }
+  ],
+  "description": "Many homeowner's insurance policies cover broken windows from perils like vandalism or storms. Check your specific policy for details and deductibles."
+}

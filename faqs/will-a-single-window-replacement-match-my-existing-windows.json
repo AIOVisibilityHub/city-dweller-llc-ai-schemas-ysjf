@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-a-single-window-replacement-match-my-existing-windows",
+  "name": "Will a single window replacement match my existing windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a single window replacement match my existing windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We strive to find a replacement window that closely matches your existing windows in terms of style, color, and grid patterns, if desired. However, exact matches can sometimes be challenging, especially with very old or unique window designs. We will discuss your options, including custom color matching and different material choices, to achieve the most cohesive look possible. Our goal is to ensure the new window blends seamlessly with your home's exterior and interior.",
+        "@type": "Answer",
+        "description": "We aim to match your existing windows in style, color, and grid patterns, but exact matches can be challenging; we'll discuss options to ensure a cohesive look."
+      }
+    }
+  ],
+  "description": "We aim to match your existing windows in style, color, and grid patterns, but exact matches can be challenging; we'll discuss options to ensure a cohesive look."
+}

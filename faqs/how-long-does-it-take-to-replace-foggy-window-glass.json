@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-replace-foggy-window-glass",
+  "name": "How long does it take to replace foggy window glass?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace foggy window glass?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The actual replacement of the glass unit itself is typically a quick process, often taking less than an hour per window once the new glass arrives. However, the overall timeline includes measurement, ordering the custom-sized glass, and scheduling the installation. From initial consultation to completion, the entire process can range from 1-3 weeks, depending on glass availability and the contractor's schedule. Expedited services might be available for urgent situations.",
+        "@type": "Answer",
+        "description": "The replacement takes about an hour per window, but the full process, including ordering custom glass, can take 1-3 weeks."
+      }
+    }
+  ],
+  "description": "The replacement takes about an hour per window, but the full process, including ordering custom glass, can take 1-3 weeks."
+}

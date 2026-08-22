@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-drafty-window-repair-take",
+  "name": "How long does a typical drafty window repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical drafty window repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a drafty window repair depends on the number of windows and the complexity of the issues. Minor repairs like re-caulking or weatherstripping can often be completed in a few hours per window. More involved repairs, such as adjusting or repairing a sash or frame, might take longer. We strive to complete repairs efficiently while ensuring quality, and we will provide an estimated timeline during your initial consultation.",
+        "@type": "Answer",
+        "description": "Repair time depends on the issue's complexity and number of windows, from a few hours for minor fixes to longer for structural repairs."
+      }
+    }
+  ],
+  "description": "Repair time depends on the issue's complexity and number of windows, from a few hours for minor fixes to longer for structural repairs."
+}

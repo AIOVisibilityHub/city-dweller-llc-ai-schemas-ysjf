@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-replacement-windows-and-new-construction-windows",
+  "name": "What is the difference between replacement windows and new construction windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between replacement windows and new construction windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacement windows, also known as 'insert' or 'pocket' windows, are designed to fit into an existing window frame after the old sash is removed, preserving the original trim. New construction windows are installed directly into the rough opening before siding and trim are applied, typically used for new builds or when existing frames are severely damaged and need to be removed completely. The choice depends on the condition of your existing frames and the scope of your project.",
+        "@type": "Answer",
+        "description": "Replacement windows fit into existing frames, while new construction windows are installed into rough openings. The choice depends on your project's scope and existing frame condition."
+      }
+    }
+  ],
+  "description": "Replacement windows fit into existing frames, while new construction windows are installed into rough openings. The choice depends on your project's scope and e"
+}

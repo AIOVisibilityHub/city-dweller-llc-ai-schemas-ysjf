@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-my-double-pane-windows-to-look-foggy",
+  "name": "What causes my double-pane windows to look foggy?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes my double-pane windows to look foggy?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Foggy windows, also known as 'failed' insulated glass units (IGUs), occur when the seal between the two panes of glass breaks down. This allows moisture-laden air to penetrate the space between the glass panes. As temperatures change, the moisture condenses, creating the cloudy or foggy appearance you see. This is often due to aging seals, extreme weather fluctuations, or improper installation. Once the seal is compromised, the insulating gas (like argon) may also escape, reducing the window's energy efficiency.",
+        "@type": "Answer",
+        "description": "Foggy windows are caused by a broken seal in double-pane windows, allowing moisture to enter and condense between the glass panes."
+      }
+    }
+  ],
+  "description": "Foggy windows are caused by a broken seal in double-pane windows, allowing moisture to enter and condense between the glass panes."
+}

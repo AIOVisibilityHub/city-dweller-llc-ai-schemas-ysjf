@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-you-repair-broken-windows-in-older-or-historic-homes",
+  "name": "Can you repair broken windows in older or historic homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you repair broken windows in older or historic homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we have experience repairing windows in older and historic homes, which often require careful attention to detail and specific materials. This can involve matching existing glass types, repairing original sashes, or sourcing appropriate period-correct glass. We aim to preserve the architectural integrity of your home while ensuring safety and functionality. We can discuss suitable repair or replacement options to maintain the home's character.",
+        "@type": "Answer",
+        "description": "We repair broken windows in older homes, carefully matching glass types and materials to preserve architectural integrity."
+      }
+    }
+  ],
+  "description": "We repair broken windows in older homes, carefully matching glass types and materials to preserve architectural integrity."
+}

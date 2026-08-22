@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-be-home-during-the-window-glass-replacement-process",
+  "name": "Do I need to be home during the window glass replacement process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home during the window glass replacement process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally recommended that an adult is present at the property during the window glass replacement process, especially for the initial assessment and at the time of installation. This allows our technicians to access the window, discuss any specific concerns or details with you, and ensures a smooth process. Your presence can also facilitate quick decisions if any unforeseen issues arise. If you cannot be present, please arrange for an authorized adult to be on site.",
+        "@type": "Answer",
+        "description": "An adult should ideally be present for the assessment and installation to provide access, discuss details, and address any issues."
+      }
+    }
+  ],
+  "description": "An adult should ideally be present for the assessment and installation to provide access, discuss details, and address any issues."
+}

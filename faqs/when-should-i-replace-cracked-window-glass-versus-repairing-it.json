@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-replace-cracked-window-glass-versus-repairing-it",
+  "name": "When should I replace cracked window glass versus repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I replace cracked window glass versus repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Small, superficial cracks or chips on the outer pane of double-glazed windows might sometimes be repairable, depending on their size and location. However, any crack that compromises the window's structural integrity, extends across the pane, or affects a single-pane window typically requires full glass replacement. If the crack has broken the seal of an insulated glass unit (IGU), leading to condensation between the panes, replacement is also necessary to restore energy efficiency and clarity. It's often safer and more effective to replace cracked glass to ensure safety and performance.",
+        "@type": "Answer",
+        "description": "Replace cracked glass if the crack compromises structural integrity, extends across the pane, or breaks the seal of an insulated unit. Small, superficial chips may be repairable."
+      }
+    }
+  ],
+  "description": "Replace cracked glass if the crack compromises structural integrity, extends across the pane, or breaks the seal of an insulated unit. Small, superficial chips"
+}

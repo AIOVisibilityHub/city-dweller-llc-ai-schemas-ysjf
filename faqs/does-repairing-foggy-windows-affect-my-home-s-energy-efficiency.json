@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/does-repairing-foggy-windows-affect-my-home-s-energy-efficiency",
+  "name": "Does repairing foggy windows affect my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does repairing foggy windows affect my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, repairing foggy windows can significantly impact your home's energy efficiency. When an insulated glass unit (IGU) becomes foggy, it means the seal has failed, and the insulating gas (like argon) between the panes has likely escaped and been replaced by moist air. This compromises the window's ability to insulate, leading to heat loss in winter and heat gain in summer. Repairing the IGU by replacing the sealed unit or restoring its integrity re-establishes the thermal barrier, improving insulation and potentially reducing heating and cooling costs.",
+        "@type": "Answer",
+        "description": "Repairing foggy windows restores the insulating properties of the sealed glass unit, improving energy efficiency and potentially reducing heating and cooling costs."
+      }
+    }
+  ],
+  "description": "Repairing foggy windows restores the insulating properties of the sealed glass unit, improving energy efficiency and potentially reducing heating and cooling co"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-average-cost-of-replacement-windows-in-the-bay-area",
+  "name": "What is the average cost of replacement windows in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of replacement windows in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of replacement windows in the Bay Area can vary significantly based on factors such as the window type, material, size, energy efficiency features, and installation complexity. Premium materials like wood or fiberglass generally cost more than vinyl. Due to regional labor and material costs, prices can be higher than national averages. It's best to get a personalized quote for an accurate estimate.",
+        "@type": "Answer",
+        "description": "Costs vary widely based on window type, material, size, and energy features; Bay Area prices can be higher due to regional factors."
+      }
+    }
+  ],
+  "description": "Costs vary widely based on window type, material, size, and energy features; Bay Area prices can be higher due to regional factors."
+}

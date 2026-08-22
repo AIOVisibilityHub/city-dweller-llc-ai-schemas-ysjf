@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-a-window-inspection-prevent-future-window-problems",
+  "name": "Can a window inspection prevent future window problems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a window inspection prevent future window problems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While a window inspection cannot guarantee the absence of all future problems, it plays a crucial role in preventative maintenance. By identifying minor issues like failing seals, worn weatherstripping, or early signs of rot, an inspection allows for timely intervention. Addressing these small problems promptly can prevent them from escalating into more significant and costly repairs down the line. It helps extend the lifespan of your windows and maintain their performance.",
+        "@type": "Answer",
+        "description": "Yes, a window inspection can identify minor issues early, allowing for timely repairs that prevent larger, more costly problems and extend window lifespan."
+      }
+    }
+  ],
+  "description": "Yes, a window inspection can identify minor issues early, allowing for timely repairs that prevent larger, more costly problems and extend window lifespan."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-for-a-single-window-replacement-in-the-bay-area",
+  "name": "What is the typical cost for a single window replacement in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for a single window replacement in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for a single window replacement in the Bay Area can vary significantly based on factors such as the window's material (vinyl, wood, fiberglass), style (double-hung, casement, picture), size, and energy-efficiency features like glazing options. Installation complexity, including any necessary structural adjustments, also influences the price. Obtaining a detailed quote is the best way to understand the specific cost for your project, as prices are customized to your needs.",
+        "@type": "Answer",
+        "description": "Cost varies based on material, style, size, energy features, and installation complexity. A detailed quote is needed for specific pricing."
+      }
+    }
+  ],
+  "description": "Cost varies based on material, style, size, energy features, and installation complexity. A detailed quote is needed for specific pricing."
+}

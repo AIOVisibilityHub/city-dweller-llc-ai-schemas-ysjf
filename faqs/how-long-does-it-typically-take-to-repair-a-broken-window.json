@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-typically-take-to-repair-a-broken-window",
+  "name": "How long does it typically take to repair a broken window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to repair a broken window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a broken window repair depends on the glass type and availability. Standard single-pane glass can often be replaced within a few days once the glass is ordered. Custom or specialty glass, such as tempered or insulated units, may require special ordering and can take one to two weeks. We always strive for efficient service to minimize disruption, and emergency board-up services are available for immediate security.",
+        "@type": "Answer",
+        "description": "Repair time depends on glass type and availability; standard glass may take days, while custom or specialty glass can take one to two weeks."
+      }
+    }
+  ],
+  "description": "Repair time depends on glass type and availability; standard glass may take days, while custom or specialty glass can take one to two weeks."
+}

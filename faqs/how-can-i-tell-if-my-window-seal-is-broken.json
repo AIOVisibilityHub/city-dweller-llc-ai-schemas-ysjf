@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-tell-if-my-window-seal-is-broken",
+  "name": "How can I tell if my window seal is broken?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my window seal is broken?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most common sign of a broken window seal is visible condensation, fogging, or a milky film appearing between the two panes of glass. This moisture cannot be wiped away from either the interior or exterior surface. You might also notice increased energy bills as the window loses its insulating properties, or feel drafts even when the window is closed. In some cases, a rattling sound or a distorted view can also indicate a compromised seal.",
+        "@type": "Answer",
+        "description": "Look for condensation, fogging, or a milky film between the glass panes that cannot be wiped away. Increased energy bills or drafts can also be indicators."
+      }
+    }
+  ],
+  "description": "Look for condensation, fogging, or a milky film between the glass panes that cannot be wiped away. Increased energy bills or drafts can also be indicators."
+}

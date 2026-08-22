@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-air-leaks-around-windows",
+  "name": "What causes air leaks around windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes air leaks around windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Air leaks around windows are typically caused by aging or damaged weatherstripping, cracked or deteriorated caulk, or gaps between the window frame and the wall. Over time, materials can shrink, crack, or lose their elasticity due to exposure to elements, leading to gaps. Improper installation or settling of the house foundation can also contribute to these leaks, allowing unconditioned air to enter or escape your home.",
+        "@type": "Answer",
+        "description": "Air leaks are often caused by old or damaged weatherstripping, cracked caulk, or gaps between the window frame and the wall. Material wear and tear or improper installation are common culprits."
+      }
+    }
+  ],
+  "description": "Air leaks are often caused by old or damaged weatherstripping, cracked caulk, or gaps between the window frame and the wall. Material wear and tear or improper"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-just-one-window-instead-of-all-of-them",
+  "name": "When should I consider replacing just one window instead of all of them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing just one window instead of all of them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You might consider replacing just one window if only a single unit is significantly damaged, broken, or malfunctioning, while others are still in good condition. This could be due to an isolated incident like an impact or an issue with one specific window's seal or frame. It's a cost-effective solution when a full-house replacement isn't necessary or feasible. If energy efficiency is a concern for only one problematic window, a single replacement can address that specific area without a larger project.",
+        "@type": "Answer",
+        "description": "Consider replacing one window if only a single unit is damaged, broken, or performing poorly, and other windows are in good condition."
+      }
+    }
+  ],
+  "description": "Consider replacing one window if only a single unit is damaged, broken, or performing poorly, and other windows are in good condition."
+}

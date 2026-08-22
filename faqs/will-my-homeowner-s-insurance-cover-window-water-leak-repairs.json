@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-my-homeowner-s-insurance-cover-window-water-leak-repairs",
+  "name": "Will my homeowner's insurance cover window water leak repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover window water leak repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance coverage for window water leak repairs depends on the cause of the leak. Sudden and accidental damage, like storm damage, is often covered. However, damage resulting from neglect, poor maintenance, or long-term issues like wear and tear typically isn't. It's best to review your specific policy or contact your insurance provider for clarification on your coverage.",
+        "@type": "Answer",
+        "description": "Insurance coverage depends on the leak's cause; sudden damage may be covered, but issues from neglect or wear and tear usually are not. Check your policy."
+      }
+    }
+  ],
+  "description": "Insurance coverage depends on the leak's cause; sudden damage may be covered, but issues from neglect or wear and tear usually are not. Check your policy."
+}

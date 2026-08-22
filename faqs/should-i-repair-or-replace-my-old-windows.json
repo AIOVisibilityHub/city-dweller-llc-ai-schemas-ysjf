@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-repair-or-replace-my-old-windows",
+  "name": "Should I repair or replace my old windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my old windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repair and replacement depends on the extent of damage and your long-term goals. If your windows have minor issues like a broken pane or faulty hardware, repairs might suffice. However, if frames are rotting, seals are broken causing drafts, or you're seeking significant energy efficiency improvements, full replacement is often more cost-effective in the long run. New windows offer better insulation and can increase home value.",
+        "@type": "Answer",
+        "description": "Repair minor window issues, but opt for replacement if frames are rotting, seals are broken, or you need significant energy efficiency improvements and increased home value."
+      }
+    }
+  ],
+  "description": "Repair minor window issues, but opt for replacement if frames are rotting, seals are broken, or you need significant energy efficiency improvements and increase"
+}

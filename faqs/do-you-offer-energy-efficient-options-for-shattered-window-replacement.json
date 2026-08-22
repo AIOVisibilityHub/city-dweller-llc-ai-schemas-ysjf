@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-you-offer-energy-efficient-options-for-shattered-window-replacement",
+  "name": "Do you offer energy-efficient options for shattered window replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer energy-efficient options for shattered window replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we offer various energy-efficient glass options for shattered window replacement. These include double or triple-pane insulated glass units (IGUs) with inert gas fills (like argon) and low-emissivity (Low-E) coatings. These features significantly improve insulation, reduce heat transfer, and can help lower your energy bills. We can discuss the benefits and suitability of these options for your home during our assessment.",
+        "@type": "Answer",
+        "description": "Yes, we offer energy-efficient options like insulated glass units (IGUs) with inert gas fills and Low-E coatings to improve insulation and reduce energy costs."
+      }
+    }
+  ],
+  "description": "Yes, we offer energy-efficient options like insulated glass units (IGUs) with inert gas fills and Low-E coatings to improve insulation and reduce energy costs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-window-air-leak-repair-take",
+  "name": "How long does window air leak repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does window air leak repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of window air leak repair depends on the number of windows needing service and the complexity of the leaks. For a typical home with several windows needing re-caulking and weatherstripping, the repair might be completed within a day. More extensive repairs involving multiple windows or structural adjustments could take longer. We will provide a clear timeline during your initial consultation after assessing the scope of work.",
+        "@type": "Answer",
+        "description": "Repair time depends on the number of windows and leak complexity. Most repairs for a typical home can be completed within a day, with longer times for extensive work."
+      }
+    }
+  ],
+  "description": "Repair time depends on the number of windows and leak complexity. Most repairs for a typical home can be completed within a day, with longer times for extensive"
+}

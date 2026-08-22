@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-the-window-replacement-process-usually-take",
+  "name": "How long does the window replacement process usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the window replacement process usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of window replacement depends on the number of windows, their type, and the complexity of the installation. For a typical residential project involving 5-10 windows, installation can often be completed within one to three days. Larger projects or those requiring significant structural work will take longer. We aim to complete installations efficiently while ensuring quality and minimizing disruption to your home.",
+        "@type": "Answer",
+        "description": "Most window replacement projects for 5-10 windows can be completed in one to three days. The exact timeframe depends on project size and complexity."
+      }
+    }
+  ],
+  "description": "Most window replacement projects for 5-10 windows can be completed in one to three days. The exact timeframe depends on project size and complexity."
+}

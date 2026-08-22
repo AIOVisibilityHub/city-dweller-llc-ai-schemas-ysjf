@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-for-broken-window-glass-replacement-in-the-bay-area",
+  "name": "What is the typical cost for broken window glass replacement in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for broken window glass replacement in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for broken window glass replacement in the Bay Area varies significantly based on several factors: the type and size of the glass (single-pane, double-pane, tempered, laminated), the window frame material, and the complexity of the installation. Due to the diverse range of options and labor considerations in the Bay Area, it's best to get a specific quote after an assessment. We provide detailed estimates tailored to your specific needs.",
+        "@type": "Answer",
+        "description": "Costs vary based on glass type, size, frame material, and installation complexity; a custom quote is needed for specifics in the Bay Area."
+      }
+    }
+  ],
+  "description": "Costs vary based on glass type, size, frame material, and installation complexity; a custom quote is needed for specifics in the Bay Area."
+}

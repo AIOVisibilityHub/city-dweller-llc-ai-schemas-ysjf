@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-tell-if-my-windows-are-drafty",
+  "name": "How can I tell if my windows are drafty?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my windows are drafty?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are several ways to detect drafty windows. You might feel cold air near windows, especially on windy days. A simple test involves holding a lit candle or an incense stick near the window frame; if the flame flickers or smoke moves horizontally, it indicates an air leak. You can also visually inspect the caulk and weatherstripping for cracks or deterioration. In some cases, a significant increase in your heating bill can also be a sign of poor window sealing.",
+        "@type": "Answer",
+        "description": "You can feel cold air, observe a flickering candle flame near the window, or visually check seals for cracks."
+      }
+    }
+  ],
+  "description": "You can feel cold air, observe a flickering candle flame near the window, or visually check seals for cracks."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-my-windows-have-air-leaks",
+  "name": "How do I know if my windows have air leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my windows have air leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of window air leaks include drafts near windows, higher energy bills, condensation between window panes, or rattling windows during windy conditions. You can perform a simple test by holding a lit incense stick or a tissue near the window frame on a breezy day; if the smoke wavers or the tissue moves, you likely have an air leak. Another method is the 'dollar bill test,' where you close a window on a dollar bill; if you can pull it out easily, there's a gap.",
+        "@type": "Answer",
+        "description": "Look for drafts, higher energy bills, or condensation. You can also perform a simple incense stick or dollar bill test to detect leaks."
+      }
+    }
+  ],
+  "description": "Look for drafts, higher energy bills, or condensation. You can also perform a simple incense stick or dollar bill test to detect leaks."
+}

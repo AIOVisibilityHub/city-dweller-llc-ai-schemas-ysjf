@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-replace-broken-window-glass",
+  "name": "How long does it take to replace broken window glass?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace broken window glass?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required for broken window glass replacement varies depending on the type of window, the glass availability, and the extent of the damage. Simple single-pane replacements can often be completed within a few hours once the glass is on site. For custom-sized or specialized glass, such as tempered or insulated units, there may be a lead time for manufacturing. Our team aims to secure the opening quickly, often with temporary boarding, and then proceed with the full replacement as efficiently as possible.",
+        "@type": "Answer",
+        "description": "Most replacements take a few hours once glass is available; custom glass may have lead times for manufacturing."
+      }
+    }
+  ],
+  "description": "Most replacements take a few hours once glass is available; custom glass may have lead times for manufacturing."
+}

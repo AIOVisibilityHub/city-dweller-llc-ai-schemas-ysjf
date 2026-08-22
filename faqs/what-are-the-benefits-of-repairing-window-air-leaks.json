@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-benefits-of-repairing-window-air-leaks",
+  "name": "What are the benefits of repairing window air leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of repairing window air leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing window air leaks offers multiple benefits, primarily reducing your energy bills by preventing conditioned air from escaping and unconditioned air from entering. This leads to a more comfortable indoor temperature, fewer drafts, and less strain on your HVAC system. Additionally, sealing leaks can reduce outside noise, prevent moisture intrusion that could lead to mold, and improve overall indoor air quality by limiting dust and allergen entry.",
+        "@type": "Answer",
+        "description": "Benefits include lower energy bills, improved indoor comfort, reduced drafts and outside noise, and prevention of moisture and dust intrusion."
+      }
+    }
+  ],
+  "description": "Benefits include lower energy bills, improved indoor comfort, reduced drafts and outside noise, and prevention of moisture and dust intrusion."
+}

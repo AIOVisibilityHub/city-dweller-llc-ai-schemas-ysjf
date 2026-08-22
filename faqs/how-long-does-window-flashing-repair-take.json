@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-window-flashing-repair-take",
+  "name": "How long does window flashing repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does window flashing repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of window flashing repair depends on the scope of the project. Simple repairs, such as resealing a small section of flashing or replacing a small piece, might only take a few hours for a single window. However, if multiple windows require repair, or if there is underlying water damage to the sheathing or framing that needs to be addressed, the job could extend to one to three days per window or longer for an entire home. Factors like weather conditions and accessibility can also influence the timeline. Your contractor can provide a more precise estimate after assessing the damage.",
+        "@type": "Answer",
+        "description": "Repair time varies from a few hours for minor issues to several days per window for extensive damage or multiple windows. Factors like underlying rot and weather can extend the timeline."
+      }
+    }
+  ],
+  "description": "Repair time varies from a few hours for minor issues to several days per window for extensive damage or multiple windows. Factors like underlying rot and weathe"
+}

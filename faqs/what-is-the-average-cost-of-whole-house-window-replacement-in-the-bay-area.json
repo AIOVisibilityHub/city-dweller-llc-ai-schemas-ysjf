@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-average-cost-of-whole-house-window-replacement-in-the-bay-area",
+  "name": "What is the average cost of whole-house window replacement in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of whole-house window replacement in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of whole-house window replacement in the Bay Area varies significantly based on factors such as the number of windows, their size, material (vinyl, wood, fiberglass, aluminum), glass type (double-pane, triple-pane, low-E), and installation complexity. Premium materials and custom sizes will increase costs. Obtaining a detailed quote from a local contractor like City Dweller, LLC, which includes both materials and labor, is essential for an accurate estimate for your specific home.",
+        "@type": "Answer",
+        "description": "Costs vary widely based on window count, size, material, glass type, and installation. A custom quote from a local contractor is needed for an accurate estimate."
+      }
+    }
+  ],
+  "description": "Costs vary widely based on window count, size, material, glass type, and installation. A custom quote from a local contractor is needed for an accurate estimate"
+}

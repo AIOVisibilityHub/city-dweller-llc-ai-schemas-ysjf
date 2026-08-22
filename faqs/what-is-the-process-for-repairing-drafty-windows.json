@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-repairing-drafty-windows",
+  "name": "What is the process for repairing drafty windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing drafty windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our drafty window repair process typically begins with an inspection to identify the exact source of air leaks. Common repairs include removing old, deteriorated caulk and applying fresh sealant, or replacing worn-out weatherstripping around the sashes and frame. We may also adjust or tighten hardware, repair minor frame damage, or address issues with sash fit. The goal is to create a tight, energy-efficient seal that prevents air infiltration and improves your home's comfort.",
+        "@type": "Answer",
+        "description": "The process involves inspecting for leaks, then re-caulking, replacing weatherstripping, or adjusting components to create a tight seal."
+      }
+    }
+  ],
+  "description": "The process involves inspecting for leaks, then re-caulking, replacing weatherstripping, or adjusting components to create a tight seal."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-areas-does-city-dweller-llc-serve-for-broken-window-repair",
+  "name": "What areas does City Dweller, LLC serve for broken window repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas does City Dweller, LLC serve for broken window repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC provides broken window repair services throughout specific areas of the Bay Area. Our primary service locations include Pacifica, Daly City, San Bruno, South San Francisco, and Brisbane. If you are located in one of these cities or a neighboring community, please contact us to confirm service availability for your specific address.",
+        "@type": "Answer",
+        "description": "City Dweller, LLC serves Pacifica, Daly City, San Bruno, South San Francisco, and Brisbane for broken window repair."
+      }
+    }
+  ],
+  "description": "City Dweller, LLC serves Pacifica, Daly City, San Bruno, South San Francisco, and Brisbane for broken window repair."
+}

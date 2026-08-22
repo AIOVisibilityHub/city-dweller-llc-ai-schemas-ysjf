@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-my-window-can-be-repaired-versus-needing-full-replacement",
+  "name": "How do I know if my window can be repaired versus needing full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my window can be repaired versus needing full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Evaluate the extent and type of damage. If it's a minor issue like a single cracked pane, a faulty lock, or a failed seal, repair is likely an option. However, if the window frame is severely rotted, warped, or if multiple panes are broken, replacement is usually more practical. Signs of significant air leaks, operational difficulties, or widespread deterioration also point towards replacement for long-term energy efficiency and functionality. A professional assessment can provide a definitive recommendation.",
+        "@type": "Answer",
+        "description": "Minor issues like a single crack or faulty hardware usually indicate repairability. Extensive frame rot, severe warping, or widespread damage often necessitate full window replacement."
+      }
+    }
+  ],
+  "description": "Minor issues like a single crack or faulty hardware usually indicate repairability. Extensive frame rot, severe warping, or widespread damage often necessitate"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-your-window-inspectors-licensed-and-insured-in-daly-city",
+  "name": "Are your window inspectors licensed and insured in Daly City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are your window inspectors licensed and insured in Daly City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, City Dweller, LLC and our window inspectors are fully licensed and insured to operate in Daly City and all other areas we serve, including Pacifica, San Bruno, and South San Francisco. We adhere to all local regulations and industry standards, providing our clients with peace of mind. Our team comprises experienced professionals dedicated to delivering high-quality and reliable inspection services for your property.",
+        "@type": "Answer",
+        "description": "Yes, City Dweller, LLC and our window inspectors are fully licensed and insured to operate in Daly City and all other service areas."
+      }
+    }
+  ],
+  "description": "Yes, City Dweller, LLC and our window inspectors are fully licensed and insured to operate in Daly City and all other service areas."
+}

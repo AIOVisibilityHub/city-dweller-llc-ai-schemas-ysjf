@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-window-repair-typically-cost-in-the-bay-area",
+  "name": "How much does window repair typically cost in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does window repair typically cost in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window repair costs in the Bay Area vary widely depending on the type of damage, the window's style, and materials required. Simple repairs like replacing a single pane of standard glass might range from $150-$400. More complex issues, such as fixing a foggy double-pane unit due to a seal failure, could be $250-$600. Repairs involving custom glass, historic windows, or extensive frame work will naturally incur higher costs. Getting a detailed quote is essential.",
+        "@type": "Answer",
+        "description": "Window repair costs in the Bay Area vary significantly, from $150 for a single pane to over $600 for more complex issues. Factors include damage type, window style, and materials."
+      }
+    }
+  ],
+  "description": "Window repair costs in the Bay Area vary significantly, from $150 for a single pane to over $600 for more complex issues. Factors include damage type, window st"
+}

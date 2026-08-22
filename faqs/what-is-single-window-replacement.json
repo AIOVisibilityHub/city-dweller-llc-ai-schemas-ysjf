@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-single-window-replacement",
+  "name": "What is single window replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is single window replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Single window replacement involves removing an existing window unit and installing a new, complete window into the same opening. This process typically includes replacing the frame, sash, and glass. It's often chosen when the existing window frame is damaged, deteriorating, or when a complete upgrade to energy efficiency and aesthetics is desired. Unlike insert replacements, which keep the old frame, single window replacement offers a fresh start for the entire opening, allowing for structural repairs and full customization.",
+        "@type": "Answer",
+        "description": "Single window replacement involves removing an entire old window unit and installing a new one, including the frame, sash, and glass."
+      }
+    }
+  ],
+  "description": "Single window replacement involves removing an entire old window unit and installing a new one, including the frame, sash, and glass."
+}

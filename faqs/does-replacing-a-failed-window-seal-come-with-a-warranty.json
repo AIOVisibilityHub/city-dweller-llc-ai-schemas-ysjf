@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/does-replacing-a-failed-window-seal-come-with-a-warranty",
+  "name": "Does replacing a failed window seal come with a warranty?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does replacing a failed window seal come with a warranty?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Reputable contractors typically offer warranties on both the new insulated glass unit (IGU) and the labor involved in its installation. The duration and terms of the IGU warranty are usually provided by the glass manufacturer, often covering fogging or seal failure for a specified number of years. Labor warranties cover the installation itself. Always inquire about specific warranty details before proceeding with any repair work.",
+        "@type": "Answer",
+        "description": "Yes, new insulated glass units and installation labor usually come with warranties from manufacturers and contractors."
+      }
+    }
+  ],
+  "description": "Yes, new insulated glass units and installation labor usually come with warranties from manufacturers and contractors."
+}

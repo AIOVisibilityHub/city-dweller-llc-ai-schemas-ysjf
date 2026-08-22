@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-signs-that-my-windows-need-weatherproofing",
+  "name": "What are common signs that my windows need weatherproofing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my windows need weatherproofing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several signs indicate your windows might need weatherproofing. You might feel drafts when standing near windows, notice increased dust accumulation, or experience higher energy bills without changes in usage. Condensation between window panes or on sills can also signal seal failure. Furthermore, windows that are difficult to open or close, or show signs of wood rot or peeling paint around the frames, often point to underlying moisture or air infiltration issues that weatherproofing can address.",
+        "@type": "Answer",
+        "description": "Signs include drafts, high energy bills, condensation, difficulty operating windows, or visible damage like peeling paint or rot around frames."
+      }
+    }
+  ],
+  "description": "Signs include drafts, high energy bills, condensation, difficulty operating windows, or visible damage like peeling paint or rot around frames."
+}

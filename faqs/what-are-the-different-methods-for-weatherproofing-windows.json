@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-different-methods-for-weatherproofing-windows",
+  "name": "What are the different methods for weatherproofing windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the different methods for weatherproofing windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common methods for weatherproofing windows include caulking and weatherstripping. Caulking is used to seal gaps around the window frame where it meets the wall, preventing air and moisture infiltration. Weatherstripping is applied to moving parts of the window, such as sashes and frames, to create a tight seal when the window is closed. Other methods might include applying window film, installing storm windows, or, in more severe cases, considering full window replacement for optimal energy efficiency and sealing.",
+        "@type": "Answer",
+        "description": "Methods include caulking gaps around frames, applying weatherstripping to moving parts, using window films, or installing storm windows."
+      }
+    }
+  ],
+  "description": "Methods include caulking gaps around frames, applying weatherstripping to moving parts, using window films, or installing storm windows."
+}

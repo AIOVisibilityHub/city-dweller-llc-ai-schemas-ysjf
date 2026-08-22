@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-window-damage-can-be-repaired",
+  "name": "What types of window damage can be repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of window damage can be repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common window repairs include fixing cracked or shattered glass, repairing broken seals that cause fogging between panes, replacing worn-out hardware like locks and hinges, and addressing frame damage such as rot or warping. Minor issues like drafts or operational difficulties can often be resolved without full window replacement. The specific repair approach depends on the extent and nature of the damage.",
+        "@type": "Answer",
+        "description": "Most common window damages like cracked glass, broken seals, faulty hardware, or minor frame issues can often be repaired. The method depends on the damage type and severity."
+      }
+    }
+  ],
+  "description": "Most common window damages like cracked glass, broken seals, faulty hardware, or minor frame issues can often be repaired. The method depends on the damage type"
+}

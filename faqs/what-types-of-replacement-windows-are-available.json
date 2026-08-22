@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-replacement-windows-are-available",
+  "name": "What types of replacement windows are available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of replacement windows are available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacement windows come in various types, each offering different benefits. Common options include double-hung, casement, sliding, picture, and bay or bow windows. Materials typically include vinyl, wood, fiberglass, and aluminum. Vinyl windows are popular for their affordability and low maintenance, while wood offers a classic aesthetic and good insulation. Fiberglass is durable and energy-efficient, and aluminum is strong and slim, often used in modern designs. The best choice depends on your home's style, budget, and desired performance.",
+        "@type": "Answer",
+        "description": "Common types include double-hung, casement, and sliding, available in materials like vinyl, wood, fiberglass, or aluminum."
+      }
+    }
+  ],
+  "description": "Common types include double-hung, casement, and sliding, available in materials like vinyl, wood, fiberglass, or aluminum."
+}

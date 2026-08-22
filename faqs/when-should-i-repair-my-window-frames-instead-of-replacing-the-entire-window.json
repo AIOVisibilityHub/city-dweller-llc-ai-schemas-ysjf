@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-repair-my-window-frames-instead-of-replacing-the-entire-window",
+  "name": "When should I repair my window frames instead of replacing the entire window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair my window frames instead of replacing the entire window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window frame repair is often suitable for issues like minor rot, cracks, or loose joints, especially if the glass and sashes are in good condition. Repairing can be more cost-effective and preserve the original aesthetic of your home, which is beneficial for older or historic properties in the Bay Area. Replacement is typically recommended for extensive damage, severe energy inefficiency, or if the frame is beyond structural integrity. We assess each case to determine the most practical and economical solution for your property.",
+        "@type": "Answer",
+        "description": "Repair is suitable for minor damage like rot or cracks when the glass is intact. Replacement is for extensive damage or severe inefficiency."
+      }
+    }
+  ],
+  "description": "Repair is suitable for minor damage like rot or cracks when the glass is intact. Replacement is for extensive damage or severe inefficiency."
+}

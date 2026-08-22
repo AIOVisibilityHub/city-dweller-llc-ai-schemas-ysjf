@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/my-window-is-shattered-can-it-be-repaired-or-do-i-need-a-full-replacement",
+  "name": "My window is shattered; can it be repaired, or do I need a full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "My window is shattered; can it be repaired, or do I need a full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If only a single pane of glass is shattered in a multi-pane window, it might be possible to replace just the glass unit without replacing the entire frame. However, if the frame is damaged, warped, or if the shattered glass is part of a single-pane window, a full replacement is usually necessary for safety and energy efficiency. We assess the damage to determine the most cost-effective and secure solution for your specific situation.",
+        "@type": "Answer",
+        "description": "Most shattered windows require replacement for safety and energy efficiency, especially if the frame is damaged. Minor damage to a single pane might allow for glass-only repair."
+      }
+    }
+  ],
+  "description": "Most shattered windows require replacement for safety and energy efficiency, especially if the frame is damaged. Minor damage to a single pane might allow for g"
+}

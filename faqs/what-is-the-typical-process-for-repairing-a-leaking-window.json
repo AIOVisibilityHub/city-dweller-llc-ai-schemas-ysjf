@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-repairing-a-leaking-window",
+  "name": "What is the typical process for repairing a leaking window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for repairing a leaking window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically involves diagnosing the leak's source, which may include inspecting the window frame, seals, flashing, and surrounding wall. Once identified, repairs can range from re-sealing gaps with high-quality caulk, repairing or replacing damaged frame components, addressing flashing issues, or fixing exterior siding. The goal is to create a watertight seal and ensure proper drainage away from the window.",
+        "@type": "Answer",
+        "description": "The process involves diagnosing the leak source, then re-sealing gaps, repairing frames, or fixing flashing and siding to create a watertight seal."
+      }
+    }
+  ],
+  "description": "The process involves diagnosing the leak source, then re-sealing gaps, repairing frames, or fixing flashing and siding to create a watertight seal."
+}

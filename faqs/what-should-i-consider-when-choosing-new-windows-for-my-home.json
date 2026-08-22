@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-consider-when-choosing-new-windows-for-my-home",
+  "name": "What should I consider when choosing new windows for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing new windows for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting new windows, consider material (vinyl for durability/cost, wood for traditional aesthetics, fiberglass for strength/efficiency), glass type (double-pane for insulation, low-E coatings for UV protection), and style (casement, double-hung, slider). Energy efficiency ratings like U-factor and Solar Heat Gain Coefficient (SHGC) are also crucial, especially in the Bay Area's varied climate. We help you balance budget, aesthetics, and performance to find the best fit.",
+        "@type": "Answer",
+        "description": "When choosing new windows, consider material, glass type, style, and energy efficiency ratings like U-factor and SHGC to meet your home's needs and budget."
+      }
+    }
+  ],
+  "description": "When choosing new windows, consider material, glass type, style, and energy efficiency ratings like U-factor and SHGC to meet your home's needs and budget."
+}

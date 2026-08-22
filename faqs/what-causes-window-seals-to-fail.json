@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-window-seals-to-fail",
+  "name": "What causes window seals to fail?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes window seals to fail?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window seals typically fail due to continuous expansion and contraction of the glass and frame caused by temperature fluctuations, which can degrade the sealant over time. Other contributing factors include manufacturing defects, improper installation, physical damage, or exposure to harsh environmental conditions like strong UV radiation. Over many years, seals naturally degrade, leading to gas leakage and moisture intrusion.",
+        "@type": "Answer",
+        "description": "Temperature changes, manufacturing defects, improper installation, or age can cause window seals to fail."
+      }
+    }
+  ],
+  "description": "Temperature changes, manufacturing defects, improper installation, or age can cause window seals to fail."
+}

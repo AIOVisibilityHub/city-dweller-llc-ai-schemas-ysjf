@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-glass-are-available-for-window-replacement",
+  "name": "What types of glass are available for window replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of glass are available for window replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several types of glass are available, each with different benefits. Standard annealed glass is common for single-pane windows. Laminated glass offers enhanced security and sound reduction, as it stays in the frame when broken. Tempered glass is stronger and breaks into small, dull pieces, making it safer, often used for shower doors and near doors. Insulated glass units (IGUs), or double-pane windows, provide superior thermal performance. Low-emissivity (Low-E) coatings can also be applied to improve energy efficiency.",
+        "@type": "Answer",
+        "description": "Options include annealed, laminated for security, tempered for safety, and insulated (double-pane) or Low-E coated glass for energy efficiency."
+      }
+    }
+  ],
+  "description": "Options include annealed, laminated for security, tempered for safety, and insulated (double-pane) or Low-E coated glass for energy efficiency."
+}

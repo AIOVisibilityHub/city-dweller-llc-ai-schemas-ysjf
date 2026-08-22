@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-a-leaking-window-myself-or-do-i-need-a-contractor",
+  "name": "Can I repair a leaking window myself, or do I need a contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair a leaking window myself, or do I need a contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor window leaks, such as those caused by degraded caulk, might be addressed by an experienced homeowner. However, if the leak source is unclear, involves frame damage, flashing issues, or signs of water intrusion into the wall, a professional general contractor is recommended. Professionals have the expertise and tools to properly diagnose and repair complex issues, preventing further damage.",
+        "@type": "Answer",
+        "description": "Minor leaks from caulk might be DIY, but complex issues involving frame, flashing, or wall intrusion require a professional general contractor for proper diagnosis and repair."
+      }
+    }
+  ],
+  "description": "Minor leaks from caulk might be DIY, but complex issues involving frame, flashing, or wall intrusion require a professional general contractor for proper diagno"
+}

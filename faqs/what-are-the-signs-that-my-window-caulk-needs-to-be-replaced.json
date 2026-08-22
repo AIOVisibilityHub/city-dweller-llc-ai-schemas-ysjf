@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-signs-that-my-window-caulk-needs-to-be-replaced",
+  "name": "What are the signs that my window caulk needs to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my window caulk needs to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Look for several key indicators that your window caulk needs attention. Visible cracks, gaps, or crumbling are clear signs of deterioration. If the caulk appears dry, brittle, or has pulled away from the window frame or siding, its seal is compromised. Drafts near windows, increased dust accumulation, or water stains on interior window sills also suggest that your caulk is failing and needs replacement to maintain energy efficiency and prevent water damage.",
+        "@type": "Answer",
+        "description": "Signs include visible cracks, crumbling, gaps, or caulk pulling away from surfaces. Drafts or water stains near windows also indicate it's time for replacement."
+      }
+    }
+  ],
+  "description": "Signs include visible cracks, crumbling, gaps, or caulk pulling away from surfaces. Drafts or water stains near windows also indicate it's time for replacement."
+}

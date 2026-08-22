@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-window-leak-repair-take",
+  "name": "How long does a typical window leak repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical window leak repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a window leak repair depends on the complexity of the issue. Simple fixes, such as re-caulking or replacing weatherstripping, might take a few hours. More involved repairs, like addressing significant frame damage or underlying structural water damage, could extend to a full day or even multiple days if custom parts are needed or extensive drying is required. We strive for efficient repairs while ensuring thoroughness to prevent recurrence.",
+        "@type": "Answer",
+        "description": "Repair time varies. Simple fixes like re-caulking take a few hours. Complex repairs for significant frame or structural damage can take a full day or several days."
+      }
+    }
+  ],
+  "description": "Repair time varies. Simple fixes like re-caulking take a few hours. Complex repairs for significant frame or structural damage can take a full day or several da"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-new-weatherstripping-significantly-lower-my-energy-bills",
+  "name": "Will new weatherstripping significantly lower my energy bills?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will new weatherstripping significantly lower my energy bills?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, replacing old or damaged weatherstripping can significantly reduce your energy bills. Gaps around windows allow conditioned air to escape and outside air to enter, forcing your HVAC system to work harder. By creating a tight seal, new weatherstripping prevents this air leakage, improving your home's thermal efficiency and leading to noticeable savings on heating and cooling costs.",
+        "@type": "Answer",
+        "description": "Yes, new weatherstripping significantly lowers energy bills by preventing air leaks, improving thermal efficiency, and reducing HVAC workload."
+      }
+    }
+  ],
+  "description": "Yes, new weatherstripping significantly lowers energy bills by preventing air leaks, improving thermal efficiency, and reducing HVAC workload."
+}

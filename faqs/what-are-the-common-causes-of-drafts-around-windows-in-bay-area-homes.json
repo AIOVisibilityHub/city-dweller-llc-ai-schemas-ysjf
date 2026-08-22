@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-causes-of-drafts-around-windows-in-bay-area-homes",
+  "name": "What are the common causes of drafts around windows in Bay Area homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common causes of drafts around windows in Bay Area homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Bay Area homes, drafts around windows are commonly caused by the natural aging and wear of window components due to varying coastal weather conditions. This includes deteriorated weatherstripping, dried-out caulk around frames, and settling of the house structure creating small gaps. Even mild seismic activity can contribute to minor shifts over time. Poor original installation or lack of regular maintenance can also lead to air leaks, reducing comfort and energy efficiency.",
+        "@type": "Answer",
+        "description": "Common causes include aged weatherstripping and caulk, house settling, and installation issues, often exacerbated by Bay Area weather."
+      }
+    }
+  ],
+  "description": "Common causes include aged weatherstripping and caulk, house settling, and installation issues, often exacerbated by Bay Area weather."
+}

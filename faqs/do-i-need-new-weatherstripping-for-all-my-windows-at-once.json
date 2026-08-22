@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-new-weatherstripping-for-all-my-windows-at-once",
+  "name": "Do I need new weatherstripping for all my windows at once?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need new weatherstripping for all my windows at once?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, you don't necessarily need to replace weatherstripping on all your windows simultaneously. You can prioritize windows that show the most significant signs of wear or leakage. However, addressing all compromised windows at once can offer more comprehensive energy savings and a consistent level of comfort throughout your home. We can help you assess which windows are most in need of attention.",
+        "@type": "Answer",
+        "description": "You can prioritize windows with visible wear, but replacing all compromised weatherstripping at once offers greater energy savings and comfort."
+      }
+    }
+  ],
+  "description": "You can prioritize windows with visible wear, but replacing all compromised weatherstripping at once offers greater energy savings and comfort."
+}

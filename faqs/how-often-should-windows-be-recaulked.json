@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-often-should-windows-be-recaulked",
+  "name": "How often should windows be recaulked?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should windows be recaulked?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of window caulk varies depending on the type of caulk used, exposure to sunlight and weather, and the quality of the initial application. Generally, caulk can last anywhere from 5 to 15 years. It's advisable to inspect your window caulk annually, especially after harsh weather seasons. Look for signs of cracking, shrinking, hardening, or separation from the window frame or siding. Prompt recaulking when these signs appear can prevent more significant issues.",
+        "@type": "Answer",
+        "description": "Window caulk typically lasts 5-15 years, but annual inspections are recommended. Recaulk when you see cracking, shrinking, or separation."
+      }
+    }
+  ],
+  "description": "Window caulk typically lasts 5-15 years, but annual inspections are recommended. Recaulk when you see cracking, shrinking, or separation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-repair-a-window-instead-of-replacing-it",
+  "name": "When should I repair a window instead of replacing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair a window instead of replacing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a window is often a cost-effective solution for isolated issues like a single broken pane, failed seals in double-pane units, or damaged hardware. If the window frame is still sound, energy efficiency is acceptable, and the damage is localized, repair is usually preferable. Replacement becomes necessary when there is extensive frame rot, multiple panes are broken, or the window is beyond its service life and contributes significantly to energy loss.",
+        "@type": "Answer",
+        "description": "Consider repair for minor issues like a single broken pane, failed seals, or damaged hardware if the frame is sound. Replace the window for extensive frame damage or poor energy efficiency."
+      }
+    }
+  ],
+  "description": "Consider repair for minor issues like a single broken pane, failed seals, or damaged hardware if the frame is sound. Replace the window for extensive frame dama"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-single-replacement-window-for-my-home",
+  "name": "How do I choose the right single replacement window for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right single replacement window for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right window involves considering several factors: the window's purpose (ventilation, light, view), desired energy efficiency, material preference (vinyl for low maintenance, wood for traditional aesthetics, fiberglass for durability), and architectural compatibility with your home. Budget and specific features like noise reduction or UV protection are also important. We can guide you through options, explain performance ratings like U-factor and SHGC, and help you find a window that meets your needs and budget.",
+        "@type": "Answer",
+        "description": "Consider purpose, energy efficiency, material, architectural style, budget, and features. We can help you understand options and performance ratings."
+      }
+    }
+  ],
+  "description": "Consider purpose, energy efficiency, material, architectural style, budget, and features. We can help you understand options and performance ratings."
+}

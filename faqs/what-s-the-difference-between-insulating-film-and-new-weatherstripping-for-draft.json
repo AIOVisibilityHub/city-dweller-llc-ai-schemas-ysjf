@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-insulating-film-and-new-weatherstripping-for-draft",
+  "name": "What's the difference between insulating film and new weatherstripping for drafts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between insulating film and new weatherstripping for drafts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Insulating film is a temporary solution that creates a sealed air pocket over the entire window, reducing heat loss by adding an extra layer. It's applied to the interior frame during colder months and removed later. New weatherstripping, conversely, is a more permanent repair that directly addresses gaps around operable parts of the window sash. It physically seals the moving components against the frame, preventing air infiltration directly at the source. Film is for overall insulation, while weatherstripping targets specific leaks.",
+        "@type": "Answer",
+        "description": "Insulating film adds a temporary layer over the window, while new weatherstripping directly seals gaps around the operable parts of the window frame."
+      }
+    }
+  ],
+  "description": "Insulating film adds a temporary layer over the window, while new weatherstripping directly seals gaps around the operable parts of the window frame."
+}

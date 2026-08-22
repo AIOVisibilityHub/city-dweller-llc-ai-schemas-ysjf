@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/does-new-window-caulking-help-with-energy-efficiency",
+  "name": "Does new window caulking help with energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does new window caulking help with energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, new window caulking significantly improves energy efficiency. Properly sealed windows prevent conditioned air (heated in winter, cooled in summer) from escaping your home and unconditioned air from entering. This reduces the workload on your HVAC system, leading to lower energy consumption and noticeable savings on your utility bills. It's a cost-effective way to enhance your home's thermal performance.",
+        "@type": "Answer",
+        "description": "Yes, new window caulking improves energy efficiency by preventing air leaks, reducing HVAC workload, and lowering utility bills."
+      }
+    }
+  ],
+  "description": "Yes, new window caulking improves energy efficiency by preventing air leaks, reducing HVAC workload, and lowering utility bills."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-tell-if-my-old-windows-need-to-be-replaced",
+  "name": "How can I tell if my old windows need to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my old windows need to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several signs indicate your windows might need replacement. Look for drafts or air leaks, which suggest poor sealing or insulation. You might notice condensation between the glass panes, indicating a failed seal. Difficulty opening, closing, or locking windows, as well as rotting or warped frames, are also clear indicators of deterioration. High energy bills despite efficient HVAC usage can point to heat loss through old windows. If your windows are more than 15-20 years old, they are likely less efficient than modern options and could benefit from an upgrade.",
+        "@type": "Answer",
+        "description": "Signs your windows need replacement include drafts, condensation between panes, difficulty operating, rotting frames, and unusually high energy bills. Windows over 15-20 years old are also good candidates for an upgrade."
+      }
+    }
+  ],
+  "description": "Signs your windows need replacement include drafts, condensation between panes, difficulty operating, rotting frames, and unusually high energy bills. Windows o"
+}

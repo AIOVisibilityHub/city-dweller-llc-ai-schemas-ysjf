@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-fog-or-condensation-between-window-panes",
+  "name": "What causes fog or condensation between window panes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes fog or condensation between window panes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Foggy windows, specifically condensation between the panes, are typically caused by a compromised seal in an insulated glass unit (IGU). When the seal breaks, moist air enters the space between the glass layers. As temperatures fluctuate, this moisture condenses, appearing as fog, streaks, or water droplets. This indicates that the desiccant material inside the IGU, designed to absorb moisture, has become saturated and can no longer perform its function effectively.",
+        "@type": "Answer",
+        "description": "Fog between window panes indicates a broken seal in an insulated glass unit (IGU), allowing moisture to enter and condense."
+      }
+    }
+  ],
+  "description": "Fog between window panes indicates a broken seal in an insulated glass unit (IGU), allowing moisture to enter and condense."
+}

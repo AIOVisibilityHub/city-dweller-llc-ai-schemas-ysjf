@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-replace-just-one-pane-of-a-double-pane-window-if-the-seal-fails",
+  "name": "Can I replace just one pane of a double-pane window if the seal fails?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace just one pane of a double-pane window if the seal fails?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, you cannot replace just one pane of a double-pane window if the seal fails. The two panes of glass, along with the spacer and sealant, form a factory-sealed insulated glass unit (IGU). When the seal fails, the entire IGU must be replaced as a single unit. Attempting to separate and replace one pane would destroy the integrity and insulating properties of the unit.",
+        "@type": "Answer",
+        "description": "No, if the seal fails in a double-pane window, the entire insulated glass unit (IGU) must be replaced."
+      }
+    }
+  ],
+  "description": "No, if the seal fails in a double-pane window, the entire insulated glass unit (IGU) must be replaced."
+}

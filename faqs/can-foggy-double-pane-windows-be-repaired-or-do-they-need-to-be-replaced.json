@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-foggy-double-pane-windows-be-repaired-or-do-they-need-to-be-replaced",
+  "name": "Can foggy double-pane windows be repaired, or do they need to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can foggy double-pane windows be repaired, or do they need to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Foggy double-pane windows, caused by a failed seal allowing moisture between the glass layers, can often be repaired. The most common solution is to replace just the insulated glass unit (IGU) within the existing frame, rather than replacing the entire window. This approach is more cost-effective and less invasive than a full window replacement, provided the frame itself is in good condition. We assess if replacing the IGU is a viable and lasting solution for your specific windows.",
+        "@type": "Answer",
+        "description": "Yes, foggy double-pane windows can often be repaired by replacing only the insulated glass unit (IGU) within the existing frame, which is more cost-effective than full replacement."
+      }
+    }
+  ],
+  "description": "Yes, foggy double-pane windows can often be repaired by replacing only the insulated glass unit (IGU) within the existing frame, which is more cost-effective th"
+}

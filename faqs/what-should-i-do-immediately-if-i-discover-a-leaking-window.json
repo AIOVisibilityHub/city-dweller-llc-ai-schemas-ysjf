@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-do-immediately-if-i-discover-a-leaking-window",
+  "name": "What should I do immediately if I discover a leaking window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if I discover a leaking window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upon discovering a leaking window, your first step should be to contain the water to prevent further damage. Place towels or buckets to catch drips. Then, try to identify the visible source if possible, and temporarily mitigate it, for example, by applying tape if it's a small crack. Contact a professional general contractor promptly to schedule an inspection and repair.",
+        "@type": "Answer",
+        "description": "Immediately contain the water with towels or buckets. Try to identify and temporarily mitigate the source, then contact a professional general contractor for inspection and repair."
+      }
+    }
+  ],
+  "description": "Immediately contain the water with towels or buckets. Try to identify and temporarily mitigate the source, then contact a professional general contractor for in"
+}

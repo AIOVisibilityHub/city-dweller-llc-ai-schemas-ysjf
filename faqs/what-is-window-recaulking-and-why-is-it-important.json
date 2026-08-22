@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-window-recaulking-and-why-is-it-important",
+  "name": "What is window recaulking and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is window recaulking and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window recaulking involves removing old, deteriorated sealant around your windows and applying a fresh, high-quality caulk. This process is crucial for maintaining your home's energy efficiency, preventing water intrusion, and enhancing comfort. Over time, caulk can crack, shrink, or detach, creating gaps that allow drafts, moisture, and pests to enter. Properly sealed windows reduce energy bills by minimizing heat loss or gain, protect your home from water damage, and improve indoor air quality by blocking allergens and dust.",
+        "@type": "Answer",
+        "description": "Window recaulking replaces old sealant to prevent drafts, water leaks, and improve energy efficiency, protecting your home from damage."
+      }
+    }
+  ],
+  "description": "Window recaulking replaces old sealant to prevent drafts, water leaks, and improve energy efficiency, protecting your home from damage."
+}

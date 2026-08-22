@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-weatherstripping-are-best-for-residential-windows",
+  "name": "What types of weatherstripping are best for residential windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of weatherstripping are best for residential windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best type of weatherstripping depends on your window style and budget. Common types include compression weatherstripping made of vinyl, foam, or rubber, which is durable and effective for sash windows. Felt weatherstripping is affordable but less durable. Fin seal weatherstripping is often found on sliding windows. V-strip or tension seal is good for older, less uniform windows. Each offers different levels of durability and effectiveness.",
+        "@type": "Answer",
+        "description": "Common types include compression, felt, fin seal, and V-strip, each suited for different window styles and offering varying durability."
+      }
+    }
+  ],
+  "description": "Common types include compression, felt, fin seal, and V-strip, each suited for different window styles and offering varying durability."
+}

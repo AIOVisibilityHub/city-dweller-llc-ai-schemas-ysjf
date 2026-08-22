@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-new-windows-reduce-noise-from-outside",
+  "name": "Can new windows reduce noise from outside?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can new windows reduce noise from outside?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, new windows, particularly those designed with sound reduction in mind, can significantly decrease outside noise. Features like thicker glass panes, laminated glass, wider air spaces between panes, and inert gas fills (such as argon) can all contribute to better sound insulation. Replacing old, single-pane windows with modern, well-sealed double or triple-pane units will generally offer a noticeable improvement in reducing street noise, traffic, and other ambient sounds.",
+        "@type": "Answer",
+        "description": "New windows, especially those with thicker or laminated glass and wider air spaces, can significantly reduce outside noise. Modern double or triple-pane units improve sound insulation."
+      }
+    }
+  ],
+  "description": "New windows, especially those with thicker or laminated glass and wider air spaces, can significantly reduce outside noise. Modern double or triple-pane units i"
+}

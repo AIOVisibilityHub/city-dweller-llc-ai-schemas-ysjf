@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-repairing-a-leaking-window",
+  "name": "What is the process for repairing a leaking window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a leaking window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically begins with a thorough inspection to identify the leak's source, which might involve testing with water. Once identified, repairs can range from re-caulking gaps, replacing deteriorated weatherstripping, repairing or replacing damaged frame components, or resealing compromised glass units. For more severe issues, it might involve removing parts of the wall to access the underlying structure. The goal is to create a watertight seal and prevent future water intrusion.",
+        "@type": "Answer",
+        "description": "The process involves inspecting for the leak source, then repairing by re-caulking, replacing seals, fixing frames, or resealing glass units. Severe cases may require accessing underlying structures."
+      }
+    }
+  ],
+  "description": "The process involves inspecting for the leak source, then repairing by re-caulking, replacing seals, fixing frames, or resealing glass units. Severe cases may r"
+}

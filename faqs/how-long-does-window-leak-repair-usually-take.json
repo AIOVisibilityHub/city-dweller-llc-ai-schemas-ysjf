@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-window-leak-repair-usually-take",
+  "name": "How long does window leak repair usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does window leak repair usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required for window leak repair varies depending on the severity and complexity of the leak. Minor re-sealing might take a few hours. More extensive repairs involving frame damage, flashing replacement, or exterior wall work could take one to several days. We aim to complete repairs efficiently while ensuring a lasting solution to prevent recurrence.",
+        "@type": "Answer",
+        "description": "Repair time varies; minor re-sealing takes hours, while complex issues involving frame or flashing can take one to several days, depending on severity."
+      }
+    }
+  ],
+  "description": "Repair time varies; minor re-sealing takes hours, while complex issues involving frame or flashing can take one to several days, depending on severity."
+}

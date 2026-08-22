@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-call-a-professional-for-window-leak-repair",
+  "name": "When should I call a professional for window leak repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for window leak repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional if you notice persistent leaks, significant water damage, or if you're unable to identify the source of the leak yourself. Professionals can accurately diagnose complex issues, such as problems with flashing or the building envelope, and ensure repairs are done correctly to prevent future damage. Early intervention can prevent more extensive and costly repairs.",
+        "@type": "Answer",
+        "description": "Call a professional for persistent leaks, significant damage, or if you can't find the leak source. They can accurately diagnose and repair complex issues."
+      }
+    }
+  ],
+  "description": "Call a professional for persistent leaks, significant damage, or if you can't find the leak source. They can accurately diagnose and repair complex issues."
+}

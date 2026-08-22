@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-signs-that-my-windows-need-to-be-replaced",
+  "name": "What are the signs that my windows need to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my windows need to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common indicators that window replacement may be necessary include noticeable drafts, increased energy bills, difficulty opening or closing windows, and condensation between glass panes. Additionally, rot or mold on window frames, visible damage to the glass or frames, and outdated window technology can signal a need for new windows to improve home comfort and energy efficiency.",
+        "@type": "Answer",
+        "description": "Look for drafts, high energy bills, condensation between panes, or difficulty operating windows as signs they may need replacement."
+      }
+    }
+  ],
+  "description": "Look for drafts, high energy bills, condensation between panes, or difficulty operating windows as signs they may need replacement."
+}

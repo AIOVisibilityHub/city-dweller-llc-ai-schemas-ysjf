@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-you-offer-emergency-window-repair-services-in-cities-like-pacifica-or-daly-ci",
+  "name": "Do you offer emergency window repair services in cities like Pacifica or Daly City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer emergency window repair services in cities like Pacifica or Daly City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we understand that unexpected window damage, such as from vandalism or accidents, can occur. City Dweller, LLC offers emergency boarding-up and temporary repair services for clients in our service areas, including Pacifica and Daly City, to secure your property swiftly. For full repairs, we prioritize scheduling to address urgent situations as quickly as possible, depending on the availability of specific glass or parts required.",
+        "@type": "Answer",
+        "description": "Yes, we offer emergency boarding-up and temporary repair services in Pacifica and Daly City to secure your property quickly after unexpected window damage."
+      }
+    }
+  ],
+  "description": "Yes, we offer emergency boarding-up and temporary repair services in Pacifica and Daly City to secure your property quickly after unexpected window damage."
+}

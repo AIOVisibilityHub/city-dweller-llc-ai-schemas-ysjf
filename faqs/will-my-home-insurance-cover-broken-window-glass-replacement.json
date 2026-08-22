@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-my-home-insurance-cover-broken-window-glass-replacement",
+  "name": "Will my home insurance cover broken window glass replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my home insurance cover broken window glass replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many homeowners insurance policies do cover damage to windows, especially if the breakage is due to unforeseen events like storms, vandalism, or accidental impact. However, coverage can vary depending on your specific policy, deductible, and the cause of the damage. It is always best to contact your insurance provider directly to understand your coverage details and whether filing a claim is beneficial for your situation. We can provide documentation for your claim.",
+        "@type": "Answer",
+        "description": "Home insurance often covers window damage from events like storms or vandalism, but coverage depends on your policy and deductible; contact your provider directly."
+      }
+    }
+  ],
+  "description": "Home insurance often covers window damage from events like storms or vandalism, but coverage depends on your policy and deductible; contact your provider direct"
+}

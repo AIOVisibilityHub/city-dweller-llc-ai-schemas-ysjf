@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-professional-window-weatherstripping-replacement-take",
+  "name": "How long does professional window weatherstripping replacement take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does professional window weatherstripping replacement take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of professional window weatherstripping replacement depends on the number of windows, their condition, and the type of weatherstripping being installed. A few windows might be completed within a few hours, while a whole-house project could take a full day or longer. Our team works efficiently to minimize disruption, and we provide an estimated timeline during our initial consultation.",
+        "@type": "Answer",
+        "description": "Duration varies based on the number of windows and complexity, ranging from a few hours for a few windows to a day or more for a whole house."
+      }
+    }
+  ],
+  "description": "Duration varies based on the number of windows and complexity, ranging from a few hours for a few windows to a day or more for a whole house."
+}

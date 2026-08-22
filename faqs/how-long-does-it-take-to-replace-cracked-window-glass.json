@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-replace-cracked-window-glass",
+  "name": "How long does it take to replace cracked window glass?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace cracked window glass?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required for cracked window glass replacement varies depending on the type of window, the extent of the damage, and whether custom glass needs to be ordered. Simple single-pane replacements might be completed within a few hours once the glass is on-site. For insulated glass units (IGUs) or specialty glass, there's typically a lead time of several days to a few weeks for manufacturing and delivery of the new unit. Once the glass arrives, installation usually takes a few hours per window.",
+        "@type": "Answer",
+        "description": "Installation typically takes a few hours once the glass is on-site. There may be a lead time of several days to weeks for custom or insulated glass units."
+      }
+    }
+  ],
+  "description": "Installation typically takes a few hours once the glass is on-site. There may be a lead time of several days to weeks for custom or insulated glass units."
+}

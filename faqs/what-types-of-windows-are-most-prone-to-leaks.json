@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-windows-are-most-prone-to-leaks",
+  "name": "What types of windows are most prone to leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of windows are most prone to leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While any window can leak due to age or damage, certain types or installations may be more susceptible. Older windows with deteriorated seals or frames are common culprits. Improperly installed windows, especially those lacking adequate flashing or sealing, are also highly prone to leaks. Additionally, windows in areas exposed to persistent harsh weather, like those facing prevailing winds and rain in coastal areas such as Pacifica, may experience more frequent issues due to constant exposure.",
+        "@type": "Answer",
+        "description": "Older windows, improperly installed windows, and those in harsh weather areas are most prone to leaks. Coastal areas like Pacifica often see more issues."
+      }
+    }
+  ],
+  "description": "Older windows, improperly installed windows, and those in harsh weather areas are most prone to leaks. Coastal areas like Pacifica often see more issues."
+}

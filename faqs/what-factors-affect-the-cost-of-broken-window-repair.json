@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-factors-affect-the-cost-of-broken-window-repair",
+  "name": "What factors affect the cost of broken window repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors affect the cost of broken window repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repair costs vary based on several factors: the type of glass (single-pane, double-pane, tempered, laminated), the size of the window, the complexity of the repair (e.g., just glass or frame damage), and the type of window (e.g., picture, casement, sliding). Emergency services or specialized glass can also influence the final price. We provide detailed estimates after assessing the specific damage.",
+        "@type": "Answer",
+        "description": "Cost factors include glass type, window size, repair complexity, and window style. Emergency service or specialized glass can also impact pricing."
+      }
+    }
+  ],
+  "description": "Cost factors include glass type, window size, repair complexity, and window style. Emergency service or specialized glass can also impact pricing."
+}

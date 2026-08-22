@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/is-window-seal-repair-an-urgent-issue-or-can-it-wait",
+  "name": "Is window seal repair an urgent issue, or can it wait?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is window seal repair an urgent issue, or can it wait?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While a broken window seal isn't typically an emergency, it's advisable to address it sooner rather than later. A compromised seal leads to reduced energy efficiency, as the insulating gas between the panes has escaped, potentially increasing your heating and cooling costs. Prolonged moisture exposure can also encourage mold growth or degrade the window frame over time. Addressing the issue promptly helps maintain your home's comfort, efficiency, and structural integrity.",
+        "@type": "Answer",
+        "description": "It's not an emergency, but repair is advisable to prevent increased energy bills, potential mold, and further frame degradation."
+      }
+    }
+  ],
+  "description": "It's not an emergency, but repair is advisable to prevent increased energy bills, potential mold, and further frame degradation."
+}
