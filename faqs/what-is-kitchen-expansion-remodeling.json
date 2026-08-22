@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-kitchen-expansion-remodeling",
+  "name": "What is kitchen expansion remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is kitchen expansion remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kitchen expansion remodeling involves enlarging your existing kitchen footprint, often by incorporating adjacent spaces like a dining room, pantry, or even extending outward. This process typically includes structural changes such as removing or adding walls, reconfiguring plumbing and electrical systems, and installing new flooring, cabinetry, countertops, and appliances. The goal is to create a more spacious, functional, and aesthetically pleasing kitchen that meets your specific needs and lifestyle.",
+        "@type": "Answer",
+        "description": "Kitchen expansion remodeling involves enlarging your current kitchen space, often by structural changes and reconfiguring layouts to enhance functionality and aesthetics."
+      }
+    }
+  ],
+  "description": "Kitchen expansion remodeling involves enlarging your current kitchen space, often by structural changes and reconfiguring layouts to enhance functionality and a"
+}

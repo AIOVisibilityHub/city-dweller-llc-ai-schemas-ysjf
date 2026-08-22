@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-key-steps-in-a-kitchen-refresh-project",
+  "name": "What are the key steps in a kitchen refresh project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key steps in a kitchen refresh project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical kitchen refresh project begins with an initial consultation to discuss your vision, budget, and scope of work. This is followed by material selection, where you choose finishes, colors, countertops, and hardware. Once materials are ordered, the preparation phase involves protecting your home and often removing old fixtures. The execution phase includes tasks like cabinet painting or refacing, countertop installation, backsplash tiling, and plumbing/electrical updates for new fixtures. Finally, a thorough cleanup and final walkthrough ensure your complete satisfaction with the refreshed space.",
+        "@type": "Answer",
+        "description": "Key steps include consultation, material selection, preparation, execution (painting, installations), and final cleanup and walkthrough."
+      }
+    }
+  ],
+  "description": "Key steps include consultation, material selection, preparation, execution (painting, installations), and final cleanup and walkthrough."
+}

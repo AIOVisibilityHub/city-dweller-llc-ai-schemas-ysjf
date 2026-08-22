@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-of-installing-a-walk-in-shower",
+  "name": "What is the typical cost of installing a walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost of installing a walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of installing a walk-in shower varies widely based on materials, size, features, and labor. A basic installation might start around $5,000, while more luxurious designs with custom tiling, high-end fixtures, and extensive waterproofing could exceed $15,000. Key cost drivers include tile selection, type of shower pan, glass enclosure design (frameless is usually more expensive), plumbing modifications, and any necessary structural changes. Obtaining a detailed quote is essential for an accurate estimate.",
+        "@type": "Answer",
+        "description": "Installation costs range from approximately $5,000 to over $15,000, influenced by materials, size, features, and labor."
+      }
+    }
+  ],
+  "description": "Installation costs range from approximately $5,000 to over $15,000, influenced by materials, size, features, and labor."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-mistakes-to-avoid-when-remodeling-a-rental-kitchen",
+  "name": "What are common mistakes to avoid when remodeling a rental kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common mistakes to avoid when remodeling a rental kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common mistakes include over-personalizing the design, using delicate or expensive materials that won't withstand tenant wear, and neglecting proper budgeting. Another error is failing to consider the tenant's perspective on functionality and storage. Not addressing potential maintenance issues proactively, such as outdated plumbing or electrical systems, can lead to future problems. Finally, hiring an unlicensed contractor or not securing necessary permits can result in costly delays and legal complications. Focus on durability, broad appeal, and functionality.",
+        "@type": "Answer",
+        "description": "Avoid over-personalizing, using delicate materials, neglecting budget, and not considering tenant needs. Also, ensure proper permits and licensed contractors."
+      }
+    }
+  ],
+  "description": "Avoid over-personalizing, using delicate materials, neglecting budget, and not considering tenant needs. Also, ensure proper permits and licensed contractors."
+}

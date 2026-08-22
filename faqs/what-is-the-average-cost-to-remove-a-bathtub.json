@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-average-cost-to-remove-a-bathtub",
+  "name": "What is the average cost to remove a bathtub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to remove a bathtub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of bathtub removal varies significantly depending on the type of tub, its size, the complexity of the plumbing, and disposal fees. Heavy cast iron tubs often incur higher costs due to their weight and the labor required to remove them. Accessibility to the bathroom and the extent of demolition needed for surrounding finishes also impact the final price. We provide detailed estimates after assessing your specific bathroom and project requirements during a consultation.",
+        "@type": "Answer",
+        "description": "Bathtub removal costs vary based on tub type, size, plumbing complexity, and disposal fees. Heavier tubs or difficult access can increase the price. Detailed estimates are provided after assessment."
+      }
+    }
+  ],
+  "description": "Bathtub removal costs vary based on tub type, size, plumbing complexity, and disposal fees. Heavier tubs or difficult access can increase the price. Detailed es"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-replace-my-bathtub-with-a-walk-in-shower",
+  "name": "Can I replace my bathtub with a walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my bathtub with a walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, converting a bathtub into a walk-in shower is a popular remodeling option, especially for increasing accessibility or creating a more spacious feel. This process often involves removing the existing tub, modifying plumbing, building or installing a new shower pan, waterproofing, and installing new tile or a prefabricated unit. City Dweller specializes in these conversions, helping you design a functional and aesthetically pleasing walk-in shower.",
+        "@type": "Answer",
+        "description": "Yes, you can replace a bathtub with a walk-in shower. This involves removing the tub, modifying plumbing, installing a new shower pan, and finishing with tiles or a unit."
+      }
+    }
+  ],
+  "description": "Yes, you can replace a bathtub with a walk-in shower. This involves removing the tub, modifying plumbing, installing a new shower pan, and finishing with tiles"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-consider-a-walk-in-shower-or-a-bathtub-in-my-remodel",
+  "name": "Should I consider a walk-in shower or a bathtub in my remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I consider a walk-in shower or a bathtub in my remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice between a walk-in shower and a bathtub depends on your lifestyle, preferences, and the bathroom's primary users. Walk-in showers often offer a modern, spacious feel and are highly accessible, making them ideal for aging-in-place or smaller bathrooms. Bathtubs are preferred by families with young children or those who enjoy baths for relaxation. Consider your long-term needs and potential resale value, as both can be desirable features.",
+        "@type": "Answer",
+        "description": "Choose between a walk-in shower for modern accessibility and space, or a bathtub for families and relaxation, based on your needs."
+      }
+    }
+  ],
+  "description": "Choose between a walk-in shower for modern accessibility and space, or a bathtub for families and relaxation, based on your needs."
+}

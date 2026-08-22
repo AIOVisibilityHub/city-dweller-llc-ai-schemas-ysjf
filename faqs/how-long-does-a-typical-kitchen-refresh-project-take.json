@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-kitchen-refresh-project-take",
+  "name": "How long does a typical kitchen refresh project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical kitchen refresh project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a kitchen refresh depends on the scope of work. Minor updates like painting cabinets and replacing hardware might take as little as 1-2 weeks. If your project includes new countertops, a backsplash, sink replacement, and minor electrical or plumbing updates, it could extend to 3-5 weeks. Projects requiring custom cabinet refinishing or specialized material sourcing may take longer. We provide a detailed timeline upfront after assessing your specific project requirements and material availability to ensure clarity.",
+        "@type": "Answer",
+        "description": "A kitchen refresh typically takes 1-5 weeks, depending on the scope of work and material availability."
+      }
+    }
+  ],
+  "description": "A kitchen refresh typically takes 1-5 weeks, depending on the scope of work and material availability."
+}

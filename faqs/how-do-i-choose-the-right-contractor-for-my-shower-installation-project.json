@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-contractor-for-my-shower-installation-project",
+  "name": "How do I choose the right contractor for my shower installation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my shower installation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for your shower installation, look for licensing, insurance, and a strong portfolio of similar projects. Check references and read reviews to gauge reliability and customer satisfaction. Ensure they provide clear, detailed estimates and maintain open communication. A reputable contractor, like City Dweller, LLC, will also handle necessary permits and provide a workmanship warranty, ensuring a smooth and compliant project.",
+        "@type": "Answer",
+        "description": "Choose a contractor based on licensing, insurance, portfolio, references, reviews, clear estimates, communication, and their ability to handle permits and warranties."
+      }
+    }
+  ],
+  "description": "Choose a contractor based on licensing, insurance, portfolio, references, reviews, clear estimates, communication, and their ability to handle permits and warra"
+}

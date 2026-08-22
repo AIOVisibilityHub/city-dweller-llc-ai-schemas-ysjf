@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-permit-to-remove-a-shower-in-a-bay-area-city-like-san-mateo",
+  "name": "Do I need a permit to remove a shower in a Bay Area city like San Mateo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to remove a shower in a Bay Area city like San Mateo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether a permit is required to remove a shower in Bay Area cities like San Mateo depends on the scope of work. Simple demolition without altering plumbing or structural elements may not require a permit. However, if the project involves relocating plumbing, changing the footprint of the bathroom, or any structural modifications, a permit is typically necessary. Always consult with your local building department or your contractor.",
+        "@type": "Answer",
+        "description": "Permit requirements for shower removal depend on the project's scope, especially if plumbing or structural changes are involved. Consult your contractor or local building department."
+      }
+    }
+  ],
+  "description": "Permit requirements for shower removal depend on the project's scope, especially if plumbing or structural changes are involved. Consult your contractor or loca"
+}

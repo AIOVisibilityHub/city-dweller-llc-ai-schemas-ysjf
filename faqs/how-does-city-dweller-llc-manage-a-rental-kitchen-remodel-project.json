@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-does-city-dweller-llc-manage-a-rental-kitchen-remodel-project",
+  "name": "How does City Dweller, LLC manage a rental kitchen remodel project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does City Dweller, LLC manage a rental kitchen remodel project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC manages rental kitchen remodel projects by first conducting a thorough on-site consultation to understand your goals and budget. We then create a detailed plan, including design recommendations, material selection, and a transparent cost estimate. Our team handles all necessary permitting, coordinates trades, and oversees the construction process from demolition to final inspection. We maintain clear communication throughout, ensuring the project stays on schedule and within budget, minimizing disruption to your investment property.",
+        "@type": "Answer",
+        "description": "City Dweller manages projects by consulting, planning, handling permits, coordinating trades, overseeing construction, and ensuring clear communication and adherence to schedule and budget."
+      }
+    }
+  ],
+  "description": "City Dweller manages projects by consulting, planning, handling permits, coordinating trades, overseeing construction, and ensuring clear communication and adhe"
+}

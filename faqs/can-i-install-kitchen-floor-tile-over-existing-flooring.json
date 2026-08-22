@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-install-kitchen-floor-tile-over-existing-flooring",
+  "name": "Can I install kitchen floor tile over existing flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install kitchen floor tile over existing flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, it is not recommended to install new kitchen floor tile directly over existing flooring. Most existing floor types, such as vinyl, laminate, or old tile, may not provide a stable, level, and appropriately prepared surface for new tile. Installing over an unsuitable surface can lead to grout cracking, tiles coming loose, or an uneven finish. For best results and longevity, the existing flooring should be removed, and the subfloor properly prepared according to industry standards.",
+        "@type": "Answer",
+        "description": "Installing new kitchen floor tile over existing flooring is generally not recommended as it can lead to instability and issues like cracked grout or loose tiles."
+      }
+    }
+  ],
+  "description": "Installing new kitchen floor tile over existing flooring is generally not recommended as it can lead to instability and issues like cracked grout or loose tiles"
+}

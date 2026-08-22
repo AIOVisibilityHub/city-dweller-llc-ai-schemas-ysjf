@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-design-trends-for-modern-bathroom-renovations",
+  "name": "What are common design trends for modern bathroom renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common design trends for modern bathroom renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Modern bathroom renovation trends often focus on clean lines, natural materials, and smart technology. Popular choices include large-format tiles, floating vanities, walk-in showers with frameless glass enclosures, and integrated storage solutions. Neutral color palettes, often accented with wood or metallic finishes, create a serene atmosphere. Smart features like motion-sensor lighting, heated floors, and digital shower controls are also frequently requested to enhance comfort and efficiency.",
+        "@type": "Answer",
+        "description": "Modern bathroom trends emphasize clean lines, natural materials, walk-in showers, floating vanities, neutral palettes, and smart technology."
+      }
+    }
+  ],
+  "description": "Modern bathroom trends emphasize clean lines, natural materials, walk-in showers, floating vanities, neutral palettes, and smart technology."
+}

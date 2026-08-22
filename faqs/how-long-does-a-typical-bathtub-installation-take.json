@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-bathtub-installation-take",
+  "name": "How long does a typical bathtub installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bathtub installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a bathtub installation varies depending on the project's complexity. A simple like-for-like replacement in an existing space might take 1-2 days. However, projects involving reconfiguring plumbing, modifying the bathroom layout, or installing a new type of tub (like a freestanding tub replacing a built-in one) could extend to 3-5 days or more. This timeframe includes removal of the old tub, preparation of the area, installation, and finishing work like tiling or caulking.",
+        "@type": "Answer",
+        "description": "A typical installation can take 1-2 days for a simple replacement, or 3-5 days for more complex projects involving plumbing or layout changes."
+      }
+    }
+  ],
+  "description": "A typical installation can take 1-2 days for a simple replacement, or 3-5 days for more complex projects involving plumbing or layout changes."
+}

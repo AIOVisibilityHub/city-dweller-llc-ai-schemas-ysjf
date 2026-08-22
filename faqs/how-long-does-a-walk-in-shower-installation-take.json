@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-walk-in-shower-installation-take",
+  "name": "How long does a walk-in shower installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a walk-in shower installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation timeline for a walk-in shower typically ranges from one to three weeks, depending on the complexity of the project. Factors influencing duration include the extent of demolition, plumbing modifications, waterproofing requirements, tile work, and custom features like glass enclosures or bench seating. A simple replacement might be quicker, while a complete bathroom remodel incorporating a walk-in shower will naturally take longer due to multiple trades involved.",
+        "@type": "Answer",
+        "description": "Installation typically takes one to three weeks, varying based on project complexity, demolition needs, plumbing, and custom features."
+      }
+    }
+  ],
+  "description": "Installation typically takes one to three weeks, varying based on project complexity, demolition needs, plumbing, and custom features."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-make-my-master-bathroom-more-eco-friendly",
+  "name": "How can I make my master bathroom more eco-friendly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I make my master bathroom more eco-friendly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Making your master bathroom more eco-friendly involves choosing sustainable materials and water-efficient fixtures. Consider installing low-flow toilets, water-saving showerheads, and motion-sensor lighting. Opt for sustainable materials like reclaimed wood for vanities, recycled glass tiles, or bamboo flooring. Energy-efficient ventilation fans and LED lighting also contribute to a greener bathroom. We can help you select products and designs that reduce water and energy consumption, creating an environmentally conscious and comfortable space.",
+        "@type": "Answer",
+        "description": "To make your bathroom eco-friendly, install low-flow fixtures, use sustainable materials like reclaimed wood or recycled tiles, and opt for energy-efficient lighting and ventilation."
+      }
+    }
+  ],
+  "description": "To make your bathroom eco-friendly, install low-flow fixtures, use sustainable materials like reclaimed wood or recycled tiles, and opt for energy-efficient lig"
+}

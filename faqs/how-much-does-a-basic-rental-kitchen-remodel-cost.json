@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-a-basic-rental-kitchen-remodel-cost",
+  "name": "How much does a basic rental kitchen remodel cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a basic rental kitchen remodel cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a basic rental kitchen remodel varies significantly based on location, materials, and scope. In the Bay Area, a basic remodel typically ranges from $20,000 to $45,000. This might include new cabinets, standard countertops, a basic appliance package, and new flooring. The final price depends on factors like the kitchen's size, the quality of finishes chosen, and whether layout changes or structural work is involved. City Dweller, LLC provides detailed quotes after an on-site consultation to accurately assess your specific project needs.",
+        "@type": "Answer",
+        "description": "A basic rental kitchen remodel in the Bay Area typically costs $20,000-$45,000, varying with size, materials, and scope. A detailed quote requires consultation."
+      }
+    }
+  ],
+  "description": "A basic rental kitchen remodel in the Bay Area typically costs $20,000-$45,000, varying with size, materials, and scope. A detailed quote requires consultation."
+}

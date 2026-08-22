@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-permit-to-install-a-walk-in-shower-in-the-bay-area",
+  "name": "Do I need a permit to install a walk-in shower in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to install a walk-in shower in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in many Bay Area cities like Pacifica or Daly City, installing a walk-in shower typically requires a building permit. This is because the project often involves plumbing modifications, structural changes, or alterations to existing waterproof membranes, all of which fall under local building codes. Obtaining a permit ensures the work meets safety and quality standards. A general contractor can help navigate the specific permitting requirements for your city and ensure compliance.",
+        "@type": "Answer",
+        "description": "Yes, a building permit is usually required for walk-in shower installation in Bay Area cities like Pacifica or Daly City due to plumbing and structural changes."
+      }
+    }
+  ],
+  "description": "Yes, a building permit is usually required for walk-in shower installation in Bay Area cities like Pacifica or Daly City due to plumbing and structural changes."
+}

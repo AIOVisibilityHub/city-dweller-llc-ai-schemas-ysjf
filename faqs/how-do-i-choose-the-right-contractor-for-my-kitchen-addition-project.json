@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-contractor-for-my-kitchen-addition-project",
+  "name": "How do I choose the right contractor for my kitchen addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my kitchen addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor involves several key steps: look for licensed and insured professionals with a strong portfolio of kitchen additions, especially in your local Bay Area. Check references, read reviews, and verify their experience with similar projects. Request detailed bids from multiple contractors to compare costs and scope. Most importantly, select a contractor with clear communication, transparency, and whom you trust to manage your project effectively.",
+        "@type": "Answer",
+        "description": "Choose a contractor by verifying licenses, checking references, reviewing portfolios, comparing detailed bids, and prioritizing clear communication and trust."
+      }
+    }
+  ],
+  "description": "Choose a contractor by verifying licenses, checking references, reviewing portfolios, comparing detailed bids, and prioritizing clear communication and trust."
+}

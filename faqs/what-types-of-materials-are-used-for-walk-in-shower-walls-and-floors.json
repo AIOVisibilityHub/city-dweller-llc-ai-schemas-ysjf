@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-materials-are-used-for-walk-in-shower-walls-and-floors",
+  "name": "What types of materials are used for walk-in shower walls and floors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are used for walk-in shower walls and floors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials for walk-in shower walls and floors include ceramic, porcelain, and natural stone tiles (such as marble or granite). Porcelain tiles are popular for their durability and low maintenance, while natural stone offers a luxurious appearance but may require more sealing. Other options include solid surface panels, which provide a seamless, grout-free finish, or acrylic/fiberglass panels for a more cost-effective solution. Material choice often depends on budget, desired aesthetic, and maintenance preferences.",
+        "@type": "Answer",
+        "description": "Common materials include ceramic, porcelain, and natural stone tiles, along with solid surface or acrylic/fiberglass panels."
+      }
+    }
+  ],
+  "description": "Common materials include ceramic, porcelain, and natural stone tiles, along with solid surface or acrylic/fiberglass panels."
+}

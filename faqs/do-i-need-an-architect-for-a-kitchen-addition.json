@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-an-architect-for-a-kitchen-addition",
+  "name": "Do I need an architect for a kitchen addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need an architect for a kitchen addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While not always legally required for every project, hiring an architect for a kitchen addition is highly recommended, especially for complex projects involving structural changes or significant design challenges. An architect can create detailed plans, ensure structural integrity, navigate zoning laws, and help achieve the desired aesthetic and functionality. For simpler additions, a skilled design-build contractor might offer integrated design services.",
+        "@type": "Answer",
+        "description": "An architect is highly recommended for complex kitchen additions involving structural changes, detailed design, and zoning navigation, though simpler projects may use a design-build contractor."
+      }
+    }
+  ],
+  "description": "An architect is highly recommended for complex kitchen additions involving structural changes, detailed design, and zoning navigation, though simpler projects m"
+}

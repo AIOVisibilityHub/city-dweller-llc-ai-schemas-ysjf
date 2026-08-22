@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-types-of-bathroom-upgrades",
+  "name": "What are the common types of bathroom upgrades?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common types of bathroom upgrades?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathroom upgrades can range from minor cosmetic changes to complete remodels. Common types include updating fixtures like faucets and showerheads, replacing vanities and countertops, upgrading flooring, retiling showers or backsplashes, improving lighting, and enhancing ventilation. More extensive projects might involve reconfiguring the layout, expanding the space, or converting a tub to a shower. The scope often depends on your budget, existing bathroom condition, and desired aesthetic or functional improvements.",
+        "@type": "Answer",
+        "description": "Common bathroom upgrades involve updating fixtures, vanities, flooring, and tiling. More extensive projects can include layout changes or space expansion."
+      }
+    }
+  ],
+  "description": "Common bathroom upgrades involve updating fixtures, vanities, flooring, and tiling. More extensive projects can include layout changes or space expansion."
+}

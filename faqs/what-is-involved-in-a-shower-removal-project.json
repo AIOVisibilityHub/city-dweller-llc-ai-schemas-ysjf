@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-involved-in-a-shower-removal-project",
+  "name": "What is involved in a shower removal project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a shower removal project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Shower removal typically involves disconnecting plumbing, carefully demolishing the existing shower unit, removing debris, and preparing the area for a new installation or other bathroom renovations. The scope can vary based on the shower type (e.g., walk-in, stall, or tub-shower combo) and the surrounding wall materials. Proper protection of the rest of the bathroom is also a key part of the process to minimize dust and damage.",
+        "@type": "Answer",
+        "description": "Shower removal involves disconnecting plumbing, demolition, debris removal, and preparing the space for a new installation."
+      }
+    }
+  ],
+  "description": "Shower removal involves disconnecting plumbing, demolition, debris removal, and preparing the space for a new installation."
+}

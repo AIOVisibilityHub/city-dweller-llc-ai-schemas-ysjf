@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-live-in-my-home-during-a-kitchen-expansion",
+  "name": "Can I live in my home during a kitchen expansion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during a kitchen expansion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Living in your home during a kitchen expansion is possible but challenging, as your kitchen will be a construction zone for an extended period. This means no functional kitchen for cooking, limited access to water, and ongoing noise, dust, and disruption. Many homeowners opt to set up a temporary kitchenette elsewhere in the house or arrange for alternative living arrangements, especially during the demolition and rough-in phases. Your contractor can help plan for dust control and temporary utility access to minimize inconvenience.",
+        "@type": "Answer",
+        "description": "Living at home during a kitchen expansion is challenging due to disruption; consider temporary living arrangements or a makeshift kitchen elsewhere in the house."
+      }
+    }
+  ],
+  "description": "Living at home during a kitchen expansion is challenging due to disruption; consider temporary living arrangements or a makeshift kitchen elsewhere in the house"
+}

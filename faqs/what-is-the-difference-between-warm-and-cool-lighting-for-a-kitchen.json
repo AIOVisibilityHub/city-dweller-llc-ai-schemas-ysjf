@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-warm-and-cool-lighting-for-a-kitchen",
+  "name": "What is the difference between warm and cool lighting for a kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between warm and cool lighting for a kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Warm and cool lighting refers to the color temperature of the light, measured in Kelvin (K). Warm lighting, typically 2700K to 3000K, emits a soft, yellowish-white glow, similar to traditional incandescent bulbs. This creates a cozy, inviting atmosphere suitable for dining areas or kitchens aiming for a traditional feel. Cool lighting, usually 4000K to 5000K, produces a brighter, bluer-white light, closer to natural daylight. This is often preferred for task-oriented areas like food preparation zones as it enhances visibility and can make colors appear truer. Many modern kitchens incorporate both for versatility.",
+        "@type": "Answer",
+        "description": "Warm lighting (2700K-3000K) is cozy and yellowish, ideal for ambiance, while cool lighting (4000K-5000K) is brighter and bluer, better for task visibility."
+      }
+    }
+  ],
+  "description": "Warm lighting (2700K-3000K) is cozy and yellowish, ideal for ambiance, while cool lighting (4000K-5000K) is brighter and bluer, better for task visibility."
+}

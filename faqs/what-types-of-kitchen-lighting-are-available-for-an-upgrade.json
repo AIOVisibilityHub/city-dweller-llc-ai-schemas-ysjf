@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-kitchen-lighting-are-available-for-an-upgrade",
+  "name": "What types of kitchen lighting are available for an upgrade?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of kitchen lighting are available for an upgrade?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kitchen lighting upgrades typically involve a combination of task, ambient, and accent lighting. Task lighting focuses on specific work areas, such as under-cabinet lights for countertops or pendant lights over an island. Ambient lighting provides general illumination for the entire kitchen, often through recessed lighting or flush-mount fixtures. Accent lighting highlights features like artwork or decorative elements. LED technology is now standard for most types, offering energy efficiency and a long lifespan. Understanding these types helps create a functional and aesthetically pleasing kitchen lighting scheme.",
+        "@type": "Answer",
+        "description": "Kitchen lighting includes task, ambient, and accent lighting, often using energy-efficient LED technology."
+      }
+    }
+  ],
+  "description": "Kitchen lighting includes task, ambient, and accent lighting, often using energy-efficient LED technology."
+}

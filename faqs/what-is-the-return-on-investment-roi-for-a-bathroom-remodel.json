@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-return-on-investment-roi-for-a-bathroom-remodel",
+  "name": "What is the return on investment (ROI) for a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the return on investment (ROI) for a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom remodel is generally considered one of the best home improvements for return on investment, particularly in competitive markets like the Bay Area. While ROI varies based on the scope, quality of work, and local market conditions, a mid-range bathroom remodel can recoup 60-70% of its cost upon resale. A minor cosmetic update might offer an even higher percentage. High-end remodels tend to have a slightly lower ROI percentage but can significantly increase home value and appeal to buyers.",
+        "@type": "Answer",
+        "description": "Bathroom remodels offer a strong ROI, often recouping 60-70% of costs upon resale for mid-range projects, making them a valuable home improvement."
+      }
+    }
+  ],
+  "description": "Bathroom remodels offer a strong ROI, often recouping 60-70% of costs upon resale for mid-range projects, making them a valuable home improvement."
+}

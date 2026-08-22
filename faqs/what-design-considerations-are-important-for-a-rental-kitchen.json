@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-design-considerations-are-important-for-a-rental-kitchen",
+  "name": "What design considerations are important for a rental kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What design considerations are important for a rental kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When designing a rental kitchen, prioritize functionality, durability, and a neutral aesthetic that appeals to a wide range of tenants. Opt for layouts that are efficient and maximize storage without being overly complex. Choose finishes and materials that are easy to clean and withstand heavy use, such as solid surface countertops and sturdy flooring. Adequate lighting, both task and ambient, is crucial. Avoid highly personalized or trendy elements that might quickly become dated or not appeal to future renters.",
+        "@type": "Answer",
+        "description": "Important design considerations for a rental kitchen include functionality, durability, a neutral aesthetic, efficient layouts, easy-to-clean materials, and good lighting."
+      }
+    }
+  ],
+  "description": "Important design considerations for a rental kitchen include functionality, durability, a neutral aesthetic, efficient layouts, easy-to-clean materials, and goo"
+}

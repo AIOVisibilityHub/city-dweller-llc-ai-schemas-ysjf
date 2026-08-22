@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-average-cost-to-install-a-new-bathtub",
+  "name": "What is the average cost to install a new bathtub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to install a new bathtub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of bathtub installation varies significantly based on several factors. These include the type and material of the tub itself, the complexity of the installation (e.g., whether new plumbing lines are needed), and any additional labor for demolition or tiling. Generally, installation costs can range from a few hundred dollars for a basic replacement to several thousands for high-end tubs or extensive bathroom remodels. We provide detailed estimates after assessing your specific project requirements.",
+        "@type": "Answer",
+        "description": "Installation costs vary based on tub type, material, and project complexity, ranging from hundreds to several thousands of dollars."
+      }
+    }
+  ],
+  "description": "Installation costs vary based on tub type, material, and project complexity, ranging from hundreds to several thousands of dollars."
+}

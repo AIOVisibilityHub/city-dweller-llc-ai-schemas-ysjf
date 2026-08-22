@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-happens-to-the-waste-and-debris-after-shower-removal",
+  "name": "What happens to the waste and debris after shower removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens to the waste and debris after shower removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After shower removal, all waste and debris, such as tiles, drywall, shower pan materials, and old plumbing fixtures, need to be properly disposed of. A professional contractor typically includes debris removal as part of their service, hauling it away to appropriate waste facilities or recycling centers. This ensures the site is clean and ready for the next stage of your renovation without you needing to arrange for specialized waste disposal.",
+        "@type": "Answer",
+        "description": "Professional contractors handle waste and debris disposal after shower removal, hauling materials to appropriate waste or recycling facilities."
+      }
+    }
+  ],
+  "description": "Professional contractors handle waste and debris disposal after shower removal, hauling materials to appropriate waste or recycling facilities."
+}

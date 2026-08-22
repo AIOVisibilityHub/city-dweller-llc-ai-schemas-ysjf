@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-included-in-a-full-bathroom-remodel",
+  "name": "What is included in a full bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a full bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A full bathroom remodel typically includes replacing all major fixtures and finishes. This can involve new flooring, shower or bathtub, toilet, vanity with sink, lighting, and ventilation. It often also includes updating plumbing and electrical systems to meet current codes and improve functionality. Some projects may also involve reconfiguring the layout or expanding the space, depending on the existing structure and client preferences. The scope is tailored to achieve a completely refreshed and modern bathroom.",
+        "@type": "Answer",
+        "description": "A full bathroom remodel involves replacing major fixtures and finishes, updating plumbing and electrical, and potentially reconfiguring the layout."
+      }
+    }
+  ],
+  "description": "A full bathroom remodel involves replacing major fixtures and finishes, updating plumbing and electrical, and potentially reconfiguring the layout."
+}

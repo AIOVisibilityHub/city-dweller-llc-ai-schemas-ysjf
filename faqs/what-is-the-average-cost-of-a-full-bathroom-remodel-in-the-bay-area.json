@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-average-cost-of-a-full-bathroom-remodel-in-the-bay-area",
+  "name": "What is the average cost of a full bathroom remodel in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a full bathroom remodel in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a full bathroom remodel in the Bay Area can vary significantly based on the size of the bathroom, the quality of materials selected, and the extent of structural or system changes. Generally, costs can range from $25,000 for a standard remodel to $50,000 or more for a high-end, custom project. This estimate typically includes labor, fixtures, finishes, and permits. It's recommended to get a detailed quote tailored to your specific project needs.",
+        "@type": "Answer",
+        "description": "In the Bay Area, a full bathroom remodel can range from $25,000 to over $50,000, depending on size, material quality, and project scope."
+      }
+    }
+  ],
+  "description": "In the Bay Area, a full bathroom remodel can range from $25,000 to over $50,000, depending on size, material quality, and project scope."
+}

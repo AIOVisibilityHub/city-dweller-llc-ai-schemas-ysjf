@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-installing-a-walk-in-shower",
+  "name": "What is the process for installing a walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing a walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process begins with demolition of the old shower or tub area, followed by any necessary plumbing rough-ins and structural modifications. Next, the shower pan is installed, ensuring proper slope for drainage, and comprehensive waterproofing is applied to walls and floor to prevent leaks. This is critical for longevity. After inspection, tile installation, grouting, and sealing occur. Finally, fixtures, doors, and accessories are installed, completing the project.",
+        "@type": "Answer",
+        "description": "The process involves demolition, plumbing, shower pan installation, waterproofing, tiling, grouting, and final fixture installation."
+      }
+    }
+  ],
+  "description": "The process involves demolition, plumbing, shower pan installation, waterproofing, tiling, grouting, and final fixture installation."
+}

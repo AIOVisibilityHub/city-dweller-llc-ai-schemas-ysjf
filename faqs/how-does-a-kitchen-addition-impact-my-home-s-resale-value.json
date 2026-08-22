@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-does-a-kitchen-addition-impact-my-home-s-resale-value",
+  "name": "How does a kitchen addition impact my home's resale value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a kitchen addition impact my home's resale value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-designed and executed kitchen addition can significantly enhance your home's resale value, especially in competitive markets like the Bay Area. Modern, spacious kitchens are a top priority for many homebuyers. The return on investment varies, but a quality addition can recoup a substantial portion of its cost, improving both the functionality and market appeal of your property. Poorly planned additions, however, may not yield the same return.",
+        "@type": "Answer",
+        "description": "A quality kitchen addition can significantly increase your home's resale value, making it more appealing to buyers, especially in competitive markets."
+      }
+    }
+  ],
+  "description": "A quality kitchen addition can significantly increase your home's resale value, making it more appealing to buyers, especially in competitive markets."
+}

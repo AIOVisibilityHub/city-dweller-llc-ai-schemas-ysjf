@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-live-in-my-home-during-a-kitchen-remodel",
+  "name": "Can I live in my home during a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Living in your home during a kitchen remodel is possible but requires careful planning and a tolerance for disruption. You will likely lose access to your primary cooking facilities, sink, and possibly water for several weeks. Contractors will strive to minimize mess and ensure safety, but dust and noise are inevitable. We can help you set up a temporary kitchen area and establish clear communication about work schedules and access.",
+        "@type": "Answer",
+        "description": "Yes, but expect significant disruption, including loss of cooking facilities, noise, and dust. Planning a temporary kitchen is often necessary."
+      }
+    }
+  ],
+  "description": "Yes, but expect significant disruption, including loss of cooking facilities, noise, and dust. Planning a temporary kitchen is often necessary."
+}

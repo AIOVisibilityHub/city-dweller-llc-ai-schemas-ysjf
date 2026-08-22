@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-a-prefabricated-shower-unit-and-a-custom-tiled-sh",
+  "name": "What is the difference between a prefabricated shower unit and a custom-tiled shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a prefabricated shower unit and a custom-tiled shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main difference lies in construction and customization. A prefabricated shower unit is a factory-made, often one-piece or multi-panel enclosure made from acrylic or fiberglass. It's typically quicker and less expensive to install, offering a watertight solution with minimal seams. Custom-tiled showers are built on-site using a waterproof substrate, then finished with individual tiles. They offer unlimited design flexibility in terms of size, shape, tile patterns, and materials, allowing for a unique aesthetic, but they are generally more labor-intensive and costly.",
+        "@type": "Answer",
+        "description": "Prefabricated units are factory-made, quicker to install, and more economical, while custom-tiled showers offer unlimited design flexibility but are more labor-intensive and costly."
+      }
+    }
+  ],
+  "description": "Prefabricated units are factory-made, quicker to install, and more economical, while custom-tiled showers offer unlimited design flexibility but are more labor-"
+}

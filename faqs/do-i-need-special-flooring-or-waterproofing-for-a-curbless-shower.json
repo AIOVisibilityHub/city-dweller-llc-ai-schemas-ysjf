@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-special-flooring-or-waterproofing-for-a-curbless-shower",
+  "name": "Do I need special flooring or waterproofing for a curbless shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need special flooring or waterproofing for a curbless shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, special attention to flooring and waterproofing is crucial for a curbless shower. The subfloor within the shower area must be precisely sloped to direct water towards the drain, preventing pooling and overflow into the main bathroom. A robust, continuous waterproofing membrane is then applied over the entire shower pan and up the walls to code-specified heights. This is essential to prevent water damage to your home's structure. Specialized drainage systems are also often integrated to manage water effectively.",
+        "@type": "Answer",
+        "description": "Yes, proper subfloor sloping and a robust, continuous waterproofing membrane are crucial for a functional and leak-free curbless shower."
+      }
+    }
+  ],
+  "description": "Yes, proper subfloor sloping and a robust, continuous waterproofing membrane are crucial for a functional and leak-free curbless shower."
+}

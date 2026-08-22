@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-full-bathroom-remodel-usually-take",
+  "name": "How long does a full bathroom remodel usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a full bathroom remodel usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a full bathroom remodel varies based on its complexity and the availability of materials. Generally, a typical full remodel can take anywhere from 3 to 6 weeks from demolition to final installation. This timeline accounts for demolition, rough-ins for plumbing and electrical, installation of new fixtures, tiling, painting, and final touches. Factors like custom orders, unforeseen structural issues, or changes during the project can extend this timeframe.",
+        "@type": "Answer",
+        "description": "A full bathroom remodel typically takes 3 to 6 weeks, depending on complexity and material availability."
+      }
+    }
+  ],
+  "description": "A full bathroom remodel typically takes 3 to 6 weeks, depending on complexity and material availability."
+}

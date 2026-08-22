@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-a-curbless-shower-and-a-walk-in-shower",
+  "name": "What is the difference between a curbless shower and a walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a curbless shower and a walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often used interchangeably, there's a key distinction. A walk-in shower typically features a low curb or threshold that you step over to enter. In contrast, a curbless shower eliminates this barrier entirely, creating a completely flush entry from the bathroom floor directly into the shower space. This makes curbless showers inherently more accessible. Both designs offer spaciousness and a modern look, but the curbless option provides superior ease of access and a more seamless aesthetic.",
+        "@type": "Answer",
+        "description": "A curbless shower has no threshold, offering a flush entry, while a walk-in shower usually has a low curb. Curbless provides greater accessibility."
+      }
+    }
+  ],
+  "description": "A curbless shower has no threshold, offering a flush entry, while a walk-in shower usually has a low curb. Curbless provides greater accessibility."
+}

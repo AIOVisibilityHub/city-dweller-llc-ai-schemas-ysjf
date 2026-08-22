@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-warranty-does-city-dweller-offer-on-shower-installations",
+  "name": "What kind of warranty does City Dweller offer on shower installations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty does City Dweller offer on shower installations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC provides a warranty on our workmanship for all shower installations. The specific terms and duration of the warranty will be clearly outlined in your project contract. This warranty covers issues related to the installation quality, ensuring that the work performed meets professional standards. Manufacturers typically provide separate warranties for fixtures, tiles, and other materials, which we can help you understand.",
+        "@type": "Answer",
+        "description": "City Dweller offers a workmanship warranty for all shower installations, with terms detailed in your contract. Manufacturer warranties apply to materials."
+      }
+    }
+  ],
+  "description": "City Dweller offers a workmanship warranty for all shower installations, with terms detailed in your contract. Manufacturer warranties apply to materials."
+}

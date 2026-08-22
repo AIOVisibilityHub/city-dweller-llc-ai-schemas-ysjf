@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-do-to-prepare-my-bathroom-for-shower-removal",
+  "name": "What should I do to prepare my bathroom for shower removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare my bathroom for shower removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before shower removal, it's helpful to clear out personal items from the bathroom, especially anything near the shower area. Ensure easy access to the work zone for the crew. If possible, turn off the water supply to the shower. Discuss with your contractor about protecting other bathroom fixtures and flooring, as they will often cover these areas to prevent damage and dust accumulation during demolition.",
+        "@type": "Answer",
+        "description": "Prepare for shower removal by clearing personal items, ensuring access, and possibly turning off the water. Discuss protection for other fixtures with your contractor."
+      }
+    }
+  ],
+  "description": "Prepare for shower removal by clearing personal items, ensuring access, and possibly turning off the water. Discuss protection for other fixtures with your cont"
+}

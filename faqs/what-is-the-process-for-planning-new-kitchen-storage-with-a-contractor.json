@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-planning-new-kitchen-storage-with-a-contractor",
+  "name": "What is the process for planning new kitchen storage with a contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for planning new kitchen storage with a contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically starts with an initial consultation to discuss your needs, budget, and kitchen layout. The contractor will take measurements and suggest design options, which may include drawings or 3D renderings. Once a design is approved, material selections are made. Then, the contractor manages procurement, demolition if necessary, installation, and final touches. Regular communication ensures the project meets your expectations.",
+        "@type": "Answer",
+        "description": "Planning involves consultation, measurement, design proposals, material selection, and then installation, managed by the contractor."
+      }
+    }
+  ],
+  "description": "Planning involves consultation, measurement, design proposals, material selection, and then installation, managed by the contractor."
+}

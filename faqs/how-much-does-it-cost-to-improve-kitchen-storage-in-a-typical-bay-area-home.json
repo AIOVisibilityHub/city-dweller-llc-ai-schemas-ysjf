@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-improve-kitchen-storage-in-a-typical-bay-area-home",
+  "name": "How much does it cost to improve kitchen storage in a typical Bay Area home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to improve kitchen storage in a typical Bay Area home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of kitchen storage improvements varies widely based on the scope and materials. Simple upgrades like drawer organizers or pull-out shelves might range from a few hundred to over a thousand dollars. Custom cabinetry and built-in pantries can range from several thousand dollars to over ten thousand, depending on materials, finishes, and labor. Getting a detailed estimate from a local contractor is recommended.",
+        "@type": "Answer",
+        "description": "Costs vary significantly, from a few hundred for simple organizers to over ten thousand for custom cabinetry, depending on materials and scope."
+      }
+    }
+  ],
+  "description": "Costs vary significantly, from a few hundred for simple organizers to over ten thousand for custom cabinetry, depending on materials and scope."
+}

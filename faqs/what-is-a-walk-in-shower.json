@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-walk-in-shower",
+  "name": "What is a walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A walk-in shower is a shower design that typically does not require a curb or step to enter, offering a seamless transition from the bathroom floor. It often features a glass enclosure or a partial wall, creating an open and spacious feel. This design can enhance accessibility, making it easier for individuals with mobility challenges to use. They are customizable in size, shape, and features like benches or multiple showerheads, fitting various bathroom layouts and personal preferences.",
+        "@type": "Answer",
+        "description": "A walk-in shower is a curbless or low-curb shower design that provides a seamless entry and an open feel, often featuring a glass enclosure."
+      }
+    }
+  ],
+  "description": "A walk-in shower is a curbless or low-curb shower design that provides a seamless entry and an open feel, often featuring a glass enclosure."
+}

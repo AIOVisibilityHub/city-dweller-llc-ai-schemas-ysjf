@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-is-it-better-to-repair-a-bathtub-versus-replacing-it",
+  "name": "When is it better to repair a bathtub versus replacing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it better to repair a bathtub versus replacing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repair and replacement depends on the extent of the damage and the tub's age. Minor issues like small chips, cracks, or surface discoloration can often be repaired cost-effectively. However, if the tub has significant structural damage, widespread leaks, or extensive mold growth, replacement is usually the more practical and long-term solution. A new tub also allows for aesthetic upgrades and improved functionality that repairs cannot provide.",
+        "@type": "Answer",
+        "description": "Repair minor damage like chips or discoloration. Replace if there's significant structural damage, widespread leaks, or if you want aesthetic upgrades."
+      }
+    }
+  ],
+  "description": "Repair minor damage like chips or discoloration. Replace if there's significant structural damage, widespread leaks, or if you want aesthetic upgrades."
+}

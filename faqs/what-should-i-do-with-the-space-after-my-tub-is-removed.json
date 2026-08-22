@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-do-with-the-space-after-my-tub-is-removed",
+  "name": "What should I do with the space after my tub is removed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do with the space after my tub is removed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After tub removal, you have several options for transforming your bathroom space. Many homeowners opt for a shower conversion, installing a new walk-in shower or a shower pan and tile surround. Alternatively, you could replace it with a new, more modern tub or a clawfoot tub. Some might choose to expand their vanity area, add storage, or even create a larger open space, depending on the bathroom layout and their personal needs.",
+        "@type": "Answer",
+        "description": "After tub removal, you can convert to a shower, install a new tub, expand your vanity, or create more open space."
+      }
+    }
+  ],
+  "description": "After tub removal, you can convert to a shower, install a new tub, expand your vanity, or create more open space."
+}

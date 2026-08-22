@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-general-contractor-for-my-bathroom-renovation",
+  "name": "How do I choose the right general contractor for my bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right general contractor for my bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right general contractor involves several considerations. Look for licensed and insured professionals with a strong portfolio of similar renovation projects. Check references and read client testimonials to assess their reputation and communication style. A good contractor provides a detailed contract, transparent pricing, and a clear project timeline. Schedule initial consultations to discuss your vision and ensure good chemistry with their team. City Dweller, LLC provides all these assurances.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured contractor with a strong portfolio, positive references, transparent pricing, and clear communication."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured contractor with a strong portfolio, positive references, transparent pricing, and clear communication."
+}

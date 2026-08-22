@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-first-steps-to-plan-a-bathroom-remodel",
+  "name": "What are the first steps to plan a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the first steps to plan a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The first steps in planning a bathroom remodel involve defining your needs and budget. Start by identifying what you dislike about your current bathroom and what you hope to achieve. Collect inspiration photos and create a list of desired features and materials. Establish a realistic budget, including a contingency for unforeseen issues. Research and contact reputable general contractors for consultations and estimates. A good plan ensures a smoother project from start to finish.",
+        "@type": "Answer",
+        "description": "Begin by defining your needs, setting a realistic budget, gathering inspiration, and then contacting general contractors for consultations and estimates."
+      }
+    }
+  ],
+  "description": "Begin by defining your needs, setting a realistic budget, gathering inspiration, and then contacting general contractors for consultations and estimates."
+}

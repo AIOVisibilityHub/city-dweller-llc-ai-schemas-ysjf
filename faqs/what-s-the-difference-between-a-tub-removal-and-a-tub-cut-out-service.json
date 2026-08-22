@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-a-tub-removal-and-a-tub-cut-out-service",
+  "name": "What's the difference between a tub removal and a tub cut-out service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a tub removal and a tub cut-out service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tub removal involves completely detaching and disposing of the entire bathtub, leaving an empty space for a new installation or conversion. A tub cut-out service, on the other hand, modifies an existing bathtub by cutting a section out of its side to create a lower step-over entry. This is often done for accessibility purposes, allowing easier access into the tub for individuals with mobility challenges without fully replacing the unit.",
+        "@type": "Answer",
+        "description": "Tub removal entirely removes and disposes of the bathtub. A tub cut-out service modifies an existing tub by cutting a section for easier, lower step-over entry, typically for accessibility."
+      }
+    }
+  ],
+  "description": "Tub removal entirely removes and disposes of the bathtub. A tub cut-out service modifies an existing tub by cutting a section for easier, lower step-over entry,"
+}

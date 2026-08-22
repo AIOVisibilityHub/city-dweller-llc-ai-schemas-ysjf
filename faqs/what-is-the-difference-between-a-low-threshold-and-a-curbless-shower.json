@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-a-low-threshold-and-a-curbless-shower",
+  "name": "What is the difference between a low threshold and a curbless shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a low threshold and a curbless shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often used interchangeably, a 'curbless' shower has absolutely no barrier at the entrance, creating a completely flush transition with the bathroom floor. A 'low threshold' shower, conversely, may have a very small, minimal lip (typically less than 2 inches high) for water containment, but is still significantly easier to access than a standard shower with a high curb. Both designs prioritize accessibility and safety over traditional shower enclosures.",
+        "@type": "Answer",
+        "description": "A curbless shower has no barrier, while a low threshold shower has a minimal lip. Both prioritize accessibility over traditional high-curb designs."
+      }
+    }
+  ],
+  "description": "A curbless shower has no barrier, while a low threshold shower has a minimal lip. Both prioritize accessibility over traditional high-curb designs."
+}

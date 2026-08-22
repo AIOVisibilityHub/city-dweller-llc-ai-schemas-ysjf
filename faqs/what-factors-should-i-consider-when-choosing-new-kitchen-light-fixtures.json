@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-factors-should-i-consider-when-choosing-new-kitchen-light-fixtures",
+  "name": "What factors should I consider when choosing new kitchen light fixtures?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing new kitchen light fixtures?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting new kitchen light fixtures, consider the function of each area – task lighting for cooking, ambient for overall illumination, and accent for aesthetics. Evaluate the fixture's size and style to complement your kitchen's design. The color temperature of the light (measured in Kelvin) is important; warmer tones (2700K-3000K) create a cozy feel, while cooler tones (4000K-5000K) are better for task visibility. Also, think about dimmability, energy efficiency (LEDs are best), and smart home integration options for convenience and control.",
+        "@type": "Answer",
+        "description": "Consider function (task, ambient, accent), style, size, color temperature, dimmability, and energy efficiency when choosing new kitchen light fixtures."
+      }
+    }
+  ],
+  "description": "Consider function (task, ambient, accent), style, size, color temperature, dimmability, and energy efficiency when choosing new kitchen light fixtures."
+}

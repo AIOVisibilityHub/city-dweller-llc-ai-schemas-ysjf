@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-complete-a-kitchen-addition-project",
+  "name": "How long does it take to complete a kitchen addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete a kitchen addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a kitchen addition project generally spans 4 to 8 months from initial design to final completion. This includes several phases: 4-8 weeks for design and architectural planning, 2-4 weeks for permitting approval, and then 3-6 months for construction. Factors such as the project's complexity, material lead times, inspection schedules, and any unforeseen structural issues can influence the overall duration.",
+        "@type": "Answer",
+        "description": "A kitchen addition project typically takes 4 to 8 months, covering design, permitting, and construction phases."
+      }
+    }
+  ],
+  "description": "A kitchen addition project typically takes 4 to 8 months, covering design, permitting, and construction phases."
+}

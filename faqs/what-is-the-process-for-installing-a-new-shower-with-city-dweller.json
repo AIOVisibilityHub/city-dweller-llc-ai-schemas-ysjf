@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-installing-a-new-shower-with-city-dweller",
+  "name": "What is the process for installing a new shower with City Dweller?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing a new shower with City Dweller?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation to understand your vision and assess your bathroom. We then provide a detailed proposal and design options. Once approved, we schedule the project, handle necessary permits, and proceed with demolition (if required). Installation involves plumbing, waterproofing, tile work or unit placement, and fixture installation. Finally, we conduct a thorough cleanup and a final walkthrough to ensure your complete satisfaction. Communication is maintained at every step.",
+        "@type": "Answer",
+        "description": "The process includes consultation, proposal, scheduling, permitting, demolition, installation (plumbing, waterproofing, finishes), cleanup, and final walkthrough."
+      }
+    }
+  ],
+  "description": "The process includes consultation, proposal, scheduling, permitting, demolition, installation (plumbing, waterproofing, finishes), cleanup, and final walkthroug"
+}

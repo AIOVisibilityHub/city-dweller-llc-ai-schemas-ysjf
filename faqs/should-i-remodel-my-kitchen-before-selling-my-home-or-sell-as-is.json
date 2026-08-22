@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-remodel-my-kitchen-before-selling-my-home-or-sell-as-is",
+  "name": "Should I remodel my kitchen before selling my home, or sell as-is?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I remodel my kitchen before selling my home, or sell as-is?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to remodel depends on the current condition of your kitchen and your local real estate market. If your kitchen is very outdated or dysfunctional, a remodel can significantly increase buyer interest and potentially your selling price. If it's merely cosmetic and functional, selling as-is might be better, allowing buyers to customize. A local general contractor can assess your kitchen's condition and provide insights into potential ROI for your specific Bay Area neighborhood.",
+        "@type": "Answer",
+        "description": "Remodel if your kitchen is very outdated; otherwise, selling as-is might be preferable. Consider local market conditions and potential ROI."
+      }
+    }
+  ],
+  "description": "Remodel if your kitchen is very outdated; otherwise, selling as-is might be preferable. Consider local market conditions and potential ROI."
+}

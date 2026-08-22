@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-range-for-a-kitchen-addition-in-the-bay-area",
+  "name": "What is the typical cost range for a kitchen addition in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for a kitchen addition in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a kitchen addition in the Bay Area varies significantly based on size, material choices, and complexity. Smaller additions focused on expanding an existing kitchen might start around $75,000 to $150,000. Larger, more complex additions involving structural changes, new foundations, and high-end finishes can range from $150,000 to $300,000 or more. These figures generally include design, permits, labor, and materials, but specific costs depend on individual project details.",
+        "@type": "Answer",
+        "description": "Kitchen addition costs in the Bay Area typically range from $75,000 for smaller projects to over $300,000 for larger, more complex ones, depending on materials and scope."
+      }
+    }
+  ],
+  "description": "Kitchen addition costs in the Bay Area typically range from $75,000 for smaller projects to over $300,000 for larger, more complex ones, depending on materials"
+}

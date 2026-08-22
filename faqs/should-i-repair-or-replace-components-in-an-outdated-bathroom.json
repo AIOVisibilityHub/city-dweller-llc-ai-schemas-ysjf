@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-repair-or-replace-components-in-an-outdated-bathroom",
+  "name": "Should I repair or replace components in an outdated bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace components in an outdated bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to repair or replace depends on the condition, age, and severity of the issue. Minor cosmetic issues like a loose tile or a dripping faucet might be good candidates for repair. However, if fixtures are very old, inefficient, or structurally unsound, replacement is usually more cost-effective in the long run. Extensive water damage, mold, or persistent plumbing problems often necessitate a full replacement to address underlying issues and prevent future problems.",
+        "@type": "Answer",
+        "description": "Repair minor issues, but consider replacement for very old, inefficient, or structurally unsound components, especially with extensive damage."
+      }
+    }
+  ],
+  "description": "Repair minor issues, but consider replacement for very old, inefficient, or structurally unsound components, especially with extensive damage."
+}

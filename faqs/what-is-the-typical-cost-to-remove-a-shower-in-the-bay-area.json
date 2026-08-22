@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-to-remove-a-shower-in-the-bay-area",
+  "name": "What is the typical cost to remove a shower in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to remove a shower in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of shower removal in the Bay Area varies widely based on factors such as the shower's size, material, and the extent of demolition required. Disposal fees for debris also impact the price. A basic shower stall removal might be less, while a large, tiled, custom shower could be more expensive due to increased labor and debris. It's best to get a detailed quote tailored to your specific project.",
+        "@type": "Answer",
+        "description": "Shower removal costs in the Bay Area vary based on shower type, size, materials, and debris disposal. Get a detailed quote."
+      }
+    }
+  ],
+  "description": "Shower removal costs in the Bay Area vary based on shower type, size, materials, and debris disposal. Get a detailed quote."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-do-to-prepare-my-home-for-a-bathroom-remodel",
+  "name": "What should I do to prepare my home for a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare my home for a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your bathroom remodel begins, it's helpful to clear the bathroom of personal items, decor, and anything you wish to keep. Protect nearby areas with dust sheets and consider removing valuable items from adjacent rooms. Discuss access routes with your contractor and ensure pets are secured during work hours. These steps help streamline the process, protect your belongings, and ensure a safer working environment for the crew.",
+        "@type": "Answer",
+        "description": "Prepare by clearing the bathroom, protecting nearby areas, discussing access with your contractor, and securing pets during work hours."
+      }
+    }
+  ],
+  "description": "Prepare by clearing the bathroom, protecting nearby areas, discussing access with your contractor, and securing pets during work hours."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-a-kitchen-addition-instead-of-just-a-remodel",
+  "name": "When should I consider a kitchen addition instead of just a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a kitchen addition instead of just a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a kitchen addition when your current kitchen lacks adequate space, has a poor layout that cannot be improved within the existing footprint, or if you desire significantly more natural light or access to outdoor areas. Additions are ideal for expanding square footage to include an island, larger dining area, or more storage. A remodel, in contrast, focuses on updating aesthetics and functionality within the existing structure.",
+        "@type": "Answer",
+        "description": "Consider a kitchen addition when you need significantly more space, a better layout beyond the current footprint, or improved natural light, rather than just aesthetic updates."
+      }
+    }
+  ],
+  "description": "Consider a kitchen addition when you need significantly more space, a better layout beyond the current footprint, or improved natural light, rather than just ae"
+}

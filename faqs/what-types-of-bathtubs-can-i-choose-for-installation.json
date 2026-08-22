@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-bathtubs-can-i-choose-for-installation",
+  "name": "What types of bathtubs can I choose for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of bathtubs can I choose for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathtub options include alcove, drop-in, freestanding, and walk-in models, each offering distinct aesthetics and functionality. Materials vary from acrylic and fiberglass to cast iron and cultured marble, impacting durability, heat retention, and cost. Acrylic is lightweight and affordable, while cast iron is highly durable and retains heat well but is heavier. Your choice depends on bathroom layout, budget, and desired features like hydrotherapy jets or accessibility.",
+        "@type": "Answer",
+        "description": "Common types include alcove, drop-in, freestanding, and walk-in, made from materials like acrylic, cast iron, or fiberglass."
+      }
+    }
+  ],
+  "description": "Common types include alcove, drop-in, freestanding, and walk-in, made from materials like acrylic, cast iron, or fiberglass."
+}

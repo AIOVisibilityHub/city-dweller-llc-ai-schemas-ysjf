@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-questions-should-i-ask-a-contractor-before-starting-a-bathroom-renovation",
+  "name": "What questions should I ask a contractor before starting a bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What questions should I ask a contractor before starting a bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before starting a bathroom renovation, ask a contractor about their licensing and insurance, project timeline estimates, and detailed cost breakdown including materials and labor. Inquire about their experience with similar projects, their process for handling permits, and how they manage unexpected issues. Also, ask about their communication style, warranty on work, and payment schedule. These questions help ensure clarity and a smooth renovation experience.",
+        "@type": "Answer",
+        "description": "Ask about licensing, insurance, timeline, costs, experience, permits, communication, warranty, and payment schedule."
+      }
+    }
+  ],
+  "description": "Ask about licensing, insurance, timeline, costs, experience, permits, communication, warranty, and payment schedule."
+}

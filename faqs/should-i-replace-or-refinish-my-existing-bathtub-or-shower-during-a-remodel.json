@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-replace-or-refinish-my-existing-bathtub-or-shower-during-a-remodel",
+  "name": "Should I replace or refinish my existing bathtub or shower during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I replace or refinish my existing bathtub or shower during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to replace or refinish your bathtub or shower depends on its current condition and your budget. Refinishing is a more cost-effective option for tubs that are structurally sound but have cosmetic flaws like stains or dullness. However, if the tub has significant damage, leaks, or you desire a different style or size, replacement is usually the better choice. A new shower enclosure can also significantly modernize the space.",
+        "@type": "Answer",
+        "description": "Refinish a structurally sound tub for cosmetic updates; replace it if damaged, leaking, or if a new style/size is desired."
+      }
+    }
+  ],
+  "description": "Refinish a structurally sound tub for cosmetic updates; replace it if damaged, leaking, or if a new style/size is desired."
+}

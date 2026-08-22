@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-make-my-bathroom-remodel-more-eco-friendly",
+  "name": "How can I make my bathroom remodel more eco-friendly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I make my bathroom remodel more eco-friendly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To make your bathroom remodel more eco-friendly, consider incorporating water-saving fixtures such as low-flow toilets, showerheads, and faucets. Opt for energy-efficient lighting, like LED fixtures. Choose sustainable materials such as recycled content tiles, bamboo or reclaimed wood vanities, and paints with low volatile organic compounds (VOCs). Additionally, ensure proper ventilation to prevent mold and mildew, reducing the need for harsh cleaning chemicals.",
+        "@type": "Answer",
+        "description": "Incorporate water-saving fixtures, LED lighting, sustainable materials, and proper ventilation to make your remodel eco-friendly."
+      }
+    }
+  ],
+  "description": "Incorporate water-saving fixtures, LED lighting, sustainable materials, and proper ventilation to make your remodel eco-friendly."
+}

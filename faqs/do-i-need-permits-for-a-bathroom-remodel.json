@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-permits-for-a-bathroom-remodel",
+  "name": "Do I need permits for a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need permits for a bathroom remodel depends on the scope of work. Minor cosmetic changes like painting, replacing a vanity, or retiling often do not require permits. However, any work involving structural changes, moving or altering plumbing lines, changing electrical wiring, or modifying the layout typically requires permits from your local building department. A reputable contractor can help determine which permits are necessary for your specific project and assist with the application process to ensure compliance.",
+        "@type": "Answer",
+        "description": "Permits are usually required for bathroom remodels involving structural, plumbing, or electrical changes, but not for minor cosmetic updates. A contractor can confirm specific needs."
+      }
+    }
+  ],
+  "description": "Permits are usually required for bathroom remodels involving structural, plumbing, or electrical changes, but not for minor cosmetic updates. A contractor can c"
+}

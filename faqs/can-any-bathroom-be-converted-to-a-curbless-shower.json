@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-any-bathroom-be-converted-to-a-curbless-shower",
+  "name": "Can any bathroom be converted to a curbless shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can any bathroom be converted to a curbless shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most bathrooms can be converted to a curbless shower, but some structural considerations may be necessary. The feasibility often depends on the existing subfloor structure, joist direction, and available space for drainage. Sometimes, the floor may need to be lowered or built up in adjacent areas to achieve the necessary slope within the shower. Our team can assess your specific bathroom during a consultation to determine the best approach and any potential challenges, providing a customized plan for your space.",
+        "@type": "Answer",
+        "description": "Most bathrooms can be converted, but it depends on the existing subfloor, joist structure, and space for drainage. An assessment is needed."
+      }
+    }
+  ],
+  "description": "Most bathrooms can be converted, but it depends on the existing subfloor, joist structure, and space for drainage. An assessment is needed."
+}

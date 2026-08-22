@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-kitchen-floor-tiles-need-to-be-sealed",
+  "name": "Do kitchen floor tiles need to be sealed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do kitchen floor tiles need to be sealed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether kitchen floor tiles need to be sealed depends on the type of tile and grout used. Glazed ceramic and porcelain tiles typically do not require sealing because their surface is impermeable. However, unglazed tiles, natural stone tiles (like marble, granite, or slate), and grout lines are porous and should be sealed. Sealing helps protect them from stains, moisture, and mildew, extending their lifespan and making them easier to clean. It's an important step for certain materials.",
+        "@type": "Answer",
+        "description": "Glazed ceramic and porcelain tiles usually don't need sealing, but unglazed, natural stone tiles, and grout lines do to prevent stains and moisture."
+      }
+    }
+  ],
+  "description": "Glazed ceramic and porcelain tiles usually don't need sealing, but unglazed, natural stone tiles, and grout lines do to prevent stains and moisture."
+}

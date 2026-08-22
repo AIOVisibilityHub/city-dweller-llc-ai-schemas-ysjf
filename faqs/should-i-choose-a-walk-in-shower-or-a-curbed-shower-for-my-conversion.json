@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-choose-a-walk-in-shower-or-a-curbed-shower-for-my-conversion",
+  "name": "Should I choose a walk-in shower or a curbed shower for my conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose a walk-in shower or a curbed shower for my conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice between a walk-in (curbless) shower and a curbed shower depends on your preferences and needs. A walk-in, or curbless, shower offers seamless entry, enhancing accessibility and providing a sleek, modern aesthetic that makes the bathroom feel larger. However, it often requires more extensive sub-floor modifications for proper drainage. A curbed shower, with a raised threshold, is typically simpler to install and can be a more cost-effective option, offering effective water containment.",
+        "@type": "Answer",
+        "description": "Walk-in (curbless) showers offer accessibility and modern aesthetics but require more floor work; curbed showers are simpler, cost-effective, and contain water well."
+      }
+    }
+  ],
+  "description": "Walk-in (curbless) showers offer accessibility and modern aesthetics but require more floor work; curbed showers are simpler, cost-effective, and contain water"
+}

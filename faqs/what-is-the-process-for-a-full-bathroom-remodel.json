@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-a-full-bathroom-remodel",
+  "name": "What is the process for a full bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for a full bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The full bathroom remodel process typically begins with a consultation and design phase, where your vision and needs are discussed. This is followed by detailed planning, material selection, and permit acquisition. The construction phase starts with demolition, then proceeds to rough-ins for plumbing and electrical, followed by insulation, drywall, and flooring. Finally, fixtures, cabinetry, paint, and accessories are installed, culminating in a final walkthrough and project completion.",
+        "@type": "Answer",
+        "description": "The process includes consultation, design, planning, demolition, rough-ins, installation of finishes and fixtures, and a final walkthrough."
+      }
+    }
+  ],
+  "description": "The process includes consultation, design, planning, demolition, rough-ins, installation of finishes and fixtures, and a final walkthrough."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-refinish-or-replace-my-kitchen-cabinets",
+  "name": "Should I refinish or replace my kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I refinish or replace my kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to refinish or replace kitchen cabinets depends on their current condition and your budget. Refinishing involves sanding, staining, or painting existing cabinet boxes and doors, which is a cost-effective option if the cabinet structure is solid and you like the current layout. Replacing cabinets means installing entirely new units, offering a wider range of styles, configurations, and materials. This is suitable if your cabinets are structurally unsound, have a poor layout, or you desire a complete change. Refacing, where new doors and drawer fronts are installed on existing boxes, is a mid-range option.",
+        "@type": "Answer",
+        "description": "Refinish if cabinets are structurally sound and you like the layout; replace for poor condition, layout changes, or a complete style overhaul. Refacing is a middle ground."
+      }
+    }
+  ],
+  "description": "Refinish if cabinets are structurally sound and you like the layout; replace for poor condition, layout changes, or a complete style overhaul. Refacing is a mid"
+}

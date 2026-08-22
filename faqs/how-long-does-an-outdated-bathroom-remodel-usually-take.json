@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-an-outdated-bathroom-remodel-usually-take",
+  "name": "How long does an outdated bathroom remodel usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an outdated bathroom remodel usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a bathroom remodel depends on the project's complexity and scope. A small cosmetic update, such as replacing fixtures and painting, might take 2-3 weeks. A mid-range remodel involving new flooring, vanity, and shower replacement typically takes 4-6 weeks. Extensive renovations that include reconfiguring the layout, moving plumbing, or structural changes can take 8 weeks or more. We provide a detailed project schedule after the initial design phase.",
+        "@type": "Answer",
+        "description": "Bathroom remodels can take 2-3 weeks for minor updates, 4-6 weeks for mid-range projects, and 8+ weeks for extensive renovations."
+      }
+    }
+  ],
+  "description": "Bathroom remodels can take 2-3 weeks for minor updates, 4-6 weeks for mid-range projects, and 8+ weeks for extensive renovations."
+}

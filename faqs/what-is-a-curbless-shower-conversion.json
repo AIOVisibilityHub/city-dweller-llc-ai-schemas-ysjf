@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-curbless-shower-conversion",
+  "name": "What is a curbless shower conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a curbless shower conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A curbless shower conversion involves removing the traditional curb or threshold at the entrance of a shower, creating a seamless transition between the bathroom floor and the shower area. This design eliminates a common tripping hazard and allows for easier access, particularly for individuals with mobility challenges or those using wheelchairs. It also provides a modern, minimalist aesthetic and makes bathroom cleaning simpler. The floor inside the shower is slightly sloped towards the drain to ensure proper water containment.",
+        "@type": "Answer",
+        "description": "A curbless shower conversion removes the shower curb, creating a seamless, accessible entry and a modern look. The shower floor is sloped to manage water."
+      }
+    }
+  ],
+  "description": "A curbless shower conversion removes the shower curb, creating a seamless, accessible entry and a modern look. The shower floor is sloped to manage water."
+}

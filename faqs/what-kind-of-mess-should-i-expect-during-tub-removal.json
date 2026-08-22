@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-mess-should-i-expect-during-tub-removal",
+  "name": "What kind of mess should I expect during tub removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of mess should I expect during tub removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathtub removal, especially for older, tiled-in units, can generate a significant amount of dust and debris. This includes plaster, drywall, tile fragments, and old grout. Professional contractors take steps to minimize mess by covering surrounding areas with drop cloths and sealing off the bathroom. They also ensure proper ventilation and thorough cleanup after the removal is complete. Expect some noise and disruption during the process.",
+        "@type": "Answer",
+        "description": "Expect dust and debris from plaster, drywall, and tile during tub removal. Contractors minimize mess with covers and ensure cleanup, but some noise and disruption are normal."
+      }
+    }
+  ],
+  "description": "Expect dust and debris from plaster, drywall, and tile during tub removal. Contractors minimize mess with covers and ensure cleanup, but some noise and disrupti"
+}

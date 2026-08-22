@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-converting-a-tub-to-a-shower-affect-my-home-s-resale-value",
+  "name": "Will converting a tub to a shower affect my home's resale value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will converting a tub to a shower affect my home's resale value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting a tub to a shower can positively impact your home's resale value, especially if it enhances accessibility or modernizes an outdated bathroom. Many homebuyers, particularly older individuals or those with mobility considerations, prefer a walk-in shower. However, it's generally advisable to retain at least one bathtub in the home, especially if you have a multi-bathroom property, as families with young children often look for a tub. A well-executed conversion that aligns with market preferences is usually a good investment.",
+        "@type": "Answer",
+        "description": "A well-done conversion can increase resale value by enhancing accessibility or modernizing a bathroom, but retaining at least one bathtub in the home is often recommended."
+      }
+    }
+  ],
+  "description": "A well-done conversion can increase resale value by enhancing accessibility or modernizing a bathroom, but retaining at least one bathtub in the home is often r"
+}

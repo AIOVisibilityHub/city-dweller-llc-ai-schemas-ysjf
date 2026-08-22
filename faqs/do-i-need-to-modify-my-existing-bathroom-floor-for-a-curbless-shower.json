@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-modify-my-existing-bathroom-floor-for-a-curbless-shower",
+  "name": "Do I need to modify my existing bathroom floor for a curbless shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to modify my existing bathroom floor for a curbless shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, installing a truly curbless or low threshold shower often requires modifications to your existing bathroom floor. The floor needs to be sloped correctly towards the drain to ensure proper water runoff and prevent pooling outside the shower area. This usually involves adjusting the subfloor or installing a specialized shower pan that integrates seamlessly with the bathroom floor level. Proper waterproofing of the entire shower area and surrounding floor is also critical to prevent moisture damage.",
+        "@type": "Answer",
+        "description": "Yes, the bathroom floor usually requires modification to create the necessary slope for drainage. This involves adjusting the subfloor and ensuring proper waterproofing."
+      }
+    }
+  ],
+  "description": "Yes, the bathroom floor usually requires modification to create the necessary slope for drainage. This involves adjusting the subfloor and ensuring proper water"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-a-kitchen-remodel-and-a-kitchen-expansion",
+  "name": "What is the difference between a kitchen remodel and a kitchen expansion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a kitchen remodel and a kitchen expansion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen remodel primarily updates the existing kitchen within its current footprint, often involving new cabinets, countertops, appliances, and finishes without changing the room's size or structural layout. A kitchen expansion, conversely, involves increasing the square footage of the kitchen. This typically requires structural modifications, such as removing walls, extending into adjacent rooms, or building an addition. An expansion fundamentally alters the layout and size of the space, while a remodel refreshes its aesthetics and functionality within existing boundaries.",
+        "@type": "Answer",
+        "description": "A remodel updates an existing kitchen within its footprint, while an expansion increases the kitchen's size and involves structural changes."
+      }
+    }
+  ],
+  "description": "A remodel updates an existing kitchen within its footprint, while an expansion increases the kitchen's size and involves structural changes."
+}

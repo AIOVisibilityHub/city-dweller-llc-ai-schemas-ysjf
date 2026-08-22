@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-areas-do-you-serve-for-kitchen-tile-installation",
+  "name": "What areas do you serve for kitchen tile installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for kitchen tile installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC provides expert kitchen floor tile installation services across various locations in the Bay Area. Our primary service areas include Pacifica, Daly City, San Bruno, South San Francisco, Brisbane, Colma, Millbrae, San Mateo, Burlingame, Half Moon Bay, Montara, El Granada, Belmont, San Carlos, Redwood City, Hillsborough, Foster City, Menlo Park, Atherton, and Palo Alto. We are dedicated to serving homeowners throughout these communities with high-quality craftsmanship.",
+        "@type": "Answer",
+        "description": "City Dweller, LLC serves the Bay Area for kitchen tile installation, including Pacifica, Daly City, San Bruno, South San Francisco, and surrounding communities."
+      }
+    }
+  ],
+  "description": "City Dweller, LLC serves the Bay Area for kitchen tile installation, including Pacifica, Daly City, San Bruno, South San Francisco, and surrounding communities."
+}

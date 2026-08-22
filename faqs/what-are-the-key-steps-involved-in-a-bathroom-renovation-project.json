@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-key-steps-involved-in-a-bathroom-renovation-project",
+  "name": "What are the key steps involved in a bathroom renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key steps involved in a bathroom renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical bathroom renovation project involves several key stages. First, we have an initial consultation and design planning. Next, we finalize material selections and obtain necessary permits. The construction phase begins with demolition, followed by rough-ins for plumbing and electrical. Then comes insulation, drywall, flooring, and tiling. Finally, fixtures, cabinetry, painting, and trim are installed, concluding with a final walk-through. We keep you informed at every step.",
+        "@type": "Answer",
+        "description": "Key steps include design, material selection, permitting, demolition, rough-ins, finishing work, and final installation."
+      }
+    }
+  ],
+  "description": "Key steps include design, material selection, permitting, demolition, rough-ins, finishing work, and final installation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-hire-a-contractor-to-remove-my-bathtub-or-can-i-do-it-myself",
+  "name": "Do I need to hire a contractor to remove my bathtub, or can I do it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to hire a contractor to remove my bathtub, or can I do it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While DIY tub removal is possible for some, it often involves heavy lifting, potential plumbing issues, and proper disposal challenges. Professional contractors have the right tools, experience, and manpower to safely disconnect plumbing, demolish surrounding materials, and remove the tub without damaging your home. They also handle debris removal and ensure the area is prepped correctly for your next steps, saving you time and potential headaches.",
+        "@type": "Answer",
+        "description": "Hiring a contractor ensures safe plumbing disconnection, proper demolition, heavy lifting, and debris disposal. DIY can be challenging due to weight, tools, and potential damage."
+      }
+    }
+  ],
+  "description": "Hiring a contractor ensures safe plumbing disconnection, proper demolition, heavy lifting, and debris disposal. DIY can be challenging due to weight, tools, and"
+}

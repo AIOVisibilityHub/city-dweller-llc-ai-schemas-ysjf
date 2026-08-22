@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-make-my-new-shower-more-accessible-or-senior-friendly",
+  "name": "How can I make my new shower more accessible or senior-friendly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I make my new shower more accessible or senior-friendly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To enhance shower accessibility, consider a curbless entry or low-threshold design to eliminate steps, making it easier for wheelchairs or walkers. Installing grab bars, a built-in or fold-down shower seat, and an adjustable-height handheld showerhead are also key. Non-slip flooring is essential. City Dweller can help design and install these features to create a safer, more comfortable showering experience.",
+        "@type": "Answer",
+        "description": "Increase accessibility with curbless entry, grab bars, shower seats, handheld showerheads, and non-slip flooring. City Dweller can incorporate these features."
+      }
+    }
+  ],
+  "description": "Increase accessibility with curbless entry, grab bars, shower seats, handheld showerheads, and non-slip flooring. City Dweller can incorporate these features."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-kitchen-remodel-take-from-start-to-finish",
+  "name": "How long does a kitchen remodel take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a kitchen remodel take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a kitchen remodel depends on its complexity. A minor cosmetic update, like painting cabinets and replacing countertops, might take 2-4 weeks. A more extensive remodel involving new layouts, custom cabinetry, and plumbing/electrical work can take 6-12 weeks, or even longer for large projects. Factors like material availability, permit approvals, and the contractor's schedule can also influence the timeline. We provide a detailed project schedule before starting work.",
+        "@type": "Answer",
+        "description": "A minor kitchen remodel typically takes 2-4 weeks, while extensive projects can last 6-12 weeks or more, depending on scope and materials."
+      }
+    }
+  ],
+  "description": "A minor kitchen remodel typically takes 2-4 weeks, while extensive projects can last 6-12 weeks or more, depending on scope and materials."
+}

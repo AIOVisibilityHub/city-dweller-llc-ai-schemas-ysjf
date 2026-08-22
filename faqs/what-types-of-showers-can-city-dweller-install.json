@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-showers-can-city-dweller-install",
+  "name": "What types of showers can City Dweller install?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of showers can City Dweller install?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC installs various shower types to suit your preferences and bathroom layout. This includes standard tub-and-shower combinations, walk-in showers, custom tile showers, and prefabricated shower units. We work with different materials like ceramic, porcelain, natural stone, and acrylic to achieve your desired aesthetic and functionality. Our team can discuss design options, accessibility features, and material choices to help you select the best fit for your home.",
+        "@type": "Answer",
+        "description": "City Dweller installs tub-and-shower combos, walk-in showers, custom tile showers, and prefabricated units using various materials."
+      }
+    }
+  ],
+  "description": "City Dweller installs tub-and-shower combos, walk-in showers, custom tile showers, and prefabricated units using various materials."
+}

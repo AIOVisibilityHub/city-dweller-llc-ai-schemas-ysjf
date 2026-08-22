@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-low-threshold-shower-and-why-should-i-consider-one",
+  "name": "What is a low threshold shower and why should I consider one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a low threshold shower and why should I consider one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A low threshold shower, also known as a curbless or walk-in shower, features a minimal or no barrier at the entrance, making it easily accessible without stepping over a high ledge. This design is ideal for promoting independent living, improving safety, and enhancing the aesthetic appeal of a bathroom. It significantly reduces the risk of falls, especially for individuals with mobility challenges, young children, or those planning to age in place. Additionally, the seamless transition from the bathroom floor to the shower creates a more spacious and modern look.",
+        "@type": "Answer",
+        "description": "A low threshold shower has a minimal or no barrier entrance, improving safety and accessibility, especially for those with mobility challenges. It also offers a modern design."
+      }
+    }
+  ],
+  "description": "A low threshold shower has a minimal or no barrier entrance, improving safety and accessibility, especially for those with mobility challenges. It also offers a"
+}

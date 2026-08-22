@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-live-in-my-home-during-a-kitchen-refresh",
+  "name": "Can I live in my home during a kitchen refresh?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during a kitchen refresh?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in most cases, you can remain in your home during a kitchen refresh project. Since a refresh typically avoids major demolition and structural changes, the disruption is significantly less than with a full remodel. We take measures to minimize dust and inconvenience, such as sealing off work areas. However, your kitchen will be partially or fully inaccessible for cooking and dishwashing during certain phases, particularly when countertops are being replaced or cabinets are being painted. We recommend planning for alternative cooking arrangements like using a temporary setup or ordering takeout during these periods.",
+        "@type": "Answer",
+        "description": "Yes, you can typically live at home during a kitchen refresh, though the kitchen may be inaccessible for cooking during certain phases."
+      }
+    }
+  ],
+  "description": "Yes, you can typically live at home during a kitchen refresh, though the kitchen may be inaccessible for cooking during certain phases."
+}

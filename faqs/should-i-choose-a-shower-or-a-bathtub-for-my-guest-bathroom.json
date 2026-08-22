@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-choose-a-shower-or-a-bathtub-for-my-guest-bathroom",
+  "name": "Should I choose a shower or a bathtub for my guest bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose a shower or a bathtub for my guest bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice between a shower and a bathtub for a guest bathroom depends on various factors, including the bathroom's size, your budget, and how your guests typically use the space. Showers, particularly walk-in or curbless designs, can make a small bathroom feel larger and offer easier accessibility. They are often more water-efficient for quick use. Bathtubs, on the other hand, can be a luxurious addition, especially if you anticipate guests with children or those who enjoy baths. Consider resale value, as a house with at least one bathtub is often desirable.",
+        "@type": "Answer",
+        "description": "Choose a shower for smaller guest bathrooms or better accessibility; choose a bathtub for a luxurious feel, guests with children, or to potentially increase resale value."
+      }
+    }
+  ],
+  "description": "Choose a shower for smaller guest bathrooms or better accessibility; choose a bathtub for a luxurious feel, guests with children, or to potentially increase res"
+}

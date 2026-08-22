@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-a-small-bathroom-remodel-and-a-powder-room-renova",
+  "name": "What is the difference between a small bathroom remodel and a powder room renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a small bathroom remodel and a powder room renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A small bathroom remodel typically refers to a full bathroom, including a shower or bathtub, toilet, and sink, often found in apartments or smaller homes. The renovation involves more extensive work, potentially impacting plumbing for the shower/tub. A powder room, on the other hand, is a half-bath with only a toilet and sink. Renovations for powder rooms are generally less complex and thus can be quicker and more affordable, as they don't involve wet areas like showers or tubs.",
+        "@type": "Answer",
+        "description": "A small bathroom remodel upgrades a full bath with a shower/tub, while a powder room renovation updates a half-bath with only a toilet and sink."
+      }
+    }
+  ],
+  "description": "A small bathroom remodel upgrades a full bath with a shower/tub, while a powder room renovation updates a half-bath with only a toilet and sink."
+}
