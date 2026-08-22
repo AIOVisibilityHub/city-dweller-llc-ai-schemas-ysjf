@@ -1,0 +1,82 @@
+{
+  "url": "http://bayareacitydweller.com",
+  "name": "City Dweller, LLC",
+  "@type": "Organization",
+  "email": "info@bayareacitydweller.com",
+  "sameAs": [
+    "https://www.facebook.com/CityDwellerLLC/",
+    "https://www.linkedin.com/in/david-gohn-1791a413",
+    "https://www.yelp.com/biz/city-dweller-pacifica-4"
+  ],
+  "@context": "https://schema.org",
+  "employee": [
+    {
+      "name": "David Gohn, Owner",
+      "@type": "Person",
+      "jobTitle": "Team Member"
+    }
+  ],
+  "telephone": "650-532-5858",
+  "areaServed": [
+    {
+      "name": "Bay Area",
+      "@type": "City"
+    }
+  ],
+  "description": "City Dweller, LLC provides comprehensive home improvement services in the San Francisco Bay Area, specializing in installations of exterior sidings, windows, doors, sliding glass doors, and flooring, alongside handyman services. The company focuses on quality craftsmanship, customer satisfaction, and transparent communication, transforming properties into dream homes.",
+  "hasOfferCatalog": {
+    "name": "City Dweller, LLC Services",
+    "@type": "OfferCatalog",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Window Installation",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Sliding Glass Door Installation",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Flooring Installation",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Handyman Services",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Kitchen Remodeling",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Bathroom Remodeling",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "General Contractor Services",
+          "@type": "Service"
+        }
+      }
+    ]
+  }
+}

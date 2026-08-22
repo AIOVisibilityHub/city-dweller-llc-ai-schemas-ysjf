@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-siding-to-crack",
+  "name": "What causes siding to crack?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes siding to crack?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Siding can crack due to several factors common in the Bay Area, including extreme temperature fluctuations that cause materials to expand and contract. Impact damage from hail, debris, or even pressure washing can also lead to cracks. Over time, UV exposure degrades siding materials, making them brittle and prone to cracking. Poor installation or inadequate spacing between siding panels can also contribute to stress and eventual cracking.",
+        "@type": "Answer",
+        "description": "Cracked siding is often caused by temperature changes, impact damage, UV degradation, or improper installation."
+      }
+    }
+  ],
+  "description": "Cracked siding is often caused by temperature changes, impact damage, UV degradation, or improper installation."
+}

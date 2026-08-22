@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-you-offer-warranties-on-cracked-siding-repair",
+  "name": "Do you offer warranties on cracked siding repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer warranties on cracked siding repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, City Dweller, LLC stands behind our workmanship. We offer a warranty on all cracked siding repairs, covering both labor and materials we provide. The specific terms and duration of the warranty will be clearly outlined in your service agreement. We use high-quality materials and skilled technicians to ensure durable repairs, giving you peace of mind regarding your home's exterior in locations like San Bruno or South San Francisco.",
+        "@type": "Answer",
+        "description": "Yes, City Dweller, LLC offers a warranty on cracked siding repairs, covering both labor and materials, with terms outlined in the service agreement."
+      }
+    }
+  ],
+  "description": "Yes, City Dweller, LLC offers a warranty on cracked siding repairs, covering both labor and materials, with terms outlined in the service agreement."
+}

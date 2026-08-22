@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-missing-siding-versus-repairing-it",
+  "name": "When should I consider replacing missing siding versus repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing missing siding versus repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to replace or repair missing siding depends on the extent of the damage, the age of the existing siding, and its overall condition. If only a few panels are missing due to a specific event, a repair might be sufficient. However, if multiple sections are missing across different areas, or if the remaining siding shows signs of widespread deterioration, a full replacement could be more cost-effective and provide better long-term protection for your home.",
+        "@type": "Answer",
+        "description": "Consider repair for minor, isolated damage; opt for replacement if multiple sections are missing or the existing siding is extensively deteriorated."
+      }
+    }
+  ],
+  "description": "Consider repair for minor, isolated damage; opt for replacement if multiple sections are missing or the existing siding is extensively deteriorated."
+}

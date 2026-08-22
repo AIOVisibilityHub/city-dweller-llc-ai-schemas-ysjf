@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-storm-damaged-siding-repair-cost",
+  "name": "How much does storm-damaged siding repair cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does storm-damaged siding repair cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of storm-damaged siding repair varies significantly based on several factors. These include the extent of the damage, the type of siding material (e.g., vinyl, fiber cement, wood), the labor required, and whether any underlying structural repairs are necessary. Minor repairs, such as replacing a few panels, will cost less than extensive damage requiring large sections of siding or water damage remediation. A contractor will provide a detailed estimate after assessing your specific situation.",
+        "@type": "Answer",
+        "description": "Siding repair costs depend on the extent of damage, siding material, labor, and if underlying structural issues need addressing."
+      }
+    }
+  ],
+  "description": "Siding repair costs depend on the extent of damage, siding material, labor, and if underlying structural issues need addressing."
+}

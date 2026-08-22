@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-tell-if-my-siding-has-moisture-damage",
+  "name": "How can I tell if my siding has moisture damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my siding has moisture damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of moisture damage include discolored or stained siding, soft or spongy areas when pressed, visible mold or mildew growth, peeling paint, or warped and buckling panels. You might also notice a musty odor, especially near affected areas. Inspecting your siding regularly, particularly after heavy rains, can help you catch these issues early. Pay close attention to areas around windows, doors, and the foundation, as these are common entry points for water.",
+        "@type": "Answer",
+        "description": "Look for discolored siding, soft spots, mold, peeling paint, warped panels, or a musty odor to identify moisture damage."
+      }
+    }
+  ],
+  "description": "Look for discolored siding, soft spots, mold, peeling paint, warped panels, or a musty odor to identify moisture damage."
+}

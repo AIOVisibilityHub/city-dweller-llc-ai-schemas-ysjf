@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-siding-can-be-repaired-if-split",
+  "name": "What types of siding can be repaired if split?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of siding can be repaired if split?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most common siding types can be repaired if split, including wood, vinyl, fiber cement, and aluminum. The repair method varies by material. Wood siding might involve patching, filling, or replacing boards. Vinyl can sometimes be repaired with heat or replaced in sections. Fiber cement and aluminum often require cutting out and replacing the damaged section. The feasibility of repair depends on the extent and type of split.",
+        "@type": "Answer",
+        "description": "Most siding types like wood, vinyl, fiber cement, and aluminum can be repaired; the method depends on the material and damage."
+      }
+    }
+  ],
+  "description": "Most siding types like wood, vinyl, fiber cement, and aluminum can be repaired; the method depends on the material and damage."
+}

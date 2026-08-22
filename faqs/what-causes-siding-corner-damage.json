@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-siding-corner-damage",
+  "name": "What causes siding corner damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes siding corner damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Siding corner damage is often caused by weather exposure, including rain, wind, and sun, which can lead to warping, cracking, or rot. Impact from external objects, such as landscaping equipment or fallen branches, can also cause localized damage. Pests, like woodpeckers or insects, might compromise the material. Additionally, improper installation or age-related wear and tear can contribute to the deterioration of siding corners over time, making them vulnerable to moisture intrusion.",
+        "@type": "Answer",
+        "description": "Siding corner damage is commonly caused by weather exposure, impact, pests, or age and improper installation."
+      }
+    }
+  ],
+  "description": "Siding corner damage is commonly caused by weather exposure, impact, pests, or age and improper installation."
+}

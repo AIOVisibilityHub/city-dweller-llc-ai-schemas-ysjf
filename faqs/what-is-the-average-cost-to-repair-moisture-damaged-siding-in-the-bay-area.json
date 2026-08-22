@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-average-cost-to-repair-moisture-damaged-siding-in-the-bay-area",
+  "name": "What is the average cost to repair moisture-damaged siding in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to repair moisture-damaged siding in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair moisture-damaged siding in the Bay Area can vary widely depending on the type of siding, the extent of the damage, and whether underlying structural repairs are needed. Minor repairs might range from a few hundred to a couple of thousand dollars. More significant projects, involving extensive siding replacement, rot repair, or mold remediation, could cost several thousands of dollars or more. It's recommended to get multiple detailed quotes from local contractors to understand the specific costs for your property, as labor and material costs in the Bay Area can be higher.",
+        "@type": "Answer",
+        "description": "Costs vary widely in the Bay Area based on damage extent and siding type, from hundreds for minor fixes to several thousands for extensive repairs."
+      }
+    }
+  ],
+  "description": "Costs vary widely in the Bay Area based on damage extent and siding type, from hundreds for minor fixes to several thousands for extensive repairs."
+}

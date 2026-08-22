@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-siding-flashing-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair siding flashing myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair siding flashing myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor caulking repairs might seem manageable for a homeowner, proper siding flashing repair requires specific knowledge of building codes, water management principles, and experience with various materials and installation techniques. Incorrectly installed flashing can lead to ongoing leaks and more severe damage down the line, potentially voiding warranties. Hiring a professional ensures the repair is done correctly, using appropriate materials and methods, providing a lasting solution and peace of mind. For Bay Area residents, contacting a local contractor like City Dweller, LLC ensures familiarity with regional building requirements.",
+        "@type": "Answer",
+        "description": "Professional repair is recommended due to complex installation techniques and building codes. Improper DIY can lead to further damage."
+      }
+    }
+  ],
+  "description": "Professional repair is recommended due to complex installation techniques and building codes. Improper DIY can lead to further damage."
+}

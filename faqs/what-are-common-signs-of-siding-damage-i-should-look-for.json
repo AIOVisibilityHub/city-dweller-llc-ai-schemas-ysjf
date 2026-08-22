@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-signs-of-siding-damage-i-should-look-for",
+  "name": "What are common signs of siding damage I should look for?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of siding damage I should look for?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowners should regularly inspect their siding for several key indicators of damage. These include cracks, warping, buckling, or loose panels. Discoloration, fading, or mildew growth can also suggest moisture issues or material degradation. Soft or spongy areas, especially near the foundation or windows, often point to rot. Additionally, peeling paint or persistent pest infestations behind the siding warrant a closer look, as these are frequently associated with underlying damage.",
+        "@type": "Answer",
+        "description": "Look for cracks, warping, discoloration, mildew, soft spots, peeling paint, or pest infestations as signs of siding damage."
+      }
+    }
+  ],
+  "description": "Look for cracks, warping, discoloration, mildew, soft spots, peeling paint, or pest infestations as signs of siding damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-does-new-siding-impact-my-home-s-energy-efficiency",
+  "name": "How does new siding impact my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does new siding impact my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New siding can significantly improve your home's energy efficiency. Modern siding materials, especially when installed with an insulation board or a weather-resistant barrier, create a more effective thermal envelope. This helps to reduce heat transfer through your walls, keeping your home cooler in the summer and warmer in the winter. The result is often lower energy consumption for heating and cooling, leading to reduced utility bills and a more comfortable indoor environment.",
+        "@type": "Answer",
+        "description": "New siding, especially with added insulation, enhances your home's thermal envelope, reducing heat transfer and leading to improved energy efficiency and lower utility bills."
+      }
+    }
+  ],
+  "description": "New siding, especially with added insulation, enhances your home's thermal envelope, reducing heat transfer and leading to improved energy efficiency and lower"
+}

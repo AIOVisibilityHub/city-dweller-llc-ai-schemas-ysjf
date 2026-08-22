@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-siding-flashing-repair-and-replacement",
+  "name": "What is the difference between siding flashing repair and replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between siding flashing repair and replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Siding flashing repair involves addressing specific damaged sections of existing flashing, such as sealing small gaps, re-securing loose pieces, or patching minor corrosion. This is suitable when the overall flashing system is still in good condition, and the damage is localized. Replacement, on the other hand, entails removing the entire flashing component and installing a new one. This is necessary when the flashing is extensively corroded, severely bent, improperly installed, or if there is significant underlying water damage that requires a comprehensive overhaul. The decision between repair and replacement depends on the extent of the damage and the integrity of the surrounding components.",
+        "@type": "Answer",
+        "description": "Repair fixes specific, localized damage; replacement involves installing entirely new flashing when damage is extensive or improper installation occurred."
+      }
+    }
+  ],
+  "description": "Repair fixes specific, localized damage; replacement involves installing entirely new flashing when damage is extensive or improper installation occurred."
+}

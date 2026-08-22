@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-does-a-siding-inspection-cost-in-the-bay-area",
+  "name": "What does a siding inspection cost in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a siding inspection cost in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a siding inspection in the Bay Area can vary based on factors such as the size of your home, its accessibility, and the type of siding. Generally, it can range from a few hundred dollars for a standalone inspection to being included as part of a broader home inspection package. It's best to request a detailed quote from local contractors like City Dweller, LLC for an accurate estimate.",
+        "@type": "Answer",
+        "description": "Siding inspection costs in the Bay Area vary by home size and siding type, typically ranging from a few hundred dollars. Request a quote for an accurate estimate."
+      }
+    }
+  ],
+  "description": "Siding inspection costs in the Bay Area vary by home size and siding type, typically ranging from a few hundred dollars. Request a quote for an accurate estimat"
+}

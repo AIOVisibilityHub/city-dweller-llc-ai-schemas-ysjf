@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-repair-loose-siding",
+  "name": "How long does it take to repair loose siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair loose siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of loose siding repair depends on the scope of the project. A small repair involving a few panels might be completed within a few hours to half a day. Larger projects, especially those requiring access equipment, extensive material replacement, or addressing significant underlying structural issues, could take one to several days. We aim to complete repairs efficiently while ensuring quality and proper installation techniques.",
+        "@type": "Answer",
+        "description": "Small repairs can take a few hours; larger projects with extensive damage or material replacement might take one to several days."
+      }
+    }
+  ],
+  "description": "Small repairs can take a few hours; larger projects with extensive damage or material replacement might take one to several days."
+}

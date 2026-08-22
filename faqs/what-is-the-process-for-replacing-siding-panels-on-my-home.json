@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-replacing-siding-panels-on-my-home",
+  "name": "What is the process for replacing siding panels on my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing siding panels on my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The siding replacement process generally begins with a thorough inspection and consultation to determine the best materials and approach. Once materials are selected, the old siding is carefully removed, and the underlying sheathing and framework are inspected for any damage or rot, which will be repaired as needed. A weather-resistant barrier is then installed, followed by the new siding panels. Trim, flashing, and other finishing touches are applied to ensure a watertight and aesthetically pleasing result. Finally, a thorough cleanup of the work site is conducted.",
+        "@type": "Answer",
+        "description": "The siding replacement process involves inspection, removal of old siding, repairs to the underlying structure, installation of a weather barrier, and then new siding, trim, and cleanup."
+      }
+    }
+  ],
+  "description": "The siding replacement process involves inspection, removal of old siding, repairs to the underlying structure, installation of a weather barrier, and then new"
+}

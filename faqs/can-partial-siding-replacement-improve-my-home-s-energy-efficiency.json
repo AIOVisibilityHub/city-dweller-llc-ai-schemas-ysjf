@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-partial-siding-replacement-improve-my-home-s-energy-efficiency",
+  "name": "Can partial siding replacement improve my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can partial siding replacement improve my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While the primary goal of partial siding replacement is usually repair and aesthetic restoration, it can indirectly contribute to improved energy efficiency if the damaged section was a source of drafts or poor insulation. Replacing compromised siding and addressing any underlying moisture barriers or insulation issues during the repair can help seal air leaks and enhance thermal performance in that specific area. For significant energy efficiency gains, a full siding replacement with added insulation is typically more impactful.",
+        "@type": "Answer",
+        "description": "Yes, if the damaged section was causing drafts or poor insulation, partial replacement can improve energy efficiency in that area."
+      }
+    }
+  ],
+  "description": "Yes, if the damaged section was causing drafts or poor insulation, partial replacement can improve energy efficiency in that area."
+}

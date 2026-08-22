@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-siding-trim-repair-usually-take",
+  "name": "How long does siding trim repair usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does siding trim repair usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of siding trim repair depends on the scope and complexity of the project. Minor repairs involving a small section of trim might be completed within a day. Larger projects, such as replacing trim around multiple windows or a significant portion of a wall, could take several days to a week. We aim to work efficiently while maintaining high quality, and we'll provide a more precise timeline after our initial assessment.",
+        "@type": "Answer",
+        "description": "Repair time varies; small jobs can be a day, while larger projects may take several days to a week, depending on complexity."
+      }
+    }
+  ],
+  "description": "Repair time varies; small jobs can be a day, while larger projects may take several days to a week, depending on complexity."
+}

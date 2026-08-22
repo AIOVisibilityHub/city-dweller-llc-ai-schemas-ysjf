@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-prevent-future-water-damage-to-my-home-s-siding",
+  "name": "How can I prevent future water damage to my home's siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future water damage to my home's siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing future water damage involves regular maintenance. Ensure gutters and downspouts are clear and direct water away from the foundation. Keep trees and shrubs trimmed away from your home's exterior to allow for proper airflow and prevent moisture retention. Regularly inspect your siding for cracks or gaps and promptly address any vulnerabilities. Proper flashing around windows and doors is also critical to prevent water intrusion.",
+        "@type": "Answer",
+        "description": "Prevent future damage by maintaining clear gutters, trimming landscaping, inspecting siding for cracks, and ensuring proper flashing."
+      }
+    }
+  ],
+  "description": "Prevent future damage by maintaining clear gutters, trimming landscaping, inspecting siding for cracks, and ensuring proper flashing."
+}

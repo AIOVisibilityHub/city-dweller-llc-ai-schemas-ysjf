@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-often-should-siding-trim-be-inspected-for-damage",
+  "name": "How often should siding trim be inspected for damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should siding trim be inspected for damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Siding trim should ideally be inspected at least once a year, preferably in the spring or fall, to identify any developing issues. After severe weather events, such as heavy rain, strong winds, or storms, it's also advisable to conduct an inspection. Regular checks help catch minor problems early before they escalate into more extensive and costly repairs, preserving your home's exterior integrity and preventing water damage.",
+        "@type": "Answer",
+        "description": "Inspect siding trim annually, ideally in spring or fall, and after severe weather. Early detection prevents minor issues from escalating."
+      }
+    }
+  ],
+  "description": "Inspect siding trim annually, ideally in spring or fall, and after severe weather. Early detection prevents minor issues from escalating."
+}

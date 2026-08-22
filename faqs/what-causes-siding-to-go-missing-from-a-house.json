@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-siding-to-go-missing-from-a-house",
+  "name": "What causes siding to go missing from a house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes siding to go missing from a house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Missing siding is often caused by severe weather conditions, such as strong winds, heavy rain, or hail, which can dislodge panels. Other contributing factors include improper installation, age-related wear and tear, or impact from objects. Pests like termites or rodents can also compromise siding integrity, leading to pieces detaching over time. Regular inspections can help identify potential weaknesses before siding goes missing.",
+        "@type": "Answer",
+        "description": "Missing siding is typically caused by severe weather, improper installation, age, or pest damage."
+      }
+    }
+  ],
+  "description": "Missing siding is typically caused by severe weather, improper installation, age, or pest damage."
+}

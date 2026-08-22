@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/does-split-siding-affect-home-insulation-or-energy-efficiency",
+  "name": "Does split siding affect home insulation or energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does split siding affect home insulation or energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, split siding can negatively impact your home's insulation and energy efficiency. Splits create openings in the exterior envelope, allowing conditioned air to escape and unconditioned air to enter. This can lead to increased heating and cooling costs as your HVAC system works harder to maintain indoor temperatures. Prompt repair helps maintain the thermal integrity of your home.",
+        "@type": "Answer",
+        "description": "Yes, split siding reduces insulation and energy efficiency by allowing air leakage, increasing utility costs."
+      }
+    }
+  ],
+  "description": "Yes, split siding reduces insulation and energy efficiency by allowing air leakage, increasing utility costs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-often-should-i-have-my-home-s-siding-inspected",
+  "name": "How often should I have my home's siding inspected?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my home's siding inspected?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally recommended to have your siding inspected annually, especially if your home is over 10 years old or has experienced severe weather. While minor issues can be addressed during routine maintenance, a professional inspection can identify subtle problems before they escalate into costly repairs. Regular checks help ensure your siding continues to protect your home effectively.",
+        "@type": "Answer",
+        "description": "Annual siding inspections are recommended, particularly for older homes or after severe weather, to catch and address potential issues early."
+      }
+    }
+  ],
+  "description": "Annual siding inspections are recommended, particularly for older homes or after severe weather, to catch and address potential issues early."
+}

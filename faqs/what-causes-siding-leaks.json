@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-siding-leaks",
+  "name": "What causes siding leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes siding leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Siding leaks can be caused by various factors, including damaged siding panels, improper installation, deteriorated caulk around windows and doors, or issues with flashing. Extreme weather, such as heavy rain and strong winds, can also exploit existing vulnerabilities. Over time, materials can degrade, allowing water to penetrate. Identifying the exact cause is crucial for effective repair, as simply patching a visible leak might not address the root problem, leading to recurring issues.",
+        "@type": "Answer",
+        "description": "Siding leaks are often caused by damaged siding, improper installation, deteriorated caulk, or flashing issues, exacerbated by weather."
+      }
+    }
+  ],
+  "description": "Siding leaks are often caused by damaged siding, improper installation, deteriorated caulk, or flashing issues, exacerbated by weather."
+}

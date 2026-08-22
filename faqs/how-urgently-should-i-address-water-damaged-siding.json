@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-urgently-should-i-address-water-damaged-siding",
+  "name": "How urgently should I address water damaged siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How urgently should I address water damaged siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Addressing water damaged siding promptly is crucial to prevent further issues. Water intrusion can lead to mold growth, rot in the underlying structure, and compromise your home's insulation. Delayed repairs often result in more extensive and costly damage, potentially affecting your home's structural integrity. Early intervention can save significant time and money.",
+        "@type": "Answer",
+        "description": "Address water damaged siding urgently to prevent mold, rot, and structural damage, which can lead to more costly repairs."
+      }
+    }
+  ],
+  "description": "Address water damaged siding urgently to prevent mold, rot, and structural damage, which can lead to more costly repairs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-damage-can-be-addressed-with-partial-siding-replacement",
+  "name": "What types of damage can be addressed with partial siding replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of damage can be addressed with partial siding replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Partial siding replacement effectively addresses various types of localized damage. This includes rot or decay caused by moisture, cracks or holes from impact (e.g., hail, fallen branches), pest damage (like woodpecker holes or insect infestations), and sections that have become loose or fallen off due to age or weather. It's also suitable for repairing specific areas affected by fire or extensive water damage, provided the underlying structure is sound.",
+        "@type": "Answer",
+        "description": "It addresses rot, cracks, impact holes, pest damage, and loose or missing sections of siding."
+      }
+    }
+  ],
+  "description": "It addresses rot, cracks, impact holes, pest damage, and loose or missing sections of siding."
+}

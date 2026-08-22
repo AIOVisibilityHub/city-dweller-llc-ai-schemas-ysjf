@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-signs-i-need-a-full-siding-replacement",
+  "name": "What are the signs I need a full siding replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs I need a full siding replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs indicating a need for full siding replacement include significant cracking, warping, or rotting of existing panels. You might also notice frequent repainting due to peeling paint, or increased energy bills suggesting poor insulation. Fungal growth like mold or mildew that returns quickly after cleaning can also point to underlying moisture issues, making replacement a necessary step to protect your home's structure and improve its energy efficiency and curb appeal.",
+        "@type": "Answer",
+        "description": "Look for cracking, warping, rotting siding, frequent paint peeling, rising energy bills, or recurring mold/mildew to determine if a full siding replacement is needed."
+      }
+    }
+  ],
+  "description": "Look for cracking, warping, rotting siding, frequent paint peeling, rising energy bills, or recurring mold/mildew to determine if a full siding replacement is n"
+}

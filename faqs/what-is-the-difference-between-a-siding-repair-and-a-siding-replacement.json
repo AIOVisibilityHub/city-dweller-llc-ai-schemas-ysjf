@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-a-siding-repair-and-a-siding-replacement",
+  "name": "What is the difference between a siding repair and a siding replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a siding repair and a siding replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Siding repair focuses on fixing specific damaged or loose sections of your existing siding, aiming to integrate the repaired area seamlessly with the rest of the exterior. It's typically chosen when the damage is localized and the overall siding system is still functional. Siding replacement, on the other hand, involves removing all or a large portion of the old siding and installing entirely new material. This is usually pursued when the siding is extensively damaged, aged beyond repair, or when a complete aesthetic change is desired.",
+        "@type": "Answer",
+        "description": "Repair fixes specific damaged sections while replacement involves installing new siding over a large area, typically due to extensive damage or age."
+      }
+    }
+  ],
+  "description": "Repair fixes specific damaged sections while replacement involves installing new siding over a large area, typically due to extensive damage or age."
+}

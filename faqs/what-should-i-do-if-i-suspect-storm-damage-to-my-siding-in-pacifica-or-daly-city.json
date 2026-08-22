@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-do-if-i-suspect-storm-damage-to-my-siding-in-pacifica-or-daly-city",
+  "name": "What should I do if I suspect storm damage to my siding in Pacifica or Daly City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if I suspect storm damage to my siding in Pacifica or Daly City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you suspect storm damage to your siding in Pacifica or Daly City, contact a local general contractor specializing in exterior repairs immediately. Document the damage with photos and videos before any cleanup. A professional assessment will confirm the extent of the damage, provide an accurate estimate for repairs, and help you navigate potential insurance claims. Prompt action helps prevent further water intrusion and secondary damage to your home.",
+        "@type": "Answer",
+        "description": "If you suspect storm damage in Pacifica or Daly City, photograph it and call a local contractor for an assessment and repair estimate."
+      }
+    }
+  ],
+  "description": "If you suspect storm damage in Pacifica or Daly City, photograph it and call a local contractor for an assessment and repair estimate."
+}

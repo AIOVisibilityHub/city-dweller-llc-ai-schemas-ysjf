@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-siding-to-get-damaged-in-the-bay-area",
+  "name": "What causes siding to get damaged in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes siding to get damaged in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Siding damage in the Bay Area is frequently caused by environmental factors. Common culprits include heavy rain, strong winds, and fluctuating temperatures. Wood siding can be susceptible to rot from moisture exposure, while all types of siding can suffer impact damage from debris during storms. Pests like termites or woodpeckers can also compromise siding integrity. Regular inspection helps identify these issues early.",
+        "@type": "Answer",
+        "description": "Siding damage in the Bay Area is often caused by heavy rain, strong winds, temperature fluctuations, and pests. These factors can lead to rot, impact damage, or pest infestations."
+      }
+    }
+  ],
+  "description": "Siding damage in the Bay Area is often caused by heavy rain, strong winds, temperature fluctuations, and pests. These factors can lead to rot, impact damage, or"
+}

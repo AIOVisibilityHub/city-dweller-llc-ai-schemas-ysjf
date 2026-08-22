@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-replacing-damaged-siding",
+  "name": "What is the process for replacing damaged siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing damaged siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for replacing damaged siding typically begins with an initial assessment and estimate. Once the project is approved, the existing damaged siding is carefully removed, and any underlying issues like rot or structural damage are addressed. New weather barriers, such as house wrap, are installed, followed by the installation of the chosen new siding material. This includes all necessary trim, flashing, and sealing. Finally, a thorough cleanup of the work area is conducted, and a final inspection ensures quality and compliance.",
+        "@type": "Answer",
+        "description": "Siding replacement involves assessment, removal of old siding, addressing underlying damage, installing new weather barriers and siding, finishing trim, and a final cleanup and inspection."
+      }
+    }
+  ],
+  "description": "Siding replacement involves assessment, removal of old siding, addressing underlying damage, installing new weather barriers and siding, finishing trim, and a f"
+}

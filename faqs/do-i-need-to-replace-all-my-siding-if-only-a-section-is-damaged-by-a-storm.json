@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-replace-all-my-siding-if-only-a-section-is-damaged-by-a-storm",
+  "name": "Do I need to replace all my siding if only a section is damaged by a storm?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace all my siding if only a section is damaged by a storm?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not necessarily. If only a specific section of your siding is damaged by a storm, it is often possible to repair or replace just the affected panels or sections, rather than the entire home's siding. A contractor will assess if the damage is localized and if matching replacement materials are available. However, if the damage is widespread, the siding material is discontinued, or the existing siding is very old and worn, a full replacement might be a more cost-effective and aesthetically cohesive solution in the long run.",
+        "@type": "Answer",
+        "description": "You may only need to repair or replace the damaged section of siding, not the entire house, unless damage is widespread or matching materials are unavailable."
+      }
+    }
+  ],
+  "description": "You may only need to repair or replace the damaged section of siding, not the entire house, unless damage is widespread or matching materials are unavailable."
+}

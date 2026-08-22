@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-exterior-siding-installation-usually-take",
+  "name": "How long does exterior siding installation usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does exterior siding installation usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of siding installation depends on several factors: the size of your home, the complexity of its architectural design, the type of siding material being installed, and weather conditions. For an average-sized home, the process can typically take anywhere from one to three weeks. Larger or more intricate projects, or those requiring significant structural repairs beforehand, may extend beyond this timeframe. We provide a projected timeline during the initial consultation, ensuring you are informed every step of the way.",
+        "@type": "Answer",
+        "description": "Siding installation typically takes one to three weeks for an average home, depending on size, complexity, material, and weather conditions. Larger projects may take longer."
+      }
+    }
+  ],
+  "description": "Siding installation typically takes one to three weeks for an average home, depending on size, complexity, material, and weather conditions. Larger projects may"
+}

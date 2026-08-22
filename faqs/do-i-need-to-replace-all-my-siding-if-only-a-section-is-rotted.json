@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-replace-all-my-siding-if-only-a-section-is-rotted",
+  "name": "Do I need to replace all my siding if only a section is rotted?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace all my siding if only a section is rotted?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, it's often not necessary to replace all your siding if only a specific section is rotted. A skilled general contractor can often perform a 'patch' repair, carefully removing and replacing only the damaged panels. The decision depends on the extent of the rot, the age and condition of the surrounding siding, and whether a seamless match can be achieved with new materials. An assessment will determine the most cost-effective and durable solution.",
+        "@type": "Answer",
+        "description": "You may not need to replace all siding; a patch repair is possible for localized rot. An assessment will determine the best solution."
+      }
+    }
+  ],
+  "description": "You may not need to replace all siding; a patch repair is possible for localized rot. An assessment will determine the best solution."
+}

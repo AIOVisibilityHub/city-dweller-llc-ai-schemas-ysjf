@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-siding-flashing-repair-typically-cost-in-the-bay-area",
+  "name": "How much does siding flashing repair typically cost in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does siding flashing repair typically cost in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of siding flashing repair in the Bay Area can vary significantly based on several factors. These include the extent of the damage, the type of flashing material needed (e.g., galvanized steel, copper, aluminum), the accessibility of the affected area, and whether any underlying structural repairs are required due to water damage. Minor repairs might be a few hundred dollars, while more extensive projects involving siding removal and replacement could range into thousands. We provide detailed estimates after a thorough inspection.",
+        "@type": "Answer",
+        "description": "Costs vary widely based on damage extent, material, accessibility, and underlying repairs. Minor issues are generally less expensive."
+      }
+    }
+  ],
+  "description": "Costs vary widely based on damage extent, material, accessibility, and underlying repairs. Minor issues are generally less expensive."
+}

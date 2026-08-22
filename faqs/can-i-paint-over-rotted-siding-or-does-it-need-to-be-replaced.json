@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-paint-over-rotted-siding-or-does-it-need-to-be-replaced",
+  "name": "Can I paint over rotted siding, or does it need to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I paint over rotted siding, or does it need to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You cannot effectively paint over rotted siding. Paint will not adhere properly to decaying wood and will quickly peel, crack, or blister. More importantly, painting over rot does not address the underlying structural integrity issue or the moisture problem causing the rot. Attempting to do so is a temporary aesthetic fix that allows the damage to worsen unseen. Rotted siding must be removed and replaced to ensure the long-term health of your home.",
+        "@type": "Answer",
+        "description": "No, painting over rotted siding is ineffective; it hides the problem and doesn't fix the underlying damage or moisture issues. Replacement is necessary."
+      }
+    }
+  ],
+  "description": "No, painting over rotted siding is ineffective; it hides the problem and doesn't fix the underlying damage or moisture issues. Replacement is necessary."
+}

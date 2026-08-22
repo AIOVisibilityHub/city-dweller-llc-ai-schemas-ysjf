@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/does-warped-siding-affect-my-home-s-insulation-or-energy-efficiency",
+  "name": "Does warped siding affect my home's insulation or energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does warped siding affect my home's insulation or energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, warped siding can negatively impact your home's insulation and energy efficiency. Gaps created by warping can allow air drafts to penetrate, leading to heat loss in winter and heat gain in summer. This forces your HVAC system to work harder, increasing energy consumption and utility bills. Additionally, moisture intrusion due to warped siding can damage insulation, reducing its effectiveness and potentially leading to mold growth, further compromising your home's indoor air quality and structural integrity.",
+        "@type": "Answer",
+        "description": "Warped siding creates gaps, causing drafts that reduce insulation effectiveness and energy efficiency, leading to higher utility bills."
+      }
+    }
+  ],
+  "description": "Warped siding creates gaps, causing drafts that reduce insulation effectiveness and energy efficiency, leading to higher utility bills."
+}

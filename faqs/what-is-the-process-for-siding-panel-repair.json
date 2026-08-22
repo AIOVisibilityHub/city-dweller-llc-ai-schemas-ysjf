@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-siding-panel-repair",
+  "name": "What is the process for siding panel repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for siding panel repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The siding panel repair process typically begins with an inspection to assess the damage and determine the best repair strategy. Once the scope is defined, damaged panels are carefully removed, ensuring no further harm to adjacent areas or the underlying structure. Any compromised sheathing or framing is then repaired or replaced. New siding panels, matched as closely as possible to your existing material in terms of type, color, and texture, are then installed. The final steps involve sealing seams and applying any necessary finishes to ensure a seamless and weather-tight repair.",
+        "@type": "Answer",
+        "description": "The repair process involves inspection, removal of damaged panels, repair of underlying structure if needed, installation of new panels, and sealing for a weather-tight finish."
+      }
+    }
+  ],
+  "description": "The repair process involves inspection, removal of damaged panels, repair of underlying structure if needed, installation of new panels, and sealing for a weath"
+}

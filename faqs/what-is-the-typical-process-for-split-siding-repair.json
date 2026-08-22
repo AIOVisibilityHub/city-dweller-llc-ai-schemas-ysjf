@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-split-siding-repair",
+  "name": "What is the typical process for split siding repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for split siding repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally involves assessing the damage to determine the extent and cause of the split. For minor splits, a high-quality sealant or epoxy might be used. For larger or more significant splits, the damaged section of siding is carefully removed. A new piece of siding, matched to the existing material and color, is then cut to size and installed. Proper flashing and sealing are crucial to prevent future moisture intrusion.",
+        "@type": "Answer",
+        "description": "Split siding repair involves assessing damage, then either sealing minor splits or carefully replacing larger damaged sections with new, matched material."
+      }
+    }
+  ],
+  "description": "Split siding repair involves assessing damage, then either sealing minor splits or carefully replacing larger damaged sections with new, matched material."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-signs-that-my-siding-needs-sealing",
+  "name": "What are the signs that my siding needs sealing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my siding needs sealing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key indicators that your siding may need sealing include visible cracks or gaps in the siding panels or at seams, peeling paint, discolored patches, or mold and mildew growth. Inside your home, drafts near walls, higher energy bills, or signs of water stains can also suggest that the exterior seal is failing. Addressing these signs promptly can prevent more extensive and costly water damage to your home's structure.",
+        "@type": "Answer",
+        "description": "Look for cracks, peeling paint, discoloration, mold, drafts, or water stains. These signs indicate a failing seal and potential water damage."
+      }
+    }
+  ],
+  "description": "Look for cracks, peeling paint, discoloration, mold, drafts, or water stains. These signs indicate a failing seal and potential water damage."
+}

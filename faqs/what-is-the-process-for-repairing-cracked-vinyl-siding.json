@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-repairing-cracked-vinyl-siding",
+  "name": "What is the process for repairing cracked vinyl siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing cracked vinyl siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing cracked vinyl siding typically involves removing the damaged panel and installing a new one. This often requires using a siding removal tool to unhook the interlocked panels. Once the old panel is carefully detached, a new piece is cut to size and securely locked into place, ensuring proper alignment and attachment to the wall sheathing. For very small cracks, a specialized sealant or patch kit might be used as a temporary or minor repair.",
+        "@type": "Answer",
+        "description": "Repairing cracked vinyl siding usually involves removing and replacing the damaged panel with a new one, using specialized tools."
+      }
+    }
+  ],
+  "description": "Repairing cracked vinyl siding usually involves removing and replacing the damaged panel with a new one, using specialized tools."
+}

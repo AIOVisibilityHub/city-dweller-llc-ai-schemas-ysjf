@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-water-damaged-siding-repair",
+  "name": "What is the typical process for water damaged siding repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for water damaged siding repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically involves assessing the extent of the damage, removing the compromised siding sections, inspecting and repairing any underlying structural or moisture barrier issues, and then installing new siding materials. The goal is to match the existing siding as closely as possible in terms of material, color, and texture for a seamless finish. Finally, proper sealing and finishing touches are applied.",
+        "@type": "Answer",
+        "description": "The repair process includes assessment, removal of damaged siding, repair of underlying issues, installation of new siding, and finishing."
+      }
+    }
+  ],
+  "description": "The repair process includes assessment, removal of damaged siding, repair of underlying issues, installation of new siding, and finishing."
+}

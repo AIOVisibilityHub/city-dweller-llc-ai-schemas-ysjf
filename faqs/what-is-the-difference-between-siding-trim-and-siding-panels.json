@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-siding-trim-and-siding-panels",
+  "name": "What is the difference between siding trim and siding panels?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between siding trim and siding panels?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Siding panels are the primary protective layer covering the exterior walls of your home, forming the bulk of the wall surface. Siding trim, on the other hand, refers to the decorative and protective elements that frame windows, doors, corners, and the edges of the siding panels. Trim provides a finished look and helps seal gaps, preventing water intrusion. Both are crucial for protecting your home, but they serve different functions.",
+        "@type": "Answer",
+        "description": "Siding panels are the main exterior wall covering, while siding trim frames windows, doors, and corners, providing a finished look and sealing gaps."
+      }
+    }
+  ],
+  "description": "Siding panels are the main exterior wall covering, while siding trim frames windows, doors, and corners, providing a finished look and sealing gaps."
+}

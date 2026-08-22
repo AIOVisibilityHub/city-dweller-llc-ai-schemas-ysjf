@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-caulk-over-old-siding-caulk-or-does-it-need-to-be-removed",
+  "name": "Can I caulk over old siding caulk, or does it need to be removed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I caulk over old siding caulk, or does it need to be removed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For optimal adhesion and a lasting seal, it is generally recommended to remove old caulk before applying new. Applying new caulk over old, cracked, or deteriorated caulk can lead to poor adhesion of the new material, resulting in premature failure and an ineffective seal. A clean, dry, and properly prepared surface ensures the new caulk forms a strong, durable bond. In some cases, if the existing caulk is in excellent condition and the new caulk is compatible, a thin bead can be applied, but this is less common for exterior siding.",
+        "@type": "Answer",
+        "description": "For best results and a lasting seal, old siding caulk should typically be removed before applying new caulk to ensure proper adhesion."
+      }
+    }
+  ],
+  "description": "For best results and a lasting seal, old siding caulk should typically be removed before applying new caulk to ensure proper adhesion."
+}

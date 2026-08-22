@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-seal-my-siding-myself-or-should-i-hire-a-professional",
+  "name": "Can I seal my siding myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I seal my siding myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While DIY siding sealing is possible for small, accessible areas, it's generally recommended to hire a professional, especially for larger homes or complex siding types. Professionals have the right equipment for safe access, experience in proper surface preparation, and knowledge of the best sealants for different materials. Incorrect application can lead to ineffective sealing, wasted materials, and potential damage, outweighing any initial cost savings. For a durable, effective seal, professional expertise is valuable.",
+        "@type": "Answer",
+        "description": "Hiring a professional is often recommended for siding sealing due to the need for safe access, proper preparation, and correct sealant application."
+      }
+    }
+  ],
+  "description": "Hiring a professional is often recommended for siding sealing due to the need for safe access, proper preparation, and correct sealant application."
+}

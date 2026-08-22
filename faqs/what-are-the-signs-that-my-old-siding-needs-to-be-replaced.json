@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-signs-that-my-old-siding-needs-to-be-replaced",
+  "name": "What are the signs that my old siding needs to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my old siding needs to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that indicate your siding needs replacement include visible damage like cracks, warping, or rotting. Fading color, peeling paint, or mold/mildew growth that won't clean off are also indicators. Increased energy bills can signal deteriorating insulation properties of your old siding. Additionally, if you notice loose panels or a need for frequent repairs, it might be more cost-effective to replace the siding entirely rather than continuing with repairs.",
+        "@type": "Answer",
+        "description": "Signs include cracks, warping, rot, fading, peeling paint, mold, increased energy bills, or loose panels."
+      }
+    }
+  ],
+  "description": "Signs include cracks, warping, rot, fading, peeling paint, mold, increased energy bills, or loose panels."
+}

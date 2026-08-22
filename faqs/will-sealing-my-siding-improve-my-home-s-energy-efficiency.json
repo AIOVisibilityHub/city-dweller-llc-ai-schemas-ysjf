@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-sealing-my-siding-improve-my-home-s-energy-efficiency",
+  "name": "Will sealing my siding improve my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will sealing my siding improve my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, effectively sealing your siding can significantly improve your home's energy efficiency. Gaps and cracks in siding allow conditioned air (heated or cooled) to escape and unconditioned air to enter, leading to higher energy consumption as your HVAC system works harder to maintain a comfortable indoor temperature. By creating an airtight seal, drafts are reduced, and thermal bridges are minimized, resulting in better insulation performance and potentially lower utility bills. It's an important step in weatherizing your home.",
+        "@type": "Answer",
+        "description": "Yes, sealing siding reduces drafts and minimizes air leakage through gaps, improving insulation, and lowering energy bills."
+      }
+    }
+  ],
+  "description": "Yes, sealing siding reduces drafts and minimizes air leakage through gaps, improving insulation, and lowering energy bills."
+}

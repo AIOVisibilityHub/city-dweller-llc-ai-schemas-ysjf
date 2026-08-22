@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-siding-trim-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair siding trim myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair siding trim myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor cosmetic issues like small cracks or peeling paint can sometimes be addressed by a homeowner, more significant damage involving rot, structural integrity, or large sections of trim typically requires professional expertise. Professionals have the tools, experience, and knowledge to identify underlying issues, ensure proper material selection, and execute repairs that prevent future problems, ensuring longevity and compliance with building standards. Incorrect DIY repairs can lead to further damage.",
+        "@type": "Answer",
+        "description": "Minor trim issues can be DIY, but significant damage or structural concerns require professional help to ensure proper repair and prevent future problems."
+      }
+    }
+  ],
+  "description": "Minor trim issues can be DIY, but significant damage or structural concerns require professional help to ensure proper repair and prevent future problems."
+}

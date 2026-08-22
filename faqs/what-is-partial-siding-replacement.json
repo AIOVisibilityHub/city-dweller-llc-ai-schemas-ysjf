@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-partial-siding-replacement",
+  "name": "What is partial siding replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is partial siding replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Partial siding replacement involves repairing or replacing only a section of your home's exterior siding, rather than the entire facade. This approach is often chosen when damage is localized due to impact, rot, water intrusion, or pest issues affecting specific areas. It aims to restore the affected sections to match the existing siding as closely as possible, both in material and appearance, providing a cost-effective solution for maintaining your home's integrity and aesthetic.",
+        "@type": "Answer",
+        "description": "Partial siding replacement fixes or replaces only damaged sections of your home's exterior siding, offering a targeted repair solution."
+      }
+    }
+  ],
+  "description": "Partial siding replacement fixes or replaces only damaged sections of your home's exterior siding, offering a targeted repair solution."
+}

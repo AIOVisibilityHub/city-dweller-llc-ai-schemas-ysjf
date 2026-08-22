@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-my-siding-is-leaking",
+  "name": "How do I know if my siding is leaking?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my siding is leaking?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of siding leaks include water stains on interior walls or ceilings, peeling paint, or warped drywall near exterior walls. Outside, look for visibly damaged or rotting siding panels, mold or mildew growth on the siding, or water pooling near the foundation. Musty odors inside your home, particularly after rain, can also indicate hidden moisture problems behind the siding. Early detection helps prevent more extensive and costly damage.",
+        "@type": "Answer",
+        "description": "Look for interior water stains, peeling paint, or warped drywall. Exterior signs include damaged siding, mold, or pooling water near the foundation."
+      }
+    }
+  ],
+  "description": "Look for interior water stains, peeling paint, or warped drywall. Exterior signs include damaged siding, mold, or pooling water near the foundation."
+}

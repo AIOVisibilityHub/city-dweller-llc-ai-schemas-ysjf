@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-do-siding-repairs-typically-take",
+  "name": "How long do siding repairs typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do siding repairs typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of siding repairs depends on the scope of the damage. Small localized repairs might take a day or two, while extensive damage involving multiple sections or underlying structural work could take several days to a week or more. Weather conditions can also impact the timeline. Your contractor will provide a more accurate estimate of the project's duration after their initial assessment.",
+        "@type": "Answer",
+        "description": "Repair times vary; small repairs take a few days, while extensive work could take a week or more, depending on damage scope and weather."
+      }
+    }
+  ],
+  "description": "Repair times vary; small repairs take a few days, while extensive work could take a week or more, depending on damage scope and weather."
+}

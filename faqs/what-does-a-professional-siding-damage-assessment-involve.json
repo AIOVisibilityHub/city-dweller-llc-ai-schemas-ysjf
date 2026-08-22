@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-does-a-professional-siding-damage-assessment-involve",
+  "name": "What does a professional siding damage assessment involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a professional siding damage assessment involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional siding damage assessment typically involves a thorough visual inspection of all exterior walls. The contractor will look for physical damage like cracks, holes, rot, and loose panels. They also check for signs of moisture intrusion, mold, mildew, and pest activity. Using specialized tools, they might test for soft spots, measure moisture levels, and assess the integrity of flashing around windows and doors. The goal is to identify all current and potential issues and provide a comprehensive report.",
+        "@type": "Answer",
+        "description": "A professional assessment includes visual inspection for damage, moisture, pests, and uses tools to check for soft spots or moisture levels."
+      }
+    }
+  ],
+  "description": "A professional assessment includes visual inspection for damage, moisture, pests, and uses tools to check for soft spots or moisture levels."
+}

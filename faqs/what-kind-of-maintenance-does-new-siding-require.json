@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-maintenance-does-new-siding-require",
+  "name": "What kind of maintenance does new siding require?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance does new siding require?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The maintenance required for new siding depends on the material chosen. Vinyl siding is generally low-maintenance, requiring only occasional cleaning with soap and water to remove dirt and mildew. Fiber cement siding may need repainting every 10-15 years, but it's very durable otherwise. Wood siding requires the most upkeep, including regular cleaning, sealing, staining, or painting to protect it from weather and rot. Regardless of material, periodic inspections are recommended to catch any potential issues early.",
+        "@type": "Answer",
+        "description": "Maintenance varies by material: vinyl needs occasional cleaning, fiber cement may need repainting, and wood requires regular sealing or painting."
+      }
+    }
+  ],
+  "description": "Maintenance varies by material: vinyl needs occasional cleaning, fiber cement may need repainting, and wood requires regular sealing or painting."
+}

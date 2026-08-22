@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-siding-are-most-prone-to-leaks",
+  "name": "What types of siding are most prone to leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of siding are most prone to leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No siding type is entirely immune to leaks, but some can be more susceptible if not properly installed or maintained. Wood siding can rot if not sealed well, vinyl siding can detach or crack, and fiber cement siding can fail at joints if caulk deteriorates. Stucco can also develop cracks that allow water intrusion. The primary factor in leak prevention across all siding types is correct installation, proper flashing, and regular maintenance rather than the material itself.",
+        "@type": "Answer",
+        "description": "All siding types can leak if improperly installed or maintained. Wood, vinyl, fiber cement, and stucco each have specific vulnerabilities if not cared for."
+      }
+    }
+  ],
+  "description": "All siding types can leak if improperly installed or maintained. Wood, vinyl, fiber cement, and stucco each have specific vulnerabilities if not cared for."
+}

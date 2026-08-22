@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-types-of-siding-materials-available-for-replacement",
+  "name": "What are the common types of siding materials available for replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common types of siding materials available for replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common siding materials include vinyl, fiber cement, wood (cedar, redwood), and engineered wood. Vinyl siding is a popular choice for its affordability and low maintenance. Fiber cement offers excellent durability, fire resistance, and a look that mimics wood. Wood siding provides a natural, classic aesthetic but requires more maintenance. Engineered wood siding combines real wood with binders and resins for enhanced durability and moisture resistance. Each material has distinct advantages in terms of cost, appearance, durability, and maintenance requirements, allowing homeowners to choose based on their priorities.",
+        "@type": "Answer",
+        "description": "Common siding materials include vinyl, fiber cement, wood, and engineered wood, each offering different aesthetics, durability, and maintenance needs."
+      }
+    }
+  ],
+  "description": "Common siding materials include vinyl, fiber cement, wood, and engineered wood, each offering different aesthetics, durability, and maintenance needs."
+}

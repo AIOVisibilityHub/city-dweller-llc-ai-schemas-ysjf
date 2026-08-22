@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-water-damaged-siding-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair water damaged siding myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair water damaged siding myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor surface damage might seem repairable for a DIY enthusiast, water damage often indicates deeper issues like rot or mold in the sub-structure, which requires professional expertise. A general contractor has the experience to accurately assess the full extent of the damage, identify the source of water intrusion, and ensure repairs are done correctly to prevent recurrence. Improper repairs can lead to ongoing problems and higher costs down the line.",
+        "@type": "Answer",
+        "description": "For minor surface damage, DIY might be possible, but deep water damage often requires professional assessment and repair to prevent further issues."
+      }
+    }
+  ],
+  "description": "For minor surface damage, DIY might be possible, but deep water damage often requires professional assessment and repair to prevent further issues."
+}

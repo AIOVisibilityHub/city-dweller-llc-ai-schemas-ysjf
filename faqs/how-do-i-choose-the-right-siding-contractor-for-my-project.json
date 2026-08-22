@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-siding-contractor-for-my-project",
+  "name": "How do I choose the right siding contractor for my project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right siding contractor for my project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a siding contractor, look for companies with a strong local reputation, proper licensing, and comprehensive insurance. Review their portfolio of past projects and ask for client references. Ensure they offer detailed proposals, transparent pricing, and clear communication throughout the project. A reliable contractor should also provide warranties on their work and the materials used, giving you peace of mind regarding your investment.",
+        "@type": "Answer",
+        "description": "Choose a siding contractor with a strong local reputation, proper licensing, insurance, clear communication, detailed proposals, and warranties on work and materials."
+      }
+    }
+  ],
+  "description": "Choose a siding contractor with a strong local reputation, proper licensing, insurance, clear communication, detailed proposals, and warranties on work and mate"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-siding-flashing-and-why-is-it-important",
+  "name": "What is siding flashing and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is siding flashing and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Siding flashing is a thin material, typically metal, installed at vulnerable points on your home's exterior, such as around windows, doors, and roof-to-wall intersections. Its primary purpose is to direct water away from the building envelope, preventing moisture intrusion into the walls and underlying structures. Proper flashing protects against wood rot, mold growth, and structural damage, preserving the integrity and longevity of your home's siding and foundation. Without effective flashing, water can penetrate the building, leading to costly repairs and compromised indoor air quality.",
+        "@type": "Answer",
+        "description": "Siding flashing is a protective material that directs water away from your home's exterior, preventing moisture damage and preserving structural integrity."
+      }
+    }
+  ],
+  "description": "Siding flashing is a protective material that directs water away from your home's exterior, preventing moisture damage and preserving structural integrity."
+}

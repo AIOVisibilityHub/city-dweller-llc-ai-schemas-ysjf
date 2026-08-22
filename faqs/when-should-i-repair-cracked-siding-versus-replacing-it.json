@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-repair-cracked-siding-versus-replacing-it",
+  "name": "When should I repair cracked siding versus replacing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair cracked siding versus replacing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor cracks or localized damage often only require a repair, especially if the underlying structure is sound and the damage hasn't compromised the home's weather barrier. However, if cracks are widespread, deep, or accompanied by other issues like warping, rot, or significant fading, replacement might be the more cost-effective and durable solution. An assessment by a professional can determine the extent of the damage and recommend the best course of action for your Bay Area home.",
+        "@type": "Answer",
+        "description": "Repair small, localized cracks. Consider replacement for widespread, deep, or structural damage, or if the siding is old."
+      }
+    }
+  ],
+  "description": "Repair small, localized cracks. Consider replacement for widespread, deep, or structural damage, or if the siding is old."
+}

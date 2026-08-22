@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-full-siding-replacement-project-typically-take",
+  "name": "How long does a full siding replacement project typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a full siding replacement project typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a full siding replacement project varies based on the size of your home, the complexity of its architectural features, and the type of siding chosen. Generally, most projects for an average-sized home can be completed within one to three weeks. Factors such as weather conditions and unforeseen structural repairs can also influence the timeline. Our team works efficiently to minimize disruption while ensuring a high-quality installation.",
+        "@type": "Answer",
+        "description": "A full siding replacement usually takes one to three weeks, depending on home size, architectural complexity, and siding material."
+      }
+    }
+  ],
+  "description": "A full siding replacement usually takes one to three weeks, depending on home size, architectural complexity, and siding material."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-happens-after-a-siding-damage-assessment-is-completed",
+  "name": "What happens after a siding damage assessment is completed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after a siding damage assessment is completed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a siding damage assessment, the contractor will provide a detailed report outlining their findings. This report typically includes identified issues, their severity, recommended repair or replacement options, and a transparent cost estimate for the work. They will discuss the findings with you, explain the best course of action, and answer any questions. You can then decide how to proceed, whether it's immediate repairs or planning for future projects based on the assessment.",
+        "@type": "Answer",
+        "description": "Following assessment, you'll receive a detailed report with findings, recommended solutions, and a cost estimate to guide your next steps."
+      }
+    }
+  ],
+  "description": "Following assessment, you'll receive a detailed report with findings, recommended solutions, and a cost estimate to guide your next steps."
+}

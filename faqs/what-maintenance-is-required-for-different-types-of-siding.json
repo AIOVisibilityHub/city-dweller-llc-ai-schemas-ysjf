@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-maintenance-is-required-for-different-types-of-siding",
+  "name": "What maintenance is required for different types of siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for different types of siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance needs vary significantly by siding type. Vinyl siding is generally low maintenance, requiring occasional washing to remove dirt and mildew. Fiber cement needs periodic repainting, typically every 10-15 years, and cleaning. Wood siding requires the most upkeep, including regular cleaning, sealing or painting every few years, and prompt repair of any rot or insect damage. Metal siding is very low maintenance, mainly needing occasional cleaning. Understanding these requirements helps you choose a material that fits your lifestyle.",
+        "@type": "Answer",
+        "description": "Maintenance varies: vinyl needs washing; fiber cement requires periodic repainting; wood demands regular cleaning, sealing, and repair; metal siding is low maintenance."
+      }
+    }
+  ],
+  "description": "Maintenance varies: vinyl needs washing; fiber cement requires periodic repainting; wood demands regular cleaning, sealing, and repair; metal siding is low main"
+}

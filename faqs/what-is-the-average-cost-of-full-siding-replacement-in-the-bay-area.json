@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-average-cost-of-full-siding-replacement-in-the-bay-area",
+  "name": "What is the average cost of full siding replacement in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of full siding replacement in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of full siding replacement in the Bay Area varies significantly based on factors like home size, chosen material (e.g., vinyl, fiber cement, wood), labor rates, and any necessary repairs to the underlying structure. As a general contractor, we provide detailed, customized quotes after an on-site assessment. We recommend scheduling a consultation to discuss your specific needs and receive an accurate estimate tailored to your property and desired siding type.",
+        "@type": "Answer",
+        "description": "The average cost of full siding replacement in the Bay Area varies widely based on home size, material, and labor. A custom quote requires an on-site assessment."
+      }
+    }
+  ],
+  "description": "The average cost of full siding replacement in the Bay Area varies widely based on home size, material, and labor. A custom quote requires an on-site assessment"
+}

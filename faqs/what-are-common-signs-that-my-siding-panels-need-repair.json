@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-signs-that-my-siding-panels-need-repair",
+  "name": "What are common signs that my siding panels need repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my siding panels need repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs indicating your siding panels need repair include visible cracks, warping, peeling paint, or discoloration. You might also notice soft spots when pressing on the siding, which can suggest moisture damage beneath. Gaps between panels or along seams can allow water intrusion, leading to further issues. If you observe higher energy bills without other explanations, damaged siding might be compromising your home's insulation. Addressing these issues promptly helps prevent more extensive and costly damage to your home's structure.",
+        "@type": "Answer",
+        "description": "Look for cracks, warping, peeling paint, soft spots, gaps between panels, or unexplained increases in energy bills."
+      }
+    }
+  ],
+  "description": "Look for cracks, warping, peeling paint, soft spots, gaps between panels, or unexplained increases in energy bills."
+}

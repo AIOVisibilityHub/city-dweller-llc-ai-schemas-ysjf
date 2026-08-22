@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-repairing-damaged-siding",
+  "name": "What is the process for repairing damaged siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing damaged siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically begins with an inspection to assess the damage and determine the best approach. Minor repairs may involve cleaning, sealing small cracks, or replacing individual panels. For more extensive damage, sections of siding might need to be removed to address underlying issues like water damage or rot before new siding is installed. The final step usually involves matching the repaired area to the existing siding for a seamless finish.",
+        "@type": "Answer",
+        "description": "The process starts with an inspection, followed by cleaning, sealing, or replacing damaged panels. Extensive repairs may require removing sections to address underlying issues, with the goal of matching new siding to existing for a seamless finish."
+      }
+    }
+  ],
+  "description": "The process starts with an inspection, followed by cleaning, sealing, or replacing damaged panels. Extensive repairs may require removing sections to address un"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-my-siding-can-be-repaired-or-if-it-needs-full-replacement",
+  "name": "How do I know if my siding can be repaired or if it needs full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my siding can be repaired or if it needs full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repair and replacement depends on the extent and severity of the damage. Minor issues like a few cracked panels, small holes, or localized water damage can often be spot-repaired. However, if the damage is widespread, affecting a significant portion of your home, or if there's extensive rot, mold, or structural compromise underneath, a full replacement is usually more cost-effective and provides better long-term protection. A professional assessment can determine the best course of action based on the condition of your siding and your budget.",
+        "@type": "Answer",
+        "description": "Minor, localized damage often allows for repairs, while widespread rot, mold, or structural issues usually necessitate a full replacement. A professional can assess the best option."
+      }
+    }
+  ],
+  "description": "Minor, localized damage often allows for repairs, while widespread rot, mold, or structural issues usually necessitate a full replacement. A professional can as"
+}

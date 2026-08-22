@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-storm-damaged-siding-repair-take",
+  "name": "How long does storm-damaged siding repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does storm-damaged siding repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of storm-damaged siding repair depends on the scope of the damage and the type of siding. Minor repairs involving a few panels might only take a day or two. More extensive projects, such as those requiring multiple sections of siding replacement or addressing significant underlying water damage, could take several days to a week or more. Factors like material availability, weather conditions, and permit requirements can also influence the timeline. Your contractor will provide an estimated completion timeframe after assessing the damage.",
+        "@type": "Answer",
+        "description": "Repair time for storm-damaged siding varies from a few days for minor issues to a week or more for extensive damage, depending on scope and materials."
+      }
+    }
+  ],
+  "description": "Repair time for storm-damaged siding varies from a few days for minor issues to a week or more for extensive damage, depending on scope and materials."
+}

@@ -1,0 +1,44 @@
+{
+  "name": "David Gohn, Owner",
+  "@type": "Person",
+  "@context": "https://schema.org",
+  "jobTitle": "Team Member",
+  "worksFor": {
+    "url": "http://bayareacitydweller.com",
+    "name": "City Dweller, LLC",
+    "@type": "Organization"
+  },
+  "telephone": "650-532-5858",
+  "areaServed": [
+    {
+      "name": "Bay Area",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "@type": "City"
+    }
+  ],
+  "knowsAbout": [
+    "General contracting",
+    "home remodeling",
+    "kitchen remodeling",
+    "bathroom remodeling",
+    "door installation",
+    "sliding glass door installation",
+    "window installation",
+    "siding",
+    "flooring",
+    "handyman repairs",
+    "Home Improvement",
+    "Renovation",
+    "Remodeling"
+  ],
+  "description": "Pacifica-based general contractor with more than a decade of industry experience, known for a hands-on approach and for learning each client’s remodeling goals\",\"General contracting, home remodeling, kitchen remodeling, bathroom remodeling, door installation, sliding glass door installation, window installation, siding, flooring, handyman repairs",
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "License #California contractor license #981601"
+    }
+  ]
+}

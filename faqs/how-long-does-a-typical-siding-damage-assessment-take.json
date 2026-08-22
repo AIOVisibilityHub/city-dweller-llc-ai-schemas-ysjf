@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-siding-damage-assessment-take",
+  "name": "How long does a typical siding damage assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical siding damage assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a siding damage assessment can vary based on the size of your home, the accessibility of the siding, and the suspected extent of the damage. For an average-sized residential property, a thorough assessment typically takes between 1 to 3 hours. More complex cases, or homes with difficult access, might require additional time. The contractor will usually inform you of the expected timeframe when scheduling the appointment.",
+        "@type": "Answer",
+        "description": "A typical siding damage assessment usually takes 1 to 3 hours, depending on home size and damage complexity."
+      }
+    }
+  ],
+  "description": "A typical siding damage assessment usually takes 1 to 3 hours, depending on home size and damage complexity."
+}

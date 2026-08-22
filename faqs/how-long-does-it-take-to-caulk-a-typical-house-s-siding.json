@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-caulk-a-typical-house-s-siding",
+  "name": "How long does it take to caulk a typical house's siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to caulk a typical house's siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to caulk a house's siding depends on several factors, including the size and complexity of the home, the amount of existing caulk to be removed, surface preparation needed, and the number of windows, doors, and trim elements. A small, straightforward house might take a single professional a day or two, while a larger, more intricate home with extensive old caulk removal could take several days or even a week with a team. Weather conditions also play a role, as caulk requires specific temperature and humidity for proper application and curing.",
+        "@type": "Answer",
+        "description": "Caulking time varies by house size, complexity, and preparation needs. A small home may take 1-2 days, while larger projects can take several days or a week."
+      }
+    }
+  ],
+  "description": "Caulking time varies by house size, complexity, and preparation needs. A small home may take 1-2 days, while larger projects can take several days or a week."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-signs-that-my-house-siding-needs-repair",
+  "name": "What are common signs that my house siding needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my house siding needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Look for cracked, loose, or rotting panels, especially after storms or prolonged exposure to moisture. Discoloration, mold, or mildew growth can also indicate water damage or a need for cleaning and repair. Peeling paint or wallpaper on interior walls near exterior walls might suggest water penetrating the siding. Prompt repair can prevent further damage to your home's structure and insulation.",
+        "@type": "Answer",
+        "description": "Common signs include cracked, loose, or rotting panels, discoloration, mold, and peeling interior paint, all pointing to potential water damage or wear."
+      }
+    }
+  ],
+  "description": "Common signs include cracked, loose, or rotting panels, discoloration, mold, and peeling interior paint, all pointing to potential water damage or wear."
+}

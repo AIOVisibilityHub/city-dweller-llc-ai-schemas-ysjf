@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-siding-leak-repair-cost-in-the-bay-area",
+  "name": "How much does siding leak repair cost in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does siding leak repair cost in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of siding leak repair in the Bay Area varies significantly based on the leak's severity, the type of siding, and the extent of underlying damage. Minor repairs, like re-caulking or replacing a small section of siding, might be a few hundred dollars. More complex issues involving structural damage, mold remediation, or large sections of siding replacement can range from several hundred to several thousand dollars. An inspection is essential for an accurate estimate.",
+        "@type": "Answer",
+        "description": "Siding leak repair costs in the Bay Area depend on leak severity and damage extent, ranging from a few hundred for minor fixes to several thousand for complex issues."
+      }
+    }
+  ],
+  "description": "Siding leak repair costs in the Bay Area depend on leak severity and damage extent, ranging from a few hundred for minor fixes to several thousand for complex i"
+}

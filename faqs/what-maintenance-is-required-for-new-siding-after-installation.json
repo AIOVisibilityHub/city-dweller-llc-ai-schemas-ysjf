@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-maintenance-is-required-for-new-siding-after-installation",
+  "name": "What maintenance is required for new siding after installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for new siding after installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance for new siding largely depends on the material chosen. Generally, most new siding types require minimal upkeep. This often includes periodic cleaning with mild soap and water to remove dirt and mildew, typically once a year. Regular inspections for any signs of damage, such as cracks or loose panels, are also recommended. Addressing small issues promptly can extend the lifespan of your siding and maintain its appearance. We provide specific care instructions for your chosen material.",
+        "@type": "Answer",
+        "description": "New siding typically requires periodic cleaning with mild soap and water, usually annually, and regular inspections for damage to ensure longevity."
+      }
+    }
+  ],
+  "description": "New siding typically requires periodic cleaning with mild soap and water, usually annually, and regular inspections for damage to ensure longevity."
+}

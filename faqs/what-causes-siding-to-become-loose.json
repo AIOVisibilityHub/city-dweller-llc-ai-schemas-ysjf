@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-siding-to-become-loose",
+  "name": "What causes siding to become loose?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes siding to become loose?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Siding can become loose for several reasons, primarily due to weather exposure. Strong winds, heavy rain, and temperature fluctuations can cause materials to expand and contract, weakening fasteners over time. Poor installation, such as insufficient nailing or improper material handling, can also contribute. Additionally, underlying issues like water damage, rot in the sheathing, or structural shifting of the house can compromise the siding's attachment. Identifying the root cause is crucial for a lasting repair.",
+        "@type": "Answer",
+        "description": "Common causes include weather damage, poor installation, and underlying structural issues like water damage or rot."
+      }
+    }
+  ],
+  "description": "Common causes include weather damage, poor installation, and underlying structural issues like water damage or rot."
+}

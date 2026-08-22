@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-replacing-old-siding-with-new-siding",
+  "name": "What is the process for replacing old siding with new siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing old siding with new siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The siding replacement process generally begins with a thorough inspection and removal of the old siding. Once removed, we inspect the underlying sheathing and make any necessary repairs to ensure a sound surface. A weather-resistant barrier is then typically installed before the new siding material is applied, following manufacturer specifications and local building codes. Finally, trim, soffits, and fascia are installed or replaced to complete the exterior finish. We manage all aspects, from preparation to final cleanup.",
+        "@type": "Answer",
+        "description": "The process involves removing old siding, inspecting and repairing the underlying structure, installing a weather barrier, applying new siding, and finishing with trim work."
+      }
+    }
+  ],
+  "description": "The process involves removing old siding, inspecting and repairing the underlying structure, installing a weather barrier, applying new siding, and finishing wi"
+}

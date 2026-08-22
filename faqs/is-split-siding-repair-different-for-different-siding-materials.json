@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/is-split-siding-repair-different-for-different-siding-materials",
+  "name": "Is split siding repair different for different siding materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is split siding repair different for different siding materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, the repair approach for split siding differs based on the material. For example, wood siding splits might be filled, patched, or require replacement of individual boards. Vinyl siding can sometimes be rejoined with heat or necessitate panel replacement. Fiber cement and aluminum typically involve precise cutting and replacement of the damaged section. Each material has specific requirements for effective and durable repair.",
+        "@type": "Answer",
+        "description": "Yes, repair methods for split siding vary by material; wood may be patched, vinyl heated, and fiber cement replaced."
+      }
+    }
+  ],
+  "description": "Yes, repair methods for split siding vary by material; wood may be patched, vinyl heated, and fiber cement replaced."
+}

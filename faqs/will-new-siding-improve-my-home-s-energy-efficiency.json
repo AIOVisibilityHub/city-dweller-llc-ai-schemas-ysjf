@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-new-siding-improve-my-home-s-energy-efficiency",
+  "name": "Will new siding improve my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will new siding improve my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a full siding replacement can significantly improve your home's energy efficiency. Modern siding materials often incorporate or are installed with insulation features that reduce heat transfer through your walls. This can lead to more stable indoor temperatures, reducing the strain on your heating and cooling systems. The proper installation of house wrap and flashing also creates a tighter building envelope, minimizing air leaks and contributing to lower energy bills.",
+        "@type": "Answer",
+        "description": "New siding, especially when installed with insulation and house wrap, can significantly improve home energy efficiency by reducing heat transfer and air leaks."
+      }
+    }
+  ],
+  "description": "New siding, especially when installed with insulation and house wrap, can significantly improve home energy efficiency by reducing heat transfer and air leaks."
+}

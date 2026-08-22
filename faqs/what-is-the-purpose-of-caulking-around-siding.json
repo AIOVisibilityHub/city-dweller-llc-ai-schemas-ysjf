@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-purpose-of-caulking-around-siding",
+  "name": "What is the purpose of caulking around siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the purpose of caulking around siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Caulking around siding serves several critical functions for your home. It creates a weather-tight seal, preventing moisture intrusion that can lead to wood rot, mold growth, and structural damage. This seal also helps to improve your home's energy efficiency by blocking drafts, reducing heat loss in winter, and keeping cool air in during summer. Additionally, caulking acts as a barrier against insects and pests, and helps maintain a neat, finished appearance by filling gaps between siding panels and trim.",
+        "@type": "Answer",
+        "description": "Caulking seals gaps in siding to prevent moisture intrusion, improve energy efficiency, deter pests, and enhance appearance."
+      }
+    }
+  ],
+  "description": "Caulking seals gaps in siding to prevent moisture intrusion, improve energy efficiency, deter pests, and enhance appearance."
+}

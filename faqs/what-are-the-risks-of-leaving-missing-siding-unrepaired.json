@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-risks-of-leaving-missing-siding-unrepaired",
+  "name": "What are the risks of leaving missing siding unrepaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the risks of leaving missing siding unrepaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Leaving missing siding unrepaired exposes your home to significant risks. Without the protective barrier of siding, the underlying structure, including your home's sheathing and framing, becomes vulnerable to moisture intrusion, leading to rot, mold growth, and pest infestations. This can compromise your home's structural integrity, cause extensive internal damage, and drastically reduce its energy efficiency as insulation is exposed, potentially leading to costly repairs down the line.",
+        "@type": "Answer",
+        "description": "Unrepaired missing siding exposes your home to moisture, rot, mold, and pests, compromising structural integrity and energy efficiency, leading to costly damage."
+      }
+    }
+  ],
+  "description": "Unrepaired missing siding exposes your home to moisture, rot, mold, and pests, compromising structural integrity and energy efficiency, leading to costly damage"
+}

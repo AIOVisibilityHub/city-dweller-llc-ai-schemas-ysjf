@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-risks-of-leaving-loose-siding-unrepaired",
+  "name": "What are the risks of leaving loose siding unrepaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the risks of leaving loose siding unrepaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Leaving loose siding unrepaired can lead to significant problems. It creates openings for water penetration, which can cause wood rot, mold growth, and structural damage to the sheathing and framing of your home. It also compromises your home's insulation, leading to higher energy bills. Additionally, loose siding can worsen with further weather exposure, potentially detaching completely and creating a safety hazard or causing more extensive damage to the house exterior.",
+        "@type": "Answer",
+        "description": "Unrepaired loose siding can cause water damage, wood rot, mold growth, reduced insulation, and further exterior damage to your home."
+      }
+    }
+  ],
+  "description": "Unrepaired loose siding can cause water damage, wood rot, mold growth, reduced insulation, and further exterior damage to your home."
+}

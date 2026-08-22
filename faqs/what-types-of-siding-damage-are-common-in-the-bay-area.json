@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-siding-damage-are-common-in-the-bay-area",
+  "name": "What types of siding damage are common in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of siding damage are common in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Due to the diverse weather patterns in the Bay Area, siding often experiences damage from sun exposure, occasional heavy rains, and strong winds. Common issues include fading, warping, cracking, and moisture intrusion, which can lead to rot, especially in wood or composite sidings. Salt air near coastal areas like Pacifica can also accelerate wear on certain materials.",
+        "@type": "Answer",
+        "description": "Bay Area siding commonly suffers from sun exposure, rain, and wind, leading to fading, warping, cracking, and moisture intrusion. Coastal areas may see accelerated wear from salt air."
+      }
+    }
+  ],
+  "description": "Bay Area siding commonly suffers from sun exposure, rain, and wind, leading to fading, warping, cracking, and moisture intrusion. Coastal areas may see accelera"
+}

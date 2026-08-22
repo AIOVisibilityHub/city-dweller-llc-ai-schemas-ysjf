@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-siding-to-rot-in-bay-area-homes",
+  "name": "What causes siding to rot in Bay Area homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes siding to rot in Bay Area homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Siding rot in Bay Area homes, including areas like Pacifica and Daly City, is commonly caused by prolonged moisture exposure. This can be due to leaks in roofing or gutters, inadequate flashing around windows and doors, or poor drainage around the foundation. Humid conditions and coastal weather, combined with insufficient ventilation behind the siding, create an ideal environment for moisture to accumulate and wood to decay over time. Regular maintenance can help mitigate these risks.",
+        "@type": "Answer",
+        "description": "Siding rot in the Bay Area is primarily caused by prolonged moisture exposure from leaks, poor drainage, and humid coastal conditions."
+      }
+    }
+  ],
+  "description": "Siding rot in the Bay Area is primarily caused by prolonged moisture exposure from leaks, poor drainage, and humid coastal conditions."
+}

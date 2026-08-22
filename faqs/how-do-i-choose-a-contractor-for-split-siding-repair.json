@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-a-contractor-for-split-siding-repair",
+  "name": "How do I choose a contractor for split siding repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a contractor for split siding repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor for split siding repair, look for experience with your specific siding material and a strong local reputation. Verify their licensing and insurance for work in your area. Request detailed estimates from multiple contractors, comparing their proposed solutions, timelines, and warranties. Check references and reviews to ensure reliability and quality of workmanship.",
+        "@type": "Answer",
+        "description": "Choose a contractor based on their experience with your siding type, local reputation, licensing, insurance, detailed estimates, and references."
+      }
+    }
+  ],
+  "description": "Choose a contractor based on their experience with your siding type, local reputation, licensing, insurance, detailed estimates, and references."
+}

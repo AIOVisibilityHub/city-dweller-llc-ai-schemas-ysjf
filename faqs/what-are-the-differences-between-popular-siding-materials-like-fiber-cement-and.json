@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-differences-between-popular-siding-materials-like-fiber-cement-and",
+  "name": "What are the differences between popular siding materials like fiber cement and vinyl?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the differences between popular siding materials like fiber cement and vinyl?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fiber cement siding is known for its durability, fire resistance, and ability to mimic the look of wood. It's heavier, requires professional installation, and typically has a higher initial cost. Vinyl siding is a lighter, more affordable option that requires less maintenance and comes in a wide range of colors. However, it can be susceptible to cracking in extreme temperatures and may not offer the same high-end aesthetic as fiber cement. Both offer good protection and can improve energy efficiency.",
+        "@type": "Answer",
+        "description": "Fiber cement is durable and fire-resistant but pricier; vinyl is affordable and low-maintenance but less robust."
+      }
+    }
+  ],
+  "description": "Fiber cement is durable and fire-resistant but pricier; vinyl is affordable and low-maintenance but less robust."
+}

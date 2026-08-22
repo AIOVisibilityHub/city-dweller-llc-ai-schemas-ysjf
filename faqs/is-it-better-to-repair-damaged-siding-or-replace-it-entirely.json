@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/is-it-better-to-repair-damaged-siding-or-replace-it-entirely",
+  "name": "Is it better to repair damaged siding or replace it entirely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it better to repair damaged siding or replace it entirely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace siding depends on the extent and severity of the damage, as well as the age and overall condition of your existing siding. Minor, localized damage, such as a few cracked panels or small areas of rot, can often be effectively repaired. However, if the damage is widespread, covers multiple sections, or if your siding is nearing the end of its lifespan, a full replacement often provides better long-term value, improved curb appeal, and enhanced home protection.",
+        "@type": "Answer",
+        "description": "Repair minor, localized siding damage; consider full replacement if damage is widespread, extensive, or the siding is old, for better long-term value and protection."
+      }
+    }
+  ],
+  "description": "Repair minor, localized siding damage; consider full replacement if damage is widespread, extensive, or the siding is old, for better long-term value and protec"
+}

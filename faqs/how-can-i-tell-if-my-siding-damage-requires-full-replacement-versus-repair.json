@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-tell-if-my-siding-damage-requires-full-replacement-versus-repair",
+  "name": "How can I tell if my siding damage requires full replacement versus repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my siding damage requires full replacement versus repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Distinguishing between repair and full replacement depends on the extent and nature of the damage. If only a few panels are damaged due to isolated incidents like a storm or impact, targeted repairs might be sufficient. However, widespread issues such as extensive rot, pervasive cracking, buckling across large sections, or significant deterioration from prolonged weather exposure often indicate that the entire siding system is compromised. Additionally, if your siding is very old and its protective properties are diminished, replacement is generally a more cost-effective long-term solution than continuous spot repairs.",
+        "@type": "Answer",
+        "description": "Localized damage on a few panels may allow for repairs, but widespread issues like extensive rot, cracking, or buckling, or very old siding, typically necessitate full replacement."
+      }
+    }
+  ],
+  "description": "Localized damage on a few panels may allow for repairs, but widespread issues like extensive rot, cracking, or buckling, or very old siding, typically necessita"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-repairing-and-replacing-storm-damaged-siding",
+  "name": "What's the difference between repairing and replacing storm-damaged siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between repairing and replacing storm-damaged siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing storm-damaged siding typically involves fixing or replacing only the affected sections, aiming to seamlessly integrate new materials with the existing siding. This is suitable for localized damage. Replacement, on the other hand, means removing and installing new siding for an entire wall or the whole house. Replacement is considered when damage is widespread, the existing siding is very old or deteriorated, or matching repairs are not feasible. A contractor will recommend the best approach based on the damage assessment and your long-term goals.",
+        "@type": "Answer",
+        "description": "Repairing means fixing specific damaged sections, while replacement involves installing new siding for an entire wall or house."
+      }
+    }
+  ],
+  "description": "Repairing means fixing specific damaged sections, while replacement involves installing new siding for an entire wall or house."
+}

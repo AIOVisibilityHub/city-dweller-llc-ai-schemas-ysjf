@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-moisture-damage-to-siding",
+  "name": "What causes moisture damage to siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes moisture damage to siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Moisture damage to siding often results from several factors, including faulty gutters or downspouts directing water towards the house, cracks or gaps in the siding allowing water penetration, inadequate flashing around windows and doors, or prolonged exposure to rain and humidity without proper drainage. Common issues like rot, mold growth, or warping occur when water gets trapped behind the siding and cannot dry out. Regular maintenance and inspections can help identify and address these issues early.",
+        "@type": "Answer",
+        "description": "Moisture damage to siding is caused by faulty drainage, gaps in siding, inadequate flashing, or prolonged exposure to water, leading to rot or mold."
+      }
+    }
+  ],
+  "description": "Moisture damage to siding is caused by faulty drainage, gaps in siding, inadequate flashing, or prolonged exposure to water, leading to rot or mold."
+}

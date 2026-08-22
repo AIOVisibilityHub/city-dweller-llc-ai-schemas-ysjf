@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-minor-siding-damage-be-repaired-or-does-it-always-require-full-replacement",
+  "name": "Can minor siding damage be repaired, or does it always require full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can minor siding damage be repaired, or does it always require full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether minor siding damage can be repaired or requires full replacement depends on the extent and type of damage. Small cracks, localized rot in a few panels, or loose sections can often be effectively repaired by replacing individual pieces or patching. However, widespread rot, significant warping across large areas, or damage to the underlying structure usually necessitates a more extensive replacement. An assessment will determine the most cost-effective and durable solution.",
+        "@type": "Answer",
+        "description": "Minor siding damage can often be repaired with patching or panel replacement, but extensive or widespread issues may require full replacement."
+      }
+    }
+  ],
+  "description": "Minor siding damage can often be repaired with patching or panel replacement, but extensive or widespread issues may require full replacement."
+}

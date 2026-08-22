@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-rotted-siding-replacement-take",
+  "name": "How long does rotted siding replacement take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does rotted siding replacement take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of rotted siding replacement depends on the scope of the project. Small, localized repairs might only take a few days. However, replacing significant sections or an entire side of a house could take one to three weeks, especially if extensive structural repairs are needed. Weather conditions, crew size, and the complexity of the installation can also impact the timeline. Your contractor will provide an estimated completion date.",
+        "@type": "Answer",
+        "description": "Small repairs can take days, while larger projects involving significant sections might take one to three weeks, depending on damage and scope."
+      }
+    }
+  ],
+  "description": "Small repairs can take days, while larger projects involving significant sections might take one to three weeks, depending on damage and scope."
+}

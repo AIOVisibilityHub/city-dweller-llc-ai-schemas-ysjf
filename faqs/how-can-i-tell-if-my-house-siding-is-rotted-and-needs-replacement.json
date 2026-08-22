@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-tell-if-my-house-siding-is-rotted-and-needs-replacement",
+  "name": "How can I tell if my house siding is rotted and needs replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my house siding is rotted and needs replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of rotted siding include soft or spongy areas when pressed, visible discoloration, fungal growth like mold or mildew, or crumbling wood. You might also notice cracks, warping, or peeling paint in affected sections. Inspect areas near windows, doors, and the ground level, as these are common points for moisture intrusion. Early detection can prevent more extensive damage to the underlying structure of your home.",
+        "@type": "Answer",
+        "description": "Look for soft spots, discoloration, fungal growth, cracks, warping, or peeling paint on your siding."
+      }
+    }
+  ],
+  "description": "Look for soft spots, discoloration, fungal growth, cracks, warping, or peeling paint on your siding."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-paint-over-siding-caulk",
+  "name": "Can I paint over siding caulk?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I paint over siding caulk?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, most types of exterior siding caulk can be painted over, but it's crucial to use a paintable caulk. Acrylic latex caulk, which is common for general-purpose sealing, is typically paintable. Polyurethane caulk is also paintable and often preferred for its durability. Silicone caulk, however, is generally not paintable, and paint will not adhere to it properly, leading to peeling. Always check the product label to ensure the caulk is compatible with paint and allow the caulk to fully cure before painting, usually 24-72 hours depending on the product and conditions.",
+        "@type": "Answer",
+        "description": "Yes, most paintable caulks, like acrylic latex or polyurethane, can be painted over. Always check the product label and allow proper curing time."
+      }
+    }
+  ],
+  "description": "Yes, most paintable caulks, like acrylic latex or polyurethane, can be painted over. Always check the product label and allow proper curing time."
+}

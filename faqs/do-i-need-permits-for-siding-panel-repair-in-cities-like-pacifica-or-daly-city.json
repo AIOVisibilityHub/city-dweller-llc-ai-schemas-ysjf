@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-permits-for-siding-panel-repair-in-cities-like-pacifica-or-daly-city",
+  "name": "Do I need permits for siding panel repair in cities like Pacifica or Daly City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for siding panel repair in cities like Pacifica or Daly City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For minor siding panel repairs, such as replacing a few damaged pieces, permits are often not required. However, if the repair involves significant structural work, changes to the exterior footprint of the building, or replacement of a substantial portion of the siding (often exceeding 50% of an elevation), then a building permit may be necessary from your local city planning or building department, such as those in Pacifica or Daly City. It is always best to consult with your contractor or the local building department to confirm permit requirements before starting any significant project.",
+        "@type": "Answer",
+        "description": "Minor siding repairs usually don't require permits. Major work, structural changes, or extensive replacement may need permits from local building departments in cities like Pacifica or Daly City. Always confirm with your contractor or city."
+      }
+    }
+  ],
+  "description": "Minor siding repairs usually don't require permits. Major work, structural changes, or extensive replacement may need permits from local building departments in"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-replace-siding-on-a-house",
+  "name": "How long does it take to replace siding on a house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace siding on a house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for siding replacement depends on the size of your home, the type of siding material, and the crew's efficiency, as well as weather conditions. Most standard residential siding replacement projects can take anywhere from one to three weeks. Larger or more complex homes with intricate architectural details might take longer. We provide a detailed project schedule after our initial assessment to give you a clear understanding of the expected duration for your specific project.",
+        "@type": "Answer",
+        "description": "Siding replacement typically takes one to three weeks, depending on home size, material, and weather conditions."
+      }
+    }
+  ],
+  "description": "Siding replacement typically takes one to three weeks, depending on home size, material, and weather conditions."
+}

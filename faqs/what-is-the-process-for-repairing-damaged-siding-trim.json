@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-repairing-damaged-siding-trim",
+  "name": "What is the process for repairing damaged siding trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing damaged siding trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our siding trim repair process typically begins with a thorough inspection to assess the damage. We then remove any compromised sections of trim, ensuring the underlying structure is sound. New trim pieces are cut to fit, primed, and installed using appropriate fasteners and sealants. Finally, the repaired area is painted to match your existing exterior, ensuring a seamless and protective finish. We focus on durable materials and proper installation techniques.",
+        "@type": "Answer",
+        "description": "The repair process involves inspecting damage, removing compromised trim, installing new pieces, sealing, and painting to match your home's exterior."
+      }
+    }
+  ],
+  "description": "The repair process involves inspecting damage, removing compromised trim, installing new pieces, sealing, and painting to match your home's exterior."
+}

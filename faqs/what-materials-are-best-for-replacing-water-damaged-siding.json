@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-materials-are-best-for-replacing-water-damaged-siding",
+  "name": "What materials are best for replacing water damaged siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are best for replacing water damaged siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best materials depend on your home's existing siding, your budget, and desired durability. Options include fiber cement, which is highly resistant to moisture and rot, vinyl siding for its low maintenance and water resistance, or treated wood siding. Matching existing materials is often preferred for aesthetics, but upgrading to more water-resistant options can be a wise long-term investment, especially in damp climates.",
+        "@type": "Answer",
+        "description": "Options for replacing water damaged siding include fiber cement, vinyl, or treated wood, depending on existing materials, budget, and durability needs."
+      }
+    }
+  ],
+  "description": "Options for replacing water damaged siding include fiber cement, vinyl, or treated wood, depending on existing materials, budget, and durability needs."
+}

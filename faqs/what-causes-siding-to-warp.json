@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-siding-to-warp",
+  "name": "What causes siding to warp?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes siding to warp?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Siding warping is commonly caused by exposure to extreme weather conditions, particularly rapid temperature fluctuations, moisture absorption, and prolonged sun exposure. Installation errors, such as improper fastening or inadequate expansion gaps, can also contribute to warping. The type of siding material plays a role, with some materials being more susceptible to warping than others when exposed to these environmental stressors. Understanding the cause is key to effective repair and preventing future occurrences.",
+        "@type": "Answer",
+        "description": "Siding warps due to extreme weather, moisture, sun exposure, or improper installation. Material type also influences susceptibility."
+      }
+    }
+  ],
+  "description": "Siding warps due to extreme weather, moisture, sun exposure, or improper installation. Material type also influences susceptibility."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-repair-loose-siding-instead-of-replacing-it",
+  "name": "When should I repair loose siding instead of replacing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair loose siding instead of replacing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing loose siding is often a good option if the damage is localized and the siding material itself is still in good condition. If only a few panels are loose or detached, and there are no signs of widespread rot, mold, or significant structural damage underneath, a targeted repair can be cost-effective. Replacement becomes necessary when damage is extensive, the siding material is deteriorated, or there are significant underlying issues that require a complete overhaul to prevent future problems.",
+        "@type": "Answer",
+        "description": "Repair is suitable for localized damage where the siding material is still sound; replacement is needed for widespread deterioration or major underlying issues."
+      }
+    }
+  ],
+  "description": "Repair is suitable for localized damage where the siding material is still sound; replacement is needed for widespread deterioration or major underlying issues."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-signs-that-my-home-s-siding-needs-to-be-replaced",
+  "name": "What are the signs that my home's siding needs to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my home's siding needs to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key indicators that your siding may need replacement include visible damage such as cracks, warps, or rot, especially in wood siding. Fading, peeling paint, or mold/mildew growth that returns quickly after cleaning can also be signs. Increased energy bills may suggest compromised insulation or air leaks through failing siding. Another serious sign is the presence of pests entering through gaps or holes. If you notice these issues, it's advisable to have a professional inspection to assess the extent of the damage.",
+        "@type": "Answer",
+        "description": "Signs your siding needs replacement include cracks, warps, rot, persistent mold, peeling paint, increased energy bills, or pest intrusion. A professional inspection can confirm the need."
+      }
+    }
+  ],
+  "description": "Signs your siding needs replacement include cracks, warps, rot, persistent mold, peeling paint, increased energy bills, or pest intrusion. A professional inspec"
+}

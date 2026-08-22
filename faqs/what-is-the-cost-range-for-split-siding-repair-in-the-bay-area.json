@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-cost-range-for-split-siding-repair-in-the-bay-area",
+  "name": "What is the cost range for split siding repair in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost range for split siding repair in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of split siding repair in the Bay Area varies significantly based on the material, the size and number of damaged sections, and the complexity of access. Minor repairs, like sealing a small crack, might cost a few hundred dollars. Replacing multiple sections of specialized siding, particularly on multi-story homes, can range from $800 to several thousand dollars. Obtaining a detailed estimate from a local contractor is recommended.",
+        "@type": "Answer",
+        "description": "Split siding repair costs in the Bay Area vary from a few hundred dollars for minor fixes to several thousands for extensive work."
+      }
+    }
+  ],
+  "description": "Split siding repair costs in the Bay Area vary from a few hundred dollars for minor fixes to several thousands for extensive work."
+}

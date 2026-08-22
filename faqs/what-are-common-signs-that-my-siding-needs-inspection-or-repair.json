@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-signs-that-my-siding-needs-inspection-or-repair",
+  "name": "What are common signs that my siding needs inspection or repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my siding needs inspection or repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs include visible cracks, warping, blistering, or peeling paint. You might also notice soft spots when pressed, mold or mildew growth, loose or missing panels, and higher energy bills due to compromised insulation. Water stains on interior walls near exterior walls or pest activity behind the siding are also strong indicators that an inspection is overdue.",
+        "@type": "Answer",
+        "description": "Look for cracks, warping, peeling paint, soft spots, mold, loose panels, high energy bills, or water stains inside your home."
+      }
+    }
+  ],
+  "description": "Look for cracks, warping, peeling paint, soft spots, mold, loose panels, high energy bills, or water stains inside your home."
+}

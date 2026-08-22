@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-tell-if-my-siding-is-warped",
+  "name": "How can I tell if my siding is warped?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my siding is warped?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Visual inspection is the primary way to identify warped siding. Look for bowing, buckling, rippling, or uneven surfaces on the panels. Gaps appearing between siding panels or where siding meets trim are also indicators. Additionally, if paint or finishes are cracking, peeling, or bubbling, it could be a sign of moisture intrusion linked to warped siding. Early detection can prevent more extensive damage to your home's exterior.",
+        "@type": "Answer",
+        "description": "Look for bowing, buckling, ripples, or uneven surfaces on siding panels. Gaps and peeling paint can also indicate warping."
+      }
+    }
+  ],
+  "description": "Look for bowing, buckling, ripples, or uneven surfaces on siding panels. Gaps and peeling paint can also indicate warping."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-siding-leak-repair-take",
+  "name": "How long does siding leak repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does siding leak repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of siding leak repair depends on the complexity and scope of the damage. Minor repairs, such as re-caulking or replacing a small area, might be completed in a few hours to a single day. More extensive repairs involving multiple damaged sections, underlying structural issues, or flashing replacement could take several days. A professional contractor can provide a more accurate timeline after a thorough assessment of your specific situation.",
+        "@type": "Answer",
+        "description": "Repair time varies from a few hours for minor leaks to several days for extensive damage, depending on the complexity."
+      }
+    }
+  ],
+  "description": "Repair time varies from a few hours for minor leaks to several days for extensive damage, depending on the complexity."
+}

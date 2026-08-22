@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-siding-sealing",
+  "name": "What is the typical process for siding sealing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for siding sealing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The siding sealing process typically begins with a thorough cleaning of the siding surface to remove dirt, debris, and loose paint, ensuring proper sealant adhesion. Any existing damaged caulk or sealant is removed, and necessary repairs to the siding itself are completed. Once the surface is clean and dry, a high-quality, durable sealant suitable for the specific siding material is carefully applied to all seams, joints, and penetrations. Curing time varies by product, but usually takes 24-48 hours.",
+        "@type": "Answer",
+        "description": "The process involves cleaning siding, repairing damage, removing old caulk, then applying new sealant to all seams and joints."
+      }
+    }
+  ],
+  "description": "The process involves cleaning siding, repairing damage, removing old caulk, then applying new sealant to all seams and joints."
+}

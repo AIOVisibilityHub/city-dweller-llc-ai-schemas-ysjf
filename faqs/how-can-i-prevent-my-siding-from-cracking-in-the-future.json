@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-prevent-my-siding-from-cracking-in-the-future",
+  "name": "How can I prevent my siding from cracking in the future?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent my siding from cracking in the future?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing future siding cracks involves several measures. Regular maintenance, such as cleaning your siding and inspecting it for minor damage, can help. Ensure proper drainage around your home to prevent moisture accumulation. Trim trees and shrubs to prevent contact with siding, which can cause impact damage or hold moisture against the surface. Applying a fresh coat of paint or sealant every few years, depending on the siding type, can also protect against UV degradation and weather exposure.",
+        "@type": "Answer",
+        "description": "Prevent siding cracks by regular cleaning, inspecting for damage, ensuring proper drainage, trimming foliage, and reapplying protective coatings."
+      }
+    }
+  ],
+  "description": "Prevent siding cracks by regular cleaning, inspecting for damage, ensuring proper drainage, trimming foliage, and reapplying protective coatings."
+}

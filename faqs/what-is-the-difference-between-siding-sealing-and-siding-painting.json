@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-siding-sealing-and-siding-painting",
+  "name": "What is the difference between siding sealing and siding painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between siding sealing and siding painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Siding sealing and siding painting serve different primary purposes, though both contribute to exterior protection. Painting focuses on aesthetics and providing a surface-level protective coating against weathering and UV rays. Sealing, however, specifically targets gaps, cracks, and joints in the siding itself to create a watertight and airtight barrier. While some paints have sealing properties, dedicated sealants offer superior flexibility and gap-filling capabilities essential for preventing moisture intrusion and improving energy efficiency at the structural level. Often, both are done for comprehensive protection.",
+        "@type": "Answer",
+        "description": "Painting focuses on aesthetics and surface protection, while sealing specifically fills gaps and cracks for a watertight, airtight barrier."
+      }
+    }
+  ],
+  "description": "Painting focuses on aesthetics and surface protection, while sealing specifically fills gaps and cracks for a watertight, airtight barrier."
+}

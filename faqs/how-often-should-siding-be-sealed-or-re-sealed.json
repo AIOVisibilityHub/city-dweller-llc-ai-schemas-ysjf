@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-often-should-siding-be-sealed-or-re-sealed",
+  "name": "How often should siding be sealed or re-sealed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should siding be sealed or re-sealed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The frequency for siding sealing depends on the type of siding, the sealant used, and exposure to weather elements. Generally, sealants can last anywhere from 5 to 15 years. Regular inspection for cracks, peeling, or signs of moisture intrusion can indicate when re-sealing is necessary. For homes in the Bay Area, where homes experience varying conditions, an annual inspection is recommended to determine the optimal re-sealing schedule and prevent potential damage.",
+        "@type": "Answer",
+        "description": "Siding typically needs re-sealing every 5 to 15 years, depending on siding type and weather exposure. Annual inspections help determine the optimal schedule."
+      }
+    }
+  ],
+  "description": "Siding typically needs re-sealing every 5 to 15 years, depending on siding type and weather exposure. Annual inspections help determine the optimal schedule."
+}

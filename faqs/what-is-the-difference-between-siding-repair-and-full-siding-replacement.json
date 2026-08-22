@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-siding-repair-and-full-siding-replacement",
+  "name": "What is the difference between siding repair and full siding replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between siding repair and full siding replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Siding repair addresses localized damage, such as a few cracked panels or a small section with rot. It's suitable when the majority of the siding is still in good condition. Full siding replacement, on the other hand, involves removing and replacing all the siding on your home. This is recommended when damage is widespread, the siding is significantly aged, or you're looking to improve overall energy efficiency and curb appeal. We can assess your home to recommend the most appropriate solution.",
+        "@type": "Answer",
+        "description": "Siding repair fixes localized damage, while full siding replacement involves replacing all siding due to widespread damage, age, or a desire for a complete aesthetic and efficiency upgrade."
+      }
+    }
+  ],
+  "description": "Siding repair fixes localized damage, while full siding replacement involves replacing all siding due to widespread damage, age, or a desire for a complete aest"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-repair-my-siding-versus-replacing-it-entirely",
+  "name": "When should I repair my siding versus replacing it entirely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair my siding versus replacing it entirely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If only a few panels are damaged, and the majority of your siding is in good condition, repair is generally the most cost-effective option. However, if there's widespread damage, significant deterioration across multiple sections, or if your siding is nearing the end of its lifespan, a full replacement might be more economical in the long run. A professional assessment can help you make an informed decision.",
+        "@type": "Answer",
+        "description": "Choose repair for isolated damage and good overall siding condition. Consider full replacement for widespread damage, significant deterioration, or if siding is at end-of-life."
+      }
+    }
+  ],
+  "description": "Choose repair for isolated damage and good overall siding condition. Consider full replacement for widespread damage, significant deterioration, or if siding is"
+}

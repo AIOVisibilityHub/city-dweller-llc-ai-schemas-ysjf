@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-repair-cracked-siding",
+  "name": "How long does it take to repair cracked siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair cracked siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of cracked siding repair depends on the scope of the project. A small, isolated crack or a single damaged panel can often be repaired in a few hours. Larger areas of damage, or repairs requiring scaffolding and multiple panels, may take one to several days. We aim to complete repairs efficiently while ensuring quality workmanship, minimizing disruption to your home in cities like Pacifica or Daly City.",
+        "@type": "Answer",
+        "description": "Small cracked siding repairs can take a few hours. Larger jobs involving multiple panels may take one to several days, depending on the extent."
+      }
+    }
+  ],
+  "description": "Small cracked siding repairs can take a few hours. Larger jobs involving multiple panels may take one to several days, depending on the extent."
+}

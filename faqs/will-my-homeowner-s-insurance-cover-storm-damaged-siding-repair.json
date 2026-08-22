@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-my-homeowner-s-insurance-cover-storm-damaged-siding-repair",
+  "name": "Will my homeowner's insurance cover storm-damaged siding repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover storm-damaged siding repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many homeowner's insurance policies do cover damage caused by sudden and accidental events like storms, including wind, hail, and heavy rain. Coverage typically depends on your specific policy terms, deductible, and the cause of the damage. It's crucial to review your policy documents or contact your insurance provider directly to understand your coverage limits and the claims process. Your contractor may also be able to assist with documentation and communication with your insurer.",
+        "@type": "Answer",
+        "description": "Most homeowner's insurance policies cover storm damage to siding, but coverage depends on your specific policy and deductible."
+      }
+    }
+  ],
+  "description": "Most homeowner's insurance policies cover storm damage to siding, but coverage depends on your specific policy and deductible."
+}

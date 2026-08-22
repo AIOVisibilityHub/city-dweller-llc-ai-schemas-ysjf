@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-my-siding-needs-to-be-replaced-or-repaired",
+  "name": "How do I know if my siding needs to be replaced or repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my siding needs to be replaced or repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repair and replacement depends on the extent and type of damage. Minor issues like small cracks or a few loose panels can often be repaired. However, widespread rot, significant cracking, warping, or multiple missing panels typically indicate that full replacement is necessary. If water is penetrating behind the siding, causing interior damage, replacement is usually the most effective solution to prevent further issues. An inspection by a professional contractor can determine the best course of action.",
+        "@type": "Answer",
+        "description": "Minor damage like small cracks can be repaired, but widespread rot, significant warping, or missing panels usually require full siding replacement. A professional can assess the damage."
+      }
+    }
+  ],
+  "description": "Minor damage like small cracks can be repaired, but widespread rot, significant warping, or missing panels usually require full siding replacement. A profession"
+}

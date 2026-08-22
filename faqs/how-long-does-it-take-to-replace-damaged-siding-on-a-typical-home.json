@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-replace-damaged-siding-on-a-typical-home",
+  "name": "How long does it take to replace damaged siding on a typical home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace damaged siding on a typical home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration for replacing damaged siding varies based on the scope of the project. For a typical single-family home with moderate damage, the process can take anywhere from one to three weeks. Factors influencing this timeline include the size of the house, the type of siding material being installed, weather conditions, and the need for any structural repairs beneath the siding. A professional contractor can provide a more precise timeline after assessing your property.",
+        "@type": "Answer",
+        "description": "Siding replacement on a typical home can take 1 to 3 weeks, depending on the house size, siding material, weather, and extent of damage."
+      }
+    }
+  ],
+  "description": "Siding replacement on a typical home can take 1 to 3 weeks, depending on the house size, siding material, weather, and extent of damage."
+}

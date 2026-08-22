@@ -1,0 +1,29 @@
+{
+  "url": "http://bayareacitydweller.com",
+  "name": "General Contractor Services",
+  "@type": "HomeAndConstructionBusiness",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Bay Area"
+  },
+  "@context": "https://schema.org",
+  "provider": {
+    "url": "http://bayareacitydweller.com",
+    "name": "City Dweller, LLC",
+    "@type": "HomeAndConstructionBusiness",
+    "telephone": "650-532-5858"
+  },
+  "telephone": "650-532-5858",
+  "areaServed": [
+    {
+      "name": "Bay Area",
+      "@type": "City"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "@type": "City"
+    }
+  ],
+  "description": "City Dweller, LLC provides General Contractor Services in Bay Area, San Francisco Bay Area. City Dweller, LLC provides comprehensive home improvement services in the San Francisco Bay Area, specializing in installations of exterior sidings, windows, doors, sliding glass doors, and flooring, alongside handyman services. The company focuses on quality craftsmanship, customer satisfaction, and transparent communication, transforming properties into dream homes.",
+  "serviceType": "Home Improvement — General Contractor Services"
+}

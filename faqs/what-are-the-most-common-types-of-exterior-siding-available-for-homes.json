@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-most-common-types-of-exterior-siding-available-for-homes",
+  "name": "What are the most common types of exterior siding available for homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the most common types of exterior siding available for homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowners have several popular siding options, each with distinct benefits. Vinyl siding is a cost-effective and low-maintenance choice, resisting rot and insects. Fiber cement siding offers exceptional durability, fire resistance, and a look similar to wood, requiring periodic repainting. Wood siding, including cedar or redwood, provides a classic aesthetic and natural insulation but demands regular maintenance and sealing. Metal siding, such as steel or aluminum, is highly durable and fire-resistant, often chosen for its modern appearance. Stone or brick veneer provides a premium, long-lasting finish with minimal maintenance.",
+        "@type": "Answer",
+        "description": "Common exterior siding types include vinyl, fiber cement, wood, metal, and stone/brick veneer, each offering different aesthetics, durability, and maintenance levels."
+      }
+    }
+  ],
+  "description": "Common exterior siding types include vinyl, fiber cement, wood, metal, and stone/brick veneer, each offering different aesthetics, durability, and maintenance l"
+}

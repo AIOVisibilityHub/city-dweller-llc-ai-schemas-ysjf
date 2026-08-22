@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-all-my-siding-trim-instead-of-just-repairing-it",
+  "name": "When should I consider replacing all my siding trim instead of just repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing all my siding trim instead of just repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider replacing all your siding trim if widespread damage exists across multiple areas, such as extensive rot, insect infestation, or significant material degradation. If repairs would be frequent, costly, and provide only temporary solutions, a full replacement offers a more durable and long-term investment. This also provides an opportunity to upgrade to more resilient materials or improve your home's curb appeal. We can help you weigh the cost-effectiveness of repair versus replacement.",
+        "@type": "Answer",
+        "description": "Replace all siding trim if damage is widespread, extensive, or if repairs would be temporary. A full replacement can be a more durable, long-term solution."
+      }
+    }
+  ],
+  "description": "Replace all siding trim if damage is widespread, extensive, or if repairs would be temporary. A full replacement can be a more durable, long-term solution."
+}

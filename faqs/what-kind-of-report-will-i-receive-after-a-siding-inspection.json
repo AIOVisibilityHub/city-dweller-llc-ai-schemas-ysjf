@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-report-will-i-receive-after-a-siding-inspection",
+  "name": "What kind of report will I receive after a siding inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of report will I receive after a siding inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a siding inspection, you will typically receive a comprehensive report detailing the findings. This report often includes photographs of identified issues, a description of the damage, and recommendations for necessary repairs or maintenance. It will also outline the overall condition of your siding and any areas of concern, providing a clear understanding of your home's exterior health.",
+        "@type": "Answer",
+        "description": "You'll receive a detailed report with photos, descriptions of damage, repair recommendations, and an overall assessment of your siding's condition."
+      }
+    }
+  ],
+  "description": "You'll receive a detailed report with photos, descriptions of damage, repair recommendations, and an overall assessment of your siding's condition."
+}

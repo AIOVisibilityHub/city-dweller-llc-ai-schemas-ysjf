@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-storm-damaged-siding-repair",
+  "name": "What is the typical process for storm-damaged siding repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for storm-damaged siding repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process begins with a professional inspection to assess the extent and type of damage, identifying all affected areas and underlying issues. Next, a detailed estimate and repair plan are provided. Once approved, the contractor will secure necessary materials and permits, if required. The repair involves carefully removing damaged sections, addressing any underlying issues like water damage or structural compromise, and installing new siding panels or sections. The goal is to match existing siding as closely as possible and ensure proper weatherproofing. Finally, the site is cleaned up, and a final inspection is conducted.",
+        "@type": "Answer",
+        "description": "The siding repair process involves inspection, detailed estimate, material procurement, removal of damaged sections, installation of new siding, and site cleanup."
+      }
+    }
+  ],
+  "description": "The siding repair process involves inspection, detailed estimate, material procurement, removal of damaged sections, installation of new siding, and site cleanu"
+}

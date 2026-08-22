@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-siding-repair-typically-cost-in-the-bay-area",
+  "name": "How much does siding repair typically cost in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does siding repair typically cost in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Siding repair costs in the Bay Area vary widely depending on the type of siding, the extent of the damage, and accessibility. Minor repairs, like replacing a few panels, will be significantly less expensive than repairing extensive rot or structural issues. Getting a detailed estimate from a local contractor like City Dweller, LLC is essential for an accurate cost assessment.",
+        "@type": "Answer",
+        "description": "Costs for siding repair in the Bay Area depend on siding type, damage extent, and accessibility. Minor repairs are less costly than extensive issues; a detailed estimate is recommended."
+      }
+    }
+  ],
+  "description": "Costs for siding repair in the Bay Area depend on siding type, damage extent, and accessibility. Minor repairs are less costly than extensive issues; a detailed"
+}

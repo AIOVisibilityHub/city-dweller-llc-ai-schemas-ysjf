@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-contact-a-contractor-for-storm-damaged-siding",
+  "name": "When should I contact a contractor for storm-damaged siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I contact a contractor for storm-damaged siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is advisable to contact a contractor as soon as you notice any signs of storm damage to your siding. Early assessment can prevent minor issues from escalating into more significant problems, such as water infiltration, mold growth, or structural decay. Even if the damage seems minor, it's best to have a professional inspection to ensure the integrity of your home's exterior envelope. Prompt action can also be crucial for insurance claims, as many policies have specific timelines for reporting damage.",
+        "@type": "Answer",
+        "description": "Contact a contractor immediately after noticing storm damage to your siding to prevent further issues and facilitate potential insurance claims."
+      }
+    }
+  ],
+  "description": "Contact a contractor immediately after noticing storm damage to your siding to prevent further issues and facilitate potential insurance claims."
+}

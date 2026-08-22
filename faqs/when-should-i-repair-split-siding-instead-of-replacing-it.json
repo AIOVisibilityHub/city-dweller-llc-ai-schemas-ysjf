@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-repair-split-siding-instead-of-replacing-it",
+  "name": "When should I repair split siding instead of replacing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair split siding instead of replacing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing split siding is typically suitable for isolated damage where the structural integrity of the surrounding panels is still sound. If the split is minor and localized, a repair can be a cost-effective solution. Replacement becomes necessary when there is extensive damage, multiple splits, rot, mold, or if the siding material has deteriorated significantly beyond simple repair. An assessment by a professional can determine the best course of action.",
+        "@type": "Answer",
+        "description": "Repairing split siding is best for isolated damage; replacement is needed for extensive damage, rot, or widespread deterioration."
+      }
+    }
+  ],
+  "description": "Repairing split siding is best for isolated damage; replacement is needed for extensive damage, rot, or widespread deterioration."
+}

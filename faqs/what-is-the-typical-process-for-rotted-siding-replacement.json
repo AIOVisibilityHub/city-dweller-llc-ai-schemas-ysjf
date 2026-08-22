@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-rotted-siding-replacement",
+  "name": "What is the typical process for rotted siding replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for rotted siding replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The rotted siding replacement process begins with an inspection to identify all damaged areas. Next, the old, rotted sections are carefully removed. Any underlying damage to the sheathing or framing is then repaired. New siding material, often matching the existing type or an upgrade, is then cut and installed, ensuring proper waterproofing and flashing. Finally, the new siding is sealed, primed, and painted to match your home's exterior.",
+        "@type": "Answer",
+        "description": "The process involves inspection, removal of old siding, repair of underlying damage, installation of new siding with proper waterproofing, and finishing."
+      }
+    }
+  ],
+  "description": "The process involves inspection, removal of old siding, repair of underlying damage, installation of new siding with proper waterproofing, and finishing."
+}

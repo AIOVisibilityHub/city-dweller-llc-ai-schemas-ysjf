@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-contractors-match-new-siding-with-existing-siding",
+  "name": "How do contractors match new siding with existing siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do contractors match new siding with existing siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Matching new siding to existing siding can be challenging due to fading, discontinued products, or variations in manufacturing. Contractors employ several strategies: first, they attempt to source the exact brand, style, and color if possible. If not, they may suggest matching the closest available shade and texture, or recommend replacing an entire wall or section to ensure a consistent appearance. Sometimes, painting newly installed siding to match weathered existing panels is an option, especially for wood or fiber cement.",
+        "@type": "Answer",
+        "description": "Contractors match new siding by finding exact replacements, sourcing the closest available shade/texture, or recommending replacing an entire wall for consistency, sometimes painting new siding to match."
+      }
+    }
+  ],
+  "description": "Contractors match new siding by finding exact replacements, sourcing the closest available shade/texture, or recommending replacing an entire wall for consisten"
+}

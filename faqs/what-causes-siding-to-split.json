@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-siding-to-split",
+  "name": "What causes siding to split?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes siding to split?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Siding splits can be caused by various factors, including extreme temperature fluctuations that lead to expansion and contraction, moisture absorption followed by drying, which stresses the material, and impact damage from debris or accidents. Poor installation, such as nails driven too tightly, can also contribute to splitting. UV exposure and age can also degrade siding material, making it more susceptible to damage.",
+        "@type": "Answer",
+        "description": "Siding splits are often caused by temperature changes, moisture absorption, impact damage, improper installation, or aging."
+      }
+    }
+  ],
+  "description": "Siding splits are often caused by temperature changes, moisture absorption, impact damage, improper installation, or aging."
+}

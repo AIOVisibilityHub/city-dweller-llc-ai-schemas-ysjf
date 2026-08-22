@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-partial-siding-replacement-project-take",
+  "name": "How long does a typical partial siding replacement project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical partial siding replacement project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a partial siding replacement project varies depending on the scope and complexity. For a small, localized repair, it might take a single day or a few days. Larger projects involving multiple sections or intricate material matching could extend to a week or more. Factors like weather conditions, material availability, and the specific crew size can also impact the timeline. Your contractor should provide a detailed project schedule.",
+        "@type": "Answer",
+        "description": "Project duration depends on scope and complexity, ranging from one day for small repairs to over a week for larger projects."
+      }
+    }
+  ],
+  "description": "Project duration depends on scope and complexity, ranging from one day for small repairs to over a week for larger projects."
+}

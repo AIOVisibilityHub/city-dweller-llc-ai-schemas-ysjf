@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-warped-siding-be-repaired-or-replaced",
+  "name": "When should warped siding be repaired or replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should warped siding be repaired or replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor warping that doesn't compromise the integrity of your home's exterior or allow moisture intrusion might be repairable. However, if warping is severe, widespread, or is leading to water damage, mold growth, or structural issues, replacement is often the more prudent option. It's crucial to address warped siding promptly, as ignoring it can lead to more significant problems, affecting insulation, interior walls, and your home's overall structural health.",
+        "@type": "Answer",
+        "description": "Minor warping may be repairable, but severe warping, especially with water damage or structural concerns, usually requires replacement."
+      }
+    }
+  ],
+  "description": "Minor warping may be repairable, but severe warping, especially with water damage or structural concerns, usually requires replacement."
+}

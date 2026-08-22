@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-old-siding-replacement",
+  "name": "What is the typical process for old siding replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for old siding replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The siding replacement process generally begins with a consultation and material selection. After permits are secured, the old siding is carefully removed and disposed of. Next, the exterior walls are inspected for any underlying damage, such as rot or moisture issues, which are then repaired. A new weather barrier and insulation might be installed before the new siding is applied according to manufacturer specifications. Finally, trim, soffits, and fascia are reinstalled or replaced, and the site is cleaned up.",
+        "@type": "Answer",
+        "description": "The process involves consultation, old siding removal, wall inspection, repairs, new weather barrier/insulation, new siding installation, and trim work."
+      }
+    }
+  ],
+  "description": "The process involves consultation, old siding removal, wall inspection, repairs, new weather barrier/insulation, new siding installation, and trim work."
+}

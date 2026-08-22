@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-repairing-moisture-damaged-siding",
+  "name": "What is the typical process for repairing moisture-damaged siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for repairing moisture-damaged siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically begins with a thorough inspection to assess the extent of the damage and identify the moisture source. Next, the damaged siding and any underlying rotten sheathing or framing are removed. The affected areas are cleaned, treated for mold if present, and allowed to dry completely. New sheathing or framing is installed if needed, followed by appropriate moisture barriers and new siding panels. The repair concludes with matching paint or stain to seamlessly blend the new materials with existing siding.",
+        "@type": "Answer",
+        "description": "The process involves inspection, removal of damaged materials, drying, treating for mold, replacing sheathing/framing, installing new siding, and matching finishes."
+      }
+    }
+  ],
+  "description": "The process involves inspection, removal of damaged materials, drying, treating for mold, replacing sheathing/framing, installing new siding, and matching finis"
+}

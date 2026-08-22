@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/does-homeowner-s-insurance-cover-water-damaged-siding",
+  "name": "Does homeowner's insurance cover water damaged siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does homeowner's insurance cover water damaged siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance typically covers sudden and accidental water damage, such as damage from a burst pipe or storm. However, damage resulting from neglect, poor maintenance, or long-term issues like chronic leaks may not be covered. It's essential to review your specific policy and contact your insurance provider to understand your coverage limits and claim procedures before initiating repairs.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance often covers sudden water damage, but typically not damage from neglect or long-term issues. Check your specific policy."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance often covers sudden water damage, but typically not damage from neglect or long-term issues. Check your specific policy."
+}

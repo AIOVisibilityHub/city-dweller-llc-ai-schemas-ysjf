@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-siding-materials-are-most-prone-to-warping",
+  "name": "What siding materials are most prone to warping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What siding materials are most prone to warping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Certain siding materials are more susceptible to warping than others. Lower-quality vinyl siding, especially thinner panels, can be prone to warping under intense heat or rapid temperature changes. Wood siding, if not properly sealed or maintained, can absorb moisture and then warp as it dries. Fiber cement siding is generally more resistant to warping due to its composition, but improper installation or significant impact can still affect its integrity.",
+        "@type": "Answer",
+        "description": "Lower-quality vinyl and unsealed wood siding are more prone to warping. Fiber cement is generally more resistant."
+      }
+    }
+  ],
+  "description": "Lower-quality vinyl and unsealed wood siding are more prone to warping. Fiber cement is generally more resistant."
+}

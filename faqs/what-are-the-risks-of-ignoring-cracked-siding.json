@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-risks-of-ignoring-cracked-siding",
+  "name": "What are the risks of ignoring cracked siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the risks of ignoring cracked siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ignoring cracked siding can lead to significant problems for your home. Cracks allow moisture to penetrate behind the siding, which can cause wood rot in the sheathing and framing, leading to structural damage. This moisture can also encourage mold and mildew growth inside walls. Additionally, cracked siding compromises your home's insulation, potentially increasing energy bills, and reduces its curb appeal and overall value.",
+        "@type": "Answer",
+        "description": "Ignoring cracked siding can lead to moisture damage, wood rot, mold growth, reduced insulation, and decreased home value."
+      }
+    }
+  ],
+  "description": "Ignoring cracked siding can lead to moisture damage, wood rot, mold growth, reduced insulation, and decreased home value."
+}

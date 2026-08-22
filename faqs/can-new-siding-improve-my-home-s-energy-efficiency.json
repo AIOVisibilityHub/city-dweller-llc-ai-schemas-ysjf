@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-new-siding-improve-my-home-s-energy-efficiency",
+  "name": "Can new siding improve my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can new siding improve my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, replacing old siding can significantly improve your home's energy efficiency. Modern siding materials often come with integrated insulation or can be installed with an additional insulation layer beneath them. This creates a better thermal envelope around your home, reducing heat transfer and lessening the burden on your HVAC system. The result is a more comfortable indoor environment and potentially lower heating and cooling costs throughout the year.",
+        "@type": "Answer",
+        "description": "Yes, new siding, especially with added insulation, enhances your home's thermal envelope, reducing energy loss and lowering utility bills."
+      }
+    }
+  ],
+  "description": "Yes, new siding, especially with added insulation, enhances your home's thermal envelope, reducing energy loss and lowering utility bills."
+}

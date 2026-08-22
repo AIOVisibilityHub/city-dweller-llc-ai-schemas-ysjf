@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-preventive-measures-can-i-take-to-avoid-moisture-damage-to-my-siding",
+  "name": "What preventive measures can I take to avoid moisture damage to my siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preventive measures can I take to avoid moisture damage to my siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing moisture damage involves regular maintenance and attention to your home's exterior. Ensure your gutters and downspouts are clean, functional, and direct water away from the foundation. Trim trees and shrubs away from your house to promote air circulation and prevent moisture buildup. Regularly inspect your siding for cracks, gaps, or peeling paint and promptly caulk or repair them. Also, ensure proper flashing around windows, doors, and other penetrations, and consider annual inspections by a professional.",
+        "@type": "Answer",
+        "description": "Prevent moisture damage by maintaining gutters, trimming landscaping, sealing cracks, ensuring proper flashing, and conducting regular inspections."
+      }
+    }
+  ],
+  "description": "Prevent moisture damage by maintaining gutters, trimming landscaping, sealing cracks, ensuring proper flashing, and conducting regular inspections."
+}

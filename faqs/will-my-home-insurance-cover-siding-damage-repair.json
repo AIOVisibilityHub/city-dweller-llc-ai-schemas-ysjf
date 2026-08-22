@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-my-home-insurance-cover-siding-damage-repair",
+  "name": "Will my home insurance cover siding damage repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my home insurance cover siding damage repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Home insurance often covers siding damage if it results from a sudden and accidental event, such as a severe storm, hail, fire, or vandalism. It typically does not cover damage from normal wear and tear, lack of maintenance, or gradual deterioration. Reviewing your specific policy is crucial, as coverage details vary. Your contractor can provide an assessment report and cost estimate, which you'll need when filing a claim with your insurance provider.",
+        "@type": "Answer",
+        "description": "Insurance may cover siding damage from sudden events like storms or fire, but typically not wear and tear. Check your policy for specifics."
+      }
+    }
+  ],
+  "description": "Insurance may cover siding damage from sudden events like storms or fire, but typically not wear and tear. Check your policy for specifics."
+}

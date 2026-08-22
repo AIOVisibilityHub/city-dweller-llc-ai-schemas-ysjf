@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-signs-of-water-damaged-siding",
+  "name": "What are the common signs of water damaged siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of water damaged siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of water damaged siding include warping, cracking, bubbling, soft spots when pressed, and discoloration such as stains or mold/mildew growth. Peeling paint is another indicator. If you notice any of these issues, especially after heavy rains or prolonged moisture exposure, it's important to investigate further as the damage can extend beyond the surface.",
+        "@type": "Answer",
+        "description": "Signs of water damaged siding include warping, cracking, bubbling, soft spots, discoloration, and peeling paint."
+      }
+    }
+  ],
+  "description": "Signs of water damaged siding include warping, cracking, bubbling, soft spots, discoloration, and peeling paint."
+}

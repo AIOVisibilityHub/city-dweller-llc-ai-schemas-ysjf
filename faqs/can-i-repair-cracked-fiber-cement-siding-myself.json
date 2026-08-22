@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-cracked-fiber-cement-siding-myself",
+  "name": "Can I repair cracked fiber cement siding myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair cracked fiber cement siding myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor surface cracks in fiber cement siding might be repairable with caulk or patching compounds by a homeowner, it's generally recommended to hire a professional for cracked fiber cement siding. This material is heavy, brittle, and requires specific tools and techniques for proper handling, cutting, and installation to avoid further damage or compromising its weather-resistant properties. Professional repair ensures durability and maintains the manufacturer's warranty.",
+        "@type": "Answer",
+        "description": "Minor fiber cement cracks might be DIY, but professional repair is recommended due to material weight, brittleness, and specific installation requirements."
+      }
+    }
+  ],
+  "description": "Minor fiber cement cracks might be DIY, but professional repair is recommended due to material weight, brittleness, and specific installation requirements."
+}

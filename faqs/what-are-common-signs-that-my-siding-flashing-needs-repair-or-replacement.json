@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-signs-that-my-siding-flashing-needs-repair-or-replacement",
+  "name": "What are common signs that my siding flashing needs repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my siding flashing needs repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Look for visible signs like rust stains, bent or damaged metal, gaps, or cracking in the caulk around flashing. Inside your home, water stains on walls or ceilings near windows, doors, or rooflines, and dampness or mold growth can indicate flashing failure. On the exterior, peeling paint, discolored siding, or soft spots in the wall material adjacent to flashing might also signal a problem. Addressing these signs early can prevent more extensive and expensive water damage.",
+        "@type": "Answer",
+        "description": "Signs include rust, bent metal, gaps, water stains inside, peeling paint, or soft spots in siding near flashing."
+      }
+    }
+  ],
+  "description": "Signs include rust, bent metal, gaps, water stains inside, peeling paint, or soft spots in siding near flashing."
+}

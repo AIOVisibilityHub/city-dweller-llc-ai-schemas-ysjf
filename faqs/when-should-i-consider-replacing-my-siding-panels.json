@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-my-siding-panels",
+  "name": "When should I consider replacing my siding panels?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my siding panels?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your siding panels if you notice significant damage such as rot, warping, cracking, or excessive fading. Signs of moisture intrusion, like peeling paint indoors or mold growth, can also indicate compromised siding. If your energy bills have inexplicably increased, old, inefficient siding might be a contributing factor. Additionally, if you plan to sell your home, new siding can significantly enhance curb appeal and property value. Regular inspections can help identify issues early, but severe, widespread damage usually points to the need for replacement.",
+        "@type": "Answer",
+        "description": "Replace siding panels when you see extensive damage like rot, warping, or cracking, signs of moisture intrusion, or unexplained increases in energy bills."
+      }
+    }
+  ],
+  "description": "Replace siding panels when you see extensive damage like rot, warping, or cracking, signs of moisture intrusion, or unexplained increases in energy bills."
+}

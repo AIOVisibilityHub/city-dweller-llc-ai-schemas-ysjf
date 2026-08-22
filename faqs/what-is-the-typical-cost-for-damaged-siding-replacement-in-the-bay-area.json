@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-for-damaged-siding-replacement-in-the-bay-area",
+  "name": "What is the typical cost for damaged siding replacement in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for damaged siding replacement in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of damaged siding replacement in the Bay Area varies significantly based on factors such as the type of siding material chosen (e.g., fiber cement, vinyl, wood), the total square footage needing replacement, and the complexity of the installation. Other factors include the extent of underlying damage, such as dry rot, that needs remediation. Obtaining a detailed estimate from a local contractor is essential for an accurate cost assessment for your specific project. Prices generally reflect the higher cost of living and labor in the Bay Area.",
+        "@type": "Answer",
+        "description": "The cost for damaged siding replacement in the Bay Area depends on the material, square footage, and complexity of the project. It also accounts for local labor and material costs."
+      }
+    }
+  ],
+  "description": "The cost for damaged siding replacement in the Bay Area depends on the material, square footage, and complexity of the project. It also accounts for local labor"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-siding-materials-are-available-for-replacement",
+  "name": "What types of siding materials are available for replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of siding materials are available for replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There's a variety of siding materials available, each with distinct benefits. Common options include vinyl siding, known for its affordability and low maintenance; fiber cement siding, prized for its durability and fire resistance; wood siding, offering a classic aesthetic but requiring more upkeep; and stucco, often used for its distinct appearance. The best choice for your home depends on your budget, desired aesthetic, and local climate considerations.",
+        "@type": "Answer",
+        "description": "Common siding materials include vinyl, fiber cement, wood, and stucco, each offering different benefits in terms of cost, maintenance, and aesthetics."
+      }
+    }
+  ],
+  "description": "Common siding materials include vinyl, fiber cement, wood, and stucco, each offering different benefits in terms of cost, maintenance, and aesthetics."
+}
