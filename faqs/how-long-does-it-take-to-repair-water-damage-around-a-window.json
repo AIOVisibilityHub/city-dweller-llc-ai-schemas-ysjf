@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-repair-water-damage-around-a-window",
+  "name": "How long does it take to repair water damage around a window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair water damage around a window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of water damage repair around a window depends on the severity. Minor repairs, such as recaulking and repainting, typically take less than a day. If the damage requires replacing sections of drywall, insulation, or wood framing, the process could take 1-3 days, including drying time for new materials. For more extensive issues involving structural repairs or mold remediation, the project might extend to a week or more. The overall timeline also includes assessment, material procurement, and proper drying to prevent future issues.",
+        "@type": "Answer",
+        "description": "Repair time ranges from less than a day for minor fixes to a week or more for extensive structural or mold damage."
+      }
+    }
+  ],
+  "description": "Repair time ranges from less than a day for minor fixes to a week or more for extensive structural or mold damage."
+}

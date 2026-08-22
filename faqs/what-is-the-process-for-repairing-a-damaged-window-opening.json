@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-repairing-a-damaged-window-opening",
+  "name": "What is the process for repairing a damaged window opening?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a damaged window opening?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically begins with a thorough inspection to assess the extent of the damage, identifying causes like rot, water intrusion, or structural shifts. Next, the area around the window is carefully deconstructed to expose the rough opening and framing. Damaged or deteriorated materials are then removed. New, appropriately sized and treated lumber is installed to restore the structural integrity, ensuring the opening is square and plumb. Finally, new flashing and weather barriers are applied, and the area is sealed and finished, often followed by window reinstallation or new window installation.",
+        "@type": "Answer",
+        "description": "The process involves inspection, deconstruction, removal of damaged materials, installation of new lumber for structural integrity, application of flashing and weather barriers, and finishing."
+      }
+    }
+  ],
+  "description": "The process involves inspection, deconstruction, removal of damaged materials, installation of new lumber for structural integrity, application of flashing and"
+}

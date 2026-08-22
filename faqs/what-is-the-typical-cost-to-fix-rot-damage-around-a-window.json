@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-to-fix-rot-damage-around-a-window",
+  "name": "What is the typical cost to fix rot damage around a window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to fix rot damage around a window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix rot damage varies significantly based on the extent of the damage, the window material, and whether repair or full replacement is needed. Minor repairs might range from a few hundred dollars. Extensive rot requiring partial frame replacement or a new window installation can range from $800 to several thousand dollars per window. Getting a detailed estimate from a contractor is crucial.",
+        "@type": "Answer",
+        "description": "Repair costs vary greatly, from hundreds for minor fixes to thousands for extensive damage requiring replacement. A contractor's estimate is essential."
+      }
+    }
+  ],
+  "description": "Repair costs vary greatly, from hundreds for minor fixes to thousands for extensive damage requiring replacement. A contractor's estimate is essential."
+}

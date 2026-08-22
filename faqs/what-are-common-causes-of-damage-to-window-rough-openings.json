@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-causes-of-damage-to-window-rough-openings",
+  "name": "What are common causes of damage to window rough openings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common causes of damage to window rough openings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common causes of damage to window rough openings include prolonged moisture exposure leading to wood rot, often from inadequate flashing or sealant failure around the original window installation. Structural settling of the house can cause the opening to become out of square. Pest infestations, such as termites or carpenter ants, can also significantly damage the wooden framing. Additionally, improper initial installation can contribute to premature deterioration.",
+        "@type": "Answer",
+        "description": "Main causes are prolonged moisture leading to wood rot, structural settling, pest infestations, and improper original window installation."
+      }
+    }
+  ],
+  "description": "Main causes are prolonged moisture leading to wood rot, structural settling, pest infestations, and improper original window installation."
+}

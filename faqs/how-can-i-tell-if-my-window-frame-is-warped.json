@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-tell-if-my-window-frame-is-warped",
+  "name": "How can I tell if my window frame is warped?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my window frame is warped?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of a warped window frame include difficulty opening or closing the window, visible gaps between the frame and the sash, or a window that no longer sits squarely within its opening. You might notice drafts even when the window is closed, or increased condensation between glass panes. Another indicator is if the locks no longer align properly. For a quick check, use a straight edge or level against the frame to identify any bows or twists.",
+        "@type": "Answer",
+        "description": "Look for difficulty opening/closing, visible gaps, drafts, or misaligned locks. A straight edge can confirm frame distortion."
+      }
+    }
+  ],
+  "description": "Look for difficulty opening/closing, visible gaps, drafts, or misaligned locks. A straight edge can confirm frame distortion."
+}

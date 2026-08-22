@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-my-window-trim",
+  "name": "When should I consider replacing my window trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my window trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing window trim if you notice visible signs of damage such as cracking, rotting, warping, or peeling paint. These issues can compromise your home's energy efficiency and lead to water intrusion. Also, if your windows are being replaced, it's often a good time to update the trim for a cohesive look and improved sealing. Upgrading trim can also be part of a home renovation project to enhance your home's overall appearance and value, ensuring a fresh, updated aesthetic.",
+        "@type": "Answer",
+        "description": "Replace window trim if you see cracking, rotting, warping, peeling paint, or when replacing windows to improve aesthetics and prevent damage."
+      }
+    }
+  ],
+  "description": "Replace window trim if you see cracking, rotting, warping, peeling paint, or when replacing windows to improve aesthetics and prevent damage."
+}

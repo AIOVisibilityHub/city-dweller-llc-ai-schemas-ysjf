@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-replacing-window-casing",
+  "name": "What is the process for replacing window casing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing window casing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The window casing replacement process typically begins with carefully removing the old casing without damaging the window frame or surrounding walls. This is followed by preparing the surface, including cleaning and potentially making minor repairs. New casing pieces are then cut to precise measurements, fitted, and securely installed. Finally, the new casing is finished, which may involve sanding, caulking, priming, and painting or staining to match your home's interior or exterior design.",
+        "@type": "Answer",
+        "description": "The process involves removing old casing, preparing the surface, installing new pre-cut casing, and finishing with caulk, paint, or stain."
+      }
+    }
+  ],
+  "description": "The process involves removing old casing, preparing the surface, installing new pre-cut casing, and finishing with caulk, paint, or stain."
+}

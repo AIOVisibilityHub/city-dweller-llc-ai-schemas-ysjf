@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-does-window-opening-repair-entail",
+  "name": "What does 'window opening repair' entail?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does 'window opening repair' entail?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window opening repair addresses issues with the structural integrity or fit of the rough opening where a window sits, not the window unit itself. This can involve fixing deteriorated wood frames, correcting uneven or out-of-square openings, or reinforcing the surrounding wall structure. It's crucial for ensuring proper window installation, preventing drafts, water intrusion, and maintaining the energy efficiency and structural stability of your home. Often, these repairs are needed before installing new windows or when existing ones show signs of compromise.",
+        "@type": "Answer",
+        "description": "Window opening repair involves fixing the structural frame or rough opening around a window, addressing issues like rot, unevenness, or damage to ensure proper fit and structural integrity."
+      }
+    }
+  ],
+  "description": "Window opening repair involves fixing the structural frame or rough opening around a window, addressing issues like rot, unevenness, or damage to ensure proper"
+}

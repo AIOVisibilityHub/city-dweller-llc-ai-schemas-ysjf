@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-repair-or-replace-a-window-with-rot-damage",
+  "name": "When should I repair or replace a window with rot damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair or replace a window with rot damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor surface rot can sometimes be repaired by removing the damaged wood, applying wood hardener, and patching. However, if the rot extends deep into the frame, compromises the structural integrity, or affects a large area, replacement is typically the more durable and cost-effective long-term solution. Addressing extensive rot prevents moisture from spreading to other parts of your home.",
+        "@type": "Answer",
+        "description": "Repair minor surface rot, but replace if damage is deep, extensive, or compromises structural integrity. Replacement is often better for long-term durability."
+      }
+    }
+  ],
+  "description": "Repair minor surface rot, but replace if damage is deep, extensive, or compromises structural integrity. Replacement is often better for long-term durability."
+}

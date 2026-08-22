@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-insulated-glass-and-why-is-it-used",
+  "name": "What is insulated glass and why is it used?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is insulated glass and why is it used?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Insulated glass, also known as double-pane or triple-pane glass, consists of two or more glass panes separated by a spacer and sealed to create an airtight unit. The space between the panes is typically filled with air or an inert gas like argon or krypton. This design improves thermal performance by reducing heat transfer through windows, leading to better energy efficiency, reduced noise transmission, and enhanced comfort indoors. It helps keep homes warmer in winter and cooler in summer, potentially lowering utility bills.",
+        "@type": "Answer",
+        "description": "Insulated glass uses multiple panes with a sealed air or gas-filled space to improve thermal efficiency, reduce noise, and enhance comfort in homes."
+      }
+    }
+  ],
+  "description": "Insulated glass uses multiple panes with a sealed air or gas-filled space to improve thermal efficiency, reduce noise, and enhance comfort in homes."
+}

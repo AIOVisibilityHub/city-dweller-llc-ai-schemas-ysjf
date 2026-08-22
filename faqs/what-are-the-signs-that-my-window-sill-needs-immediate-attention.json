@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-signs-that-my-window-sill-needs-immediate-attention",
+  "name": "What are the signs that my window sill needs immediate attention?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my window sill needs immediate attention?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediate attention is needed if you observe significant cracking, soft or spongy wood (indicating rot), mold growth, persistent moisture around the sill, or a noticeable gap between the sill and the window frame. These signs suggest water intrusion or advanced decay that can compromise your home's integrity, lead to costly structural damage, and even impact indoor air quality due to mold. Addressing these issues promptly can prevent further deterioration and more expensive repairs down the line.",
+        "@type": "Answer",
+        "description": "Look for significant cracks, soft wood, mold, persistent moisture, or gaps; these signs indicate urgent repair needs to prevent further damage."
+      }
+    }
+  ],
+  "description": "Look for significant cracks, soft wood, mold, persistent moisture, or gaps; these signs indicate urgent repair needs to prevent further damage."
+}

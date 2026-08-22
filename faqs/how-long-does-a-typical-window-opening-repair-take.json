@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-window-opening-repair-take",
+  "name": "How long does a typical window opening repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical window opening repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a window opening repair varies significantly based on the extent of the damage and the number of openings requiring attention. Minor repairs, such as replacing a small section of rotted wood, might take a few hours to a day per window. More extensive structural repairs, involving multiple layers of framing or addressing significant water damage, could extend to several days per opening. Our team will provide a detailed timeline after an on-site assessment to give you an accurate estimate for your specific project.",
+        "@type": "Answer",
+        "description": "Repair time varies by damage extent; minor fixes may take hours to a day, while extensive structural repairs could take several days per opening. An on-site assessment provides an accurate timeline."
+      }
+    }
+  ],
+  "description": "Repair time varies by damage extent; minor fixes may take hours to a day, while extensive structural repairs could take several days per opening. An on-site ass"
+}

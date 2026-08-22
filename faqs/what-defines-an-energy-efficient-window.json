@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-defines-an-energy-efficient-window",
+  "name": "What defines an energy-efficient window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What defines an energy-efficient window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Energy-efficient windows are designed to minimize heat transfer, keeping your home cooler in summer and warmer in winter. Key features include multiple panes of glass, often with inert gas fills like argon or krypton between them, and low-emissivity (Low-E) coatings. These coatings reflect infrared light, reducing heat gain and loss, while still allowing visible light to pass through. Frames made from materials like vinyl, fiberglass, or wood with good insulation properties also contribute to overall energy efficiency by minimizing drafts and thermal bridging.",
+        "@type": "Answer",
+        "description": "Energy-efficient windows minimize heat transfer using features like multiple glass panes, inert gas fills, Low-E coatings, and insulated frames."
+      }
+    }
+  ],
+  "description": "Energy-efficient windows minimize heat transfer using features like multiple glass panes, inert gas fills, Low-E coatings, and insulated frames."
+}

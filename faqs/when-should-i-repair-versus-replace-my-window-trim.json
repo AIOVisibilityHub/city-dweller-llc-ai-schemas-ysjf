@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-repair-versus-replace-my-window-trim",
+  "name": "When should I repair versus replace my window trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair versus replace my window trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to repair or replace window trim depends on the extent of the damage. Repair is suitable for minor issues like small cracks, peeling paint, or superficial rot that can be sanded and filled. However, if the trim is extensively rotted, has structural damage, or if replacement is more cost-effective than continuous repairs, full replacement is often the better long-term solution to ensure durability and prevent further issues.",
+        "@type": "Answer",
+        "description": "Repair minor damage like cracks and peeling paint; replace if there's extensive rot, structural issues, or if it's more cost-effective long-term."
+      }
+    }
+  ],
+  "description": "Repair minor damage like cracks and peeling paint; replace if there's extensive rot, structural issues, or if it's more cost-effective long-term."
+}

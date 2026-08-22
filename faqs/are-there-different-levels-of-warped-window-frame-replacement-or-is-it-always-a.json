@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-there-different-levels-of-warped-window-frame-replacement-or-is-it-always-a",
+  "name": "Are there different levels of warped window frame replacement, or is it always a full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there different levels of warped window frame replacement, or is it always a full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The extent of replacement depends on the severity and location of the warping. For minor warping on non-structural components, sometimes a sash replacement or localized repair might be possible if the main frame is intact. However, if the primary window frame itself is significantly distorted, affecting the structural integrity or causing operational issues, a full frame replacement is typically required. This ensures the new window unit fits correctly, seals properly, and provides long-term performance.",
+        "@type": "Answer",
+        "description": "Minor warping may allow for sash or localized repair, but significant distortion of the main frame usually necessitates a full frame replacement for proper function and seal."
+      }
+    }
+  ],
+  "description": "Minor warping may allow for sash or localized repair, but significant distortion of the main frame usually necessitates a full frame replacement for proper func"
+}

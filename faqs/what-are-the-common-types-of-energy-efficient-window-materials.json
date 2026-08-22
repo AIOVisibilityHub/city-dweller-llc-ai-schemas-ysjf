@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-types-of-energy-efficient-window-materials",
+  "name": "What are the common types of energy-efficient window materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common types of energy-efficient window materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials for energy-efficient window frames include vinyl, fiberglass, and wood. Vinyl frames are popular for their affordability, low maintenance, and excellent insulating properties. Fiberglass offers superior strength, durability, and dimensional stability, making it highly resistant to warping and cracking, and provides good insulation. Wood frames offer natural beauty and excellent insulation but require more maintenance. Some windows also use composite materials, combining the benefits of different types. Each material has distinct advantages regarding cost, appearance, and performance.",
+        "@type": "Answer",
+        "description": "Common energy-efficient window frame materials are vinyl, fiberglass, and wood, each offering distinct benefits in terms of cost, maintenance, and insulation."
+      }
+    }
+  ],
+  "description": "Common energy-efficient window frame materials are vinyl, fiberglass, and wood, each offering distinct benefits in terms of cost, maintenance, and insulation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-scheduling-a-sash-repair-consultation",
+  "name": "What is the process for scheduling a sash repair consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for scheduling a sash repair consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To schedule a sash repair consultation, you can typically contact us via phone or through our website's contact form. We will arrange a convenient time for a technician to visit your property in areas like Pacifica or South San Francisco. During the on-site visit, the technician will assess the condition of your window sashes, identify the issues, discuss potential repair options, and provide a detailed estimate for the work required. This initial consultation helps ensure we understand your needs and provide an accurate quote.",
+        "@type": "Answer",
+        "description": "Schedule a consultation by phone or online. A technician will visit your property to assess damage, discuss options, and provide an estimate."
+      }
+    }
+  ],
+  "description": "Schedule a consultation by phone or online. A technician will visit your property to assess damage, discuss options, and provide an estimate."
+}

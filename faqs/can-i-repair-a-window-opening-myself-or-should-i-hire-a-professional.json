@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-a-window-opening-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair a window opening myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair a window opening myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor cosmetic issues might be tackled by a skilled DIY enthusiast, structural window opening repairs are best left to professionals. These repairs often involve understanding framing techniques, ensuring proper load bearing, addressing moisture barriers, and preventing future issues. Incorrect repairs can lead to further structural damage, water leaks, and compromise your home's energy efficiency. A professional contractor ensures the work meets building codes and provides lasting solutions, preventing more costly problems in the long run.",
+        "@type": "Answer",
+        "description": "Structural window opening repairs are best handled by professionals due to complexities in framing, load bearing, and moisture management. Incorrect DIY repairs can lead to further damage and costly issues."
+      }
+    }
+  ],
+  "description": "Structural window opening repairs are best handled by professionals due to complexities in framing, load bearing, and moisture management. Incorrect DIY repairs"
+}

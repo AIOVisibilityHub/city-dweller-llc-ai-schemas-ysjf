@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-insulated-glass-replacement",
+  "name": "What is the typical process for insulated glass replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for insulated glass replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The insulated glass replacement process typically begins with an inspection to assess the damage and measure the existing glass unit. A new insulated glass unit (IGU) is then custom-ordered to precisely fit your window frame. Once the new unit arrives, our technicians carefully remove the damaged or failed IGU, ensuring the window frame remains intact. The new IGU is then installed, sealed, and secured within the existing frame, followed by a thorough clean-up and final inspection to confirm proper installation and performance.",
+        "@type": "Answer",
+        "description": "The process involves an inspection, custom ordering a new glass unit, removing the old unit, installing the new one, and a final inspection."
+      }
+    }
+  ],
+  "description": "The process involves an inspection, custom ordering a new glass unit, removing the old unit, installing the new one, and a final inspection."
+}

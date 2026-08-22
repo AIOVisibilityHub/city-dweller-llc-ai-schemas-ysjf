@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-repairing-rotted-window-frames",
+  "name": "What is the process for repairing rotted window frames?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing rotted window frames?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically involves identifying the source of moisture, removing all damaged wood, treating the remaining sound wood with a fungicide, and then either filling smaller areas with epoxy or replacing larger sections with new, treated wood. After repairs, the area is sealed, primed, and painted. The moisture source must be addressed to prevent future rot.",
+        "@type": "Answer",
+        "description": "The process includes identifying the moisture source, removing damaged wood, treating remaining wood, filling with epoxy or replacing sections, then sealing, priming, and painting."
+      }
+    }
+  ],
+  "description": "The process includes identifying the moisture source, removing damaged wood, treating remaining wood, filling with epoxy or replacing sections, then sealing, pr"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-replace-a-rotted-window-frame",
+  "name": "How long does it take to replace a rotted window frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace a rotted window frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to replace a rotted window frame depends on the severity of the rot and the complexity of the specific window. A simple frame replacement for a single window, assuming no hidden issues, can often be completed within a day. However, if the rot has extended into the wall cavity, or if multiple windows need attention, the project could take several days. Factors like weather, material availability, and the need for custom fabrication can also influence the timeline. Your contractor will provide a project specific estimate.",
+        "@type": "Answer",
+        "description": "Replacing a single rotted window frame can take one day, but extensive rot or multiple windows may extend the project to several days."
+      }
+    }
+  ],
+  "description": "Replacing a single rotted window frame can take one day, but extensive rot or multiple windows may extend the project to several days."
+}

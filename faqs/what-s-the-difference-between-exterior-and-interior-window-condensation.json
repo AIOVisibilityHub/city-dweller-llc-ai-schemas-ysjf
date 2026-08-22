@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-exterior-and-interior-window-condensation",
+  "name": "What's the difference between exterior and interior window condensation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between exterior and interior window condensation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Exterior window condensation occurs on the outside surface of the glass and typically means your windows are insulating well. It happens when the outdoor air is warm and humid and comes into contact with glass cooled by your indoor environment. This is generally harmless. Interior window condensation, however, forms on the inside surface and indicates high indoor humidity or poor window insulation, which can lead to mold or moisture damage. Condensation *between* the panes signifies a broken seal in an insulated window unit.",
+        "@type": "Answer",
+        "description": "Exterior condensation is normal and often good insulation; interior signals high indoor humidity or poor window performance."
+      }
+    }
+  ],
+  "description": "Exterior condensation is normal and often good insulation; interior signals high indoor humidity or poor window performance."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-tell-if-my-window-frames-need-repair",
+  "name": "How can I tell if my window frames need repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my window frames need repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Look for visible signs like cracking, peeling paint, soft or spongy wood (indicating rot), gaps where the frame meets the wall or glass, difficulty opening or closing windows, and drafts. Water stains or increased utility bills can also be indicators of failing window frames. Addressing these issues promptly can prevent further damage and improve your home's energy efficiency and comfort.",
+        "@type": "Answer",
+        "description": "Visible cracks, peeling paint, soft wood, gaps, difficulty operating windows, or drafts indicate a need for repair. Water stains or higher utility bills are also signs."
+      }
+    }
+  ],
+  "description": "Visible cracks, peeling paint, soft wood, gaps, difficulty operating windows, or drafts indicate a need for repair. Water stains or higher utility bills are als"
+}

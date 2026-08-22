@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-repair-a-rotted-window-frame-versus-replacing-the-entire-window",
+  "name": "When should I repair a rotted window frame versus replacing the entire window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair a rotted window frame versus replacing the entire window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace depends on the extent of the rot. Minor, localized rot affecting less than 20-30% of the frame might be repairable. If the rot is widespread, affects structural integrity, or has compromised the window's ability to operate properly, replacement is often the more cost-effective and long-term solution. A professional assessment can help determine the best course of action.",
+        "@type": "Answer",
+        "description": "Repair minor rot (less than 20-30% of the frame); replace if the rot is widespread, affects structural integrity, or impairs function."
+      }
+    }
+  ],
+  "description": "Repair minor rot (less than 20-30% of the frame); replace if the rot is widespread, affects structural integrity, or impairs function."
+}

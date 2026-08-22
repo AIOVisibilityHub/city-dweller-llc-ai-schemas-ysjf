@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-interior-and-exterior-window-casing",
+  "name": "What is the difference between interior and exterior window casing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between interior and exterior window casing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interior and exterior window casings serve similar aesthetic and functional roles but differ primarily in their material and installation requirements due to exposure to the elements. Exterior casing must be made from weather-resistant materials like treated wood, PVC, or composite, and installed with careful sealing to prevent moisture intrusion. Interior casing often uses materials like MDF or untreated wood, which are less durable outdoors, focusing more on aesthetic appeal and matching the interior decor.",
+        "@type": "Answer",
+        "description": "Exterior casing uses weather-resistant materials and requires sealing due to element exposure, while interior casing focuses on aesthetics and uses materials suitable for indoor environments."
+      }
+    }
+  ],
+  "description": "Exterior casing uses weather-resistant materials and requires sealing due to element exposure, while interior casing focuses on aesthetics and uses materials su"
+}

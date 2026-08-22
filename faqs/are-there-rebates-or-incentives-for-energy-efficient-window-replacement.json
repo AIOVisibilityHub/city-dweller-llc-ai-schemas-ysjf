@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-there-rebates-or-incentives-for-energy-efficient-window-replacement",
+  "name": "Are there rebates or incentives for energy-efficient window replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there rebates or incentives for energy-efficient window replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, homeowners may be eligible for various rebates or incentives for installing energy-efficient windows, though these can vary. Programs might include federal tax credits, state energy efficiency rebates, or local utility company incentives. For example, California often has programs promoting energy upgrades. It's recommended to check with local utility providers like PG&E, state energy commissions, and federal resources for current offerings. Your contractor may also be aware of applicable programs in areas like San Mateo or Burlingame. Eligibility often depends on the specific energy ratings of the windows installed.",
+        "@type": "Answer",
+        "description": "Rebates and incentives for energy-efficient windows may be available through federal tax credits, state programs, or local utility companies; check current offerings in your area."
+      }
+    }
+  ],
+  "description": "Rebates and incentives for energy-efficient windows may be available through federal tax credits, state programs, or local utility companies; check current offe"
+}

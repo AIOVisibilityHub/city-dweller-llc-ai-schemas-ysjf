@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-materials-are-available-for-window-sashes",
+  "name": "What types of materials are available for window sashes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are available for window sashes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window sashes are commonly available in several materials, each offering distinct benefits. Vinyl sashes are popular for their durability, low maintenance, and energy efficiency. Wood sashes provide a traditional aesthetic and good insulation but require more upkeep. Fiberglass sashes offer excellent strength, stability, and resistance to warping and pests. Aluminum sashes are lightweight and strong, often used in contemporary designs, though they can be less energy-efficient. Your choice depends on budget, desired aesthetic, and climate considerations.",
+        "@type": "Answer",
+        "description": "Common sash materials include vinyl, wood, fiberglass, and aluminum, each with different benefits regarding durability, aesthetics, and maintenance."
+      }
+    }
+  ],
+  "description": "Common sash materials include vinyl, wood, fiberglass, and aluminum, each with different benefits regarding durability, aesthetics, and maintenance."
+}

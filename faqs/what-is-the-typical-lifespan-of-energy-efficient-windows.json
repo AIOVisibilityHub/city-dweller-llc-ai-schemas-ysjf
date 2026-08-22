@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-lifespan-of-energy-efficient-windows",
+  "name": "What is the typical lifespan of energy-efficient windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical lifespan of energy-efficient windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of energy-efficient windows typically ranges from 15 to 30 years, depending on the material, installation quality, and maintenance. Vinyl windows generally last 20-40 years, while fiberglass can exceed 30 years. Wood windows can last even longer with proper care. The longevity of the insulated glass unit (IGU) and its seal is crucial; a failed seal can lead to condensation between panes and reduced efficiency. Regular cleaning and checking seals can help extend their effective life.",
+        "@type": "Answer",
+        "description": "Energy-efficient windows typically last 15-30 years, varying by material, installation quality, and maintenance."
+      }
+    }
+  ],
+  "description": "Energy-efficient windows typically last 15-30 years, varying by material, installation quality, and maintenance."
+}

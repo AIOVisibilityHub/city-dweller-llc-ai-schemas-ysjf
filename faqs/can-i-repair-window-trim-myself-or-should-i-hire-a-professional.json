@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-window-trim-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair window trim myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair window trim myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor window trim repairs, like filling small nail holes or re-caulking, can often be done by a homeowner with basic DIY skills. However, for more extensive issues such as significant wood rot, structural damage, or the need for precise matching of trim profiles, hiring a professional contractor is recommended. Professionals have the experience, specialized tools, and materials to ensure a durable, aesthetically pleasing, and proper repair that protects your home from the elements.",
+        "@type": "Answer",
+        "description": "DIY is fine for minor fixes, but a professional is recommended for extensive rot, structural damage, or complex matching to ensure quality and durability."
+      }
+    }
+  ],
+  "description": "DIY is fine for minor fixes, but a professional is recommended for extensive rot, structural damage, or complex matching to ensure quality and durability."
+}

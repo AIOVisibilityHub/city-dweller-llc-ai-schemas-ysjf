@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-tell-if-my-existing-windows-need-to-be-replaced-with-double-pane-windo",
+  "name": "How can I tell if my existing windows need to be replaced with double-pane windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my existing windows need to be replaced with double-pane windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs your windows may need replacement include drafts, noticeable temperature fluctuations near windows, condensation between the glass panes (indicating a failed seal), difficulty opening or closing, or visible damage to frames or glass. If you have single-pane windows, upgrading to double-pane will almost always improve energy efficiency and comfort. An energy audit can also highlight heat loss through older windows, signaling a need for an upgrade.",
+        "@type": "Answer",
+        "description": "Look for drafts, condensation between panes, or difficulty operating. Single-pane windows often warrant an upgrade for better efficiency."
+      }
+    }
+  ],
+  "description": "Look for drafts, condensation between panes, or difficulty operating. Single-pane windows often warrant an upgrade for better efficiency."
+}

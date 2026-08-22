@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-wood-rot-around-windows",
+  "name": "What causes wood rot around windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes wood rot around windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wood rot around windows is primarily caused by moisture intrusion. This can result from compromised window seals, cracked caulking, damaged flashing, clogged gutters causing water overflow, or even condensation from inside the home. Once moisture penetrates the wood, it creates an ideal environment for fungi to grow, leading to decomposition and structural weakening of the window frame and surrounding trim.",
+        "@type": "Answer",
+        "description": "Wood rot around windows is caused by moisture intrusion from compromised seals, cracked caulk, damaged flashing, or condensation, which allows fungi to grow and decompose the wood."
+      }
+    }
+  ],
+  "description": "Wood rot around windows is caused by moisture intrusion from compromised seals, cracked caulk, damaged flashing, or condensation, which allows fungi to grow and"
+}

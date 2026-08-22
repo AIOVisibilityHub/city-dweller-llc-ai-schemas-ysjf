@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-replace-just-one-damaged-window-sash-or-do-i-need-to-replace-all-of-them",
+  "name": "Can I replace just one damaged window sash or do I need to replace all of them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace just one damaged window sash or do I need to replace all of them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can absolutely replace just one damaged window sash, provided the rest of your window unit and frame are in good condition. This is a common and cost-effective approach for addressing isolated damage like a cracked pane or a rotted sash component. However, if you have multiple sashes showing signs of wear, or if you want to ensure uniform energy efficiency and aesthetics throughout your home, replacing several or all sashes might be a better long-term investment. Your contractor can help you decide the best approach.",
+        "@type": "Answer",
+        "description": "Yes, you can replace a single damaged sash if the frame is sound. Consider replacing multiple for uniform appearance and efficiency."
+      }
+    }
+  ],
+  "description": "Yes, you can replace a single damaged sash if the frame is sound. Consider replacing multiple for uniform appearance and efficiency."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-my-window-rough-opening-needs-repair",
+  "name": "How do I know if my window rough opening needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my window rough opening needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs that your window rough opening might need repair include difficulty opening or closing windows, drafts despite closed windows, visible gaps between the window frame and the wall, soft or rotted wood around the window, or water stains on interior walls below the window. If you suspect an issue, a professional inspection can accurately diagnose the problem and recommend appropriate solutions.",
+        "@type": "Answer",
+        "description": "Look for difficulty opening windows, drafts, visible gaps, soft wood, or water stains. A professional inspection can confirm if repair is needed."
+      }
+    }
+  ],
+  "description": "Look for difficulty opening windows, drafts, visible gaps, soft wood, or water stains. A professional inspection can confirm if repair is needed."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-triple-pane-window-and-how-does-it-differ-from-double-pane",
+  "name": "What is a triple-pane window and how does it differ from double-pane?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a triple-pane window and how does it differ from double-pane?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Triple-pane windows feature three layers of glass separated by two sealed air or gas-filled spaces, typically argon or krypton. This design enhances thermal insulation compared to standard double-pane windows, which have only two glass panes and one gas-filled space. The additional pane and gas layer reduce heat transfer, leading to improved energy efficiency and sound dampening. This makes them particularly effective in areas with extreme temperatures or significant noise pollution, providing a more comfortable indoor environment.",
+        "@type": "Answer",
+        "description": "Triple-pane windows have three glass layers and two gas-filled spaces, offering superior insulation and sound reduction compared to double-pane windows with two layers and one space."
+      }
+    }
+  ],
+  "description": "Triple-pane windows have three glass layers and two gas-filled spaces, offering superior insulation and sound reduction compared to double-pane windows with two"
+}

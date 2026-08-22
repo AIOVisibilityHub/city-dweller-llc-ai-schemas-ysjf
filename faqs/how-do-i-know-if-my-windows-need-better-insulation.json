@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-my-windows-need-better-insulation",
+  "name": "How do I know if my windows need better insulation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my windows need better insulation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your windows need better insulation include noticeable drafts, condensation buildup on window panes, high energy bills, and rooms feeling too hot in summer or too cold in winter, especially near windows. You might also notice street noise being more prominent. Performing a simple 'candle test' by holding a lit candle near closed windows can reveal drafts if the flame flickers. These indicators suggest heat is escaping or entering your home through your windows.",
+        "@type": "Answer",
+        "description": "Look for drafts, condensation, high energy bills, uncomfortable room temperatures near windows, or excessive outside noise. A candle test can also reveal air leaks."
+      }
+    }
+  ],
+  "description": "Look for drafts, condensation, high energy bills, uncomfortable room temperatures near windows, or excessive outside noise. A candle test can also reveal air le"
+}

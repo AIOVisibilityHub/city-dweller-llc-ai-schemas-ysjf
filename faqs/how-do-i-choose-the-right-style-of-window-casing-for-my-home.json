@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-style-of-window-casing-for-my-home",
+  "name": "How do I choose the right style of window casing for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right style of window casing for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right window casing style involves considering your home's architectural style, the existing trim throughout your house, and your personal aesthetic preferences. Traditional homes often suit wider, more ornate casings, while modern homes might benefit from simpler, cleaner profiles. Consistency with door frames and baseboards creates a cohesive look. You might also consider the window type; for instance, a large picture window can support a bolder casing than a small bathroom window. Samples and contractor advice can help visualize options.",
+        "@type": "Answer",
+        "description": "Choose based on your home's architectural style, existing trim, and personal taste. Consider consistency with other moldings and the window type for a cohesive look."
+      }
+    }
+  ],
+  "description": "Choose based on your home's architectural style, existing trim, and personal taste. Consider consistency with other moldings and the window type for a cohesive"
+}

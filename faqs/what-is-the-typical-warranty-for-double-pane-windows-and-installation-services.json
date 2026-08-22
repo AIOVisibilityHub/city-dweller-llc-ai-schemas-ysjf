@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-warranty-for-double-pane-windows-and-installation-services",
+  "name": "What is the typical warranty for double-pane windows and installation services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical warranty for double-pane windows and installation services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most reputable manufacturers offer warranties on their double-pane window units, often covering components like the glass seal against fogging or condensation between panes for 10-20 years, and sometimes lifetime warranties on frames. Installation warranties, provided by the contractor, typically cover labor and seal integrity for a shorter period, commonly 1-5 years. It's essential to understand both the manufacturer's product warranty and the contractor's installation warranty before proceeding with your project.",
+        "@type": "Answer",
+        "description": "Manufacturer warranties cover window units, often 10-20 years for glass seals. Contractor installation warranties usually cover labor for 1-5 years."
+      }
+    }
+  ],
+  "description": "Manufacturer warranties cover window units, often 10-20 years for glass seals. Contractor installation warranties usually cover labor for 1-5 years."
+}

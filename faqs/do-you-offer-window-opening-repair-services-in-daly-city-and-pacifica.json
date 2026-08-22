@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-you-offer-window-opening-repair-services-in-daly-city-and-pacifica",
+  "name": "Do you offer window opening repair services in Daly City and Pacifica?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer window opening repair services in Daly City and Pacifica?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, City Dweller, LLC proudly serves Daly City, Pacifica, and other surrounding Bay Area communities including San Bruno, South San Francisco, and Brisbane. As a local general contractor, we understand the specific challenges and building standards relevant to our service areas. Our team is equipped to handle various window opening repair needs, ensuring your home's structural integrity and energy efficiency are restored. Contact us to schedule an on-site consultation and receive a tailored solution for your property.",
+        "@type": "Answer",
+        "description": "Yes, City Dweller, LLC provides window opening repair services in Daly City, Pacifica, and other nearby Bay Area communities. We are a local general contractor familiar with regional building standards."
+      }
+    }
+  ],
+  "description": "Yes, City Dweller, LLC provides window opening repair services in Daly City, Pacifica, and other nearby Bay Area communities. We are a local general contractor"
+}

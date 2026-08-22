@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-prevent-future-rot-around-my-windows",
+  "name": "How can I prevent future rot around my windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future rot around my windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing rot involves regular maintenance. Ensure caulking around windows is intact and replace it if cracked or deteriorated. Keep gutters clean to prevent water overflow. Inspect flashing periodically for damage. Consider improving exterior drainage around your home. Addressing interior condensation issues can also help, especially in bathrooms or kitchens.",
+        "@type": "Answer",
+        "description": "Prevent rot by regularly inspecting and maintaining caulking and flashing, keeping gutters clean, improving drainage, and addressing interior condensation."
+      }
+    }
+  ],
+  "description": "Prevent rot by regularly inspecting and maintaining caulking and flashing, keeping gutters clean, improving drainage, and addressing interior condensation."
+}

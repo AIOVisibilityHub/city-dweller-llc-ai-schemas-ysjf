@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-street-noise-reduction-windows-and-how-do-they-work",
+  "name": "What are street noise reduction windows and how do they work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are street noise reduction windows and how do they work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Street noise reduction windows, also known as soundproof or acoustic windows, are designed to minimize the amount of external noise entering your home. They typically achieve this through several features: thicker glass panes, often laminated or double-paned with a specialized air gap or gas fill, and robust frames that create an airtight seal. This multi-layered construction reduces sound vibrations and prevents noise from transmitting through the window, offering a quieter indoor environment. The effectiveness is measured by the Sound Transmission Class (STC) rating, where higher numbers indicate better noise reduction.",
+        "@type": "Answer",
+        "description": "Street noise reduction windows use thicker, often multi-pane glass and specialized frames to block external noise from entering your home. They work by reducing sound vibrations and creating an airtight seal."
+      }
+    }
+  ],
+  "description": "Street noise reduction windows use thicker, often multi-pane glass and specialized frames to block external noise from entering your home. They work by reducing"
+}

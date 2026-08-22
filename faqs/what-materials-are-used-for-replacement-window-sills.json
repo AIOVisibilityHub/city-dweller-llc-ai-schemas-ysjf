@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-materials-are-used-for-replacement-window-sills",
+  "name": "What materials are used for replacement window sills?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used for replacement window sills?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials for replacement window sills include treated lumber (pine or fir), composite materials, PVC, and fiberglass. Treated lumber is often used for its affordability and ease of workability, but requires good sealing. Composite and PVC sills offer superior moisture resistance and durability, making them excellent choices for preventing future rot. Fiberglass is another highly durable option, known for its strength and minimal maintenance.",
+        "@type": "Answer",
+        "description": "Replacement sills use treated lumber, composite, PVC, or fiberglass. Composite and PVC offer high moisture resistance."
+      }
+    }
+  ],
+  "description": "Replacement sills use treated lumber, composite, PVC, or fiberglass. Composite and PVC offer high moisture resistance."
+}

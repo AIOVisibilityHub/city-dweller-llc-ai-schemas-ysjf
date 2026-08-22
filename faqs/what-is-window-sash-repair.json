@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-window-sash-repair",
+  "name": "What is window sash repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is window sash repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window sash repair involves fixing or replacing components of the window sash, which is the movable part of the window that holds the glass. This can include repairing rotted wood, replacing broken glass within the sash, fixing damaged sash cords or balances, or restoring the sash frame itself. The goal is to restore the window's functionality, energy efficiency, and appearance without replacing the entire window unit.",
+        "@type": "Answer",
+        "description": "Window sash repair addresses damage to the movable part of a window that holds the glass, fixing issues like rot, broken glass, or faulty balances to restore functionality."
+      }
+    }
+  ],
+  "description": "Window sash repair addresses damage to the movable part of a window that holds the glass, fixing issues like rot, broken glass, or faulty balances to restore fu"
+}

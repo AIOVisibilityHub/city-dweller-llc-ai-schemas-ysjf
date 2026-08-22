@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-window-casing-and-why-is-it-important-to-repair",
+  "name": "What is window casing and why is it important to repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is window casing and why is it important to repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window casing is the decorative trim that surrounds the window frame, covering the gap between the window and the wall. Beyond aesthetics, it provides an important seal against moisture and drafts, contributing to your home's energy efficiency and protecting the wall structure from water damage. Repairing damaged casing prevents further deterioration, pest intrusion, and maintains the integrity and value of your home.",
+        "@type": "Answer",
+        "description": "Window casing is the trim around windows, protecting against moisture and drafts. Repairing it prevents damage, pest intrusion, and maintains home value."
+      }
+    }
+  ],
+  "description": "Window casing is the trim around windows, protecting against moisture and drafts. Repairing it prevents damage, pest intrusion, and maintains home value."
+}

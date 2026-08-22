@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-signs-that-my-window-casing-needs-repair",
+  "name": "What are common signs that my window casing needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my window casing needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of damaged window casing include visible cracks, rot, softness to the touch, peeling paint, or gaps forming between the casing and the wall. You might also notice drafts around the window or increased energy bills due to poor sealing. Water stains on or near the casing are a strong indicator of moisture infiltration, necessitating prompt inspection and repair.",
+        "@type": "Answer",
+        "description": "Look for cracks, rot, soft spots, peeling paint, or gaps. Drafts and water stains also indicate a need for repair."
+      }
+    }
+  ],
+  "description": "Look for cracks, rot, soft spots, peeling paint, or gaps. Drafts and water stains also indicate a need for repair."
+}

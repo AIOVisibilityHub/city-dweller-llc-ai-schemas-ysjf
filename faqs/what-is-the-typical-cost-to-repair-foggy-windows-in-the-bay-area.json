@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-to-repair-foggy-windows-in-the-bay-area",
+  "name": "What is the typical cost to repair foggy windows in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to repair foggy windows in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair foggy windows (condensation between panes) in the Bay Area usually involves replacing just the insulated glass unit (IGU), not the entire window frame. This can be more cost-effective than a full window replacement. Prices vary significantly based on window size, type of glass (e.g., low-E, tempered), and accessibility. For an accurate estimate, it's best to have a local contractor assess your specific windows in areas like Pacifica or Daly City, as labor costs and material availability can influence the final price.",
+        "@type": "Answer",
+        "description": "Repairing foggy windows in the Bay Area typically involves replacing the glass unit, with costs varying by size and glass type."
+      }
+    }
+  ],
+  "description": "Repairing foggy windows in the Bay Area typically involves replacing the glass unit, with costs varying by size and glass type."
+}

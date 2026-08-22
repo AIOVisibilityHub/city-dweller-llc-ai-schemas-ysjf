@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-cost-range-for-window-opening-repairs-in-the-bay-area",
+  "name": "What is the cost range for window opening repairs in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost range for window opening repairs in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of window opening repair in the Bay Area can vary widely depending on the damage's severity, the materials needed, and the complexity of the work. Simple repairs like replacing a small section of trim might range from a few hundred dollars. More complex structural repairs, involving sistering studs, replacing headers, or addressing significant water damage and rot, could range from $800 to several thousand dollars per opening. We provide detailed, transparent quotes after a thorough inspection of your specific situation.",
+        "@type": "Answer",
+        "description": "Costs vary widely based on damage; simple repairs might be a few hundred dollars, while complex structural work could range from $800 to several thousand per opening in the Bay Area."
+      }
+    }
+  ],
+  "description": "Costs vary widely based on damage; simple repairs might be a few hundred dollars, while complex structural work could range from $800 to several thousand per op"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-window-casing-and-window-trim",
+  "name": "What is the difference between window casing and window trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between window casing and window trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window casing is a specific type of window trim that frames the window opening, covering the gap between the window frame and the wall structure. 'Window trim' is a broader term encompassing all decorative and functional moldings used around windows, including casing, sills, and aprons. So, while all casing is trim, not all trim is casing. Casing is primarily aesthetic but also provides a weather seal and protects the wall structure.",
+        "@type": "Answer",
+        "description": "Window casing is the trim directly surrounding the window frame, covering the gap. Window trim is a broader term for all moldings, including casing, sills, and aprons."
+      }
+    }
+  ],
+  "description": "Window casing is the trim directly surrounding the window frame, covering the gap. Window trim is a broader term for all moldings, including casing, sills, and"
+}

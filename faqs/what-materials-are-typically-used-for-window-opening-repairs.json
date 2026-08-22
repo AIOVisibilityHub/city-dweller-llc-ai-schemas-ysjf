@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-materials-are-typically-used-for-window-opening-repairs",
+  "name": "What materials are typically used for window opening repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are typically used for window opening repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The materials used depend on the extent and nature of the repair. For framing, treated lumber is commonly used to resist moisture and pests, ensuring durability. Specific wood types like Douglas fir or redwood might be selected based on local availability and structural requirements. Flashing materials, such as self-adhering membranes (e.g., peel-and-stick) or metal flashing (e.g., aluminum, copper), are critical for water management. Sealants, such as high-quality caulks and sealants, are also essential for creating an airtight and watertight seal around the repaired opening.",
+        "@type": "Answer",
+        "description": "Common materials include treated lumber for framing, various types of flashing for water management, and high-quality caulks and sealants for an airtight and watertight seal."
+      }
+    }
+  ],
+  "description": "Common materials include treated lumber for framing, various types of flashing for water management, and high-quality caulks and sealants for an airtight and wa"
+}

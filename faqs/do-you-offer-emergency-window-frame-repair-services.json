@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-you-offer-emergency-window-frame-repair-services",
+  "name": "Do you offer emergency window frame repair services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer emergency window frame repair services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While we prioritize timely service for all repair needs, emergency window frame repair is generally limited to situations where the structural integrity of your home is compromised or there's a significant security risk. For issues like a sudden, severe crack that impacts safety, please contact us immediately. For non-critical damage, we schedule prompt appointments for assessment and repair within our service areas, including Pacifica and Daly City.",
+        "@type": "Answer",
+        "description": "Emergency repair is for structural compromise or security risks. For severe cracks impacting safety, contact us immediately. Non-critical damage is handled via prompt appointments."
+      }
+    }
+  ],
+  "description": "Emergency repair is for structural compromise or security risks. For severe cracks impacting safety, contact us immediately. Non-critical damage is handled via"
+}

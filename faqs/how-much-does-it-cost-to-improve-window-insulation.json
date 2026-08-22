@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-improve-window-insulation",
+  "name": "How much does it cost to improve window insulation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to improve window insulation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of improving window insulation varies widely based on the method chosen and the number of windows. Simple solutions like weatherstripping or caulk can be very inexpensive, often under $100 for a few windows. Installing low-e films might range from $5 to $15 per square foot. Storm windows can cost $100 to $400 per window, while replacing old windows with new energy-efficient ones can range from $300 to over $1,000 per window, depending on the type and material. A professional assessment can provide a precise estimate.",
+        "@type": "Answer",
+        "description": "Costs vary significantly based on the method, from inexpensive DIY options like weatherstripping to several hundred or even a thousand dollars per window for full replacement."
+      }
+    }
+  ],
+  "description": "Costs vary significantly based on the method, from inexpensive DIY options like weatherstripping to several hundred or even a thousand dollars per window for fu"
+}

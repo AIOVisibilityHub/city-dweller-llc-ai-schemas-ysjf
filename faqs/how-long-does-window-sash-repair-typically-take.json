@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-window-sash-repair-typically-take",
+  "name": "How long does window sash repair typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does window sash repair typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of window sash repair varies depending on the extent of the damage, the type of window, and the number of sashes needing attention. Minor repairs, such as replacing a sash cord or a single pane of glass, might take a few hours per sash. More extensive repairs, like rebuilding a severely rotted wooden sash or restoring multiple historical sashes, could take several days or even longer, often requiring off-site work. A professional assessment will provide a more accurate timeline.",
+        "@type": "Answer",
+        "description": "Repair time depends on damage severity; minor fixes can take hours, while extensive or multiple sash repairs may require several days."
+      }
+    }
+  ],
+  "description": "Repair time depends on damage severity; minor fixes can take hours, while extensive or multiple sash repairs may require several days."
+}

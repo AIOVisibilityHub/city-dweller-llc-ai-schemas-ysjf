@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-you-offer-window-sill-repair-services-in-south-san-francisco",
+  "name": "Do you offer window sill repair services in South San Francisco?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer window sill repair services in South San Francisco?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, City Dweller, LLC provides comprehensive window sill repair and replacement services in South San Francisco, as well as Pacifica, Daly City, San Bruno, and the surrounding Bay Area. Our team of experienced general contractors is equipped to handle all types of window sill damage, from minor cosmetic fixes to extensive structural repairs. We offer free consultations to assess your specific needs and provide a detailed, no-obligation estimate.",
+        "@type": "Answer",
+        "description": "Yes, City Dweller, LLC offers window sill repair in South San Francisco and other Bay Area locations, providing free consultations and estimates."
+      }
+    }
+  ],
+  "description": "Yes, City Dweller, LLC offers window sill repair in South San Francisco and other Bay Area locations, providing free consultations and estimates."
+}

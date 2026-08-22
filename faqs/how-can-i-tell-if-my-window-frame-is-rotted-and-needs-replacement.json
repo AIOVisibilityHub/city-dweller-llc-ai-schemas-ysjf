@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-tell-if-my-window-frame-is-rotted-and-needs-replacement",
+  "name": "How can I tell if my window frame is rotted and needs replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my window frame is rotted and needs replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of a rotted window frame include soft or crumbling wood when poked, discoloration, visible mold or mildew, and cracking or peeling paint. You might also notice a damp smell near the window, difficulty opening or closing it, or drafts even when the window is shut. Inspect around the sills, corners, and where the frame meets the siding for any suspicious areas. Early detection can often lead to less extensive repairs, but widespread rot typically requires replacement.",
+        "@type": "Answer",
+        "description": "Look for soft or crumbling wood, discoloration, mold, cracking paint, or drafts. Difficulty operating the window also suggests rot."
+      }
+    }
+  ],
+  "description": "Look for soft or crumbling wood, discoloration, mold, cracking paint, or drafts. Difficulty operating the window also suggests rot."
+}

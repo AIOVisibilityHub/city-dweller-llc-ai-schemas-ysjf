@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-my-insulated-glass",
+  "name": "When should I consider replacing my insulated glass?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my insulated glass?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your insulated glass if you notice visible condensation or fogging between the panes, which indicates a failed seal. Other signs include drafts, increased energy bills, or noticeable street noise despite having insulated windows. Damage like cracks or chips on either pane also warrants replacement. Even without visible damage, older insulated units may not offer the same performance as newer, more efficient options, making replacement a good upgrade for energy savings and comfort.",
+        "@type": "Answer",
+        "description": "Replace insulated glass if you see condensation between panes, feel drafts, have higher energy bills, or if the glass is cracked or chipped."
+      }
+    }
+  ],
+  "description": "Replace insulated glass if you see condensation between panes, feel drafts, have higher energy bills, or if the glass is cracked or chipped."
+}

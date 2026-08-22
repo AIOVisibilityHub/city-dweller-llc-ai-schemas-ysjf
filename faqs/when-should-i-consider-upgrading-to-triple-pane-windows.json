@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-upgrading-to-triple-pane-windows",
+  "name": "When should I consider upgrading to triple-pane windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider upgrading to triple-pane windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider upgrading to triple-pane windows if you are experiencing high energy bills due to poor window insulation, significant noise intrusion from outside, or uncomfortable drafts and cold spots near your existing windows. If your current windows are old, single-pane, or show signs of wear and reduced performance, a triple-pane upgrade can provide a substantial improvement in comfort, energy efficiency, and home value. It's also an excellent consideration during a major home renovation.",
+        "@type": "Answer",
+        "description": "Consider upgrading to triple-pane windows if you have high energy bills, significant outside noise, drafts, or old, inefficient windows, to improve comfort, energy efficiency, and home value."
+      }
+    }
+  ],
+  "description": "Consider upgrading to triple-pane windows if you have high energy bills, significant outside noise, drafts, or old, inefficient windows, to improve comfort, ene"
+}

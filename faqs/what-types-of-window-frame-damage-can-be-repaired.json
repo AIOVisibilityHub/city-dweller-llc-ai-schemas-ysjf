@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-window-frame-damage-can-be-repaired",
+  "name": "What types of window frame damage can be repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of window frame damage can be repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common types of window frame damage that can be repaired include wood rot, insect damage, minor cracks, loose joints, and weather-related wear and tear. We can often restore structural integrity and appearance by patching, reinforcing, or replacing specific sections of the frame. This approach helps maintain the window's function and aesthetic without the higher cost of full replacement, depending on the extent of the damage.",
+        "@type": "Answer",
+        "description": "Common repairs include wood rot, insect damage, cracks, and loose joints, restoring structural integrity and appearance."
+      }
+    }
+  ],
+  "description": "Common repairs include wood rot, insect damage, cracks, and loose joints, restoring structural integrity and appearance."
+}

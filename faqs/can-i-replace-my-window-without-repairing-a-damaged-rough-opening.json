@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-replace-my-window-without-repairing-a-damaged-rough-opening",
+  "name": "Can I replace my window without repairing a damaged rough opening?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my window without repairing a damaged rough opening?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is not advisable to replace a window without first addressing any damage to the rough opening. Installing a new window into a compromised opening can lead to numerous issues, including an improper seal, reduced energy efficiency, accelerated wear and tear on the new window, and continued structural problems or water intrusion. Repairing the rough opening ensures the new window performs optimally and lasts longer.",
+        "@type": "Answer",
+        "description": "No, it's not advisable. A damaged rough opening compromises the new window's performance, seal, and longevity, and can continue structural issues."
+      }
+    }
+  ],
+  "description": "No, it's not advisable. A damaged rough opening compromises the new window's performance, seal, and longevity, and can continue structural issues."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-replacing-a-rotted-window-sill",
+  "name": "What is the typical process for replacing a rotted window sill?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for replacing a rotted window sill?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The replacement process typically involves removing the old, rotted wood, carefully assessing any underlying damage to the window frame or wall structure, and preparing the opening. New sill material is then cut to size, fitted, and properly secured. After installation, the sill is usually primed, painted, and sealed with caulk to protect it from moisture. This ensures a durable and watertight repair.",
+        "@type": "Answer",
+        "description": "The process includes removing old wood, assessing damage, installing new material, then priming, painting, and sealing the sill."
+      }
+    }
+  ],
+  "description": "The process includes removing old wood, assessing damage, installing new material, then priming, painting, and sealing the sill."
+}

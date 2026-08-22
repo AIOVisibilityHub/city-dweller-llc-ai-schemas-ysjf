@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-range-for-window-sash-repair-in-the-bay-area",
+  "name": "What is the typical cost range for window sash repair in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for window sash repair in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of window sash repair in the Bay Area varies widely based on the type of repair, material, and labor rates. Simple fixes like replacing a sash cord or minor wood rot can range from a few hundred dollars per sash. More complex repairs, such as glass replacement in a custom sash or extensive wood restoration, can cost upwards of $500 to over $1,000 per sash. A detailed estimate from a local contractor is essential, as prices reflect Bay Area labor and material costs.",
+        "@type": "Answer",
+        "description": "Costs vary significantly; simple repairs might be a few hundred dollars, while complex fixes can exceed $1,000 per sash in the Bay Area. Get a detailed quote."
+      }
+    }
+  ],
+  "description": "Costs vary significantly; simple repairs might be a few hundred dollars, while complex fixes can exceed $1,000 per sash in the Bay Area. Get a detailed quote."
+}

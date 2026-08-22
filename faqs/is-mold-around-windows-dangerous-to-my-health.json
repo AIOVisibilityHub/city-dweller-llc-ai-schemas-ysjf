@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/is-mold-around-windows-dangerous-to-my-health",
+  "name": "Is mold around windows dangerous to my health?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is mold around windows dangerous to my health?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Exposure to mold can cause various health issues, particularly for individuals with allergies, asthma, or compromised immune systems. Symptoms can include respiratory problems, nasal stuffiness, eye irritation, skin rash, or wheezing. While some molds are more toxic than others, any visible mold growth indoors should be addressed promptly to mitigate potential health risks and prevent further spread in your home.",
+        "@type": "Answer",
+        "description": "Mold exposure can cause respiratory issues, allergies, and irritation. All visible indoor mold should be addressed to prevent health risks."
+      }
+    }
+  ],
+  "description": "Mold exposure can cause respiratory issues, allergies, and irritation. All visible indoor mold should be addressed to prevent health risks."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-an-stc-rating-and-why-is-it-important-for-noise-reducing-windows",
+  "name": "What is an STC rating, and why is it important for noise-reducing windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an STC rating, and why is it important for noise-reducing windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "STC stands for Sound Transmission Class, and it's a single-number rating system used to measure a material's or assembly's effectiveness in reducing airborne sound. A higher STC rating indicates better sound insulation. For windows, standard single-pane windows typically have an STC of around 18-20, while specialized noise-reducing windows can achieve STC ratings of 35-40 or even higher. Understanding the STC rating helps you compare different window options and choose a product that meets your desired level of noise reduction.",
+        "@type": "Answer",
+        "description": "STC (Sound Transmission Class) measures how well a window blocks airborne sound; a higher STC rating means better noise reduction. It helps compare window effectiveness."
+      }
+    }
+  ],
+  "description": "STC (Sound Transmission Class) measures how well a window blocks airborne sound; a higher STC rating means better noise reduction. It helps compare window effec"
+}

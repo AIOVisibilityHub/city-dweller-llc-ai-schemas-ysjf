@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-low-e-glass-and-why-is-it-important-for-double-pane-windows",
+  "name": "What is Low-E glass, and why is it important for double-pane windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is Low-E glass, and why is it important for double-pane windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Low-E, or low-emissivity, glass has a microscopically thin, transparent coating that reflects radiant heat. In double-pane windows, this coating helps keep your home warmer in winter by reflecting indoor heat back inside and cooler in summer by reflecting outdoor heat away. It also helps block harmful UV rays, protecting furniture and flooring from fading. This coating is crucial for improving the energy performance of your windows without significantly impacting visible light transmission.",
+        "@type": "Answer",
+        "description": "Low-E glass has a coating that reflects heat, keeping homes warmer in winter and cooler in summer. It also blocks UV rays, enhancing energy efficiency and protecting interiors."
+      }
+    }
+  ],
+  "description": "Low-E glass has a coating that reflects heat, keeping homes warmer in winter and cooler in summer. It also blocks UV rays, enhancing energy efficiency and prote"
+}

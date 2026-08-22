@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-identify-rot-damage-around-my-windows",
+  "name": "How can I identify rot damage around my windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I identify rot damage around my windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Look for visual cues like discolored, soft, or crumbly wood. You might also see cracks in the paint, peeling paint, or a musty odor near the windows. Probing the wood with a screwdriver can reveal soft spots. Small holes may indicate insect activity attracted by the damp wood. Early detection is key to preventing more extensive and costly repairs.",
+        "@type": "Answer",
+        "description": "Identify rot by checking for discolored, soft, or crumbly wood, peeling paint, or a musty odor. Probing with a screwdriver can reveal soft spots."
+      }
+    }
+  ],
+  "description": "Identify rot by checking for discolored, soft, or crumbly wood, peeling paint, or a musty odor. Probing with a screwdriver can reveal soft spots."
+}

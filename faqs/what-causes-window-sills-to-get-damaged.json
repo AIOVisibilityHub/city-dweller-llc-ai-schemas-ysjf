@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-window-sills-to-get-damaged",
+  "name": "What causes window sills to get damaged?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes window sills to get damaged?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window sills can suffer damage from several factors, including water exposure, UV light, pest infestation, and general wear and tear. Water penetration, often from leaky windows or rain, can lead to rot in wood sills or deterioration in other materials. Sunlight can cause fading, cracking, or warping over time. Pests like termites or carpenter ants can tunnel through wooden sills, compromising their structural integrity. Physical impacts or neglected maintenance also contribute to damage.",
+        "@type": "Answer",
+        "description": "Water exposure, UV light, pests, and general wear are common causes of window sill damage."
+      }
+    }
+  ],
+  "description": "Water exposure, UV light, pests, and general wear are common causes of window sill damage."
+}

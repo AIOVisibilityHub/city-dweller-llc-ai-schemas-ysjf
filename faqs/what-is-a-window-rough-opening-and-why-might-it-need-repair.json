@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-window-rough-opening-and-why-might-it-need-repair",
+  "name": "What is a window rough opening and why might it need repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a window rough opening and why might it need repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A window rough opening is the framed space in your wall where a window will be installed. It's crucial for supporting the window and ensuring proper sealing. Repairs are often needed due to water damage causing wood rot, structural shifting leading to an out-of-square opening, or pest infestation. A damaged rough opening can compromise your home's energy efficiency, allow water intrusion, and affect the stability of the window itself.",
+        "@type": "Answer",
+        "description": "A window rough opening is the framed space for a window. Repairs are needed for water damage, structural issues, or pests to maintain window integrity and home efficiency."
+      }
+    }
+  ],
+  "description": "A window rough opening is the framed space for a window. Repairs are needed for water damage, structural issues, or pests to maintain window integrity and home"
+}

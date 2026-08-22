@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/is-window-rough-opening-repair-considered-a-structural-repair",
+  "name": "Is window rough opening repair considered a structural repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is window rough opening repair considered a structural repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window rough opening repair can range from non-structural to structural, depending on the extent of the damage. Replacing minor shims or small sections of sill plate is typically non-structural. However, if the header, king studs, or cripple studs (key load-bearing elements) are compromised and need replacement, it is considered a structural repair. These structural repairs require careful attention to maintain the integrity of your home's framework.",
+        "@type": "Answer",
+        "description": "It can be either. Minor repairs are non-structural, but replacement of load-bearing elements like headers or studs is considered a structural repair."
+      }
+    }
+  ],
+  "description": "It can be either. Minor repairs are non-structural, but replacement of load-bearing elements like headers or studs is considered a structural repair."
+}

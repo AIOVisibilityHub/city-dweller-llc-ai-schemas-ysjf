@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-tell-if-the-discoloration-around-my-window-is-mold-or-just-dirt",
+  "name": "How can I tell if the discoloration around my window is mold or just dirt?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if the discoloration around my window is mold or just dirt?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mold often appears as fuzzy, slimy, or discolored patches (black, green, brown, or white) on surfaces. Unlike dirt, mold tends to grow in irregular patterns and may have a musty odor. If you suspect mold, try gently dabbing the area with a cotton swab dipped in bleach; if the color lightens or disappears, it's likely mold. For confirmation, especially if the area is large or difficult to access, professional inspection is recommended.",
+        "@type": "Answer",
+        "description": "Mold is usually fuzzy, slimy, or discolored with a musty odor, unlike dirt. A bleach test can help identify it, but professional inspection offers certainty."
+      }
+    }
+  ],
+  "description": "Mold is usually fuzzy, slimy, or discolored with a musty odor, unlike dirt. A bleach test can help identify it, but professional inspection offers certainty."
+}

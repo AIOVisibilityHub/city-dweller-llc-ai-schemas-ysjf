@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-you-repair-both-wood-and-vinyl-window-sashes",
+  "name": "Can you repair both wood and vinyl window sashes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you repair both wood and vinyl window sashes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, sash repair services typically cover both wood and vinyl windows, although the repair methods differ. Wood sashes are often repaired by addressing rot, replacing damaged sections, or restoring original features. Vinyl sashes, while durable, can suffer from warping, cracking, or seal failure, which often involves component replacement rather than extensive structural repair. Our team assesses the material and damage to determine the most effective repair approach for your specific window type.",
+        "@type": "Answer",
+        "description": "We repair both wood and vinyl window sashes, using different methods tailored to each material's specific damage and characteristics."
+      }
+    }
+  ],
+  "description": "We repair both wood and vinyl window sashes, using different methods tailored to each material's specific damage and characteristics."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-common-problems-indicate-my-window-sashes-need-repair",
+  "name": "What common problems indicate my window sashes need repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common problems indicate my window sashes need repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common indicators for sash repair include difficulty opening or closing windows, drafts despite closed windows, visible rot or decay on wood sashes, cracked or broken glass within the sash, loose or rattling sashes, and failed window balances or cords. If you notice moisture intrusion, condensation between glass panes (for double-paned sashes), or compromised security due to a loose sash, it's time to consider repairs.",
+        "@type": "Answer",
+        "description": "Difficulty opening/closing, drafts, rot, broken glass, loose sashes, or failed balances are common signs your window sashes need repair."
+      }
+    }
+  ],
+  "description": "Difficulty opening/closing, drafts, rot, broken glass, loose sashes, or failed balances are common signs your window sashes need repair."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-repair-rot-damage-around-windows",
+  "name": "How long does it take to repair rot damage around windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair rot damage around windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration depends on the severity of the rot. Minor repairs, such as scraping out soft wood and applying epoxy, might take a few hours to a day. More extensive repairs involving wood replacement or a full window installation can take one to several days per window, not including drying or curing times for sealants and paints. Multiple windows will naturally extend the project timeline.",
+        "@type": "Answer",
+        "description": "Minor rot repair can take a few hours to a day, while extensive repairs or window replacement may take one to several days per window."
+      }
+    }
+  ],
+  "description": "Minor rot repair can take a few hours to a day, while extensive repairs or window replacement may take one to several days per window."
+}

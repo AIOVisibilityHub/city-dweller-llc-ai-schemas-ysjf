@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/is-insulated-glass-replacement-available-for-all-types-of-windows",
+  "name": "Is insulated glass replacement available for all types of windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is insulated glass replacement available for all types of windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Insulated glass replacement is generally available for most common window types, including single-hung, double-hung, casement, awning, picture, and sliding windows. The key factor is whether the existing window frame is designed to accommodate an insulated glass unit and remains in good structural condition. Custom-sized IGUs can be fabricated to fit unique window openings. However, specialized or historic windows may require a more tailored approach or full sash replacement.",
+        "@type": "Answer",
+        "description": "Insulated glass replacement is available for most window types, provided the frame is suitable; custom units can be made for unique sizes."
+      }
+    }
+  ],
+  "description": "Insulated glass replacement is available for most window types, provided the frame is suitable; custom units can be made for unique sizes."
+}

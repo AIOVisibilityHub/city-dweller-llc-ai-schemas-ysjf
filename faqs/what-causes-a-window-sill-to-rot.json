@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-a-window-sill-to-rot",
+  "name": "What causes a window sill to rot?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a window sill to rot?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window sills primarily rot due to prolonged exposure to moisture. This can result from rain, condensation buildup, or leaks in the window frame or siding. Poor drainage around the window, inadequate paint protection, or failure to seal gaps can also allow water to penetrate the wood, leading to decay over time. Regular maintenance and prompt addressing of water issues are crucial to prevent rot.",
+        "@type": "Answer",
+        "description": "Window sills rot mainly from prolonged moisture exposure due to rain, condensation, or leaks. Poor drainage or inadequate sealing can also contribute."
+      }
+    }
+  ],
+  "description": "Window sills rot mainly from prolonged moisture exposure due to rain, condensation, or leaks. Poor drainage or inadequate sealing can also contribute."
+}

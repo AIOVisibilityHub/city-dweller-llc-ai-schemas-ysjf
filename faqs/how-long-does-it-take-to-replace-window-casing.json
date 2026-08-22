@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-replace-window-casing",
+  "name": "How long does it take to replace window casing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace window casing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to replace window casing depends on the number of windows, the complexity of the trim profiles, and the type of material. For a single window with straightforward casing, the replacement might take a few hours. For multiple windows or custom, intricate designs, it could extend to several days. Exterior casing often takes longer due to weatherproofing considerations. A professional contractor can provide a more accurate timeline after assessing your project's scope.",
+        "@type": "Answer",
+        "description": "Replacement time varies based on the number of windows and casing complexity, ranging from a few hours for one window to several days for multiple."
+      }
+    }
+  ],
+  "description": "Replacement time varies based on the number of windows and casing complexity, ranging from a few hours for one window to several days for multiple."
+}

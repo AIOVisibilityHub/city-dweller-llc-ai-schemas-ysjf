@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-average-cost-to-replace-a-rotted-window-sill-in-the-bay-area",
+  "name": "What is the average cost to replace a rotted window sill in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to replace a rotted window sill in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to replace a rotted window sill in the Bay Area can vary significantly depending on the extent of the rot, the type of window, and the chosen replacement material. Minor repairs might be less expensive, while extensive structural damage would increase costs. Additionally, labor rates in the Bay Area tend to be higher than in other regions. It is best to obtain a detailed quote after an on-site inspection for an accurate estimate.",
+        "@type": "Answer",
+        "description": "Costs vary based on rot extent, window type, and material. Bay Area labor rates are higher. Obtain an on-site quote for accuracy."
+      }
+    }
+  ],
+  "description": "Costs vary based on rot extent, window type, and material. Bay Area labor rates are higher. Obtain an on-site quote for accuracy."
+}

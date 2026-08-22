@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-a-window-sill-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair a window sill myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair a window sill myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor cosmetic damage, like small scratches or chips, can often be addressed by a DIY enthusiast with basic tools and some patience. However, issues involving significant wood rot, structural damage, or water infiltration require professional expertise. A general contractor has the specialized tools, knowledge, and experience to correctly identify the root cause of the damage, perform durable repairs, and ensure proper sealing to prevent future issues. Incorrect DIY repairs can lead to further, more costly problems.",
+        "@type": "Answer",
+        "description": "DIY is suitable for minor cosmetic damage; significant rot or structural issues require a professional to ensure durable repairs and prevent future problems."
+      }
+    }
+  ],
+  "description": "DIY is suitable for minor cosmetic damage; significant rot or structural issues require a professional to ensure durable repairs and prevent future problems."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/why-do-my-windows-have-condensation-on-the-inside",
+  "name": "Why do my windows have condensation on the inside?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why do my windows have condensation on the inside?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Condensation on the inside of your windows typically indicates high indoor humidity. This occurs when warm, moist air inside your home comes into contact with the cooler surface of the window glass. Common sources of indoor humidity include cooking, showering, drying clothes, and even breathing. While some condensation is normal, excessive or persistent interior condensation can be a sign of poor ventilation or that your windows are not effectively insulating against outdoor temperatures, potentially leading to mold growth or water damage over time.",
+        "@type": "Answer",
+        "description": "Condensation on the inside of windows is usually caused by high indoor humidity meeting cooler glass surfaces."
+      }
+    }
+  ],
+  "description": "Condensation on the inside of windows is usually caused by high indoor humidity meeting cooler glass surfaces."
+}

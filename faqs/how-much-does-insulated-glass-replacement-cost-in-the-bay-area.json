@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-insulated-glass-replacement-cost-in-the-bay-area",
+  "name": "How much does insulated glass replacement cost in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does insulated glass replacement cost in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of insulated glass replacement in the Bay Area can vary widely depending on several factors, including the size and type of the glass unit, the number of panes, the presence of special coatings (like low-e), gas fills (argon), and the complexity of the installation. Replacement costs are typically quoted per unit and can range significantly. Getting a detailed estimate from a local contractor after an on-site assessment is the most accurate way to understand the specific cost for your project.",
+        "@type": "Answer",
+        "description": "Costs for insulated glass replacement in the Bay Area vary based on glass size, type, coatings, gas fills, and installation complexity."
+      }
+    }
+  ],
+  "description": "Costs for insulated glass replacement in the Bay Area vary based on glass size, type, coatings, gas fills, and installation complexity."
+}

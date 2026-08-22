@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-window-trim-repair-cost-in-the-bay-area",
+  "name": "How much does window trim repair cost in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does window trim repair cost in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of window trim repair in the Bay Area varies depending on several factors, such as the type of material (wood, PVC, composite), the extent of the damage, the number of windows needing repair, and the complexity of the trim profile. Minor repairs, like filling small cracks, are less costly than replacing entire sections of trim due to extensive rot. It's best to get a detailed estimate for your specific project.",
+        "@type": "Answer",
+        "description": "Costs for window trim repair in the Bay Area vary based on material, damage extent, and labor. A custom estimate is recommended."
+      }
+    }
+  ],
+  "description": "Costs for window trim repair in the Bay Area vary based on material, damage extent, and labor. A custom estimate is recommended."
+}

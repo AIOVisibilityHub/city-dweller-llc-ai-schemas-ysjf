@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-my-window-sill-needs-replacement",
+  "name": "How do I know if my window sill needs replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my window sill needs replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs that your window sill needs replacement include visible soft spots when poked with a screwdriver, discoloration, crumbling wood, or cracks. You might also notice a musty odor, peeling paint, or a spongy texture. If the rot is extensive, it can compromise the window's seal and allow water intrusion into your home, potentially leading to further damage and drafts.",
+        "@type": "Answer",
+        "description": "Look for soft spots, discoloration, crumbling wood, cracks, or a musty odor. Extensive rot can compromise the window seal."
+      }
+    }
+  ],
+  "description": "Look for soft spots, discoloration, crumbling wood, cracks, or a musty odor. Extensive rot can compromise the window seal."
+}

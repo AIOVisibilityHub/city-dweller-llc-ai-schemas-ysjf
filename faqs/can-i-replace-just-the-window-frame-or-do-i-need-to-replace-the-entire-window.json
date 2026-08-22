@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-replace-just-the-window-frame-or-do-i-need-to-replace-the-entire-window",
+  "name": "Can I replace just the window frame, or do I need to replace the entire window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace just the window frame, or do I need to replace the entire window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most cases, if the window frame is significantly damaged, replacing the entire window unit—frame and glass—is the most practical and efficient solution. This is because modern windows are manufactured as complete units designed for optimal performance. While it's technically possible to replace only a frame, it often leads to compatibility issues with existing glass, potential performance compromises, and can sometimes be more labor-intensive and costly than a full replacement. A complete unit ensures better energy efficiency, proper sealing, and a unified aesthetic.",
+        "@type": "Answer",
+        "description": "Generally, it's more practical and efficient to replace the entire window unit (frame and glass) if the frame is significantly damaged, ensuring better performance and sealing."
+      }
+    }
+  ],
+  "description": "Generally, it's more practical and efficient to replace the entire window unit (frame and glass) if the frame is significantly damaged, ensuring better performa"
+}

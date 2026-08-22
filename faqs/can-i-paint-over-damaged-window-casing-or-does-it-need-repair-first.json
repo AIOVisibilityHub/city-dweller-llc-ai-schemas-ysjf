@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-paint-over-damaged-window-casing-or-does-it-need-repair-first",
+  "name": "Can I paint over damaged window casing, or does it need repair first?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I paint over damaged window casing, or does it need repair first?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Painting over damaged window casing is generally not recommended as a permanent solution. While a fresh coat of paint might temporarily hide minor cosmetic flaws, it won't address underlying issues like rot, moisture damage, or structural instability. Painting over these problems can actually trap moisture, accelerating deterioration. It's crucial to properly repair or replace damaged sections first to ensure the longevity of the casing and prevent more costly problems down the line.",
+        "@type": "Answer",
+        "description": "Painting over damaged casing is not a solution. It won't fix underlying rot or moisture and can worsen problems. Repair damage first for longevity."
+      }
+    }
+  ],
+  "description": "Painting over damaged casing is not a solution. It won't fix underlying rot or moisture and can worsen problems. Repair damage first for longevity."
+}

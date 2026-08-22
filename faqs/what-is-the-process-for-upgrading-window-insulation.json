@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-upgrading-window-insulation",
+  "name": "What is the process for upgrading window insulation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for upgrading window insulation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an assessment of your existing windows to determine the best insulation improvement strategy. For minor upgrades like weatherstripping or caulking, existing seals are removed, surfaces cleaned, and new materials applied. For storm window installation, measurements are taken, and custom units are fitted over your existing windows. If replacing windows, the old units are carefully removed, new frames installed, windows seated, sealed, and trimmed. The process minimizes disruption and typically takes one to two days per several windows, depending on complexity.",
+        "@type": "Answer",
+        "description": "The process involves an assessment, preparation, and installation of chosen insulation method, ranging from sealing leaks to full window replacement."
+      }
+    }
+  ],
+  "description": "The process involves an assessment, preparation, and installation of chosen insulation method, ranging from sealing leaks to full window replacement."
+}

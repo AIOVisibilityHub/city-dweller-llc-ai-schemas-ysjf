@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-tell-if-i-have-water-damage-around-my-windows",
+  "name": "How can I tell if I have water damage around my windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if I have water damage around my windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Look for visible signs like discolored or stained drywall, peeling paint, or a musty odor near the window. Soft or crumbling wood on the window sill or frame is a clear indicator. You might also notice bubbling or warping of the wall materials. During rain, observe if water drips or streaks are visible indoors. If you suspect damage, gently press on the area with a screwdriver; if it feels soft or spongy, water damage is likely present. Persistent condensation between window panes can also be a sign of a failing seal, potentially leading to future issues.",
+        "@type": "Answer",
+        "description": "Look for discoloration, peeling paint, soft wood, musty odors, or visible water intrusion during rain."
+      }
+    }
+  ],
+  "description": "Look for discoloration, peeling paint, soft wood, musty odors, or visible water intrusion during rain."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-i-need-to-replace-my-window-sashes-or-the-entire-window",
+  "name": "How do I know if I need to replace my window sashes or the entire window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I need to replace my window sashes or the entire window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between sash replacement and full window replacement depends on the condition of your existing window frames. If the frames are structurally sound, free from rot, warping, or significant damage, and you're satisfied with their style, then sash replacement is often sufficient. However, if the frames are deteriorated, causing drafts, or if you desire a completely new window style or material, a full window replacement might be more appropriate. A professional inspection can accurately assess the best option for your home.",
+        "@type": "Answer",
+        "description": "Assess the window frame's condition: if frames are sound, replace sashes; if damaged or you want a new style, replace the entire window."
+      }
+    }
+  ],
+  "description": "Assess the window frame's condition: if frames are sound, replace sashes; if damaged or you want a new style, replace the entire window."
+}

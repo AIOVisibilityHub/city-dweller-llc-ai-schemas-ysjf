@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-repairing-a-wooden-window-sill",
+  "name": "What is the typical process for repairing a wooden window sill?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for repairing a wooden window sill?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for repairing a wooden window sill typically begins with a thorough inspection to assess the extent of the damage. For rot, the affected wood is carefully removed, and the area is treated to prevent further decay. Gaps or missing sections are then filled with wood epoxy or a suitable wood filler, sculpted to match the sill's original profile. Once cured, the repaired area is sanded smooth, primed, and painted to match the existing window trim, ensuring a seamless and durable finish.",
+        "@type": "Answer",
+        "description": "Wooden sill repair involves inspecting damage, removing rot, filling gaps with epoxy, then sanding, priming, and painting for a durable finish."
+      }
+    }
+  ],
+  "description": "Wooden sill repair involves inspecting damage, removing rot, filling gaps with epoxy, then sanding, priming, and painting for a durable finish."
+}

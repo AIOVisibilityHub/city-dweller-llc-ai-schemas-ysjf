@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-rotted-window-sill-replacement-take",
+  "name": "How long does a rotted window sill replacement take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a rotted window sill replacement take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required for a rotted window sill replacement varies based on the extent of the damage and the number of sills. A single sill replacement with minor rot typically takes a professional a few hours to a full day. If there is significant underlying structural damage that needs repair, or if multiple sills are being replaced, the project could extend over several days. An on-site assessment provides the most accurate timeline.",
+        "@type": "Answer",
+        "description": "A single sill replacement usually takes a few hours to a day. Extensive rot or multiple sills can extend the project to several days."
+      }
+    }
+  ],
+  "description": "A single sill replacement usually takes a few hours to a day. Extensive rot or multiple sills can extend the project to several days."
+}

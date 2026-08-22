@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-replace-a-rotted-window-sill-myself-or-should-i-hire-a-professional",
+  "name": "Can I replace a rotted window sill myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace a rotted window sill myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's possible for a homeowner with advanced DIY skills to replace a window sill, hiring a professional general contractor is often recommended. Professionals have the experience to identify and address underlying issues, ensuring the repair is done correctly and durably. Improper installation can lead to continued moisture problems or further structural damage, making a professional repair a wise investment for long-term protection.",
+        "@type": "Answer",
+        "description": "Though possible for skilled DIYers, hiring a professional contractor is recommended for proper identification and durable repair of underlying issues."
+      }
+    }
+  ],
+  "description": "Though possible for skilled DIYers, hiring a professional contractor is recommended for proper identification and durable repair of underlying issues."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-single-double-and-triple-pane-windows",
+  "name": "What is the difference between single, double, and triple-pane windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between single, double, and triple-pane windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary difference lies in the number of glass panes. Single-pane windows have one layer of glass and offer minimal insulation. Double-pane windows, the most common energy-efficient option, feature two panes of glass separated by a sealed space, often filled with an inert gas like argon. This gas layer significantly improves insulation by reducing heat transfer. Triple-pane windows add a third pane and another gas-filled space, offering the highest level of energy efficiency, noise reduction, and condensation resistance. However, they are heavier and typically more expensive.",
+        "@type": "Answer",
+        "description": "Single-pane has one glass layer, double-pane has two with a gas-filled space for better insulation, and triple-pane adds a third for maximum efficiency and noise reduction."
+      }
+    }
+  ],
+  "description": "Single-pane has one glass layer, double-pane has two with a gas-filled space for better insulation, and triple-pane adds a third for maximum efficiency and nois"
+}

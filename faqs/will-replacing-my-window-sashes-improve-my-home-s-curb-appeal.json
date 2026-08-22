@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-replacing-my-window-sashes-improve-my-home-s-curb-appeal",
+  "name": "Will replacing my window sashes improve my home's curb appeal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will replacing my window sashes improve my home's curb appeal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, replacing old, worn, or damaged window sashes can significantly improve your home's curb appeal. New sashes can instantly refresh the look of your windows, making them appear cleaner, more modern, and well-maintained. This upgrade can eliminate signs of wear such as peeling paint, rot, or outdated designs, contributing positively to your home's overall aesthetic. If you plan to sell your home, updated windows can also be a valuable selling point, attracting potential buyers and potentially increasing property value.",
+        "@type": "Answer",
+        "description": "Yes, replacing old or damaged window sashes can instantly refresh your home's appearance, making it look cleaner and more modern, enhancing curb appeal."
+      }
+    }
+  ],
+  "description": "Yes, replacing old or damaged window sashes can instantly refresh your home's appearance, making it look cleaner and more modern, enhancing curb appeal."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-does-repairing-a-window-opening-affect-energy-efficiency",
+  "name": "How does repairing a window opening affect energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does repairing a window opening affect energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a damaged window opening significantly improves your home's energy efficiency. When an opening is compromised by rot, settling, or poor construction, it creates gaps and pathways for air leakage, leading to drafts and increased heating or cooling costs. Proper repair ensures the opening is square, plumb, and well-sealed, allowing for a tight fit of the window unit. This reduces air infiltration, prevents thermal bridging, and enhances the overall insulation performance of the window assembly, ultimately lowering your utility bills and improving indoor comfort.",
+        "@type": "Answer",
+        "description": "Repairing a window opening improves energy efficiency by eliminating air leaks and drafts. A properly sealed and squared opening ensures the window fits tightly, enhancing insulation and reducing utility costs."
+      }
+    }
+  ],
+  "description": "Repairing a window opening improves energy efficiency by eliminating air leaks and drafts. A properly sealed and squared opening ensures the window fits tightly"
+}

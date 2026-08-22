@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-repairing-my-window-sashes-improve-my-home-s-energy-efficiency",
+  "name": "Will repairing my window sashes improve my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will repairing my window sashes improve my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, repairing damaged window sashes can significantly improve your home's energy efficiency. Common issues like drafts from loose sashes, cracked glass, or failed seals allow conditioned air to escape and unconditioned air to enter. By addressing these problems through sash repair, such as replacing faulty weatherstripping, sealing gaps, or replacing single-pane glass with more efficient options where applicable, your windows will provide better insulation, reducing energy loss and potentially lowering heating and cooling costs.",
+        "@type": "Answer",
+        "description": "Yes, repairing issues like drafts, cracked glass, or failed seals in your sashes improves insulation, reduces energy loss, and can lower utility bills."
+      }
+    }
+  ],
+  "description": "Yes, repairing issues like drafts, cracked glass, or failed seals in your sashes improves insulation, reduces energy loss, and can lower utility bills."
+}

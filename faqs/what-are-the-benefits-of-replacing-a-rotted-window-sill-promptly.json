@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-benefits-of-replacing-a-rotted-window-sill-promptly",
+  "name": "What are the benefits of replacing a rotted window sill promptly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of replacing a rotted window sill promptly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Promptly replacing a rotted window sill prevents further damage to your home. Rot can spread to the window frame, wall studs, and even interior finishes, leading to more extensive and costly repairs down the line. Replacing it quickly also helps maintain your home's energy efficiency by sealing drafts and preventing water intrusion, preserving structural integrity, and improving curb appeal.",
+        "@type": "Answer",
+        "description": "Prompt replacement prevents rot from spreading, reduces repair costs, improves energy efficiency, and maintains structural integrity and curb appeal."
+      }
+    }
+  ],
+  "description": "Prompt replacement prevents rot from spreading, reduces repair costs, improves energy efficiency, and maintains structural integrity and curb appeal."
+}

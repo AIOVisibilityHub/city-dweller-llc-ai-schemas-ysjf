@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-window-trim-replacement-project-take",
+  "name": "How long does a typical window trim replacement project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical window trim replacement project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a window trim replacement project depends on the number of windows, the material chosen, and the complexity of the existing trim removal. For a few windows, the work might be completed within a day or two. A larger project involving many windows or custom trim work could take several days to a week. Our team works efficiently to minimize disruption, and we provide a detailed timeline after assessing your specific project requirements during the initial consultation.",
+        "@type": "Answer",
+        "description": "Project duration varies by the number of windows and complexity, typically ranging from a few days for a few windows to a week for larger projects."
+      }
+    }
+  ],
+  "description": "Project duration varies by the number of windows and complexity, typically ranging from a few days for a few windows to a week for larger projects."
+}

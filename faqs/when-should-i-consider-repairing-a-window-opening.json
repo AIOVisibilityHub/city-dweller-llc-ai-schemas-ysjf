@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-repairing-a-window-opening",
+  "name": "When should I consider repairing a window opening?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider repairing a window opening?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider repairing a window opening if you notice signs of water damage, rot, pest infestation in the framing, or if your windows are difficult to open, close, or latch properly. Gaps between the window frame and the wall, persistent drafts, or visible deterioration of the wood around the window are also indicators. These issues can compromise your home's insulation, lead to further structural damage, or allow moisture penetration. Addressing them promptly can prevent more extensive and costly repairs down the line.",
+        "@type": "Answer",
+        "description": "Consider repair if you see water damage, rot, pest issues, or difficulty operating windows. Gaps, drafts, or visible deterioration around the window also indicate a need for repair."
+      }
+    }
+  ],
+  "description": "Consider repair if you see water damage, rot, pest issues, or difficulty operating windows. Gaps, drafts, or visible deterioration around the window also indica"
+}

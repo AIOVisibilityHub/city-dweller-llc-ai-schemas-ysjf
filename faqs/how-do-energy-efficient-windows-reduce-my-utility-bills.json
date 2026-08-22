@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-energy-efficient-windows-reduce-my-utility-bills",
+  "name": "How do energy-efficient windows reduce my utility bills?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do energy-efficient windows reduce my utility bills?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "By minimizing heat transfer, energy-efficient windows reduce the workload on your heating and cooling systems. In summer, they block heat from entering your home, allowing your air conditioner to run less frequently. In winter, they retain indoor heat, reducing the need for constant heating. This leads to lower energy consumption, which directly translates into reduced monthly utility bills. The amount saved can vary based on factors like your home's insulation, climate, and the specific efficiency ratings of the new windows.",
+        "@type": "Answer",
+        "description": "Energy-efficient windows reduce utility bills by decreasing the workload on heating and cooling systems, thereby lowering energy consumption."
+      }
+    }
+  ],
+  "description": "Energy-efficient windows reduce utility bills by decreasing the workload on heating and cooling systems, thereby lowering energy consumption."
+}

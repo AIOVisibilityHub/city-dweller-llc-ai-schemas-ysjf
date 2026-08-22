@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-benefits-of-upgrading-to-low-e-insulated-glass",
+  "name": "What are the benefits of upgrading to Low-E insulated glass?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of upgrading to Low-E insulated glass?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upgrading to Low-E (low-emissivity) insulated glass offers significant energy efficiency benefits. Low-E coatings are microscopically thin, transparent layers applied to the glass surface that reflect infrared light, keeping heat inside in winter and outside in summer. This reduces energy consumption for heating and cooling, leading to lower utility bills. Additionally, Low-E glass blocks harmful UV rays, protecting furniture, carpets, and artwork from fading, while still allowing natural light to enter.",
+        "@type": "Answer",
+        "description": "Low-E insulated glass improves energy efficiency by reflecting heat, lowers utility bills, and blocks UV rays to protect interiors from fading."
+      }
+    }
+  ],
+  "description": "Low-E insulated glass improves energy efficiency by reflecting heat, lowers utility bills, and blocks UV rays to protect interiors from fading."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-my-windows-if-mold-damage-is-present",
+  "name": "When should I consider replacing my windows if mold damage is present?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my windows if mold damage is present?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your windows if mold growth is extensive, has compromised the structural integrity of the window frame or surrounding wall, or if the underlying issue (e.g., severe wood rot, persistent leaks, or chronic condensation due to poor insulation) cannot be effectively repaired. If the window itself is old, inefficient, or contributing significantly to moisture problems, replacement can be a more cost-effective long-term solution than repeated remediation efforts.",
+        "@type": "Answer",
+        "description": "Consider window replacement if mold is extensive, structurally damaging, or if the underlying cause like severe leaks or chronic condensation cannot be easily repaired, making replacement more cost-effective."
+      }
+    }
+  ],
+  "description": "Consider window replacement if mold is extensive, structurally damaging, or if the underlying cause like severe leaks or chronic condensation cannot be easily r"
+}

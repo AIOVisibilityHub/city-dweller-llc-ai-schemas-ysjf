@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-window-sash-replacement",
+  "name": "What is the process for window sash replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for window sash replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The window sash replacement process typically begins with an assessment of your existing windows and a discussion of material and style options. Once selections are made, measurements are taken. On installation day, the old sashes are carefully removed from the existing window frames. New sashes, custom-fitted to your window openings, are then installed, sealed, and properly aligned to ensure smooth operation and optimal energy performance. The work usually involves minimal disruption and leaves your existing frames intact.",
+        "@type": "Answer",
+        "description": "The process involves assessment, material selection, measurement, removal of old sashes, and installation of new, custom-fit sashes."
+      }
+    }
+  ],
+  "description": "The process involves assessment, material selection, measurement, removal of old sashes, and installation of new, custom-fit sashes."
+}

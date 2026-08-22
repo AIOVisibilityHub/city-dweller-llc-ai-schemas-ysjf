@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-window-casing-and-why-might-it-need-replacement",
+  "name": "What is window casing and why might it need replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is window casing and why might it need replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window casing refers to the trim or molding installed around a window frame, both inside and outside. It serves both aesthetic and functional purposes, covering gaps between the window and wall. Casing might need replacement due to water damage causing rot or mold, pest infestations, cracking or warping from sun exposure, or simply to update the home's aesthetic during a renovation. Replacing damaged casing protects your home's structure and can improve insulation.",
+        "@type": "Answer",
+        "description": "Window casing is the trim around windows. It often needs replacement due to damage from water, pests, or age, or for aesthetic updates."
+      }
+    }
+  ],
+  "description": "Window casing is the trim around windows. It often needs replacement due to damage from water, pests, or age, or for aesthetic updates."
+}

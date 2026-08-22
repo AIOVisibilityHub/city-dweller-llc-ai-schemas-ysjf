@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/is-window-condensation-a-sign-i-need-new-windows",
+  "name": "Is window condensation a sign I need new windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is window condensation a sign I need new windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not always, but it can be. If you see condensation only on the inside surface of your windows, it might be a humidity issue that can be resolved with better ventilation or a dehumidifier. However, if the condensation is persistent, heavy, or occurring between the glass panes, it's a strong indicator that your existing windows are no longer performing effectively. Failed seals, poor insulation, or outdated single-pane windows often warrant replacement to improve comfort, energy efficiency, and prevent potential moisture-related damage to your home.",
+        "@type": "Answer",
+        "description": "Interior condensation might be a humidity issue, but persistent or inter-pane condensation often signals a need for new windows."
+      }
+    }
+  ],
+  "description": "Interior condensation might be a humidity issue, but persistent or inter-pane condensation often signals a need for new windows."
+}

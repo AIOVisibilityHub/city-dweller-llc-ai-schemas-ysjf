@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-repairing-and-replacing-a-window-with-water-damage",
+  "name": "What's the difference between repairing and replacing a window with water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between repairing and replacing a window with water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing water damage focuses on addressing the specific areas affected by moisture, such as replacing rotted wood, sealing leaks, or repairing drywall, while retaining the existing window frame and glass. This is suitable for localized damage where the window itself is structurally sound. Replacing a window, however, involves removing the entire old unit and installing a new one. This is necessary if the window frame is severely warped, structurally compromised, or if the glass unit has failed. Replacement often provides better energy efficiency and is a more comprehensive solution for extensive damage.",
+        "@type": "Answer",
+        "description": "Repairing addresses specific damaged areas around an existing window, while replacing involves installing an entirely new window unit due to severe damage or failure."
+      }
+    }
+  ],
+  "description": "Repairing addresses specific damaged areas around an existing window, while replacing involves installing an entirely new window unit due to severe damage or fa"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-replace-just-a-portion-of-my-window-casing-or-do-i-need-to-replace-it-all",
+  "name": "Can I replace just a portion of my window casing or do I need to replace it all?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace just a portion of my window casing or do I need to replace it all?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can replace just a portion or all of your window casing depends on the extent of the damage and the type of casing. If only a small section is damaged and the casing is a simple, uniform profile, a partial replacement might be feasible, provided you can match the existing material and style. However, if damage is widespread, or if the casing has an intricate profile that is difficult to match seamlessly, replacing the entire casing around the window is usually recommended for a consistent and durable finish.",
+        "@type": "Answer",
+        "description": "Partial replacement is possible for minor, localized damage and simple profiles. Full replacement is recommended for widespread damage or intricate casing that's hard to match."
+      }
+    }
+  ],
+  "description": "Partial replacement is possible for minor, localized damage and simple profiles. Full replacement is recommended for widespread damage or intricate casing that'"
+}

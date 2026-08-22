@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-window-trim-and-why-is-it-important-for-my-home",
+  "name": "What is window trim and why is it important for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is window trim and why is it important for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window trim, also known as casing, frames the window and covers the gap between the window frame and the wall. It's crucial for both aesthetics and function. Aesthetically, it enhances your home's curb appeal and interior design. Functionally, it seals the window, preventing drafts, moisture intrusion, and improving energy efficiency by reducing heat loss or gain. Well-maintained trim also protects the structural integrity of your windows and walls from weather elements, especially in areas like the Bay Area where moisture can be a concern.",
+        "@type": "Answer",
+        "description": "Window trim frames your windows, provides aesthetic appeal, seals against drafts and moisture, and improves energy efficiency."
+      }
+    }
+  ],
+  "description": "Window trim frames your windows, provides aesthetic appeal, seals against drafts and moisture, and improves energy efficiency."
+}

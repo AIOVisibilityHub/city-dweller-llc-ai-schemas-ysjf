@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-replacing-window-trim",
+  "name": "What is the process for replacing window trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing window trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The window trim replacement process typically begins with an initial consultation and assessment to determine needs and material choices. Next, the existing trim is carefully removed, ensuring no damage to the window or surrounding wall. The area is then prepped, which may include cleaning, minor repairs, or sealing. New trim is then precisely cut, fitted, and installed. Finally, the trim is finished with caulk, primer, and paint to match your home's exterior or interior aesthetic, ensuring a seamless and weather-tight seal.",
+        "@type": "Answer",
+        "description": "The process involves assessment, removal of old trim, prepping the area, installing new trim, and finishing with caulk and paint."
+      }
+    }
+  ],
+  "description": "The process involves assessment, removal of old trim, prepping the area, installing new trim, and finishing with caulk and paint."
+}

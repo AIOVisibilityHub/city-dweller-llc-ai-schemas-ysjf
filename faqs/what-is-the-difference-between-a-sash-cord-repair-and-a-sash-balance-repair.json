@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-a-sash-cord-repair-and-a-sash-balance-repair",
+  "name": "What is the difference between a sash cord repair and a sash balance repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a sash cord repair and a sash balance repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sash cord repair typically applies to older, double-hung windows that use a system of ropes (sash cords) and counterweights to hold the sash in place. When a cord breaks, the sash can no longer stay open on its own. Sash balance repair, conversely, refers to fixing or replacing spring-loaded or coil balances found in more modern double-hung windows. These balances perform the same function as cords and weights—counterbalancing the sash—but operate using a spring mechanism. Both repairs aim to restore smooth, effortless window operation.",
+        "@type": "Answer",
+        "description": "Sash cord repair fixes ropes in older windows with counterweights, while sash balance repair addresses spring-loaded or coil mechanisms in newer windows. Both restore window operation."
+      }
+    }
+  ],
+  "description": "Sash cord repair fixes ropes in older windows with counterweights, while sash balance repair addresses spring-loaded or coil mechanisms in newer windows. Both r"
+}

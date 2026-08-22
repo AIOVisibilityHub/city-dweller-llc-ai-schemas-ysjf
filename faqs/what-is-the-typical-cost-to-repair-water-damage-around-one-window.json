@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-to-repair-water-damage-around-one-window",
+  "name": "What is the typical cost to repair water damage around one window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to repair water damage around one window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair water damage around a single window in the Bay Area varies widely based on the extent of the damage. Minor repairs, like recaulking and repainting, might range from $300 to $800. If the damage involves replacing sections of drywall, insulation, or parts of the window frame due to rot, costs can range from $1,500 to $4,000 or more. Extensive structural damage or mold remediation will significantly increase the price. A proper assessment is needed to provide an accurate estimate, as unseen damage can often be more severe than surface indications.",
+        "@type": "Answer",
+        "description": "Costs range from $300 for minor fixes to $4,000+ for extensive damage involving structural repairs or mold, varying by severity."
+      }
+    }
+  ],
+  "description": "Costs range from $300 for minor fixes to $4,000+ for extensive damage involving structural repairs or mold, varying by severity."
+}

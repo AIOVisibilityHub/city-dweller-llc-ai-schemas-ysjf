@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-window-frame-repair-take",
+  "name": "How long does a typical window frame repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical window frame repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a window frame repair depends on the complexity and extent of the damage. Simple repairs, such as fixing minor cracks or replacing small sections of wood rot, might be completed in a few hours. More involved repairs, like extensive rot removal or structural reinforcement, could take a full day or multiple days per window. We provide an estimated timeline during our initial assessment to help you plan accordingly.",
+        "@type": "Answer",
+        "description": "Repair time depends on damage complexity. Simple fixes may take hours; extensive repairs could take a full day or more per window. We provide estimated timelines."
+      }
+    }
+  ],
+  "description": "Repair time depends on damage complexity. Simple fixes may take hours; extensive repairs could take a full day or more per window. We provide estimated timeline"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-window-sash-and-why-would-i-replace-it",
+  "name": "What is a window sash and why would I replace it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a window sash and why would I replace it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A window sash is the part of the window that holds the glass panes and moves when you open or close the window. You might replace a window sash if it's damaged due to rot, cracks, or broken glass, or if you're looking to improve energy efficiency without replacing the entire window frame. Replacing only the sash can be a cost-effective solution to update your windows, enhance insulation, and improve the aesthetic appeal of your home, especially if the existing window frames are still in good condition.",
+        "@type": "Answer",
+        "description": "A window sash holds the glass and moves. Replacement is needed for damage, energy efficiency, or an updated look, often saving the expense of full window replacement."
+      }
+    }
+  ],
+  "description": "A window sash holds the glass and moves. Replacement is needed for damage, energy efficiency, or an updated look, often saving the expense of full window replac"
+}

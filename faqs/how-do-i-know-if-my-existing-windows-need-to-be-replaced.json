@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-my-existing-windows-need-to-be-replaced",
+  "name": "How do I know if my existing windows need to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my existing windows need to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several signs indicate your windows might need replacement. You might notice drafts, condensation between the panes, or difficulty opening or closing them. High utility bills, even with a well-maintained HVAC system, can also point to inefficient windows. Visible damage like cracked frames, rotting wood, or broken seals are clear indicators. If your home experiences significant outside noise or uneven temperatures between rooms, new energy-efficient windows can provide a significant upgrade in comfort, energy savings, and property value.",
+        "@type": "Answer",
+        "description": "Signs for window replacement include drafts, condensation between panes, high utility bills, difficulty operating, visible damage, or excessive outside noise."
+      }
+    }
+  ],
+  "description": "Signs for window replacement include drafts, condensation between panes, high utility bills, difficulty operating, visible damage, or excessive outside noise."
+}

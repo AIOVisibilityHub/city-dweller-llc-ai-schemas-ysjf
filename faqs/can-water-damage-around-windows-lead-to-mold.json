@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-water-damage-around-windows-lead-to-mold",
+  "name": "Can water damage around windows lead to mold?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can water damage around windows lead to mold?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, water damage around windows can very easily lead to mold growth. Mold thrives in damp, dark environments and feeds on organic materials commonly found in wall cavities, such as wood, drywall, and insulation. Even small, undetected leaks can create ideal conditions for mold within 24-48 hours. Once established, mold can spread and potentially impact indoor air quality, posing health risks. Early detection and remediation of water damage are crucial to prevent widespread mold contamination.",
+        "@type": "Answer",
+        "description": "Yes, water damage around windows frequently leads to mold growth, as moisture creates an ideal environment for it within wall materials."
+      }
+    }
+  ],
+  "description": "Yes, water damage around windows frequently leads to mold growth, as moisture creates an ideal environment for it within wall materials."
+}

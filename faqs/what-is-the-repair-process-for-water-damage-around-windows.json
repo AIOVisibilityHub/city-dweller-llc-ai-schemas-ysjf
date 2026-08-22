@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-repair-process-for-water-damage-around-windows",
+  "name": "What is the repair process for water damage around windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the repair process for water damage around windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically begins with identifying and stopping the source of the water intrusion. Next, the damaged materials, such as wet drywall, insulation, and rotted wood, are carefully removed. The area is then thoroughly cleaned, dried, and treated for any mold growth. Once dry, new framing, insulation, and drywall are installed. Finally, the window is re-sealed, flashed, and re-caulked to prevent future leaks, followed by finishing touches like painting. Proper ventilation and material selection are key to a lasting repair.",
+        "@type": "Answer",
+        "description": "The process involves stopping the leak, removing damaged materials, drying, treating for mold, replacing components, and resealing the window."
+      }
+    }
+  ],
+  "description": "The process involves stopping the leak, removing damaged materials, drying, treating for mold, replacing components, and resealing the window."
+}

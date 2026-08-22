@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-of-window-frame-replacement",
+  "name": "What is the typical cost of window frame replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost of window frame replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of window frame replacement varies widely based on factors such as the frame material, window type (e.g., single-hung, casement, picture), size, number of windows, and labor rates in your area. For example, vinyl frames are generally more affordable than wood or fiberglass. Installation complexity can also influence the total price. It's recommended to get detailed quotes from several contractors to understand the specific costs for your project. This will provide a clear breakdown of materials and labor.",
+        "@type": "Answer",
+        "description": "Typical costs for window frame replacement depend on material, window type, size, number of windows, and labor; vinyl is generally more affordable."
+      }
+    }
+  ],
+  "description": "Typical costs for window frame replacement depend on material, window type, size, number of windows, and labor; vinyl is generally more affordable."
+}

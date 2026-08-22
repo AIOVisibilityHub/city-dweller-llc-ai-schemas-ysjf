@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-exterior-and-interior-window-trim-repair",
+  "name": "What is the difference between exterior and interior window trim repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between exterior and interior window trim repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Exterior and interior window trim repair differ primarily in their exposure to elements and the materials used. Exterior trim is designed to withstand weather, moisture, and temperature fluctuations, often requiring more durable and weather-resistant materials and sealants. Interior trim is primarily aesthetic, focusing on finish and matching indoor decor, and is less exposed to harsh conditions. Repair techniques and material choices reflect these distinct functions.",
+        "@type": "Answer",
+        "description": "Exterior trim repair addresses weather-exposed damage with durable materials, while interior trim repair focuses on aesthetics and less harsh conditions."
+      }
+    }
+  ],
+  "description": "Exterior trim repair addresses weather-exposed damage with durable materials, while interior trim repair focuses on aesthetics and less harsh conditions."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-mold-to-grow-around-windows",
+  "name": "What causes mold to grow around windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes mold to grow around windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mold around windows is typically caused by excess moisture. This can result from condensation on cold windowpanes, especially in areas with high humidity or poor ventilation. Leaky window seals, gaps in framing, or issues with exterior drainage can also allow water to penetrate and create a damp environment conducive to mold growth. Identifying the specific moisture source is crucial for effective remediation.",
+        "@type": "Answer",
+        "description": "Mold around windows is caused by excess moisture from condensation, leaky seals, or water intrusion. High humidity and poor ventilation contribute to the problem."
+      }
+    }
+  ],
+  "description": "Mold around windows is caused by excess moisture from condensation, leaky seals, or water intrusion. High humidity and poor ventilation contribute to the proble"
+}

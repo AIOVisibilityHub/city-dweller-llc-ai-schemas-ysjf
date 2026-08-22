@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-repairing-my-window-sashes-instead-of-replacing-the-entir",
+  "name": "When should I consider repairing my window sashes instead of replacing the entire window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider repairing my window sashes instead of replacing the entire window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider sash repair if the window frame is still in good condition and the issues are isolated to the sash components. Repair is often more cost-effective for historical homes or when aiming to maintain the original aesthetic. If only a few sashes are damaged or if minor issues like broken glass or non-functioning balances are present, repair is a viable solution. Complete replacement is typically recommended when the entire window frame is compromised by extensive rot, significant structural damage, or if you're seeking a complete upgrade to a different window style or material.",
+        "@type": "Answer",
+        "description": "Repair is suitable when only the sash is damaged and the main window frame is sound, especially for historical homes. Replace if the entire window frame is severely compromised."
+      }
+    }
+  ],
+  "description": "Repair is suitable when only the sash is damaged and the main window frame is sound, especially for historical homes. Replace if the entire window frame is seve"
+}

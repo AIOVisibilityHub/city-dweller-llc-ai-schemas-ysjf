@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-repair-or-replace-my-existing-windows-for-better-insulation",
+  "name": "Should I repair or replace my existing windows for better insulation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my existing windows for better insulation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repair and replacement depends on the condition of your current windows and your budget. If your windows are structurally sound with minor issues like worn weatherstripping or small air leaks, repairing with caulk, new seals, or storm windows can significantly improve insulation at a lower cost. However, if your windows are old, single-pane, difficult to operate, show signs of rot, or have extensive damage, full replacement with energy-efficient windows is generally a more effective long-term solution for maximum insulation and comfort.",
+        "@type": "Answer",
+        "description": "Repair minor issues like drafts and worn seals for lower cost; replace if windows are old, single-pane, damaged, or to achieve maximum insulation and efficiency."
+      }
+    }
+  ],
+  "description": "Repair minor issues like drafts and worn seals for lower cost; replace if windows are old, single-pane, damaged, or to achieve maximum insulation and efficiency"
+}

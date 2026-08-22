@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-rotted-window-frames-affect-my-home-s-energy-efficiency",
+  "name": "Can rotted window frames affect my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can rotted window frames affect my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, rotted window frames can significantly compromise your home's energy efficiency. As wood rots, it can crack, crumble, and separate, creating gaps and openings in the window assembly. These gaps allow conditioned air from inside your home to escape and unconditioned outside air to infiltrate, leading to drafts and increased heating or cooling costs. The structural integrity of the window can also be compromised, further exacerbating air leakage. Replacing rotted frames helps restore the thermal barrier and improve your home's insulation, potentially lowering energy bills.",
+        "@type": "Answer",
+        "description": "Rotted window frames create gaps, causing air leaks that compromise insulation and energy efficiency, leading to higher utility bills. Replacement restores the thermal barrier."
+      }
+    }
+  ],
+  "description": "Rotted window frames create gaps, causing air leaks that compromise insulation and energy efficiency, leading to higher utility bills. Replacement restores the"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-materials-are-used-for-rot-resistant-window-frames",
+  "name": "What kind of materials are used for rot-resistant window frames?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of materials are used for rot-resistant window frames?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Modern rot-resistant window frames often utilize materials like vinyl, fiberglass, or aluminum, which do not absorb moisture and are impervious to rot. For wood windows, options include composite wood products, or naturally rot-resistant species like redwood or cedar, often treated with preservatives to enhance their durability and longevity against moisture and pests.",
+        "@type": "Answer",
+        "description": "Rot-resistant window frames use materials like vinyl, fiberglass, aluminum, or treated/composite wood, and naturally resistant species like redwood or cedar."
+      }
+    }
+  ],
+  "description": "Rot-resistant window frames use materials like vinyl, fiberglass, aluminum, or treated/composite wood, and naturally resistant species like redwood or cedar."
+}

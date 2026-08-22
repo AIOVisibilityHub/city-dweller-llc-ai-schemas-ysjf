@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-water-damage-around-windows",
+  "name": "What causes water damage around windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes water damage around windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water damage around windows is primarily caused by issues with flashing, seals, or the window frame itself. Improperly installed or deteriorated flashing allows water to penetrate the wall cavity. Failing caulk or gaskets around the window sash can let rain seep in. Over time, consistent exposure to moisture from rain or condensation can lead to wood rot, mold growth, and structural damage to the surrounding wall materials. Poor drainage around the foundation can also contribute by allowing water to wick up into the wall.",
+        "@type": "Answer",
+        "description": "Common causes include faulty flashing, deteriorated seals, or issues with the window frame allowing water penetration."
+      }
+    }
+  ],
+  "description": "Common causes include faulty flashing, deteriorated seals, or issues with the window frame allowing water penetration."
+}

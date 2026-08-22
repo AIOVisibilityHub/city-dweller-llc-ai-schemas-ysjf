@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-replace-only-the-glass-or-do-i-need-a-whole-new-window",
+  "name": "Can I replace only the glass, or do I need a whole new window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace only the glass, or do I need a whole new window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many cases, you can replace just the insulated glass unit (IGU) without replacing the entire window frame. This is a common and cost-effective solution when the window frame itself is still in good condition, structurally sound, and free from rot or significant damage. If the frame is compromised or you're looking for a different style or material, a full window replacement might be more appropriate. We assess the condition of your existing frames to recommend the best approach.",
+        "@type": "Answer",
+        "description": "Often, you can replace just the glass unit if the window frame is in good condition; a full window replacement is for damaged frames or style changes."
+      }
+    }
+  ],
+  "description": "Often, you can replace just the glass unit if the window frame is in good condition; a full window replacement is for damaged frames or style changes."
+}

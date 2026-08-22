@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-my-window-opening-issues-are-structural-or-just-cosmetic",
+  "name": "How do I know if my window opening issues are structural or just cosmetic?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my window opening issues are structural or just cosmetic?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Distinguishing between structural and cosmetic issues often requires a professional assessment. Cosmetic problems might include peeling paint, minor cracks in caulk, or superficial damage to the trim that doesn't affect the window's function. Structural issues, however, can manifest as visible sagging of the window header, difficulty operating the window, large gaps around the frame, significant wood rot that compromises the integrity, or cracks in the surrounding wall. If you suspect structural damage, a general contractor can properly evaluate the load-bearing elements and surrounding framework.",
+        "@type": "Answer",
+        "description": "Cosmetic issues are superficial, like peeling paint. Structural problems involve sagging headers, difficulty operating windows, large gaps, significant rot, or wall cracks, often requiring professional assessment."
+      }
+    }
+  ],
+  "description": "Cosmetic issues are superficial, like peeling paint. Structural problems involve sagging headers, difficulty operating windows, large gaps, significant rot, or"
+}

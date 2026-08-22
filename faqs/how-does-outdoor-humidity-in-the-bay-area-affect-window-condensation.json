@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-does-outdoor-humidity-in-the-bay-area-affect-window-condensation",
+  "name": "How does outdoor humidity in the Bay Area affect window condensation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does outdoor humidity in the Bay Area affect window condensation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The Bay Area's coastal climate often brings higher outdoor humidity, especially during certain seasons. This high external humidity combined with cooler indoor temperatures can exacerbate exterior window condensation. When the outside air is very humid and warm, and your window glass is cooled by an air-conditioned interior or nighttime temperatures, condensation can form on the exterior. While less problematic than interior condensation, persistent exterior condensation can indicate good insulation but also suggests periods of significant temperature and humidity differences.",
+        "@type": "Answer",
+        "description": "High outdoor humidity in the Bay Area can cause exterior window condensation, especially when windows are cooled by indoor air or night temperatures."
+      }
+    }
+  ],
+  "description": "High outdoor humidity in the Bay Area can cause exterior window condensation, especially when windows are cooled by indoor air or night temperatures."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-repairing-a-window-rough-opening",
+  "name": "What is the typical process for repairing a window rough opening?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for repairing a window rough opening?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically begins with removing the existing window and any damaged framing materials. The extent of the damage dictates the next steps; it might involve replacing rotted studs, shims, or headers, and ensuring the opening is plumb, level, and square. New flashing and weatherproofing membranes are installed to prevent future water intrusion, followed by the installation of the new or repaired window. The final step involves sealing and finishing the surrounding area.",
+        "@type": "Answer",
+        "description": "The process involves removing the window, replacing damaged framing, ensuring the opening is square, installing new flashing, and re-installing the window."
+      }
+    }
+  ],
+  "description": "The process involves removing the window, replacing damaged framing, ensuring the opening is square, installing new flashing, and re-installing the window."
+}

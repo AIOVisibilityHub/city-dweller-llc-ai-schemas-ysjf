@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-window-frames-to-warp",
+  "name": "What causes window frames to warp?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes window frames to warp?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window frames typically warp due to moisture absorption, extreme temperature fluctuations, or inadequate construction and installation. Wood frames are particularly susceptible to warping when exposed to high humidity and water, which causes the material to expand and contract unevenly. Vinyl frames can warp if exposed to excessive heat or direct sunlight, especially if they are not properly reinforced. Foundation shifts or structural movement in a home can also place stress on window frames, leading to distortion over time.",
+        "@type": "Answer",
+        "description": "Window frames often warp due to moisture, temperature changes, or poor installation. Wood and vinyl are both susceptible under specific conditions."
+      }
+    }
+  ],
+  "description": "Window frames often warp due to moisture, temperature changes, or poor installation. Wood and vinyl are both susceptible under specific conditions."
+}

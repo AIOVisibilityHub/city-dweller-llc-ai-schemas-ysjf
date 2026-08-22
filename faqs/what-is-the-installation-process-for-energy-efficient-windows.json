@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-installation-process-for-energy-efficient-windows",
+  "name": "What is the installation process for energy-efficient windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the installation process for energy-efficient windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The window installation process typically begins with removing old windows. This involves carefully detaching the existing frame and glass. Once the opening is clear, the new energy-efficient window unit is carefully placed and leveled in the rough opening. It is then securely fastened to the house's framing. After securing, the perimeter of the window is sealed with insulation and caulk to prevent air and moisture infiltration. Finally, interior and exterior trim is installed to finish the aesthetic. The process is usually completed in a day or two for a typical home.",
+        "@type": "Answer",
+        "description": "Installation involves removing old windows, precisely placing and securing new units, sealing the perimeter with insulation and caulk, and finishing with trim."
+      }
+    }
+  ],
+  "description": "Installation involves removing old windows, precisely placing and securing new units, sealing the perimeter with insulation and caulk, and finishing with trim."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-repair-or-replace-a-damaged-window-sill",
+  "name": "When should I repair or replace a damaged window sill?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair or replace a damaged window sill?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should repair a damaged window sill if the issue is minor, such as small cracks, chips, or cosmetic wear, and the underlying structure is sound. Repairing can involve patching, sanding, and repainting. However, replacement is necessary when damage is extensive, such as significant rot, severe warping, structural compromise, or widespread pest infestation. If the damage jeopardizes the window's integrity or allows water intrusion, replacement is generally the safer, long-term solution. A professional assessment can determine the best course of action.",
+        "@type": "Answer",
+        "description": "Repair minor damage like small cracks; replace sills with extensive rot, warping, or structural issues that compromise window integrity."
+      }
+    }
+  ],
+  "description": "Repair minor damage like small cracks; replace sills with extensive rot, warping, or structural issues that compromise window integrity."
+}

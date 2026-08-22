@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-key-features-to-look-for-in-energy-efficient-windows",
+  "name": "What are the key features to look for in energy-efficient windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key features to look for in energy-efficient windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing energy-efficient windows, look for several key features. Double or triple-pane glass with argon or krypton gas fills provides excellent insulation. Low-emissivity (low-e) coatings on the glass help reflect heat, keeping your home cooler in summer and warmer in winter. The U-factor, which measures heat transfer, should be low, typically 0.30 or less. Also, check the Solar Heat Gain Coefficient (SHGC) for how well the window blocks heat from the sun; a lower SHGC is better for preventing overheating in sunny climates. Look for durable frame materials like vinyl, fiberglass, or wood-clad, and quality weatherstripping to prevent air leaks.",
+        "@type": "Answer",
+        "description": "Look for double/triple-pane glass with gas fills, low-e coatings, low U-factor (heat transfer), and appropriate Solar Heat Gain Coefficient (SHGC) for your climate."
+      }
+    }
+  ],
+  "description": "Look for double/triple-pane glass with gas fills, low-e coatings, low U-factor (heat transfer), and appropriate Solar Heat Gain Coefficient (SHGC) for your clim"
+}

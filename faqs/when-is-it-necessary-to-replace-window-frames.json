@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-is-it-necessary-to-replace-window-frames",
+  "name": "When is it necessary to replace window frames?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it necessary to replace window frames?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window frames typically need replacement when they show signs of significant wear, such as rot, warping, cracking, or persistent drafts. If you notice increased energy bills, condensation between glass panes, or difficulty opening and closing windows, it could indicate failing frames. Damage from pests or water infiltration also necessitates replacement to prevent further structural issues and maintain your home's energy efficiency and comfort. Minor issues like worn weatherstripping can often be repaired, but widespread frame damage usually requires a full replacement.",
+        "@type": "Answer",
+        "description": "Replace window frames when they show significant damage like rot, warping, persistent drafts, or contribute to high energy bills."
+      }
+    }
+  ],
+  "description": "Replace window frames when they show significant damage like rot, warping, persistent drafts, or contribute to high energy bills."
+}

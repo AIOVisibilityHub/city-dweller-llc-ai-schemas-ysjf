@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-materials-are-used-for-window-trim-repair",
+  "name": "What types of materials are used for window trim repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are used for window trim repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window trim can be repaired or replaced using various materials, each with distinct advantages. Common options include wood (such as pine, cedar, or redwood) which offers a traditional aesthetic but requires regular maintenance. PVC or cellular PVC trim is a popular alternative, known for its resistance to rot, insects, and moisture. Composite materials also offer durability and low maintenance. The choice often depends on the existing trim, budget, and desired longevity.",
+        "@type": "Answer",
+        "description": "Materials for window trim repair include wood, PVC, and composite, chosen based on aesthetics, durability, and maintenance needs."
+      }
+    }
+  ],
+  "description": "Materials for window trim repair include wood, PVC, and composite, chosen based on aesthetics, durability, and maintenance needs."
+}

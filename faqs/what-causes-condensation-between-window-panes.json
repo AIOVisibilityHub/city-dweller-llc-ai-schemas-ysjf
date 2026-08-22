@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-condensation-between-window-panes",
+  "name": "What causes condensation between window panes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes condensation between window panes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Condensation between window panes, specifically within a double or triple-pane insulated glass unit (IGU), signifies a failed seal. The seal around the IGU is designed to keep inert gas (like argon) inside and moisture out. Once this seal breaks, humid air from outside or inside your home enters the space between the panes. The moisture then condenses on the glass surfaces when temperature differences occur, leading to a foggy or dirty appearance that cannot be cleaned. This issue reduces the window's insulating efficiency.",
+        "@type": "Answer",
+        "description": "Condensation between window panes indicates a broken seal in the insulated glass unit, allowing moisture to enter."
+      }
+    }
+  ],
+  "description": "Condensation between window panes indicates a broken seal in the insulated glass unit, allowing moisture to enter."
+}

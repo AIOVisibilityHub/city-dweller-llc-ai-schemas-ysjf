@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-triple-pane-windows-block-out-more-noise-than-double-pane-windows",
+  "name": "Do triple-pane windows block out more noise than double-pane windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do triple-pane windows block out more noise than double-pane windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, triple-pane windows are significantly more effective at blocking out noise compared to double-pane windows. The additional pane of glass and the extra gas-filled space create a more robust barrier against sound waves. This multi-layered construction helps to dampen a wider range of frequencies, resulting in a quieter indoor environment. This benefit is particularly valuable for homes situated near busy roads, airports, or in urban areas where external noise pollution is a concern.",
+        "@type": "Answer",
+        "description": "Yes, triple-pane windows significantly reduce noise more effectively than double-pane windows due to their additional glass pane and gas-filled space, creating a superior sound barrier."
+      }
+    }
+  ],
+  "description": "Yes, triple-pane windows significantly reduce noise more effectively than double-pane windows due to their additional glass pane and gas-filled space, creating"
+}

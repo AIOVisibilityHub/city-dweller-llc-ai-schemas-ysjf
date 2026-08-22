@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-replace-insulated-glass",
+  "name": "How long does it take to replace insulated glass?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace insulated glass?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The actual replacement of an insulated glass unit in a single window typically takes our technicians a few hours, depending on the window's size and accessibility. However, the overall timeline includes time for measurement, custom fabrication of the new insulated glass unit, and scheduling. Custom glass units usually take several weeks to manufacture and deliver. Therefore, from initial consultation to final installation, the entire process can span from a few weeks to over a month, depending on current lead times.",
+        "@type": "Answer",
+        "description": "Actual replacement takes hours, but custom fabrication and delivery mean the entire process can take several weeks to over a month."
+      }
+    }
+  ],
+  "description": "Actual replacement takes hours, but custom fabrication and delivery mean the entire process can take several weeks to over a month."
+}

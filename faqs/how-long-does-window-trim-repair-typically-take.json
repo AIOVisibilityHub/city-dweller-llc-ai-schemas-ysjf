@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-window-trim-repair-typically-take",
+  "name": "How long does window trim repair typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does window trim repair typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of window trim repair depends on the scope of the project. Simple repairs on a single window, such as caulking and painting, might take a few hours. More extensive repairs involving multiple windows, replacing rotted sections, or custom trim work can take several days. Weather conditions can also influence the timeline, especially for exterior work requiring specific drying times for primers and paints.",
+        "@type": "Answer",
+        "description": "Repair time varies from a few hours for minor fixes to several days for extensive work, depending on the project size and weather."
+      }
+    }
+  ],
+  "description": "Repair time varies from a few hours for minor fixes to several days for extensive work, depending on the project size and weather."
+}

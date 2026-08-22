@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-window-casing-repair",
+  "name": "What is the process for window casing repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for window casing repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically begins with an inspection to assess the damage. For minor issues, the existing casing is cleaned, loose paint removed, and cracks or small holes filled with appropriate wood filler or epoxy. For more severe damage, the compromised sections are carefully removed. New material, matched to the existing profile, is then cut, fitted, primed, and painted. Proper sealing and caulking are applied to ensure weather resistance and a finished appearance.",
+        "@type": "Answer",
+        "description": "The process involves inspection, cleaning, filling minor damage, or removing and replacing severely damaged sections. New material is fitted, primed, painted, and sealed."
+      }
+    }
+  ],
+  "description": "The process involves inspection, cleaning, filling minor damage, or removing and replacing severely damaged sections. New material is fitted, primed, painted, a"
+}

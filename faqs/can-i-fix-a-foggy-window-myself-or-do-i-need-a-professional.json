@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-fix-a-foggy-window-myself-or-do-i-need-a-professional",
+  "name": "Can I fix a foggy window myself or do I need a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I fix a foggy window myself or do I need a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While there are DIY kits claiming to remove condensation from between window panes, these often provide temporary or unsatisfactory results and can void manufacturer warranties. The underlying issue is a failed seal, which requires specialized tools and techniques to properly repair or, more commonly, replace the entire insulated glass unit. For a lasting solution that restores your window's thermal performance and appearance, it is highly recommended to consult a professional general contractor. They ensure the correct glass is ordered and installed properly.",
+        "@type": "Answer",
+        "description": "Fixing a foggy window yourself is difficult and often temporary; a professional is recommended for proper insulated glass unit replacement."
+      }
+    }
+  ],
+  "description": "Fixing a foggy window yourself is difficult and often temporary; a professional is recommended for proper insulated glass unit replacement."
+}

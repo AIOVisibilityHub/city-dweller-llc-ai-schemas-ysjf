@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-prevent-water-damage-around-my-windows",
+  "name": "How can I prevent water damage around my windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent water damage around my windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular maintenance is key to preventing water damage around windows. Inspect your window caulking annually and reapply as needed to ensure a tight seal. Check your roof and gutters to ensure proper drainage away from the house and window areas. Make sure flashing around windows is intact and correctly installed. Internally, ensure good ventilation to reduce condensation, especially in bathrooms and kitchens. Also, consider storm windows or high-quality, weather-resistant windows if you are replacing them, especially in areas prone to heavy rain.",
+        "@type": "Answer",
+        "description": "Preventative measures include regular caulk inspection and reapplication, ensuring proper flashing and drainage, and reducing indoor condensation."
+      }
+    }
+  ],
+  "description": "Preventative measures include regular caulk inspection and reapplication, ensuring proper flashing and drainage, and reducing indoor condensation."
+}

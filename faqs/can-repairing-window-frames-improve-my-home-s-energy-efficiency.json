@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-repairing-window-frames-improve-my-home-s-energy-efficiency",
+  "name": "Can repairing window frames improve my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can repairing window frames improve my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, repairing damaged window frames can significantly improve your home's energy efficiency. Gaps, cracks, or deteriorated frames allow conditioned air to escape and outside air to infiltrate, leading to higher heating and cooling costs. By repairing these issues, we seal the envelope of your home, reduce drafts, and help maintain consistent indoor temperatures. This contributes to a more comfortable living environment and potentially lower energy bills.",
+        "@type": "Answer",
+        "description": "Yes, repairing damaged frames eliminates gaps and drafts, preventing energy loss. This helps maintain indoor temperatures, improving comfort and potentially lowering energy bills."
+      }
+    }
+  ],
+  "description": "Yes, repairing damaged frames eliminates gaps and drafts, preventing energy loss. This helps maintain indoor temperatures, improving comfort and potentially low"
+}

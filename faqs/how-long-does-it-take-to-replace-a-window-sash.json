@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-replace-a-window-sash",
+  "name": "How long does it take to replace a window sash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace a window sash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to replace a window sash depends on the number of sashes, their size, material, and the complexity of the installation. Typically, a single sash replacement can be completed in a few hours. For multiple sashes, especially within a single day, a skilled team can often handle several units. Overall, sash replacement is generally a quicker process compared to full window replacement, minimizing disruption to your daily routine. Your contractor will provide a more precise timeline after an initial assessment.",
+        "@type": "Answer",
+        "description": "Single sash replacement usually takes a few hours. Multiple sashes can often be done in a day, depending on complexity."
+      }
+    }
+  ],
+  "description": "Single sash replacement usually takes a few hours. Multiple sashes can often be done in a day, depending on complexity."
+}
