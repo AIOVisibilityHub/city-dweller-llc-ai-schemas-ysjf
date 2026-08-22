@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-pitfalls-to-avoid-when-remodeling-a-rental-bathroom",
+  "name": "What are common pitfalls to avoid when remodeling a rental bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common pitfalls to avoid when remodeling a rental bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several common pitfalls can hinder a rental bathroom remodel. A primary one is underestimating the budget or timeline. Using low-quality materials that won't withstand tenant wear and tear is another, leading to frequent repairs. Ignoring local building codes and failing to secure permits can result in costly delays or fines. Also, neglecting proper waterproofing can lead to significant issues down the line. Finally, choosing overly trendy or highly personalized designs might limit tenant appeal.",
+        "@type": "Answer",
+        "description": "Avoid underestimating budget, using low-quality materials, ignoring building codes, neglecting waterproofing, and choosing overly personalized designs."
+      }
+    }
+  ],
+  "description": "Avoid underestimating budget, using low-quality materials, ignoring building codes, neglecting waterproofing, and choosing overly personalized designs."
+}

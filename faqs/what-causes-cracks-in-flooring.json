@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-cracks-in-flooring",
+  "name": "What causes cracks in flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes cracks in flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cracks in flooring can be caused by various factors, including structural shifts in the building, temperature and humidity fluctuations, heavy impacts, improper installation, or the natural aging and settling of the material. Different flooring types react to these stressors uniquely; for instance, concrete can crack due to curing issues, while tiles might crack from subfloor movement or inadequate adhesive. Identifying the cause is crucial for effective and lasting repair.",
+        "@type": "Answer",
+        "description": "Cracks in flooring are caused by structural shifts, temperature changes, impacts, improper installation, or material aging."
+      }
+    }
+  ],
+  "description": "Cracks in flooring are caused by structural shifts, temperature changes, impacts, improper installation, or material aging."
+}

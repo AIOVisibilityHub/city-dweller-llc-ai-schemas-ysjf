@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-care-for-my-new-flooring-after-installation",
+  "name": "How do I care for my new flooring after installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I care for my new flooring after installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Care instructions vary by flooring type. For hardwood, use a pH-neutral cleaner and avoid excessive moisture; sweep or vacuum regularly. Laminate and LVP require similar cleaning, but are more water-resistant; avoid abrasive cleaners. Tile floors are generally low maintenance, needing regular sweeping and mopping with a suitable cleaner, but grout may need periodic sealing. Always follow the manufacturer's specific care guidelines for your chosen material to ensure longevity and maintain its appearance.",
+        "@type": "Answer",
+        "description": "Care depends on flooring type: hardwood needs pH-neutral cleaners and minimal moisture; laminate/LVP are water-resistant but avoid abrasives; tile requires regular cleaning."
+      }
+    }
+  ],
+  "description": "Care depends on flooring type: hardwood needs pH-neutral cleaners and minimal moisture; laminate/LVP are water-resistant but avoid abrasives; tile requires regu"
+}

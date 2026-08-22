@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-approximate-cost-per-square-foot-for-natural-stone-flooring-installa",
+  "name": "What is the approximate cost per square foot for natural stone flooring installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the approximate cost per square foot for natural stone flooring installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of natural stone flooring installation in the Bay Area can vary significantly, typically ranging from $15 to $50 per square foot or more. This estimate depends on the type of stone chosen, its origin, complexity of the installation, subfloor conditions, and labor rates. Premium stones like certain marbles or custom designs will be at the higher end of the spectrum. This estimate includes material and professional installation.",
+        "@type": "Answer",
+        "description": "Costs typically range from $15 to $50+ per square foot in the Bay Area, varying by stone type, complexity, and subfloor conditions."
+      }
+    }
+  ],
+  "description": "Costs typically range from $15 to $50+ per square foot in the Bay Area, varying by stone type, complexity, and subfloor conditions."
+}

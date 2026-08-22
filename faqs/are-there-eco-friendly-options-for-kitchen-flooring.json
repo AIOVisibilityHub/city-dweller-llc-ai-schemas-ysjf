@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-there-eco-friendly-options-for-kitchen-flooring",
+  "name": "Are there eco-friendly options for kitchen flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there eco-friendly options for kitchen flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, several eco-friendly options are available for kitchen flooring. Cork is a renewable resource, naturally antimicrobial, and offers good insulation. Bamboo is also a fast-growing, renewable grass, known for its hardness. Linoleum, made from natural materials like linseed oil, wood flour, and jute, is biodegradable and durable. Recycled content tiles are another sustainable choice. When considering eco-friendly options, also look for products with low VOC (Volatile Organic Compound) emissions to ensure better indoor air quality.",
+        "@type": "Answer",
+        "description": "Eco-friendly kitchen flooring options include cork, bamboo, linoleum, and recycled content tiles, often featuring low VOC emissions."
+      }
+    }
+  ],
+  "description": "Eco-friendly kitchen flooring options include cork, bamboo, linoleum, and recycled content tiles, often featuring low VOC emissions."
+}

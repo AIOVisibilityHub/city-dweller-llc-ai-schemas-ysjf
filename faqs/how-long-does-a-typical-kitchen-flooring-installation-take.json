@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-kitchen-flooring-installation-take",
+  "name": "How long does a typical kitchen flooring installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical kitchen flooring installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a kitchen flooring installation varies based on the material, kitchen size, and subfloor preparation required. For a standard-sized kitchen, a simple LVP installation might take 1-2 days. Tile or complex pattern installations, which involve more cutting, grouting, and drying time, typically range from 3-5 days. Extensive subfloor repairs or leveling can add significantly to this timeline. We provide a detailed project schedule after assessing your specific kitchen.",
+        "@type": "Answer",
+        "description": "A typical kitchen flooring installation can take anywhere from 1-5 days, depending on the material, kitchen size, and subfloor preparation needs."
+      }
+    }
+  ],
+  "description": "A typical kitchen flooring installation can take anywhere from 1-5 days, depending on the material, kitchen size, and subfloor preparation needs."
+}

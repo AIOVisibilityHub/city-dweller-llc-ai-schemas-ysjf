@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-flooring-are-best-for-a-bathroom",
+  "name": "What types of flooring are best for a bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of flooring are best for a bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For bathroom flooring, durability, water resistance, and slip resistance are key. Popular options include ceramic or porcelain tile, which are highly water-resistant and come in various styles. Vinyl plank or sheet flooring offers excellent water resistance and can mimic wood or stone at a lower cost. Natural stone like marble or granite can be luxurious but requires sealing. Consider your budget, aesthetic preference, and the level of moisture in the bathroom when making your selection.",
+        "@type": "Answer",
+        "description": "Water-resistant and durable options like ceramic/porcelain tile, vinyl, and natural stone are best for bathroom flooring."
+      }
+    }
+  ],
+  "description": "Water-resistant and durable options like ceramic/porcelain tile, vinyl, and natural stone are best for bathroom flooring."
+}

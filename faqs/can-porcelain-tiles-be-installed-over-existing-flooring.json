@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-porcelain-tiles-be-installed-over-existing-flooring",
+  "name": "Can porcelain tiles be installed over existing flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can porcelain tiles be installed over existing flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In some cases, porcelain tiles can be installed over existing flooring, but it depends heavily on the type and condition of the current floor. For instance, tiles can sometimes be laid over existing ceramic or vinyl flooring if it is well-adhered, level, and in good condition, provided the subfloor can support the additional weight. However, installation over carpet, laminate, or floating floors is generally not recommended as these surfaces are too soft or unstable. A professional assessment by City Dweller, LLC is essential to determine if your existing floor is suitable or if removal is necessary for a durable new tile installation.",
+        "@type": "Answer",
+        "description": "Sometimes, if the existing floor is stable and well-adhered; however, a professional assessment is crucial to ensure proper installation."
+      }
+    }
+  ],
+  "description": "Sometimes, if the existing floor is stable and well-adhered; however, a professional assessment is crucial to ensure proper installation."
+}

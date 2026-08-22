@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-replace-just-a-section-of-my-flooring-or-do-i-need-to-replace-the-entire-r",
+  "name": "Can I replace just a section of my flooring, or do I need to replace the entire room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace just a section of my flooring, or do I need to replace the entire room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can replace just a section or need to replace the entire room depends on several factors. If you have individual tiles or planks that can be seamlessly matched and replaced without disrupting the surrounding flooring, a sectional repair might be feasible. This is more challenging with older or discontinued materials. However, if the damage is extensive, involves the subfloor, or if matching the existing flooring is impossible, replacing the entire room ensures a consistent appearance and long-term durability.",
+        "@type": "Answer",
+        "description": "Partial replacement is possible if materials can be matched and damage is localized; otherwise, full room replacement ensures consistency and durability."
+      }
+    }
+  ],
+  "description": "Partial replacement is possible if materials can be matched and damage is localized; otherwise, full room replacement ensures consistency and durability."
+}

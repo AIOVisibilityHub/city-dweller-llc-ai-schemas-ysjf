@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-maintenance-is-required-for-newly-installed-floor-tiles",
+  "name": "What maintenance is required for newly installed floor tiles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for newly installed floor tiles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Newly installed floor tiles require minimal but consistent maintenance to preserve their appearance and longevity. After the grout has fully cured (typically 72 hours), regular sweeping or vacuuming to remove loose debris is essential. For cleaning, use a damp mop with a mild, pH-neutral cleaner. Avoid harsh chemicals or abrasive scrubbers, especially on natural stone tiles or certain grout types, as they can cause damage. Promptly clean up spills to prevent staining, particularly on porous materials. Grout sealing may be recommended periodically.",
+        "@type": "Answer",
+        "description": "Maintain new floor tiles by regular sweeping, using mild pH-neutral cleaners, avoiding harsh chemicals, and promptly cleaning spills; grout sealing may be needed."
+      }
+    }
+  ],
+  "description": "Maintain new floor tiles by regular sweeping, using mild pH-neutral cleaners, avoiding harsh chemicals, and promptly cleaning spills; grout sealing may be neede"
+}

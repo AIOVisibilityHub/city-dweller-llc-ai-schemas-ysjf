@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-a-contractor-and-a-designer-for-a-bathroom-remodel",
+  "name": "What's the difference between a contractor and a designer for a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a contractor and a designer for a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A general contractor manages the entire remodeling project, overseeing construction, hiring subcontractors, ensuring permits, and sticking to budgets and timelines. They are primarily responsible for the physical execution of the renovation. A bathroom designer, on the other hand, focuses on the aesthetic and functional layout, selecting materials, fixtures, colors, and creating design plans. While a contractor builds the vision, a designer helps create it. Sometimes, a general contractor may offer design assistance.",
+        "@type": "Answer",
+        "description": "A general contractor manages the remodel's construction, while a designer focuses on aesthetic and functional planning, material selection, and overall vision."
+      }
+    }
+  ],
+  "description": "A general contractor manages the remodel's construction, while a designer focuses on aesthetic and functional planning, material selection, and overall vision."
+}

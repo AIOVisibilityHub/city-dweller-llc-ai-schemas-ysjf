@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-do-to-prepare-my-home-for-a-flooring-replacement-project",
+  "name": "What should I do to prepare my home for a flooring replacement project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare my home for a flooring replacement project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare, clear the work area by removing all furniture, decor, and personal items. Disconnect any appliances that sit on the floor, like refrigerators or washing machines. We recommend removing all items from closets in the affected rooms as well. Our team will guide you through specific preparation steps relevant to your project before installation begins.",
+        "@type": "Answer",
+        "description": "Clear the work area of all furniture and personal items, and disconnect any floor-sitting appliances."
+      }
+    }
+  ],
+  "description": "Clear the work area of all furniture and personal items, and disconnect any floor-sitting appliances."
+}

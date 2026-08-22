@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-bathroom-refresh-versus-a-full-renovation",
+  "name": "What is a bathroom refresh versus a full renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a bathroom refresh versus a full renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom refresh focuses on updating the look and feel without changing the layout or major plumbing and electrical systems. This can include new paint, fixtures, vanity, lighting, and tile. A full renovation involves significant structural changes, reconfiguring the layout, moving plumbing lines, and often replacing bathtubs or showers entirely. A refresh is typically less invasive, quicker, and more budget-friendly than a complete overhaul.",
+        "@type": "Answer",
+        "description": "A refresh updates aesthetics without layout changes; a full renovation involves structural and layout modifications."
+      }
+    }
+  ],
+  "description": "A refresh updates aesthetics without layout changes; a full renovation involves structural and layout modifications."
+}

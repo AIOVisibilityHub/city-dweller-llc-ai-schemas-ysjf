@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-type-of-marble-for-my-home-s-flooring",
+  "name": "How do I choose the right type of marble for my home's flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right type of marble for my home's flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right marble involves considering several factors: the room's usage, your aesthetic preference, and the marble's specific characteristics. Lighter marbles can make a space feel larger and brighter, while darker shades add drama. Consider the veining and patterns; some are subtle, others bold. For high-traffic areas, a denser marble might be more suitable. It's also important to view samples in your home's lighting conditions and discuss the pros and cons of different marble types with an experienced installer to match your needs with the stone's properties.",
+        "@type": "Answer",
+        "description": "Choose marble by considering room usage, aesthetic preference, and marble characteristics like color and veining. Consult with an installer to match your needs."
+      }
+    }
+  ],
+  "description": "Choose marble by considering room usage, aesthetic preference, and marble characteristics like color and veining. Consult with an installer to match your needs."
+}

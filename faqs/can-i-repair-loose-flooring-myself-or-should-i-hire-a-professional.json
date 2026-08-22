@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-loose-flooring-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair loose flooring myself or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair loose flooring myself or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor repairs like re-nailing a single loose board might be attempted by a DIY enthusiast, more complex issues often benefit from professional expertise. Professionals have the right tools, knowledge of various flooring materials, and experience in diagnosing underlying subfloor problems. Incorrect DIY repairs can lead to further damage or inadequate solutions. For lasting results and to ensure the safety and integrity of your flooring, especially with subfloor issues, hiring a professional contractor is recommended.",
+        "@type": "Answer",
+        "description": "Minor repairs can be DIY, but complex issues, especially those involving subfloor damage, are best handled by a professional for lasting results and safety."
+      }
+    }
+  ],
+  "description": "Minor repairs can be DIY, but complex issues, especially those involving subfloor damage, are best handled by a professional for lasting results and safety."
+}

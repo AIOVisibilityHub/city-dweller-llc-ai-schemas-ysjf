@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-squeaky-floors-indicate-a-structural-problem",
+  "name": "Can squeaky floors indicate a structural problem?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can squeaky floors indicate a structural problem?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While most squeaky floors are a minor nuisance caused by movement between floor components, they can occasionally indicate a more significant structural issue. Persistent, widespread squeaks accompanied by visible sagging, unevenness, or cracks in walls or ceilings might suggest problems with floor joists, subfloor integrity, or even foundation settlement. If you observe these additional signs, it's advisable to have a professional inspection to rule out serious structural damage.",
+        "@type": "Answer",
+        "description": "Yes, squeaky floors can sometimes indicate structural problems like issues with joists, subfloor, or foundation settlement, especially if accompanied by sagging or cracks."
+      }
+    }
+  ],
+  "description": "Yes, squeaky floors can sometimes indicate structural problems like issues with joists, subfloor, or foundation settlement, especially if accompanied by sagging"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-issues-to-be-aware-of-with-marble-flooring",
+  "name": "What are the common issues to be aware of with marble flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common issues to be aware of with marble flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common issues with marble flooring include susceptibility to etching from acidic substances, staining from colored liquids if not properly sealed, and scratching from abrasive dirt or furniture. Its porous nature makes it prone to absorbing liquids, necessitating prompt spill cleanup and regular sealing. Marble can also be slippery when wet, particularly polished finishes. While durable, it can chip or crack under heavy impact. Awareness of these characteristics allows for informed decision-making and proper maintenance.",
+        "@type": "Answer",
+        "description": "Marble flooring can etch from acids, stain if unsealed, scratch, and be slippery when wet. Proper maintenance is key."
+      }
+    }
+  ],
+  "description": "Marble flooring can etch from acids, stain if unsealed, scratch, and be slippery when wet. Proper maintenance is key."
+}

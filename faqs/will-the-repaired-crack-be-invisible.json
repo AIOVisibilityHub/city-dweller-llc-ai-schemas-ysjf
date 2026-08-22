@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-the-repaired-crack-be-invisible",
+  "name": "Will the repaired crack be invisible?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will the repaired crack be invisible?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Achieving an invisible repair depends largely on the type of flooring, the nature of the crack, and the specific repair techniques employed. For some materials, like concrete, a seamless match can be difficult, though repairs significantly improve appearance and functionality. For tiles, color-matched grout or epoxy can blend well. Our goal is to make repairs as aesthetically unobtrusive as possible while ensuring structural integrity.",
+        "@type": "Answer",
+        "description": "Visibility of a repaired crack depends on flooring type and crack nature; professionals aim for the best aesthetic blend and structural integrity."
+      }
+    }
+  ],
+  "description": "Visibility of a repaired crack depends on flooring type and crack nature; professionals aim for the best aesthetic blend and structural integrity."
+}

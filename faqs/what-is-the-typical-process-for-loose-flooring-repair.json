@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-loose-flooring-repair",
+  "name": "What is the typical process for loose flooring repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for loose flooring repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically begins with an inspection to identify the cause and extent of the looseness. For wood floors, this might involve re-nailing or re-screwing planks, sometimes with adhesive. For laminate or vinyl, sections may need to be carefully removed, the subfloor prepared, and new pieces installed or existing ones re-adhered. Tile repairs often involve removing cracked grout and loose tiles, cleaning the area, and re-setting with new adhesive and grout. The goal is to stabilize the flooring and restore its appearance and safety.",
+        "@type": "Answer",
+        "description": "The process involves inspection, identifying the cause, and then re-securing, re-adhering, or replacing affected flooring sections and addressing subfloor issues as needed."
+      }
+    }
+  ],
+  "description": "The process involves inspection, identifying the cause, and then re-securing, re-adhering, or replacing affected flooring sections and addressing subfloor issue"
+}

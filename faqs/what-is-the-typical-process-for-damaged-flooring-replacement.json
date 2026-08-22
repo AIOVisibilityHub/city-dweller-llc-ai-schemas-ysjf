@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-damaged-flooring-replacement",
+  "name": "What is the typical process for damaged flooring replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for damaged flooring replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The damaged flooring replacement process generally begins with an initial assessment and estimate. This is followed by preparing the area, which includes removing existing furniture and demolishing the old flooring. Next, the subfloor is inspected and repaired or leveled as needed to ensure a stable foundation. The new flooring material is then installed according to manufacturer guidelines. Finally, any necessary trim or baseboards are installed, and the area is cleaned, preparing it for use.",
+        "@type": "Answer",
+        "description": "The process involves assessment, demolition of old flooring, subfloor preparation, new flooring installation, and final cleanup."
+      }
+    }
+  ],
+  "description": "The process involves assessment, demolition of old flooring, subfloor preparation, new flooring installation, and final cleanup."
+}

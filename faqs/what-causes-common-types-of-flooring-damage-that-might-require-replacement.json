@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-common-types-of-flooring-damage-that-might-require-replacement",
+  "name": "What causes common types of flooring damage that might require replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes common types of flooring damage that might require replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common flooring damage includes water damage from leaks or floods, causing warping, buckling, or mold growth. Heavy impacts or dropped objects can lead to dents, cracks, or chips, especially in tile or hardwood. Regular wear and tear, such as scratches from pets or furniture, fading from sunlight, and thinning in high-traffic areas, also necessitate replacement over time. Subfloor issues, like unevenness or moisture, can also manifest as damage to the finished flooring material.",
+        "@type": "Answer",
+        "description": "Water damage, impacts, wear and tear, and subfloor problems are common causes for flooring replacement."
+      }
+    }
+  ],
+  "description": "Water damage, impacts, wear and tear, and subfloor problems are common causes for flooring replacement."
+}

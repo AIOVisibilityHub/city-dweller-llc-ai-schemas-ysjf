@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-cracked-flooring-repair-take",
+  "name": "How long does a typical cracked flooring repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical cracked flooring repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a cracked flooring repair varies based on the severity and extent of the damage, the type of flooring material, and the specific repair method required. Minor repairs might be completed within a few hours to a day, while more extensive damage involving subfloor work or multiple areas could take several days. We provide an estimated timeline after assessing your specific situation.",
+        "@type": "Answer",
+        "description": "Repair time depends on crack severity, flooring type, and repair method, ranging from hours to several days."
+      }
+    }
+  ],
+  "description": "Repair time depends on crack severity, flooring type, and repair method, ranging from hours to several days."
+}

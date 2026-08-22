@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-solid-hardwood-and-engineered-hardwood",
+  "name": "What is the difference between solid hardwood and engineered hardwood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between solid hardwood and engineered hardwood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Solid hardwood is made from a single piece of wood, offering classic appeal and the ability to be refinished multiple times over its lifespan. Engineered hardwood consists of multiple layers, with a top layer of real wood veneer and a core of plywood or HDF. Engineered wood is generally more stable and less prone to expanding or contracting with changes in humidity, making it suitable for areas where solid hardwood might be problematic, such as basements. Both offer the look of real wood.",
+        "@type": "Answer",
+        "description": "Solid hardwood is one piece of wood and can be refinished repeatedly, while engineered hardwood has a real wood veneer over a stable core, suitable for varied humidity."
+      }
+    }
+  ],
+  "description": "Solid hardwood is one piece of wood and can be refinished repeatedly, while engineered hardwood has a real wood veneer over a stable core, suitable for varied h"
+}

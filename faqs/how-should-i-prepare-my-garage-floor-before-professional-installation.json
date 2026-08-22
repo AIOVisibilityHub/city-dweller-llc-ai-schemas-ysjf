@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-should-i-prepare-my-garage-floor-before-professional-installation",
+  "name": "How should I prepare my garage floor before professional installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my garage floor before professional installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before professional installation, ensure your garage is completely cleared of all items, including vehicles, storage, and any shelving. The flooring contractor will handle the professional cleaning, grinding, and repairs, but removing personal belongings is crucial for them to access the entire space efficiently. Inform your contractor about any significant cracks, oil stains, or existing coatings so they can plan for appropriate surface preparation methods.",
+        "@type": "Answer",
+        "description": "Clear your garage of all items, including vehicles and storage. The contractor handles professional cleaning and repairs, but inform them of any existing damage."
+      }
+    }
+  ],
+  "description": "Clear your garage of all items, including vehicles and storage. The contractor handles professional cleaning and repairs, but inform them of any existing damage"
+}

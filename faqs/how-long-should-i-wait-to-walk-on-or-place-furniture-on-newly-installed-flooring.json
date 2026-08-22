@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-should-i-wait-to-walk-on-or-place-furniture-on-newly-installed-flooring",
+  "name": "How long should I wait to walk on or place furniture on newly installed flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long should I wait to walk on or place furniture on newly installed flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The waiting period after new flooring installation depends on the type of flooring and the adhesive used. For floating floors like laminate or some LVP, you can often walk on them immediately and place light furniture within 24 hours. For glue-down installations, such as hardwood, tile, or some LVT, it's crucial to wait at least 24-72 hours for the adhesive to fully cure before heavy foot traffic or placing furniture to prevent shifting or damage. Your installer will provide specific guidance based on the products used.",
+        "@type": "Answer",
+        "description": "Wait times vary by flooring type: immediate for floating floors, 24-72 hours for glue-down installations before heavy traffic or furniture."
+      }
+    }
+  ],
+  "description": "Wait times vary by flooring type: immediate for floating floors, 24-72 hours for glue-down installations before heavy traffic or furniture."
+}

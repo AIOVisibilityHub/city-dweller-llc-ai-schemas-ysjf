@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-new-flooring-increase-my-home-s-value",
+  "name": "Will new flooring increase my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will new flooring increase my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New flooring can significantly increase your home's appeal and, consequently, its market value, especially if the existing flooring is outdated or damaged. Modern, durable, and aesthetically pleasing flooring like hardwood, high-quality engineered wood, or luxury vinyl plank can be a strong selling point. The return on investment often depends on the quality of the materials and professional installation.",
+        "@type": "Answer",
+        "description": "Yes, new, modern, and well-installed flooring can enhance your home's appeal and increase its market value."
+      }
+    }
+  ],
+  "description": "Yes, new, modern, and well-installed flooring can enhance your home's appeal and increase its market value."
+}

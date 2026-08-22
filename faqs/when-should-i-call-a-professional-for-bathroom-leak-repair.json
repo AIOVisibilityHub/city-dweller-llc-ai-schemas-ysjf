@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-call-a-professional-for-bathroom-leak-repair",
+  "name": "When should I call a professional for bathroom leak repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for bathroom leak repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for bathroom leak repair when you can't locate the source, the leak is extensive, or if you suspect water damage to structural components. Professionals have the tools and expertise to accurately diagnose hidden leaks and properly repair the damage, preventing further issues like mold growth or weakened structures. Early intervention by a professional can save significant repair costs.",
+        "@type": "Answer",
+        "description": "Call a professional if you can't find the source, the leak is large, or if you suspect structural damage or mold growth."
+      }
+    }
+  ],
+  "description": "Call a professional if you can't find the source, the leak is large, or if you suspect structural damage or mold growth."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-rectified-and-non-rectified-porcelain-tiles",
+  "name": "What is the difference between rectified and non-rectified porcelain tiles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between rectified and non-rectified porcelain tiles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rectified porcelain tiles are mechanically finished after firing to ensure their dimensions are precise and edges are perfectly straight and uniform. This allows for very tight grout lines, often as narrow as 1/16 inch, creating a seamless and contemporary look. Non-rectified tiles, also known as pressed tiles, have more natural, slightly rounded edges and can have slight variations in size from tile to tile, necessitating wider grout lines, typically 1/8 inch or more. The choice often comes down to desired aesthetic and practicality, with rectified tiles offering a sleek finish and non-rectified being more forgiving of minor subfloor imperfections.",
+        "@type": "Answer",
+        "description": "Rectified tiles have precise, straight edges for tight grout lines, while non-rectified tiles have natural edges and require wider grout lines."
+      }
+    }
+  ],
+  "description": "Rectified tiles have precise, straight edges for tight grout lines, while non-rectified tiles have natural edges and require wider grout lines."
+}

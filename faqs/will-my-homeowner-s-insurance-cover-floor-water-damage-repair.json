@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-my-homeowner-s-insurance-cover-floor-water-damage-repair",
+  "name": "Will my homeowner's insurance cover floor water damage repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover floor water damage repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance coverage for floor water damage depends on the cause. Generally, sudden and accidental water damage, such as from a burst pipe or appliance malfunction, is covered. However, damage resulting from neglect, maintenance issues like long-term leaks, or natural floods (which require separate flood insurance) are typically not covered. It's essential to review your specific policy details or contact your insurance provider to understand what is covered before initiating repairs.",
+        "@type": "Answer",
+        "description": "Coverage depends on the cause. Sudden, accidental damage is often covered, but damage from neglect or floods (without specific flood insurance) is usually not. Check your policy."
+      }
+    }
+  ],
+  "description": "Coverage depends on the cause. Sudden, accidental damage is often covered, but damage from neglect or floods (without specific flood insurance) is usually not."
+}

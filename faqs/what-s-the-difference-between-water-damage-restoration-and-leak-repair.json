@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-water-damage-restoration-and-leak-repair",
+  "name": "What's the difference between water damage restoration and leak repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between water damage restoration and leak repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Leak repair focuses on stopping the source of the water intrusion and fixing the immediate cause. Water damage restoration, on the other hand, is a broader process that addresses the consequences of the leak. This includes water extraction, drying out affected areas, mold prevention or remediation, cleaning, and repairing or replacing damaged materials like drywall, flooring, or insulation. Leak repair is often the first step in water damage restoration.",
+        "@type": "Answer",
+        "description": "Leak repair stops the water source, while water damage restoration addresses the resulting damage, including drying, mold prevention, and material replacement."
+      }
+    }
+  ],
+  "description": "Leak repair stops the water source, while water damage restoration addresses the resulting damage, including drying, mold prevention, and material replacement."
+}

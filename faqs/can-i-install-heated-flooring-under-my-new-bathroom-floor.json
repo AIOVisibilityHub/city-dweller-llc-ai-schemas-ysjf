@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-install-heated-flooring-under-my-new-bathroom-floor",
+  "name": "Can I install heated flooring under my new bathroom floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install heated flooring under my new bathroom floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, radiant heated flooring systems can be installed under many types of bathroom flooring, including tile, stone, and some vinyl products. This adds comfort and warmth to your bathroom. The installation involves laying electric heating mats or cables before the new flooring material is applied. It's crucial to ensure the chosen flooring material is compatible with radiant heat and that the system is installed by experienced professionals for safety and efficiency.",
+        "@type": "Answer",
+        "description": "Yes, radiant heated flooring can be installed under most bathroom flooring types like tile and stone, adding warmth and comfort."
+      }
+    }
+  ],
+  "description": "Yes, radiant heated flooring can be installed under most bathroom flooring types like tile and stone, adding warmth and comfort."
+}

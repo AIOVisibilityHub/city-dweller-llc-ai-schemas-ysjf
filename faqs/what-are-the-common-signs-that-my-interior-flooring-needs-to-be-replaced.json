@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-signs-that-my-interior-flooring-needs-to-be-replaced",
+  "name": "What are the common signs that my interior flooring needs to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that my interior flooring needs to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that indicate your interior flooring may need replacement include significant damage like deep scratches, warping, buckling, or extensive water damage. Beyond visible damage, persistent odors, squeaky subflooring, or noticeable wear patterns that cannot be repaired through refinishing suggest it's time for new floors. Outdated styles or uncomfortable textures can also be reasons for replacement, enhancing both your home's aesthetics and value.",
+        "@type": "Answer",
+        "description": "Look for significant damage like warping or deep scratches, persistent odors, or widespread wear. Outdated styles can also prompt replacement."
+      }
+    }
+  ],
+  "description": "Look for significant damage like warping or deep scratches, persistent odors, or widespread wear. Outdated styles can also prompt replacement."
+}

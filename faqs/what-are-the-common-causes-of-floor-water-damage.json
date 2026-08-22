@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-causes-of-floor-water-damage",
+  "name": "What are the common causes of floor water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common causes of floor water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Floor water damage often stems from several common issues. Leaky pipes, overflowing appliances like washing machines or dishwashers, and burst pipes are frequent culprits. Additionally, severe weather events, such as heavy rain leading to roof leaks or foundation seepage, can cause significant water intrusion. Clogged drains that back up and spread water, or even a slow, undetected leak under a sink, can also lead to extensive damage over time, affecting subflooring, joists, and even leading to mold growth.",
+        "@type": "Answer",
+        "description": "Common causes include leaky pipes, appliance overflows, burst pipes, severe weather, and clogged drains leading to water intrusion."
+      }
+    }
+  ],
+  "description": "Common causes include leaky pipes, appliance overflows, burst pipes, severe weather, and clogged drains leading to water intrusion."
+}

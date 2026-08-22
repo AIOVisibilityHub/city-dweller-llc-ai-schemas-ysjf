@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-marble-floor-tiles-be-installed-in-bathrooms-or-kitchens",
+  "name": "Can marble floor tiles be installed in bathrooms or kitchens?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can marble floor tiles be installed in bathrooms or kitchens?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, marble floor tiles can be installed in bathrooms and kitchens, adding a touch of luxury to these high-traffic areas. However, due to marble's porous nature, it's especially important to ensure proper sealing to prevent staining and water absorption in moisture-prone environments. In bathrooms, extra attention to slip resistance may be considered, and in kitchens, prompt cleanup of spills is crucial. With appropriate sealing and care, marble performs beautifully in both settings.",
+        "@type": "Answer",
+        "description": "Marble tiles can be installed in bathrooms and kitchens, but require proper sealing due to their porous nature to prevent staining and water damage."
+      }
+    }
+  ],
+  "description": "Marble tiles can be installed in bathrooms and kitchens, but require proper sealing due to their porous nature to prevent staining and water damage."
+}

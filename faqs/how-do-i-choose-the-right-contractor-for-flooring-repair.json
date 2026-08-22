@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-contractor-for-flooring-repair",
+  "name": "How do I choose the right contractor for flooring repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for flooring repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for flooring repair, look for experience with your specific flooring type. Check for proper licensing and insurance. Request references and review past projects to assess their quality of work. Obtain detailed written estimates from multiple contractors to compare costs and scope of work. A reputable contractor should conduct a thorough on-site assessment before providing a quote and clearly explain the repair process and materials. Communication and transparency are key indicators of a reliable professional.",
+        "@type": "Answer",
+        "description": "Choose a contractor with experience, proper licensing, and insurance. Check references, get detailed estimates, and ensure clear communication."
+      }
+    }
+  ],
+  "description": "Choose a contractor with experience, proper licensing, and insurance. Check references, get detailed estimates, and ensure clear communication."
+}

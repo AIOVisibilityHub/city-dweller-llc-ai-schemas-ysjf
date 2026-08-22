@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-remove-my-old-flooring-before-installation",
+  "name": "Do I need to remove my old flooring before installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to remove my old flooring before installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most cases, yes, existing flooring should be removed before new installation to ensure a flat, stable subfloor. Installing over old flooring can lead to an uneven surface, compromised durability, or issues with door clearances. However, there are exceptions; for example, new LVP can sometimes be installed directly over existing hard surfaces if they are very level and sound. Our team will assess your specific situation and advise on the best preparation methods during the initial consultation.",
+        "@type": "Answer",
+        "description": "Typically, old flooring must be removed for a flat, stable subfloor. Exceptions exist for some materials like LVP if the existing surface is level."
+      }
+    }
+  ],
+  "description": "Typically, old flooring must be removed for a flat, stable subfloor. Exceptions exist for some materials like LVP if the existing surface is level."
+}

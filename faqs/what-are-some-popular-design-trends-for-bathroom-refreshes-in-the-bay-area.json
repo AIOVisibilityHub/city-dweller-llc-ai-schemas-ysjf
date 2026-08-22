@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-some-popular-design-trends-for-bathroom-refreshes-in-the-bay-area",
+  "name": "What are some popular design trends for bathroom refreshes in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are some popular design trends for bathroom refreshes in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Current bathroom refresh trends in the Bay Area often lean towards clean, minimalist designs with a focus on natural materials and efficient use of space. Popular choices include floating vanities, large format tiles, integrated smart technology like dimmable lighting, and water-efficient fixtures. Earthy tones, matte black finishes, and subtle textures are also frequently requested to create a serene and modern spa-like atmosphere.",
+        "@type": "Answer",
+        "description": "Popular Bay Area trends include minimalist designs, natural materials, floating vanities, large format tiles, smart tech, and water-efficient fixtures."
+      }
+    }
+  ],
+  "description": "Popular Bay Area trends include minimalist designs, natural materials, floating vanities, large format tiles, smart tech, and water-efficient fixtures."
+}

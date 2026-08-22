@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-loose-flooring-repair-usually-take",
+  "name": "How long does loose flooring repair usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does loose flooring repair usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of loose flooring repair depends on the scope of the project. A small, isolated repair, such as fixing a few squeaky boards, might be completed within a few hours. Larger repairs involving subfloor work, extensive re-installation, or addressing water damage could take one to several days. We aim to complete repairs efficiently while ensuring quality. Our team will provide a more accurate timeline after assessing your specific repair needs.",
+        "@type": "Answer",
+        "description": "Repair time varies from a few hours for minor issues to several days for extensive repairs involving subfloor work or water damage."
+      }
+    }
+  ],
+  "description": "Repair time varies from a few hours for minor issues to several days for extensive repairs involving subfloor work or water damage."
+}

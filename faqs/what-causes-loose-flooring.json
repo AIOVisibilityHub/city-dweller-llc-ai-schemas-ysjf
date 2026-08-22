@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-loose-flooring",
+  "name": "What causes loose flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes loose flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Loose flooring can result from several factors depending on the material. For hardwood, it often occurs due to changes in humidity causing expansion and contraction, or improper installation. Laminate and vinyl can loosen if the subfloor isn't level, or if the locking mechanisms are damaged. Water damage is a common culprit for all types, compromising adhesives or subfloor integrity. Age and general wear and tear also contribute to fasteners loosening or materials degrading over time.",
+        "@type": "Answer",
+        "description": "Loose flooring is typically caused by humidity changes, improper installation, subfloor issues, water damage, or general wear and tear."
+      }
+    }
+  ],
+  "description": "Loose flooring is typically caused by humidity changes, improper installation, subfloor issues, water damage, or general wear and tear."
+}

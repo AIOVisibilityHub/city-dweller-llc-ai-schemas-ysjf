@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-solid-hardwood-and-engineered-hardwood-flooring",
+  "name": "What is the difference between solid hardwood and engineered hardwood flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between solid hardwood and engineered hardwood flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Solid hardwood is a single piece of wood throughout its thickness, offering longevity as it can be refinished multiple times. Engineered hardwood consists of a top layer of real wood veneer over multiple layers of plywood or high-density fiberboard. Engineered is more stable and resistant to moisture fluctuations, making it a good choice for areas like the Bay Area with varying humidity levels, and can be installed in more places, including below grade.",
+        "@type": "Answer",
+        "description": "Solid hardwood is one piece of wood; engineered hardwood has a real wood veneer over a stable core, offering better moisture resistance and stability."
+      }
+    }
+  ],
+  "description": "Solid hardwood is one piece of wood; engineered hardwood has a real wood veneer over a stable core, offering better moisture resistance and stability."
+}

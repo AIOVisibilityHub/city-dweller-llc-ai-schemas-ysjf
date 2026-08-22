@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-install-tile-over-existing-flooring-like-vinyl-or-hardwood",
+  "name": "Can I install tile over existing flooring like vinyl or hardwood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install tile over existing flooring like vinyl or hardwood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing tile over existing flooring like vinyl or hardwood is generally not recommended without proper assessment and preparation. The existing floor must be completely stable, level, and securely fastened, without any signs of movement or damage. Often, removing the old flooring and preparing the subfloor directly provides a more stable and long-lasting base for tile. In some cases, a new underlayment can be installed over the existing floor if it meets specific structural requirements, but professional consultation is advised.",
+        "@type": "Answer",
+        "description": "Installing tile over existing flooring is possible if the underlying surface is stable and level, but removing old flooring for a direct subfloor preparation is often preferred for stability."
+      }
+    }
+  ],
+  "description": "Installing tile over existing flooring is possible if the underlying surface is stable and level, but removing old flooring for a direct subfloor preparation is"
+}

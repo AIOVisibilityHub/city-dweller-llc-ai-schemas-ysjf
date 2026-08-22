@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-bathroom-remodel-take-for-a-rental-unit",
+  "name": "How long does a typical bathroom remodel take for a rental unit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bathroom remodel take for a rental unit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a bathroom remodel for a rental unit depends on its scope. A minor refresh, such as painting and fixture replacement, might take 1-2 weeks. A mid-range remodel involving new flooring, vanity, and shower could take 3-4 weeks. A full gut renovation, including layout changes or significant plumbing/electrical work, typically requires 4-8 weeks. We provide a detailed timeline after assessing your project to minimize vacancy periods.",
+        "@type": "Answer",
+        "description": "Minor bathroom remodels take 1-2 weeks; mid-range 3-4 weeks; full renovations 4-8 weeks. A detailed timeline is provided after project assessment."
+      }
+    }
+  ],
+  "description": "Minor bathroom remodels take 1-2 weeks; mid-range 3-4 weeks; full renovations 4-8 weeks. A detailed timeline is provided after project assessment."
+}

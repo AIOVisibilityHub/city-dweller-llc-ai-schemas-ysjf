@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-my-flooring",
+  "name": "When should I consider replacing my flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider replacing your flooring if it shows significant wear and tear like deep scratches, warping, or fading that cannot be repaired. Water damage, persistent odors, or changes in your home's aesthetics or functionality are also strong indicators. Older flooring materials may also contain asbestos or lead, warranting replacement for safety.",
+        "@type": "Answer",
+        "description": "Replace flooring when it shows significant wear, damage, or no longer meets your aesthetic or functional needs."
+      }
+    }
+  ],
+  "description": "Replace flooring when it shows significant wear, damage, or no longer meets your aesthetic or functional needs."
+}

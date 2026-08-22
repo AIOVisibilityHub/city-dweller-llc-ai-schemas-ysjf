@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-color-and-style-of-flooring-for-my-kitchen",
+  "name": "How do I choose the right color and style of flooring for my kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right color and style of flooring for my kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right color and style involves considering your kitchen's existing cabinetry, countertops, wall color, natural light, and overall home aesthetic. Lighter floors can make a small kitchen feel larger, while darker floors add warmth and hide minor imperfections. Consider whether you prefer a timeless look or something more contemporary. We recommend bringing samples into your home to see how they look in different lighting throughout the day. Our team can also offer design guidance based on current trends and your personal preferences.",
+        "@type": "Answer",
+        "description": "Consider your kitchen's existing elements, natural light, and desired aesthetic when choosing flooring color and style. Test samples in your home for the best decision."
+      }
+    }
+  ],
+  "description": "Consider your kitchen's existing elements, natural light, and desired aesthetic when choosing flooring color and style. Test samples in your home for the best d"
+}

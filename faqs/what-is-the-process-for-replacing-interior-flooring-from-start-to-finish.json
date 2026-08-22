@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-replacing-interior-flooring-from-start-to-finish",
+  "name": "What is the process for replacing interior flooring, from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing interior flooring, from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an initial consultation and estimate, followed by material selection. Once materials are ordered, we schedule the installation. The first step on-site involves removing existing flooring and preparing the subfloor, which may include repairs or leveling. Next, the new flooring is installed according to manufacturer specifications. Finally, trim and molding are replaced, and the site is thoroughly cleaned, leaving you with beautiful new floors.",
+        "@type": "Answer",
+        "description": "The process includes consultation, material selection, old floor removal, subfloor preparation, new floor installation, and final clean-up."
+      }
+    }
+  ],
+  "description": "The process includes consultation, material selection, old floor removal, subfloor preparation, new floor installation, and final clean-up."
+}

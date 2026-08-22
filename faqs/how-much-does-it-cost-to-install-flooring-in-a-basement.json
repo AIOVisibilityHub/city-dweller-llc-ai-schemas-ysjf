@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-install-flooring-in-a-basement",
+  "name": "How much does it cost to install flooring in a basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install flooring in a basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Basement flooring installation costs vary based on the material chosen, the size of the basement, and the complexity of the subfloor preparation. For example, luxury vinyl plank or tile can range from $4 to $10 per square foot for materials and installation. Engineered hardwood tends to be higher, from $8 to $15 per square foot. These figures typically include basic labor but can increase if significant subfloor leveling, moisture remediation, or old flooring removal is required. Getting a detailed quote is recommended.",
+        "@type": "Answer",
+        "description": "Costs vary widely by material, basement size, and subfloor prep. LVP and tile are generally $4-10/sq ft, engineered hardwood $8-15/sq ft, including installation."
+      }
+    }
+  ],
+  "description": "Costs vary widely by material, basement size, and subfloor prep. LVP and tile are generally $4-10/sq ft, engineered hardwood $8-15/sq ft, including installation"
+}

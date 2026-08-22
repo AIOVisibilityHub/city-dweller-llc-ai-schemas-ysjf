@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-most-popular-eco-friendly-flooring-options-available",
+  "name": "What are the most popular eco-friendly flooring options available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the most popular eco-friendly flooring options available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several eco-friendly flooring options are gaining popularity for their sustainability and reduced environmental impact. Bamboo is a rapidly renewable resource, offering durability similar to hardwood. Cork flooring is also highly sustainable, harvested from cork oak trees without harming them, and provides natural insulation and comfort. Recycled content flooring, such as some types of LVP or carpet made from recycled materials, utilizes waste products. Linoleum, made from natural linseed oil, wood flour, and jute backing, is another durable and biodegradable choice.",
+        "@type": "Answer",
+        "description": "Popular eco-friendly flooring options include bamboo, cork, recycled content flooring, and linoleum, all offering sustainability and durability."
+      }
+    }
+  ],
+  "description": "Popular eco-friendly flooring options include bamboo, cork, recycled content flooring, and linoleum, all offering sustainability and durability."
+}

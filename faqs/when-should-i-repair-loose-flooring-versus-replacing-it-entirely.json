@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-repair-loose-flooring-versus-replacing-it-entirely",
+  "name": "When should I repair loose flooring versus replacing it entirely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair loose flooring versus replacing it entirely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repair and replacement depends on the extent of the damage. If only a few boards or tiles are loose and the subfloor is sound, spot repair is often sufficient and more cost-effective. However, if a large area is affected, the subfloor is severely damaged, or the flooring material is near the end of its lifespan, replacement might be the better long-term solution. A professional assessment can help determine the most economical and durable option for your specific situation.",
+        "@type": "Answer",
+        "description": "Repair loose flooring when damage is localized and the subfloor is sound; consider replacement for widespread damage, severe subfloor issues, or aged flooring."
+      }
+    }
+  ],
+  "description": "Repair loose flooring when damage is localized and the subfloor is sound; consider replacement for widespread damage, severe subfloor issues, or aged flooring."
+}

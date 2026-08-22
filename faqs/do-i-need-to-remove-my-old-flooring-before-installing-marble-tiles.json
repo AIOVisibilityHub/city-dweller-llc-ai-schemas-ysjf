@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-remove-my-old-flooring-before-installing-marble-tiles",
+  "name": "Do I need to remove my old flooring before installing marble tiles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to remove my old flooring before installing marble tiles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most cases, yes, existing flooring should be removed before installing marble tiles. A solid, clean, and level subfloor is essential for a successful and long-lasting marble installation. Installing marble over uneven or unstable existing flooring can lead to cracking, loosening, or an uneven finish. While some exceptions might exist for very specific subfloor and existing flooring types, it's generally best practice to start with a bare, properly prepared subfloor to ensure optimal results and longevity of your new marble floor.",
+        "@type": "Answer",
+        "description": "Yes, old flooring should typically be removed for marble tile installation to ensure a solid, level subfloor, preventing future issues."
+      }
+    }
+  ],
+  "description": "Yes, old flooring should typically be removed for marble tile installation to ensure a solid, level subfloor, preventing future issues."
+}

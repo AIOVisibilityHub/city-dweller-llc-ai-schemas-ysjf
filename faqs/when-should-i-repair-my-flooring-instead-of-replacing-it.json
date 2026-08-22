@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-repair-my-flooring-instead-of-replacing-it",
+  "name": "When should I repair my flooring instead of replacing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair my flooring instead of replacing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing flooring is usually advisable for isolated damage such as scratches, small water stains, a few cracked tiles, or minor dents. If the damage is extensive, covers a large area, or affects the structural integrity of the subfloor, replacement might be a more cost-effective and long-lasting solution. Consider the age of your floor; if it's nearing the end of its lifespan, investing in a full replacement could be better value. A professional assessment can help determine the best course of action.",
+        "@type": "Answer",
+        "description": "Repair is best for isolated damage like scratches or single cracked tiles. Replacement is better for extensive damage or when the floor is old."
+      }
+    }
+  ],
+  "description": "Repair is best for isolated damage like scratches or single cracked tiles. Replacement is better for extensive damage or when the floor is old."
+}

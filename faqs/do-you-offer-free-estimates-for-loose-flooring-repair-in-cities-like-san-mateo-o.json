@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-you-offer-free-estimates-for-loose-flooring-repair-in-cities-like-san-mateo-o",
+  "name": "Do you offer free estimates for loose flooring repair in cities like San Mateo or San Bruno?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer free estimates for loose flooring repair in cities like San Mateo or San Bruno?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, City Dweller, LLC provides free estimates for loose flooring repair across our service areas, including San Mateo, San Bruno, and other Bay Area communities. Our estimates include an on-site assessment to accurately diagnose the problem, identify the best repair solutions, and provide a transparent breakdown of the projected costs. This allows you to understand the scope of work and make an informed decision without any initial financial commitment.",
+        "@type": "Answer",
+        "description": "Yes, City Dweller, LLC offers free on-site estimates for loose flooring repair in San Mateo, San Bruno, and other Bay Area service areas."
+      }
+    }
+  ],
+  "description": "Yes, City Dweller, LLC offers free on-site estimates for loose flooring repair in San Mateo, San Bruno, and other Bay Area service areas."
+}

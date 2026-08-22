@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-for-squeaky-floor-repair",
+  "name": "What is the typical cost for squeaky floor repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for squeaky floor repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for squeaky floor repair can vary significantly based on the severity and extent of the problem, the type of flooring, and accessibility to the subfloor. Minor repairs, such as securing a few loose boards, might be relatively inexpensive. More extensive work, like addressing subfloor issues, installing blocking, or repairing damage over a large area, will incur higher costs. A professional estimate after an on-site inspection provides the most accurate pricing.",
+        "@type": "Answer",
+        "description": "Squeaky floor repair costs vary by severity, flooring type, and accessibility. Minor repairs are less costly, while extensive subfloor work will be more expensive. An on-site estimate provides accurate pricing."
+      }
+    }
+  ],
+  "description": "Squeaky floor repair costs vary by severity, flooring type, and accessibility. Minor repairs are less costly, while extensive subfloor work will be more expensi"
+}

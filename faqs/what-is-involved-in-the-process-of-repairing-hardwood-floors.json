@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-involved-in-the-process-of-repairing-hardwood-floors",
+  "name": "What is involved in the process of repairing hardwood floors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the process of repairing hardwood floors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hardwood floor repair typically involves several steps. First, the damaged area is assessed to determine if planks can be refinished, or if they need replacement. If replacement is necessary, matching wood planks are sourced, carefully cut, and installed. The new or repaired sections are then sanded, stained to match the existing floor, and finished with protective coats. This process ensures a seamless blend with the surrounding flooring, restoring both the appearance and integrity of your hardwood floors.",
+        "@type": "Answer",
+        "description": "Hardwood repair involves assessing damage, replacing planks if needed, then sanding, staining, and finishing to match the existing floor."
+      }
+    }
+  ],
+  "description": "Hardwood repair involves assessing damage, replacing planks if needed, then sanding, staining, and finishing to match the existing floor."
+}

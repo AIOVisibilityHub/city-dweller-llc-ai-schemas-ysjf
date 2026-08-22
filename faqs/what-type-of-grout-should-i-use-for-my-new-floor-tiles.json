@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-type-of-grout-should-i-use-for-my-new-floor-tiles",
+  "name": "What type of grout should I use for my new floor tiles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of grout should I use for my new floor tiles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice of grout depends on the tile type, joint width, and location of the installation. Sanded grout is typically used for wider grout lines (1/8 inch or more) and offers greater strength, making it suitable for most floor tiles. Unsanded grout is ideal for narrower lines (less than 1/8 inch) and softer tiles susceptible to scratching. Epoxy grout is highly durable, stain-resistant, and waterproof, making it excellent for high-traffic areas or wet environments like bathrooms. Your contractor can recommend the best option.",
+        "@type": "Answer",
+        "description": "Grout choice depends on tile type and joint width: sanded for wider lines, unsanded for narrow, and epoxy for maximum durability and water resistance."
+      }
+    }
+  ],
+  "description": "Grout choice depends on tile type and joint width: sanded for wider lines, unsanded for narrow, and epoxy for maximum durability and water resistance."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-there-eco-friendly-or-sustainable-flooring-options-available",
+  "name": "Are there eco-friendly or sustainable flooring options available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there eco-friendly or sustainable flooring options available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, several eco-friendly flooring options are available. These include bamboo, known for its rapid renewability; cork, which is sustainable and provides good insulation; and recycled content flooring like certain types of carpet or rubber. Many engineered wood products also use sustainably sourced wood. We can discuss these options and their benefits for your home.",
+        "@type": "Answer",
+        "description": "Yes, eco-friendly options include bamboo, cork, recycled content flooring, and sustainably sourced engineered wood products."
+      }
+    }
+  ],
+  "description": "Yes, eco-friendly options include bamboo, cork, recycled content flooring, and sustainably sourced engineered wood products."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-cost-of-flooring-repair-in-the-bay-area",
+  "name": "What is the cost of flooring repair in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of flooring repair in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Flooring repair costs in the Bay Area vary widely depending on the material, the extent of damage, labor rates, and the need for specialized tools or materials. Simple repairs like patching a small area of vinyl or replacing a single tile might cost a few hundred dollars. More intricate repairs, such as hardwood board replacement with matching and finishing, or subfloor remediation, can range from several hundred to over a thousand dollars. We provide detailed estimates after an on-site evaluation.",
+        "@type": "Answer",
+        "description": "Costs vary based on material and damage, typically from a few hundred dollars for minor repairs to over a thousand for complex ones in the Bay Area."
+      }
+    }
+  ],
+  "description": "Costs vary based on material and damage, typically from a few hundred dollars for minor repairs to over a thousand for complex ones in the Bay Area."
+}

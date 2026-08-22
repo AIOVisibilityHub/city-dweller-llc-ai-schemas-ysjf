@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-quickly-should-i-address-water-damage-to-my-floors",
+  "name": "How quickly should I address water damage to my floors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly should I address water damage to my floors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Addressing water damage promptly is crucial to minimize its impact. Within the first 24-48 hours, water can begin to compromise the structural integrity of your floors and subflooring, warp wood, and encourage mold and mildew growth. The longer water sits, the more extensive and costly the repairs become. Immediate action, such as identifying the source, stopping the water flow, and beginning the drying process, can significantly reduce the risk of secondary damage and health hazards.",
+        "@type": "Answer",
+        "description": "You should address floor water damage immediately. Acting within 24-48 hours prevents structural compromise and mold growth, minimizing repair costs and risks."
+      }
+    }
+  ],
+  "description": "You should address floor water damage immediately. Acting within 24-48 hours prevents structural compromise and mold growth, minimizing repair costs and risks."
+}

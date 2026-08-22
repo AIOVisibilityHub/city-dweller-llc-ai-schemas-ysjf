@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-you-typically-repair-a-leaking-shower-pan",
+  "name": "How do you typically repair a leaking shower pan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you typically repair a leaking shower pan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a leaking shower pan often involves removing existing tiles to access and replace the damaged pan liner or pre-sloped mortar bed. Depending on the extent of damage, it may require installing a new waterproof membrane and rebuilding the shower floor. Proper slope and sealing are crucial to prevent future leaks. Sometimes, a full shower replacement is necessary if the pan's base structure is compromised.",
+        "@type": "Answer",
+        "description": "Repairing a leaking shower pan usually requires removing tiles to replace the damaged liner or mortar bed, ensuring proper waterproofing and slope."
+      }
+    }
+  ],
+  "description": "Repairing a leaking shower pan usually requires removing tiles to replace the damaged liner or mortar bed, ensuring proper waterproofing and slope."
+}

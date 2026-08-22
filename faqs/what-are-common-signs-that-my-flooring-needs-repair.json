@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-signs-that-my-flooring-needs-repair",
+  "name": "What are common signs that my flooring needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my flooring needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your flooring needs repair include visible damage like scratches, dents, gouges, or cracks. For hardwood, look for warping, buckling, or loose planks. Laminate might show lifting edges or delamination. With tile, cracked, chipped, or loose tiles, and crumbling grout are indicators. Unevenness, squeaks, or soft spots when walking over certain areas can suggest issues with the subfloor or underlying structure. Addressing these signs early can prevent more extensive and costly damage.",
+        "@type": "Answer",
+        "description": "Look for scratches, cracks, warping, buckling, loose pieces, or unevenness. Squeaks or soft spots can also indicate issues."
+      }
+    }
+  ],
+  "description": "Look for scratches, cracks, warping, buckling, loose pieces, or unevenness. Squeaks or soft spots can also indicate issues."
+}

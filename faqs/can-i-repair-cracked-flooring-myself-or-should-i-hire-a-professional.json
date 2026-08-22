@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-cracked-flooring-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair cracked flooring myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair cracked flooring myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor surface cracks in some flooring types might be addressed with DIY kits, professional repair is generally recommended for optimal, lasting results. Professionals have the experience to correctly identify the cause of the crack, choose appropriate materials and methods, and ensure structural integrity. Improper DIY repairs can lead to further damage or inadequate solutions, potentially costing more in the long run.",
+        "@type": "Answer",
+        "description": "Hire a professional for cracked flooring repair to ensure lasting results and address underlying causes, avoiding potential DIY errors."
+      }
+    }
+  ],
+  "description": "Hire a professional for cracked flooring repair to ensure lasting results and address underlying causes, avoiding potential DIY errors."
+}

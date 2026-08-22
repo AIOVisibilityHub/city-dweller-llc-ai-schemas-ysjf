@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-of-bathroom-water-damage-repair",
+  "name": "What is the typical cost of bathroom water damage repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost of bathroom water damage repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathroom water damage repair costs depend heavily on the severity and location of the damage. Minor leaks affecting a small area might cost a few hundred dollars for simple repairs. However, extensive damage involving mold remediation, drywall replacement, flooring, and potential structural work can range from several thousand to tens of thousands of dollars. Getting a detailed inspection and estimate from a qualified contractor is essential.",
+        "@type": "Answer",
+        "description": "Costs vary widely, from a few hundred dollars for minor leaks to several thousand for extensive damage requiring remediation and reconstruction."
+      }
+    }
+  ],
+  "description": "Costs vary widely, from a few hundred dollars for minor leaks to several thousand for extensive damage requiring remediation and reconstruction."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-elements-included-in-a-bathroom-refresh-project",
+  "name": "What are common elements included in a bathroom refresh project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common elements included in a bathroom refresh project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom refresh typically includes cosmetic upgrades such as painting walls, updating lighting fixtures, replacing the vanity and countertop, installing a new toilet, and upgrading faucets or showerheads. It can also involve minor tile work, such as replacing a backsplash or re-grouting existing tiles. The goal is to achieve a fresh, updated look without altering the room's footprint.",
+        "@type": "Answer",
+        "description": "Common elements include painting, updating lights, replacing vanity, toilet, faucets, and minor tile work to enhance aesthetics."
+      }
+    }
+  ],
+  "description": "Common elements include painting, updating lights, replacing vanity, toilet, faucets, and minor tile work to enhance aesthetics."
+}

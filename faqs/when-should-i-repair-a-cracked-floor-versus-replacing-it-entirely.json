@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-repair-a-cracked-floor-versus-replacing-it-entirely",
+  "name": "When should I repair a cracked floor versus replacing it entirely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair a cracked floor versus replacing it entirely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repair and replacement depends on the extent of the damage, the flooring material, and your budget. Minor cracks in isolated areas can often be repaired effectively and affordably. However, if cracks are widespread, indicate significant structural issues, or if the flooring is at the end of its lifespan, full replacement might be more cost-effective and provide a better long-term solution. A professional assessment can help determine the best course of action.",
+        "@type": "Answer",
+        "description": "Repair minor, isolated cracks; consider replacement for widespread damage, structural issues, or aged flooring."
+      }
+    }
+  ],
+  "description": "Repair minor, isolated cracks; consider replacement for widespread damage, structural issues, or aged flooring."
+}

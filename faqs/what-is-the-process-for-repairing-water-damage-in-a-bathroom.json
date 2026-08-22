@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-repairing-water-damage-in-a-bathroom",
+  "name": "What is the process for repairing water damage in a bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing water damage in a bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically involves several stages. First, the source of the water is identified and stopped. Next, the affected area is thoroughly dried using specialized equipment to prevent mold. Damaged materials like drywall, flooring, and insulation are then removed and replaced. Finally, any necessary aesthetic finishes, such as painting or tiling, are completed to restore the bathroom's appearance. Mold remediation may be required if present.",
+        "@type": "Answer",
+        "description": "The process includes stopping the leak, drying the area, removing and replacing damaged materials, and restoring finishes. Mold remediation may also be necessary."
+      }
+    }
+  ],
+  "description": "The process includes stopping the leak, drying the area, removing and replacing damaged materials, and restoring finishes. Mold remediation may also be necessar"
+}

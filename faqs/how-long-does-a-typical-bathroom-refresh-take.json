@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-bathroom-refresh-take",
+  "name": "How long does a typical bathroom refresh take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bathroom refresh take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a bathroom refresh depends on the scope of work. A minor refresh involving only painting, new light fixtures, and mirror replacement might take 3-5 days. If the project includes replacing a vanity, toilet, and re-tiling a small area, it could extend to 1-2 weeks. We provide a detailed timeline after assessing your specific project requirements.",
+        "@type": "Answer",
+        "description": "A typical bathroom refresh can take from 3-5 days for minor updates up to 1-2 weeks for more extensive work."
+      }
+    }
+  ],
+  "description": "A typical bathroom refresh can take from 3-5 days for minor updates up to 1-2 weeks for more extensive work."
+}

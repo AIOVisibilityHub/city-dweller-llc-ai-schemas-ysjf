@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-natural-stone-and-porcelain-tile-flooring",
+  "name": "What is the difference between natural stone and porcelain tile flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between natural stone and porcelain tile flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Natural stone is quarried directly from the earth, showcasing unique variations in color, pattern, and texture. It offers a luxurious, one-of-a-kind appearance but typically requires sealing and can be more porous. Porcelain tile is a manufactured product made from clay and other materials, fired at high temperatures. It is generally more uniform in appearance, highly durable, water-resistant, and requires less maintenance. Your choice depends on aesthetic preference, maintenance commitment, and budget.",
+        "@type": "Answer",
+        "description": "Natural stone is unique and porous, requiring sealing; porcelain tile is manufactured, uniform, durable, and low-maintenance."
+      }
+    }
+  ],
+  "description": "Natural stone is unique and porous, requiring sealing; porcelain tile is manufactured, uniform, durable, and low-maintenance."
+}

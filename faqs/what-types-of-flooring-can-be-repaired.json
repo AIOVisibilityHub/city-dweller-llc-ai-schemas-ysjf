@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-flooring-can-be-repaired",
+  "name": "What types of flooring can be repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of flooring can be repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most common flooring types can be repaired, including hardwood, laminate, tile, and vinyl. Hardwood repairs often involve replacing damaged planks, sanding, and refinishing. Laminate repairs typically require replacing sections. Tile repair focuses on replacing cracked or chipped tiles and regrouting. Vinyl flooring can be patched or replaced in sections, depending on the damage. The feasibility of repair versus replacement depends on the extent of the damage and the availability of matching materials.",
+        "@type": "Answer",
+        "description": "Many flooring types like hardwood, laminate, tile, and vinyl can be repaired. The method depends on the material and damage extent."
+      }
+    }
+  ],
+  "description": "Many flooring types like hardwood, laminate, tile, and vinyl can be repaired. The method depends on the material and damage extent."
+}

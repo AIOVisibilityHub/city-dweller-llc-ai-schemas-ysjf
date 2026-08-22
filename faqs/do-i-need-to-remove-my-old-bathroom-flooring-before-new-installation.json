@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-remove-my-old-bathroom-flooring-before-new-installation",
+  "name": "Do I need to remove my old bathroom flooring before new installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to remove my old bathroom flooring before new installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most cases, yes, it is recommended to remove old bathroom flooring. Removing existing flooring allows for a thorough inspection of the subfloor for any damage, moisture issues, or unevenness that could compromise the new installation. While some materials, like thin vinyl, can sometimes be installed over existing surfaces, removing the old layer ensures a proper, stable, and long-lasting foundation for your new bathroom floor.",
+        "@type": "Answer",
+        "description": "Yes, it is usually recommended to remove old flooring to inspect the subfloor and ensure a proper foundation for the new installation."
+      }
+    }
+  ],
+  "description": "Yes, it is usually recommended to remove old flooring to inspect the subfloor and ensure a proper foundation for the new installation."
+}

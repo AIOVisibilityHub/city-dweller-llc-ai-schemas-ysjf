@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-tell-if-my-uneven-floor-is-a-structural-problem",
+  "name": "How can I tell if my uneven floor is a structural problem?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my uneven floor is a structural problem?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Distinguishing between minor floor issues and serious structural problems often requires professional assessment. Signs that suggest a structural problem include significant sagging or sloping in one area, cracking in walls or ceilings above the uneven floor, doors and windows sticking, or visible cracks in the foundation. If multiple signs are present, or if the unevenness is severe and rapidly worsening, it's advisable to consult a general contractor or structural engineer. They can inspect the foundation, joists, and subfloor to determine the exact cause and recommend appropriate repairs.",
+        "@type": "Answer",
+        "description": "Look for significant sagging, wall/ceiling cracks, sticking doors/windows, or foundation cracks. If present, consult a professional for structural assessment."
+      }
+    }
+  ],
+  "description": "Look for significant sagging, wall/ceiling cracks, sticking doors/windows, or foundation cracks. If present, consult a professional for structural assessment."
+}

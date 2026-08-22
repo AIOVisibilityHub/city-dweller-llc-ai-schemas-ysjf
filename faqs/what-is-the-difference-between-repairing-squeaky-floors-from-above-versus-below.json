@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-repairing-squeaky-floors-from-above-versus-below",
+  "name": "What is the difference between repairing squeaky floors from above versus below?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between repairing squeaky floors from above versus below?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing squeaky floors from above typically involves driving screws through the finished flooring into the joists or subfloor, or using specialized kits that draw the subfloor tight. This method is common when there's no access to the underside of the floor. Repairing from below, usually through a basement or crawl space, allows for more robust solutions like shimming gaps between joists and subfloor, adding blocking, or reinforcing joists. Repairs from below often yield more permanent results without disturbing the finished floor.",
+        "@type": "Answer",
+        "description": "Repairing from above involves fastening through the finished floor. Repairing from below allows for more robust structural fixes like shimming or blocking, often without disturbing the finished floor."
+      }
+    }
+  ],
+  "description": "Repairing from above involves fastening through the finished floor. Repairing from below allows for more robust structural fixes like shimming or blocking, ofte"
+}

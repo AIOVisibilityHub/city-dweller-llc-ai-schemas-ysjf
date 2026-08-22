@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-range-for-interior-floor-replacement-per-square-foot",
+  "name": "What is the typical cost range for interior floor replacement per square foot?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for interior floor replacement per square foot?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of interior floor replacement varies widely based on the material chosen, the complexity of the installation, and the amount of subfloor preparation required. For instance, luxury vinyl plank might range from $4-$8 per square foot, while hardwood can be $8-$15+ per square foot. These figures typically include materials and labor but can fluctuate. We provide detailed estimates after an on-site assessment to give you an accurate cost for your specific project.",
+        "@type": "Answer",
+        "description": "Cost varies significantly by material, installation complexity, and subfloor needs. Expect anywhere from $4 to $15+ per square foot, including materials and labor."
+      }
+    }
+  ],
+  "description": "Cost varies significantly by material, installation complexity, and subfloor needs. Expect anywhere from $4 to $15+ per square foot, including materials and lab"
+}

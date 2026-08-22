@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-is-a-bathroom-refresh-sufficient-instead-of-a-complete-remodel",
+  "name": "When is a bathroom refresh sufficient instead of a complete remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is a bathroom refresh sufficient instead of a complete remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom refresh is sufficient when the existing layout functions well, and the major structural components, plumbing, and electrical systems are in good condition. If you primarily want to update aesthetics, improve efficiency with new fixtures, or address minor cosmetic wear and tear, a refresh is a good choice. Consider a full remodel if the layout is dysfunctional, plumbing is outdated, or there are significant structural issues.",
+        "@type": "Answer",
+        "description": "A refresh is ideal when the layout and core systems are sound, and you primarily want to update aesthetics or address minor wear."
+      }
+    }
+  ],
+  "description": "A refresh is ideal when the layout and core systems are sound, and you primarily want to update aesthetics or address minor wear."
+}

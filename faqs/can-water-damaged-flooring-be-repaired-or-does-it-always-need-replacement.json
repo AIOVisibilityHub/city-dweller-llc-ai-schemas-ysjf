@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-water-damaged-flooring-be-repaired-or-does-it-always-need-replacement",
+  "name": "Can water-damaged flooring be repaired, or does it always need replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can water-damaged flooring be repaired, or does it always need replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water-damaged flooring can sometimes be repaired, but often requires replacement, especially if the damage is significant or has led to mold growth. For hardwood, minor surface water stains might be sanded out. However, if planks are warped, buckled, or mold is present, replacement is necessary. Laminate and engineered wood often swell irreversibly and typically need full replacement. Tile and vinyl are more water-resistant, but prolonged exposure can damage the subfloor, necessitating its repair or replacement before new flooring is installed.",
+        "@type": "Answer",
+        "description": "Minor water damage can sometimes be repaired, but significant damage, warping, or mold often requires full replacement, particularly for hardwood and laminate."
+      }
+    }
+  ],
+  "description": "Minor water damage can sometimes be repaired, but significant damage, warping, or mold often requires full replacement, particularly for hardwood and laminate."
+}

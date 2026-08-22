@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-call-a-professional-for-uneven-floor-repair",
+  "name": "When should I call a professional for uneven floor repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for uneven floor repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for uneven floor repair if you notice significant sagging, widespread unevenness, cracks in walls or foundation, or if the issue seems to be worsening over time. Any suspicion of structural damage, water damage, or pest infestation also warrants professional intervention. While minor, isolated issues might be DIY-friendly, complex or extensive problems require the expertise of a general contractor or structural engineer to diagnose the root cause and ensure a safe, lasting repair. Attempting complex repairs without expertise can lead to further damage.",
+        "@type": "Answer",
+        "description": "Call a professional for significant sagging, widespread unevenness, wall/foundation cracks, or suspected structural damage, water damage, or pest infestations."
+      }
+    }
+  ],
+  "description": "Call a professional for significant sagging, widespread unevenness, wall/foundation cracks, or suspected structural damage, water damage, or pest infestations."
+}

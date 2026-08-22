@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-differences-between-hardwood-engineered-wood-and-laminate-flooring",
+  "name": "What are the differences between hardwood, engineered wood, and laminate flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the differences between hardwood, engineered wood, and laminate flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hardwood is solid wood throughout, offering durability and the ability to be refinished multiple times. Engineered wood has a real wood veneer over a plywood core, making it more stable and resistant to moisture fluctuations, suitable for areas like the Bay Area. Laminate flooring is a synthetic product with a photographic layer topped by a clear protective coating, designed to mimic wood or stone, offering a more budget-friendly and scratch-resistant option.",
+        "@type": "Answer",
+        "description": "Hardwood is solid wood, engineered wood has a veneer over plywood, and laminate is a synthetic material mimicking wood/stone. Each offers different durability, moisture resistance, and cost."
+      }
+    }
+  ],
+  "description": "Hardwood is solid wood, engineered wood has a veneer over plywood, and laminate is a synthetic material mimicking wood/stone. Each offers different durability,"
+}

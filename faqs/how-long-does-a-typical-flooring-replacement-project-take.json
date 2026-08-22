@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-flooring-replacement-project-take",
+  "name": "How long does a typical flooring replacement project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical flooring replacement project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a flooring replacement project varies based on the type of flooring, the area size, and any necessary subfloor preparation. Generally, a single room can take 1-3 days, while a whole-house project might range from 3 to 10 days. This includes old flooring removal, subfloor inspection and repair, and new flooring installation. Complex patterns or custom work can extend this timeline.",
+        "@type": "Answer",
+        "description": "A flooring replacement project can take 1-3 days for a single room and 3-10 days for an entire house, depending on scope and flooring type."
+      }
+    }
+  ],
+  "description": "A flooring replacement project can take 1-3 days for a single room and 3-10 days for an entire house, depending on scope and flooring type."
+}

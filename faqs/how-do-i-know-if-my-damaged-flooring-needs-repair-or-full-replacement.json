@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-my-damaged-flooring-needs-repair-or-full-replacement",
+  "name": "How do I know if my damaged flooring needs repair or full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my damaged flooring needs repair or full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repair and replacement depends on the extent and type of damage. Minor scratches, small cracks, or localized issues can often be repaired cost-effectively, especially with hardwood or individual tile replacement. However, widespread water damage, significant structural issues, or extensive wear across a large area typically warrant full replacement. If the damage compromises the subfloor or affects a majority of the room, replacement is usually the more durable and long-term solution.",
+        "@type": "Answer",
+        "description": "Assess the extent and type of damage; minor, localized issues may be repairable, while widespread or structural damage often requires full replacement."
+      }
+    }
+  ],
+  "description": "Assess the extent and type of damage; minor, localized issues may be repairable, while widespread or structural damage often requires full replacement."
+}

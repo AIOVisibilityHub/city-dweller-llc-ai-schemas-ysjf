@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-squeaky-floors",
+  "name": "What causes squeaky floors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes squeaky floors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Squeaky floors are typically caused by friction between subfloor and floor joists, loose floorboards rubbing against each other, or gaps forming due to wood shrinkage over time. Nails can also work their way loose, creating movement and noise. Changes in humidity and temperature can exacerbate these issues by causing wood to expand and contract, leading to new or worsened squeaks. Identifying the root cause is the first step in effective squeaky floor repair.",
+        "@type": "Answer",
+        "description": "Squeaky floors are usually caused by friction between subfloor and joists, loose floorboards, or wood shrinkage over time. Loose nails and environmental changes can also contribute."
+      }
+    }
+  ],
+  "description": "Squeaky floors are usually caused by friction between subfloor and joists, loose floorboards, or wood shrinkage over time. Loose nails and environmental changes"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-preventative-measures-can-i-take-to-avoid-future-flooring-cracks",
+  "name": "What preventative measures can I take to avoid future flooring cracks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preventative measures can I take to avoid future flooring cracks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventative measures include ensuring a stable and properly prepared subfloor during installation, maintaining consistent indoor humidity and temperature levels to prevent material expansion and contraction, using felt pads under furniture to avoid impacts, and addressing any signs of foundation settlement promptly. Regular inspections can also help identify and mitigate potential issues before they develop into major cracks.",
+        "@type": "Answer",
+        "description": "Prevent cracks by ensuring a stable subfloor, consistent humidity, using furniture pads, and addressing foundation issues."
+      }
+    }
+  ],
+  "description": "Prevent cracks by ensuring a stable subfloor, consistent humidity, using furniture pads, and addressing foundation issues."
+}

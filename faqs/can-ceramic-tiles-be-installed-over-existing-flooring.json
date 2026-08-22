@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-ceramic-tiles-be-installed-over-existing-flooring",
+  "name": "Can ceramic tiles be installed over existing flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can ceramic tiles be installed over existing flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most cases, ceramic tiles should not be installed directly over existing flooring like vinyl, laminate, or old tile. Doing so can compromise the adhesion, lead to an uneven finish, or cause the new tiles to crack prematurely due to movement or structural issues with the underlying floor. The best practice is to remove existing flooring and prepare the subfloor properly. However, some specific situations, such as installing over well-adhered, structurally sound old ceramic or concrete, might allow for direct installation after careful assessment.",
+        "@type": "Answer",
+        "description": "Generally, ceramic tiles should not be installed over existing flooring due to potential adhesion issues or cracking. Removing old flooring and properly preparing the subfloor is recommended."
+      }
+    }
+  ],
+  "description": "Generally, ceramic tiles should not be installed over existing flooring due to potential adhesion issues or cracking. Removing old flooring and properly prepari"
+}

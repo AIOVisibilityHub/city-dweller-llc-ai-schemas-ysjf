@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-move-furniture-before-my-flooring-replacement-project-begins",
+  "name": "Do I need to move furniture before my flooring replacement project begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to move furniture before my flooring replacement project begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, typically all furniture and personal belongings must be completely removed from the areas where flooring replacement will occur. This allows our team full access to the floor, ensuring an efficient and safe installation process. While some contractors offer furniture moving as an additional service, it is generally the homeowner's responsibility to prepare the space. We recommend discussing specific requirements during your initial consultation to ensure proper preparation.",
+        "@type": "Answer",
+        "description": "Yes, all furniture and personal belongings generally need to be removed from the work area before flooring replacement."
+      }
+    }
+  ],
+  "description": "Yes, all furniture and personal belongings generally need to be removed from the work area before flooring replacement."
+}

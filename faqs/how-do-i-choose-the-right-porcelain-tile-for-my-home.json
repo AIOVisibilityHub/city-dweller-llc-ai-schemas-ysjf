@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-porcelain-tile-for-my-home",
+  "name": "How do I choose the right porcelain tile for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right porcelain tile for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right porcelain tile involves considering several factors: durability, slip resistance, size, color, and finish. For high-traffic areas, look for tiles with a higher PEI (Porcelain Enamel Institute) rating. In wet areas like bathrooms, opt for tiles with a higher coefficient of friction to reduce slip hazards. Consider the room's size; large format tiles can make small spaces feel bigger, while smaller tiles work well in compact areas. The color and finish should complement your existing decor and lighting. We can guide you through samples and design options to match your functional needs and aesthetic preferences.",
+        "@type": "Answer",
+        "description": "Consider durability (PEI rating), slip resistance, size, color, and finish to match your room's function and aesthetic."
+      }
+    }
+  ],
+  "description": "Consider durability (PEI rating), slip resistance, size, color, and finish to match your room's function and aesthetic."
+}

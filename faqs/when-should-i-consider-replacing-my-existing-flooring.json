@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-my-existing-flooring",
+  "name": "When should I consider replacing my existing flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my existing flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your flooring when it shows significant signs of wear and tear, such as deep scratches, warping, cracks, or extensive staining that cannot be repaired. Outdated styles that no longer match your home's aesthetic or functionality issues like persistent squeaks or unevenness can also signal a need for replacement. Additionally, if you're undertaking a major renovation or have allergy concerns, new flooring can be a beneficial upgrade.",
+        "@type": "Answer",
+        "description": "Replace flooring when it shows significant wear, damage, or outdated appearance, or during major renovations, or for allergy concerns."
+      }
+    }
+  ],
+  "description": "Replace flooring when it shows significant wear, damage, or outdated appearance, or during major renovations, or for allergy concerns."
+}

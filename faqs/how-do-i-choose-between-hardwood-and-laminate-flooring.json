@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-between-hardwood-and-laminate-flooring",
+  "name": "How do I choose between hardwood and laminate flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose between hardwood and laminate flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing between hardwood and laminate depends on your priorities. Hardwood offers natural beauty, can be refinished multiple times, and often increases home value, but it's more susceptible to moisture and scratches. Laminate is more budget-friendly, highly durable, scratch-resistant, and easier to maintain, making it a good option for high-traffic or moisture-prone areas. However, laminate cannot be refinished. Consider your budget, lifestyle, and aesthetic preferences when making your decision.",
+        "@type": "Answer",
+        "description": "Hardwood offers natural beauty and refinishing potential but is prone to moisture damage, while laminate is durable, budget-friendly, and scratch-resistant but cannot be refinished."
+      }
+    }
+  ],
+  "description": "Hardwood offers natural beauty and refinishing potential but is prone to moisture damage, while laminate is durable, budget-friendly, and scratch-resistant but"
+}

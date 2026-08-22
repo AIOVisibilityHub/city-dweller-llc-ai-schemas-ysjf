@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-vapor-barrier-and-do-i-need-one-for-my-basement-floor",
+  "name": "What is a vapor barrier and do I need one for my basement floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a vapor barrier and do I need one for my basement floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A vapor barrier is a material, typically a thick plastic sheeting or a liquid applied membrane, installed between the concrete subfloor and the new flooring. Its purpose is to prevent moisture vapor from rising through the concrete slab and damaging the finished floor. You likely need a vapor barrier if your basement has any history of moisture issues or if moisture tests indicate high humidity levels. It's a critical step to protect moisture-sensitive flooring like engineered wood or laminate from warping, buckling, or developing mold.",
+        "@type": "Answer",
+        "description": "A vapor barrier prevents moisture from rising through your concrete slab. You need one if your basement has moisture issues or high humidity."
+      }
+    }
+  ],
+  "description": "A vapor barrier prevents moisture from rising through your concrete slab. You need one if your basement has moisture issues or high humidity."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-consider-when-choosing-new-bathroom-flooring",
+  "name": "What should I consider when choosing new bathroom flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing new bathroom flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting new bathroom flooring, consider several factors beyond aesthetics. Water resistance and durability are paramount due to high moisture and traffic. Evaluate slip resistance for safety, especially in homes with children or elderly residents. Maintenance requirements, comfort underfoot, and compatibility with radiant heating systems are also important. Finally, align your choice with your budget and the overall design style of your bathroom to ensure satisfaction.",
+        "@type": "Answer",
+        "description": "Consider water resistance, durability, slip resistance, maintenance, comfort, and budget when choosing new bathroom flooring."
+      }
+    }
+  ],
+  "description": "Consider water resistance, durability, slip resistance, maintenance, comfort, and budget when choosing new bathroom flooring."
+}

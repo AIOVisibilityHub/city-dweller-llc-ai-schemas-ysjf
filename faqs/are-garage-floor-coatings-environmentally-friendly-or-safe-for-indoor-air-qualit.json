@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-garage-floor-coatings-environmentally-friendly-or-safe-for-indoor-air-qualit",
+  "name": "Are garage floor coatings environmentally friendly or safe for indoor air quality?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are garage floor coatings environmentally friendly or safe for indoor air quality?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many modern garage floor coatings, particularly polyaspartic and some epoxy systems, are formulated to be low in Volatile Organic Compounds (VOCs), making them a safer choice for indoor air quality. During installation, proper ventilation is always recommended regardless of VOC levels. Once cured, these coatings are inert and generally considered safe, not off-gassing harmful chemicals. Inquire with your contractor about the specific products they use and their VOC ratings if environmental or air quality concerns are a priority for you.",
+        "@type": "Answer",
+        "description": "Many modern coatings are low-VOC, enhancing indoor air quality. Proper ventilation is key during installation. Once cured, they are generally safe."
+      }
+    }
+  ],
+  "description": "Many modern coatings are low-VOC, enhancing indoor air quality. Proper ventilation is key during installation. Once cured, they are generally safe."
+}

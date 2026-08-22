@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-call-a-professional-for-bathroom-water-damage",
+  "name": "When should I call a professional for bathroom water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for bathroom water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for bathroom water damage if you notice persistent leaks, significant discoloration or warping, visible mold growth, or a strong musty odor. If the damage extends beyond a small, easily manageable area, or if you suspect structural involvement, a professional contractor can accurately assess the extent of the problem, identify the source, and ensure proper repair and mold prevention.",
+        "@type": "Answer",
+        "description": "Call a professional for persistent leaks, significant damage, visible mold, strong odors, or if you suspect structural issues."
+      }
+    }
+  ],
+  "description": "Call a professional for persistent leaks, significant damage, visible mold, strong odors, or if you suspect structural issues."
+}

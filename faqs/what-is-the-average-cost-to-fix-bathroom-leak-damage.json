@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-average-cost-to-fix-bathroom-leak-damage",
+  "name": "What is the average cost to fix bathroom leak damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to fix bathroom leak damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix bathroom leak damage varies widely depending on the leak's source, the extent of water damage, and necessary repairs. Minor repairs, like a leaking faucet, might be inexpensive. However, repairs involving structural damage, mold remediation, or replacement of flooring and drywall can range from several hundred to several thousand dollars. A detailed inspection is needed for an accurate estimate.",
+        "@type": "Answer",
+        "description": "Costs vary based on the leak's source, damage extent, and necessary repairs. Minor issues are inexpensive, but extensive damage can cost thousands. An inspection provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Costs vary based on the leak's source, damage extent, and necessary repairs. Minor issues are inexpensive, but extensive damage can cost thousands. An inspectio"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-minor-bathroom-water-damage-myself",
+  "name": "Can I repair minor bathroom water damage myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair minor bathroom water damage myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can address very minor bathroom water damage, such as small, contained leaks that haven't caused significant material saturation or mold growth, provided you can safely identify and fix the source. However, if the damage is extensive, involves structural components, or if mold is suspected, hiring a professional is strongly recommended. Attempting complex repairs without proper knowledge or equipment can lead to further issues.",
+        "@type": "Answer",
+        "description": "You can tackle minor, contained leaks yourself if there's no extensive saturation or mold. For larger or structural issues, hire a professional."
+      }
+    }
+  ],
+  "description": "You can tackle minor, contained leaks yourself if there's no extensive saturation or mold. For larger or structural issues, hire a professional."
+}

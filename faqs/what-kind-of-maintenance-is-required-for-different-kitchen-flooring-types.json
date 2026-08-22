@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-maintenance-is-required-for-different-kitchen-flooring-types",
+  "name": "What kind of maintenance is required for different kitchen flooring types?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance is required for different kitchen flooring types?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance varies significantly by material. Tile and LVP are relatively low-maintenance, requiring regular sweeping or vacuuming and occasional damp mopping. Grout in tile floors may need periodic sealing. Hardwood floors require specific cleaners and should be protected from excessive moisture; they may also need refinishing over time. Natural stone needs regular sealing to maintain its stain and moisture resistance. We provide detailed care instructions for your specific flooring to ensure its longevity and appearance.",
+        "@type": "Answer",
+        "description": "Maintenance depends on the material: tile and LVP are low-maintenance, hardwood needs specific care, and natural stone requires regular sealing."
+      }
+    }
+  ],
+  "description": "Maintenance depends on the material: tile and LVP are low-maintenance, hardwood needs specific care, and natural stone requires regular sealing."
+}

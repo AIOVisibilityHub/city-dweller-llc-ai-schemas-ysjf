@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-repairing-cracked-concrete-flooring",
+  "name": "What is the process for repairing cracked concrete flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing cracked concrete flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing cracked concrete flooring typically involves cleaning the crack, widening it slightly if necessary to ensure proper adhesion, and then filling it with a specialized epoxy or polyurethane filler. For deeper or structural cracks, rebar or stitching might be used to reinforce the area before filling. The surface is then smoothed and, if applicable, sealed or coated to match the surrounding concrete.",
+        "@type": "Answer",
+        "description": "Concrete crack repair involves cleaning, widening, filling with epoxy or polyurethane, and sometimes reinforcing, then smoothing."
+      }
+    }
+  ],
+  "description": "Concrete crack repair involves cleaning, widening, filling with epoxy or polyurethane, and sometimes reinforcing, then smoothing."
+}

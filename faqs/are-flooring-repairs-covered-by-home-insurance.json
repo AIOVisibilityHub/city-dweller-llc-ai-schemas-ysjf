@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-flooring-repairs-covered-by-home-insurance",
+  "name": "Are flooring repairs covered by home insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are flooring repairs covered by home insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Flooring repairs may be covered by home insurance depending on the cause of the damage and your specific policy. Generally, sudden and accidental damage, such as from a burst pipe or a falling object, might be covered. Damage resulting from neglect, wear and tear, or issues like gradual water leaks are typically not covered. It's crucial to review your policy details and contact your insurance provider immediately after discovering damage to understand your coverage options and claim process.",
+        "@type": "Answer",
+        "description": "Coverage depends on your policy and the cause of damage. Sudden accidental damage may be covered, but neglect or wear and tear usually are not."
+      }
+    }
+  ],
+  "description": "Coverage depends on your policy and the cause of damage. Sudden accidental damage may be covered, but neglect or wear and tear usually are not."
+}

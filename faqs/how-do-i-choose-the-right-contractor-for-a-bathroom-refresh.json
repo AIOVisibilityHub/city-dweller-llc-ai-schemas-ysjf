@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-contractor-for-a-bathroom-refresh",
+  "name": "How do I choose the right contractor for a bathroom refresh?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for a bathroom refresh?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor, look for one with a strong portfolio of bathroom projects and positive client testimonials. Verify that they are licensed and insured in California. Get detailed quotes that clearly outline the scope of work and costs. Communication and transparency are key. We encourage clients to review our past projects and speak with previous customers to ensure confidence in our services.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured contractor with a strong portfolio, positive reviews, and clear communication, ensuring they provide detailed quotes."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured contractor with a strong portfolio, positive reviews, and clear communication, ensuring they provide detailed quotes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-move-all-my-furniture-before-you-start-the-floor-replacement",
+  "name": "Do I need to move all my furniture before you start the floor replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to move all my furniture before you start the floor replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, for efficient and safe installation, it is generally best if all furniture and personal belongings are removed from the rooms where flooring will be replaced. This ensures our team has clear access to the entire floor area for demolition, preparation, and installation. If you require assistance with moving heavier items, please discuss this with us during the initial consultation so we can factor it into the project plan.",
+        "@type": "Answer",
+        "description": "Yes, for efficient installation, all furniture should be removed from the work area. Discuss any heavy item assistance needs during consultation."
+      }
+    }
+  ],
+  "description": "Yes, for efficient installation, all furniture should be removed from the work area. Discuss any heavy item assistance needs during consultation."
+}

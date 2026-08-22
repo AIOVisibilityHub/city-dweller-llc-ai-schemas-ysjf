@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-best-flooring-material-for-my-home",
+  "name": "How do I choose the best flooring material for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the best flooring material for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the best flooring involves considering several factors: your budget, the room's function (e.g., high traffic, moisture exposure), your aesthetic preferences, and maintenance requirements. For high-traffic areas, durable options like LVP or hardwood are popular. For bathrooms or kitchens, waterproof materials like tile or LVP are ideal. We can discuss your specific lifestyle and help you compare the pros and cons of each material to find the perfect fit for your home in areas like San Bruno or South San Francisco.",
+        "@type": "Answer",
+        "description": "Consider your budget, room function, aesthetic, and maintenance. We can help you compare materials like LVP, hardwood, or tile to find the best fit for your needs."
+      }
+    }
+  ],
+  "description": "Consider your budget, room function, aesthetic, and maintenance. We can help you compare materials like LVP, hardwood, or tile to find the best fit for your nee"
+}

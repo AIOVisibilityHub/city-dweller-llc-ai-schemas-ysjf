@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-repair-uneven-flooring",
+  "name": "How long does it take to repair uneven flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair uneven flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of uneven flooring repair projects varies significantly. Minor repairs, such as applying self-leveling compound or shimming small areas, might take 1-3 days. If the repair involves replacing sections of subfloor or addressing isolated joist issues, the project could extend to 3-7 days. More extensive structural repairs, which might include foundation work or widespread joist replacement, can take several weeks or even longer, depending on the complexity and curing times for materials. We provide a detailed timeline after assessing your specific situation.",
+        "@type": "Answer",
+        "description": "Repair times vary from 1-3 days for minor fixes to several weeks for extensive structural work, depending on the damage and repair complexity."
+      }
+    }
+  ],
+  "description": "Repair times vary from 1-3 days for minor fixes to several weeks for extensive structural work, depending on the damage and repair complexity."
+}

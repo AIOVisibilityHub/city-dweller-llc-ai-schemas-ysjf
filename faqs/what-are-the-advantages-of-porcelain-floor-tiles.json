@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-advantages-of-porcelain-floor-tiles",
+  "name": "What are the advantages of porcelain floor tiles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the advantages of porcelain floor tiles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Porcelain floor tiles are a durable and versatile choice for many homes. They are highly resistant to water, stains, and scratches, making them suitable for high-traffic areas like kitchens, bathrooms, and entryways. Their dense composition also makes them less porous than other tile types, contributing to their longevity and ease of cleaning. Additionally, porcelain tiles come in a wide range of designs, colors, and finishes, including options that mimic natural stone or wood, allowing for diverse aesthetic preferences. They are also known for their resistance to freezing temperatures, making them an option for covered outdoor spaces in the Bay Area.",
+        "@type": "Answer",
+        "description": "Porcelain tiles offer durability, water resistance, and a wide range of aesthetic options, making them ideal for various areas in a home."
+      }
+    }
+  ],
+  "description": "Porcelain tiles offer durability, water resistance, and a wide range of aesthetic options, making them ideal for various areas in a home."
+}

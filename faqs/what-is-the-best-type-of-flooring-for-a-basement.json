@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-best-type-of-flooring-for-a-basement",
+  "name": "What is the best type of flooring for a basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the best type of flooring for a basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best basement flooring depends on factors like moisture levels, desired comfort, and intended use. Common options include luxury vinyl plank (LVP), engineered hardwood, or tile. LVP is highly moisture-resistant and durable, suitable for many basement environments. Engineered hardwood offers warmth and aesthetics but requires good moisture control. Tile is extremely durable and waterproof, ideal for laundry areas or bathrooms within a basement. Concrete with a sealant is also a practical and cost-effective option for utility spaces.",
+        "@type": "Answer",
+        "description": "Best basement flooring depends on moisture, comfort, and use. LVP, engineered hardwood, and tile are common choices."
+      }
+    }
+  ],
+  "description": "Best basement flooring depends on moisture, comfort, and use. LVP, engineered hardwood, and tile are common choices."
+}

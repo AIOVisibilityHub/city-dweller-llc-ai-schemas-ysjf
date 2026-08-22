@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-remove-old-flooring-before-installing-new-flooring",
+  "name": "Do I need to remove old flooring before installing new flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to remove old flooring before installing new flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most cases, yes, existing flooring should be removed before installing new flooring. Removing old flooring ensures a stable, level, and clean subfloor, which is crucial for proper installation and the longevity of your new floor. Installing new flooring over old can lead to uneven surfaces, moisture trapping, or void warranties. There are exceptions, such as installing certain types of floating floors over existing hard surfaces, but it's always best to consult with your contractor to determine the best approach for your specific situation.",
+        "@type": "Answer",
+        "description": "Generally, old flooring must be removed to ensure a stable, level subfloor for new installation, which prevents issues and preserves warranty."
+      }
+    }
+  ],
+  "description": "Generally, old flooring must be removed to ensure a stable, level subfloor for new installation, which prevents issues and preserves warranty."
+}

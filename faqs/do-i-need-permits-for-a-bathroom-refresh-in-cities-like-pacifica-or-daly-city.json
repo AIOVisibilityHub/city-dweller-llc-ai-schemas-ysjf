@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-permits-for-a-bathroom-refresh-in-cities-like-pacifica-or-daly-city",
+  "name": "Do I need permits for a bathroom refresh in cities like Pacifica or Daly City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a bathroom refresh in cities like Pacifica or Daly City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Typically, minor cosmetic changes like painting, replacing a vanity without moving plumbing, or updating light fixtures do not require permits. However, if your refresh involves relocating plumbing lines, altering electrical wiring significantly, or changing the room's layout, permits from your local city planning department (e.g., Pacifica or Daly City) will likely be necessary. We can help determine permit requirements during the planning phase.",
+        "@type": "Answer",
+        "description": "Minor cosmetic changes usually don't need permits. Relocating plumbing, altering wiring, or changing layout typically requires permits in local cities."
+      }
+    }
+  ],
+  "description": "Minor cosmetic changes usually don't need permits. Relocating plumbing, altering wiring, or changing layout typically requires permits in local cities."
+}

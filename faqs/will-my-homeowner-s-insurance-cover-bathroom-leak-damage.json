@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-my-homeowner-s-insurance-cover-bathroom-leak-damage",
+  "name": "Will my homeowner's insurance cover bathroom leak damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover bathroom leak damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance coverage for bathroom leaks depends on your specific policy and the cause of the leak. Generally, sudden and accidental water damage (like a burst pipe) is covered. However, damage resulting from long-term neglect, maintenance issues, or flooding (which requires separate flood insurance) may not be covered. It's essential to review your policy or contact your insurance provider to understand your specific coverage and filing procedures.",
+        "@type": "Answer",
+        "description": "Coverage depends on your policy and the leak's cause; sudden damage is often covered, but long-term neglect or floods may not be. Review your policy."
+      }
+    }
+  ],
+  "description": "Coverage depends on your policy and the leak's cause; sudden damage is often covered, but long-term neglect or floods may not be. Review your policy."
+}

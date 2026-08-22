@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-should-i-maintain-and-clean-my-natural-stone-floors",
+  "name": "How should I maintain and clean my natural stone floors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I maintain and clean my natural stone floors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Natural stone floors require specific care to maintain their beauty and longevity. Regular cleaning involves sweeping or vacuuming to remove loose dirt and mopping with a pH-neutral, stone-specific cleaner. Avoid harsh, acidic, or abrasive cleaners, as these can etch or dull the stone's surface. Most natural stones also require periodic sealing, typically every 1-3 years, to protect against stains and moisture penetration. Promptly clean up spills to prevent staining.",
+        "@type": "Answer",
+        "description": "Maintain stone floors by sweeping, using pH-neutral cleaners, avoiding harsh chemicals, and sealing periodically to prevent stains."
+      }
+    }
+  ],
+  "description": "Maintain stone floors by sweeping, using pH-neutral cleaners, avoiding harsh chemicals, and sealing periodically to prevent stains."
+}

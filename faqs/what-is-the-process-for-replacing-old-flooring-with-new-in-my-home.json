@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-replacing-old-flooring-with-new-in-my-home",
+  "name": "What is the process for replacing old flooring with new in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing old flooring with new in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with removing the existing flooring and inspecting the subfloor for damage or unevenness. Necessary repairs or leveling are completed next. Then, the new flooring is installed according to the manufacturer's specifications. Finally, trim and baseboards are reinstalled, and the area is cleaned. Our team ensures proper preparation and installation for a durable finish.",
+        "@type": "Answer",
+        "description": "The process involves old flooring removal, subfloor preparation, new flooring installation, and finishing touches like trim reinstallation."
+      }
+    }
+  ],
+  "description": "The process involves old flooring removal, subfloor preparation, new flooring installation, and finishing touches like trim reinstallation."
+}

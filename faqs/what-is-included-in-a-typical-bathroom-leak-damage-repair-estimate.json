@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-included-in-a-typical-bathroom-leak-damage-repair-estimate",
+  "name": "What is included in a typical bathroom leak damage repair estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a typical bathroom leak damage repair estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical estimate for bathroom leak damage repair includes costs for leak detection, water extraction (if necessary), drying and dehumidification, mold inspection and remediation, demolition of damaged materials, and reconstruction or replacement of affected areas like drywall, flooring, and fixtures. It should also detail labor, materials, and any necessary permits. A comprehensive estimate provides transparency regarding the entire repair process.",
+        "@type": "Answer",
+        "description": "An estimate typically includes leak detection, water removal, drying, mold work, demolition, reconstruction of damaged areas, labor, and materials."
+      }
+    }
+  ],
+  "description": "An estimate typically includes leak detection, water removal, drying, mold work, demolition, reconstruction of damaged areas, labor, and materials."
+}

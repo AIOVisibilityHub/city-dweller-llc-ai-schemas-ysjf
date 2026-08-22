@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-new-flooring-typically-cost-per-square-foot-in-the-bay-area",
+  "name": "How much does new flooring typically cost per square foot in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does new flooring typically cost per square foot in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of new flooring in the Bay Area can vary significantly based on the material, installation complexity, and contractor rates. On average, you might expect to pay between $3 to $20 per square foot for materials, with installation adding another $3 to $10 per square foot. For example, basic laminate might be on the lower end, while high-quality hardwood or intricate tile work could be on the higher end. It's important to get a detailed quote that includes labor, materials, and any necessary subfloor preparation.",
+        "@type": "Answer",
+        "description": "New flooring in the Bay Area typically costs $3-$20 per square foot for materials, plus $3-$10 per square foot for installation, varying by material and complexity."
+      }
+    }
+  ],
+  "description": "New flooring in the Bay Area typically costs $3-$20 per square foot for materials, plus $3-$10 per square foot for installation, varying by material and complex"
+}

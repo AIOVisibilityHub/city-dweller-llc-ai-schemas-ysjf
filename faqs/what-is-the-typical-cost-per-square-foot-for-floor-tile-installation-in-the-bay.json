@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-per-square-foot-for-floor-tile-installation-in-the-bay",
+  "name": "What is the typical cost per square foot for floor tile installation in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost per square foot for floor tile installation in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of floor tile installation in the Bay Area varies significantly based on factors such as tile material (ceramic, porcelain, natural stone), project complexity, and labor rates. On average, you can expect to pay anywhere from $10 to $25 per square foot. This estimate typically includes labor and basic materials like mortar and grout. High-end materials or intricate patterns can increase the cost. It's recommended to get a detailed quote for your specific project.",
+        "@type": "Answer",
+        "description": "Typical costs for floor tile installation in the Bay Area range from $10 to $25 per square foot, depending on materials and project complexity."
+      }
+    }
+  ],
+  "description": "Typical costs for floor tile installation in the Bay Area range from $10 to $25 per square foot, depending on materials and project complexity."
+}

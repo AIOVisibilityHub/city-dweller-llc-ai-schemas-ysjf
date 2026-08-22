@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-repair-bathroom-water-damage",
+  "name": "How long does it take to repair bathroom water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair bathroom water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of bathroom water damage repair varies significantly based on the extent and type of damage. Minor surface issues might take a few days, while extensive structural damage, mold remediation, and complete fixture replacement could extend to several weeks. Factors like drying time, material availability, and necessary permits also influence the timeline. A professional assessment provides a more accurate estimate.",
+        "@type": "Answer",
+        "description": "Repair time varies from a few days for minor issues to several weeks for extensive damage, depending on severity and scope."
+      }
+    }
+  ],
+  "description": "Repair time varies from a few days for minor issues to several weeks for extensive damage, depending on severity and scope."
+}

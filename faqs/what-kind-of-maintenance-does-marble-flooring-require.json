@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-maintenance-does-marble-flooring-require",
+  "name": "What kind of maintenance does marble flooring require?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance does marble flooring require?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Marble flooring requires regular cleaning with pH-neutral cleaners to avoid etching or dulling its surface. It's crucial to wipe up spills immediately, especially acidic liquids like citrus or wine, as they can permanently etch the stone. Marble should be sealed periodically, typically every 6-12 months, to protect against stains and moisture absorption. Regular sweeping or vacuuming to remove abrasive dirt and grit also helps prevent scratching. Proper maintenance ensures its lasting beauty.",
+        "@type": "Answer",
+        "description": "Marble floors need regular cleaning with pH-neutral cleaners, immediate spill cleanup, and periodic sealing to maintain their appearance and prevent damage."
+      }
+    }
+  ],
+  "description": "Marble floors need regular cleaning with pH-neutral cleaners, immediate spill cleanup, and periodic sealing to maintain their appearance and prevent damage."
+}

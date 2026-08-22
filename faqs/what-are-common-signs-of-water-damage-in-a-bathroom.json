@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-signs-of-water-damage-in-a-bathroom",
+  "name": "What are common signs of water damage in a bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of water damage in a bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of bathroom water damage include discolored or peeling paint, warped baseboards or flooring, soft spots on walls or floors, a musty odor, and visible mold growth. Leaks around toilets, sinks, showers, or tubs can also indicate underlying issues. Prompt identification of these signs is crucial to prevent further structural damage and potential health hazards.",
+        "@type": "Answer",
+        "description": "Look for discolored paint, warped materials, soft spots, musty smells, or visible mold, especially around fixtures."
+      }
+    }
+  ],
+  "description": "Look for discolored paint, warped materials, soft spots, musty smells, or visible mold, especially around fixtures."
+}

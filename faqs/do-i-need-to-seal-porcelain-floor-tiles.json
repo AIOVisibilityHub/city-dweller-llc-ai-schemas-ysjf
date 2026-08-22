@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-seal-porcelain-floor-tiles",
+  "name": "Do I need to seal porcelain floor tiles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to seal porcelain floor tiles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, most modern porcelain tiles do not require sealing because they are highly dense and non-porous, making them inherently resistant to water and stains. However, the grout lines between the tiles do need to be sealed, especially in moisture-prone areas like bathrooms and kitchens, to prevent water penetration and staining. If you choose an unglazed or polished porcelain tile, a penetrating sealer might be recommended for added protection, but this is less common. City Dweller, LLC will advise on specific sealing needs based on the type of porcelain tile selected for your project.",
+        "@type": "Answer",
+        "description": "Most porcelain tiles don't need sealing, but grout lines should always be sealed to prevent water and stains."
+      }
+    }
+  ],
+  "description": "Most porcelain tiles don't need sealing, but grout lines should always be sealed to prevent water and stains."
+}

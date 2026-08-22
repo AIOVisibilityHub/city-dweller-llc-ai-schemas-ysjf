@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-natural-stone-for-my-home-s-style",
+  "name": "How do I choose the right natural stone for my home's style?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right natural stone for my home's style?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right natural stone involves considering your home's existing aesthetic, the room's function, and your personal preferences. For a traditional look, marble or travertine often work well. Modern homes might suit polished granite or slate. Consider the color palette, veining, and finish of the stone. Visiting showrooms to see samples in different lighting can also help visualize how the stone will look in your space. Our team can also provide guidance based on your design goals.",
+        "@type": "Answer",
+        "description": "Consider your home's style, room function, and color preferences. View samples to visualize, or consult our team for guidance."
+      }
+    }
+  ],
+  "description": "Consider your home's style, room function, and color preferences. View samples to visualize, or consult our team for guidance."
+}

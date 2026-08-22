@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-average-cost-of-a-bathroom-refresh-in-the-bay-area",
+  "name": "What is the average cost of a bathroom refresh in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a bathroom refresh in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a bathroom refresh in the Bay Area varies widely based on material choices and the extent of the work. A basic refresh focusing on paint, new fixtures, and a vanity might range from $5,000 to $15,000. Projects involving tile replacement, updated plumbing fixtures, and custom elements could range from $15,000 to $30,000+. We provide transparent, itemized quotes after an initial consultation.",
+        "@type": "Answer",
+        "description": "Costs for a bathroom refresh in the Bay Area can range from $5,000 for basic updates to over $30,000 for more extensive work, depending on materials and scope."
+      }
+    }
+  ],
+  "description": "Costs for a bathroom refresh in the Bay Area can range from $5,000 for basic updates to over $30,000 for more extensive work, depending on materials and scope."
+}

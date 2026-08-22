@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-residential-flooring-does-city-dweller-llc-install",
+  "name": "What types of residential flooring does City Dweller, LLC install?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of residential flooring does City Dweller, LLC install?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC installs a variety of residential flooring options to suit different needs and aesthetics. Our services include hardwood, engineered wood, laminate, luxury vinyl plank (LVP), carpet, and tile. Each material offers distinct benefits in terms of durability, appearance, maintenance, and cost. We can help you understand the characteristics of each type to make an informed decision that aligns with your lifestyle and budget for your Bay Area home.",
+        "@type": "Answer",
+        "description": "City Dweller, LLC installs hardwood, engineered wood, laminate, luxury vinyl plank (LVP), carpet, and tile flooring."
+      }
+    }
+  ],
+  "description": "City Dweller, LLC installs hardwood, engineered wood, laminate, luxury vinyl plank (LVP), carpet, and tile flooring."
+}

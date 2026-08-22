@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-should-i-maintain-my-newly-installed-porcelain-floor-tiles",
+  "name": "How should I maintain my newly installed porcelain floor tiles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I maintain my newly installed porcelain floor tiles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintaining porcelain floor tiles is straightforward due to their durability and low porosity. Regular cleaning with a soft broom or vacuum cleaner will remove loose dirt and debris. For mopping, use a damp mop with a pH-neutral cleaner mixed with water; avoid harsh chemicals, abrasive cleaners, or oil-based detergents, as these can dull the tile's finish or damage the grout. Promptly wipe up spills to prevent staining, especially on grout lines. Regular maintenance ensures your porcelain floors retain their beauty and extend their lifespan for many years to come.",
+        "@type": "Answer",
+        "description": "Maintain porcelain tiles with regular sweeping and mopping using a pH-neutral cleaner; avoid harsh chemicals and promptly clean spills."
+      }
+    }
+  ],
+  "description": "Maintain porcelain tiles with regular sweeping and mopping using a pH-neutral cleaner; avoid harsh chemicals and promptly clean spills."
+}

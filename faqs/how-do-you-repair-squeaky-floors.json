@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-you-repair-squeaky-floors",
+  "name": "How do you repair squeaky floors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you repair squeaky floors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Squeaky floor repair methods vary depending on the cause. Common solutions include securing loose floorboards to the subfloor or joists using screws, applying lubricants like graphite powder between boards, or installing bridging or blocking between joists to stiffen the floor structure. If accessible from below, shims can be used to tighten gaps between joists and subfloor. For persistent issues, a professional assessment helps determine the most effective and lasting repair strategy.",
+        "@type": "Answer",
+        "description": "Squeaky floors can be repaired by securing loose boards, lubricating gaps, or stiffening the floor structure with bridging or shims. The method depends on the cause."
+      }
+    }
+  ],
+  "description": "Squeaky floors can be repaired by securing loose boards, lubricating gaps, or stiffening the floor structure with bridging or shims. The method depends on the c"
+}

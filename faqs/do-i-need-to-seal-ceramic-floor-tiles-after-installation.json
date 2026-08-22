@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-seal-ceramic-floor-tiles-after-installation",
+  "name": "Do I need to seal ceramic floor tiles after installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to seal ceramic floor tiles after installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, glazed ceramic tiles do not require sealing because their surface is non-porous and resistant to stains and moisture. However, the grout lines between ceramic tiles should always be sealed. Grout is porous and can absorb liquids, leading to staining and mold growth if left unsealed. If you have unglazed ceramic tiles, which are more porous, then both the tiles and the grout will need to be sealed to protect them from stains and moisture.",
+        "@type": "Answer",
+        "description": "Glazed ceramic tiles don't need sealing, but grout lines always do to prevent stains. Unglazed ceramic tiles, being porous, require sealing for both the tile and grout."
+      }
+    }
+  ],
+  "description": "Glazed ceramic tiles don't need sealing, but grout lines always do to prevent stains. Unglazed ceramic tiles, being porous, require sealing for both the tile an"
+}

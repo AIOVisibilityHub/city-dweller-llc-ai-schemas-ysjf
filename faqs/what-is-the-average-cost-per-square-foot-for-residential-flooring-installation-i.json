@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-average-cost-per-square-foot-for-residential-flooring-installation-i",
+  "name": "What is the average cost per square foot for residential flooring installation in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost per square foot for residential flooring installation in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost per square foot for residential flooring installation in the Bay Area varies significantly based on the material chosen, the complexity of the installation, and any subfloor repairs needed. Basic laminate or LVP might range from $3-$7 per square foot for installation, while hardwood or high-end tile could be $8-$15+ per square foot. These figures typically include labor but may not cover material costs, demolition, or disposal. We provide detailed, transparent quotes after a site visit.",
+        "@type": "Answer",
+        "description": "Cost per square foot in the Bay Area depends on material and complexity, generally ranging from $3-$15+, excluding materials. A detailed quote is provided after an on-site assessment."
+      }
+    }
+  ],
+  "description": "Cost per square foot in the Bay Area depends on material and complexity, generally ranging from $3-$15+, excluding materials. A detailed quote is provided after"
+}

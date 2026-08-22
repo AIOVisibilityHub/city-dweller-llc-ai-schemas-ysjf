@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-bathroom-flooring-installation-take",
+  "name": "How long does bathroom flooring installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does bathroom flooring installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a bathroom flooring installation depends on several factors, including the type of material, the size of the bathroom, and the existing subfloor condition. Simple vinyl installations might take 1-2 days, while ceramic or porcelain tile, which involves mortar setting and grout curing, can take 3-5 days. If old flooring needs extensive removal or subfloor repairs are required, the project timeline will be extended. We'll provide a more precise timeline during the consultation.",
+        "@type": "Answer",
+        "description": "Installation time ranges from 1-2 days for simple vinyl to 3-5 days for tile, depending on material, bathroom size, and subfloor condition."
+      }
+    }
+  ],
+  "description": "Installation time ranges from 1-2 days for simple vinyl to 3-5 days for tile, depending on material, bathroom size, and subfloor condition."
+}

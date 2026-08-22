@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-repair-squeaky-floors",
+  "name": "How long does it take to repair squeaky floors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair squeaky floors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of squeaky floor repair depends on the scope and complexity of the problem. Simple repairs targeting a few isolated squeaks might take a few hours. More extensive projects involving multiple rooms, significant subfloor work, or accessing the floor from below could take one to several days. Factors like the type of flooring and the required curing time for any adhesives or fillers also influence the timeline. A professional can provide a more precise time estimate after evaluating the specific situation.",
+        "@type": "Answer",
+        "description": "Repair time for squeaky floors varies. Simple repairs take hours, while extensive projects can take several days. Factors include scope, flooring type, and required curing time."
+      }
+    }
+  ],
+  "description": "Repair time for squeaky floors varies. Simple repairs take hours, while extensive projects can take several days. Factors include scope, flooring type, and requ"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-natural-stone-are-suitable-for-flooring",
+  "name": "What types of natural stone are suitable for flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of natural stone are suitable for flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common natural stone types suitable for flooring include granite, marble, travertine, slate, and limestone. Each offers distinct appearances, durability, and maintenance requirements. Granite is very durable and stain-resistant, while marble provides a luxurious look but can be more porous. Travertine offers an earthy aesthetic and is popular for its unique porous texture. Slate is known for its natural cleft finish and slip resistance, making it suitable for various areas. Limestone offers a softer, more subtle appearance. The best choice depends on your aesthetic preferences, foot traffic, and maintenance expectations.",
+        "@type": "Answer",
+        "description": "Common natural stone types include granite, marble, travertine, slate, and limestone, each with unique durability and appearance."
+      }
+    }
+  ],
+  "description": "Common natural stone types include granite, marble, travertine, slate, and limestone, each with unique durability and appearance."
+}
