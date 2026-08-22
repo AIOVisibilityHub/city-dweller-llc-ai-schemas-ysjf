@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-glass-are-used-for-sliding-doors-and-which-is-best-for-replacement",
+  "name": "What types of glass are used for sliding doors, and which is best for replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of glass are used for sliding doors, and which is best for replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sliding doors typically use tempered glass due to its strength and safety properties; it breaks into small, dull pieces rather than sharp shards. Other options include laminated glass, which holds together when shattered, and insulated glass units (IGUs) for energy efficiency. The best choice for replacement depends on your safety requirements, local building codes, energy efficiency needs, and budget. Tempered glass is commonly required for sliding doors.",
+        "@type": "Answer",
+        "description": "Tempered glass is common for safety. Laminated and insulated glass are other options. The best choice depends on safety needs, codes, and energy efficiency."
+      }
+    }
+  ],
+  "description": "Tempered glass is common for safety. Laminated and insulated glass are other options. The best choice depends on safety needs, codes, and energy efficiency."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-my-dragging-sliding-door-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair my dragging sliding door myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair my dragging sliding door myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While some minor issues, like cleaning a dirty track, can be addressed by a homeowner, most sliding door repairs are best handled by professionals. Replacing rollers, realigning a heavy door, or addressing structural issues requires specific tools, knowledge, and experience to ensure safety and proper function. Incorrect repairs can lead to further damage, reduced security, or even personal injury. A professional can diagnose the exact problem and provide a durable, long-lasting solution, saving you time and potential future costs.",
+        "@type": "Answer",
+        "description": "Minor issues can be DIY, but most dragging sliding door repairs require professional expertise, specific tools, and knowledge for safety and proper function."
+      }
+    }
+  ],
+  "description": "Minor issues can be DIY, but most dragging sliding door repairs require professional expertise, specific tools, and knowledge for safety and proper function."
+}

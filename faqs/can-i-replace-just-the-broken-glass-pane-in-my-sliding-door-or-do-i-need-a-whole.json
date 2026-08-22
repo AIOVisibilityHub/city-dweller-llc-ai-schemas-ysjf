@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-replace-just-the-broken-glass-pane-in-my-sliding-door-or-do-i-need-a-whole",
+  "name": "Can I replace just the broken glass pane in my sliding door, or do I need a whole new door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace just the broken glass pane in my sliding door, or do I need a whole new door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most cases, you can replace just the broken glass pane, especially if the door frame itself is undamaged and in good working condition. This is often more cost-effective than replacing the entire door unit. A professional contractor can assess your specific door to determine if a pane-only replacement is feasible and recommend the best solution based on the door's condition, age, and type.",
+        "@type": "Answer",
+        "description": "Usually, only the broken glass pane can be replaced if the door frame is intact. This is often more cost-effective than a full door replacement."
+      }
+    }
+  ],
+  "description": "Usually, only the broken glass pane can be replaced if the door frame is intact. This is often more cost-effective than a full door replacement."
+}

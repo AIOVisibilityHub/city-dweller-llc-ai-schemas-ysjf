@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-sliding-glass-doors-are-available-for-replacement",
+  "name": "What types of sliding glass doors are available for replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of sliding glass doors are available for replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several types of sliding glass doors are available, each offering distinct benefits. Popular options include vinyl doors, known for their affordability and energy efficiency; aluminum doors, prized for their strength and narrow frames; and wood or clad-wood doors, chosen for their aesthetic appeal and natural insulation. You can also select from various glass options, such as clear, privacy, low-emissivity (Low-E) for energy savings, and tempered glass for safety.",
+        "@type": "Answer",
+        "description": "Available types include vinyl, aluminum, and wood/clad-wood, with various glass options like Low-E or tempered."
+      }
+    }
+  ],
+  "description": "Available types include vinyl, aluminum, and wood/clad-wood, with various glass options like Low-E or tempered."
+}

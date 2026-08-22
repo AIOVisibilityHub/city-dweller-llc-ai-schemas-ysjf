@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-sliding-door-track-repair-take",
+  "name": "How long does a typical sliding door track repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical sliding door track repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most sliding door track repairs can be completed within a few hours, often in a single visit. The duration depends on the complexity of the issue; simple cleaning and lubrication are quicker than replacing a heavily damaged or corroded track. We aim to minimize disruption to your home while ensuring a thorough and lasting repair.",
+        "@type": "Answer",
+        "description": "Most repairs take a few hours, often in a single visit. Duration depends on the issue's complexity."
+      }
+    }
+  ],
+  "description": "Most repairs take a few hours, often in a single visit. Duration depends on the issue's complexity."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-repair-a-sliding-glass-door",
+  "name": "How much does it cost to repair a sliding glass door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair a sliding glass door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of repairing a sliding glass door varies widely depending on the specific issue and the parts needed. Minor repairs, such as replacing rollers or cleaning tracks, are generally less expensive. More significant repairs, like replacing a glass panel or fixing a damaged frame, will incur higher costs. Factors like the type of glass, the door's size, and the extent of labor required also influence the final price. We provide a detailed estimate after assessing the damage to ensure transparency.",
+        "@type": "Answer",
+        "description": "Repair costs depend on the issue, ranging from minor roller replacements to more expensive glass or frame repairs. We provide estimates after assessment."
+      }
+    }
+  ],
+  "description": "Repair costs depend on the issue, ranging from minor roller replacements to more expensive glass or frame repairs. We provide estimates after assessment."
+}

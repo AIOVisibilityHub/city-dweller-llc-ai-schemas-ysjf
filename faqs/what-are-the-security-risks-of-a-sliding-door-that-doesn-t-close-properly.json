@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-security-risks-of-a-sliding-door-that-doesn-t-close-properly",
+  "name": "What are the security risks of a sliding door that doesn't close properly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the security risks of a sliding door that doesn't close properly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A sliding door that doesn't close properly creates significant security vulnerabilities. It may not latch or lock securely, making it easier for intruders to gain access. Even a small gap can be exploited. This compromises your home's safety and can also invalidate some home insurance policies in case of a break-in. Ensuring full closure is crucial for home security.",
+        "@type": "Answer",
+        "description": "A sliding door that doesn't close properly poses security risks by making your home vulnerable to intruders and can affect insurance coverage."
+      }
+    }
+  ],
+  "description": "A sliding door that doesn't close properly poses security risks by making your home vulnerable to intruders and can affect insurance coverage."
+}

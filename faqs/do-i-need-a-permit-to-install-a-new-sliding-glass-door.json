@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-permit-to-install-a-new-sliding-glass-door",
+  "name": "Do I need a permit to install a new sliding glass door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to install a new sliding glass door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, installing a new sliding glass door, especially if it involves altering a structural opening or creating a new one, typically requires a building permit in Bay Area cities like Pacifica or Daly City. Permits ensure that the installation complies with local building codes, safety standards, and energy efficiency requirements. City Dweller, LLC assists with navigating the permit application process to ensure all work is compliant.",
+        "@type": "Answer",
+        "description": "Yes, permits are usually required for new sliding glass door installations, especially when structural changes are involved, to ensure compliance with local building codes."
+      }
+    }
+  ],
+  "description": "Yes, permits are usually required for new sliding glass door installations, especially when structural changes are involved, to ensure compliance with local bui"
+}

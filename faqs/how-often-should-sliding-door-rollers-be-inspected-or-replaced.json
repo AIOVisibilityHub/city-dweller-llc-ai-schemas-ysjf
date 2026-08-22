@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-often-should-sliding-door-rollers-be-inspected-or-replaced",
+  "name": "How often should sliding door rollers be inspected or replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should sliding door rollers be inspected or replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of sliding door rollers can vary widely depending on usage, environmental factors, and original quality. As a general guideline, rollers should be inspected annually for wear and tear, especially if your door sees heavy use or is exposed to harsh outdoor conditions. Replacement is typically needed when you notice the common signs of failure, rather than on a fixed schedule. Proactive inspection can catch minor issues before they become major problems.",
+        "@type": "Answer",
+        "description": "Rollers should be inspected annually, particularly with heavy use. Replacement is needed when signs of wear or failure become apparent."
+      }
+    }
+  ],
+  "description": "Rollers should be inspected annually, particularly with heavy use. Replacement is needed when signs of wear or failure become apparent."
+}

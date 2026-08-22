@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-my-homeowner-s-insurance-cover-the-cost-of-broken-sliding-door-glass-replac",
+  "name": "Will my homeowner's insurance cover the cost of broken sliding door glass replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover the cost of broken sliding door glass replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many homeowner's insurance policies do cover damage to windows and glass doors, especially if the breakage is due to covered perils like vandalism, storms, or accidental damage. However, coverage limits, deductibles, and specific policy terms vary. It's best to review your individual policy or contact your insurance provider directly to understand your coverage options and determine if filing a claim is beneficial.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance often covers broken glass from covered perils, but policy terms and deductibles vary. Contact your provider to confirm."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance often covers broken glass from covered perils, but policy terms and deductibles vary. Contact your provider to confirm."
+}

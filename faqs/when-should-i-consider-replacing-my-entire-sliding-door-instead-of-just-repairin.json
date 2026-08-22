@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-my-entire-sliding-door-instead-of-just-repairin",
+  "name": "When should I consider replacing my entire sliding door instead of just repairing the sill?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my entire sliding door instead of just repairing the sill?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing the entire sliding door if the sill damage is extensive and has compromised other parts of the door frame, or if the door itself is old, inefficient, and no longer performs well. If the cost of repair approaches or exceeds 50% of the cost of a new, more energy-efficient door, replacement might be a more cost-effective long-term solution. This is especially true if you are looking to upgrade aesthetics or improve energy efficiency.",
+        "@type": "Answer",
+        "description": "Consider full door replacement if sill damage is extensive, affecting the frame, or if the door is old, inefficient, and repair costs are high."
+      }
+    }
+  ],
+  "description": "Consider full door replacement if sill damage is extensive, affecting the frame, or if the door is old, inefficient, and repair costs are high."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-my-sliding-glass-door-instead-of-repairing-it",
+  "name": "When should I consider replacing my sliding glass door instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my sliding glass door instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider replacing your sliding glass door if it has significant frame damage, extensive glass cracks, or if multiple components are severely degraded, making repeated repairs costly. If your door is old and lacks energy efficiency, replacement can also improve insulation and reduce utility bills. While repairs can often extend the life of a door, there comes a point where a new, more efficient door provides better value and performance.",
+        "@type": "Answer",
+        "description": "Consider replacement for severe frame or glass damage, multiple costly repairs, or if you need better energy efficiency from an old door."
+      }
+    }
+  ],
+  "description": "Consider replacement for severe frame or glass damage, multiple costly repairs, or if you need better energy efficiency from an old door."
+}

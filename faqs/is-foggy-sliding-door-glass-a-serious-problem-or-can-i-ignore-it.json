@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/is-foggy-sliding-door-glass-a-serious-problem-or-can-i-ignore-it",
+  "name": "Is foggy sliding door glass a serious problem, or can I ignore it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is foggy sliding door glass a serious problem, or can I ignore it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While foggy glass might seem like a cosmetic issue, it indicates a compromised insulated glass unit (IGU). Beyond reduced visibility, a failed seal means your door is no longer insulating effectively. This can lead to higher energy bills as conditioned air escapes and outside temperatures penetrate more easily. It also leaves the interior pane susceptible to dirt and mold growth, which can impact indoor air quality. Addressing it prevents further deterioration and maintains energy efficiency.",
+        "@type": "Answer",
+        "description": "Foggy glass indicates a failed seal, reducing insulation and potentially increasing energy costs. Ignoring it can lead to further damage and affect indoor air quality."
+      }
+    }
+  ],
+  "description": "Foggy glass indicates a failed seal, reducing insulation and potentially increasing energy costs. Ignoring it can lead to further damage and affect indoor air q"
+}

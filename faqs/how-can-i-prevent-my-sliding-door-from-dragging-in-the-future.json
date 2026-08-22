@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-prevent-my-sliding-door-from-dragging-in-the-future",
+  "name": "How can I prevent my sliding door from dragging in the future?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent my sliding door from dragging in the future?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent your sliding door from dragging, regular maintenance is key. This includes keeping the tracks clean and free of debris, which can accumulate quickly, especially in outdoor-facing doors. Periodically inspect the rollers for wear and tear and lubricate them with a silicone-based spray (avoid oil-based lubricants as they attract dirt). Ensure the door remains properly aligned and that weather stripping is intact. Addressing minor issues promptly can prevent them from escalating into more significant problems requiring professional repair.",
+        "@type": "Answer",
+        "description": "Prevent dragging by regularly cleaning tracks, inspecting and lubricating rollers, ensuring proper alignment, and addressing minor issues promptly."
+      }
+    }
+  ],
+  "description": "Prevent dragging by regularly cleaning tracks, inspecting and lubricating rollers, ensuring proper alignment, and addressing minor issues promptly."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-new-sliding-glass-doors-improve-my-home-s-energy-efficiency",
+  "name": "How can new sliding glass doors improve my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can new sliding glass doors improve my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New sliding glass doors significantly improve energy efficiency through advancements in glass technology and frame design. Modern doors typically feature double-pane or even triple-pane insulated glass, often filled with inert gases like argon to reduce heat transfer. Low-emissivity (Low-E) coatings reflect radiant heat, keeping your home cooler in summer and warmer in winter. Tightly sealed frames and improved weatherstripping prevent drafts and air leakage, which are common issues with older doors. These features combine to reduce your reliance on heating and air conditioning.",
+        "@type": "Answer",
+        "description": "New doors use insulated glass (double-pane, Low-E coatings, argon gas) and improved sealing to reduce heat transfer and prevent drafts, lowering energy costs."
+      }
+    }
+  ],
+  "description": "New doors use insulated glass (double-pane, Low-E coatings, argon gas) and improved sealing to reduce heat transfer and prevent drafts, lowering energy costs."
+}

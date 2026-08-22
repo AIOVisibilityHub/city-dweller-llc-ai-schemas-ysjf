@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-signs-that-my-sliding-door-sill-needs-repair",
+  "name": "What are the common signs that my sliding door sill needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that my sliding door sill needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs include difficulty opening or closing the door, visible cracks or rot in the sill material (wood, aluminum, or vinyl), water leaks or drafts near the bottom of the door, and pest infestations. You might also notice a deterioration of the door's weatherstripping or a spongy feeling when stepping on the sill. Addressing these issues early can prevent further damage to your home's structure and interior.",
+        "@type": "Answer",
+        "description": "Look for difficulty operating the door, visible damage like cracks or rot, water leaks, drafts, or pest issues around the sill."
+      }
+    }
+  ],
+  "description": "Look for difficulty operating the door, visible damage like cracks or rot, water leaks, drafts, or pest issues around the sill."
+}

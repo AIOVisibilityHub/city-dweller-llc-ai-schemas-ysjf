@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-consider-when-choosing-a-new-sliding-glass-door-for-my-home",
+  "name": "What should I consider when choosing a new sliding glass door for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing a new sliding glass door for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a new sliding glass door, consider several key factors. Energy efficiency is crucial, especially with Bay Area climate variations; look for doors with Low-E glass and good U-values. Security features, such as multi-point locking systems and tempered glass, are important for peace of mind. Aesthetics should match your home's style, considering materials, finishes, and panel configurations. Finally, ensure the door's operation is smooth and durable, and consider the manufacturer's warranty and local building codes for proper installation.",
+        "@type": "Answer",
+        "description": "Consider energy efficiency (Low-E glass), security features, aesthetics, smooth operation, and compliance with local building codes when choosing a door."
+      }
+    }
+  ],
+  "description": "Consider energy efficiency (Low-E glass), security features, aesthetics, smooth operation, and compliance with local building codes when choosing a door."
+}

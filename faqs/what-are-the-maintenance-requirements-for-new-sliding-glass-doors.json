@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-maintenance-requirements-for-new-sliding-glass-doors",
+  "name": "What are the maintenance requirements for new sliding glass doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the maintenance requirements for new sliding glass doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Modern sliding glass doors are designed for low maintenance. Regular cleaning of the glass with a non-abrasive cleaner helps maintain clarity. It's also important to keep the tracks free of dirt, dust, and debris to ensure smooth operation; a vacuum cleaner with a brush attachment works well for this. Periodically, check weatherstripping for wear and lubricate rollers with a silicone-based spray to prevent sticking. Avoid harsh chemicals that could damage frames or seals. Proper maintenance ensures longevity and optimal performance.",
+        "@type": "Answer",
+        "description": "Maintenance includes regularly cleaning glass, keeping tracks free of debris, checking weatherstripping, and lubricating rollers with a silicone-based spray."
+      }
+    }
+  ],
+  "description": "Maintenance includes regularly cleaning glass, keeping tracks free of debris, checking weatherstripping, and lubricating rollers with a silicone-based spray."
+}

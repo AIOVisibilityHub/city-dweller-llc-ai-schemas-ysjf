@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-a-damaged-sliding-door-frame-impact-my-home-s-energy-efficiency",
+  "name": "Can a damaged sliding door frame impact my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a damaged sliding door frame impact my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a damaged sliding door frame can significantly impact your home's energy efficiency. Cracks, gaps, or warping in the frame create openings that allow conditioned air to escape and unconditioned outside air to enter. This leads to drafts and forces your HVAC system to work harder to maintain indoor temperatures, resulting in higher energy bills. A compromised frame also reduces the effectiveness of weatherstripping and seals, further exacerbating energy loss. Repairing or replacing a damaged frame restores the thermal envelope of your home, improving comfort and reducing energy consumption.",
+        "@type": "Answer",
+        "description": "Yes, a damaged frame creates gaps, causing drafts and energy loss, making your HVAC system work harder. Repairing it improves energy efficiency and comfort."
+      }
+    }
+  ],
+  "description": "Yes, a damaged frame creates gaps, causing drafts and energy loss, making your HVAC system work harder. Repairing it improves energy efficiency and comfort."
+}

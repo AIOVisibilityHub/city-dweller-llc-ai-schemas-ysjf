@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-a-sliding-door-frame-to-rot",
+  "name": "What causes a sliding door frame to rot?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a sliding door frame to rot?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sliding door frames typically rot due to prolonged exposure to moisture. This can be from rain, sprinkler systems, or poor drainage that allows water to pool around the frame. Damaged caulk, failed weatherstripping, or cracks in the frame material allow water to seep in, leading to wood decay. Poor ventilation can also trap moisture, accelerating the rotting process. Regular maintenance and proper installation are key to preventing rot.",
+        "@type": "Answer",
+        "description": "Rotting sliding door frames are usually caused by prolonged moisture exposure from rain, sprinklers, or compromised seals, allowing water to seep into the wood."
+      }
+    }
+  ],
+  "description": "Rotting sliding door frames are usually caused by prolonged moisture exposure from rain, sprinklers, or compromised seals, allowing water to seep into the wood."
+}

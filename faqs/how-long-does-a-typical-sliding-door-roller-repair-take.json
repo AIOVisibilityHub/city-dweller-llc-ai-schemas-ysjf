@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-sliding-door-roller-repair-take",
+  "name": "How long does a typical sliding door roller repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical sliding door roller repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a sliding door roller repair can vary based on the door's condition, the number of rollers needing replacement, and the type of door. Typically, a standard roller replacement can be completed within 1 to 3 hours. More complex situations involving track damage or multiple door issues might extend the repair time. City Dweller prioritizes efficient service to minimize disruption to your home.",
+        "@type": "Answer",
+        "description": "A typical sliding door roller repair usually takes 1 to 3 hours, depending on the complexity and extent of the damage."
+      }
+    }
+  ],
+  "description": "A typical sliding door roller repair usually takes 1 to 3 hours, depending on the complexity and extent of the damage."
+}

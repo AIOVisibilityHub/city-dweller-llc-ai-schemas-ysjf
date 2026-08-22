@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-benefits-of-installing-new-sliding-glass-doors",
+  "name": "What are the benefits of installing new sliding glass doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of installing new sliding glass doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New sliding glass doors can significantly enhance your home's aesthetics and functionality. They offer improved energy efficiency through modern glazing technologies, reducing heating and cooling costs. Upgraded security features provide better protection compared to older models. Additionally, they allow more natural light into your home and offer seamless access to outdoor spaces, contributing to an open and airy feel. Many homeowners also find that new doors boost their property's curb appeal and resale value.",
+        "@type": "Answer",
+        "description": "New sliding glass doors offer improved energy efficiency, enhanced security, more natural light, and increased property value."
+      }
+    }
+  ],
+  "description": "New sliding glass doors offer improved energy efficiency, enhanced security, more natural light, and increased property value."
+}

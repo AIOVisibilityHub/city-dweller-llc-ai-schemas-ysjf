@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-repairing-or-replacing-sliding-door-rollers",
+  "name": "What is the process for repairing or replacing sliding door rollers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing or replacing sliding door rollers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process involves carefully removing the sliding door from its frame. Once the door is off, the old or damaged rollers are detached and replaced with new, appropriate rollers. The track is then cleaned and inspected for any damage. Finally, the door is re-hung and adjusted to ensure smooth operation and proper alignment within the frame. City Dweller ensures a thorough and precise repair process.",
+        "@type": "Answer",
+        "description": "The process includes removing the door, replacing old rollers, cleaning the track, and re-hanging/adjusting the door for smooth function."
+      }
+    }
+  ],
+  "description": "The process includes removing the door, replacing old rollers, cleaning the track, and re-hanging/adjusting the door for smooth function."
+}

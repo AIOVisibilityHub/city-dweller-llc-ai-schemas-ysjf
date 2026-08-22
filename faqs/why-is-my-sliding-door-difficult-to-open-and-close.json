@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/why-is-my-sliding-door-difficult-to-open-and-close",
+  "name": "Why is my sliding door difficult to open and close?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my sliding door difficult to open and close?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Difficulty in opening or closing a sliding door often stems from worn-out or seized rollers, debris accumulation in the tracks, or misalignment of the door frame. Over time, rollers can become damaged or gather grime, hindering smooth movement. Similarly, dirt and debris in the tracks create friction, and a misaligned frame can cause the door to bind. Addressing these issues through cleaning or adjustment typically resolves the problem.",
+        "@type": "Answer",
+        "description": "Difficulty often results from worn rollers, debris in tracks, or door frame misalignment, which can be resolved by cleaning or adjustment."
+      }
+    }
+  ],
+  "description": "Difficulty often results from worn rollers, debris in tracks, or door frame misalignment, which can be resolved by cleaning or adjustment."
+}

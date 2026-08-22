@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-replace-the-entire-sliding-door-frame-if-only-the-glass-is-broken",
+  "name": "Do I need to replace the entire sliding door frame if only the glass is broken?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace the entire sliding door frame if only the glass is broken?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Typically, if only the glass panel is broken or damaged, you do not need to replace the entire sliding door frame. Our service focuses on replacing just the glass unit, which is often a more cost-effective and efficient solution. We carefully assess the condition of your existing frame during our consultation. If the frame itself is structurally sound and in good working order, we can seamlessly install new glass into it.",
+        "@type": "Answer",
+        "description": "No, if only the glass is broken, you generally don't need to replace the entire door frame. We replace just the glass panel if the frame is sound."
+      }
+    }
+  ],
+  "description": "No, if only the glass is broken, you generally don't need to replace the entire door frame. We replace just the glass panel if the frame is sound."
+}

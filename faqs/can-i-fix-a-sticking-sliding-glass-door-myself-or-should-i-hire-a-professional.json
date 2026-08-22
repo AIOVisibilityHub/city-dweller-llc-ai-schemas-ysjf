@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-fix-a-sticking-sliding-glass-door-myself-or-should-i-hire-a-professional",
+  "name": "Can I fix a sticking sliding glass door myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I fix a sticking sliding glass door myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor issues like cleaning the track can sometimes be a DIY fix, more complex problems usually require professional help. Replacing rollers, repairing a bent track, or addressing issues with the door's alignment can be challenging and require specific tools and expertise. Attempting complex repairs without proper knowledge might lead to further damage. A professional can diagnose the problem accurately and ensure a lasting repair.",
+        "@type": "Answer",
+        "description": "You can clean the track yourself, but complex repairs like roller replacement or track alignment are best handled by a professional to avoid further damage."
+      }
+    }
+  ],
+  "description": "You can clean the track yourself, but complex repairs like roller replacement or track alignment are best handled by a professional to avoid further damage."
+}

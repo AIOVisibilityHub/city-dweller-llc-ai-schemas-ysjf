@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-sliding-door-handles-are-available-for-replacement",
+  "name": "What types of sliding door handles are available for replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of sliding door handles are available for replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There's a variety of sliding door handles, including surface-mount, flush-mount, and mortise-style handles. Materials range from basic plastic to durable metals like aluminum, brass, or stainless steel. Options often include integrated key locks for security or simple latches for interior doors. The best choice depends on your door type, security needs, and aesthetic preferences. We can help you select a handle that matches your existing door and home style.",
+        "@type": "Answer",
+        "description": "Available types include surface-mount, flush-mount, and mortise styles, in various materials and with different locking mechanisms."
+      }
+    }
+  ],
+  "description": "Available types include surface-mount, flush-mount, and mortise styles, in various materials and with different locking mechanisms."
+}

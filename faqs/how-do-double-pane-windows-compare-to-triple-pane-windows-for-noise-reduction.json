@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-double-pane-windows-compare-to-triple-pane-windows-for-noise-reduction",
+  "name": "How do double-pane windows compare to triple-pane windows for noise reduction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do double-pane windows compare to triple-pane windows for noise reduction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Both double and triple-pane windows offer better noise reduction than single-pane windows. Triple-pane windows generally provide superior sound insulation due to the additional pane of glass and extra airspace or gas fill, which creates more barriers for sound waves to travel through. However, the type of glass (e.g., laminated) and the spacing between panes can often have a greater impact on noise reduction than simply adding a third pane. For significant noise issues, specialized double-pane laminated glass units can sometimes outperform standard triple-pane options.",
+        "@type": "Answer",
+        "description": "Triple-pane windows typically offer better noise reduction than double-pane. However, laminated glass in double-pane units can sometimes surpass standard triple-pane performance."
+      }
+    }
+  ],
+  "description": "Triple-pane windows typically offer better noise reduction than double-pane. However, laminated glass in double-pane units can sometimes surpass standard triple"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/why-is-my-sliding-glass-door-sticking-or-difficult-to-open",
+  "name": "Why is my sliding glass door sticking or difficult to open?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my sliding glass door sticking or difficult to open?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sliding glass doors often stick due to worn-out rollers, accumulated dirt and debris in the track, or issues with the track itself. Over time, rollers can degrade, leading to increased friction. Debris such as pet hair, leaves, or grime can obstruct smooth movement, requiring more force to operate the door. Bent or damaged tracks can also cause the door to bind, making it difficult to slide properly. Proper diagnosis identifies the specific cause for an effective repair.",
+        "@type": "Answer",
+        "description": "Common causes for a sticking sliding glass door include worn rollers, debris in the track, or a damaged track."
+      }
+    }
+  ],
+  "description": "Common causes for a sticking sliding glass door include worn rollers, debris in the track, or a damaged track."
+}

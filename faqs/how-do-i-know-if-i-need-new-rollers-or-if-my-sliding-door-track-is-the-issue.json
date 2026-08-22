@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-i-need-new-rollers-or-if-my-sliding-door-track-is-the-issue",
+  "name": "How do I know if I need new rollers or if my sliding door track is the issue?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I need new rollers or if my sliding door track is the issue?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Often, issues with rollers and tracks can present similarly. If your door is grinding, sticking, or difficult to move, it could be worn-out rollers. However, if the door consistently jumps off the track, has uneven movement, or you see visible bends or debris in the track, the track itself might be the primary problem. A professional inspection by City Dweller can accurately diagnose whether rollers, the track, or both require attention.",
+        "@type": "Answer",
+        "description": "Worn rollers cause grinding/sticking, while track issues lead to jumping or uneven movement. A professional can diagnose accurately."
+      }
+    }
+  ],
+  "description": "Worn rollers cause grinding/sticking, while track issues lead to jumping or uneven movement. A professional can diagnose accurately."
+}

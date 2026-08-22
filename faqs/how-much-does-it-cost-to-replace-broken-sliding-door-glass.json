@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-replace-broken-sliding-door-glass",
+  "name": "How much does it cost to replace broken sliding door glass?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to replace broken sliding door glass?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of replacing broken sliding door glass varies significantly based on several factors: the type and size of the glass (e.g., standard tempered, insulated, low-e), the complexity of the installation, and any additional repairs needed for the door frame. Basic single-pane tempered glass is generally less expensive than specialized insulated units. We provide detailed estimates after an on-site assessment in the Bay Area to ensure accuracy.",
+        "@type": "Answer",
+        "description": "Costs vary based on glass type, size, installation complexity, and frame repairs. We provide detailed estimates after an on-site assessment."
+      }
+    }
+  ],
+  "description": "Costs vary based on glass type, size, installation complexity, and frame repairs. We provide detailed estimates after an on-site assessment."
+}

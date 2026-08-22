@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-benefits-of-installing-sliding-glass-doors",
+  "name": "What are the benefits of installing sliding glass doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of installing sliding glass doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sliding glass doors offer several advantages, including maximizing natural light and providing unobstructed views, which can enhance the aesthetics of your home. Their space-saving design, as they slide parallel to the wall, is ideal for areas where traditional swinging doors might be impractical. They also improve accessibility, especially to outdoor spaces like patios or decks, and modern options often come with energy-efficient features that can help reduce heating and cooling costs.",
+        "@type": "Answer",
+        "description": "Sliding glass doors provide natural light, unobstructed views, save space, improve accessibility, and can offer energy efficiency."
+      }
+    }
+  ],
+  "description": "Sliding glass doors provide natural light, unobstructed views, save space, improve accessibility, and can offer energy efficiency."
+}

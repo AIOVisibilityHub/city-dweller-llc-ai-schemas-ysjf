@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-u-factor-and-shgc-in-energy-efficient-windows",
+  "name": "What is the difference between U-factor and SHGC in energy-efficient windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between U-factor and SHGC in energy-efficient windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "U-factor measures how well a window prevents heat from escaping a building. A lower U-factor indicates better insulation and less heat loss, which is important for keeping warm air inside during colder months. Solar Heat Gain Coefficient (SHGC) measures how much solar radiation passes through a window and turns into heat inside the building. A lower SHGC means less heat gain from direct sunlight, which is beneficial for keeping interiors cool during warmer months, especially in sunny climates or for south/west-facing windows.",
+        "@type": "Answer",
+        "description": "U-factor measures heat loss (lower is better for insulation), while SHGC measures solar heat gain (lower is better for reducing heat from sunlight)."
+      }
+    }
+  ],
+  "description": "U-factor measures heat loss (lower is better for insulation), while SHGC measures solar heat gain (lower is better for reducing heat from sunlight)."
+}

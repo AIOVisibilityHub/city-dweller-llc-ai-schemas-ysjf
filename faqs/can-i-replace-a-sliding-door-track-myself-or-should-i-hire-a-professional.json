@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-replace-a-sliding-door-track-myself-or-should-i-hire-a-professional",
+  "name": "Can I replace a sliding door track myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace a sliding door track myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's possible for experienced DIYers to attempt track replacement, hiring a professional is often recommended. Professionals have specialized tools, experience with various door types, and the expertise to ensure proper installation, alignment, and functionality. Incorrect installation can lead to ongoing issues, further damage, or reduced door lifespan. A professional can also identify and address underlying issues that might not be obvious.",
+        "@type": "Answer",
+        "description": "Hiring a professional is recommended for sliding door track replacement to ensure proper installation, alignment, and functionality, avoiding potential issues from incorrect DIY attempts."
+      }
+    }
+  ],
+  "description": "Hiring a professional is recommended for sliding door track replacement to ensure proper installation, alignment, and functionality, avoiding potential issues f"
+}

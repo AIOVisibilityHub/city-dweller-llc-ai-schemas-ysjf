@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/is-it-possible-to-repair-a-rotted-sliding-door-frame-or-does-it-always-need-repl",
+  "name": "Is it possible to repair a rotted sliding door frame, or does it always need replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it possible to repair a rotted sliding door frame, or does it always need replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether a rotted sliding door frame can be repaired or needs full replacement depends on the extent of the damage. Minor surface rot might be treatable by removing the damaged wood, applying wood hardener, and patching with epoxy. However, if the rot has penetrated deep into the structural components, compromised the door's functionality, or spread extensively, a full frame replacement is typically the safer and more durable solution. A professional assessment can determine the best course of action.",
+        "@type": "Answer",
+        "description": "Minor rot can sometimes be repaired with wood hardener and epoxy. Extensive or structural rot usually requires a full frame replacement for durability and safety."
+      }
+    }
+  ],
+  "description": "Minor rot can sometimes be repaired with wood hardener and epoxy. Extensive or structural rot usually requires a full frame replacement for durability and safet"
+}

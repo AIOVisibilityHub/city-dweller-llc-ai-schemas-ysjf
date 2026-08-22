@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-tell-if-my-sliding-door-frame-is-rotted",
+  "name": "How can I tell if my sliding door frame is rotted?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my sliding door frame is rotted?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a rotted sliding door frame include discoloration, soft spots when pressed, visible mold or mildew, and wood that appears flaky or crumbling. You might also notice difficulty operating the door, drafts, or water leaks around the frame. Inspect the bottom corners and the sill plate, as these areas are most susceptible to moisture damage. A screwdriver can be used to gently probe suspected areas; if it easily penetrates the wood, rot is likely present.",
+        "@type": "Answer",
+        "description": "Look for discoloration, soft or crumbling wood, mold, and difficulty operating the door. Gently probe suspected areas; if the wood is soft, it's likely rotted."
+      }
+    }
+  ],
+  "description": "Look for discoloration, soft or crumbling wood, mold, and difficulty operating the door. Gently probe suspected areas; if the wood is soft, it's likely rotted."
+}

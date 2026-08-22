@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-usually-take-to-repair-a-dragging-sliding-door",
+  "name": "How long does it usually take to repair a dragging sliding door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it usually take to repair a dragging sliding door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required for a sliding door repair depends on the complexity of the issue. Simple fixes, such as cleaning tracks or replacing a few rollers, might take anywhere from one to two hours. More involved repairs, like correcting significant alignment problems, replacing a damaged track, or addressing structural issues, could take half a day or longer. Most standard dragging door repairs are completed within a few hours. A technician can provide a more accurate time estimate after diagnosing the problem.",
+        "@type": "Answer",
+        "description": "Most dragging sliding door repairs, like roller replacement or track cleaning, take 1-2 hours. More complex issues may require longer."
+      }
+    }
+  ],
+  "description": "Most dragging sliding door repairs, like roller replacement or track cleaning, take 1-2 hours. More complex issues may require longer."
+}

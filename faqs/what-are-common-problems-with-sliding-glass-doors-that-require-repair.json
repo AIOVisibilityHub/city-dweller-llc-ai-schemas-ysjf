@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-problems-with-sliding-glass-doors-that-require-repair",
+  "name": "What are common problems with sliding glass doors that require repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common problems with sliding glass doors that require repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sliding glass doors often experience issues such as difficulty opening or closing, which is usually caused by worn-out rollers or debris in the track. Other common problems include broken or cracked glass, damaged locks preventing secure closure, and drafts due to compromised weather stripping. Issues with the frame, such as warping or misalignment, can also affect the door's function and security. Addressing these problems promptly ensures the door operates smoothly, maintains energy efficiency, and provides adequate security for your home.",
+        "@type": "Answer",
+        "description": "Common problems include difficulty sliding due to worn rollers or debris, broken glass, damaged locks, and drafts from faulty weather stripping."
+      }
+    }
+  ],
+  "description": "Common problems include difficulty sliding due to worn rollers or debris, broken glass, damaged locks, and drafts from faulty weather stripping."
+}

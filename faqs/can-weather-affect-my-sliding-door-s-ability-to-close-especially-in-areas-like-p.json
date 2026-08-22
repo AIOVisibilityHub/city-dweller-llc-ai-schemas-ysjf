@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-weather-affect-my-sliding-door-s-ability-to-close-especially-in-areas-like-p",
+  "name": "Can weather affect my sliding door's ability to close, especially in areas like Pacifica or Half Moon Bay?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can weather affect my sliding door's ability to close, especially in areas like Pacifica or Half Moon Bay?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, weather conditions, particularly in coastal areas like Pacifica or Half Moon Bay, can affect sliding doors. High humidity can cause wooden doors or frames to swell, while extreme temperature fluctuations can lead to expansion and contraction of materials, affecting alignment. Salt air can also accelerate corrosion of metal components like rollers and tracks, making doors difficult to close. Regular maintenance is especially important in these environments.",
+        "@type": "Answer",
+        "description": "Coastal weather, like in Pacifica, can cause doors to swell, materials to expand/contract, or components to corrode, hindering closure."
+      }
+    }
+  ],
+  "description": "Coastal weather, like in Pacifica, can cause doors to swell, materials to expand/contract, or components to corrode, hindering closure."
+}

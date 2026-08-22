@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-sliding-door-tracks-to-get-damaged",
+  "name": "What causes sliding door tracks to get damaged?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes sliding door tracks to get damaged?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sliding door tracks can be damaged by several factors, including accumulated dirt and debris, which obstruct roller movement. Environmental factors like moisture can lead to rust or corrosion, especially in coastal areas like Pacifica. Frequent use and heavy doors can cause wear and tear on the track and rollers, while accidental impacts or improper installation can also lead to bending or misalignment.",
+        "@type": "Answer",
+        "description": "Dirt, debris, moisture, rust, heavy use, impacts, or improper installation can damage sliding door tracks."
+      }
+    }
+  ],
+  "description": "Dirt, debris, moisture, rust, heavy use, impacts, or improper installation can damage sliding door tracks."
+}

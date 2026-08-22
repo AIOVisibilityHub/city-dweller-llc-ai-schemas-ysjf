@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-replacement-windows-improve-energy-efficiency",
+  "name": "How do replacement windows improve energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do replacement windows improve energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacement windows enhance energy efficiency primarily through improved insulation. Modern windows feature multiple panes of glass with inert gas fills (like argon or krypton) between them, creating a thermal barrier. Low-emissivity (Low-E) coatings reflect heat, keeping interiors warmer in winter and cooler in summer. Properly sealed frames also prevent air leaks, reducing drafts and maintaining a consistent indoor temperature. This reduces the workload on your HVAC system, leading to lower energy consumption and utility bills.",
+        "@type": "Answer",
+        "description": "Replacement windows improve energy efficiency with multi-pane glass, inert gas fills, Low-E coatings, and better-sealed frames that reduce heat transfer and air leaks."
+      }
+    }
+  ],
+  "description": "Replacement windows improve energy efficiency with multi-pane glass, inert gas fills, Low-E coatings, and better-sealed frames that reduce heat transfer and air"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-repair-process-for-a-sliding-glass-door-that-won-t-open-smoothly",
+  "name": "What is the repair process for a sliding glass door that won't open smoothly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the repair process for a sliding glass door that won't open smoothly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our repair process begins with a thorough inspection of your sliding glass door to identify the exact cause of the sticking. We check the rollers, tracks, and overall alignment. Once diagnosed, we will propose a solution, which might involve cleaning the tracks, replacing worn rollers, lubricating moving parts, or repairing a damaged track. We then proceed with the repair, ensuring the door operates smoothly and safely before completing the job.",
+        "@type": "Answer",
+        "description": "We inspect the door, diagnose the problem (rollers, tracks, alignment), propose a solution, and perform the necessary repairs to ensure smooth operation."
+      }
+    }
+  ],
+  "description": "We inspect the door, diagnose the problem (rollers, tracks, alignment), propose a solution, and perform the necessary repairs to ensure smooth operation."
+}

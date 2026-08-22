@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-repairing-and-replacing-a-sliding-door-sill",
+  "name": "What is the difference between repairing and replacing a sliding door sill?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between repairing and replacing a sliding door sill?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a sliding door sill involves fixing localized damage, such as patching cracks, replacing small sections of rotted wood, or re-sealing gaps. This is suitable when the damage is minor and hasn't compromised the overall structural integrity of the sill or door frame. Replacing the sill means removing the entire existing sill and installing a new one. This is necessary for extensive damage, severe rot, significant water intrusion, or when the sill is beyond repair and affects the door's function or the home's structure.",
+        "@type": "Answer",
+        "description": "Repair fixes localized damage, while replacement involves installing an entirely new sill due to extensive damage or structural compromise."
+      }
+    }
+  ],
+  "description": "Repair fixes localized damage, while replacement involves installing an entirely new sill due to extensive damage or structural compromise."
+}

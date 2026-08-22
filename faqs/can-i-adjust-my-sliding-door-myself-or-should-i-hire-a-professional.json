@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-adjust-my-sliding-door-myself-or-should-i-hire-a-professional",
+  "name": "Can I adjust my sliding door myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I adjust my sliding door myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor adjustments, like cleaning tracks or lubricating rollers, can often be done by homeowners. However, complex issues involving roller replacement, track damage, or significant door realignment typically require professional expertise. Attempting advanced repairs without proper tools or knowledge can lead to further damage, safety hazards, or void warranties. A professional ensures proper diagnosis and long-lasting solutions.",
+        "@type": "Answer",
+        "description": "Minor adjustments can be DIY, but complex issues like roller replacement or significant realignment are best handled by a professional to avoid further damage."
+      }
+    }
+  ],
+  "description": "Minor adjustments can be DIY, but complex issues like roller replacement or significant realignment are best handled by a professional to avoid further damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-signs-that-my-sliding-door-needs-adjustment",
+  "name": "What are common signs that my sliding door needs adjustment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my sliding door needs adjustment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs include difficulty opening or closing the door, the door sticking or binding, gaps appearing between the door and its frame, or the door feeling wobbly. You might also notice unusual noises like grinding or scraping when operating the door. These issues often indicate problems with the rollers, tracks, or alignment, which can worsen over time if not addressed.",
+        "@type": "Answer",
+        "description": "Difficulty opening/closing, sticking, gaps, or unusual noises are common signs your sliding door needs adjustment."
+      }
+    }
+  ],
+  "description": "Difficulty opening/closing, sticking, gaps, or unusual noises are common signs your sliding door needs adjustment."
+}

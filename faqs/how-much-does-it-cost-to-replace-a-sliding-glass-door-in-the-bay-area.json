@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-replace-a-sliding-glass-door-in-the-bay-area",
+  "name": "How much does it cost to replace a sliding glass door in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to replace a sliding glass door in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to replace a sliding glass door in the Bay Area varies widely based on several factors. These include the door's size, material (vinyl, aluminum, fiberglass), type of glass (double-pane, low-E, tempered), and specific features like security locks or custom finishes. Installation complexity, such as structural modifications or frame repairs, also impacts the final price. Due to the high cost of living and labor in the Bay Area, prices can be higher than the national average. We provide detailed estimates after assessing your specific needs.",
+        "@type": "Answer",
+        "description": "Costs vary widely based on size, material, glass type, and installation complexity, especially in the Bay Area where labor and material costs are higher."
+      }
+    }
+  ],
+  "description": "Costs vary widely based on size, material, glass type, and installation complexity, especially in the Bay Area where labor and material costs are higher."
+}

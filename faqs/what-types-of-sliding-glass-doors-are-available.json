@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-sliding-glass-doors-are-available",
+  "name": "What types of sliding glass doors are available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of sliding glass doors are available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There's a wide variety of sliding glass door types to suit different needs and styles. Common options include standard two-panel sliders, multi-panel doors that open wider, and pocket doors that disappear into the wall for a completely unobstructed opening. Materials range from durable vinyl, which is low-maintenance and energy-efficient, to robust aluminum for a sleek modern look, and fiberglass, known for its strength and ability to mimic wood. Glass options include double-pane, low-emissivity (Low-E) coatings for energy savings, and tempered glass for safety.",
+        "@type": "Answer",
+        "description": "Available types include two-panel, multi-panel, and pocket doors, made from materials like vinyl, aluminum, or fiberglass, with various glass options."
+      }
+    }
+  ],
+  "description": "Available types include two-panel, multi-panel, and pocket doors, made from materials like vinyl, aluminum, or fiberglass, with various glass options."
+}

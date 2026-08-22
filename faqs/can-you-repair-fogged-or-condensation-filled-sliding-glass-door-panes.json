@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-you-repair-fogged-or-condensation-filled-sliding-glass-door-panes",
+  "name": "Can you repair fogged or condensation-filled sliding glass door panes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you repair fogged or condensation-filled sliding glass door panes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fog or condensation between the glass panes of a sliding door indicates a failed seal in the insulated glass unit (IGU). Once the seal is broken, moisture can enter, reducing visibility and energy efficiency. Unfortunately, the fogging itself cannot be removed; the entire insulated glass unit needs to be replaced. We can replace just the glass unit, not the entire door frame, which is often a more cost-effective solution than full door replacement.",
+        "@type": "Answer",
+        "description": "Fogged panes mean a failed glass seal, requiring replacement of the insulated glass unit, not the entire door, to restore clarity and efficiency."
+      }
+    }
+  ],
+  "description": "Fogged panes mean a failed glass seal, requiring replacement of the insulated glass unit, not the entire door, to restore clarity and efficiency."
+}

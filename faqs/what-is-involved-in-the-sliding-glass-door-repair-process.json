@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-involved-in-the-sliding-glass-door-repair-process",
+  "name": "What is involved in the sliding glass door repair process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the sliding glass door repair process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our repair process typically begins with a thorough inspection of your sliding glass door to accurately diagnose the problem. Once the issue is identified, we explain the necessary repairs and provide a transparent estimate. Our technicians then proceed with the repair, which might involve replacing parts like rollers, tracks, glass panels, or weather stripping. We ensure proper alignment and test the door's functionality before completing the job, leaving your door operating smoothly and securely.",
+        "@type": "Answer",
+        "description": "The process involves inspection, diagnosis, explanation of repairs, a cost estimate, and then the actual repair, followed by testing for smooth operation."
+      }
+    }
+  ],
+  "description": "The process involves inspection, diagnosis, explanation of repairs, a cost estimate, and then the actual repair, followed by testing for smooth operation."
+}

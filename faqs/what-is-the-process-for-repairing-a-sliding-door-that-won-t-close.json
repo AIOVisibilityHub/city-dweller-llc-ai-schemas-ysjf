@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-repairing-a-sliding-door-that-won-t-close",
+  "name": "What is the process for repairing a sliding door that won't close?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a sliding door that won't close?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically begins with an inspection to diagnose the exact cause of the problem, whether it's debris, worn rollers, a misaligned track, or frame damage. Based on the diagnosis, the contractor will clean the tracks, replace faulty rollers, adjust the door alignment, or repair/replace damaged track sections. The goal is to restore smooth operation and secure closure, followed by testing the door's function.",
+        "@type": "Answer",
+        "description": "Repair involves inspection to diagnose the issue, followed by cleaning, roller replacement, alignment, or track repair, and then testing."
+      }
+    }
+  ],
+  "description": "Repair involves inspection to diagnose the issue, followed by cleaning, roller replacement, alignment, or track repair, and then testing."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-can-i-do-to-prevent-future-sliding-door-glass-breakage",
+  "name": "What can I do to prevent future sliding door glass breakage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What can I do to prevent future sliding door glass breakage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent future breakage, consider using safety film on existing glass for added impact resistance, though this won't stop severe impacts. Ensure proper maintenance of the door's track and rollers to prevent jamming, which can stress the glass. Avoid placing heavy objects near the door that could fall or be knocked into it. For new installations or replacements, consider laminated safety glass which holds together when broken, adding an extra layer of protection.",
+        "@type": "Answer",
+        "description": "Apply safety film, maintain door tracks, and avoid placing objects that could impact the glass. Consider laminated safety glass for replacements."
+      }
+    }
+  ],
+  "description": "Apply safety film, maintain door tracks, and avoid placing objects that could impact the glass. Consider laminated safety glass for replacements."
+}

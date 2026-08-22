@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-signs-that-my-sliding-glass-door-needs-to-be-replaced",
+  "name": "What are the signs that my sliding glass door needs to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my sliding glass door needs to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common indicators that your sliding glass door may need replacement include difficulty opening or closing, drafts around the frame, condensation between the glass panes, or visible damage like cracks or seal failures. If you notice increased energy bills, it could also signal that your door's insulation is compromised. Older doors, especially those with single-pane glass, are often less energy-efficient and might be worth upgrading for improved comfort and savings.",
+        "@type": "Answer",
+        "description": "Signs include difficulty operating, drafts, condensation, visible damage, or rising energy bills."
+      }
+    }
+  ],
+  "description": "Signs include difficulty operating, drafts, condensation, visible damage, or rising energy bills."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-window-repair-and-full-replacement-for-drafts",
+  "name": "What is the difference between window repair and full replacement for drafts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between window repair and full replacement for drafts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window repair typically addresses minor issues like re-caulking gaps, replacing weatherstripping, or fixing a broken pane. This is suitable if the window frame is still sound and the damage is isolated. Full replacement involves removing the entire window unit—frame and all—and installing a brand new one. Replacement is recommended when drafts are severe, frames are deteriorated, or energy efficiency is a primary concern, as it offers a complete solution.",
+        "@type": "Answer",
+        "description": "Repair fixes minor issues like re-caulking, while full replacement installs a new window unit. Replacement is better for severe drafts or frame deterioration."
+      }
+    }
+  ],
+  "description": "Repair fixes minor issues like re-caulking, while full replacement installs a new window unit. Replacement is better for severe drafts or frame deterioration."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-preventive-maintenance-can-i-do-to-keep-my-sliding-glass-door-from-sticking",
+  "name": "What preventive maintenance can I do to keep my sliding glass door from sticking?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preventive maintenance can I do to keep my sliding glass door from sticking?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular cleaning of the door tracks is crucial to prevent debris buildup. Use a vacuum or stiff brush to remove dirt, dust, and pet hair, then wipe with a damp cloth. Periodically inspect the rollers for wear and ensure they are moving freely. Applying a silicone-based lubricant to the tracks can also help maintain smooth operation. Avoiding harsh chemical cleaners on tracks and rollers is also recommended.",
+        "@type": "Answer",
+        "description": "Regularly clean door tracks to remove debris, inspect rollers for wear, and apply a silicone-based lubricant to maintain smooth operation."
+      }
+    }
+  ],
+  "description": "Regularly clean door tracks to remove debris, inspect rollers for wear, and apply a silicone-based lubricant to maintain smooth operation."
+}

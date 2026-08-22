@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-your-sliding-glass-door-repair-services-available-in-south-san-francisco",
+  "name": "Are your sliding glass door repair services available in South San Francisco?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are your sliding glass door repair services available in South San Francisco?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, our sliding glass door repair services are fully available in South San Francisco, as well as other areas we serve, including Pacifica, Daly City, San Bruno, Brisbane, Colma, Millbrae, and San Mateo. We provide prompt and professional service to residents and businesses throughout these locations to address their sticking or damaged sliding door issues.",
+        "@type": "Answer",
+        "description": "Yes, our sliding glass door repair services are available in South San Francisco and other listed Bay Area locations."
+      }
+    }
+  ],
+  "description": "Yes, our sliding glass door repair services are available in South San Francisco and other listed Bay Area locations."
+}

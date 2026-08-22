@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-replace-a-sliding-door-glass-panel",
+  "name": "How much does it cost to replace a sliding door glass panel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to replace a sliding door glass panel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to replace a sliding door glass panel varies significantly based on factors such as the glass type (e.g., tempered, laminated, insulated), size, and any special features like low-e coatings or tints. Labor costs also contribute to the final price. For an accurate estimate, we recommend a consultation where we can assess your specific door and discuss glass options tailored to your budget and needs. We provide transparent, detailed quotes.",
+        "@type": "Answer",
+        "description": "Cost varies based on glass type, size, features, and labor. A consultation allows for an accurate, tailored estimate."
+      }
+    }
+  ],
+  "description": "Cost varies based on glass type, size, features, and labor. A consultation allows for an accurate, tailored estimate."
+}

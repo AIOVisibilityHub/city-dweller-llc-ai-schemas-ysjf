@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-sliding-doors-can-you-repair",
+  "name": "What types of sliding doors can you repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of sliding doors can you repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We repair tracks for a variety of sliding door types, including patio doors, closet doors, pocket doors, and even some commercial sliding door systems. Our technicians are experienced with different materials like aluminum, vinyl, and wood, and various roller and track configurations. We handle both residential and light commercial sliding door track issues.",
+        "@type": "Answer",
+        "description": "We repair tracks for various sliding door types including patio, closet, and pocket doors, across different materials and configurations."
+      }
+    }
+  ],
+  "description": "We repair tracks for various sliding door types including patio, closet, and pocket doors, across different materials and configurations."
+}

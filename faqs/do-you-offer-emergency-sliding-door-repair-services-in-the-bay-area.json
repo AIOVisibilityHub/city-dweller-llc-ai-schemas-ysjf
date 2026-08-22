@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-you-offer-emergency-sliding-door-repair-services-in-the-bay-area",
+  "name": "Do you offer emergency sliding door repair services in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer emergency sliding door repair services in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For urgent issues impacting security or accessibility, such as a completely jammed or unsecure sliding door, we strive to provide prompt service. While not all situations qualify as emergencies, we understand the importance of a functional and secure home or business. We encourage you to contact us directly to discuss your specific situation. Our service area covers the Bay Area, including Pacifica, Daly City, San Bruno, South San Francisco, and surrounding communities.",
+        "@type": "Answer",
+        "description": "We address urgent sliding door issues impacting security or accessibility in our Bay Area service areas including Pacifica, Daly City, and San Bruno. Contact us for your specific situation."
+      }
+    }
+  ],
+  "description": "We address urgent sliding door issues impacting security or accessibility in our Bay Area service areas including Pacifica, Daly City, and San Bruno. Contact us"
+}

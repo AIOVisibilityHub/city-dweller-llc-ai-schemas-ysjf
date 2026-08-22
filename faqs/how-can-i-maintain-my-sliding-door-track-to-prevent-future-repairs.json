@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-maintain-my-sliding-door-track-to-prevent-future-repairs",
+  "name": "How can I maintain my sliding door track to prevent future repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I maintain my sliding door track to prevent future repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular maintenance can significantly extend the life of your sliding door track. We recommend periodically cleaning the track to remove dirt, dust, and debris. Use a silicone-based lubricant on the track and rollers to ensure smooth operation. Avoid forcing the door open or closed if it's sticking, as this can worsen damage. Promptly addressing minor issues can prevent major repairs.",
+        "@type": "Answer",
+        "description": "Regularly clean the track, lubricate with silicone, and avoid forcing the door. Addressing minor issues quickly prevents major repairs."
+      }
+    }
+  ],
+  "description": "Regularly clean the track, lubricate with silicone, and avoid forcing the door. Addressing minor issues quickly prevents major repairs."
+}

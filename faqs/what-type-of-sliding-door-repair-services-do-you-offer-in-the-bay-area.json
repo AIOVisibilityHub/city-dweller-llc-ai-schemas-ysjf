@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-type-of-sliding-door-repair-services-do-you-offer-in-the-bay-area",
+  "name": "What type of sliding door repair services do you offer in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of sliding door repair services do you offer in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "As a general contractor serving the Bay Area, including Pacifica, Daly City, and South San Francisco, we offer comprehensive sliding door repair services. This includes diagnosing and fixing issues with rollers, tracks, frames, locks, and handles. We address problems like doors being off track, difficult to open or close, or not locking properly. Our goal is to restore your sliding door to optimal functionality and extend its lifespan through quality repairs.",
+        "@type": "Answer",
+        "description": "We offer comprehensive sliding door repair services in the Bay Area, covering issues with rollers, tracks, frames, locks, and handles to restore full functionality and lifespan."
+      }
+    }
+  ],
+  "description": "We offer comprehensive sliding door repair services in the Bay Area, covering issues with rollers, tracks, frames, locks, and handles to restore full functional"
+}

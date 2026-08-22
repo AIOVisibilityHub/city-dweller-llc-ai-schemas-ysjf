@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-replace-my-sliding-door-lock-instead-of-repairing-it",
+  "name": "When should I replace my sliding door lock instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I replace my sliding door lock instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your sliding door lock when it's significantly damaged, corroded, or if components are missing, making a repair unreliable. If your lock frequently jams, no longer secures the door effectively, or if replacement parts are hard to find, a full replacement often provides better security and long-term functionality than a repair. A professional assessment can help determine the most cost-effective and secure solution for your specific situation.",
+        "@type": "Answer",
+        "description": "Replace a sliding door lock if it's significantly damaged, corroded, or frequently jams. A full replacement often offers better security and long-term function."
+      }
+    }
+  ],
+  "description": "Replace a sliding door lock if it's significantly damaged, corroded, or frequently jams. A full replacement often offers better security and long-term function."
+}

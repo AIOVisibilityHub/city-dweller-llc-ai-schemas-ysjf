@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-repairing-my-sliding-door-versus-replacing-it",
+  "name": "When should I consider repairing my sliding door versus replacing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider repairing my sliding door versus replacing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repair and replacement depends on the severity and nature of the problem. Minor issues like worn rollers, dirty tracks, or minor alignment problems are often cost-effectively repaired. However, if the door frame is extensively damaged, the glass is cracked beyond repair, or the door unit is very old and inefficient, replacement might be a better long-term investment. Consider the overall condition, energy efficiency, and security of the door. A professional assessment can help determine the most economical and practical solution for your specific situation.",
+        "@type": "Answer",
+        "description": "Repair is suitable for minor issues like rollers or tracks; replacement is better for extensive damage, old, inefficient units, or security concerns."
+      }
+    }
+  ],
+  "description": "Repair is suitable for minor issues like rollers or tracks; replacement is better for extensive damage, old, inefficient units, or security concerns."
+}

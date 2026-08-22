@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-repair-a-sliding-door-that-is-not-closing",
+  "name": "How long does it take to repair a sliding door that is not closing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a sliding door that is not closing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most common sliding door repairs, such as track cleaning, roller replacement, or minor alignment adjustments, can typically be completed within a few hours. More complex issues, like significant frame repairs or track replacements, might take a full day. A general contractor can provide a more precise timeline after assessing the specific damage to your door.",
+        "@type": "Answer",
+        "description": "Most sliding door repairs for non-closing issues are completed within a few hours; complex repairs may take a full day."
+      }
+    }
+  ],
+  "description": "Most sliding door repairs for non-closing issues are completed within a few hours; complex repairs may take a full day."
+}

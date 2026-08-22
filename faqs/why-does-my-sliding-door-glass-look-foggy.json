@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/why-does-my-sliding-door-glass-look-foggy",
+  "name": "Why does my sliding door glass look foggy?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why does my sliding door glass look foggy?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Foggy sliding door glass, often seen as condensation or a milky appearance between the panes, indicates a seal failure in your insulated glass unit (IGU). IGUs consist of two or more glass panes separated by a spacer, creating a sealed air or gas-filled space. When this seal breaks, moisture-laden air enters the gap, leading to condensation and deposit build-up, causing the foggy look. This reduces visibility and insulation performance.",
+        "@type": "Answer",
+        "description": "Foggy sliding door glass occurs when the seal of an insulated glass unit (IGU) fails, allowing moisture to enter between the panes and cause condensation."
+      }
+    }
+  ],
+  "description": "Foggy sliding door glass occurs when the seal of an insulated glass unit (IGU) fails, allowing moisture to enter between the panes and cause condensation."
+}

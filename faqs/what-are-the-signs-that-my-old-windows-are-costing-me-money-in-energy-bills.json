@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-signs-that-my-old-windows-are-costing-me-money-in-energy-bills",
+  "name": "What are the signs that my old windows are costing me money in energy bills?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my old windows are costing me money in energy bills?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several signs indicate your old windows are contributing to higher energy bills. You might feel drafts near windows, even when closed, suggesting poor sealing or failing sashes. Condensation between glass panes signals a broken seal, reducing insulation. Rising energy bills without a significant change in usage, especially during extreme temperatures, are a key indicator. You may also notice your HVAC system running more frequently to maintain a comfortable indoor temperature, or a noticeable difference in temperature between rooms.",
+        "@type": "Answer",
+        "description": "Signs of costly old windows include drafts, condensation between panes, unexpectedly high energy bills, and your HVAC system running more often."
+      }
+    }
+  ],
+  "description": "Signs of costly old windows include drafts, condensation between panes, unexpectedly high energy bills, and your HVAC system running more often."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-improve-the-energy-efficiency-of-my-new-sliding-patio-door",
+  "name": "How can I improve the energy efficiency of my new sliding patio door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I improve the energy efficiency of my new sliding patio door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To maximize energy efficiency, choose a sliding patio door with features like low-emissivity (low-e) glass coatings, argon or krypton gas fills between glass panes, and thermally broken frames. These features help reduce heat transfer, keeping your home warmer in winter and cooler in summer. Proper installation by an experienced contractor, including thorough sealing and insulation around the frame, is also crucial to prevent air leaks and optimize performance.",
+        "@type": "Answer",
+        "description": "Improve efficiency with low-e glass, inert gas fills, and thermally broken frames. Proper, sealed installation is also key to preventing air leaks."
+      }
+    }
+  ],
+  "description": "Improve efficiency with low-e glass, inert gas fills, and thermally broken frames. Proper, sealed installation is also key to preventing air leaks."
+}

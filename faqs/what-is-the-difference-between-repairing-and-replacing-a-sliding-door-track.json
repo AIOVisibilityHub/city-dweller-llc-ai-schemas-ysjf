@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-repairing-and-replacing-a-sliding-door-track",
+  "name": "What is the difference between repairing and replacing a sliding door track?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between repairing and replacing a sliding door track?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a sliding door track typically involves addressing minor issues like cleaning, lubrication, or fixing small dents or bends. This is suitable when the track damage is minimal and localized. Replacing a track, however, involves removing the entire old track and installing a new one. This is necessary when the track is severely damaged, corroded beyond repair, bent extensively, or when the track's material has degraded, making it unsafe or inefficient for the door's operation.",
+        "@type": "Answer",
+        "description": "Repairing fixes minor track issues like dents or cleaning, while replacing involves installing an entirely new track for severe damage, extensive corrosion, or degraded material."
+      }
+    }
+  ],
+  "description": "Repairing fixes minor track issues like dents or cleaning, while replacing involves installing an entirely new track for severe damage, extensive corrosion, or"
+}

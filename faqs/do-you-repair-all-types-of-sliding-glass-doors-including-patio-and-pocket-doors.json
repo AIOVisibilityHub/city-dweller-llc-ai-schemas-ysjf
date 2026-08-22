@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-you-repair-all-types-of-sliding-glass-doors-including-patio-and-pocket-doors",
+  "name": "Do you repair all types of sliding glass doors, including patio and pocket doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you repair all types of sliding glass doors, including patio and pocket doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we have expertise in repairing various types of sliding glass doors, including standard patio doors, multi-panel sliding doors, and pocket doors. While the underlying principles of repair are similar, each type may have unique components or access requirements. Our technicians are experienced in handling the specific challenges associated with different sliding door designs to ensure effective and lasting repairs.",
+        "@type": "Answer",
+        "description": "Yes, we repair all types of sliding glass doors, including patio and pocket doors, addressing their specific components and challenges."
+      }
+    }
+  ],
+  "description": "Yes, we repair all types of sliding glass doors, including patio and pocket doors, addressing their specific components and challenges."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-signs-that-my-sliding-door-frame-needs-repair",
+  "name": "What are the signs that my sliding door frame needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my sliding door frame needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key signs that your sliding door frame needs repair include difficulty opening or closing the door, visible cracks or gaps in the frame material, drafts or water leaks around the door, and unusual noises during operation. You might also notice wood rot, peeling paint, or discoloration, particularly at the bottom of a wooden frame. If the door appears misaligned, sags, or the lock doesn't engage properly, these are strong indicators of frame issues. Addressing these signs early can prevent further damage and more costly repairs down the line.",
+        "@type": "Answer",
+        "description": "Signs include difficulty operating the door, visible cracks or gaps, drafts or leaks, wood rot, misalignment, or issues with the lock. Early detection prevents further damage."
+      }
+    }
+  ],
+  "description": "Signs include difficulty operating the door, visible cracks or gaps, drafts or leaks, wood rot, misalignment, or issues with the lock. Early detection prevents"
+}

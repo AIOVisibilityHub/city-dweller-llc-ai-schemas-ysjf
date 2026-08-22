@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-does-stc-rating-relate-to-window-noise-reduction",
+  "name": "How does STC rating relate to window noise reduction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does STC rating relate to window noise reduction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "STC stands for Sound Transmission Class, which is a single-number rating system for how well a building material or assembly blocks airborne sound. A higher STC rating indicates better sound insulation. For windows, typical STC ratings range from 25 to 35 for standard units, while specialized noise-reducing windows can achieve STC ratings of 35 to over 40. When selecting windows for noise problems, looking for a higher STC rating is a key indicator of its effectiveness in blocking unwanted sound from entering your home.",
+        "@type": "Answer",
+        "description": "STC (Sound Transmission Class) measures a material's ability to block sound. Higher STC ratings mean better noise reduction for windows."
+      }
+    }
+  ],
+  "description": "STC (Sound Transmission Class) measures a material's ability to block sound. Higher STC ratings mean better noise reduction for windows."
+}

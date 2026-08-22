@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/my-patio-door-glass-is-cracked-can-it-be-repaired-or-does-it-need-full-replaceme",
+  "name": "My patio door glass is cracked, can it be repaired or does it need full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "My patio door glass is cracked, can it be repaired or does it need full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor chips or small cracks that do not compromise the glass's structural integrity or energy efficiency might sometimes be repaired, depending on their size and location. However, for most significant cracks, especially those impacting the entire pane or creating safety hazards, a full glass replacement is usually necessary. This ensures proper insulation, security, and long-term durability of your patio door. A professional assessment can determine the best course of action for your specific damage.",
+        "@type": "Answer",
+        "description": "Most significant cracks in patio door glass require full replacement to ensure safety, security, and proper insulation. Minor chips might be repairable."
+      }
+    }
+  ],
+  "description": "Most significant cracks in patio door glass require full replacement to ensure safety, security, and proper insulation. Minor chips might be repairable."
+}

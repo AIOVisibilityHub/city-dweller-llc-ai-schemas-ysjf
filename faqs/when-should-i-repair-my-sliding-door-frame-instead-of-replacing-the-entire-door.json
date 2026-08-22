@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-repair-my-sliding-door-frame-instead-of-replacing-the-entire-door",
+  "name": "When should I repair my sliding door frame instead of replacing the entire door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair my sliding door frame instead of replacing the entire door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing your sliding door frame is a good option when the damage is localized to the frame itself, such as minor cracks, wood rot in specific sections, or minor warping. If the door panel, glass, or track system are still in good condition, a frame repair can be more cost-effective and less disruptive than a full replacement. However, if the frame has extensive structural damage, severe warping affecting operation, or if components like the track are integrated and heavily damaged, replacement might be the better long-term solution. A professional assessment can help you decide.",
+        "@type": "Answer",
+        "description": "Consider repair if damage is localized to the frame and other components are sound. If damage is extensive or affects operation significantly, replacement may be more cost-effective."
+      }
+    }
+  ],
+  "description": "Consider repair if damage is localized to the frame and other components are sound. If damage is extensive or affects operation significantly, replacement may b"
+}

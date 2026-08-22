@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-best-sliding-glass-door-for-my-bay-area-home",
+  "name": "How do I choose the best sliding glass door for my Bay Area home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the best sliding glass door for my Bay Area home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the best sliding glass door involves considering your home's architectural style, your budget, and specific needs like energy efficiency, security, and maintenance. For the Bay Area climate, doors with good insulation (Low-E glass, insulated frames) are often recommended for comfort and energy savings. Evaluate materials like vinyl for value, aluminum for durability, or wood for aesthetics. Consider security features and warranty information as well to make an informed decision.",
+        "@type": "Answer",
+        "description": "Consider your home's style, budget, energy efficiency, security, and maintenance needs. For the Bay Area, prioritize insulation and durable materials."
+      }
+    }
+  ],
+  "description": "Consider your home's style, budget, energy efficiency, security, and maintenance needs. For the Bay Area, prioritize insulation and durable materials."
+}

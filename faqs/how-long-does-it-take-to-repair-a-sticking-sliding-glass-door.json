@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-repair-a-sticking-sliding-glass-door",
+  "name": "How long does it take to repair a sticking sliding glass door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a sticking sliding glass door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most sticking sliding glass door repairs can be completed within a few hours, depending on the complexity of the issue. Simple repairs like cleaning and lubricating tracks or replacing a few rollers are generally quick. More extensive damage, such as a severely bent track or multiple component replacements, might take longer. We aim to complete repairs efficiently to minimize disruption to your home.",
+        "@type": "Answer",
+        "description": "Most repairs take a few hours, but complex issues with tracks or multiple components may take longer. We aim for efficient service."
+      }
+    }
+  ],
+  "description": "Most repairs take a few hours, but complex issues with tracks or multiple components may take longer. We aim for efficient service."
+}

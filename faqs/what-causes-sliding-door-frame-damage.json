@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-sliding-door-frame-damage",
+  "name": "What causes sliding door frame damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes sliding door frame damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sliding door frames can be damaged by various factors including normal wear and tear, exposure to weather elements like rain and sun causing wood rot or warping, and impact from objects. Foundation shifts can also stress frames, leading to cracks or misalignment. Over time, components like rollers or tracks can fail, putting undue stress on the frame itself. Identifying the cause helps determine the most effective repair strategy.",
+        "@type": "Answer",
+        "description": "Damage to sliding door frames is often caused by wear and tear, weather exposure, impact, or foundation shifts. Identifying the root cause helps determine the correct repair approach."
+      }
+    }
+  ],
+  "description": "Damage to sliding door frames is often caused by wear and tear, weather exposure, impact, or foundation shifts. Identifying the root cause helps determine the c"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-adjusting-my-sliding-door-help-with-energy-efficiency",
+  "name": "Can adjusting my sliding door help with energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can adjusting my sliding door help with energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a properly adjusted sliding door can significantly improve your home's energy efficiency. When a door is misaligned, it can create gaps where conditioned air escapes and outside air infiltrates, leading to higher energy bills. Adjusting the door ensures a tight seal, reducing drafts and preventing heat loss in winter or heat gain in summer. This helps maintain consistent indoor temperatures and lowers energy consumption.",
+        "@type": "Answer",
+        "description": "Yes, proper adjustment ensures a tight seal, reducing drafts and improving energy efficiency by preventing air leakage."
+      }
+    }
+  ],
+  "description": "Yes, proper adjustment ensures a tight seal, reducing drafts and improving energy efficiency by preventing air leakage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-my-sliding-door-track-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair my sliding door track myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair my sliding door track myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor issues like cleaning the track or lubricating rollers can sometimes be a DIY task, complex problems such as bent tracks, damaged rollers, or misaligned doors often require professional expertise. Incorrect repairs can lead to further damage, safety issues, and higher costs in the long run. A professional ensures the repair is done correctly, safely, and efficiently.",
+        "@type": "Answer",
+        "description": "Minor issues can be DIY, but complex problems like bent tracks or damaged rollers should be handled by professionals to ensure safety and proper repair."
+      }
+    }
+  ],
+  "description": "Minor issues can be DIY, but complex problems like bent tracks or damaged rollers should be handled by professionals to ensure safety and proper repair."
+}

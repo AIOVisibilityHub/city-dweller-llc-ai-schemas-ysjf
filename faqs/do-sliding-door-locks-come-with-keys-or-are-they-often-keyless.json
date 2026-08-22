@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-sliding-door-locks-come-with-keys-or-are-they-often-keyless",
+  "name": "Do sliding door locks come with keys, or are they often keyless?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do sliding door locks come with keys, or are they often keyless?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sliding door locks are available in both keyed and keyless options, depending on the type and your security preferences. Many standard patio sliding door locks operate with a thumb turn or lever from the inside and do not have an exterior key access. However, locks designed for main entry sliding doors, or those seeking enhanced security, often include keyed cylinders for both exterior and interior access. Smart locks offer keyless entry via codes or smartphone apps.",
+        "@type": "Answer",
+        "description": "Sliding door locks can be keyed or keyless. Many patio doors use interior-only locks, while entry doors or high-security options often have key access."
+      }
+    }
+  ],
+  "description": "Sliding door locks can be keyed or keyless. Many patio doors use interior-only locks, while entry doors or high-security options often have key access."
+}

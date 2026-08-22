@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-energy-efficient-windows-are-available",
+  "name": "What types of energy-efficient windows are available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of energy-efficient windows are available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are several types of energy-efficient windows, each offering distinct benefits. Common options include double-pane and triple-pane windows with inert gas fills (argon or krypton) for enhanced insulation. Low-E (low-emissivity) coatings are applied to glass to reflect infrared light, reducing heat transfer. Frame materials like vinyl, fiberglass, and wood also contribute to efficiency, with vinyl and fiberglass generally offering superior insulation properties compared to aluminum. Consider U-factor, SHGC, and air leakage ratings for performance.",
+        "@type": "Answer",
+        "description": "Available energy-efficient window types include double/triple-pane with inert gas fills and Low-E coatings, using frames like vinyl, fiberglass, or wood for insulation."
+      }
+    }
+  ],
+  "description": "Available energy-efficient window types include double/triple-pane with inert gas fills and Low-E coatings, using frames like vinyl, fiberglass, or wood for ins"
+}

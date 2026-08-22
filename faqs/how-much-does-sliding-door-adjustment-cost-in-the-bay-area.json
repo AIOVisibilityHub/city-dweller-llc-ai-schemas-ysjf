@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-sliding-door-adjustment-cost-in-the-bay-area",
+  "name": "How much does sliding door adjustment cost in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does sliding door adjustment cost in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for sliding door adjustment in the Bay Area can vary widely depending on the complexity of the issue, the type of door, and whether parts like rollers or tracks need replacement. Simple adjustments might be less, while extensive repairs could be more. It's best to get a detailed quote after an on-site assessment to understand the specific costs involved for your situation.",
+        "@type": "Answer",
+        "description": "Costs vary in the Bay Area based on problem complexity, door type, and parts needed. Obtain a quote after an on-site assessment."
+      }
+    }
+  ],
+  "description": "Costs vary in the Bay Area based on problem complexity, door type, and parts needed. Obtain a quote after an on-site assessment."
+}

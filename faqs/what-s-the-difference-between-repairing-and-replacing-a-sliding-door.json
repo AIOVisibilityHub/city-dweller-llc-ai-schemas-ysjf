@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-repairing-and-replacing-a-sliding-door",
+  "name": "What's the difference between repairing and replacing a sliding door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between repairing and replacing a sliding door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a sliding door involves fixing specific components, such as rollers, tracks, or locks, to restore functionality. This is often the more cost-effective option for isolated issues. Replacing a sliding door means installing an entirely new door unit, including the frame, glass, and hardware. Replacement is usually considered when the door is old, severely damaged, inefficient, or if repairs would be nearly as expensive as a new installation. A professional assessment can help determine the best course of action.",
+        "@type": "Answer",
+        "description": "Repairing fixes specific parts, while replacing involves installing a whole new door unit. Repair is cost-effective for isolated issues; replacement is for severe damage or old, inefficient doors."
+      }
+    }
+  ],
+  "description": "Repairing fixes specific parts, while replacing involves installing a whole new door unit. Repair is cost-effective for isolated issues; replacement is for seve"
+}

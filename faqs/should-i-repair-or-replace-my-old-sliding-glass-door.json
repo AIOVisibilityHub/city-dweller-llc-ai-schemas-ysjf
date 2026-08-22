@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-repair-or-replace-my-old-sliding-glass-door",
+  "name": "Should I repair or replace my old sliding glass door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my old sliding glass door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace depends on the extent of the damage and the age of your current door. Minor issues like worn rollers or broken locks can often be repaired cost-effectively. However, if your door is old, has significant drafts, fogged or broken glass, or the frame is warped or damaged, replacement is usually the better long-term investment. New doors offer superior energy efficiency, security, and aesthetics that repairs to an old unit cannot match, often leading to greater savings and value over time.",
+        "@type": "Answer",
+        "description": "Repair minor issues, but replace old doors with significant damage, drafts, or broken glass for better energy efficiency, security, and long-term value."
+      }
+    }
+  ],
+  "description": "Repair minor issues, but replace old doors with significant damage, drafts, or broken glass for better energy efficiency, security, and long-term value."
+}

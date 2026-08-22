@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-repair-or-replace-my-sliding-door-lock",
+  "name": "When should I repair or replace my sliding door lock?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair or replace my sliding door lock?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to repair or replace a sliding door lock depends on the extent of the damage and the lock's age. If the issue is minor, such as a loose screw, a simple adjustment, or a clean-out of debris, repair is often the most cost-effective option. However, if internal components are severely broken, corroded, or if the lock mechanism is outdated and no longer offers adequate security, replacement is usually recommended. A replacement ensures optimal security and longevity, especially if the door itself is in good condition. We can assess the damage and recommend the best course of action.",
+        "@type": "Answer",
+        "description": "Repair minor issues like loose screws or debris. Replace if internal components are severely damaged, corroded, or if the lock is old and lacks security."
+      }
+    }
+  ],
+  "description": "Repair minor issues like loose screws or debris. Replace if internal components are severely damaged, corroded, or if the lock is old and lacks security."
+}

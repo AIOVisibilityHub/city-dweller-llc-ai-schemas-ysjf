@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-repair-a-sliding-door-sill",
+  "name": "How long does it take to repair a sliding door sill?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a sliding door sill?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a sliding door sill repair project depends on the severity and complexity of the damage. Minor repairs, such as sealing small cracks or replacing localized rot, might be completed within a few hours to half a day. More extensive repairs, involving significant wood replacement, addressing water damage, or full sill replacement, can take one to two full days. Factors like weather conditions and material availability can also influence the timeline. A professional assessment will provide a more accurate estimate.",
+        "@type": "Answer",
+        "description": "Repair time varies from a few hours for minor issues to one to two days for extensive damage, depending on complexity and material replacement needed."
+      }
+    }
+  ],
+  "description": "Repair time varies from a few hours for minor issues to one to two days for extensive damage, depending on complexity and material replacement needed."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-you-repair-a-broken-sliding-glass-door-lock",
+  "name": "Can you repair a broken sliding glass door lock?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you repair a broken sliding glass door lock?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we can repair or replace broken sliding glass door locks. A malfunctioning lock compromises your home's security and can be a significant inconvenience. We address various lock issues, from simple mechanism adjustments to replacing the entire locking system, including handles and latches. Our technicians ensure that the new or repaired lock functions correctly, providing peace of mind and restoring the security of your sliding glass door.",
+        "@type": "Answer",
+        "description": "Yes, we repair or replace broken sliding glass door locks, from adjustments to full system replacements, to restore your home's security."
+      }
+    }
+  ],
+  "description": "Yes, we repair or replace broken sliding glass door locks, from adjustments to full system replacements, to restore your home's security."
+}

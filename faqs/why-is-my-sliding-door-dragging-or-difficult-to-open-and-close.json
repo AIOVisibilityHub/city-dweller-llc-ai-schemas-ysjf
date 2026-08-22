@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/why-is-my-sliding-door-dragging-or-difficult-to-open-and-close",
+  "name": "Why is my sliding door dragging or difficult to open and close?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my sliding door dragging or difficult to open and close?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sliding doors typically drag or become difficult to operate due to several common issues. The most frequent culprits are worn-out rollers, which can become flat or seize, preventing smooth movement. Debris accumulating in the track, such as dirt, pet hair, or small objects, can also obstruct the door. Additionally, misaligned tracks or worn weather stripping can create friction. In some cases, the door itself may be off its track, or the frame could have shifted due to settling or structural issues. Identifying the specific cause is the first step toward effective repair.",
+        "@type": "Answer",
+        "description": "Common causes for a dragging sliding door include worn rollers, debris in the track, misalignment, or the door being off its track."
+      }
+    }
+  ],
+  "description": "Common causes for a dragging sliding door include worn rollers, debris in the track, misalignment, or the door being off its track."
+}

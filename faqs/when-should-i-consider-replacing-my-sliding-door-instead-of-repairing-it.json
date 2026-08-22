@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-my-sliding-door-instead-of-repairing-it",
+  "name": "When should I consider replacing my sliding door instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my sliding door instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider replacing your sliding door if it's severely damaged, consistently has issues even after repairs, or is very old and inefficient. Signs like persistent drafts, condensation between glass panes, extensive frame rot, or extremely high repair costs that approach the price of a new door indicate that replacement might be a better long-term investment. Modern doors also offer improved energy efficiency and security.",
+        "@type": "Answer",
+        "description": "Replace your sliding door if it's severely damaged, inefficient, consistently problematic after repairs, or if repair costs are comparable to a new door. This provides better long-term value."
+      }
+    }
+  ],
+  "description": "Replace your sliding door if it's severely damaged, inefficient, consistently problematic after repairs, or if repair costs are comparable to a new door. This p"
+}

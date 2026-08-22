@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-reasons-a-sliding-door-lock-fails",
+  "name": "What are common reasons a sliding door lock fails?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common reasons a sliding door lock fails?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sliding door locks can fail due to several common issues. Wear and tear from frequent use often grinds down internal components, leading to loose or non-engaging mechanisms. Misalignment of the door or frame can prevent the lock from properly latching. Accumulation of dirt, dust, or debris within the lock assembly can also impede its function. Additionally, damage from forced entry attempts or corrosion, particularly in coastal areas like Pacifica or Half Moon Bay, can compromise the lock's integrity and operation. Regular maintenance can help extend the life of your sliding door lock.",
+        "@type": "Answer",
+        "description": "Common causes of sliding door lock failure include wear and tear, misalignment, debris accumulation, and physical damage or corrosion, especially in coastal environments."
+      }
+    }
+  ],
+  "description": "Common causes of sliding door lock failure include wear and tear, misalignment, debris accumulation, and physical damage or corrosion, especially in coastal env"
+}

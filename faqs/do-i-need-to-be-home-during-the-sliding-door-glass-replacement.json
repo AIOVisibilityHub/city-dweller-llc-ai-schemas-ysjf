@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-be-home-during-the-sliding-door-glass-replacement",
+  "name": "Do I need to be home during the sliding door glass replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home during the sliding door glass replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we recommend that an adult be present at the property during the entire sliding door glass replacement process. This ensures that our technicians have access to the work area, can clarify any details, and can address any questions you might have on-site. Your presence also allows for a final inspection of the completed work to ensure your complete satisfaction. We will communicate our arrival time and expected duration beforehand.",
+        "@type": "Answer",
+        "description": "Yes, an adult should be present during the entire replacement process to allow access, address questions, and for a final inspection of the completed work."
+      }
+    }
+  ],
+  "description": "Yes, an adult should be present during the entire replacement process to allow access, address questions, and for a final inspection of the completed work."
+}

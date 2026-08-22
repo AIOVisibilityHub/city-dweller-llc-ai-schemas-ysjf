@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-you-replace-insulated-dual-pane-glass-in-a-sliding-door",
+  "name": "Can you replace insulated (dual-pane) glass in a sliding door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you replace insulated (dual-pane) glass in a sliding door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we regularly replace insulated (dual-pane) glass units in sliding doors. These units are designed for energy efficiency, providing better insulation than single-pane glass. If your dual-pane glass shows signs of fogging or condensation between the panes, it indicates a failed seal, and replacement of the entire insulated glass unit (IGU) is necessary to restore its thermal performance. We ensure proper sealing for optimal energy efficiency.",
+        "@type": "Answer",
+        "description": "Yes, we can replace insulated (dual-pane) glass units. Fogging between panes means the seal failed, and replacement restores energy efficiency."
+      }
+    }
+  ],
+  "description": "Yes, we can replace insulated (dual-pane) glass units. Fogging between panes means the seal failed, and replacement restores energy efficiency."
+}

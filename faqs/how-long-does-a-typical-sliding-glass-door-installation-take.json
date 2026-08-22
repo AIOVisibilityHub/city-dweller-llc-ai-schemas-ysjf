@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-sliding-glass-door-installation-take",
+  "name": "How long does a typical sliding glass door installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical sliding glass door installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation timeframe for a sliding glass door can vary based on several factors, including the complexity of the project, whether it's a new opening or a replacement, and any necessary structural modifications. A straightforward replacement might take a single day. However, projects requiring framing adjustments or significant structural work could extend to two or three days. We provide a detailed timeline after assessing your specific needs during the initial consultation.",
+        "@type": "Answer",
+        "description": "Most installations take one to three days, depending on whether it's a replacement or a new opening with structural changes."
+      }
+    }
+  ],
+  "description": "Most installations take one to three days, depending on whether it's a replacement or a new opening with structural changes."
+}

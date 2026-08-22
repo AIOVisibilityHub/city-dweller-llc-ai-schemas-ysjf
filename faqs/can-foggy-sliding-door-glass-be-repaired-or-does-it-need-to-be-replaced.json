@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-foggy-sliding-door-glass-be-repaired-or-does-it-need-to-be-replaced",
+  "name": "Can foggy sliding door glass be repaired, or does it need to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can foggy sliding door glass be repaired, or does it need to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For foggy sliding door glass, the common solution is glass replacement rather than repair. The fogging is caused by a compromised seal in the insulated glass unit (IGU). While some companies offer 'defogging' services, these are often temporary and may not fully restore the glass's insulating properties or clarity. Replacing the entire IGU ensures a new, properly sealed unit, restoring both performance and appearance.",
+        "@type": "Answer",
+        "description": "Foggy sliding door glass typically requires replacement of the entire glass unit, as the internal seal is compromised. Repairs are often temporary and less effective."
+      }
+    }
+  ],
+  "description": "Foggy sliding door glass typically requires replacement of the entire glass unit, as the internal seal is compromised. Repairs are often temporary and less effe"
+}

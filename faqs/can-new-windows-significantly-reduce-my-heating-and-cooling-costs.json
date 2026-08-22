@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-new-windows-significantly-reduce-my-heating-and-cooling-costs",
+  "name": "Can new windows significantly reduce my heating and cooling costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can new windows significantly reduce my heating and cooling costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, replacing old, drafty windows with energy-efficient models can significantly reduce your heating and cooling costs. Up to 30% of a home's heat loss occurs through windows and doors. Modern windows with features like double-pane glass, Low-E coatings, and insulated frames create a better thermal barrier, keeping conditioned air inside and minimizing the need for your HVAC system to work harder.",
+        "@type": "Answer",
+        "description": "Yes, new energy-efficient windows can significantly reduce heating and cooling costs by preventing heat loss."
+      }
+    }
+  ],
+  "description": "Yes, new energy-efficient windows can significantly reduce heating and cooling costs by preventing heat loss."
+}

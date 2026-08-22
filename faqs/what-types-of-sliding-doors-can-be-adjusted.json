@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-sliding-doors-can-be-adjusted",
+  "name": "What types of sliding doors can be adjusted?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of sliding doors can be adjusted?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most types of sliding doors, including patio doors, closet doors, and pocket doors, can be adjusted. The specific adjustment methods may vary based on the door's material (e.g., wood, aluminum, vinyl) and its design. While the underlying principles of track and roller systems are similar, each door type may have unique components or access points for adjustments.",
+        "@type": "Answer",
+        "description": "Most sliding doors, like patio, closet, and pocket doors, can be adjusted, though methods may vary by material and design."
+      }
+    }
+  ],
+  "description": "Most sliding doors, like patio, closet, and pocket doors, can be adjusted, though methods may vary by material and design."
+}

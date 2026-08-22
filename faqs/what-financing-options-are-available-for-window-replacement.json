@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-financing-options-are-available-for-window-replacement",
+  "name": "What financing options are available for window replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What financing options are available for window replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many homeowners utilize various financing options for window replacement. These can include home equity loans or lines of credit, personal loans, or contractor-specific financing programs. Some utility companies or local governments in the Bay Area may also offer energy efficiency rebates or incentives. We can discuss available options during your consultation to help you find a suitable plan.",
+        "@type": "Answer",
+        "description": "Financing options include home equity loans, personal loans, or contractor programs. Rebates may also be available."
+      }
+    }
+  ],
+  "description": "Financing options include home equity loans, personal loans, or contractor programs. Rebates may also be available."
+}

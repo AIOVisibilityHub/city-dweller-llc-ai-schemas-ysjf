@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-replacing-my-sliding-glass-door-improve-my-home-s-energy-efficiency",
+  "name": "Will replacing my sliding glass door improve my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will replacing my sliding glass door improve my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, replacing an older sliding glass door, especially a single-pane or poorly sealed one, can significantly improve your home's energy efficiency. Modern sliding doors often feature double or triple-pane insulated glass, low-emissivity (Low-E) coatings, and improved weatherstripping. These features help reduce heat transfer, keeping your home cooler in the summer and warmer in the winter, which can lead to lower energy bills and a more comfortable living environment.",
+        "@type": "Answer",
+        "description": "Yes, modern sliding glass doors with insulated glass and Low-E coatings can greatly improve energy efficiency and reduce utility costs."
+      }
+    }
+  ],
+  "description": "Yes, modern sliding glass doors with insulated glass and Low-E coatings can greatly improve energy efficiency and reduce utility costs."
+}

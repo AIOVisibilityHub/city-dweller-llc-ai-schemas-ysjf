@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-there-different-levels-of-noise-reduction-available-for-replacement-windows",
+  "name": "Are there different levels of noise reduction available for replacement windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there different levels of noise reduction available for replacement windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, there are different levels of noise reduction available, primarily indicated by a window's Sound Transmission Class (STC) rating. Standard double-pane windows offer moderate noise reduction. For higher levels, you can opt for windows with laminated glass, varied glass thicknesses between panes, wider air gaps, or specific gas fills like argon or krypton. Specialized acoustic windows are designed with multiple layers and technologies to achieve the highest STC ratings, significantly reducing even loud external noises.",
+        "@type": "Answer",
+        "description": "Yes, noise reduction levels vary, indicated by STC ratings. Options include standard double-pane, laminated glass, varied glass thicknesses, and specialized acoustic windows."
+      }
+    }
+  ],
+  "description": "Yes, noise reduction levels vary, indicated by STC ratings. Options include standard double-pane, laminated glass, varied glass thicknesses, and specialized aco"
+}

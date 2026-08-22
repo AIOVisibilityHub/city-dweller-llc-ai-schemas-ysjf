@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-often-should-i-have-my-sliding-door-adjusted",
+  "name": "How often should I have my sliding door adjusted?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my sliding door adjusted?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The frequency of adjustment depends on usage and environmental factors. For frequently used doors, an annual check-up is advisable. Less-used doors might only need attention every few years. If you notice any of the common signs of wear or misalignment, it's best to address them promptly, regardless of the last service date, to prevent further damage and ensure smooth operation.",
+        "@type": "Answer",
+        "description": "It depends on usage; annual checks for high-traffic doors or every few years for less-used ones are recommended."
+      }
+    }
+  ],
+  "description": "It depends on usage; annual checks for high-traffic doors or every few years for less-used ones are recommended."
+}

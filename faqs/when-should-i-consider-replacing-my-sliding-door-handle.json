@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-my-sliding-door-handle",
+  "name": "When should I consider replacing my sliding door handle?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my sliding door handle?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your sliding door handle if it's broken, corroded, or difficult to operate. Common signs include a wobbly handle, a lock that no longer engages, or excessive force needed to open or close the door. Addressing these issues promptly can prevent further damage to the door mechanism and improve security. Regular wear and tear, especially on frequently used doors, can also necessitate replacement over time.",
+        "@type": "Answer",
+        "description": "Replace your sliding door handle if it's broken, corroded, difficult to operate, or the lock is failing."
+      }
+    }
+  ],
+  "description": "Replace your sliding door handle if it's broken, corroded, difficult to operate, or the lock is failing."
+}

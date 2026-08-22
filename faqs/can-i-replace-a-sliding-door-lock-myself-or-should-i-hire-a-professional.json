@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-replace-a-sliding-door-lock-myself-or-should-i-hire-a-professional",
+  "name": "Can I replace a sliding door lock myself or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace a sliding door lock myself or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While some basic sliding door lock replacements can be a DIY project, hiring a professional is recommended for optimal security and proper function. Professionals have the right tools and expertise to ensure the lock is installed correctly, aligned perfectly, and meets safety standards. Incorrect installation can compromise security or damage your door. City Dweller, LLC provides expert installation, ensuring a secure and reliable lock for your home.",
+        "@type": "Answer",
+        "description": "Hiring a professional for sliding door lock replacement is recommended for correct installation, optimal security, and to avoid potential damage."
+      }
+    }
+  ],
+  "description": "Hiring a professional for sliding door lock replacement is recommended for correct installation, optimal security, and to avoid potential damage."
+}

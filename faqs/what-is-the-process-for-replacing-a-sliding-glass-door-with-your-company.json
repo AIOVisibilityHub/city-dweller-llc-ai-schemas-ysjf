@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-replacing-a-sliding-glass-door-with-your-company",
+  "name": "What is the process for replacing a sliding glass door with your company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing a sliding glass door with your company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with a free consultation and on-site assessment to understand your needs and provide an accurate estimate. Once you approve the quote, we assist with material selection and handle any necessary permit applications. Our certified installers then meticulously remove your old door and prepare the opening. The new sliding glass door is installed, ensuring proper sealing, insulation, and functionality. Finally, we conduct a thorough cleanup and walk-through with you to ensure your complete satisfaction with the finished project.",
+        "@type": "Answer",
+        "description": "Our process involves consultation and estimate, material selection, permit handling, professional installation, and a final walkthrough to ensure satisfaction."
+      }
+    }
+  ],
+  "description": "Our process involves consultation and estimate, material selection, permit handling, professional installation, and a final walkthrough to ensure satisfaction."
+}

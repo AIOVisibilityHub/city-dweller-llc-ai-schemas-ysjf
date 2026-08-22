@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-repairing-a-sliding-door-track",
+  "name": "What is the process for repairing a sliding door track?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a sliding door track?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our repair process typically begins with an inspection to identify the exact cause and extent of the track damage. Depending on the issue, we may clean and lubricate the existing track, adjust rollers, or replace damaged sections of the track. For significant wear, a full track replacement might be necessary. We ensure proper alignment and smooth operation before completing the service.",
+        "@type": "Answer",
+        "description": "The process involves inspection, cleaning, lubrication, roller adjustment, or track replacement as needed, followed by alignment and testing."
+      }
+    }
+  ],
+  "description": "The process involves inspection, cleaning, lubrication, roller adjustment, or track replacement as needed, followed by alignment and testing."
+}

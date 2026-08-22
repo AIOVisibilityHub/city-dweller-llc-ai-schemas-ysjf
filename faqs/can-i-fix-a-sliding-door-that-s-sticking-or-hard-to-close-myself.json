@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-fix-a-sliding-door-that-s-sticking-or-hard-to-close-myself",
+  "name": "Can I fix a sliding door that's sticking or hard to close myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I fix a sliding door that's sticking or hard to close myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor issues like debris in the tracks can often be cleaned by a homeowner. However, if the problem involves worn rollers, a bent track, or a misaligned frame, professional assistance is recommended. Attempting complex repairs without the right tools or experience can lead to further damage, potentially increasing repair costs. A general contractor can assess the specific issue.",
+        "@type": "Answer",
+        "description": "Homeowners can clean tracks, but complex issues like worn rollers or bent tracks typically require professional repair to avoid further damage."
+      }
+    }
+  ],
+  "description": "Homeowners can clean tracks, but complex issues like worn rollers or bent tracks typically require professional repair to avoid further damage."
+}

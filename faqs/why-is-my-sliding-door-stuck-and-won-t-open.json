@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/why-is-my-sliding-door-stuck-and-won-t-open",
+  "name": "Why is my sliding door stuck and won't open?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my sliding door stuck and won't open?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A sliding door that won't open is typically due to issues with the rollers, track, or frame. Rollers can become worn, dirty, or dislodged, preventing smooth movement. The track can accumulate debris, dirt, or even become warped. Additionally, the door frame itself might settle or shift over time, leading to misalignment. Less common causes include damaged hardware or issues with the locking mechanism. Identifying the specific problem often requires a thorough inspection.",
+        "@type": "Answer",
+        "description": "Common reasons a sliding door gets stuck include worn rollers, debris in the track, or frame misalignment. A professional can diagnose the exact cause."
+      }
+    }
+  ],
+  "description": "Common reasons a sliding door gets stuck include worn rollers, debris in the track, or frame misalignment. A professional can diagnose the exact cause."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-signs-that-my-sliding-door-track-needs-repair",
+  "name": "What are common signs that my sliding door track needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my sliding door track needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs your sliding door track needs repair include difficulty opening or closing the door, grinding or scraping noises, the door getting stuck, or visible damage to the track itself. You might also notice the door shaking or wobbling as it moves, or a gap appearing between the door and the frame. Addressing these issues promptly can prevent further damage to the door or frame.",
+        "@type": "Answer",
+        "description": "Difficulty opening, grinding noises, the door getting stuck, or visible track damage are common signs your sliding door track needs repair."
+      }
+    }
+  ],
+  "description": "Difficulty opening, grinding noises, the door getting stuck, or visible track damage are common signs your sliding door track needs repair."
+}

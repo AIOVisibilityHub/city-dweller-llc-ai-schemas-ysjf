@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-average-cost-to-repair-a-stuck-sliding-door-in-the-bay-area",
+  "name": "What's the average cost to repair a stuck sliding door in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the average cost to repair a stuck sliding door in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a stuck sliding door in the Bay Area varies depending on the specific issue and necessary parts. Simple fixes like track cleaning or roller replacement might range from $150 to $400. More complex repairs, such as frame adjustments or replacing damaged track sections, could cost $400 to $800 or more. Obtaining a detailed quote after an on-site assessment is recommended to understand the exact expenses for your specific situation.",
+        "@type": "Answer",
+        "description": "Repair costs for a stuck sliding door in the Bay Area typically range from $150 for minor fixes to over $800 for complex issues. A quote from a local contractor provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Repair costs for a stuck sliding door in the Bay Area typically range from $150 for minor fixes to over $800 for complex issues. A quote from a local contractor"
+}

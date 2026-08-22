@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-prevent-my-sliding-door-from-getting-stuck-in-the-future",
+  "name": "How can I prevent my sliding door from getting stuck in the future?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent my sliding door from getting stuck in the future?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular maintenance is key to preventing sliding door issues. Keep the tracks clean from dirt, debris, and pet hair, using a vacuum and a stiff brush. Lubricate the rollers and tracks periodically with a silicone-based spray, avoiding oil-based lubricants that can attract dirt. Inspect rollers for wear and tear, and address any misalignment issues promptly. Proper use and avoiding slamming can also extend the door's lifespan and prevent sticking.",
+        "@type": "Answer",
+        "description": "To prevent future sticking, regularly clean the tracks, lubricate rollers with silicone spray, inspect for wear, and address minor issues promptly to maintain smooth operation."
+      }
+    }
+  ],
+  "description": "To prevent future sticking, regularly clean the tracks, lubricate rollers with silicone spray, inspect for wear, and address minor issues promptly to maintain s"
+}

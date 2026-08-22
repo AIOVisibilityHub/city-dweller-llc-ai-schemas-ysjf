@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-average-cost-of-energy-efficient-window-replacement-in-the-bay-area",
+  "name": "What is the average cost of energy-efficient window replacement in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of energy-efficient window replacement in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of energy-efficient window replacement in the Bay Area varies significantly based on factors such as window type, frame material, glass options, number of windows, and installation complexity. Generally, homeowners can expect to pay anywhere from $600 to $1,500 or more per window, including installation. High-performance glass and custom sizes will increase the price. It is recommended to obtain multiple quotes from local contractors like City Dweller, LLC for an accurate estimate specific to your project.",
+        "@type": "Answer",
+        "description": "Costs for energy-efficient window replacement in the Bay Area range from $600 to $1,500+ per window, depending on type, materials, and installation specifics."
+      }
+    }
+  ],
+  "description": "Costs for energy-efficient window replacement in the Bay Area range from $600 to $1,500+ per window, depending on type, materials, and installation specifics."
+}

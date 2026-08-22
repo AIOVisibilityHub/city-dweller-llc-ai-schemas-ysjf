@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-replace-the-glass-in-my-sliding-door-instead-of-repairing-it",
+  "name": "When should I replace the glass in my sliding door instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I replace the glass in my sliding door instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Glass replacement is recommended for significant damage like large cracks, shattered panes, or compromised seals leading to condensation between the glass layers. While minor chips or scratches can sometimes be repaired, full replacement restores structural integrity, energy efficiency, and clear visibility. If your sliding door glass is old, foggy, or drafty, replacement often provides a better long-term solution than a temporary patch.",
+        "@type": "Answer",
+        "description": "Replace sliding door glass for significant damage like large cracks, shattered panes, or compromised seals. Minor issues may be repairable, but replacement ensures long-term integrity and efficiency."
+      }
+    }
+  ],
+  "description": "Replace sliding door glass for significant damage like large cracks, shattered panes, or compromised seals. Minor issues may be repairable, but replacement ensu"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-tell-if-my-sliding-door-rollers-are-worn-out-or-broken",
+  "name": "How can I tell if my sliding door rollers are worn out or broken?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my sliding door rollers are worn out or broken?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can identify worn or broken sliding door rollers by several signs. The most obvious indicator is difficulty in opening or closing the door, often accompanied by a grinding, scraping, or squealing noise. The door might feel heavy or catch at certain points. Visually, you might notice the door sagging, creating a gap at the top or bottom, or rubbing against the frame. If you can lift the door slightly and it doesn't move freely, or if you inspect the rollers and see flattened wheels, cracks, or missing parts, they likely need replacement.",
+        "@type": "Answer",
+        "description": "Signs of worn rollers include difficulty opening the door, grinding noises, sagging, or visible damage to the wheels, such as flattening or cracks."
+      }
+    }
+  ],
+  "description": "Signs of worn rollers include difficulty opening the door, grinding noises, sagging, or visible damage to the wheels, such as flattening or cracks."
+}

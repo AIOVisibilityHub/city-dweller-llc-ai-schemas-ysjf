@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-sliding-glass-door-repair-take",
+  "name": "How long does a typical sliding glass door repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical sliding glass door repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most sliding glass door repairs can be completed within a few hours, especially for common issues like roller replacement or track cleaning. More complex repairs, such as replacing a custom-sized glass panel, might require ordering specific parts and could take longer to complete once the parts arrive. Our goal is to minimize disruption and restore your door's functionality as quickly as possible. We will give you an estimated timeframe after diagnosing the problem.",
+        "@type": "Answer",
+        "description": "Most repairs take a few hours; complex issues like glass replacement may take longer if parts need to be ordered. We provide an estimated timeframe after diagnosis."
+      }
+    }
+  ],
+  "description": "Most repairs take a few hours; complex issues like glass replacement may take longer if parts need to be ordered. We provide an estimated timeframe after diagno"
+}

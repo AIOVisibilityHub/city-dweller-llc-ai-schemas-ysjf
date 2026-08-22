@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-get-permits-for-sliding-door-repair-in-san-francisco",
+  "name": "Do I need to get permits for sliding door repair in San Francisco?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to get permits for sliding door repair in San Francisco?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most minor sliding door repairs, such as roller replacement, track cleaning, or hardware adjustments, permits are generally not required in San Francisco. However, if the repair involves significant structural alterations to the wall opening, resizing the door, or changing the type of door (e.g., from a standard sliding door to a multi-panel bifold), a building permit might be necessary. It's always advisable to consult with your contractor or the local planning department for specific requirements.",
+        "@type": "Answer",
+        "description": "Minor sliding door repairs generally don't require permits in San Francisco. Major structural changes or resizing the opening might, so check with your contractor or local planning department."
+      }
+    }
+  ],
+  "description": "Minor sliding door repairs generally don't require permits in San Francisco. Major structural changes or resizing the opening might, so check with your contract"
+}

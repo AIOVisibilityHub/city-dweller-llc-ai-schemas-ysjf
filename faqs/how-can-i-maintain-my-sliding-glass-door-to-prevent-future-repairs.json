@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-maintain-my-sliding-glass-door-to-prevent-future-repairs",
+  "name": "How can I maintain my sliding glass door to prevent future repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I maintain my sliding glass door to prevent future repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular maintenance can significantly extend the life of your sliding glass door and prevent costly repairs. Key steps include cleaning the tracks regularly to remove dirt and debris, which can impede rollers and cause wear. Lubricate the rollers and tracks with a silicone-based spray once or twice a year to ensure smooth operation. Additionally, periodically inspect the weather stripping for damage and check the lock for proper function. Addressing small issues early can prevent them from escalating.",
+        "@type": "Answer",
+        "description": "Maintain your door by regularly cleaning tracks, lubricating rollers, and inspecting weather stripping and locks to prevent future damage and ensure smooth operation."
+      }
+    }
+  ],
+  "description": "Maintain your door by regularly cleaning tracks, lubricating rollers, and inspecting weather stripping and locks to prevent future damage and ensure smooth oper"
+}

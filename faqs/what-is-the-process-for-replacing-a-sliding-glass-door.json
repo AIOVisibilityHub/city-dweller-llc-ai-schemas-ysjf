@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-replacing-a-sliding-glass-door",
+  "name": "What is the process for replacing a sliding glass door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing a sliding glass door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with an initial consultation and measurement, followed by selecting your new door. Once the door arrives, our team will protect the work area, carefully remove your existing door and frame, and prepare the opening. The new door is then set into place, leveled, and securely fastened. We complete the installation by applying weatherproofing seals, installing interior and exterior trim, and performing a final check to ensure smooth operation and proper sealing.",
+        "@type": "Answer",
+        "description": "The process involves consultation, door selection, old door removal, opening preparation, new door installation, sealing, and trim work."
+      }
+    }
+  ],
+  "description": "The process involves consultation, door selection, old door removal, opening preparation, new door installation, sealing, and trim work."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-average-cost-for-sliding-door-roller-repair-in-the-bay-area",
+  "name": "What is the average cost for sliding door roller repair in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost for sliding door roller repair in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for sliding door roller repair in the Bay Area varies depending on the type of door, the number of rollers needing replacement, and any additional track or frame damage. A basic roller replacement typically ranges from $200 to $500. For an accurate estimate specific to your situation in the Bay Area, we recommend scheduling a consultation with City Dweller, LLC.",
+        "@type": "Answer",
+        "description": "Average sliding door roller repair costs in the Bay Area range from $200 to $500, varying by door type and damage extent."
+      }
+    }
+  ],
+  "description": "Average sliding door roller repair costs in the Bay Area range from $200 to $500, varying by door type and damage extent."
+}

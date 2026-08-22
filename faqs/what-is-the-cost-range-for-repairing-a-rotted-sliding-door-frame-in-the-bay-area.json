@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-cost-range-for-repairing-a-rotted-sliding-door-frame-in-the-bay-area",
+  "name": "What is the cost range for repairing a rotted sliding door frame in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost range for repairing a rotted sliding door frame in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a rotted sliding door frame in the Bay Area can vary significantly depending on the extent of the damage, the type of wood, and labor rates. Minor repairs involving wood patching or section replacement might range from $400 to $900. More extensive damage requiring significant structural work or partial frame replacement could cost between $1,000 and $2,500. These are estimates; a professional onsite inspection is necessary for an accurate quote, as Bay Area labor and material costs are often higher than national averages.",
+        "@type": "Answer",
+        "description": "In the Bay Area, minor repairs might cost $400-$900, while extensive repairs could range from $1,000-$2,500, varying with damage and materials."
+      }
+    }
+  ],
+  "description": "In the Bay Area, minor repairs might cost $400-$900, while extensive repairs could range from $1,000-$2,500, varying with damage and materials."
+}

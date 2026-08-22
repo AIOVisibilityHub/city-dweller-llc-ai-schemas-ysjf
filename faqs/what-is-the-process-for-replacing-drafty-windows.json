@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-replacing-drafty-windows",
+  "name": "What is the process for replacing drafty windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing drafty windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The window replacement process typically begins with a consultation and measurement to determine your needs and select suitable windows. Next, the old windows are carefully removed, and the new frames are prepared and installed. The installers then seal and insulate around the new windows to ensure airtightness and prevent future drafts. Finally, interior and exterior trim work completes the installation, followed by a final inspection.",
+        "@type": "Answer",
+        "description": "The process involves consultation, old window removal, new window installation with proper sealing and insulation, and finishing trim."
+      }
+    }
+  ],
+  "description": "The process involves consultation, old window removal, new window installation with proper sealing and insulation, and finishing trim."
+}

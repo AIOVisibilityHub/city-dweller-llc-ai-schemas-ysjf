@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-average-cost-to-repair-a-sliding-door-lock-in-the-bay-area",
+  "name": "What is the average cost to repair a sliding door lock in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to repair a sliding door lock in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a sliding door lock in the Bay Area can vary significantly based on the type of lock, the extent of the damage, and whether parts need to be replaced. Minor adjustments or lubrication might be less expensive, while replacing a complex multi-point locking system will incur higher costs due to parts and labor. We provide a detailed estimate after assessing the specific issue with your lock. Factors like specialized security features or custom hardware can also influence the final price.",
+        "@type": "Answer",
+        "description": "The cost varies based on lock type, damage extent, and parts needed. Minor repairs are less expensive; complex lock replacements cost more. Estimates are provided after assessment."
+      }
+    }
+  ],
+  "description": "The cost varies based on lock type, damage extent, and parts needed. Minor repairs are less expensive; complex lock replacements cost more. Estimates are provid"
+}

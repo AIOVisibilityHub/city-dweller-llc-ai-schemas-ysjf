@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-replace-just-the-glass-or-the-entire-patio-door-if-it-s-cracked",
+  "name": "Should I replace just the glass or the entire patio door if it's cracked?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I replace just the glass or the entire patio door if it's cracked?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If only the glass pane is cracked and the door frame, seals, and operating mechanisms are still in good condition, replacing just the glass is often the more cost-effective and efficient solution. However, if the frame is damaged, warped, or showing signs of significant wear, or if you are looking to upgrade to a different style or material, then replacing the entire patio door might be a better long-term investment. An inspection can help determine the most appropriate option.",
+        "@type": "Answer",
+        "description": "If only the glass is damaged and the door frame is sound, replacing just the glass is usually sufficient. Consider replacing the entire door if the frame is also damaged or you want a full upgrade."
+      }
+    }
+  ],
+  "description": "If only the glass is damaged and the door frame is sound, replacing just the glass is usually sufficient. Consider replacing the entire door if the frame is als"
+}

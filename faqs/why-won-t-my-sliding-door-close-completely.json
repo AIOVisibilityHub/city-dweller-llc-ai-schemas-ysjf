@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/why-won-t-my-sliding-door-close-completely",
+  "name": "Why won't my sliding door close completely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why won't my sliding door close completely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A sliding door that won't close completely often indicates an issue with the rollers, tracks, or alignment. Debris buildup in the tracks, worn-out rollers, or a misaligned door panel can obstruct its movement. In some cases, the door frame itself might have shifted. Addressing these issues promptly can prevent further damage and improve security and energy efficiency.",
+        "@type": "Answer",
+        "description": "Common reasons a sliding door won't close include debris in tracks, worn rollers, or misalignment of the door panel or frame."
+      }
+    }
+  ],
+  "description": "Common reasons a sliding door won't close include debris in tracks, worn rollers, or misalignment of the door panel or frame."
+}

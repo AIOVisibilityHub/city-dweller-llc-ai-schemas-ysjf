@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-a-bent-or-corroded-aluminum-sliding-door-frame",
+  "name": "Can I repair a bent or corroded aluminum sliding door frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair a bent or corroded aluminum sliding door frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a bent or corroded aluminum sliding door frame depends on the severity of the damage. Minor corrosion can often be cleaned, treated, and repainted to prevent further deterioration. Small dents or slight bending might be carefully straightened by a skilled technician, especially if they don't compromise the frame's structural integrity or the door's operation. However, severely bent, twisted, or heavily corroded aluminum frames, particularly those affecting the track or sealing capabilities, are generally difficult to repair effectively and may require replacement of the affected section or the entire frame to ensure proper functionality and security.",
+        "@type": "Answer",
+        "description": "Minor corrosion and small dents on aluminum frames can often be repaired. Severely bent or heavily corroded frames, especially those affecting functionality, usually require replacement."
+      }
+    }
+  ],
+  "description": "Minor corrosion and small dents on aluminum frames can often be repaired. Severely bent or heavily corroded frames, especially those affecting functionality, us"
+}

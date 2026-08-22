@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-repair-versus-replace-my-sliding-glass-door",
+  "name": "When should I repair versus replace my sliding glass door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair versus replace my sliding glass door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to repair or replace depends on the severity and nature of the damage. Repairs are generally cost-effective for localized issues like worn rollers, damaged locks, or minor glass cracks. However, if the door frame is significantly warped, the glass is shattered, or multiple components are failing due to age and wear, replacement might be a more durable and economical long-term solution. A professional assessment can help determine the best course of action for your specific situation.",
+        "@type": "Answer",
+        "description": "Repair minor issues like rollers or locks. Replace if the frame is warped, glass is shattered, or multiple components are failing due to age. A professional assessment can guide your decision."
+      }
+    }
+  ],
+  "description": "Repair minor issues like rollers or locks. Replace if the frame is warped, glass is shattered, or multiple components are failing due to age. A professional ass"
+}

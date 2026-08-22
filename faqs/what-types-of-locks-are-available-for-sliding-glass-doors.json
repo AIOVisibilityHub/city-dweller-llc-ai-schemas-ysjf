@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-locks-are-available-for-sliding-glass-doors",
+  "name": "What types of locks are available for sliding glass doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of locks are available for sliding glass doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several types of locks are available for sliding glass doors to enhance security. These include basic mortise locks, which are built into the door frame; surface-mounted locks, which attach to the door's surface; and patio door locks with key access from both sides. For increased security, you can also opt for double-bolt locks, security bars, or smart locks that integrate with home automation systems. The best choice depends on your security needs and door type.",
+        "@type": "Answer",
+        "description": "Sliding glass door locks include mortise, surface-mounted, double-bolt, and smart locks. The best type depends on your security needs."
+      }
+    }
+  ],
+  "description": "Sliding glass door locks include mortise, surface-mounted, double-bolt, and smart locks. The best type depends on your security needs."
+}

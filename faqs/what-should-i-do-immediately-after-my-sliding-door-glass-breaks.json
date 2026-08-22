@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-do-immediately-after-my-sliding-door-glass-breaks",
+  "name": "What should I do immediately after my sliding door glass breaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after my sliding door glass breaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Safety is the top priority. First, secure the area to prevent injuries from broken glass. If possible, wear thick gloves and eye protection to carefully remove any large, loose shards. Cover the opening with a temporary material like plywood or heavy-duty plastic sheeting to maintain security and keep out weather until professional replacement can be arranged. Contact a qualified contractor promptly for assessment and repair.",
+        "@type": "Answer",
+        "description": "Immediately secure the area to prevent injuries and cover the opening with a temporary material. Contact a qualified contractor for repair."
+      }
+    }
+  ],
+  "description": "Immediately secure the area to prevent injuries and cover the opening with a temporary material. Contact a qualified contractor for repair."
+}

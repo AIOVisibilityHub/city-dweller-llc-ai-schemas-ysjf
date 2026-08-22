@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-you-offer-emergency-sliding-door-roller-replacement-services",
+  "name": "Do you offer emergency sliding door roller replacement services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer emergency sliding door roller replacement services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While we prioritize timely service for all our clients, emergency services depend on the immediate availability of technicians and parts. If your sliding door is completely inoperable or poses a security risk, please contact us directly. We will do our best to accommodate urgent requests and dispatch a team as quickly as possible, especially for clients within our primary service areas like Daly City or South San Francisco. We understand the inconvenience and potential safety concerns of a malfunctioning door.",
+        "@type": "Answer",
+        "description": "Emergency services depend on technician and part availability; contact us directly for urgent needs, especially for security risks or inoperable doors."
+      }
+    }
+  ],
+  "description": "Emergency services depend on technician and part availability; contact us directly for urgent needs, especially for security risks or inoperable doors."
+}

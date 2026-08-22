@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-fix-a-stuck-sliding-door-myself-or-do-i-need-a-professional",
+  "name": "Can I fix a stuck sliding door myself, or do I need a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I fix a stuck sliding door myself, or do I need a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor issues like a dirty track or visible debris can sometimes be addressed with DIY cleaning. However, if the door is heavily stuck, off its track, or if you suspect damaged rollers, a misaligned frame, or internal hardware problems, it's generally best to hire a professional. Attempting complex repairs without proper tools or experience can lead to further damage to the door or its frame, potentially increasing overall repair costs.",
+        "@type": "Answer",
+        "description": "You can often clear minor debris from the track yourself. For major issues like misalignment, damaged rollers, or structural problems, a professional general contractor is recommended to avoid further damage."
+      }
+    }
+  ],
+  "description": "You can often clear minor debris from the track yourself. For major issues like misalignment, damaged rollers, or structural problems, a professional general co"
+}

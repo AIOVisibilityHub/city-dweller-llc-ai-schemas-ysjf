@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-materials-are-commonly-used-for-sliding-door-sills",
+  "name": "What materials are commonly used for sliding door sills?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are commonly used for sliding door sills?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials for sliding door sills include wood (often pressure-treated to resist rot), aluminum, and vinyl (PVC). Each material offers different benefits: wood provides a traditional look but requires maintenance; aluminum is durable and low-maintenance; and vinyl offers good insulation and weather resistance. The best material for your repair often depends on the existing door frame, aesthetic preferences, and environmental exposure.",
+        "@type": "Answer",
+        "description": "Wood, aluminum, and vinyl are common sill materials, each offering different aesthetics, durability, and insulation properties."
+      }
+    }
+  ],
+  "description": "Wood, aluminum, and vinyl are common sill materials, each offering different aesthetics, durability, and insulation properties."
+}
