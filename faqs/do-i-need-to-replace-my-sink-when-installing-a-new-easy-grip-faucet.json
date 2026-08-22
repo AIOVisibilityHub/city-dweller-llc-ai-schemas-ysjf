@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-replace-my-sink-when-installing-a-new-easy-grip-faucet",
+  "name": "Do I need to replace my sink when installing a new easy grip faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace my sink when installing a new easy grip faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not necessarily. In most cases, if your current sink's faucet holes match the configuration of the new easy grip faucet, you can reuse your existing sink. However, if you're upgrading from a faucet with a different number of holes or a significantly different base size, you might need to consider a new sink or a deck plate to cover unused holes. Our technicians can assess your current setup to determine compatibility and recommend the best solution.",
+        "@type": "Answer",
+        "description": "Usually, you don't need to replace your sink if the new faucet's hole configuration matches. Our technicians can assess compatibility."
+      }
+    }
+  ],
+  "description": "Usually, you don't need to replace your sink if the new faucet's hole configuration matches. Our technicians can assess compatibility."
+}

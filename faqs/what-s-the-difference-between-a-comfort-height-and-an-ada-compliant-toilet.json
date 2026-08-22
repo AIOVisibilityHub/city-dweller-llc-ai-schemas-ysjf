@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-a-comfort-height-and-an-ada-compliant-toilet",
+  "name": "What's the difference between a comfort height and an ADA-compliant toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a comfort height and an ADA-compliant toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often used interchangeably, there's a subtle distinction. A comfort height toilet typically measures 17 to 19 inches from the floor to the top of the seat. An ADA-compliant toilet meets the specific standards of the Americans with Disabilities Act, requiring the top of the toilet seat to be 17 to 19 inches from the finished floor. All ADA-compliant toilets are comfort height, but not all comfort height toilets are necessarily ADA-compliant in every other aspect (e.g., flush mechanisms, grab bar clearances).",
+        "@type": "Answer",
+        "description": "Comfort height toilets are 17-19 inches high; ADA-compliant toilets meet this height requirement along with other specific accessibility standards."
+      }
+    }
+  ],
+  "description": "Comfort height toilets are 17-19 inches high; ADA-compliant toilets meet this height requirement along with other specific accessibility standards."
+}

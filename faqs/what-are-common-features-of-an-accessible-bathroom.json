@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-features-of-an-accessible-bathroom",
+  "name": "What are common features of an accessible bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common features of an accessible bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common features in an accessible bathroom include zero-threshold or roll-in showers, which eliminate barriers for wheelchair access. Grab bars are strategically placed near toilets and in showers for support. Wider doorways (typically 32-36 inches) ensure easy entry, and comfort-height toilets reduce strain when sitting or standing. Adjustable-height showerheads, lever-style faucets, and accessible vanity designs also contribute to a more functional space.",
+        "@type": "Answer",
+        "description": "Common features include roll-in showers, grab bars, wider doorways, comfort-height toilets, and accessible sink and faucet designs."
+      }
+    }
+  ],
+  "description": "Common features include roll-in showers, grab bars, wider doorways, comfort-height toilets, and accessible sink and faucet designs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-installing-a-raised-toilet",
+  "name": "What is the process for installing a raised toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing a raised toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process typically involves several steps. First, we remove your existing toilet and inspect the flange and surrounding floor. Then, the new raised toilet is carefully set, leveled, and secured to the floor. The water supply line is connected, and the tank is filled to check for leaks. Finally, the toilet seat is installed, and the unit is tested for proper flushing. Our team ensures a clean and efficient installation with minimal disruption to your home.",
+        "@type": "Answer",
+        "description": "The process involves removing the old toilet, setting and securing the new raised toilet, connecting the water supply, and testing for proper function."
+      }
+    }
+  ],
+  "description": "The process involves removing the old toilet, setting and securing the new raised toilet, connecting the water supply, and testing for proper function."
+}

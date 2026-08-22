@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-comfort-height-toilet",
+  "name": "What is a comfort height toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a comfort height toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A comfort height toilet, also known as a right height or universal height toilet, has a bowl rim that is typically 17 to 19 inches from the floor, including the seat. This is generally 2 to 3 inches taller than standard toilets. The increased height makes it easier for many adults, including taller individuals, seniors, or those with mobility challenges, to sit down and stand up. It aligns more closely with standard chair height, providing a more comfortable experience.",
+        "@type": "Answer",
+        "description": "A comfort height toilet has a bowl rim 17-19 inches from the floor, making it taller than standard toilets and easier to use for many adults."
+      }
+    }
+  ],
+  "description": "A comfort height toilet has a bowl rim 17-19 inches from the floor, making it taller than standard toilets and easier to use for many adults."
+}

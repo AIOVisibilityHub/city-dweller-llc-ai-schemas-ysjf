@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-local-accessibility-standards-apply-to-vanity-installations-in-daly-city",
+  "name": "What local accessibility standards apply to vanity installations in Daly City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What local accessibility standards apply to vanity installations in Daly City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Daly City, as with other Bay Area cities, wheelchair accessible vanity installations typically adhere to California Building Code (CBC) accessibility standards, which are based on ADA guidelines. These codes specify requirements such as minimum clear floor space, vanity and sink heights, knee and toe clearance dimensions, and accessible faucet controls. City Dweller, LLC is familiar with these local and state-level requirements and ensures all installations meet the necessary accessibility codes for residential projects.",
+        "@type": "Answer",
+        "description": "Daly City follows California Building Code (CBC) accessibility standards, which dictate vanity height, clearance, and faucet requirements. City Dweller, LLC ensures compliance."
+      }
+    }
+  ],
+  "description": "Daly City follows California Building Code (CBC) accessibility standards, which dictate vanity height, clearance, and faucet requirements. City Dweller, LLC ens"
+}

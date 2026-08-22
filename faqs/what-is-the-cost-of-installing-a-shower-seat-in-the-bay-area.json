@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-cost-of-installing-a-shower-seat-in-the-bay-area",
+  "name": "What is the cost of installing a shower seat in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of installing a shower seat in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of installing a shower seat in the Bay Area varies widely based on the seat type, materials, and labor complexity. A basic wall-mounted, fold-down seat might range from a few hundred dollars for the seat itself plus installation. Custom built-in bench seats, especially those requiring tiling or structural modifications, can cost significantly more, potentially running into thousands of dollars depending on the materials and extensive labor involved. We recommend scheduling a consultation for an accurate, personalized quote tailored to your specific needs and the unique conditions of your home in our service areas.",
+        "@type": "Answer",
+        "description": "Installation costs in the Bay Area vary based on seat type and complexity, from hundreds for basic models to thousands for custom built-in seats."
+      }
+    }
+  ],
+  "description": "Installation costs in the Bay Area vary based on seat type and complexity, from hundreds for basic models to thousands for custom built-in seats."
+}

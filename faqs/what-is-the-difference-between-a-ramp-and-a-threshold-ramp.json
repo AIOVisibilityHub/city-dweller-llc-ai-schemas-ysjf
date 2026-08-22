@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-a-ramp-and-a-threshold-ramp",
+  "name": "What is the difference between a ramp and a threshold ramp?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a ramp and a threshold ramp?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A ramp is a sloped surface connecting two different levels, typically used for larger elevation changes, such as accessing a home's entrance or moving between floors. They can be portable or permanently installed and vary in length and gradient. A threshold ramp, on the other hand, is a smaller, often portable or semi-permanent ramp specifically designed to smooth the transition over door thresholds, raised flooring, or small steps. Threshold ramps minimize tripping hazards and allow for easier passage for walkers without requiring significant construction.",
+        "@type": "Answer",
+        "description": "A ramp connects different levels for larger elevation changes, while a threshold ramp provides a smooth transition over small door sills or raised flooring."
+      }
+    }
+  ],
+  "description": "A ramp connects different levels for larger elevation changes, while a threshold ramp provides a smooth transition over small door sills or raised flooring."
+}

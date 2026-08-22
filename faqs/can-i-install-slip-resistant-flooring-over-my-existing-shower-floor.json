@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-install-slip-resistant-flooring-over-my-existing-shower-floor",
+  "name": "Can I install slip-resistant flooring over my existing shower floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install slip-resistant flooring over my existing shower floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, installing new slip-resistant flooring directly over existing shower flooring is not recommended. For proper water sealing, drainage, and structural integrity, the old flooring and possibly the subfloor often need to be removed. This allows for proper inspection of the shower pan and slope, addressing any underlying issues, and ensuring a waterproof installation. A professional assessment by a contractor will determine the best approach for your specific shower.",
+        "@type": "Answer",
+        "description": "Installing new slip-resistant flooring usually requires removing the old shower floor to ensure proper sealing and drainage."
+      }
+    }
+  ],
+  "description": "Installing new slip-resistant flooring usually requires removing the old shower floor to ensure proper sealing and drainage."
+}

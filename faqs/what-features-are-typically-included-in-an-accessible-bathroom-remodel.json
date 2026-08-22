@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-features-are-typically-included-in-an-accessible-bathroom-remodel",
+  "name": "What features are typically included in an accessible bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What features are typically included in an accessible bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common features include curbless or roll-in showers with grab bars and built-in seating, comfort-height toilets, reinforced walls for future grab bar installation, non-slip flooring, and lever-style faucets for easier operation. Other considerations are adjustable or wall-mounted sinks with clear knee space, wider doors, and improved lighting. The specific features depend on individual needs and the bathroom's layout.",
+        "@type": "Answer",
+        "description": "Typical features include roll-in showers, grab bars, comfort-height toilets, non-slip flooring, lever faucets, and accessible sinks."
+      }
+    }
+  ],
+  "description": "Typical features include roll-in showers, grab bars, comfort-height toilets, non-slip flooring, lever faucets, and accessible sinks."
+}

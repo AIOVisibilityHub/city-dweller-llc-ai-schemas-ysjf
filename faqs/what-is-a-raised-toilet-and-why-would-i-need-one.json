@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-raised-toilet-and-why-would-i-need-one",
+  "name": "What is a raised toilet and why would I need one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a raised toilet and why would I need one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A raised toilet, also known as a comfort height or ADA compliant toilet, has a bowl that sits higher than standard models, typically 17 to 19 inches from the floor to the top of the seat. This increased height makes sitting down and standing up easier, reducing strain on knees and backs. They are often chosen for bathrooms used by seniors, individuals with mobility challenges, or anyone seeking greater comfort. We frequently install these for clients in the Bay Area looking to improve accessibility in their homes.",
+        "@type": "Answer",
+        "description": "A raised toilet has a higher bowl for easier sitting and standing, often chosen for accessibility and comfort, especially for seniors or those with mobility issues."
+      }
+    }
+  ],
+  "description": "A raised toilet has a higher bowl for easier sitting and standing, often chosen for accessibility and comfort, especially for seniors or those with mobility iss"
+}

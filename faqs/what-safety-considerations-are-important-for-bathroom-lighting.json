@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-safety-considerations-are-important-for-bathroom-lighting",
+  "name": "What safety considerations are important for bathroom lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What safety considerations are important for bathroom lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Safety in bathroom lighting is paramount due to the presence of water. It's crucial to use fixtures specifically rated for damp or wet locations, especially near showers and bathtubs. All electrical outlets in bathrooms must be on Ground Fault Circuit Interrupter (GFCI) protected circuits to prevent electric shock. Proper installation by a licensed electrician is essential to ensure all wiring meets local codes and national safety standards, minimizing risks associated with humidity and potential water exposure.",
+        "@type": "Answer",
+        "description": "Important safety considerations for bathroom lighting include using fixtures rated for damp/wet locations, ensuring all outlets are GFCI-protected, and having a licensed electrician perform installations to meet codes."
+      }
+    }
+  ],
+  "description": "Important safety considerations for bathroom lighting include using fixtures rated for damp/wet locations, ensuring all outlets are GFCI-protected, and having a"
+}

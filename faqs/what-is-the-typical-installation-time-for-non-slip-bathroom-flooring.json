@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-installation-time-for-non-slip-bathroom-flooring",
+  "name": "What is the typical installation time for non-slip bathroom flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical installation time for non-slip bathroom flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation time for non-slip bathroom flooring varies based on the material, the size of the bathroom, and the existing subfloor conditions. For a standard-sized bathroom (e.g., 50-100 sq ft), a tile installation, including subfloor preparation, laying tiles, and grouting, can take 2-4 days. Luxury vinyl plank or tile (LVP/LVT) typically has a quicker installation, often completed in 1-2 days, as it usually doesn't require extensive drying times like grout. Complex layouts, demolition of old flooring, or extensive subfloor repairs will naturally extend the project timeline. A detailed estimate from your contractor will provide a more precise schedule.",
+        "@type": "Answer",
+        "description": "Installation time varies by material; tile work might take 2-4 days, while LVP/LVT can often be installed in 1-2 days, depending on bathroom size and complexity."
+      }
+    }
+  ],
+  "description": "Installation time varies by material; tile work might take 2-4 days, while LVP/LVT can often be installed in 1-2 days, depending on bathroom size and complexity"
+}

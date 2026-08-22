@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-a-fold-down-shower-seat-be-installed-on-any-shower-wall",
+  "name": "Can a fold-down shower seat be installed on any shower wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a fold-down shower seat be installed on any shower wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, a fold-down shower seat cannot be installed on just any shower wall without proper assessment. The wall must be structurally sound and capable of supporting the seat's weight capacity, including the user's weight. This often requires secure mounting to wall studs or blocking installed behind the wall surface. Drywall alone is insufficient. For tiled walls, careful drilling and proper sealing are necessary to prevent water intrusion. A professional evaluation is crucial to ensure safe and durable installation.",
+        "@type": "Answer",
+        "description": "No, the shower wall must be structurally sound and reinforced, typically by mounting to studs or blocking, to safely support the seat and user's weight. Drywall is not sufficient."
+      }
+    }
+  ],
+  "description": "No, the shower wall must be structurally sound and reinforced, typically by mounting to studs or blocking, to safely support the seat and user's weight. Drywall"
+}

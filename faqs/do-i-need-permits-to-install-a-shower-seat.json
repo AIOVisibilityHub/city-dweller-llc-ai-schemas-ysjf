@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-permits-to-install-a-shower-seat",
+  "name": "Do I need permits to install a shower seat?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits to install a shower seat?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, installing a basic wall-mounted or freestanding shower seat does not require a permit. However, if the installation involves significant structural changes to your bathroom, such as altering load-bearing walls, reconfiguring plumbing, or major electrical work, then permits might be necessary. Custom built-in bench seats that require extensive demolition and reconstruction could also fall under permit requirements, particularly in areas like the Bay Area with stringent building codes. Our team can advise you on any potential permit needs during the initial consultation.",
+        "@type": "Answer",
+        "description": "Basic shower seat installations usually don't need permits. Major structural changes, plumbing, or electrical work, or custom built-ins, may require permits."
+      }
+    }
+  ],
+  "description": "Basic shower seat installations usually don't need permits. Major structural changes, plumbing, or electrical work, or custom built-ins, may require permits."
+}

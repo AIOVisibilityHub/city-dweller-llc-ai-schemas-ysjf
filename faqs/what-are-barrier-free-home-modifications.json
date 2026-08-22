@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-barrier-free-home-modifications",
+  "name": "What are barrier-free home modifications?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are barrier-free home modifications?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Barrier-free home modifications are changes made to a residence to improve accessibility and safety for individuals with mobility challenges, disabilities, or those aging in place. These modifications often focus on removing obstacles and creating a more functional living environment. Examples include widening doorways, installing ramps, modifying bathrooms with grab bars and roll-in showers, and adjusting kitchen counter heights. The goal is to allow residents to move freely and independently within their homes without encountering physical barriers, enhancing their quality of life and prolonging their ability to live comfortably at home.",
+        "@type": "Answer",
+        "description": "Barrier-free home modifications are changes to a residence that improve accessibility and safety for individuals with mobility challenges or disabilities, enabling independent living."
+      }
+    }
+  ],
+  "description": "Barrier-free home modifications are changes to a residence that improve accessibility and safety for individuals with mobility challenges or disabilities, enabl"
+}

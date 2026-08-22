@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-permit-for-accessible-vanity-installation-in-cities-like-daly-city-o",
+  "name": "Do I need a permit for accessible vanity installation in cities like Daly City or San Bruno?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for accessible vanity installation in cities like Daly City or San Bruno?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need a permit for an accessible vanity installation in cities like Daly City or San Bruno depends on the scope of the work. Minor replacements that don't involve significant plumbing changes or structural alterations typically do not require a permit. However, if the installation involves relocating plumbing lines, altering load-bearing walls, or changing the bathroom layout, a permit will likely be necessary. City Dweller, LLC can help you determine permit requirements for your specific project.",
+        "@type": "Answer",
+        "description": "Permits are usually needed in Daly City or San Bruno if installation involves significant plumbing changes, structural alterations, or layout modifications, but not for minor replacements."
+      }
+    }
+  ],
+  "description": "Permits are usually needed in Daly City or San Bruno if installation involves significant plumbing changes, structural alterations, or layout modifications, but"
+}

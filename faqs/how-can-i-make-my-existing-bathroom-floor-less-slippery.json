@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-make-my-existing-bathroom-floor-less-slippery",
+  "name": "How can I make my existing bathroom floor less slippery?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I make my existing bathroom floor less slippery?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To make an existing bathroom floor less slippery, several methods can be employed without replacing the entire floor. Anti-slip treatments or coatings can be applied to ceramic, porcelain, or natural stone tiles, creating a microscopic textured surface that increases friction when wet. Non-slip mats or rugs with rubberized backings are a straightforward solution for specific areas, like in front of sinks or showers. For bathtubs and showers, adhesive non-slip strips or textured mats can be installed directly onto the surface. Regular cleaning also helps, as soap scum and mineral deposits can make surfaces more slick.",
+        "@type": "Answer",
+        "description": "You can use anti-slip coatings, non-slip mats, adhesive strips for tubs/showers, or ensure regular cleaning to reduce slipperiness."
+      }
+    }
+  ],
+  "description": "You can use anti-slip coatings, non-slip mats, adhesive strips for tubs/showers, or ensure regular cleaning to reduce slipperiness."
+}

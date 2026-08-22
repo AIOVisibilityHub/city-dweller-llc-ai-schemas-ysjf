@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-my-current-handheld-showerhead",
+  "name": "When should I consider replacing my current handheld showerhead?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my current handheld showerhead?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your handheld showerhead if you notice persistent leaks from the head or hose, significant drops in water pressure that aren't due to other plumbing issues, or visible damage like cracks or corrosion. Additionally, if mineral buildup is severe and no longer responds to cleaning, or if you simply wish to upgrade to a more water-efficient model, a new design, or one with improved features, it's a good time for replacement. Our contractors can help assess its condition.",
+        "@type": "Answer",
+        "description": "Replace your handheld showerhead if you have persistent leaks, low pressure, visible damage, or severe mineral buildup. Consider upgrading for better features or efficiency."
+      }
+    }
+  ],
+  "description": "Replace your handheld showerhead if you have persistent leaks, low pressure, visible damage, or severe mineral buildup. Consider upgrading for better features o"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-building-permit-to-install-a-raised-toilet-in-south-san-francisco",
+  "name": "Do I need a building permit to install a raised toilet in South San Francisco?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit to install a raised toilet in South San Francisco?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, replacing an existing toilet with a new one of the same type and in the same location does not require a building permit in South San Francisco or surrounding Bay Area cities. However, if the installation involves relocating the toilet, altering the plumbing system significantly, or making structural changes to the bathroom, a permit may be necessary. It's always best to consult with your contractor or the local building department to confirm permit requirements for your specific project.",
+        "@type": "Answer",
+        "description": "Replacing a toilet in the same location typically does not require a permit in South San Francisco, but relocation or significant plumbing changes might."
+      }
+    }
+  ],
+  "description": "Replacing a toilet in the same location typically does not require a permit in South San Francisco, but relocation or significant plumbing changes might."
+}

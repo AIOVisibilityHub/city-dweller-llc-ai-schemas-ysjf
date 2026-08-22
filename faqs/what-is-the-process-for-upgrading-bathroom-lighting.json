@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-upgrading-bathroom-lighting",
+  "name": "What is the process for upgrading bathroom lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for upgrading bathroom lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for upgrading bathroom lighting typically begins with a consultation to assess your needs and design preferences. Next, the contractor will provide an estimate. Once approved, existing fixtures may be removed. New wiring might be installed or modified, followed by the installation of new fixtures, switches, and dimmers. Finally, electrical connections are tested to ensure safety and functionality. The process duration depends on the complexity of the upgrade.",
+        "@type": "Answer",
+        "description": "Bathroom lighting upgrades involve consultation, estimate, old fixture removal, new wiring installation, fixture placement, and final electrical testing."
+      }
+    }
+  ],
+  "description": "Bathroom lighting upgrades involve consultation, estimate, old fixture removal, new wiring installation, fixture placement, and final electrical testing."
+}

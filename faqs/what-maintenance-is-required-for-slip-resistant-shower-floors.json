@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-maintenance-is-required-for-slip-resistant-shower-floors",
+  "name": "What maintenance is required for slip-resistant shower floors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for slip-resistant shower floors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance for slip-resistant shower floors typically involves regular cleaning with mild, pH-neutral cleaners to prevent soap scum and mold buildup. Due to their textured nature, some surfaces might benefit from occasional scrubbing with a soft brush to dislodge deposits from grooves. Avoid abrasive cleaners or harsh chemicals that could damage the surface or compromise its slip-resistant properties. Proper ventilation and wiping down the shower after use also help maintain its condition.",
+        "@type": "Answer",
+        "description": "Maintain slip-resistant shower floors with regular cleaning using mild cleaners and a soft brush, avoiding harsh chemicals."
+      }
+    }
+  ],
+  "description": "Maintain slip-resistant shower floors with regular cleaning using mild cleaners and a soft brush, avoiding harsh chemicals."
+}

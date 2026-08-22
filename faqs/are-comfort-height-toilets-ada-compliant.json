@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-comfort-height-toilets-ada-compliant",
+  "name": "Are comfort height toilets ADA compliant?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are comfort height toilets ADA compliant?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many comfort height toilets are designed to meet ADA (Americans with Disabilities Act) guidelines for toilet height, which specifies a seat height of 17 to 19 inches from the floor. However, ADA compliance involves more than just toilet height; it also considers clear floor space, grab bar placement, and faucet accessibility. While a comfort height toilet is a key component, achieving full ADA compliance for a bathroom requires a comprehensive assessment of the entire space. We can help guide you through these requirements.",
+        "@type": "Answer",
+        "description": "Many comfort height toilets meet ADA height guidelines (17-19 inches), but full ADA compliance for a bathroom involves more than just toilet height."
+      }
+    }
+  ],
+  "description": "Many comfort height toilets meet ADA height guidelines (17-19 inches), but full ADA compliance for a bathroom involves more than just toilet height."
+}

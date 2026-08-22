@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-whole-home-accessibility-upgrade",
+  "name": "What is a whole home accessibility upgrade?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a whole home accessibility upgrade?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A whole home accessibility upgrade involves modifying a residence to improve ease of use and safety for individuals with varying mobility needs. This can include features like widened doorways, ramp installations, grab bars in bathrooms, roll-in showers, stairlifts, and kitchen modifications for easier access. The goal is to create an environment where all areas of the home are comfortably and safely accessible for everyone, promoting independence and comfort.",
+        "@type": "Answer",
+        "description": "A whole home accessibility upgrade modifies a residence to improve ease of use and safety for individuals with varying mobility needs. It includes features like widened doorways, ramps, and bathroom modifications."
+      }
+    }
+  ],
+  "description": "A whole home accessibility upgrade modifies a residence to improve ease of use and safety for individuals with varying mobility needs. It includes features like"
+}

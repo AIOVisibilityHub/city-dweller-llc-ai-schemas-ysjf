@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-makes-a-bathroom-vanity-wheelchair-accessible",
+  "name": "What makes a bathroom vanity wheelchair accessible?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What makes a bathroom vanity wheelchair accessible?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A wheelchair accessible vanity is designed to provide unobstructed space underneath, allowing a wheelchair user to roll directly up to the sink. Key features include a minimum of 27 inches of clear knee space height, 30 inches width, and 17 inches depth. Plumbing pipes are typically hidden or insulated to prevent burns, and the sink rim is usually set at a maximum height of 34 inches from the floor, often with an open base cabinet or wall-mounted design. This ensures comfortable and safe use for individuals using wheelchairs.",
+        "@type": "Answer",
+        "description": "A wheelchair accessible vanity provides open space beneath the sink for wheelchair users, with specific height and depth requirements, and often insulated plumbing."
+      }
+    }
+  ],
+  "description": "A wheelchair accessible vanity provides open space beneath the sink for wheelchair users, with specific height and depth requirements, and often insulated plumb"
+}

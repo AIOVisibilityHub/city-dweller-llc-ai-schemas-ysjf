@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-there-any-grants-or-financial-assistance-programs-for-accessible-bathroom-re",
+  "name": "Are there any grants or financial assistance programs for accessible bathroom renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any grants or financial assistance programs for accessible bathroom renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While direct grants for general home accessibility renovations can be limited, some programs may offer assistance. Veterans may qualify for VA grants like the HISA program. Low-income individuals or seniors might find aid through local non-profit organizations or state housing programs. It's recommended to research programs specific to California and the Bay Area, and consult with organizations focused on disability or senior support. Your contractor might also be aware of relevant local resources.",
+        "@type": "Answer",
+        "description": "Veterans may qualify for VA grants, and local non-profits or state programs might assist low-income individuals or seniors with accessible renovations. Research California-specific options."
+      }
+    }
+  ],
+  "description": "Veterans may qualify for VA grants, and local non-profits or state programs might assist low-income individuals or seniors with accessible renovations. Research"
+}

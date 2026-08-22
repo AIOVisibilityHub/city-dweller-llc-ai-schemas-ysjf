@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-involved-in-the-process-of-widening-a-bathroom-doorway",
+  "name": "What is involved in the process of widening a bathroom doorway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the process of widening a bathroom doorway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process of widening a bathroom doorway typically starts with an assessment of the existing wall to determine if it's load-bearing. If it is, structural modifications like installing a new header will be necessary. Next, the existing door frame and surrounding drywall are removed. The rough opening is then expanded to the desired width, framed, and new drywall installed. Finally, the area is finished with new trim, paint, and a wider door and frame are fitted. Dust control and protection of surrounding areas are also key steps.",
+        "@type": "Answer",
+        "description": "The process involves assessing the wall, removing the old frame, expanding the opening, framing, installing new drywall and trim, then fitting a wider door."
+      }
+    }
+  ],
+  "description": "The process involves assessing the wall, removing the old frame, expanding the opening, framing, installing new drywall and trim, then fitting a wider door."
+}

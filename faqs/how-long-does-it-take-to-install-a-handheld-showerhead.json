@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-install-a-handheld-showerhead",
+  "name": "How long does it take to install a handheld showerhead?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a handheld showerhead?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required for handheld showerhead installation can vary. A straightforward replacement on an existing shower arm often takes between 30 minutes to an hour for an experienced professional. If plumbing modifications are necessary, such as installing a new wall bracket that requires drilling into tile or rerouting pipes, the process could extend to several hours. For a general contractor, most standard installations are completed within a single service visit.",
+        "@type": "Answer",
+        "description": "Standard installation takes 30 minutes to an hour. More complex installations with plumbing modifications can take several hours."
+      }
+    }
+  ],
+  "description": "Standard installation takes 30 minutes to an hour. More complex installations with plumbing modifications can take several hours."
+}

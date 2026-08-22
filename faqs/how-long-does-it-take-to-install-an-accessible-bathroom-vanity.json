@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-install-an-accessible-bathroom-vanity",
+  "name": "How long does it take to install an accessible bathroom vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install an accessible bathroom vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation timeframe for an accessible bathroom vanity typically ranges from one to three days. This can vary based on several factors, including whether existing plumbing needs significant modification, the type of vanity being installed (pre-built vs. custom), and if any wall alterations are required. Simple replacements can be quicker, while more complex projects involving new plumbing lines or structural changes will take longer. We provide a timeline estimate after assessing your specific project.",
+        "@type": "Answer",
+        "description": "Installation usually takes 1-3 days, depending on plumbing modifications, vanity type, and any required wall alterations. Simple replacements are quicker."
+      }
+    }
+  ],
+  "description": "Installation usually takes 1-3 days, depending on plumbing modifications, vanity type, and any required wall alterations. Simple replacements are quicker."
+}

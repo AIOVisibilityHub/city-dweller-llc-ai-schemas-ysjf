@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-ensure-an-accessible-vanity-meets-ada-compliance",
+  "name": "How do I ensure an accessible vanity meets ADA compliance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I ensure an accessible vanity meets ADA compliance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To ensure an accessible vanity meets ADA compliance, pay close attention to specific measurements for clear floor space (30x48 inches minimum in front of the vanity), knee and toe clearance (at least 27 inches high, 30 inches wide, 17 inches deep under the sink), and countertop height (between 28-34 inches from the floor). Faucets and other controls should be easily operable with one hand without tight grasping, pinching, or twisting of the wrist. Consulting with a contractor experienced in ADA guidelines, such as City Dweller, LLC, is crucial.",
+        "@type": "Answer",
+        "description": "Ensure ADA compliance by checking clear floor space, knee and toe clearance (27x30x17 inches minimum), 28-34 inch countertop height, and easy-to-operate faucets. Consult an experienced contractor."
+      }
+    }
+  ],
+  "description": "Ensure ADA compliance by checking clear floor space, knee and toe clearance (27x30x17 inches minimum), 28-34 inch countertop height, and easy-to-operate faucets"
+}

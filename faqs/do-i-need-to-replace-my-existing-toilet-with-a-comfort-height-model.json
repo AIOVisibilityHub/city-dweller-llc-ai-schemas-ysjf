@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-replace-my-existing-toilet-with-a-comfort-height-model",
+  "name": "Do I need to replace my existing toilet with a comfort height model?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace my existing toilet with a comfort height model?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You don't always need to replace your existing toilet with a comfort height model, but it's often recommended for improved comfort and accessibility. If you or someone in your household experiences difficulty sitting down or standing up from a standard height toilet, or if you are planning to age in place, a comfort height toilet can significantly enhance bathroom usability. It's also a common upgrade during bathroom remodels to align with modern accessibility standards.",
+        "@type": "Answer",
+        "description": "You don't always need to, but it's recommended for improved comfort and accessibility, especially if you have mobility issues or are planning to age in place."
+      }
+    }
+  ],
+  "description": "You don't always need to, but it's recommended for improved comfort and accessibility, especially if you have mobility issues or are planning to age in place."
+}

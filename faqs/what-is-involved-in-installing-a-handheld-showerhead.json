@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-involved-in-installing-a-handheld-showerhead",
+  "name": "What is involved in installing a handheld showerhead?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in installing a handheld showerhead?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a handheld showerhead typically involves removing the existing showerhead and then attaching the new handheld unit. This process usually includes connecting the shower arm to a new diverter valve, which allows you to switch between the main showerhead and the handheld unit, or directly to the handheld hose. Proper sealing of connections is crucial to prevent leaks. In some cases, if the existing shower arm isn't compatible or if a new location for the handheld unit's wall bracket is desired, minor plumbing adjustments might be needed.",
+        "@type": "Answer",
+        "description": "Installation involves removing the old showerhead, connecting a new diverter or hose, and securing the handheld unit's bracket. Proper sealing is essential."
+      }
+    }
+  ],
+  "description": "Installation involves removing the old showerhead, connecting a new diverter or hose, and securing the handheld unit's bracket. Proper sealing is essential."
+}

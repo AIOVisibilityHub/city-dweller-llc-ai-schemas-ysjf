@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-ensure-the-vanity-height-is-correct-for-my-specific-needs",
+  "name": "How do I ensure the vanity height is correct for my specific needs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I ensure the vanity height is correct for my specific needs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ensuring the correct vanity height is crucial for comfortable and independent use. While accessibility guidelines provide a maximum sink rim height of 34 inches, the ideal height can vary based on the individual's wheelchair and personal preference. We recommend measuring the user's lap height and arm reach while seated in their wheelchair to determine the most ergonomic and functional height. During our consultation, we can help you assess these measurements to customize the installation to your specific requirements.",
+        "@type": "Answer",
+        "description": "Measure the user's lap height and arm reach while in their wheelchair to determine the most ergonomic vanity height. We assist with these measurements during consultation."
+      }
+    }
+  ],
+  "description": "Measure the user's lap height and arm reach while in their wheelchair to determine the most ergonomic vanity height. We assist with these measurements during co"
+}

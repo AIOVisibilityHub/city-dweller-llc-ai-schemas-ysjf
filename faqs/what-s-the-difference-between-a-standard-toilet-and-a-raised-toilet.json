@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-a-standard-toilet-and-a-raised-toilet",
+  "name": "What's the difference between a standard toilet and a raised toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a standard toilet and a raised toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary difference lies in the height of the toilet bowl. A standard toilet typically measures around 14 to 15 inches from the floor to the top of the bowl (without the seat), whereas a raised toilet, also known as comfort height, is usually 16.5 to 17.5 inches high. This seemingly small difference makes a significant impact on ease of use, especially for taller individuals, seniors, or those with limited mobility, providing a more comfortable and accessible experience.",
+        "@type": "Answer",
+        "description": "The main difference is height: standard toilets are 14-15 inches, while raised (comfort height) toilets are 16.5-17.5 inches, offering easier use."
+      }
+    }
+  ],
+  "description": "The main difference is height: standard toilets are 14-15 inches, while raised (comfort height) toilets are 16.5-17.5 inches, offering easier use."
+}

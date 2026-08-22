@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-an-accessible-bathroom-remodel",
+  "name": "When should I consider an accessible bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider an accessible bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider an accessible bathroom remodel if you or a family member face mobility challenges, plan to age in place, or want to enhance safety and convenience for all users. It's also beneficial for proactive planning, improving home value, and ensuring your bathroom meets current accessibility standards, especially if you anticipate future needs or host guests with mobility issues.",
+        "@type": "Answer",
+        "description": "Consider a remodel for current or anticipated mobility needs, aging in place, enhanced safety, or to improve home accessibility and value."
+      }
+    }
+  ],
+  "description": "Consider a remodel for current or anticipated mobility needs, aging in place, enhanced safety, or to improve home accessibility and value."
+}

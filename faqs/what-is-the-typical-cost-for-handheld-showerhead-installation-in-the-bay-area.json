@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-for-handheld-showerhead-installation-in-the-bay-area",
+  "name": "What is the typical cost for handheld showerhead installation in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for handheld showerhead installation in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for handheld showerhead installation in the Bay Area varies depending on the complexity of the job. A basic replacement typically ranges from $150 to $300 for labor, excluding the cost of the showerhead itself. This includes removing the old unit and installing a new one using existing plumbing. If new plumbing lines are needed, or if drilling into tile is required for a new wall mount, the cost can increase due to additional labor and materials. We provide detailed estimates after an initial assessment.",
+        "@type": "Answer",
+        "description": "Basic installation costs $150-$300 for labor. Prices increase for complex jobs needing new plumbing or drilling into tile."
+      }
+    }
+  ],
+  "description": "Basic installation costs $150-$300 for labor. Prices increase for complex jobs needing new plumbing or drilling into tile."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-an-accessible-bathroom-renovation",
+  "name": "What is an accessible bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an accessible bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An accessible bathroom renovation modifies a standard bathroom to be safer and more convenient for individuals with mobility challenges or disabilities. This can include features like roll-in showers, grab bars, wider doorways, comfort-height toilets, and accessible sink designs. The goal is to create a functional and independent bathing experience, often adhering to universal design principles to benefit everyone.",
+        "@type": "Answer",
+        "description": "An accessible bathroom renovation modifies a standard bathroom for safety and ease of use by individuals with mobility challenges, incorporating features like roll-in showers and grab bars."
+      }
+    }
+  ],
+  "description": "An accessible bathroom renovation modifies a standard bathroom for safety and ease of use by individuals with mobility challenges, incorporating features like r"
+}

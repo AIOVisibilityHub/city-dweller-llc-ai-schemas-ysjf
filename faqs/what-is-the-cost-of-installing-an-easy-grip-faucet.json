@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-cost-of-installing-an-easy-grip-faucet",
+  "name": "What is the cost of installing an easy grip faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of installing an easy grip faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of installing an easy grip faucet depends on several factors, including the complexity of the existing plumbing, whether modifications are needed, and the specific faucet model you choose. It also includes labor and any necessary parts beyond the faucet itself. We provide clear, itemized quotes after an initial assessment. For residents in our service areas like Pacifica or Daly City, we can offer a detailed estimate once we understand your specific needs.",
+        "@type": "Answer",
+        "description": "Installation cost varies based on plumbing complexity and faucet type. We provide detailed quotes after an assessment in our Bay Area service areas."
+      }
+    }
+  ],
+  "description": "Installation cost varies based on plumbing complexity and faucet type. We provide detailed quotes after an assessment in our Bay Area service areas."
+}

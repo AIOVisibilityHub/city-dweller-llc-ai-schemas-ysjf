@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-making-my-bathroom-accessible",
+  "name": "When should I consider making my bathroom accessible?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider making my bathroom accessible?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider making your bathroom accessible if you or a family member are experiencing mobility challenges, planning for future aging-in-place needs, or recovering from an injury that limits movement. Proactive modifications can prevent falls and improve daily living quality. It's also beneficial if you anticipate needing a wheelchair or walker, ensuring your home remains safe and functional long-term.",
+        "@type": "Answer",
+        "description": "Consider accessibility modifications when facing mobility challenges, planning for aging-in-place, or recovering from an injury to improve safety and daily living."
+      }
+    }
+  ],
+  "description": "Consider accessibility modifications when facing mobility challenges, planning for aging-in-place, or recovering from an injury to improve safety and daily livi"
+}

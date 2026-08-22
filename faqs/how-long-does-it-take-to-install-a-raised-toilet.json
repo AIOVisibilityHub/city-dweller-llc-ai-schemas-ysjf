@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-install-a-raised-toilet",
+  "name": "How long does it take to install a raised toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a raised toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard raised toilet installation, replacing an existing toilet without significant plumbing modifications, typically takes 2 to 4 hours. This timeframe includes removing the old unit, preparing the area, and installing and testing the new toilet. If additional work is needed, such as relocating water lines or repairing floor damage, the project could take longer. We aim to complete the work efficiently while ensuring quality for our clients across the Bay Area.",
+        "@type": "Answer",
+        "description": "A standard installation usually takes 2 to 4 hours. This can be longer if significant plumbing modifications or repairs are needed."
+      }
+    }
+  ],
+  "description": "A standard installation usually takes 2 to 4 hours. This can be longer if significant plumbing modifications or repairs are needed."
+}

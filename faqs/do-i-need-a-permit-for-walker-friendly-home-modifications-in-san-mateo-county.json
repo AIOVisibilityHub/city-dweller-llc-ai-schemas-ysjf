@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-permit-for-walker-friendly-home-modifications-in-san-mateo-county",
+  "name": "Do I need a permit for walker-friendly home modifications in San Mateo County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for walker-friendly home modifications in San Mateo County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need a permit for walker-friendly home modifications in San Mateo County depends on the type and extent of the work. Minor modifications like installing grab bars, widening non-load-bearing doorways, or adding temporary ramps generally do not require permits. However, projects involving structural changes, significant plumbing or electrical work, altering exterior walls, or constructing permanent ramps that affect property lines or public access typically do require permits. City Dweller, LLC can help determine if your specific modifications require a permit and assist with the application process.",
+        "@type": "Answer",
+        "description": "Permit requirements in San Mateo County depend on the work's scope. Minor changes usually don't need one, but structural, plumbing, or major exterior alterations typically do."
+      }
+    }
+  ],
+  "description": "Permit requirements in San Mateo County depend on the work's scope. Minor changes usually don't need one, but structural, plumbing, or major exterior alteration"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-there-any-financial-assistance-programs-for-accessible-bathroom-renovations",
+  "name": "Are there any financial assistance programs for accessible bathroom renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any financial assistance programs for accessible bathroom renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While City Dweller, LLC does not offer direct financial assistance, there are potential programs that may help offset the cost of an accessible bathroom renovation. These can include grants for veterans, state or local disability programs, or certain Medicaid waivers. Some homeowners may also explore home equity loans or medical expense deductions. We recommend researching options specific to your situation or consulting with a financial advisor.",
+        "@type": "Answer",
+        "description": "We don't offer direct financial aid, but potential options include grants for veterans, state disability programs, or home equity loans. Researching local programs is recommended."
+      }
+    }
+  ],
+  "description": "We don't offer direct financial aid, but potential options include grants for veterans, state disability programs, or home equity loans. Researching local progr"
+}

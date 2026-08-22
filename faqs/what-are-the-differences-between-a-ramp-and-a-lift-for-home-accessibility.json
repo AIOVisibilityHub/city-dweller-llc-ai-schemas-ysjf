@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-differences-between-a-ramp-and-a-lift-for-home-accessibility",
+  "name": "What are the differences between a ramp and a lift for home accessibility?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the differences between a ramp and a lift for home accessibility?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ramps provide a sloped surface for wheelchair access, suitable for lower height differences or where space allows for a gradual incline. They can be portable, modular, or built-in. Lifts, on the other hand, are mechanical devices that raise and lower a wheelchair, ideal for significant height changes or when space is limited. Lifts require electricity and maintenance but offer a more compact solution for vertical access. The choice depends on specific needs, available space, and budget.",
+        "@type": "Answer",
+        "description": "Ramps offer sloped access for smaller height changes and require more space, while lifts are mechanical devices for significant height differences in compact areas."
+      }
+    }
+  ],
+  "description": "Ramps offer sloped access for smaller height changes and require more space, while lifts are mechanical devices for significant height differences in compact ar"
+}

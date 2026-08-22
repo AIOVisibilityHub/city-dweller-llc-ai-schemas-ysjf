@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-a-shower-seat-be-installed-in-any-type-of-shower",
+  "name": "Can a shower seat be installed in any type of shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a shower seat be installed in any type of shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most shower seats can be installed in various types of showers, including tiled, fiberglass, and acrylic enclosures. However, the installation method will differ. Wall-mounted seats require secure anchoring into studs, which might necessitate opening up the wall in some cases. Built-in benches are typically constructed during a shower renovation. It's crucial to ensure the shower walls can support the seat and occupant's weight. Our contractors will assess your specific shower structure to determine the most appropriate and safe installation method.",
+        "@type": "Answer",
+        "description": "Most showers can accommodate a seat, but installation methods vary by shower type. Secure anchoring is crucial, especially for wall-mounted seats."
+      }
+    }
+  ],
+  "description": "Most showers can accommodate a seat, but installation methods vary by shower type. Secure anchoring is crucial, especially for wall-mounted seats."
+}

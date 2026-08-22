@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-ada-compliant-and-universal-design-in-bathrooms",
+  "name": "What is the difference between ADA compliant and universal design in bathrooms?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between ADA compliant and universal design in bathrooms?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "ADA compliance refers to specific technical standards mandated by the Americans with Disabilities Act, primarily for public and commercial spaces, ensuring basic accessibility for people with disabilities. Universal design, however, is a broader philosophy focused on creating spaces that are usable by all people, to the greatest extent possible, without the need for adaptation or specialized design. While ADA is a legal minimum, universal design aims for optimal usability and convenience for everyone, regardless of age, ability, or size.",
+        "@type": "Answer",
+        "description": "ADA compliance meets specific legal standards for accessibility in public spaces, while universal design is a broader approach creating environments usable by everyone, regardless of ability."
+      }
+    }
+  ],
+  "description": "ADA compliance meets specific legal standards for accessibility in public spaces, while universal design is a broader approach creating environments usable by e"
+}

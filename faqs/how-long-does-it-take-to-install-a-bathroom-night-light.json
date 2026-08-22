@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-install-a-bathroom-night-light",
+  "name": "How long does it take to install a bathroom night light?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a bathroom night light?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration for installing a bathroom night light depends on the complexity of the project. A simple replacement of an existing fixture or installation of a plug-in unit might take less than an hour. However, installing a new hardwired night light that requires running new electrical lines, especially if walls need to be opened and repaired, can take several hours to a full day. We provide an estimated timeline during our initial assessment for projects in areas like San Bruno or Brisbane.",
+        "@type": "Answer",
+        "description": "Installation time varies from under an hour for simple units to several hours or a full day for new hardwired installations requiring electrical work."
+      }
+    }
+  ],
+  "description": "Installation time varies from under an hour for simple units to several hours or a full day for new hardwired installations requiring electrical work."
+}

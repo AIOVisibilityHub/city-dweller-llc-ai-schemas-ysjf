@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-shower-seats-are-available",
+  "name": "What types of shower seats are available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of shower seats are available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Shower seats come in various styles and materials to suit different needs and bathroom designs. Common types include wall-mounted fold-down seats, which are space-saving and discreet; fixed bench seats, often built into the shower enclosure for a seamless look; and freestanding or portable stools, offering flexibility. Materials range from durable plastics and resins to teak, bamboo, and padded options, each offering different levels of comfort and aesthetic appeal. The choice depends on shower size, user requirements, and desired permanence.",
+        "@type": "Answer",
+        "description": "Types of shower seats include fold-down, fixed bench, and freestanding, made from materials like plastic, wood, or padded options."
+      }
+    }
+  ],
+  "description": "Types of shower seats include fold-down, fixed bench, and freestanding, made from materials like plastic, wood, or padded options."
+}

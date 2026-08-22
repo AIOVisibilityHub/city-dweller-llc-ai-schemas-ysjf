@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-ada-compliance-and-residential-accessibility-upgr",
+  "name": "What is the difference between ADA compliance and residential accessibility upgrades?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between ADA compliance and residential accessibility upgrades?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "ADA (Americans with Disabilities Act) compliance typically refers to public and commercial spaces, setting strict standards for accessibility. Residential accessibility upgrades, while often drawing inspiration from ADA principles, are tailored to the unique needs of an individual homeowner and existing private residence. While a residential upgrade aims for maximum usability and safety, it doesn't strictly adhere to all ADA public accommodation requirements, allowing for more personalized and practical solutions within a home environment.",
+        "@type": "Answer",
+        "description": "ADA compliance applies to public spaces, while residential accessibility upgrades are tailored to individual homeowner needs within a private home. Residential upgrades draw from ADA principles but aren't strictly bound by all public accommodation requirements."
+      }
+    }
+  ],
+  "description": "ADA compliance applies to public spaces, while residential accessibility upgrades are tailored to individual homeowner needs within a private home. Residential"
+}

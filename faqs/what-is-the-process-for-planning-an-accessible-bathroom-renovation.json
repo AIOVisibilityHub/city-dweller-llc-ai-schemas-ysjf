@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-planning-an-accessible-bathroom-renovation",
+  "name": "What is the process for planning an accessible bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for planning an accessible bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for planning an accessible bathroom renovation typically begins with an on-site consultation to assess your needs and the existing space. Next, a detailed design plan is developed, incorporating accessibility features, material selections, and a budget. Once approved, necessary permits are secured. Construction then proceeds, followed by final inspections and walkthroughs. Effective communication with your contractor throughout each phase ensures the project meets your specific accessibility requirements.",
+        "@type": "Answer",
+        "description": "Planning involves a needs assessment, design, budget, permit acquisition, construction, and final inspections, ensuring clear communication with your contractor."
+      }
+    }
+  ],
+  "description": "Planning involves a needs assessment, design, budget, permit acquisition, construction, and final inspections, ensuring clear communication with your contractor"
+}

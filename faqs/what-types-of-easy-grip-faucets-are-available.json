@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-easy-grip-faucets-are-available",
+  "name": "What types of easy grip faucets are available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of easy grip faucets are available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Easy grip faucets come in various types to suit different needs and aesthetics. Common designs include single-handle lever faucets, which allow for simultaneous control of temperature and flow; touch-activated faucets that turn on/off with a simple tap; and touchless models that use motion sensors. Other options include pull-down or pull-out sprayers for added functionality. They are available in numerous finishes and styles, from contemporary to traditional, for both kitchens and bathrooms.",
+        "@type": "Answer",
+        "description": "Easy grip faucets include single-handle levers, touch-activated, and touchless models, available in various styles and finishes for kitchens and bathrooms."
+      }
+    }
+  ],
+  "description": "Easy grip faucets include single-handle levers, touch-activated, and touchless models, available in various styles and finishes for kitchens and bathrooms."
+}

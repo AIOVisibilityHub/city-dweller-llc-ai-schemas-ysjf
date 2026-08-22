@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-problems-that-can-occur-after-a-new-faucet-installation",
+  "name": "What are common problems that can occur after a new faucet installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common problems that can occur after a new faucet installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a new faucet installation, common problems can include minor leaks around connections, low water pressure, or issues with water temperature mixing. Leaks are often due to loose connections or improperly applied sealant. Low pressure might stem from kinked supply lines or debris in the aerator. Temperature issues could indicate an incorrect hot and cold line connection. A professional installation minimizes these risks, but it's always wise to test the faucet thoroughly after setup.",
+        "@type": "Answer",
+        "description": "Post-installation problems can include leaks, low water pressure, or temperature mixing issues, often due to improper connections or blockages."
+      }
+    }
+  ],
+  "description": "Post-installation problems can include leaks, low water pressure, or temperature mixing issues, often due to improper connections or blockages."
+}

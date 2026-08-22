@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-whole-home-accessibility-upgrades-increase-my-property-value",
+  "name": "Can whole home accessibility upgrades increase my property value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can whole home accessibility upgrades increase my property value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, well-planned and professionally executed whole home accessibility upgrades can potentially increase property value, especially in areas with an aging population or high demand for accessible housing. These improvements make a home more versatile and appealing to a broader range of potential buyers, including those looking to age in place or accommodate family members with mobility challenges. The value added depends on the quality of the upgrades and local market demand.",
+        "@type": "Answer",
+        "description": "Yes, well-planned accessibility upgrades can increase property value by appealing to a broader market, including those seeking accessible housing or planning to age in place."
+      }
+    }
+  ],
+  "description": "Yes, well-planned accessibility upgrades can increase property value by appealing to a broader market, including those seeking accessible housing or planning to"
+}

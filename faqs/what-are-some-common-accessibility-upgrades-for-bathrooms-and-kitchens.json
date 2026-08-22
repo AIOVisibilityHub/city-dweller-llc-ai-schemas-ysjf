@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-some-common-accessibility-upgrades-for-bathrooms-and-kitchens",
+  "name": "What are some common accessibility upgrades for bathrooms and kitchens?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are some common accessibility upgrades for bathrooms and kitchens?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common bathroom accessibility upgrades include installing grab bars near toilets and in showers, creating roll-in or curbless showers, raising toilet heights, and incorporating non-slip flooring. For kitchens, popular modifications involve lowering counter heights, installing pull-out shelves or drawers, optimizing appliance placement for easy reach, and adding touchless faucets. These changes aim to enhance safety and independence in high-use areas of the home.",
+        "@type": "Answer",
+        "description": "Bathroom upgrades often include grab bars, roll-in showers, and raised toilets. Kitchens benefit from lowered counters, pull-out shelves, and optimized appliance placement to enhance access."
+      }
+    }
+  ],
+  "description": "Bathroom upgrades often include grab bars, roll-in showers, and raised toilets. Kitchens benefit from lowered counters, pull-out shelves, and optimized applianc"
+}

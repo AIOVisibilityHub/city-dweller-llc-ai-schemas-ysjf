@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-convert-an-existing-vanity-into-an-accessible-one",
+  "name": "Can I convert an existing vanity into an accessible one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert an existing vanity into an accessible one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting an existing vanity into an accessible one is sometimes possible but depends heavily on its current design and construction. For instance, if the vanity is a console style or has open space underneath, it might be adaptable with height adjustments or replacing cabinetry with an open design. However, if it's a standard cabinet-style vanity, creating sufficient knee clearance often requires significant modification, potentially involving structural changes or custom fabrication. Often, replacing it with a purpose-built accessible vanity is more straightforward and cost-effective.",
+        "@type": "Answer",
+        "description": "Conversion depends on the existing vanity's design; open-style vanities are more adaptable. Standard cabinet vanities often require significant modification, making replacement a more straightforward option."
+      }
+    }
+  ],
+  "description": "Conversion depends on the existing vanity's design; open-style vanities are more adaptable. Standard cabinet vanities often require significant modification, ma"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-choose-a-motion-activated-or-always-on-bathroom-night-light",
+  "name": "Should I choose a motion-activated or always-on bathroom night light?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose a motion-activated or always-on bathroom night light?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice between motion-activated and always-on night lights depends on your specific needs. Motion-activated lights conserve energy and are ideal for quick, occasional nighttime visits, providing light only when needed. Always-on lights offer continuous, ambient illumination, which can be beneficial for small children or those who prefer a constant soft glow throughout the night. Consider factors like energy efficiency, frequency of use, and personal preference for consistent versus intermittent light when making your decision.",
+        "@type": "Answer",
+        "description": "Motion-activated lights save energy and are good for occasional use, while always-on lights provide continuous ambient light for constant glow preferences."
+      }
+    }
+  ],
+  "description": "Motion-activated lights save energy and are good for occasional use, while always-on lights provide continuous ambient light for constant glow preferences."
+}

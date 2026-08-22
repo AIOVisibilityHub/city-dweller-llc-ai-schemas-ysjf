@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-make-a-home-wheelchair-accessible-in-the-bay-area",
+  "name": "How much does it cost to make a home wheelchair accessible in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to make a home wheelchair accessible in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of making a home wheelchair accessible in the Bay Area varies significantly based on the extent of modifications, materials chosen, and existing home structure. Minor adjustments like grab bar installations or lever handles might range from a few hundred to a thousand dollars. Major renovations, such as adding ramps, widening multiple doorways, or remodeling a bathroom for a roll-in shower, can cost several thousand to tens of thousands of dollars. A detailed assessment from a contractor provides an accurate estimate.",
+        "@type": "Answer",
+        "description": "Costs vary greatly depending on the modifications needed. Minor changes are hundreds, while major renovations can be thousands to tens of thousands of dollars."
+      }
+    }
+  ],
+  "description": "Costs vary greatly depending on the modifications needed. Minor changes are hundreds, while major renovations can be thousands to tens of thousands of dollars."
+}

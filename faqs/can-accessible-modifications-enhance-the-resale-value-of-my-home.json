@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-accessible-modifications-enhance-the-resale-value-of-my-home",
+  "name": "Can accessible modifications enhance the resale value of my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can accessible modifications enhance the resale value of my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Accessible modifications can enhance the resale value of your home, particularly in areas with an aging population or where multi-generational living is common. While highly specialized modifications might appeal to a smaller buyer pool, universal design elements like zero-threshold showers, wider doorways, and reinforced walls for grab bars are increasingly sought after. These features can make a home more functional and attractive to a broader range of buyers looking for long-term usability.",
+        "@type": "Answer",
+        "description": "Accessible modifications can enhance home resale value, especially universal design elements like zero-threshold showers, appealing to a broader range of buyers and aging populations."
+      }
+    }
+  ],
+  "description": "Accessible modifications can enhance home resale value, especially universal design elements like zero-threshold showers, appealing to a broader range of buyers"
+}

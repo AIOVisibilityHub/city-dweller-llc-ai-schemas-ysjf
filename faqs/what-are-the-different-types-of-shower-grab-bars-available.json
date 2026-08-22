@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-different-types-of-shower-grab-bars-available",
+  "name": "What are the different types of shower grab bars available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the different types of shower grab bars available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Shower grab bars come in various materials and styles, including stainless steel, chrome, and plastic, with finishes like polished, brushed, or matte. They can be straight, angled, or curved to fit different shower configurations. The most common mounting types are screw-in (permanent) and suction cup (temporary). Permanent grab bars are secured directly to wall studs or blocking for maximum support, while suction cup bars are suitable for travel or temporary assistance on smooth, non-porous surfaces. City Dweller, LLC primarily installs permanent, code-compliant grab bars for reliable long-term safety.",
+        "@type": "Answer",
+        "description": "Shower grab bars vary by material (stainless steel, chrome), style (straight, angled), and mounting type (permanent screw-in, temporary suction cup). Permanent installations are recommended for long-term safety."
+      }
+    }
+  ],
+  "description": "Shower grab bars vary by material (stainless steel, chrome), style (straight, angled), and mounting type (permanent screw-in, temporary suction cup). Permanent"
+}

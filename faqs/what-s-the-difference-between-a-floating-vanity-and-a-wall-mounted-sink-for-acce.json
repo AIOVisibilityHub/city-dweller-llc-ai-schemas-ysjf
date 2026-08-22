@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-a-floating-vanity-and-a-wall-mounted-sink-for-acce",
+  "name": "What's the difference between a floating vanity and a wall-mounted sink for accessibility?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a floating vanity and a wall-mounted sink for accessibility?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A floating vanity is mounted directly to the wall, leaving the floor underneath completely open, which naturally provides excellent knee clearance for wheelchair users. A wall-mounted sink is a basin directly attached to the wall without a cabinet below, offering maximum open space. Both are strong options for accessibility. Floating vanities often offer some counter space and storage, while wall-mounted sinks are more minimalist. The best choice depends on your storage needs and aesthetic preferences.",
+        "@type": "Answer",
+        "description": "Floating vanities are wall-mounted with open space underneath and often include storage, while wall-mounted sinks are just the basin, offering maximum open access. Both are good for accessibility."
+      }
+    }
+  ],
+  "description": "Floating vanities are wall-mounted with open space underneath and often include storage, while wall-mounted sinks are just the basin, offering maximum open acce"
+}

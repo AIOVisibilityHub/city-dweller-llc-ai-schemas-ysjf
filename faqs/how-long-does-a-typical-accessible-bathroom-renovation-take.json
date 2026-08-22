@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-accessible-bathroom-renovation-take",
+  "name": "How long does a typical accessible bathroom renovation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical accessible bathroom renovation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an accessible bathroom renovation depends on its complexity. Simple modifications, like installing grab bars or a new toilet, might take a day or two. More extensive projects, such as converting a bathtub to a walk-in shower, can take 1 to 3 weeks. A complete gut and remodel for full accessibility can extend to 3-6 weeks or more, depending on material availability, inspections, and the specific modifications required.",
+        "@type": "Answer",
+        "description": "Renovation time varies: a day or two for simple modifications, 1-3 weeks for shower conversions, and 3-6+ weeks for a complete accessible remodel."
+      }
+    }
+  ],
+  "description": "Renovation time varies: a day or two for simple modifications, 1-3 weeks for shower conversions, and 3-6+ weeks for a complete accessible remodel."
+}

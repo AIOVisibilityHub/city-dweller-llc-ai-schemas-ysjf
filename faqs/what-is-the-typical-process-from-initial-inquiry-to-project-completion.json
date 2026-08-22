@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-from-initial-inquiry-to-project-completion",
+  "name": "What is the typical process from initial inquiry to project completion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process from initial inquiry to project completion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation to discuss your needs and preferences. Following this, we conduct an on-site assessment to evaluate your bathroom's current condition and identify any necessary modifications. We then provide a detailed proposal and contract outlining the scope of work, timeline, and cost. Upon agreement, we handle permit acquisition, order materials, and schedule our licensed trades. Installation proceeds, followed by final inspections and a thorough walkthrough with you to ensure satisfaction. Our goal is a seamless, transparent experience from start to finish.",
+        "@type": "Answer",
+        "description": "The process involves consultation, on-site assessment, detailed proposal, permit acquisition, installation by licensed trades, and final walkthrough."
+      }
+    }
+  ],
+  "description": "The process involves consultation, on-site assessment, detailed proposal, permit acquisition, installation by licensed trades, and final walkthrough."
+}

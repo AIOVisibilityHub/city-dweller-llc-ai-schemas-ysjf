@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-steps-are-involved-in-an-accessible-bathroom-renovation-project",
+  "name": "What steps are involved in an accessible bathroom renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in an accessible bathroom renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An accessible bathroom renovation project typically begins with an initial consultation and assessment of your specific needs and the existing space. This is followed by design and planning, including material selection and fixture choices. Next, necessary permits are acquired. The construction phase involves demolition, rough-in plumbing and electrical work, installation of new fixtures, flooring, and finishes. Finally, a thorough inspection ensures quality and compliance.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design, permitting, demolition, plumbing/electrical, installation of fixtures and finishes, and a final inspection."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design, permitting, demolition, plumbing/electrical, installation of fixtures and finishes, and a final inspection."
+}

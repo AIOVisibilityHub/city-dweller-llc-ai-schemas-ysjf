@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-installing-a-new-comfort-height-toilet",
+  "name": "What is the process for installing a new comfort height toilet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing a new comfort height toilet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process begins with turning off the water supply to the old toilet and flushing it to empty the tank. The old toilet is then removed, and the area around the waste pipe (flange) is cleaned and inspected. The new comfort height toilet is then set in place, secured to the floor, and connected to the water supply line. Finally, the water is turned back on, the tank fills, and the toilet is tested thoroughly for proper flushing and any leaks. We ensure all connections are secure and watertight.",
+        "@type": "Answer",
+        "description": "The process involves removing the old toilet, cleaning the area, installing the new toilet, connecting it to water, and testing for leaks."
+      }
+    }
+  ],
+  "description": "The process involves removing the old toilet, cleaning the area, installing the new toilet, connecting it to water, and testing for leaks."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-permits-to-install-a-wheelchair-accessible-vanity",
+  "name": "Do I need permits to install a wheelchair accessible vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits to install a wheelchair accessible vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for installing a wheelchair accessible vanity depend on the scope of work and local building codes in your specific Bay Area city. Minor cosmetic changes or direct replacements may not require a permit. However, if the installation involves significant plumbing alterations, structural modifications to walls, or changes to electrical wiring, permits are likely necessary. City Dweller, LLC can assist in identifying and securing any required permits for your project.",
+        "@type": "Answer",
+        "description": "Permits may be needed for significant plumbing or structural modifications. City Dweller, LLC can help determine and secure necessary permits."
+      }
+    }
+  ],
+  "description": "Permits may be needed for significant plumbing or structural modifications. City Dweller, LLC can help determine and secure necessary permits."
+}

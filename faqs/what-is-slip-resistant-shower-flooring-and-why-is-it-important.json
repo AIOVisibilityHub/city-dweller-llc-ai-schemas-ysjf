@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-slip-resistant-shower-flooring-and-why-is-it-important",
+  "name": "What is slip-resistant shower flooring and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is slip-resistant shower flooring and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Slip-resistant shower flooring is designed with textured surfaces or materials to increase friction, even when wet, significantly reducing the risk of falls. This is crucial for safety, especially for children, the elderly, or anyone with mobility concerns. Standard tiles can become extremely slick with water and soap, making slip-resistant options a key component in creating a safer bathroom environment. It provides peace of mind and enhanced accessibility.",
+        "@type": "Answer",
+        "description": "Slip-resistant shower flooring has textured surfaces to prevent falls when wet, improving safety for all users."
+      }
+    }
+  ],
+  "description": "Slip-resistant shower flooring has textured surfaces to prevent falls when wet, improving safety for all users."
+}

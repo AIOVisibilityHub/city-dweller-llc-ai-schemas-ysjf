@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-areas-of-my-home-should-i-prioritize-for-barrier-free-modifications",
+  "name": "What areas of my home should I prioritize for barrier-free modifications?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas of my home should I prioritize for barrier-free modifications?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Prioritizing modifications depends on individual needs, but common areas include entryways, bathrooms, and kitchens. Entryways often benefit from ramps, wider doors, or lever handles for easier access. Bathrooms are critical for safety, with common changes like roll-in showers, grab bars, raised toilets, and accessible sinks. In the kitchen, adjusting counter heights, improving pathway clearance, and installing pull-out shelves can enhance usability. A comprehensive assessment from City Dweller, LLC can help identify the most impactful modifications for your specific living situation and mobility requirements.",
+        "@type": "Answer",
+        "description": "Prioritize entryways, bathrooms, and kitchens for barrier-free modifications. Common changes include ramps, roll-in showers, grab bars, and accessible counters, tailored to individual needs."
+      }
+    }
+  ],
+  "description": "Prioritize entryways, bathrooms, and kitchens for barrier-free modifications. Common changes include ramps, roll-in showers, grab bars, and accessible counters,"
+}

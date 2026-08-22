@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-install-a-handheld-showerhead-if-i-only-have-a-fixed-showerhead-currently",
+  "name": "Can I install a handheld showerhead if I only have a fixed showerhead currently?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a handheld showerhead if I only have a fixed showerhead currently?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is generally possible to install a handheld showerhead even if your current setup only has a fixed showerhead. This usually involves replacing the existing shower arm with a diverter valve that allows water to flow to both the fixed showerhead and the new handheld unit, or directly to the handheld hose. In most cases, existing plumbing can be utilized, making the transition straightforward. Our contractors can assess your current setup and recommend the best installation method.",
+        "@type": "Answer",
+        "description": "Yes, you can install a handheld showerhead by adding a diverter valve to your existing shower arm, allowing for both fixed and handheld options."
+      }
+    }
+  ],
+  "description": "Yes, you can install a handheld showerhead by adding a diverter valve to your existing shower arm, allowing for both fixed and handheld options."
+}

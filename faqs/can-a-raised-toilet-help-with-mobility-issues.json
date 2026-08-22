@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-a-raised-toilet-help-with-mobility-issues",
+  "name": "Can a raised toilet help with mobility issues?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a raised toilet help with mobility issues?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a raised toilet can significantly assist individuals with mobility issues. The increased seat height reduces the distance one needs to lower or raise their body, making the action less strenuous on joints like knees and hips. This can improve independence and safety in the bathroom, especially for seniors, those recovering from surgery, or individuals with chronic conditions. It's a common modification we recommend for creating more accessible living spaces.",
+        "@type": "Answer",
+        "description": "Yes, a raised toilet helps with mobility by reducing strain on joints during sitting and standing, enhancing independence and safety for users."
+      }
+    }
+  ],
+  "description": "Yes, a raised toilet helps with mobility by reducing strain on joints during sitting and standing, enhancing independence and safety for users."
+}

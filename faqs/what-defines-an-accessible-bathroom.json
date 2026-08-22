@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-defines-an-accessible-bathroom",
+  "name": "What defines an accessible bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What defines an accessible bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An accessible bathroom is designed to be safely and comfortably used by individuals with varying mobility needs. Key features often include wider doorways, grab bars for support, a curbless or roll-in shower, a comfort-height toilet, and a sink with clear space underneath for wheelchair access. The layout prioritizes clear maneuvering space and strategically placed fixtures to ensure ease of use for all occupants.",
+        "@type": "Answer",
+        "description": "An accessible bathroom features wider doorways, grab bars, roll-in showers, comfort-height toilets, and open sink areas for improved mobility."
+      }
+    }
+  ],
+  "description": "An accessible bathroom features wider doorways, grab bars, roll-in showers, comfort-height toilets, and open sink areas for improved mobility."
+}

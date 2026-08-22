@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-an-accessible-bathroom-renovation-typically-take",
+  "name": "How long does an accessible bathroom renovation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an accessible bathroom renovation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an accessible bathroom renovation depends on the extent of the changes. Simple upgrades like installing grab bars and replacing a toilet might take a few days. A more comprehensive renovation, involving demolition, plumbing reconfigurations, installing a roll-in shower, and widening doorways, can take anywhere from two to six weeks. Unexpected structural issues or material delays can also influence the timeline. We provide a projected schedule during the planning phase.",
+        "@type": "Answer",
+        "description": "Renovation timelines vary: a few days for minor updates, or two to six weeks for comprehensive overhauls involving major structural or plumbing changes."
+      }
+    }
+  ],
+  "description": "Renovation timelines vary: a few days for minor updates, or two to six weeks for comprehensive overhauls involving major structural or plumbing changes."
+}

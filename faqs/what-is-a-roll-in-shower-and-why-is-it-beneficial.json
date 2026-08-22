@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-roll-in-shower-and-why-is-it-beneficial",
+  "name": "What is a roll-in shower, and why is it beneficial?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a roll-in shower, and why is it beneficial?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roll-in shower is a curbless shower designed with a flush entry, allowing easy access for wheelchairs, walkers, or individuals with limited mobility. Its main benefit is eliminating the need to step over a threshold, significantly reducing fall risks. These showers often feature grab bars, a handheld showerhead, and a built-in or portable bench for added safety and convenience, promoting independent bathing.",
+        "@type": "Answer",
+        "description": "A roll-in shower is a curbless shower with flush entry, ideal for wheelchair users and those with limited mobility, significantly reducing fall risks."
+      }
+    }
+  ],
+  "description": "A roll-in shower is a curbless shower with flush entry, ideal for wheelchair users and those with limited mobility, significantly reducing fall risks."
+}

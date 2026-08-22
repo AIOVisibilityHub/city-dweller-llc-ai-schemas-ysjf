@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-install-a-comfort-height-toilet-myself",
+  "name": "Can I install a comfort height toilet myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a comfort height toilet myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it is possible for an experienced DIYer to install a comfort height toilet, professional installation is recommended. Proper installation ensures correct sealing, prevents leaks, and secures the toilet safely to the floor. Incorrect installation can lead to water damage, instability, and costly repairs down the line. Our professional plumbers have the specialized tools and expertise to handle potential challenges, ensuring a reliable and long-lasting installation, often backed by a warranty.",
+        "@type": "Answer",
+        "description": "While possible for experienced DIYers, professional installation is recommended to ensure correct sealing, prevent leaks, and secure the toilet safely."
+      }
+    }
+  ],
+  "description": "While possible for experienced DIYers, professional installation is recommended to ensure correct sealing, prevent leaks, and secure the toilet safely."
+}

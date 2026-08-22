@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-an-accessible-bathroom-renovation-cost-in-the-bay-area",
+  "name": "How much does an accessible bathroom renovation cost in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does an accessible bathroom renovation cost in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an accessible bathroom renovation in the Bay Area varies significantly based on the scope of work, material selections, and existing bathroom layout. Minor modifications, such as grab bar installations and comfort-height toilets, may cost a few thousand dollars. A complete overhaul with a roll-in shower, wider doorways, and new fixtures can range from $20,000 to $50,000 or more. Obtaining a detailed quote is essential for an accurate estimate.",
+        "@type": "Answer",
+        "description": "Costs for accessible bathroom renovations in the Bay Area vary widely, from a few thousand for minor changes to over $20,000 for a complete overhaul, depending on the scope."
+      }
+    }
+  ],
+  "description": "Costs for accessible bathroom renovations in the Bay Area vary widely, from a few thousand for minor changes to over $20,000 for a complete overhaul, depending"
+}

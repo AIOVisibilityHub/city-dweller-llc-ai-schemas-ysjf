@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-widen-a-bathroom-doorway",
+  "name": "How long does it take to widen a bathroom doorway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to widen a bathroom doorway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration for widening a bathroom doorway typically ranges from 1 to 3 days, assuming no major unforeseen structural issues. This timeline includes demolition, framing, drywall installation, finishing, and door installation. If the wall is load-bearing and requires more complex structural work, or if permits cause delays, the project could extend. Factors like the type of finishes chosen and the need for new flooring or paint around the opening can also influence the total time.",
+        "@type": "Answer",
+        "description": "Widening a bathroom doorway generally takes 1 to 3 days, depending on structural considerations, finishing requirements, and permit timelines."
+      }
+    }
+  ],
+  "description": "Widening a bathroom doorway generally takes 1 to 3 days, depending on structural considerations, finishing requirements, and permit timelines."
+}

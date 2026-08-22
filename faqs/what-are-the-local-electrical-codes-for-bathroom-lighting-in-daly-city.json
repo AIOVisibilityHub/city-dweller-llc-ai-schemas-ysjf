@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-local-electrical-codes-for-bathroom-lighting-in-daly-city",
+  "name": "What are the local electrical codes for bathroom lighting in Daly City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the local electrical codes for bathroom lighting in Daly City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathroom lighting installations in Daly City, like other Bay Area cities, must adhere to the National Electrical Code (NEC) and local building amendments. Key considerations include using GFCI-protected circuits for outlets, ensuring proper fixture ratings for damp or wet locations (especially in showers), and maintaining minimum clearances from water sources. All electrical work should be performed by a licensed electrician to ensure compliance and safety. Permits are typically required for significant electrical modifications.",
+        "@type": "Answer",
+        "description": "Bathroom lighting in Daly City must comply with NEC and local codes, requiring GFCI protection, appropriate fixture ratings for damp/wet areas, and proper clearances, with work done by a licensed electrician."
+      }
+    }
+  ],
+  "description": "Bathroom lighting in Daly City must comply with NEC and local codes, requiring GFCI protection, appropriate fixture ratings for damp/wet areas, and proper clear"
+}

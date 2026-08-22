@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-an-accessible-vanity-installation",
+  "name": "What is the typical process for an accessible vanity installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for an accessible vanity installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with an initial consultation and site assessment to understand your needs and the existing bathroom layout. Next, we provide a detailed quote and help you select an appropriate accessible vanity. Once confirmed, old fixtures are removed, and any necessary plumbing or electrical modifications are completed. The new accessible vanity is then installed, connected to plumbing, and tested. Finally, finishing touches are applied, and the site is cleaned. We ensure minimal disruption during the project.",
+        "@type": "Answer",
+        "description": "The process involves consultation, quote, selection, old fixture removal, plumbing/electrical modifications, new vanity installation, testing, and finishing touches."
+      }
+    }
+  ],
+  "description": "The process involves consultation, quote, selection, old fixture removal, plumbing/electrical modifications, new vanity installation, testing, and finishing tou"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-permit-for-accessibility-modifications-in-my-home",
+  "name": "Do I need a permit for accessibility modifications in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for accessibility modifications in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for accessibility modifications depend on the specific type and extent of the changes. Minor installations like grab bars typically do not require a permit. However, significant structural changes, plumbing modifications for roll-in showers, electrical work for stairlifts, or additions that alter the exterior footprint of your home usually require permits from local building authorities in areas like Pacifica or Daly City. City Dweller, LLC will assist in determining and securing necessary permits for your project.",
+        "@type": "Answer",
+        "description": "Permit requirements vary; minor changes usually don't need one, but major structural, plumbing, or electrical work often does. City Dweller, LLC assists with permit processes."
+      }
+    }
+  ],
+  "description": "Permit requirements vary; minor changes usually don't need one, but major structural, plumbing, or electrical work often does. City Dweller, LLC assists with pe"
+}

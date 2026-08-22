@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-install-a-wheelchair-accessible-vanity",
+  "name": "How long does it take to install a wheelchair accessible vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a wheelchair accessible vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation timeframe for a wheelchair accessible vanity typically depends on the current bathroom configuration and the extent of modifications required. A straightforward replacement with minor plumbing adjustments might take 1-2 days. However, if the project involves reconfiguring water lines, relocating drainpipes, or making structural changes to accommodate the new vanity, the process could extend to 3-5 days or longer. We will provide a project timeline during your initial consultation.",
+        "@type": "Answer",
+        "description": "Installation usually takes 1-2 days for simple replacements, but can extend to 3-5 days or more if major plumbing or structural changes are needed."
+      }
+    }
+  ],
+  "description": "Installation usually takes 1-2 days for simple replacements, but can extend to 3-5 days or more if major plumbing or structural changes are needed."
+}

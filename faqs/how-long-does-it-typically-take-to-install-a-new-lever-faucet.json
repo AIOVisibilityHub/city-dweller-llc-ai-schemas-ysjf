@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-typically-take-to-install-a-new-lever-faucet",
+  "name": "How long does it typically take to install a new lever faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to install a new lever faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required for a lever faucet installation can vary based on several factors, such as the complexity of the faucet design, accessibility under the sink, and whether any existing plumbing issues need addressing. On average, a straightforward replacement might take 1 to 3 hours for an experienced professional. If modifications to existing plumbing are needed, or if corrosion presents challenges, the process could extend further.",
+        "@type": "Answer",
+        "description": "A typical lever faucet installation takes 1 to 3 hours for a professional, depending on complexity and existing plumbing conditions."
+      }
+    }
+  ],
+  "description": "A typical lever faucet installation takes 1 to 3 hours for a professional, depending on complexity and existing plumbing conditions."
+}

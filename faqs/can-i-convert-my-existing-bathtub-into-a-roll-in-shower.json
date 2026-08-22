@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-convert-my-existing-bathtub-into-a-roll-in-shower",
+  "name": "Can I convert my existing bathtub into a roll-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert my existing bathtub into a roll-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, converting an existing bathtub into a roll-in shower is a common and effective accessible bathroom renovation. This involves removing the bathtub, reconfiguring the plumbing, and installing a curbless or low-threshold shower base. It often requires waterproofing the surrounding area and installing appropriate wall materials and grab bars. This modification significantly improves accessibility for individuals using wheelchairs or who find stepping over a tub challenging.",
+        "@type": "Answer",
+        "description": "Yes, converting a bathtub to a roll-in shower is a common accessible renovation that involves removing the tub, reconfiguring plumbing, and installing a curbless shower base for improved accessibility."
+      }
+    }
+  ],
+  "description": "Yes, converting a bathtub to a roll-in shower is a common accessible renovation that involves removing the tub, reconfiguring plumbing, and installing a curbles"
+}

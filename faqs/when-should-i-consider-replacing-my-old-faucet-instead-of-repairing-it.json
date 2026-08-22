@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-my-old-faucet-instead-of-repairing-it",
+  "name": "When should I consider replacing my old faucet instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my old faucet instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your old faucet if repairs become frequent, expensive, or if the faucet is showing significant signs of wear and tear, such as persistent leaks, corrosion, or difficult-to-turn handles. If replacement parts are hard to find for an older model, or if you're upgrading your kitchen or bathroom aesthetics, a full replacement is often more cost-effective and provides better long-term reliability than continuous repairs.",
+        "@type": "Answer",
+        "description": "Replace your faucet when repairs are frequent or costly, parts are unavailable, or if there's significant wear, corrosion, or you're upgrading its aesthetics."
+      }
+    }
+  ],
+  "description": "Replace your faucet when repairs are frequent or costly, parts are unavailable, or if there's significant wear, corrosion, or you're upgrading its aesthetics."
+}

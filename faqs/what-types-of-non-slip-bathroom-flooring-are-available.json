@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-non-slip-bathroom-flooring-are-available",
+  "name": "What types of non-slip bathroom flooring are available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of non-slip bathroom flooring are available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are several options for non-slip bathroom flooring, each with distinct benefits. Textured ceramic or porcelain tiles, often with a matte finish, naturally offer more grip than smooth, glossy alternatives. Vinyl, particularly luxury vinyl plank (LVP) or tile (LVT), provides a water-resistant and comfortable surface that can mimic wood or stone, often featuring textured surfaces. Rubber flooring is highly slip-resistant and comfortable underfoot, suitable for high-traffic or accessibility-focused bathrooms. Additionally, some natural stone tiles can be treated or honed to increase their slip resistance, though their natural porosity requires proper sealing.",
+        "@type": "Answer",
+        "description": "Options include textured ceramic or porcelain tile, luxury vinyl plank/tile, and rubber flooring, each offering varying levels of slip resistance and aesthetics."
+      }
+    }
+  ],
+  "description": "Options include textured ceramic or porcelain tile, luxury vinyl plank/tile, and rubber flooring, each offering varying levels of slip resistance and aesthetics"
+}

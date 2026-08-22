@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-maintenance-required-for-a-shower-seat",
+  "name": "What is the maintenance required for a shower seat?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the maintenance required for a shower seat?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance for a shower seat primarily involves regular cleaning to prevent mold, mildew, and soap scum buildup, similar to the rest of your shower. The specific care depends on the material; for example, teak seats may benefit from occasional oiling to maintain their finish, while plastic or metal seats typically just need a wipe down with a mild cleaner. Inspecting hardware for wall-mounted seats annually ensures continued security and functionality. Proper maintenance extends the life of your shower seat and keeps your bathroom hygienic.",
+        "@type": "Answer",
+        "description": "Maintenance involves regular cleaning to prevent mold and soap scum. Specific care depends on the material, and annual hardware checks for wall-mounted seats."
+      }
+    }
+  ],
+  "description": "Maintenance involves regular cleaning to prevent mold and soap scum. Specific care depends on the material, and annual hardware checks for wall-mounted seats."
+}

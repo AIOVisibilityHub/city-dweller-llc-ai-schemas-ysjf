@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-walker-friendly-home-modifications",
+  "name": "What are common walker-friendly home modifications?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common walker-friendly home modifications?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common walker-friendly home modifications focus on improving accessibility and safety. These often include widening doorways and hallways to accommodate a walker's width, installing grab bars in bathrooms and near stairs, and replacing steps with ramps or threshold ramps. Other useful modifications involve lowering countertops and light switches, installing lever-style door handles, and ensuring adequate lighting. Removing tripping hazards like loose rugs and transitioning to slip-resistant flooring materials are also key to creating a safer environment for individuals using walkers.",
+        "@type": "Answer",
+        "description": "Common modifications include widening doorways, installing grab bars, adding ramps, and removing tripping hazards to improve accessibility and safety."
+      }
+    }
+  ],
+  "description": "Common modifications include widening doorways, installing grab bars, adding ramps, and removing tripping hazards to improve accessibility and safety."
+}

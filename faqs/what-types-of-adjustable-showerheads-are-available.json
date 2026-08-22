@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-adjustable-showerheads-are-available",
+  "name": "What types of adjustable showerheads are available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of adjustable showerheads are available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are several types of adjustable showerheads. Handheld adjustable showerheads offer the most flexibility, allowing you to direct the spray precisely. Fixed adjustable showerheads are mounted but allow changes in spray patterns and angle. Dual showerhead systems combine a fixed head with a handheld one. They come in various finishes and designs, and many feature multiple spray settings like rain, massage, or mist. Considerations include water pressure compatibility and desired features.",
+        "@type": "Answer",
+        "description": "Types include handheld, fixed adjustable, and dual systems, offering various spray patterns and designs."
+      }
+    }
+  ],
+  "description": "Types include handheld, fixed adjustable, and dual systems, offering various spray patterns and designs."
+}

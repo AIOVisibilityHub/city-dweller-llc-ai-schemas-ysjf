@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/why-would-i-need-to-widen-my-bathroom-doorway",
+  "name": "Why would I need to widen my bathroom doorway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why would I need to widen my bathroom doorway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Widening a bathroom doorway is often necessary to improve accessibility, especially for individuals using wheelchairs, walkers, or other mobility aids. Standard doorways may be too narrow to allow comfortable passage. It also enhances the overall functionality and safety of the bathroom, making it more convenient for everyone and increasing the home's long-term adaptability. Some homeowners also choose to widen doorways during renovations to create a more open and spacious feel.",
+        "@type": "Answer",
+        "description": "Widening a bathroom doorway improves accessibility for mobility aids and enhances overall functionality and safety, especially during renovations."
+      }
+    }
+  ],
+  "description": "Widening a bathroom doorway improves accessibility for mobility aids and enhances overall functionality and safety, especially during renovations."
+}

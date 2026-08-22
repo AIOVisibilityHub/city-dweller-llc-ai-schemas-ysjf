@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-barrier-free-modifications-increase-my-home-s-value",
+  "name": "Can barrier-free modifications increase my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can barrier-free modifications increase my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, barrier-free modifications can potentially increase your home's value, especially in areas with aging populations or a strong demand for accessible housing. Features like a zero-threshold shower, wider doorways, or a ramp can make a home appealing to a broader range of buyers, including those planning for future needs or caring for family members with mobility issues. While some highly specialized modifications might have limited appeal, well-designed and integrated universal design elements are generally seen as an asset, enhancing both functionality and marketability.",
+        "@type": "Answer",
+        "description": "Yes, barrier-free modifications can increase home value by appealing to a broader market, especially for aging populations or those seeking accessible housing."
+      }
+    }
+  ],
+  "description": "Yes, barrier-free modifications can increase home value by appealing to a broader market, especially for aging populations or those seeking accessible housing."
+}

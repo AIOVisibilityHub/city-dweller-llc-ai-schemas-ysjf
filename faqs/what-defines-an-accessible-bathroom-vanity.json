@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-defines-an-accessible-bathroom-vanity",
+  "name": "What defines an accessible bathroom vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What defines an accessible bathroom vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An accessible bathroom vanity is designed to be usable by individuals with disabilities, particularly those using wheelchairs. Key features include an open space underneath the sink for knee clearance, a comfortable height for seated users, and easily operable faucets and controls. The design aims to provide barrier-free access and functionality, often adhering to ADA guidelines to ensure the user can approach and use the sink comfortably.",
+        "@type": "Answer",
+        "description": "An accessible vanity provides open knee clearance, appropriate height, and easy-to-use controls for individuals with disabilities, especially wheelchair users."
+      }
+    }
+  ],
+  "description": "An accessible vanity provides open knee clearance, appropriate height, and easy-to-use controls for individuals with disabilities, especially wheelchair users."
+}

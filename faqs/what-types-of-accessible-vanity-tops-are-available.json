@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-accessible-vanity-tops-are-available",
+  "name": "What types of accessible vanity tops are available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of accessible vanity tops are available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Accessible vanity tops are available in various materials, including laminate, solid surface (e.g., Corian), quartz, granite, and cultured marble. The key is to choose a material that is durable, easy to clean, and complements the bathroom's aesthetic. When selecting, ensure the sink is integrated or under-mounted to provide a seamless surface, making cleaning easier and reducing barriers for wheelchair users. Consider edge profiles that are rounded or beveled to enhance safety.",
+        "@type": "Answer",
+        "description": "Accessible vanity tops come in materials like laminate, solid surface, quartz, and granite. Choose durable, easy-to-clean options with integrated or under-mounted sinks and rounded edges for safety."
+      }
+    }
+  ],
+  "description": "Accessible vanity tops come in materials like laminate, solid surface, quartz, and granite. Choose durable, easy-to-clean options with integrated or under-mount"
+}

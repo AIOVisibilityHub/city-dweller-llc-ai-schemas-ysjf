@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-suction-cup-grab-bars-and-permanently-mounted-gra",
+  "name": "What is the difference between suction cup grab bars and permanently mounted grab bars?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between suction cup grab bars and permanently mounted grab bars?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Suction cup grab bars attach to smooth, non-porous surfaces using suction cups and are generally considered temporary. They are not designed to bear full body weight and should only be used for light balance assistance. Permanently mounted grab bars, on the other hand, are drilled and securely fastened into wall studs or robust anchors. These are designed to support significant weight and provide reliable, consistent support for sitting, standing, and transfers, making them the safer long-term solution for mobility assistance.",
+        "@type": "Answer",
+        "description": "Suction cup grab bars offer temporary, light assistance, while permanently mounted bars are securely fastened for reliable, heavy-duty support."
+      }
+    }
+  ],
+  "description": "Suction cup grab bars offer temporary, light assistance, while permanently mounted bars are securely fastened for reliable, heavy-duty support."
+}

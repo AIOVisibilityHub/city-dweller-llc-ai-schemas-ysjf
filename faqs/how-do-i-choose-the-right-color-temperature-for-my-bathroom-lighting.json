@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-color-temperature-for-my-bathroom-lighting",
+  "name": "How do I choose the right color temperature for my bathroom lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right color temperature for my bathroom lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right color temperature for bathroom lighting depends on the desired ambiance and function. Warm white (2700K-3000K) creates a cozy, relaxing atmosphere, ideal for general or ambient lighting. Cool white (3500K-4000K) is more neutral and good for task lighting, offering better clarity for grooming. Daylight (5000K-6500K) mimics natural light, providing very bright and crisp illumination, often preferred for applying makeup. Many prefer a mix, using warmer ambient lights and cooler task lights.",
+        "@type": "Answer",
+        "description": "Select warm white (2700K-3000K) for relaxation, cool white (3500K-4000K) for tasks, and daylight (5000K-6500K) for bright clarity, often mixing temperatures for different functions."
+      }
+    }
+  ],
+  "description": "Select warm white (2700K-3000K) for relaxation, cool white (3500K-4000K) for tasks, and daylight (5000K-6500K) for bright clarity, often mixing temperatures for"
+}

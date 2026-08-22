@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-be-home-during-the-walk-in-tub-installation",
+  "name": "Do I need to be home during the walk-in tub installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home during the walk-in tub installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's not strictly necessary for you to be present every moment of the installation, we recommend being available at key stages, such as the initial consultation, during significant decisions or unforeseen issues, and for the final walkthrough. Having access to your home is essential for our team. We prioritize clear communication, providing regular updates on progress. Many clients prefer to be present at the start of each day to touch base with the project manager and for any questions that may arise.",
+        "@type": "Answer",
+        "description": "You don't need to be home constantly, but we recommend being available for the initial consultation, key decisions, and the final walkthrough. Access to your home is essential."
+      }
+    }
+  ],
+  "description": "You don't need to be home constantly, but we recommend being available for the initial consultation, key decisions, and the final walkthrough. Access to your ho"
+}

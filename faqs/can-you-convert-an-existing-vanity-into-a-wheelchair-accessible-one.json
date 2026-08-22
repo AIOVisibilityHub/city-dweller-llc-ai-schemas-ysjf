@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-you-convert-an-existing-vanity-into-a-wheelchair-accessible-one",
+  "name": "Can you convert an existing vanity into a wheelchair accessible one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you convert an existing vanity into a wheelchair accessible one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting an existing vanity into a wheelchair accessible one is sometimes possible, but it depends on the current cabinet structure and plumbing. Often, it involves removing base cabinets to create open knee space, which may require rerouting or modifying existing plumbing. If the existing countertop height is too high or low, it might also need to be replaced. A thorough assessment by City Dweller, LLC can determine the feasibility and cost-effectiveness of converting your current vanity versus installing a new, purpose-built accessible unit.",
+        "@type": "Answer",
+        "description": "Conversion is possible but depends on existing cabinet structure and plumbing. It may involve removing cabinets and rerouting plumbing. An assessment determines feasibility."
+      }
+    }
+  ],
+  "description": "Conversion is possible but depends on existing cabinet structure and plumbing. It may involve removing cabinets and rerouting plumbing. An assessment determines"
+}

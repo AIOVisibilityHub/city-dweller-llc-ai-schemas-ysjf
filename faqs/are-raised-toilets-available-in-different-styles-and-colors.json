@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-raised-toilets-available-in-different-styles-and-colors",
+  "name": "Are raised toilets available in different styles and colors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are raised toilets available in different styles and colors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, raised toilets are available in a variety of styles, designs, and colors to complement diverse bathroom aesthetics. While white and off-white are common, you can find models in other neutral tones. Styles range from traditional to modern, including skirted designs that hide the trapway for easier cleaning and a sleeker look. This allows you to choose a comfort height fixture that doesn't compromise your bathroom's design. We can help you explore options that fit your taste.",
+        "@type": "Answer",
+        "description": "Raised toilets come in various styles, designs, and colors, from traditional to modern, to match different bathroom aesthetics."
+      }
+    }
+  ],
+  "description": "Raised toilets come in various styles, designs, and colors, from traditional to modern, to match different bathroom aesthetics."
+}

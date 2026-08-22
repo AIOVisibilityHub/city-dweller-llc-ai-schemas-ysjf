@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-replace-my-existing-bathroom-fan-with-a-new-fan-light-combination-unit",
+  "name": "Can I replace my existing bathroom fan with a new fan/light combination unit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my existing bathroom fan with a new fan/light combination unit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can often replace an existing bathroom fan with a fan/light combination unit, provided there is adequate space in the ceiling for the new unit's housing and appropriate electrical wiring. This upgrade can save ceiling space and provide both ventilation and illumination from a single fixture. It may require running an additional electrical wire for the light function if your current fan only has one power source. A licensed electrician can assess your current setup and determine feasibility.",
+        "@type": "Answer",
+        "description": "Yes, you can replace an existing bathroom fan with a fan/light combination unit if there's enough space and suitable electrical wiring, though an additional wire might be needed for the light function."
+      }
+    }
+  ],
+  "description": "Yes, you can replace an existing bathroom fan with a fan/light combination unit if there's enough space and suitable electrical wiring, though an additional wir"
+}

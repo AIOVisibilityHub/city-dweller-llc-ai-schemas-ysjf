@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-install-a-bathroom-night-light",
+  "name": "How much does it cost to install a bathroom night light?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install a bathroom night light?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of installing a bathroom night light varies depending on several factors, such as the type of light chosen, whether new wiring is required, and the complexity of the installation. A simple plug-in or battery-operated light might have minimal installation costs, while hardwired options requiring electrical work will be higher. We provide detailed estimates after assessing your specific project and the existing electrical infrastructure in your Pacifica, Daly City, or South San Francisco home. Material costs for the light itself are also a factor.",
+        "@type": "Answer",
+        "description": "Installation cost varies based on light type, wiring needs, and project complexity. Hardwired lights typically cost more due to electrical work."
+      }
+    }
+  ],
+  "description": "Installation cost varies based on light type, wiring needs, and project complexity. Hardwired lights typically cost more due to electrical work."
+}

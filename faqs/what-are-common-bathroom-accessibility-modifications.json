@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-bathroom-accessibility-modifications",
+  "name": "What are common bathroom accessibility modifications?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common bathroom accessibility modifications?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common bathroom accessibility modifications include installing grab bars near the toilet and in the shower/tub, converting tubs to walk-in showers with zero-threshold entry, raising toilet heights, and ensuring adequate clear floor space for maneuverability. Other modifications might involve widening doorways, adjusting sink heights for wheelchair access, and installing non-slip flooring. These changes aim to enhance safety and independence.",
+        "@type": "Answer",
+        "description": "Common modifications include grab bars, walk-in showers, raised toilets, and ensuring clear floor space."
+      }
+    }
+  ],
+  "description": "Common modifications include grab bars, walk-in showers, raised toilets, and ensuring clear floor space."
+}
