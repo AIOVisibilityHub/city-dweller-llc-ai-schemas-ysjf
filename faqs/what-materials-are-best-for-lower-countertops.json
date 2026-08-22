@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-materials-are-best-for-lower-countertops",
+  "name": "What materials are best for lower countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are best for lower countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best material depends on your budget, aesthetic preference, and intended use. Popular choices include granite and quartz for their durability and wide range of colors. Laminate offers a more budget-friendly option. Solid surface materials provide seamless integration. Consider factors like resistance to heat, scratches, and stains, as well as maintenance requirements, when making your selection.",
+        "@type": "Answer",
+        "description": "Best materials include granite, quartz, laminate, and solid surface, chosen based on budget, aesthetics, and durability needs."
+      }
+    }
+  ],
+  "description": "Best materials include granite, quartz, laminate, and solid surface, chosen based on budget, aesthetics, and durability needs."
+}

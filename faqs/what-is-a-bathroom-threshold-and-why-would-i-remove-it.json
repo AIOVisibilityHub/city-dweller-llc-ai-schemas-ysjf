@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-bathroom-threshold-and-why-would-i-remove-it",
+  "name": "What is a bathroom threshold and why would I remove it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a bathroom threshold and why would I remove it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom threshold, also known as a curb or a step-over, is the raised barrier at the entrance of a shower or bathtub. Removing it creates a curbless or walk-in shower design, which offers several benefits. This modification improves accessibility for individuals with mobility challenges, making it easier and safer to enter and exit the shower. It also creates a more seamless, open aesthetic in the bathroom, contributing to a modern and spacious feel. Threshold removal is a common component of universal design or aging-in-place bathroom renovations.",
+        "@type": "Answer",
+        "description": "A bathroom threshold is the raised barrier at a shower entrance. Removing it improves accessibility and creates a modern, curbless shower design."
+      }
+    }
+  ],
+  "description": "A bathroom threshold is the raised barrier at a shower entrance. Removing it improves accessibility and creates a modern, curbless shower design."
+}

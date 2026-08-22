@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-easy-access-drawers-and-how-do-they-differ-from-standard-shelves",
+  "name": "What are easy access drawers and how do they differ from standard shelves?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are easy access drawers and how do they differ from standard shelves?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Easy access drawers, also known as pull-out shelves or rollout drawers, are custom-built units installed within existing cabinetry. Unlike fixed shelves, these drawers glide out smoothly, bringing the contents into full view and easy reach. This design significantly improves organization and accessibility, especially for items stored in the back of deep cabinets or pantries. Standard shelves require reaching and often kneeling to access items, whereas pull-out drawers eliminate this strain by presenting everything forward.",
+        "@type": "Answer",
+        "description": "Easy access drawers are pull-out units that glide out of cabinets, providing full visibility and easy reach, unlike fixed shelves."
+      }
+    }
+  ],
+  "description": "Easy access drawers are pull-out units that glide out of cabinets, providing full visibility and easy reach, unlike fixed shelves."
+}

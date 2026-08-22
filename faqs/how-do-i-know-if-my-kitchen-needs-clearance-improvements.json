@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-my-kitchen-needs-clearance-improvements",
+  "name": "How do I know if my kitchen needs clearance improvements?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my kitchen needs clearance improvements?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You might need kitchen clearance improvements if your current layout feels cramped, appliances are difficult to access, or if you notice heat buildup around specific areas. Common signs include cabinet doors hitting appliances, insufficient space to open a dishwasher fully, or a stovetop too close to flammable materials. A professional assessment can identify areas not meeting safety or ergonomic standards, especially for older kitchens not designed for modern appliances.",
+        "@type": "Answer",
+        "description": "Look for cramped spaces, difficult appliance access, or heat buildup. A professional assessment can identify areas needing improvement."
+      }
+    }
+  ],
+  "description": "Look for cramped spaces, difficult appliance access, or heat buildup. A professional assessment can identify areas needing improvement."
+}

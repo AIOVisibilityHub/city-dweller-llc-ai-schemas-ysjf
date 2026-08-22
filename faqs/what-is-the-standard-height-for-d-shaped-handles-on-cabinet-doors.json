@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-standard-height-for-d-shaped-handles-on-cabinet-doors",
+  "name": "What is the standard height for D-shaped handles on cabinet doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the standard height for D-shaped handles on cabinet doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For upper cabinet doors, D-shaped handles are typically placed on the bottom rail of the door frame, 2-3 inches from the bottom edge. For lower cabinet doors, they are usually installed on the top rail, 2-3 inches from the top edge. The goal is to place them at a comfortable height for opening while maintaining a consistent visual line across your cabinetry. This ensures both functionality and aesthetic appeal.",
+        "@type": "Answer",
+        "description": "For upper doors, handles are 2-3 inches from the bottom edge; for lower doors, 2-3 inches from the top edge for comfortable access."
+      }
+    }
+  ],
+  "description": "For upper doors, handles are 2-3 inches from the bottom edge; for lower doors, 2-3 inches from the top edge for comfortable access."
+}

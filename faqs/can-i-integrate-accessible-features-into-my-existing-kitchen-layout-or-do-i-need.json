@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-integrate-accessible-features-into-my-existing-kitchen-layout-or-do-i-need",
+  "name": "Can I integrate accessible features into my existing kitchen layout, or do I need a full remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I integrate accessible features into my existing kitchen layout, or do I need a full remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need a full remodel or can integrate features into an existing layout depends on your current kitchen's configuration and the extent of accessibility required. Minor changes like replacing a sink with a roll-under model, lowering a section of counter, or swapping out appliances may be possible without a full remodel. However, if wider doorways, a larger turning radius, or significant reconfigurations are needed, a full remodel might be necessary. A professional assessment can determine the most effective approach.",
+        "@type": "Answer",
+        "description": "It depends on your current layout; minor changes might integrate existing features, but significant reconfigurations often require a full remodel."
+      }
+    }
+  ],
+  "description": "It depends on your current layout; minor changes might integrate existing features, but significant reconfigurations often require a full remodel."
+}

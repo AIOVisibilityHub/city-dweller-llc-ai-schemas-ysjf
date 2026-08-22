@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-installing-accessible-outlets-in-an-existing-kitchen",
+  "name": "What is the process for installing accessible outlets in an existing kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing accessible outlets in an existing kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing accessible outlets in an existing kitchen typically involves assessing current electrical wiring, identifying suitable locations within the accessible height ranges, and potentially rerouting or adding new circuits. The process includes opening walls to run new wiring, installing new electrical boxes, connecting outlets, and patching and finishing the walls. Professional electricians ensure work meets safety standards and local codes.",
+        "@type": "Answer",
+        "description": "The process involves assessing current wiring, identifying suitable locations, running new wires, installing boxes and outlets, and then finishing the walls."
+      }
+    }
+  ],
+  "description": "The process involves assessing current wiring, identifying suitable locations, running new wires, installing boxes and outlets, and then finishing the walls."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-does-kitchen-pathway-widening-involve",
+  "name": "What does 'kitchen pathway widening' involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does 'kitchen pathway widening' involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kitchen pathway widening involves structural and design modifications to increase the clear walking space within your kitchen. This can include relocating or removing non-load-bearing walls, reconfiguring appliance placement, or adjusting cabinetry layouts. The goal is to improve traffic flow, enhance accessibility, and create a more open feel in the kitchen. It often requires careful planning to ensure compliance with local building codes and maintain the structural integrity of your home.",
+        "@type": "Answer",
+        "description": "It involves structural and design changes to increase walking space in your kitchen, often by relocating walls or reconfiguring layouts."
+      }
+    }
+  ],
+  "description": "It involves structural and design changes to increase walking space in your kitchen, often by relocating walls or reconfiguring layouts."
+}

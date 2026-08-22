@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-single-hole-and-multi-hole-lever-style-faucet-inst",
+  "name": "What's the difference between single-hole and multi-hole lever style faucet installations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between single-hole and multi-hole lever style faucet installations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary difference lies in the number of holes required in your sink or countertop for installation. A single-hole lever style faucet only needs one opening, through which the faucet body and handle are mounted. Multi-hole faucets, often 2, 3, or 4 holes, accommodate separate components such as a sprayer, soap dispenser, or additional handles for hot and cold water (though lever styles typically integrate temperature control into one handle). Your existing sink's drilling configuration will largely dictate which type of faucet you can install without modifications.",
+        "@type": "Answer",
+        "description": "Single-hole faucets use one opening, while multi-hole faucets use several for additional components like sprayers or soap dispensers."
+      }
+    }
+  ],
+  "description": "Single-hole faucets use one opening, while multi-hole faucets use several for additional components like sprayers or soap dispensers."
+}

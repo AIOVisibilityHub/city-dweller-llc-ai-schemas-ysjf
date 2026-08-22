@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-common-trip-hazards-are-found-in-a-kitchen",
+  "name": "What common trip hazards are found in a kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common trip hazards are found in a kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common kitchen trip hazards include loose floor tiles, uneven flooring transitions, damaged linoleum or vinyl, worn-out carpets or rugs, and improperly secured wires or cables. Water spills and debris can also create temporary hazards. Identifying and addressing these issues promptly helps prevent falls and ensures a safer kitchen environment for everyone.",
+        "@type": "Answer",
+        "description": "Common kitchen trip hazards include loose tiles, uneven flooring, damaged surfaces, and unsecured wires."
+      }
+    }
+  ],
+  "description": "Common kitchen trip hazards include loose tiles, uneven flooring, damaged surfaces, and unsecured wires."
+}

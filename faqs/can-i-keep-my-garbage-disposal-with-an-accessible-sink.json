@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-keep-my-garbage-disposal-with-an-accessible-sink",
+  "name": "Can I keep my garbage disposal with an accessible sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I keep my garbage disposal with an accessible sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Keeping a garbage disposal with an accessible kitchen sink is possible, but it requires careful planning to maintain proper knee and toe clearance. Standard garbage disposals can often obstruct the necessary space beneath the sink. Specialized compact or offset disposal units are available that can be installed to minimize their protrusion, ensuring the ADA-required clearance is preserved. Your contractor can help determine the best solution for your setup.",
+        "@type": "Answer",
+        "description": "Yes, but careful planning or specialized compact/offset disposal units are needed to ensure proper knee and toe clearance under an accessible sink."
+      }
+    }
+  ],
+  "description": "Yes, but careful planning or specialized compact/offset disposal units are needed to ensure proper knee and toe clearance under an accessible sink."
+}

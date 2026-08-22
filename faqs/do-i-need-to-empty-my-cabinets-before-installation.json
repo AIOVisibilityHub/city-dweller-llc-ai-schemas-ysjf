@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-empty-my-cabinets-before-installation",
+  "name": "Do I need to empty my cabinets before installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to empty my cabinets before installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is necessary to completely empty the cabinets where pull-down shelves will be installed. This allows our team clear access to the cabinet interior for measurements, mounting, and any required modifications. Clearing the space beforehand helps expedite the installation process and ensures a smooth, efficient job. We recommend also clearing the countertop space directly below the cabinets for easier access.",
+        "@type": "Answer",
+        "description": "Yes, you need to empty your cabinets completely before installation to provide clear access for measurements and mounting."
+      }
+    }
+  ],
+  "description": "Yes, you need to empty your cabinets completely before installation to provide clear access for measurements and mounting."
+}

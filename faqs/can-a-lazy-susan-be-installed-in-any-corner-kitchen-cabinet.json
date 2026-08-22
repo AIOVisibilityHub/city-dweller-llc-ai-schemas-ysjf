@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-a-lazy-susan-be-installed-in-any-corner-kitchen-cabinet",
+  "name": "Can a Lazy Susan be installed in any corner kitchen cabinet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a Lazy Susan be installed in any corner kitchen cabinet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While most standard corner kitchen cabinets can accommodate a Lazy Susan, not all are ideally suited without modifications. Diagonal corner cabinets are generally easiest to fit with full-round units. Blind corner cabinets, which have an inaccessible space, often require kidney-shaped or pull-out Lazy Susan systems designed to bring the shelves forward. The internal dimensions, door opening, and presence of obstacles like plumbing or structural elements will determine feasibility. A professional assessment can confirm if your specific cabinet is compatible and what type of Lazy Susan would work best.",
+        "@type": "Answer",
+        "description": "Most standard corner cabinets can fit a Lazy Susan, but blind corners may need specific types. Internal dimensions and obstacles affect feasibility."
+      }
+    }
+  ],
+  "description": "Most standard corner cabinets can fit a Lazy Susan, but blind corners may need specific types. Internal dimensions and obstacles affect feasibility."
+}

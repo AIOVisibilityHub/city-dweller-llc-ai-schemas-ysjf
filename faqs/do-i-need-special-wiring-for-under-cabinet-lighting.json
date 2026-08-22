@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-special-wiring-for-under-cabinet-lighting",
+  "name": "Do I need special wiring for under cabinet lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need special wiring for under cabinet lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need special wiring depends on the type of under cabinet lighting you choose. Low-voltage LED systems often require a transformer, but some can plug directly into existing outlets. Hardwired systems, which integrate directly into your home's electrical system, usually require new wiring to be run to the installation points. This often involves connecting to an existing switch or installing a new one. Our electricians will assess your current setup and recommend the safest and most efficient wiring solution.",
+        "@type": "Answer",
+        "description": "Special wiring may be needed for hardwired systems or if new electrical circuits are required; plug-in options use existing outlets."
+      }
+    }
+  ],
+  "description": "Special wiring may be needed for hardwired systems or if new electrical circuits are required; plug-in options use existing outlets."
+}

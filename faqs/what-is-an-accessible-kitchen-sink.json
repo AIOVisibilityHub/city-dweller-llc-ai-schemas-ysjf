@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-an-accessible-kitchen-sink",
+  "name": "What is an accessible kitchen sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an accessible kitchen sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An accessible kitchen sink is designed to be easily used by individuals with disabilities, particularly those using wheelchairs. Key features include open space beneath the sink for knee and toe clearance, appropriate rim height, and controls that are easily reachable and operable with one hand, such as lever or motion-activated faucets. The goal is to provide a safe, comfortable, and independent experience for all users in the kitchen.",
+        "@type": "Answer",
+        "description": "An accessible kitchen sink provides open space for wheelchair users, appropriate rim height, and easy-to-operate controls for independent use."
+      }
+    }
+  ],
+  "description": "An accessible kitchen sink provides open space for wheelchair users, appropriate rim height, and easy-to-operate controls for independent use."
+}

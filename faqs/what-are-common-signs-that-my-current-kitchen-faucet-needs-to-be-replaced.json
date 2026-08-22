@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-signs-that-my-current-kitchen-faucet-needs-to-be-replaced",
+  "name": "What are common signs that my current kitchen faucet needs to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my current kitchen faucet needs to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several signs indicate your kitchen faucet may need replacement. Persistent leaks, even after tightening or replacing washers, are a clear indicator. Visible rust or corrosion on the faucet body or handles can also compromise its function and appearance. Low water pressure, strange noises, or difficulty adjusting temperature or flow suggest internal component failure. If your faucet frequently clogs or sprays erratically, it might be more cost-effective to replace it than repair it, especially if it's an older model.",
+        "@type": "Answer",
+        "description": "Signs include persistent leaks, rust or corrosion, low water pressure, difficulty with temperature/flow, or frequent clogs."
+      }
+    }
+  ],
+  "description": "Signs include persistent leaks, rust or corrosion, low water pressure, difficulty with temperature/flow, or frequent clogs."
+}

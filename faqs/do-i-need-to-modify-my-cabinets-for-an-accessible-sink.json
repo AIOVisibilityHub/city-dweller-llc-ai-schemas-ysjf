@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-modify-my-cabinets-for-an-accessible-sink",
+  "name": "Do I need to modify my cabinets for an accessible sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to modify my cabinets for an accessible sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, modifications to your existing cabinetry are often necessary when installing an accessible kitchen sink. The primary goal is to create unobstructed knee and toe clearance under the sink. This usually involves removing the cabinet doors and the floor of the cabinet directly beneath the sink. Sometimes, the entire cabinet base might need to be replaced with a roll-under unit or a custom-built solution that provides the required open space.",
+        "@type": "Answer",
+        "description": "Yes, cabinet modifications are often needed to create unobstructed knee and toe clearance under an accessible sink, usually involving removing cabinet doors and floors."
+      }
+    }
+  ],
+  "description": "Yes, cabinet modifications are often needed to create unobstructed knee and toe clearance under an accessible sink, usually involving removing cabinet doors and"
+}

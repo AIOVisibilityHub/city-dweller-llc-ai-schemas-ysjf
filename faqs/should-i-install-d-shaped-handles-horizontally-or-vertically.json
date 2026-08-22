@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-install-d-shaped-handles-horizontally-or-vertically",
+  "name": "Should I install D-shaped handles horizontally or vertically?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I install D-shaped handles horizontally or vertically?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The orientation of D-shaped handles is primarily functional and aesthetic. For cabinet doors, handles are almost always installed vertically along the stile (the vertical frame piece) opposite the hinges. For drawers, handles are typically installed horizontally in the center of the drawer face. This standard placement ensures ease of use and maintains a consistent look throughout your kitchen or bathroom cabinetry.",
+        "@type": "Answer",
+        "description": "Install D-shaped handles vertically on cabinet doors and horizontally on drawers for best function and aesthetic."
+      }
+    }
+  ],
+  "description": "Install D-shaped handles vertically on cabinet doors and horizontally on drawers for best function and aesthetic."
+}

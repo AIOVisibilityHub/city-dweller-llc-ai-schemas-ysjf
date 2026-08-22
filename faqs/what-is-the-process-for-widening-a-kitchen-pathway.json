@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-widening-a-kitchen-pathway",
+  "name": "What is the process for widening a kitchen pathway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for widening a kitchen pathway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation to understand your needs and assess the existing kitchen layout. This is followed by design and planning, where we develop detailed blueprints and material selections. Once designs are approved, we handle permit acquisition. Construction involves demolition, structural work (if needed), utility rough-ins, new framing, drywall, flooring, and finishing touches like painting and trim. Regular communication ensures you are informed throughout each phase, culminating in a final walkthrough.",
+        "@type": "Answer",
+        "description": "The process includes consultation, design, permitting, demolition, structural work, utility rough-ins, finishing, and a final walkthrough."
+      }
+    }
+  ],
+  "description": "The process includes consultation, design, permitting, demolition, structural work, utility rough-ins, finishing, and a final walkthrough."
+}

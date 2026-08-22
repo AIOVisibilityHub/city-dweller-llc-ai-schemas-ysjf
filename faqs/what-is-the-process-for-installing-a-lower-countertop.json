@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-installing-a-lower-countertop",
+  "name": "What is the process for installing a lower countertop?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing a lower countertop?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with a consultation to determine your specific height and design needs. This is followed by precise templating of the area. Once the countertop is fabricated, old countertops are removed, cabinets are adjusted if necessary, and the new lower countertop is carefully installed, leveled, and secured. Final steps include sealing (if required) and integrating sinks or cooktops.",
+        "@type": "Answer",
+        "description": "The process involves consultation, templating, fabrication, old countertop removal, cabinet adjustment, and new countertop installation."
+      }
+    }
+  ],
+  "description": "The process involves consultation, templating, fabrication, old countertop removal, cabinet adjustment, and new countertop installation."
+}

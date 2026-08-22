@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-choose-a-pocket-door-or-a-swing-door-for-a-widened-bathroom-doorway",
+  "name": "Should I choose a pocket door or a swing door for a widened bathroom doorway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose a pocket door or a swing door for a widened bathroom doorway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice between a pocket door and a swing door for a widened bathroom doorway depends on space availability and functional preference. A swing door is traditional, cost-effective, and offers good privacy and soundproofing. However, it requires clear floor space for its swing arc. A pocket door slides into the wall, saving floor space, which is ideal for smaller bathrooms or those requiring maximum maneuverability. They can be more complex to install and may offer less sound isolation. Consider your bathroom layout and accessibility needs when making this decision.",
+        "@type": "Answer",
+        "description": "Choose a pocket door to save floor space, ideal for smaller bathrooms; a swing door is traditional, cost-effective, and offers better soundproofing."
+      }
+    }
+  ],
+  "description": "Choose a pocket door to save floor space, ideal for smaller bathrooms; a swing door is traditional, cost-effective, and offers better soundproofing."
+}

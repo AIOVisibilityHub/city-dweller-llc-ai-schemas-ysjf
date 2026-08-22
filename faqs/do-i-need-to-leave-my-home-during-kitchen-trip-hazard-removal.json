@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-leave-my-home-during-kitchen-trip-hazard-removal",
+  "name": "Do I need to leave my home during kitchen trip hazard removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to leave my home during kitchen trip hazard removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need to leave your home during kitchen trip hazard removal depends on the scope of the project. For minor repairs, it's often possible to remain in your home, though the kitchen area itself might be temporarily inaccessible. For more extensive work involving significant dust, noise, or fumes, temporary relocation might be recommended for your comfort and safety. We will advise you on this upfront.",
+        "@type": "Answer",
+        "description": "For minor repairs, you might stay home, but for extensive work with dust or fumes, temporary relocation may be advised."
+      }
+    }
+  ],
+  "description": "For minor repairs, you might stay home, but for extensive work with dust or fumes, temporary relocation may be advised."
+}

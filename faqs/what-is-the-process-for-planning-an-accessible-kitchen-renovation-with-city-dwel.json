@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-planning-an-accessible-kitchen-renovation-with-city-dwel",
+  "name": "What is the process for planning an accessible kitchen renovation with City Dweller, LLC?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for planning an accessible kitchen renovation with City Dweller, LLC?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation to understand your specific needs, preferences, and the existing space. We then develop a detailed design plan, incorporating accessibility features and material selections. Once the design is approved, we provide a transparent cost estimate and timeline. Upon agreement, our team handles all necessary permits and manages the construction phase, keeping you informed throughout the project until completion.",
+        "@type": "Answer",
+        "description": "Our process involves an initial consultation, design planning, detailed estimate, permit handling, and expert construction management through to completion."
+      }
+    }
+  ],
+  "description": "Our process involves an initial consultation, design planning, detailed estimate, permit handling, and expert construction management through to completion."
+}

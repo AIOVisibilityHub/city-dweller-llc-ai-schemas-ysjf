@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-remodeling-a-kitchen-to-be-senior-friendly",
+  "name": "What is the process for remodeling a kitchen to be senior-friendly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for remodeling a kitchen to be senior-friendly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an initial consultation to understand your specific needs, preferences, and the current kitchen layout. We then create a design plan incorporating accessibility features such as appropriate counter heights, cabinet modifications, and safe flooring options. After design approval and material selection, we handle all necessary permits. Construction involves demolition, structural changes if needed, installation of new features, and finishing touches. Throughout the project, we maintain clear communication and ensure adherence to safety standards.",
+        "@type": "Answer",
+        "description": "The process involves an initial consultation, design planning for accessibility, permit acquisition, and construction, with ongoing communication and safety adherence."
+      }
+    }
+  ],
+  "description": "The process involves an initial consultation, design planning for accessibility, permit acquisition, and construction, with ongoing communication and safety adh"
+}

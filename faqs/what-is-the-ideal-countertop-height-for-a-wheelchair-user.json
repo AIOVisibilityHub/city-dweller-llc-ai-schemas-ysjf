@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-ideal-countertop-height-for-a-wheelchair-user",
+  "name": "What is the ideal countertop height for a wheelchair user?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the ideal countertop height for a wheelchair user?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most wheelchair users, the ideal countertop height is typically between 30 to 34 inches from the finished floor. This range allows for comfortable seated access for meal preparation and other kitchen tasks. Some kitchens might incorporate varying heights, with sections at 30 inches for roll-under access and other sections at 34 inches for specific tasks or standing users. The optimal height can also depend on the individual's specific wheelchair and personal preference.",
+        "@type": "Answer",
+        "description": "The ideal countertop height for wheelchair users is typically 30 to 34 inches from the floor, allowing comfortable seated access."
+      }
+    }
+  ],
+  "description": "The ideal countertop height for wheelchair users is typically 30 to 34 inches from the floor, allowing comfortable seated access."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-integrate-a-sink-or-cooktop-into-a-lower-countertop",
+  "name": "Can I integrate a sink or cooktop into a lower countertop?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I integrate a sink or cooktop into a lower countertop?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, integrating sinks and cooktops into lower countertops is common and essential for functionality. Careful planning is required to ensure proper clearance for plumbing and electrical connections underneath the reduced height. Depending on the depth of the sink or cooktop and the desired countertop height, specific models or custom cabinet modifications may be necessary to accommodate them.",
+        "@type": "Answer",
+        "description": "Yes, sinks and cooktops can be integrated, but it requires careful planning for plumbing, electrical, and cabinet clearances."
+      }
+    }
+  ],
+  "description": "Yes, sinks and cooktops can be integrated, but it requires careful planning for plumbing, electrical, and cabinet clearances."
+}

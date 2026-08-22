@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-size-lazy-susan-for-my-cabinet",
+  "name": "How do I choose the right size Lazy Susan for my cabinet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right size Lazy Susan for my cabinet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right size Lazy Susan involves careful measurement of your cabinet's interior. For corner cabinets, measure the width and depth of the cabinet opening and the internal depth from the front edge to the back wall. For diagonal corner cabinets, also consider the diagonal measurement. It’s crucial to leave adequate clearance for the shelves to rotate freely without hitting the cabinet frame, hinges, or the door. Account for any obstructions like plumbing. Consulting with a professional can help ensure accurate measurements and selection of a unit that maximizes space without interfering with cabinet function.",
+        "@type": "Answer",
+        "description": "Measure your cabinet's interior width, depth, and diagonal (if applicable), ensuring clearance for rotation. A professional can assist with precise measurements."
+      }
+    }
+  ],
+  "description": "Measure your cabinet's interior width, depth, and diagonal (if applicable), ensuring clearance for rotation. A professional can assist with precise measurements"
+}

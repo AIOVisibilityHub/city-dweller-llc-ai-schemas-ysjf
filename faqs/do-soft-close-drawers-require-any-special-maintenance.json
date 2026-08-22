@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-soft-close-drawers-require-any-special-maintenance",
+  "name": "Do soft close drawers require any special maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do soft close drawers require any special maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Soft close drawer slides are designed for durability and generally require minimal special maintenance. Periodically, you can wipe them clean with a damp cloth to remove dust or debris, ensuring smooth operation. Avoid using harsh chemical cleaners, as they can damage the finish or lubricants. If a slide becomes stiff over time, a small amount of silicone spray lubricant can be applied sparingly, though this is rarely needed for quality slides.",
+        "@type": "Answer",
+        "description": "Soft close drawers require minimal maintenance; periodic cleaning with a damp cloth is usually sufficient."
+      }
+    }
+  ],
+  "description": "Soft close drawers require minimal maintenance; periodic cleaning with a damp cloth is usually sufficient."
+}

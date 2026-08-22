@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-an-accessible-kitchen-layout",
+  "name": "What is an accessible kitchen layout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an accessible kitchen layout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An accessible kitchen layout is designed to be easily used by individuals with diverse needs, including those using wheelchairs or who have mobility limitations. Key features often include wider doorways and aisles, lower countertops and sinks, pull-out shelves, accessible appliances, and clear floor space for maneuvering. The goal is to create a functional and safe kitchen environment that promotes independence for all users.",
+        "@type": "Answer",
+        "description": "An accessible kitchen layout is designed for easy use by individuals with diverse mobility needs, featuring elements like wider aisles, lower counters, and accessible appliances."
+      }
+    }
+  ],
+  "description": "An accessible kitchen layout is designed for easy use by individuals with diverse mobility needs, featuring elements like wider aisles, lower counters, and acce"
+}

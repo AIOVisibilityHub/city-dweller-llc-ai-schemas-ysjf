@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-any-bathroom-doorway-be-widened-or-are-there-limitations",
+  "name": "Can any bathroom doorway be widened, or are there limitations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can any bathroom doorway be widened, or are there limitations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most bathroom doorways can be widened, but there are potential limitations. The primary consideration is whether the wall is load-bearing. Load-bearing walls require more extensive structural modifications, such as installing a new header, which adds to complexity and cost. Other limitations can include the presence of electrical wiring, plumbing pipes, or HVAC ducts within the wall, which would need to be relocated. Adjacent architectural features, such as a corner or another doorway nearby, can also influence the maximum possible width.",
+        "@type": "Answer",
+        "description": "Most bathroom doorways can be widened, but limitations exist if the wall is load-bearing, or contains electrical, plumbing, or HVAC systems."
+      }
+    }
+  ],
+  "description": "Most bathroom doorways can be widened, but limitations exist if the wall is load-bearing, or contains electrical, plumbing, or HVAC systems."
+}

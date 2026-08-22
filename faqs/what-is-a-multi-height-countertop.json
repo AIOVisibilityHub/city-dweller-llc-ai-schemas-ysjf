@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-multi-height-countertop",
+  "name": "What is a multi-height countertop?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a multi-height countertop?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A multi-height countertop design features different sections of the counter at varying heights. This is often used to create distinct functional zones within a kitchen, such as a lower section for food preparation and a higher section for a breakfast bar or serving area. It can improve ergonomics by accommodating different tasks and users, and adds visual interest to the kitchen design. This approach allows for a more personalized and efficient workspace.",
+        "@type": "Answer",
+        "description": "A multi-height countertop has sections at different elevations, often for distinct functional zones like food prep and breakfast bars."
+      }
+    }
+  ],
+  "description": "A multi-height countertop has sections at different elevations, often for distinct functional zones like food prep and breakfast bars."
+}

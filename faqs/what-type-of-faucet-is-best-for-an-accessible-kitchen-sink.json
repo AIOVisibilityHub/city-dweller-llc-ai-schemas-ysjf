@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-type-of-faucet-is-best-for-an-accessible-kitchen-sink",
+  "name": "What type of faucet is best for an accessible kitchen sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of faucet is best for an accessible kitchen sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For an accessible kitchen sink, single-handle lever faucets or touchless (motion-activated) faucets are highly recommended. Lever faucets are easy to grip and operate with minimal force, making them suitable for individuals with limited dexterity. Touchless faucets offer maximum convenience and hygiene, as they require no physical contact to operate. Avoid knob-style faucets that require twisting or two-handed operation.",
+        "@type": "Answer",
+        "description": "Single-handle lever faucets or touchless faucets are best for accessible kitchen sinks due to their ease of operation and minimal force required."
+      }
+    }
+  ],
+  "description": "Single-handle lever faucets or touchless faucets are best for accessible kitchen sinks due to their ease of operation and minimal force required."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-does-clear-floor-space-affect-accessible-kitchen-outlet-placement",
+  "name": "How does clear floor space affect accessible kitchen outlet placement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does clear floor space affect accessible kitchen outlet placement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Clear floor space is critical for accessible kitchen outlet placement as it ensures a person using a wheelchair or other mobility aid can approach and use the outlet. A minimum of 30 inches by 48 inches of clear floor space must be provided in front of the outlet, allowing for either a forward or parallel approach. This space must be free of obstructions to facilitate safe and independent access.",
+        "@type": "Answer",
+        "description": "Clear floor space (minimum 30x48 inches) ensures a person using a wheelchair can approach and use the outlet without obstruction."
+      }
+    }
+  ],
+  "description": "Clear floor space (minimum 30x48 inches) ensures a person using a wheelchair can approach and use the outlet without obstruction."
+}

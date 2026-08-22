@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-items-can-i-store-on-a-pull-down-shelf",
+  "name": "What types of items can I store on a pull-down shelf?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of items can I store on a pull-down shelf?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pull-down shelves are versatile and can hold a wide range of kitchen items. Common uses include storing everyday dishes, small appliances like blenders or toasters, spices, oils, pantry goods, and cleaning supplies. It's important to consider the weight capacity of the specific shelf system to ensure safe storage. We can help assess your needs and recommend suitable solutions for your items.",
+        "@type": "Answer",
+        "description": "You can store dishes, small appliances, spices, pantry items, and cleaning supplies on pull-down shelves, considering their weight capacity."
+      }
+    }
+  ],
+  "description": "You can store dishes, small appliances, spices, pantry items, and cleaning supplies on pull-down shelves, considering their weight capacity."
+}

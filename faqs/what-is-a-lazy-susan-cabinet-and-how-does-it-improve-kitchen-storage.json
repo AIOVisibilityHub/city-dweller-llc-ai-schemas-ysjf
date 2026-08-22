@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-lazy-susan-cabinet-and-how-does-it-improve-kitchen-storage",
+  "name": "What is a Lazy Susan cabinet and how does it improve kitchen storage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a Lazy Susan cabinet and how does it improve kitchen storage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Lazy Susan cabinet is a rotating shelf system, typically installed in corner base or wall cabinets, designed to optimize storage and accessibility. It allows users to easily access items stored deep within the cabinet by rotating the shelves, eliminating the need to reach or search. This improves kitchen organization, reduces wasted space in awkward corners, and makes stored items more visible and reachable, enhancing overall kitchen functionality and convenience, especially for items like pots, pans, or small appliances.",
+        "@type": "Answer",
+        "description": "A Lazy Susan cabinet is a rotating shelf system that maximizes storage and access in corner cabinets."
+      }
+    }
+  ],
+  "description": "A Lazy Susan cabinet is a rotating shelf system that maximizes storage and access in corner cabinets."
+}

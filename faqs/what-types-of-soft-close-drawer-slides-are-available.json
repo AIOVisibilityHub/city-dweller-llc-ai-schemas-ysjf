@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-soft-close-drawer-slides-are-available",
+  "name": "What types of soft close drawer slides are available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of soft close drawer slides are available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are several types of soft close drawer slides, each with different mounting options. Undermount slides are hidden beneath the drawer, offering a clean aesthetic and full extension. Side-mount slides are visible on the sides of the drawer box and are often more economical. Rear-mount slides attach to the back of the cabinet frame. The choice depends on cabinet construction, desired aesthetics, and weight capacity needs.",
+        "@type": "Answer",
+        "description": "Available types include undermount (hidden), side-mount (visible), and rear-mount slides, varying by aesthetic and function."
+      }
+    }
+  ],
+  "description": "Available types include undermount (hidden), side-mount (visible), and rear-mount slides, varying by aesthetic and function."
+}

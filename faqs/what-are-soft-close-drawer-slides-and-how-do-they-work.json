@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-soft-close-drawer-slides-and-how-do-they-work",
+  "name": "What are soft close drawer slides and how do they work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are soft close drawer slides and how do they work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Soft close drawer slides are hardware mechanisms designed to prevent drawers from slamming shut. They incorporate a damping system, typically a hydraulic or air-filled cylinder, that engages as the drawer approaches its closed position. This system gently decelerates the drawer, ensuring a quiet and controlled closure. This feature protects drawer contents, reduces noise, and extends the lifespan of the cabinetry.",
+        "@type": "Answer",
+        "description": "Soft close drawer slides use a damping mechanism to prevent drawers from slamming shut, ensuring quiet and controlled closure."
+      }
+    }
+  ],
+  "description": "Soft close drawer slides use a damping mechanism to prevent drawers from slamming shut, ensuring quiet and controlled closure."
+}

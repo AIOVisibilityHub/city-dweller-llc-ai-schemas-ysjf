@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-accessible-kitchen-remodeling",
+  "name": "What is accessible kitchen remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is accessible kitchen remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Accessible kitchen remodeling involves modifying a kitchen to be functional and safe for individuals with diverse mobility needs, including those using wheelchairs or with limited dexterity. This can include features like lower countertops, pull-out shelves, wider doorways, roll-under sinks, and easy-to-reach appliances. The goal is to create an environment where everyone can comfortably and independently prepare meals and use the kitchen space.",
+        "@type": "Answer",
+        "description": "Accessible kitchen remodeling adapts kitchens for individuals with diverse mobility needs, incorporating features like lower counters and roll-under sinks."
+      }
+    }
+  ],
+  "description": "Accessible kitchen remodeling adapts kitchens for individuals with diverse mobility needs, incorporating features like lower counters and roll-under sinks."
+}

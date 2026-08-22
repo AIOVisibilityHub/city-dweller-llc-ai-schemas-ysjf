@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-choose-led-halogen-or-fluorescent-for-kitchen-task-lighting",
+  "name": "Should I choose LED, halogen, or fluorescent for kitchen task lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose LED, halogen, or fluorescent for kitchen task lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "LED lighting is generally the superior choice for kitchen task lighting. LEDs are highly energy-efficient, consuming significantly less power than halogen or fluorescent bulbs, which translates to lower electricity bills. They also have an exceptionally long lifespan, reducing the need for frequent bulb replacements. Unlike halogen, LEDs produce very little heat, which is important for comfort and safety in food prep areas. Fluorescent lights, while energy-efficient, can have a flicker and a less desirable color rendition. LEDs offer a wide range of color temperatures and dimming capabilities for optimal flexibility.",
+        "@type": "Answer",
+        "description": "LEDs are recommended for their energy efficiency, long lifespan, low heat output, and versatile color temperature and dimming options compared to halogen or fluorescent."
+      }
+    }
+  ],
+  "description": "LEDs are recommended for their energy efficiency, long lifespan, low heat output, and versatile color temperature and dimming options compared to halogen or flu"
+}

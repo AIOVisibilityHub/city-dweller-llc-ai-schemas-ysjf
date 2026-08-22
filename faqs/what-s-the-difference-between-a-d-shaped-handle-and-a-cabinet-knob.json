@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-a-d-shaped-handle-and-a-cabinet-knob",
+  "name": "What's the difference between a D-shaped handle and a cabinet knob?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a D-shaped handle and a cabinet knob?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main difference between a D-shaped handle (pull) and a cabinet knob lies in their form and installation. D-shaped handles are elongated, requiring two mounting screws, which makes them more stable and often easier to grip, especially for those with limited dexterity. Knobs are smaller, typically round or square, and require only one screw. While knobs offer a minimalist look, pulls provide a more substantial and often more ergonomic grip.",
+        "@type": "Answer",
+        "description": "D-shaped handles are elongated, use two screws, and offer a more substantial grip. Knobs are smaller, use one screw, and have a minimalist look."
+      }
+    }
+  ],
+  "description": "D-shaped handles are elongated, use two screws, and offer a more substantial grip. Knobs are smaller, use one screw, and have a minimalist look."
+}

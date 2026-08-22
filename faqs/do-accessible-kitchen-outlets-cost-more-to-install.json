@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-accessible-kitchen-outlets-cost-more-to-install",
+  "name": "Do accessible kitchen outlets cost more to install?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do accessible kitchen outlets cost more to install?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of installing accessible kitchen outlets can be similar to standard outlets if planned during new construction or a full remodel. However, if modifications are needed in an existing kitchen to meet specific accessibility standards, it might incur additional costs due to rerouting electrical lines, cutting into existing walls, and patching. The primary cost driver is labor for repositioning or adding wiring, not the outlets themselves.",
+        "@type": "Answer",
+        "description": "Installation costs can be similar to standard, but may be higher if existing wiring needs significant modification to meet accessibility standards."
+      }
+    }
+  ],
+  "description": "Installation costs can be similar to standard, but may be higher if existing wiring needs significant modification to meet accessibility standards."
+}

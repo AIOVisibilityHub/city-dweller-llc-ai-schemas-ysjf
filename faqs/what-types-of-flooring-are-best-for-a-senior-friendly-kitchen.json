@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-flooring-are-best-for-a-senior-friendly-kitchen",
+  "name": "What types of flooring are best for a senior-friendly kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of flooring are best for a senior-friendly kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For senior-friendly kitchens, non-slip, low-maintenance flooring options are ideal. Popular choices include vinyl plank flooring, which is durable, water-resistant, and offers good traction. Cork flooring is also an excellent option due to its softness, shock absorption, and natural anti-slip properties. Matte finish tiles with smaller grout lines can provide better grip than highly polished surfaces. The key is to select a material that reduces the risk of slips and falls while being comfortable to stand on.",
+        "@type": "Answer",
+        "description": "Best flooring options include non-slip vinyl plank, shock-absorbing cork, and matte finish tiles, prioritizing safety and comfort."
+      }
+    }
+  ],
+  "description": "Best flooring options include non-slip vinyl plank, shock-absorbing cork, and matte finish tiles, prioritizing safety and comfort."
+}

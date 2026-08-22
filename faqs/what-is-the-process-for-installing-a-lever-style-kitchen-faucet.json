@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-installing-a-lever-style-kitchen-faucet",
+  "name": "What is the process for installing a lever style kitchen faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing a lever style kitchen faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process begins with turning off the water supply to the sink and disconnecting the old faucet. The mounting nuts are then removed, and the old faucet is lifted out. For the new lever faucet, the base gasket is installed, and the faucet is placed into the sink holes. From below, mounting hardware and washers are secured. Supply lines are connected to the hot and cold water valves, and if applicable, a sprayer hose is connected. Finally, the water supply is restored, and the faucet is tested for leaks and proper operation.",
+        "@type": "Answer",
+        "description": "Installation involves removing the old faucet, securing the new one to the sink, connecting water supply lines and sprayer hoses, then testing for leaks."
+      }
+    }
+  ],
+  "description": "Installation involves removing the old faucet, securing the new one to the sink, connecting water supply lines and sprayer hoses, then testing for leaks."
+}

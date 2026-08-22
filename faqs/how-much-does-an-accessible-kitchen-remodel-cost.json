@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-an-accessible-kitchen-remodel-cost",
+  "name": "How much does an accessible kitchen remodel cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does an accessible kitchen remodel cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an accessible kitchen remodel varies widely based on the scope of work, materials chosen, and existing kitchen layout. Minor modifications, like installing new cabinet hardware or a pull-out shelf, can be a few hundred dollars. More extensive renovations involving reconfiguring plumbing, electrical, or structural changes, along with specialized appliances, can range from $20,000 to over $75,000. We provide detailed estimates after an initial consultation.",
+        "@type": "Answer",
+        "description": "Costs for accessible kitchen remodels vary greatly, from minor adjustments costing hundreds to extensive renovations costing $20,000 to over $75,000."
+      }
+    }
+  ],
+  "description": "Costs for accessible kitchen remodels vary greatly, from minor adjustments costing hundreds to extensive renovations costing $20,000 to over $75,000."
+}

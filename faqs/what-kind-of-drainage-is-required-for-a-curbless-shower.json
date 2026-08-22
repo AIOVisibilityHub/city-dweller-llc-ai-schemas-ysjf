@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-drainage-is-required-for-a-curbless-shower",
+  "name": "What kind of drainage is required for a curbless shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of drainage is required for a curbless shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A curbless shower requires careful planning for effective drainage to prevent water from escaping the shower area. This typically involves sloping the shower floor towards a linear drain or a center drain at a specific gradient. The subfloor underneath must be properly prepared and waterproofed, creating a continuous waterproof membrane that extends up the walls. In some cases, a 'zero-threshold' design might still incorporate a subtle, barely visible slope or a slight recess to ensure all water flows directly to the drain.",
+        "@type": "Answer",
+        "description": "Curbless showers require a sloped floor and robust waterproofing towards a linear or center drain to ensure proper water containment and prevent leaks."
+      }
+    }
+  ],
+  "description": "Curbless showers require a sloped floor and robust waterproofing towards a linear or center drain to ensure proper water containment and prevent leaks."
+}

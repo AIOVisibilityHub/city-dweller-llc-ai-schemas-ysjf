@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-accessibility-standards-or-guidelines-do-you-follow-for-senior-friendly-rem",
+  "name": "What accessibility standards or guidelines do you follow for senior-friendly remodels?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What accessibility standards or guidelines do you follow for senior-friendly remodels?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While there aren't specific 'senior-friendly' building codes, we often refer to principles from the Americans with Disabilities Act (ADA) guidelines, universal design principles, and best practices for aging-in-place. These guidelines inform our recommendations for clear pathways, accessible reach ranges, appropriate counter and sink heights, and safe fixture selections. Our focus is on creating an inclusive and safe environment that meets or exceeds general accessibility recommendations, ensuring comfort and functionality for seniors.",
+        "@type": "Answer",
+        "description": "We follow ADA principles, universal design, and aging-in-place best practices for clear pathways, accessible reach, appropriate heights, and safe fixtures to ensure comfort and functionality."
+      }
+    }
+  ],
+  "description": "We follow ADA principles, universal design, and aging-in-place best practices for clear pathways, accessible reach, appropriate heights, and safe fixtures to en"
+}

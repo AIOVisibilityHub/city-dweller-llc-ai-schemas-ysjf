@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-install-non-slip-flooring-over-existing-kitchen-flooring",
+  "name": "Can I install non-slip flooring over existing kitchen flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install non-slip flooring over existing kitchen flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In some cases, non-slip flooring can be installed over existing kitchen flooring, but it depends on the condition and type of the current floor. The existing surface must be clean, dry, level, and structurally sound. For instance, some vinyl or linoleum options can be laid over old flooring if properly prepared. However, damaged or uneven subfloors will require removal of the old material first. We assess each situation individually to recommend the best approach.",
+        "@type": "Answer",
+        "description": "Installation over existing flooring is possible if the current floor is clean, dry, level, and structurally sound."
+      }
+    }
+  ],
+  "description": "Installation over existing flooring is possible if the current floor is clean, dry, level, and structurally sound."
+}

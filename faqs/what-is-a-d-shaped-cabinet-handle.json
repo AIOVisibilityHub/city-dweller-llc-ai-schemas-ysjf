@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-d-shaped-cabinet-handle",
+  "name": "What is a D-shaped cabinet handle?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a D-shaped cabinet handle?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A D-shaped cabinet handle, often called a pull, is characterized by its curved or straight bar shape, resembling the letter 'D' when viewed from the side. It provides a comfortable grip for opening cabinet doors and drawers. These handles are mounted with two screws, typically spaced apart, and come in various finishes and materials to complement different cabinet styles, from modern to traditional.",
+        "@type": "Answer",
+        "description": "A D-shaped cabinet handle is a pull with a curved or straight bar, resembling the letter 'D', providing a comfortable grip for opening cabinets."
+      }
+    }
+  ],
+  "description": "A D-shaped cabinet handle is a pull with a curved or straight bar, resembling the letter 'D', providing a comfortable grip for opening cabinets."
+}

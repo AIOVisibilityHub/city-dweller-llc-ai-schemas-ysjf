@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-tell-if-a-flooring-material-is-truly-non-slip",
+  "name": "How can I tell if a flooring material is truly non-slip?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if a flooring material is truly non-slip?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To assess if a flooring material is truly non-slip, look for its coefficient of friction (COF) rating, though residential products don't always publish this. A higher COF generally indicates better slip resistance. You can also inspect the surface for texture; materials with a slightly rough or embossed finish will offer more grip than smooth, polished surfaces. Consider how the material performs when wet, as this is a critical factor in kitchen environments. Reputable manufacturers often highlight non-slip properties.",
+        "@type": "Answer",
+        "description": "Look for COF ratings or inspect the surface for texture to determine if a flooring material is truly non-slip."
+      }
+    }
+  ],
+  "description": "Look for COF ratings or inspect the surface for texture to determine if a flooring material is truly non-slip."
+}

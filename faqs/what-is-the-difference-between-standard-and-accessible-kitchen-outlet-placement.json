@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-standard-and-accessible-kitchen-outlet-placement",
+  "name": "What is the difference between standard and accessible kitchen outlet placement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between standard and accessible kitchen outlet placement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary difference lies in the height and clear space considerations. Standard kitchen outlet placement often prioritizes convenience for non-disabled users, sometimes placing outlets higher on backsplashes or lower near floors without specific reach range limits. Accessible placement specifically adheres to ADA guidelines, ensuring outlets are within a usable reach range (15-48 inches) and have clear floor space for wheelchair users or those with limited mobility.",
+        "@type": "Answer",
+        "description": "Accessible placement follows ADA guidelines for height (15-48 inches) and clear space, whereas standard placement has broader flexibility."
+      }
+    }
+  ],
+  "description": "Accessible placement follows ADA guidelines for height (15-48 inches) and clear space, whereas standard placement has broader flexibility."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-accessible-appliance-space-planning",
+  "name": "What is accessible appliance space planning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is accessible appliance space planning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Accessible appliance space planning involves designing kitchen and laundry areas to ensure appliances are usable by individuals with diverse physical abilities, including those who use wheelchairs or have limited mobility. This includes considerations like appropriate counter heights, clear floor space for maneuverability, reach ranges for controls, and thoughtful placement of dishwashers, ovens, and washing machines to prevent bending or reaching difficulties. The goal is to create a functional and independent living environment for everyone.",
+        "@type": "Answer",
+        "description": "Accessible appliance space planning designs kitchen and laundry areas so appliances are usable by people with diverse physical abilities. It considers clear floor space, reach ranges, and appliance placement for independence."
+      }
+    }
+  ],
+  "description": "Accessible appliance space planning designs kitchen and laundry areas so appliances are usable by people with diverse physical abilities. It considers clear flo"
+}

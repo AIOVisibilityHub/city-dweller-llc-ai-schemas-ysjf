@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-a-lazy-susan-improve-accessibility-for-individuals-with-mobility-challen",
+  "name": "How can a Lazy Susan improve accessibility for individuals with mobility challenges?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can a Lazy Susan improve accessibility for individuals with mobility challenges?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Lazy Susan significantly enhances accessibility by bringing items from deep within a cabinet to the user without requiring them to bend, reach, or strain. For individuals with mobility challenges, this rotating mechanism minimizes physical exertion and reduces the risk of injury from overstretching. It allows easy access to all stored items with a simple spin, transforming previously difficult-to-use corner spaces into highly functional and accessible storage. This can be particularly beneficial in kitchens, pantries, and even workshops, promoting greater independence and convenience.",
+        "@type": "Answer",
+        "description": "A Lazy Susan improves accessibility by allowing easy, strain-free retrieval of items from deep cabinets, reducing bending and reaching for those with mobility challenges."
+      }
+    }
+  ],
+  "description": "A Lazy Susan improves accessibility by allowing easy, strain-free retrieval of items from deep cabinets, reducing bending and reaching for those with mobility c"
+}

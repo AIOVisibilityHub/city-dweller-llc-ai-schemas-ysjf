@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-widen-my-kitchen-pathway-if-a-wall-is-load-bearing",
+  "name": "Can I widen my kitchen pathway if a wall is load-bearing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I widen my kitchen pathway if a wall is load-bearing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is possible to widen a kitchen pathway even if a wall is load-bearing, but it requires careful structural engineering. A structural engineer will assess the load distribution and design an appropriate support system, typically involving the installation of a beam or header. This work is more complex, takes longer, and is generally more expensive than removing a non-load-bearing wall. It is critical to have this work performed by experienced professionals to ensure the structural integrity and safety of your home.",
+        "@type": "Answer",
+        "description": "Yes, but it requires structural engineering to design and install a support beam, making it more complex and costly than non-load-bearing wall removal."
+      }
+    }
+  ],
+  "description": "Yes, but it requires structural engineering to design and install a support beam, making it more complex and costly than non-load-bearing wall removal."
+}

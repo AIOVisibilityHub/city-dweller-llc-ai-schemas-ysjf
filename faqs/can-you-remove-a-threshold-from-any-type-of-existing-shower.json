@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-you-remove-a-threshold-from-any-type-of-existing-shower",
+  "name": "Can you remove a threshold from any type of existing shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you remove a threshold from any type of existing shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's possible to convert most traditional showers to a curbless design, the feasibility and complexity depend heavily on your existing bathroom structure, especially the floor joists and subfloor height. Showers built on concrete slabs might require more extensive work to create the necessary slope for drainage. Our team performs an initial assessment to determine if your current shower setup is suitable for threshold removal and what modifications would be necessary. This ensures a realistic understanding of the project's scope and potential challenges.",
+        "@type": "Answer",
+        "description": "Most traditional showers can be converted to curbless, but feasibility depends on existing bathroom structure, including floor joists and subfloor height. An assessment determines suitability."
+      }
+    }
+  ],
+  "description": "Most traditional showers can be converted to curbless, but feasibility depends on existing bathroom structure, including floor joists and subfloor height. An as"
+}

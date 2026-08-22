@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-ensure-consistent-handle-placement-when-installing-multiple-d-shaped-ha",
+  "name": "How do I ensure consistent handle placement when installing multiple D-shaped handles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I ensure consistent handle placement when installing multiple D-shaped handles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To ensure consistent placement of multiple D-shaped handles, a cabinet hardware jig or template is highly recommended. These tools allow you to mark identical screw hole locations on every door and drawer front quickly and accurately. If you don't have a jig, careful measurement with a tape measure, a level, and creating your own cardboard template for repeated use can also help achieve a uniform look.",
+        "@type": "Answer",
+        "description": "Use a cabinet hardware jig or template for consistent placement. Careful measurements and a homemade template can also work."
+      }
+    }
+  ],
+  "description": "Use a cabinet hardware jig or template for consistent placement. Careful measurements and a homemade template can also work."
+}

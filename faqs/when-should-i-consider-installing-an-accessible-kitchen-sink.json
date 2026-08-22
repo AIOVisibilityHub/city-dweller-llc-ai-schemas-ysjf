@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-installing-an-accessible-kitchen-sink",
+  "name": "When should I consider installing an accessible kitchen sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider installing an accessible kitchen sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider installing an accessible kitchen sink if a household member uses a wheelchair or has mobility challenges that make a standard sink difficult or unsafe to use. It's also a valuable consideration during a kitchen renovation or new construction project to ensure your home is functional for all current and future needs. Proactively making your kitchen accessible enhances independence and safety for everyone.",
+        "@type": "Answer",
+        "description": "Consider installing an accessible kitchen sink if a household member uses a wheelchair or has mobility challenges, or during a kitchen renovation to enhance universal accessibility."
+      }
+    }
+  ],
+  "description": "Consider installing an accessible kitchen sink if a household member uses a wheelchair or has mobility challenges, or during a kitchen renovation to enhance uni"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/is-non-slip-flooring-necessary-for-a-residential-kitchen",
+  "name": "Is non-slip flooring necessary for a residential kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is non-slip flooring necessary for a residential kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While not always legally required for residential kitchens, non-slip flooring is a recommended safety enhancement. Kitchens are prone to spills, grease, and moisture, which can significantly increase the risk of slips and falls. Opting for non-slip flooring can provide peace of mind and create a safer environment for everyone in your household, especially if children or elderly individuals are present. It's a proactive step to prevent accidents.",
+        "@type": "Answer",
+        "description": "Non-slip flooring is recommended for residential kitchens to enhance safety and prevent slips due to spills and moisture."
+      }
+    }
+  ],
+  "description": "Non-slip flooring is recommended for residential kitchens to enhance safety and prevent slips due to spills and moisture."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-all-bathrooms-need-knee-clearance-under-the-sink",
+  "name": "Do all bathrooms need knee clearance under the sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do all bathrooms need knee clearance under the sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not all bathrooms are legally required to have knee clearance under the sink. It is primarily mandated for new construction or substantial renovations in public accommodations, commercial facilities, and certain multi-family housing under ADA guidelines. For private residences, it's typically a choice made for universal design or to accommodate specific needs. However, incorporating accessible design features like knee clearance can enhance the functionality and value of any home, making it suitable for a wider range of users.",
+        "@type": "Answer",
+        "description": "Knee clearance is mainly required for public and commercial facilities, or new construction/major renovations under ADA. For private homes, it's a beneficial choice for universal design, not always a legal requirement."
+      }
+    }
+  ],
+  "description": "Knee clearance is mainly required for public and commercial facilities, or new construction/major renovations under ADA. For private homes, it's a beneficial ch"
+}

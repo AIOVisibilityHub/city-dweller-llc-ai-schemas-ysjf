@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-materials-are-used-for-easy-access-drawers",
+  "name": "What materials are used for easy access drawers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used for easy access drawers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Easy access drawers are commonly constructed from durable materials such as solid wood (e.g., birch, maple), plywood, or high-quality laminates. The drawer slides, which are crucial for smooth operation, are typically made from steel and feature ball-bearing mechanisms for full extension and quiet closing. Material choice impacts durability and aesthetics, with options available to match your existing cabinetry or achieve a desired new look.",
+        "@type": "Answer",
+        "description": "Easy access drawers use durable materials like solid wood or plywood for boxes and steel ball-bearing slides for smooth operation."
+      }
+    }
+  ],
+  "description": "Easy access drawers use durable materials like solid wood or plywood for boxes and steel ball-bearing slides for smooth operation."
+}

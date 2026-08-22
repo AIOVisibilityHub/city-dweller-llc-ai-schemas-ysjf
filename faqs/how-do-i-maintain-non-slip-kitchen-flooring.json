@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-maintain-non-slip-kitchen-flooring",
+  "name": "How do I maintain non-slip kitchen flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I maintain non-slip kitchen flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintaining non-slip kitchen flooring typically involves regular cleaning to prevent the buildup of grease and dirt, which can compromise its slip-resistant properties. Most non-slip materials can be cleaned with a mild detergent and water. Avoid harsh chemicals or abrasive cleaners that could damage the surface or reduce its texture. Always refer to the manufacturer's specific cleaning instructions for your chosen flooring type to ensure its longevity and performance.",
+        "@type": "Answer",
+        "description": "Maintain non-slip kitchen flooring with regular cleaning using mild detergent and water, avoiding harsh chemicals."
+      }
+    }
+  ],
+  "description": "Maintain non-slip kitchen flooring with regular cleaning using mild detergent and water, avoiding harsh chemicals."
+}

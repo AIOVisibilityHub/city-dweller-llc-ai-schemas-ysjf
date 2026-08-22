@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-easy-access-drawers-be-installed-in-any-existing-cabinet",
+  "name": "Can easy access drawers be installed in any existing cabinet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can easy access drawers be installed in any existing cabinet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most existing cabinets can be retrofitted with easy access drawers, including those in kitchens, pantries, bathrooms, and even garages. Our team assesses your current cabinet structure, dimensions, and door clearances to determine compatibility. In rare cases, minor adjustments to the cabinet interior might be needed to ensure a perfect fit and smooth operation. Custom solutions are also available for uniquely shaped or sized cabinets.",
+        "@type": "Answer",
+        "description": "Most existing cabinets can accommodate easy access drawers after an assessment of structure and dimensions; custom solutions are also available."
+      }
+    }
+  ],
+  "description": "Most existing cabinets can accommodate easy access drawers after an assessment of structure and dimensions; custom solutions are also available."
+}

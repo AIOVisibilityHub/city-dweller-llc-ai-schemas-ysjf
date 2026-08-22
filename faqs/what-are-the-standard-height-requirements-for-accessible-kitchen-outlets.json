@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-standard-height-requirements-for-accessible-kitchen-outlets",
+  "name": "What are the standard height requirements for accessible kitchen outlets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the standard height requirements for accessible kitchen outlets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For accessible kitchens, standard height requirements for outlets generally dictate that they should be placed no lower than 15 inches from the finished floor to the bottom of the receptacle and no higher than 48 inches from the finished floor to the top of the receptacle. This range ensures that outlets are usable by individuals with varying mobility needs, including those in wheelchairs.",
+        "@type": "Answer",
+        "description": "Accessible kitchen outlets should be placed between 15 and 48 inches from the finished floor."
+      }
+    }
+  ],
+  "description": "Accessible kitchen outlets should be placed between 15 and 48 inches from the finished floor."
+}

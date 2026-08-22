@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-permit-to-widen-my-kitchen-pathway-in-the-bay-area",
+  "name": "Do I need a permit to widen my kitchen pathway in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to widen my kitchen pathway in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in most cases, significant kitchen pathway widening projects in the Bay Area (including Pacifica, Daly City, and South San Francisco) require permits. This is particularly true if the work involves structural modifications, such as removing or altering walls, or if plumbing and electrical systems need to be moved. Permits ensure the work complies with local building codes for safety and structural integrity. As a general contractor, we manage the permitting process for our clients.",
+        "@type": "Answer",
+        "description": "Yes, most significant kitchen pathway widening projects, especially those involving structural or utility changes, require permits in the Bay Area."
+      }
+    }
+  ],
+  "description": "Yes, most significant kitchen pathway widening projects, especially those involving structural or utility changes, require permits in the Bay Area."
+}

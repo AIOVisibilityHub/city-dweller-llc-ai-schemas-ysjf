@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-maintenance-required-for-easy-access-drawers",
+  "name": "What is the maintenance required for easy access drawers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the maintenance required for easy access drawers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Easy access drawers are designed for low maintenance. Generally, they only require occasional cleaning with a damp cloth and mild soap. The ball-bearing slides are engineered for smooth, long-lasting performance and typically do not require lubrication. Avoiding overloading the drawers beyond their weight capacity helps maintain their functionality. Should any issues arise, our installation includes a warranty on workmanship and materials.",
+        "@type": "Answer",
+        "description": "Easy access drawers require low maintenance, primarily occasional cleaning. Ball-bearing slides are designed for long-term, smooth operation without lubrication."
+      }
+    }
+  ],
+  "description": "Easy access drawers require low maintenance, primarily occasional cleaning. Ball-bearing slides are designed for long-term, smooth operation without lubrication"
+}

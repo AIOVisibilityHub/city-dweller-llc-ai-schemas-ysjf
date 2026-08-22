@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-kitchen-task-lighting-and-why-do-i-need-it",
+  "name": "What is kitchen task lighting and why do I need it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is kitchen task lighting and why do I need it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kitchen task lighting focuses illumination on specific work areas like countertops, stovetops, and sinks. Unlike general ambient lighting, task lighting reduces shadows and glare, making food preparation, cooking, and cleaning safer and more efficient. It enhances visibility for detailed tasks, preventing eye strain and improving the overall functionality of your kitchen. Common types include under-cabinet lights, pendant lights over islands, and recessed lighting directly above work zones.",
+        "@type": "Answer",
+        "description": "Kitchen task lighting illuminates specific work areas to reduce shadows, improve visibility, and enhance safety and efficiency during food preparation and cooking."
+      }
+    }
+  ],
+  "description": "Kitchen task lighting illuminates specific work areas to reduce shadows, improve visibility, and enhance safety and efficiency during food preparation and cooki"
+}

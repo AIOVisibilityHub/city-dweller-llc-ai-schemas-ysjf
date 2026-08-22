@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-non-slip-kitchen-flooring-are-available",
+  "name": "What types of non-slip kitchen flooring are available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of non-slip kitchen flooring are available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common non-slip kitchen flooring options include vinyl, rubber, textured tiles, and linoleum. Vinyl and rubber are popular for their inherent grip and water resistance. Textured ceramic or porcelain tiles can offer good slip resistance, especially with a suitable coefficient of friction rating. Linoleum, a natural product, can also provide a degree of slip resistance. Each material has different maintenance requirements and aesthetic qualities to consider for your kitchen.",
+        "@type": "Answer",
+        "description": "Available non-slip kitchen flooring options include vinyl, rubber, textured tiles, and linoleum, each offering unique benefits."
+      }
+    }
+  ],
+  "description": "Available non-slip kitchen flooring options include vinyl, rubber, textured tiles, and linoleum, each offering unique benefits."
+}

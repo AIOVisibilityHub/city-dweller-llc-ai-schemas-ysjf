@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-convert-my-existing-drawers-to-soft-close-or-do-i-need-new-cabinets",
+  "name": "Can I convert my existing drawers to soft close, or do I need new cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert my existing drawers to soft close, or do I need new cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Often, you can convert existing drawers to soft close without needing entirely new cabinets. This typically involves replacing your current drawer slides with soft close slides of a compatible size and type. Some systems also allow for adding an external soft close mechanism to existing standard slides. The feasibility depends on your current drawer construction and available space. A professional assessment can determine the best approach for your specific cabinets.",
+        "@type": "Answer",
+        "description": "Many existing drawers can be converted to soft close by replacing slides or adding an external mechanism, depending on drawer construction."
+      }
+    }
+  ],
+  "description": "Many existing drawers can be converted to soft close by replacing slides or adding an external mechanism, depending on drawer construction."
+}

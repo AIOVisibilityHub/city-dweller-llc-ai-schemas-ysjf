@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-modifications-make-a-kitchen-senior-friendly",
+  "name": "What modifications make a kitchen senior-friendly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What modifications make a kitchen senior-friendly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Senior-friendly kitchen modifications focus on safety, accessibility, and ease of use. This often includes features like lower countertop heights, pull-out shelving in cabinets, and wider pathways for mobility aids. Other considerations are lever-style faucet handles, improved lighting to reduce glare and enhance visibility, and non-slip flooring. Incorporating accessible appliance placement, such as wall ovens at an ergonomic height or dishwashers raised slightly off the floor, also significantly improves comfort and independence for seniors.",
+        "@type": "Answer",
+        "description": "Senior-friendly kitchens feature lower countertops, pull-out shelves, wider pathways, lever-style faucets, improved lighting, and non-slip flooring for safety and accessibility."
+      }
+    }
+  ],
+  "description": "Senior-friendly kitchens feature lower countertops, pull-out shelves, wider pathways, lever-style faucets, improved lighting, and non-slip flooring for safety a"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-design-considerations-for-an-accessible-kitchen",
+  "name": "What are the common design considerations for an accessible kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common design considerations for an accessible kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common design considerations include maintaining a minimum of 40-inch wide pathways for wheelchair access, installing adjustable or varying counter heights, and ensuring sinks have clear knee space underneath. Appliances should be chosen for ease of use, such as side-opening ovens or refrigerators with bottom freezers. Controls should be reachable from a seated position, and hardware like D-pulls or loop handles are often preferred over knobs.",
+        "@type": "Answer",
+        "description": "Key considerations include wide pathways, adjustable counter heights, clear knee space at sinks, accessible appliances, and reachable controls."
+      }
+    }
+  ],
+  "description": "Key considerations include wide pathways, adjustable counter heights, clear knee space at sinks, accessible appliances, and reachable controls."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-task-lighting-and-ambient-lighting",
+  "name": "What's the difference between task lighting and ambient lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between task lighting and ambient lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ambient lighting provides general, overall illumination for a room, making it safe and comfortable for basic activities. Examples include ceiling-mounted fixtures or recessed lights spaced evenly across the ceiling. Task lighting, conversely, is specifically designed to illuminate a focused work area, such as a countertop, sink, or stove. Its purpose is to reduce shadows and glare, providing bright, concentrated light where detailed activities occur. While ambient lighting sets the mood, task lighting supports specific functions, and a well-designed kitchen incorporates both for optimal functionality and aesthetics.",
+        "@type": "Answer",
+        "description": "Ambient lighting provides general room illumination, while task lighting specifically focuses bright, concentrated light on work areas to reduce shadows and aid detailed activities."
+      }
+    }
+  ],
+  "description": "Ambient lighting provides general room illumination, while task lighting specifically focuses bright, concentrated light on work areas to reduce shadows and aid"
+}

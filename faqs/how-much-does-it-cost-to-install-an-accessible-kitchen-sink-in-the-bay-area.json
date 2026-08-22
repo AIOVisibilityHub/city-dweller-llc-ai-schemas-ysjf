@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-install-an-accessible-kitchen-sink-in-the-bay-area",
+  "name": "How much does it cost to install an accessible kitchen sink in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install an accessible kitchen sink in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for installing an accessible kitchen sink in the Bay Area can vary widely depending on several factors. These include the type of sink chosen, whether plumbing modifications are needed to accommodate the open space underneath, the complexity of faucet installation, and any necessary countertop adjustments. On average, you might expect costs to range from a few hundred dollars for basic installation to several thousand for more extensive modifications, including material and labor.",
+        "@type": "Answer",
+        "description": "Installation costs for an accessible kitchen sink in the Bay Area vary based on sink type, plumbing modifications, faucet choice, and countertop work, typically ranging from hundreds to several thousand dollars."
+      }
+    }
+  ],
+  "description": "Installation costs for an accessible kitchen sink in the Bay Area vary based on sink type, plumbing modifications, faucet choice, and countertop work, typically"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-materials-are-recommended-for-accessible-kitchen-sinks",
+  "name": "What materials are recommended for accessible kitchen sinks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are recommended for accessible kitchen sinks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing materials for an accessible kitchen sink, prioritize durability, ease of cleaning, and resistance to impact. Stainless steel is a popular choice for its resilience and hygienic properties. Cast iron with an enamel finish also offers durability and a classic look. Ensure the sink edges are smooth and free of sharp corners to prevent injury. Consider a matte finish to reduce glare for visually impaired users.",
+        "@type": "Answer",
+        "description": "Recommended materials include stainless steel and enameled cast iron for durability and ease of cleaning, with smooth edges and matte finishes preferred."
+      }
+    }
+  ],
+  "description": "Recommended materials include stainless steel and enameled cast iron for durability and ease of cleaning, with smooth edges and matte finishes preferred."
+}

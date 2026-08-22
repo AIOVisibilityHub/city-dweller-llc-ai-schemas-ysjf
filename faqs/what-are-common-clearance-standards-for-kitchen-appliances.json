@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-clearance-standards-for-kitchen-appliances",
+  "name": "What are common clearance standards for kitchen appliances?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common clearance standards for kitchen appliances?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common clearance standards for kitchen appliances ensure safe operation and accessibility. For example, ranges typically require specific distances from combustible surfaces, and refrigerators need space for proper ventilation. Dishwashers require adequate room to open fully without obstruction, and microwaves have minimum clearances from heat sources. These standards are often dictated by building codes and appliance manufacturer specifications, varying slightly by region and appliance type.",
+        "@type": "Answer",
+        "description": "Standards dictate distances for safe appliance operation, like range-to-surface clearances and ventilation space for refrigerators."
+      }
+    }
+  ],
+  "description": "Standards dictate distances for safe appliance operation, like range-to-surface clearances and ventilation space for refrigerators."
+}

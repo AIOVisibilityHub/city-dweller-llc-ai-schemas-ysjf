@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-maintenance-is-required-for-multi-height-countertops",
+  "name": "What maintenance is required for multi-height countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for multi-height countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance for multi-height countertops depends primarily on the chosen material. For instance, natural stone like granite or marble may require periodic sealing to maintain stain resistance, while quartz and solid surface materials are non-porous and require less intensive care. Regardless of material, regular cleaning with appropriate, non-abrasive cleaners is recommended. Addressing spills promptly helps prevent staining and preserves the countertop's appearance and longevity across all its levels.",
+        "@type": "Answer",
+        "description": "Maintenance varies by material; natural stone may need sealing, while quartz and solid surface are less demanding, but all require regular cleaning."
+      }
+    }
+  ],
+  "description": "Maintenance varies by material; natural stone may need sealing, while quartz and solid surface are less demanding, but all require regular cleaning."
+}

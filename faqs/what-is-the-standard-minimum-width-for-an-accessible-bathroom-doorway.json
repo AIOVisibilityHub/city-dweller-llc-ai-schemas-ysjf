@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-standard-minimum-width-for-an-accessible-bathroom-doorway",
+  "name": "What is the standard minimum width for an accessible bathroom doorway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the standard minimum width for an accessible bathroom doorway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For an accessible bathroom, the minimum clear opening width for a doorway is typically 32 inches. This measurement refers to the clear space available when the door is open to 90 degrees, not the width of the door slab itself. To achieve a 32-inch clear opening, a standard 34 or 36-inch door slab is often required, depending on the hinge type and frame thickness. This width allows most standard wheelchairs and walkers to pass through comfortably.",
+        "@type": "Answer",
+        "description": "The standard minimum clear opening width for an accessible bathroom doorway is 32 inches, which usually requires a 34 or 36-inch door slab."
+      }
+    }
+  ],
+  "description": "The standard minimum clear opening width for an accessible bathroom doorway is 32 inches, which usually requires a 34 or 36-inch door slab."
+}

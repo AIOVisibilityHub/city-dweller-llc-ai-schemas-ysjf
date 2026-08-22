@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-there-any-specific-plumbing-codes-or-permits-needed-for-faucet-installation",
+  "name": "Are there any specific plumbing codes or permits needed for faucet installation in Bay Area cities like San Bruno or South San Francisco?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any specific plumbing codes or permits needed for faucet installation in Bay Area cities like San Bruno or South San Francisco?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Typically, replacing an existing kitchen faucet with a new one of similar type does not require specific plumbing permits in Bay Area cities like San Bruno or South San Francisco. This is generally considered a minor repair or replacement. However, if the installation involves altering the main water lines, changing the drain system significantly, or moving the sink's location, then permits might be necessary to ensure compliance with local building codes. It's always wise to consult with a local general contractor or your city's planning department if you're unsure about your specific project.",
+        "@type": "Answer",
+        "description": "Replacing an existing faucet usually doesn't need permits in Bay Area cities. Permits may be required if major plumbing alterations are involved."
+      }
+    }
+  ],
+  "description": "Replacing an existing faucet usually doesn't need permits in Bay Area cities. Permits may be required if major plumbing alterations are involved."
+}

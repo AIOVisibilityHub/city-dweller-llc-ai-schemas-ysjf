@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-ada-compliant-and-universal-design-in-kitchens",
+  "name": "What is the difference between ADA compliant and universal design in kitchens?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between ADA compliant and universal design in kitchens?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "ADA compliance refers to specific standards mandated by the Americans with Disabilities Act, primarily for public and commercial spaces, ensuring basic accessibility. Universal design, however, is a broader concept focused on creating environments that are usable by all people, to the greatest extent possible, without the need for adaptation or specialized design. While an ADA compliant kitchen meets minimum legal requirements, a universally designed kitchen often exceeds these, offering enhanced comfort and usability for a wider range of abilities and ages.",
+        "@type": "Answer",
+        "description": "ADA compliance meets minimum legal accessibility standards, while universal design aims to make spaces usable by everyone without special adaptation, often exceeding ADA requirements."
+      }
+    }
+  ],
+  "description": "ADA compliance meets minimum legal accessibility standards, while universal design aims to make spaces usable by everyone without special adaptation, often exce"
+}

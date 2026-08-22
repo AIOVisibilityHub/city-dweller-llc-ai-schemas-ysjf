@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-cabinets-can-have-pull-out-shelves-installed",
+  "name": "What types of cabinets can have pull-out shelves installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of cabinets can have pull-out shelves installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pull-out shelves can be installed in most existing kitchen and pantry cabinets, including base cabinets, tall pantry cabinets, and even some wall cabinets. The primary requirements are sufficient depth and width within the cabinet to accommodate the shelf mechanism and glides. Our team assesses the internal dimensions and structural integrity of your current cabinets to determine compatibility. We can also integrate pull-out shelves into new cabinet installations or kitchen remodels. Custom solutions are often available for irregular cabinet sizes or shapes.",
+        "@type": "Answer",
+        "description": "Most existing base, pantry, and some wall cabinets can accommodate pull-out shelves, depending on their internal dimensions."
+      }
+    }
+  ],
+  "description": "Most existing base, pantry, and some wall cabinets can accommodate pull-out shelves, depending on their internal dimensions."
+}

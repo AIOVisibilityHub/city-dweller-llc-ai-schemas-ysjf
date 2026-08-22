@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-remodeling-a-kitchen-for-wheelchair-accessibility",
+  "name": "What is the process for remodeling a kitchen for wheelchair accessibility?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for remodeling a kitchen for wheelchair accessibility?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with an initial consultation to assess your specific needs and the existing kitchen space. This is followed by design planning, where layouts, materials, and accessible features are selected. Once the design is finalized and approved, permits are secured, and construction begins. This involves demolition, rough-ins for plumbing and electrical, installation of new cabinetry, countertops, appliances, and finishes. Regular communication ensures the project stays on track and meets your expectations.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design planning, permit acquisition, and construction, including demolition, installation of new features, and finishing work."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design planning, permit acquisition, and construction, including demolition, installation of new features, and finishing work"
+}

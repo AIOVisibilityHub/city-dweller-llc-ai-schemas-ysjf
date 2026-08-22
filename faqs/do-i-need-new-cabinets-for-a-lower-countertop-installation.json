@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-new-cabinets-for-a-lower-countertop-installation",
+  "name": "Do I need new cabinets for a lower countertop installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need new cabinets for a lower countertop installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not always. For some lower countertop installations, existing base cabinets can be modified by a skilled contractor to achieve the desired height. This might involve cutting down cabinet boxes or adjusting their mounting. However, if significant height reduction is needed or if your current cabinets are not suitable for modification, replacing them with custom lower-height cabinets might be necessary.",
+        "@type": "Answer",
+        "description": "Not necessarily; existing cabinets can often be modified, but new custom cabinets may be needed for significant height reductions."
+      }
+    }
+  ],
+  "description": "Not necessarily; existing cabinets can often be modified, but new custom cabinets may be needed for significant height reductions."
+}

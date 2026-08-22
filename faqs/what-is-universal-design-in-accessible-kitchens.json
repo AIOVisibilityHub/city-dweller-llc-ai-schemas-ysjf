@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-universal-design-in-accessible-kitchens",
+  "name": "What is universal design in accessible kitchens?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is universal design in accessible kitchens?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Universal design in accessible kitchens means creating a space that is usable by all people, to the greatest extent possible, without the need for adaptation or specialized design. This approach goes beyond basic ADA compliance to consider a wide range of abilities and needs from the outset. Features like varied counter heights, clear floor spaces, lever handles, and easy-to-use controls benefit everyone, not just those with specific mobility challenges, promoting inclusivity and long-term usability.",
+        "@type": "Answer",
+        "description": "Universal design creates kitchens usable by everyone, regardless of ability, incorporating features that benefit all users without specialized adaptation."
+      }
+    }
+  ],
+  "description": "Universal design creates kitchens usable by everyone, regardless of ability, incorporating features that benefit all users without specialized adaptation."
+}

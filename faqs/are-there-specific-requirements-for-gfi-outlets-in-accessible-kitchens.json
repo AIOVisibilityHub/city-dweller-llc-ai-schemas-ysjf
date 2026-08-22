@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-there-specific-requirements-for-gfi-outlets-in-accessible-kitchens",
+  "name": "Are there specific requirements for GFI outlets in accessible kitchens?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific requirements for GFI outlets in accessible kitchens?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Ground Fault Circuit Interrupter (GFCI) protection is required for all outlets serving countertops in kitchens, regardless of accessibility. In an accessible kitchen, these GFCI-protected outlets must still adhere to the accessible height and clear floor space requirements. The GFCI function itself is a safety standard for wet areas and is independent of, but must be combined with, accessibility guidelines for placement.",
+        "@type": "Answer",
+        "description": "GFI protection is required for all kitchen countertop outlets; in accessible kitchens, these GFI outlets must also meet accessible height and clear floor space requirements."
+      }
+    }
+  ],
+  "description": "GFI protection is required for all kitchen countertop outlets; in accessible kitchens, these GFI outlets must also meet accessible height and clear floor space"
+}

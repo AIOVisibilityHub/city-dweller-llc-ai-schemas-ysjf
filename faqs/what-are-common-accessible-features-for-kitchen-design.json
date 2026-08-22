@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-accessible-features-for-kitchen-design",
+  "name": "What are common accessible features for kitchen design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common accessible features for kitchen design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common accessible kitchen features include varied counter heights, allowing for both seated and standing use, and open space beneath sinks and cooktops for wheelchair clearance. Pull-out shelving, drawer dishwashers, and side-opening ovens improve access. Lever handles, touchless faucets, and rocker light switches enhance usability for those with limited hand dexterity. Good lighting and contrasting colors also contribute to a safer, more navigable space.",
+        "@type": "Answer",
+        "description": "Common features include varied counter heights, roll-under sinks, pull-out shelving, and accessible appliances like side-opening ovens."
+      }
+    }
+  ],
+  "description": "Common features include varied counter heights, roll-under sinks, pull-out shelving, and accessible appliances like side-opening ovens."
+}

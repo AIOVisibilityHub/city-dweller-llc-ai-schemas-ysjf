@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-modifications-make-a-kitchen-wheelchair-accessible",
+  "name": "What modifications make a kitchen wheelchair accessible?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What modifications make a kitchen wheelchair accessible?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A wheelchair-accessible kitchen includes features like lower countertops (typically 30-34 inches high), roll-under sink and cooktop areas for seated access, wider doorways and clear floor space (at least 60-inch turning radius) for maneuverability. Other considerations include accessible appliances with front controls, pull-out shelves or drawers, and lever-style faucet handles. The goal is to ensure independence and ease of use for individuals using wheelchairs.",
+        "@type": "Answer",
+        "description": "Modifications include lower countertops, roll-under sink/cooktop, wider doorways, and clear floor space for maneuverability."
+      }
+    }
+  ],
+  "description": "Modifications include lower countertops, roll-under sink/cooktop, wider doorways, and clear floor space for maneuverability."
+}

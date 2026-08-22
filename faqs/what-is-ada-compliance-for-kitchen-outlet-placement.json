@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-ada-compliance-for-kitchen-outlet-placement",
+  "name": "What is ADA compliance for kitchen outlet placement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is ADA compliance for kitchen outlet placement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "ADA compliance for kitchen outlet placement focuses on ensuring outlets are accessible to individuals with disabilities, particularly those using wheelchairs. Key considerations include the height of outlets, ensuring they are within reach ranges (typically between 15 and 48 inches from the floor), and the clear floor space in front of them to allow for approach and use. This ensures users can safely and independently plug in and unplug appliances.",
+        "@type": "Answer",
+        "description": "ADA compliance for kitchen outlets ensures they are within reach (15-48 inches from the floor) and have clear floor space for individuals with disabilities."
+      }
+    }
+  ],
+  "description": "ADA compliance for kitchen outlets ensures they are within reach (15-48 inches from the floor) and have clear floor space for individuals with disabilities."
+}

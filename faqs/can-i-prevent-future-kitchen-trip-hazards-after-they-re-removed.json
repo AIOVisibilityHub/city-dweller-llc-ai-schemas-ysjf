@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-prevent-future-kitchen-trip-hazards-after-they-re-removed",
+  "name": "Can I prevent future kitchen trip hazards after they're removed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I prevent future kitchen trip hazards after they're removed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can take steps to prevent future trip hazards. Regularly inspect your flooring for wear or damage, ensure all rugs have non-slip backing, keep pathways clear of clutter and cords, and promptly clean up spills. Investing in durable flooring materials and professional installation can also contribute to long-term safety. We can offer specific recommendations during our service.",
+        "@type": "Answer",
+        "description": "Yes, regularly inspect flooring, use non-slip rugs, keep paths clear, and promptly clean spills to prevent future hazards."
+      }
+    }
+  ],
+  "description": "Yes, regularly inspect flooring, use non-slip rugs, keep paths clear, and promptly clean spills to prevent future hazards."
+}

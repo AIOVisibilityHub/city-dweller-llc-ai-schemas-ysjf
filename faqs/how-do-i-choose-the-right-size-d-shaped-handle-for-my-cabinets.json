@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-size-d-shaped-handle-for-my-cabinets",
+  "name": "How do I choose the right size D-shaped handle for my cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right size D-shaped handle for my cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selecting the correct size D-shaped handle depends on the cabinet door or drawer dimensions. For standard cabinet doors (12-18 inches wide), handles between 3-5 inches (76-128mm) in length are common. For wider drawers or pantry doors, longer handles (6-12 inches or more) can be more proportionate and functional. Consider the 'center-to-center' measurement (distance between screw holes) as this is crucial for installation and matching existing holes if replacing handles.",
+        "@type": "Answer",
+        "description": "Choose handle size based on cabinet door/drawer dimensions; standard doors often use 3-5 inch handles. Measure center-to-center for screw hole compatibility."
+      }
+    }
+  ],
+  "description": "Choose handle size based on cabinet door/drawer dimensions; standard doors often use 3-5 inch handles. Measure center-to-center for screw hole compatibility."
+}

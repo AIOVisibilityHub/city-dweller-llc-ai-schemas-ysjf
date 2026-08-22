@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-lower-countertop-installation",
+  "name": "What is lower countertop installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is lower countertop installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Lower countertop installation involves fitting and securing new countertops at a reduced height, typically below the standard 36 inches. This modification can improve accessibility for individuals using wheelchairs, children, or those who prefer a lower working surface in kitchens or other areas. It requires careful planning to ensure proper integration with cabinets, appliances, and plumbing.",
+        "@type": "Answer",
+        "description": "Lower countertop installation is fitting new countertops at a reduced height for improved accessibility or preference."
+      }
+    }
+  ],
+  "description": "Lower countertop installation is fitting new countertops at a reduced height for improved accessibility or preference."
+}

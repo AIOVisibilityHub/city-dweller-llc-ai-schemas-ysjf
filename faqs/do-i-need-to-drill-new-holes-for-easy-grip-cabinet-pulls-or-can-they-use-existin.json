@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-drill-new-holes-for-easy-grip-cabinet-pulls-or-can-they-use-existin",
+  "name": "Do I need to drill new holes for 'Easy Grip' cabinet pulls, or can they use existing ones?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to drill new holes for 'Easy Grip' cabinet pulls, or can they use existing ones?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether new holes are needed depends on the center-to-center measurement (CTC) of your new 'Easy Grip' pulls compared to your existing hardware. If the CTC measurement matches, new drilling may not be required. However, many 'Easy Grip' pulls have unique designs or larger footprints that may necessitate drilling new holes, or even filling and refinishing old ones. Our installation service includes assessing your current setup and performing any necessary drilling or modifications to ensure a perfect fit.",
+        "@type": "Answer",
+        "description": "It depends on the new pull's center-to-center measurement versus existing holes. Matching pulls might not need new drilling. Unique or larger 'Easy Grip' pulls often require new holes or modifications."
+      }
+    }
+  ],
+  "description": "It depends on the new pull's center-to-center measurement versus existing holes. Matching pulls might not need new drilling. Unique or larger 'Easy Grip' pulls"
+}

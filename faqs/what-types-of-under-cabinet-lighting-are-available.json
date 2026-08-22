@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-under-cabinet-lighting-are-available",
+  "name": "What types of under cabinet lighting are available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of under cabinet lighting are available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are several common types of under cabinet lighting, each with different features. LED strip lights are popular for their slim profile, energy efficiency, and customizable lengths. Puck lights offer focused illumination and are often used for accent lighting. Bar lights provide more uniform light distribution and are easy to install. Xenon and fluorescent options are also available but are less common now due to LEDs' advantages in energy savings and lifespan. The best choice depends on your desired brightness, aesthetic, and budget.",
+        "@type": "Answer",
+        "description": "Common types include LED strip lights, puck lights, and bar lights, each offering different aesthetics and functionality."
+      }
+    }
+  ],
+  "description": "Common types include LED strip lights, puck lights, and bar lights, each offering different aesthetics and functionality."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-lever-style-kitchen-faucet-and-why-might-i-choose-one",
+  "name": "What is a lever style kitchen faucet and why might I choose one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a lever style kitchen faucet and why might I choose one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A lever style kitchen faucet features a single handle that controls both water temperature and flow. This design is popular for its ease of use, allowing adjustments with one hand, which is convenient when cooking or cleaning. They come in various styles, finishes, and configurations, including pull-down or pull-out sprayers, offering both aesthetic appeal and practical functionality for modern kitchens. Lever faucets are generally durable and offer precise control over water output, making them a common choice for homeowners.",
+        "@type": "Answer",
+        "description": "A lever style kitchen faucet uses a single handle for temperature and flow control, valued for its ease of use and modern aesthetic."
+      }
+    }
+  ],
+  "description": "A lever style kitchen faucet uses a single handle for temperature and flow control, valued for its ease of use and modern aesthetic."
+}

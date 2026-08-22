@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-accessible-appliance-features-for-a-kitchen",
+  "name": "What are common accessible appliance features for a kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common accessible appliance features for a kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Accessible kitchen appliances often feature front-mounted controls for easy reach, side-opening or pull-out oven doors, and induction or smooth cooktops for safer use. Dishwashers may be drawer-style or raised to reduce bending. Refrigerators with side-by-side doors or bottom-freezer drawers are often preferred. Look for appliance models that meet ADA guidelines for usability, ensuring controls are within reach and operable with minimal force.",
+        "@type": "Answer",
+        "description": "Accessible appliances feature front controls, side-opening oven doors, smooth cooktops, and pull-out or raised dishwashers for easier use."
+      }
+    }
+  ],
+  "description": "Accessible appliances feature front controls, side-opening oven doors, smooth cooktops, and pull-out or raised dishwashers for easier use."
+}

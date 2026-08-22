@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-empty-my-cabinets-before-easy-access-drawer-installation",
+  "name": "Do I need to empty my cabinets before easy access drawer installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to empty my cabinets before easy access drawer installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we request that you empty the cabinets where easy access drawers will be installed prior to our arrival. This allows our technicians immediate access to the workspace and helps expedite the installation process. It also protects your belongings from dust or debris that may occur during the work. If emptying cabinets poses a challenge, please discuss this with us during scheduling so we can explore possible accommodations.",
+        "@type": "Answer",
+        "description": "Yes, please empty cabinets prior to easy access drawer installation to provide clear workspace and protect your belongings."
+      }
+    }
+  ],
+  "description": "Yes, please empty cabinets prior to easy access drawer installation to provide clear workspace and protect your belongings."
+}

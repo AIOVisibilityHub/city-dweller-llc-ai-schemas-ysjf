@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-ada-requirements-for-kitchen-sink-height",
+  "name": "What are the ADA requirements for kitchen sink height?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the ADA requirements for kitchen sink height?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For accessible kitchen sinks, the ADA guidelines recommend a maximum counter height of 34 inches above the finished floor. There must also be clear knee and toe space underneath the sink, ensuring at least 27 inches of clearance from the floor to the bottom of the apron. These specifications allow individuals using wheelchairs to comfortably approach and utilize the sink area without obstruction.",
+        "@type": "Answer",
+        "description": "ADA guidelines recommend a maximum counter height of 34 inches for accessible kitchen sinks, with at least 27 inches of clear knee and toe space underneath."
+      }
+    }
+  ],
+  "description": "ADA guidelines recommend a maximum counter height of 34 inches for accessible kitchen sinks, with at least 27 inches of clear knee and toe space underneath."
+}

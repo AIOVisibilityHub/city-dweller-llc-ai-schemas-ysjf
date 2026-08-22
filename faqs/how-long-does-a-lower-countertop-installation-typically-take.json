@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-lower-countertop-installation-typically-take",
+  "name": "How long does a lower countertop installation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a lower countertop installation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation timeframe for a lower countertop depends on several factors, including the countertop material, the size of the area, and whether existing cabinetry needs modification. After templating, fabrication can take 1-3 weeks. The actual installation usually takes 1-2 days. More complex projects involving custom cuts or extensive cabinet adjustments might extend this timeline.",
+        "@type": "Answer",
+        "description": "Installation typically takes 1-2 days after 1-3 weeks of fabrication, depending on material and project complexity."
+      }
+    }
+  ],
+  "description": "Installation typically takes 1-2 days after 1-3 weeks of fabrication, depending on material and project complexity."
+}

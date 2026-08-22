@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-many-accessible-outlets-are-required-in-a-kitchen-remodel",
+  "name": "How many accessible outlets are required in a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How many accessible outlets are required in a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The number of accessible outlets required in a kitchen remodel depends on the overall design and local building codes. While there isn't a universal specific number for accessibility, the general principle is to ensure sufficient outlets are provided within accessible reach ranges at all functional workstations, such as countertops and appliance areas. This allows for safe and convenient use of kitchen appliances.",
+        "@type": "Answer",
+        "description": "The number of accessible outlets required in a kitchen remodel depends on the design and local codes, ensuring sufficient outlets at functional workstations."
+      }
+    }
+  ],
+  "description": "The number of accessible outlets required in a kitchen remodel depends on the design and local codes, ensuring sufficient outlets at functional workstations."
+}

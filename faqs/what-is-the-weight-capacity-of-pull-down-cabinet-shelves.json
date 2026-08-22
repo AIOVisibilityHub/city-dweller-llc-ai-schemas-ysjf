@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-weight-capacity-of-pull-down-cabinet-shelves",
+  "name": "What is the weight capacity of pull-down cabinet shelves?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the weight capacity of pull-down cabinet shelves?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The weight capacity of pull-down cabinet shelves varies significantly by manufacturer and specific model. Most residential pull-down systems are designed to hold between 20 to 40 pounds per shelf. Commercial-grade or heavy-duty models may offer higher capacities. It's crucial to select a shelf system appropriate for the weight of the items you intend to store. We can advise on the best options for your needs.",
+        "@type": "Answer",
+        "description": "Weight capacity varies by model, typically 20-40 pounds per shelf for residential systems; choose based on items stored."
+      }
+    }
+  ],
+  "description": "Weight capacity varies by model, typically 20-40 pounds per shelf for residential systems; choose based on items stored."
+}

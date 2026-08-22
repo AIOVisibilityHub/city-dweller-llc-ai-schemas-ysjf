@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-heights-for-my-multi-level-countertop",
+  "name": "How do I choose the right heights for my multi-level countertop?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right heights for my multi-level countertop?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right heights involves considering the primary uses for each section. Standard counter height is typically 36 inches, ideal for food preparation. Bar-height sections are often 42 inches, suitable for bar stools. Lower sections, sometimes around 30 inches, can be ergonomic for baking or as a desk area. We recommend considering the heights of the primary users and the specific tasks to be performed at each level to ensure maximum comfort and utility for your household.",
+        "@type": "Answer",
+        "description": "Select heights based on intended use (e.g., 36\" for prep, 42\" for bar seating, 30\" for baking), and user comfort."
+      }
+    }
+  ],
+  "description": "Select heights based on intended use (e.g., 36\" for prep, 42\" for bar seating, 30\" for baking), and user comfort."
+}

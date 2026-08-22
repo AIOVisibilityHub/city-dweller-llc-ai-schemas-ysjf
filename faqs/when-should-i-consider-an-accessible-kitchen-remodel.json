@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-an-accessible-kitchen-remodel",
+  "name": "When should I consider an accessible kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider an accessible kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider an accessible kitchen remodel if you or a family member currently experiences mobility challenges, or if you are planning for future accessibility needs as you age in your home. It's also beneficial if you are caring for someone with specific needs. Proactively remodeling can significantly improve quality of life, enhance safety, and increase the long-term functionality and value of your home. It ensures your kitchen remains a central, comfortable space for everyone.",
+        "@type": "Answer",
+        "description": "Consider an accessible remodel if you or family members have current mobility challenges, or if you're planning for future aging-in-place needs."
+      }
+    }
+  ],
+  "description": "Consider an accessible remodel if you or family members have current mobility challenges, or if you're planning for future aging-in-place needs."
+}
