@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-makes-a-sliding-door-energy-efficient",
+  "name": "What makes a sliding door energy efficient?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What makes a sliding door energy efficient?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Energy-efficient sliding doors are designed to minimize heat transfer, keeping your home cooler in summer and warmer in winter. Key features include double or triple-pane insulated glass with low-emissivity (Low-E) coatings, which reflect infrared light while allowing visible light through. Frames made from materials like vinyl, fiberglass, or thermally broken aluminum also prevent heat loss or gain. Additionally, airtight seals and weatherstripping around the door perimeter block drafts, contributing significantly to improved thermal performance and reduced energy bills.",
+        "@type": "Answer",
+        "description": "Energy-efficient sliding doors use insulated glass, low-E coatings, and thermally broken frames to minimize heat transfer and reduce energy consumption."
+      }
+    }
+  ],
+  "description": "Energy-efficient sliding doors use insulated glass, low-E coatings, and thermally broken frames to minimize heat transfer and reduce energy consumption."
+}

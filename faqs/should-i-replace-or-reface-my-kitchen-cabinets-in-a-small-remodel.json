@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-replace-or-reface-my-kitchen-cabinets-in-a-small-remodel",
+  "name": "Should I replace or reface my kitchen cabinets in a small remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I replace or reface my kitchen cabinets in a small remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to replace or reface kitchen cabinets depends on their existing condition, your budget, and desired outcome. Refacing is a more cost-effective option, ideal if your current cabinet boxes are structurally sound and you're satisfied with the layout. It involves replacing doors, drawer fronts, and applying a new veneer to the existing boxes. Replacing cabinets is more expensive but allows for a complete change in layout, style, and functionality, including new storage solutions. We can assess your current cabinets and advise on the best approach for your small kitchen.",
+        "@type": "Answer",
+        "description": "Reface cabinets if their boxes are sound and you like the layout, for a budget-friendly update. Replace them for a new layout, style, and improved functionality."
+      }
+    }
+  ],
+  "description": "Reface cabinets if their boxes are sound and you like the layout, for a budget-friendly update. Replace them for a new layout, style, and improved functionality"
+}

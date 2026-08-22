@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-repairing-and-replacing-a-sliding-door-screen",
+  "name": "What's the difference between repairing and replacing a sliding door screen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between repairing and replacing a sliding door screen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a sliding door screen typically involves fixing specific damaged areas, such as patching small holes, replacing the mesh within an existing frame (rescreening), or mending minor frame issues. Replacing involves installing an entirely new screen door, including a new frame, mesh, and hardware. Repair is usually more cost-effective for localized damage, while replacement is recommended for severely damaged or warped frames, extensive corrosion, or when upgrading to a completely different type of screen.",
+        "@type": "Answer",
+        "description": "Repair fixes specific damages like mesh or minor frame issues, while replacement involves a completely new screen door. Repair is for localized damage, replacement for severe frame issues."
+      }
+    }
+  ],
+  "description": "Repair fixes specific damages like mesh or minor frame issues, while replacement involves a completely new screen door. Repair is for localized damage, replacem"
+}

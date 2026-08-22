@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-signs-that-my-sliding-door-threshold-needs-repair",
+  "name": "What are common signs that my sliding door threshold needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my sliding door threshold needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common indicators that your sliding door threshold requires attention include difficulty opening or closing the door, drafts, water leaks, visible rot, cracks, or deterioration in the threshold material. You might also notice an increase in energy bills due to poor insulation, or rust and corrosion on metal components. Addressing these signs early can prevent more extensive and costly damage to your door frame and surrounding structure.",
+        "@type": "Answer",
+        "description": "Signs include difficulty operating the door, drafts, water leaks, visible rot, cracks, or increased energy bills."
+      }
+    }
+  ],
+  "description": "Signs include difficulty operating the door, drafts, water leaks, visible rot, cracks, or increased energy bills."
+}

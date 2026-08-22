@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-replace-the-entire-sliding-door-or-just-the-frame-if-it-s-damaged",
+  "name": "Do I need to replace the entire sliding door or just the frame if it's damaged?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace the entire sliding door or just the frame if it's damaged?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need to replace the entire sliding door or just the frame depends on the extent and location of the damage. If the damage is confined solely to the frame and the door panels themselves are in good condition, replacing only the frame might be possible. However, if the door panels are also worn, warped, or if the system is old, replacing the entire unit often provides better long-term performance, energy efficiency, and a more cohesive aesthetic. A professional assessment will determine the most effective solution.",
+        "@type": "Answer",
+        "description": "If only the frame is damaged and door panels are good, just the frame may be replaced. For extensive damage or old systems, replacing the entire door unit is often better."
+      }
+    }
+  ],
+  "description": "If only the frame is damaged and door panels are good, just the frame may be replaced. For extensive damage or old systems, replacing the entire door unit is of"
+}

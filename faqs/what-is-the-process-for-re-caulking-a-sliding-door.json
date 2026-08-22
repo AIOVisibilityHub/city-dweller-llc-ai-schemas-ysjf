@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-re-caulking-a-sliding-door",
+  "name": "What is the process for re-caulking a sliding door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for re-caulking a sliding door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The re-caulking process typically involves several steps: first, removing all old caulk completely and cleaning the surface thoroughly to ensure proper adhesion. Next, any remaining residue is wiped away, and the area is allowed to dry. Once prepped, a new bead of the appropriate caulk is applied smoothly and evenly along the gaps between the door frame and the wall. Finally, the caulk is tooled for a clean finish and allowed to cure according to manufacturer instructions.",
+        "@type": "Answer",
+        "description": "The process involves removing old caulk, cleaning the surface, applying new caulk, tooling it, and allowing it to cure."
+      }
+    }
+  ],
+  "description": "The process involves removing old caulk, cleaning the surface, applying new caulk, tooling it, and allowing it to cure."
+}

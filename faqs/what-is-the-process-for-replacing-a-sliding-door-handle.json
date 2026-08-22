@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-replacing-a-sliding-door-handle",
+  "name": "What is the process for replacing a sliding door handle?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing a sliding door handle?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally involves carefully removing the old handle and its components, inspecting the door's existing mechanism for any issues, and then installing the new handle. This includes aligning the new handle, attaching it securely with screws, and ensuring the locking mechanism functions smoothly. Finally, we test the door's operation to confirm the handle opens, closes, and locks correctly. We also make any minor adjustments to ensure optimal performance.",
+        "@type": "Answer",
+        "description": "The process includes removing the old handle, inspecting the mechanism, installing the new handle, securing it, and testing its operation."
+      }
+    }
+  ],
+  "description": "The process includes removing the old handle, inspecting the mechanism, installing the new handle, securing it, and testing its operation."
+}

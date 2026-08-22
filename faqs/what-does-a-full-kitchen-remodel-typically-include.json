@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-does-a-full-kitchen-remodel-typically-include",
+  "name": "What does a full kitchen remodel typically include?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a full kitchen remodel typically include?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A full kitchen remodel involves comprehensive changes to the layout, functionality, and aesthetics of your kitchen. This typically includes replacing cabinets, countertops, flooring, and appliances. It can also involve reconfiguring plumbing and electrical systems, updating lighting, and making structural modifications like removing or adding walls. The scope is tailored to your specific needs and can transform the entire space.",
+        "@type": "Answer",
+        "description": "A full kitchen remodel typically includes replacing cabinets, countertops, flooring, and appliances, and may involve reconfiguring plumbing and electrical systems or structural changes."
+      }
+    }
+  ],
+  "description": "A full kitchen remodel typically includes replacing cabinets, countertops, flooring, and appliances, and may involve reconfiguring plumbing and electrical syste"
+}

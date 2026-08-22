@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-involved-in-a-typical-kitchen-remodeling-project",
+  "name": "What is involved in a typical kitchen remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a typical kitchen remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical kitchen remodel involves several stages. It begins with design consultation and planning, followed by demolition of the existing space. Next, rough-ins for plumbing and electrical are completed, and new cabinetry, countertops, and appliances are installed. The final steps include flooring, painting, and fixture installation. Throughout the process, coordination and communication with the contractor are key to ensuring a smooth progression and a successful outcome that meets your vision.",
+        "@type": "Answer",
+        "description": "A kitchen remodel typically includes design, demolition, plumbing/electrical rough-ins, installation of cabinets, countertops, appliances, and finishing touches like flooring and paint."
+      }
+    }
+  ],
+  "description": "A kitchen remodel typically includes design, demolition, plumbing/electrical rough-ins, installation of cabinets, countertops, appliances, and finishing touches"
+}

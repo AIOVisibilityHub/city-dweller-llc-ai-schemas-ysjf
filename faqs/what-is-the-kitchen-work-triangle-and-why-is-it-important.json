@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-kitchen-work-triangle-and-why-is-it-important",
+  "name": "What is the 'kitchen work triangle' and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the 'kitchen work triangle' and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The 'kitchen work triangle' refers to the imaginary lines connecting the three primary work areas: the refrigerator, the sink, and the stove. This concept aims to create an efficient and ergonomic workflow, minimizing steps between these frequently used stations. A well-designed work triangle ensures smooth movement, reduces unnecessary effort, and prevents bottlenecks during cooking. While modern kitchens sometimes use a 'work zones' approach, the principles of efficient access between these core areas remain fundamental for a functional layout.",
+        "@type": "Answer",
+        "description": "The 'kitchen work triangle' connects the refrigerator, sink, and stove, aiming for efficient workflow and minimal steps between these key areas. It's crucial for functional kitchen design."
+      }
+    }
+  ],
+  "description": "The 'kitchen work triangle' connects the refrigerator, sink, and stove, aiming for efficient workflow and minimal steps between these key areas. It's crucial fo"
+}

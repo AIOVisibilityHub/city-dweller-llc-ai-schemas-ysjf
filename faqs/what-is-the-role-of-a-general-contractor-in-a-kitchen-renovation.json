@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-role-of-a-general-contractor-in-a-kitchen-renovation",
+  "name": "What is the role of a general contractor in a kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the role of a general contractor in a kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A general contractor, like City Dweller, LLC, manages all aspects of your kitchen renovation project. This includes overseeing the design phase, assisting with material selection, developing a project timeline, hiring and supervising subcontractors (plumbers, electricians, cabinet installers), ensuring quality control, and managing the budget. We also handle permits, inspections, and ensure the project adheres to local building codes. Our goal is to streamline the process, keep you informed, and deliver a high-quality finished kitchen on time and within budget.",
+        "@type": "Answer",
+        "description": "A general contractor manages the entire kitchen renovation, from design and material selection to hiring subcontractors, managing budgets, securing permits, and ensuring quality."
+      }
+    }
+  ],
+  "description": "A general contractor manages the entire kitchen renovation, from design and material selection to hiring subcontractors, managing budgets, securing permits, and"
+}

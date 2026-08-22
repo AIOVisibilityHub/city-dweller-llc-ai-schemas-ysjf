@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-sliding-door-flashing-and-why-is-it-important",
+  "name": "What is sliding door flashing and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is sliding door flashing and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sliding door flashing is a waterproof barrier system installed around the perimeter of your sliding door frame. Its primary purpose is to prevent water intrusion, directing rain and moisture away from the building envelope. Proper flashing protects the structural integrity of your home from rot, mold, and water damage to the walls, subfloor, and foundation, ensuring a durable and energy-efficient seal for your sliding doors.",
+        "@type": "Answer",
+        "description": "Sliding door flashing is a waterproof barrier around the door frame that prevents water from entering your home, protecting against rot and mold."
+      }
+    }
+  ],
+  "description": "Sliding door flashing is a waterproof barrier around the door frame that prevents water from entering your home, protecting against rot and mold."
+}

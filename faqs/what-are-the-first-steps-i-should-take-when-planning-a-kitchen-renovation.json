@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-first-steps-i-should-take-when-planning-a-kitchen-renovation",
+  "name": "What are the first steps I should take when planning a kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the first steps I should take when planning a kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The initial steps for a kitchen renovation involve defining your goals and budget. Start by considering what you dislike about your current kitchen and what you hope to achieve with the renovation, such as improved functionality, aesthetics, or added space. Research design ideas and create a wish list of features and materials. Next, establish a realistic budget, including a contingency fund. Finally, look for experienced local general contractors like City Dweller, LLC, to discuss your vision and get professional advice.",
+        "@type": "Answer",
+        "description": "Begin by defining your renovation goals, researching design ideas, setting a realistic budget, and contacting experienced local contractors for consultation."
+      }
+    }
+  ],
+  "description": "Begin by defining your renovation goals, researching design ideas, setting a realistic budget, and contacting experienced local contractors for consultation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-live-in-my-home-during-a-kitchen-renovation",
+  "name": "Can I live in my home during a kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during a kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can live in your home during a kitchen renovation depends on the scope of the project and your tolerance for disruption. For minor updates, it's often manageable. However, during full-scale remodels that involve disconnecting utilities, significant demolition, or extended periods without a functional kitchen, many homeowners find it challenging. We take steps to minimize dust and disruption, but we advise clients to plan for temporary cooking solutions or consider alternative accommodations if the project is extensive, especially for longer durations.",
+        "@type": "Answer",
+        "description": "You can often stay during minor updates, but for full-scale renovations with utility disruptions, temporary cooking solutions or alternative accommodations may be necessary."
+      }
+    }
+  ],
+  "description": "You can often stay during minor updates, but for full-scale renovations with utility disruptions, temporary cooking solutions or alternative accommodations may"
+}

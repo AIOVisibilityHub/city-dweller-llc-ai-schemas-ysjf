@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-noise-reducing-sliding-doors-work",
+  "name": "How do noise-reducing sliding doors work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do noise-reducing sliding doors work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Noise-reducing sliding doors primarily work by incorporating specialized glass and frame materials designed to block sound waves. This often includes laminated glass, which has an interlayer that dampens vibrations, or double-pane insulated glass units (IGUs) with varying glass thicknesses and inert gas fills. The door frames are also engineered for airtight seals, minimizing sound leaks around the perimeter. These combined features significantly reduce the transmission of external noise into your home.",
+        "@type": "Answer",
+        "description": "They use specialized glass (like laminated or double-pane) and airtight frames to block and absorb sound waves, reducing noise transmission."
+      }
+    }
+  ],
+  "description": "They use specialized glass (like laminated or double-pane) and airtight frames to block and absorb sound waves, reducing noise transmission."
+}

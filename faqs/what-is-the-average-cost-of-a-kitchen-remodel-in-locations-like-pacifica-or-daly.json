@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-average-cost-of-a-kitchen-remodel-in-locations-like-pacifica-or-daly",
+  "name": "What is the average cost of a kitchen remodel in locations like Pacifica or Daly City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a kitchen remodel in locations like Pacifica or Daly City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a kitchen remodel in Pacifica or Daly City varies widely, generally ranging from $30,000 for a minor renovation to over $100,000 for a high-end, custom project. Factors influencing cost include the size of the kitchen, quality of materials, extent of structural changes, and appliance selections. A detailed estimate will be provided after an initial consultation and design planning, ensuring transparency in all expenses.",
+        "@type": "Answer",
+        "description": "Average kitchen remodel costs in Pacifica or Daly City range from $30,000 for minor updates to over $100,000 for high-end projects, depending on scope and materials."
+      }
+    }
+  ],
+  "description": "Average kitchen remodel costs in Pacifica or Daly City range from $30,000 for minor updates to over $100,000 for high-end projects, depending on scope and mater"
+}

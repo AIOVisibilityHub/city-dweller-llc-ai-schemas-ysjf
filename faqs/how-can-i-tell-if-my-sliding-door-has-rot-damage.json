@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-tell-if-my-sliding-door-has-rot-damage",
+  "name": "How can I tell if my sliding door has rot damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my sliding door has rot damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of rot damage around a sliding door include discolored or darkened wood, soft or spongy areas when pressed, and a musty odor. You might also notice peeling paint, visible cracks, or crumbling wood. In more advanced stages, the door may become difficult to open or close, or you might see gaps forming between the frame and the wall. Inspect the bottom corners, sill, and the lower sections of the door frame carefully, as these are common areas for water intrusion.",
+        "@type": "Answer",
+        "description": "Look for discolored, soft wood, a musty odor, peeling paint, or difficulty operating the door. Check the sill and lower frame for signs."
+      }
+    }
+  ],
+  "description": "Look for discolored, soft wood, a musty odor, peeling paint, or difficulty operating the door. Check the sill and lower frame for signs."
+}

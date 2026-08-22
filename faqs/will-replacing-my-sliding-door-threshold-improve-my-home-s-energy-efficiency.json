@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-replacing-my-sliding-door-threshold-improve-my-home-s-energy-efficiency",
+  "name": "Will replacing my sliding door threshold improve my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will replacing my sliding door threshold improve my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a properly installed new sliding door threshold can significantly improve your home's energy efficiency. An old, damaged, or poorly sealed threshold can allow air leaks, leading to heat loss in winter and heat gain in summer. By replacing it, you create a tighter seal against the elements, reducing drafts and helping to maintain a consistent indoor temperature. This can lead to lower heating and cooling costs.",
+        "@type": "Answer",
+        "description": "Yes, a new threshold creates a tighter seal, reducing air leaks and improving insulation, which can lower energy bills."
+      }
+    }
+  ],
+  "description": "Yes, a new threshold creates a tighter seal, reducing air leaks and improving insulation, which can lower energy bills."
+}

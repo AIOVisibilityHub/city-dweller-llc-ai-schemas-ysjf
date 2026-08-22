@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-kitchen-cabinets-are-available-and-what-are-their-pros-and-cons",
+  "name": "What types of kitchen cabinets are available and what are their pros and cons?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of kitchen cabinets are available and what are their pros and cons?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kitchen cabinets come in various types, each with distinct pros and cons. Stock cabinets are pre-made, cost-effective, and quickly available but offer limited styles and sizes. Semi-custom cabinets offer more choices in size, finish, and features than stock options, providing a balance of cost and personalization. Custom cabinets are built to exact specifications, offering unlimited design flexibility and premium materials but at the highest cost and longest lead time. Material-wise, options include solid wood, MDF, and plywood.",
+        "@type": "Answer",
+        "description": "Cabinet options include stock (affordable, limited choice), semi-custom (more choice, mid-range cost), and custom (flexible design, highest cost), with various material choices."
+      }
+    }
+  ],
+  "description": "Cabinet options include stock (affordable, limited choice), semi-custom (more choice, mid-range cost), and custom (flexible design, highest cost), with various"
+}

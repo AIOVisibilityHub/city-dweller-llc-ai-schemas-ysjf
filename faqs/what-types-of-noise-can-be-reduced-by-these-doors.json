@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-noise-can-be-reduced-by-these-doors",
+  "name": "What types of noise can be reduced by these doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of noise can be reduced by these doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Noise-reducing sliding doors are effective against a wide range of common sounds. This includes traffic noise from cars, trucks, and motorcycles, as well as general urban sounds like distant sirens, construction work, and pedestrian chatter. They can also help reduce airborne noise from neighbors, barking dogs, and even low-frequency rumbling. The degree of reduction depends on the door's Sound Transmission Class (STC) rating.",
+        "@type": "Answer",
+        "description": "They reduce traffic, urban, and environmental noise like sirens, construction, and neighbor sounds. Effectiveness depends on the door's STC rating."
+      }
+    }
+  ],
+  "description": "They reduce traffic, urban, and environmental noise like sirens, construction, and neighbor sounds. Effectiveness depends on the door's STC rating."
+}

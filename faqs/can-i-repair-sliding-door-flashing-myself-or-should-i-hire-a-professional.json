@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-sliding-door-flashing-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair sliding door flashing myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair sliding door flashing myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor surface cracks might be temporarily addressed with sealants, proper flashing repair is complex and crucial for preventing water damage. Incorrect installation can lead to bigger problems. Hiring a professional ensures the use of appropriate materials, correct layering, and adherence to building codes, providing a long-lasting, watertight seal. Professionals also identify and address hidden structural damage effectively.",
+        "@type": "Answer",
+        "description": "Hiring a professional is recommended for proper flashing repair, as incorrect DIY fixes can lead to more significant and costly water damage."
+      }
+    }
+  ],
+  "description": "Hiring a professional is recommended for proper flashing repair, as incorrect DIY fixes can lead to more significant and costly water damage."
+}

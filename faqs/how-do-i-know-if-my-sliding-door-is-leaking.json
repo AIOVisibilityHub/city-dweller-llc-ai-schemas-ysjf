@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-my-sliding-door-is-leaking",
+  "name": "How do I know if my sliding door is leaking?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my sliding door is leaking?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of a leaking sliding door include visible water stains or puddles near the door, a musty odor, warped flooring or baseboards, peeling paint, or discoloration on the door frame. You might also notice drafts, condensation between glass panes, or mold growth. These indicators suggest water penetration that requires attention.",
+        "@type": "Answer",
+        "description": "Look for water stains, puddles, musty odors, warped flooring, or mold near the door."
+      }
+    }
+  ],
+  "description": "Look for water stains, puddles, musty odors, warped flooring, or mold near the door."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-sliding-door-threshold-repair-take",
+  "name": "How long does a typical sliding door threshold repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical sliding door threshold repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a sliding door threshold repair depends on the severity and nature of the damage. Minor repairs, such as resealing or patching small cracks, might take a few hours. More extensive work, like replacing a rotted section or a full threshold, could take a full day or potentially longer if custom materials are needed or if there are unforeseen complications. A contractor can provide a time estimate after assessing the specific repair needs.",
+        "@type": "Answer",
+        "description": "Repair time varies from a few hours for minor issues to a full day or more for extensive damage or replacement, depending on severity."
+      }
+    }
+  ],
+  "description": "Repair time varies from a few hours for minor issues to a full day or more for extensive damage or replacement, depending on severity."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-noise-reducing-sliding-door-for-my-home",
+  "name": "How do I choose the right noise-reducing sliding door for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right noise-reducing sliding door for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right door involves considering several factors. First, assess your primary noise concerns to determine the necessary Sound Transmission Class (STC) rating. Then, consider your budget, desired aesthetics, and frame material preferences (e.g., vinyl, fiberglass). Evaluate features like glass type (laminated, triple-pane), energy efficiency ratings, and security options. Consulting with a local contractor, like City Dweller, LLC, can help you balance these factors and select a door that meets your specific needs and local climate.",
+        "@type": "Answer",
+        "description": "Consider your noise concerns (STC rating), budget, aesthetics, frame material, glass type, and energy efficiency. Consult a local contractor for guidance."
+      }
+    }
+  ],
+  "description": "Consider your noise concerns (STC rating), budget, aesthetics, frame material, glass type, and energy efficiency. Consult a local contractor for guidance."
+}

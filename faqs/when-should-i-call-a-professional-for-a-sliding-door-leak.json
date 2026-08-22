@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-call-a-professional-for-a-sliding-door-leak",
+  "name": "When should I call a professional for a sliding door leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for a sliding door leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional if you notice persistent water intrusion, visible mold, significant damage to the door frame or surrounding wall, or if you're unable to identify the source of the leak. Early intervention can prevent minor leaks from causing extensive and costly structural damage to your home. Professionals have the tools and experience to diagnose and fix the issue correctly.",
+        "@type": "Answer",
+        "description": "Call a professional for persistent leaks, visible mold, significant damage, or if you can't find the leak source."
+      }
+    }
+  ],
+  "description": "Call a professional for persistent leaks, visible mold, significant damage, or if you can't find the leak source."
+}

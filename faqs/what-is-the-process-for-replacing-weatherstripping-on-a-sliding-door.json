@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-replacing-weatherstripping-on-a-sliding-door",
+  "name": "What is the process for replacing weatherstripping on a sliding door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing weatherstripping on a sliding door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally involves removing the old, degraded weatherstripping, thoroughly cleaning the door frame and panel edges to ensure a smooth surface, and then carefully installing the new material. For some sliding doors, this might require temporarily removing door panels or adjusting hardware to access all sealing points. Precise measurements are critical to ensure a snug fit without hindering door operation. Post-installation, the door is tested for smooth movement and effective sealing.",
+        "@type": "Answer",
+        "description": "The process includes removing old material, cleaning surfaces, precise installation of new weatherstripping, and testing for proper function and seal."
+      }
+    }
+  ],
+  "description": "The process includes removing old material, cleaning surfaces, precise installation of new weatherstripping, and testing for proper function and seal."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/does-re-caulking-a-sliding-door-improve-energy-efficiency",
+  "name": "Does re-caulking a sliding door improve energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does re-caulking a sliding door improve energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, re-caulking a sliding door can significantly improve energy efficiency. Over time, caulk deteriorates, creating small gaps that allow conditioned air to escape and unconditioned air to enter. By replacing old, damaged caulk with a fresh, continuous seal, you eliminate these air leaks. This reduces the workload on your HVAC system, leading to more stable indoor temperatures and noticeable savings on heating and cooling costs.",
+        "@type": "Answer",
+        "description": "Yes, re-caulking eliminates air leaks, which improves insulation, reduces energy use, and lowers utility bills."
+      }
+    }
+  ],
+  "description": "Yes, re-caulking eliminates air leaks, which improves insulation, reduces energy use, and lowers utility bills."
+}

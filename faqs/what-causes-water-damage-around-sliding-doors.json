@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-water-damage-around-sliding-doors",
+  "name": "What causes water damage around sliding doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes water damage around sliding doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water damage around sliding doors often stems from several issues. Common causes include failed or compromised weatherstripping, which is designed to seal the door against the elements. Poorly installed flashing or a lack of proper drainage can direct water towards the doorframe rather than away from it. Additionally, cracks in the stucco or siding near the door, or a worn-out caulk seal, can allow water to penetrate. In some cases, clogged weep holes in the door's track can prevent water from draining, leading to overflow and interior damage.",
+        "@type": "Answer",
+        "description": "Water damage around sliding doors is often caused by failed weatherstripping, poor flashing, cracks in siding, or clogged weep holes that prevent proper drainage."
+      }
+    }
+  ],
+  "description": "Water damage around sliding doors is often caused by failed weatherstripping, poor flashing, cracks in siding, or clogged weep holes that prevent proper drainag"
+}

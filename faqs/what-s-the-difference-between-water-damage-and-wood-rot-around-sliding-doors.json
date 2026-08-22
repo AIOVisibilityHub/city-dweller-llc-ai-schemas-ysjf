@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-water-damage-and-wood-rot-around-sliding-doors",
+  "name": "What's the difference between water damage and wood rot around sliding doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between water damage and wood rot around sliding doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water damage refers to the broader category of issues caused by water intrusion, which can include staining, swelling, mold growth, and compromise of various building materials like drywall, insulation, and wood. Wood rot is a specific type of water damage that occurs when wood is exposed to moisture over an extended period, leading to decay by fungi. While all wood rot is a form of water damage, not all water damage immediately results in wood rot. Wood rot specifically weakens the structural integrity of timber components.",
+        "@type": "Answer",
+        "description": "Water damage is a general term for issues caused by water intrusion, affecting various materials. Wood rot is a specific type of water damage where prolonged moisture causes fungi to decay and weaken wood."
+      }
+    }
+  ],
+  "description": "Water damage is a general term for issues caused by water intrusion, affecting various materials. Wood rot is a specific type of water damage where prolonged mo"
+}

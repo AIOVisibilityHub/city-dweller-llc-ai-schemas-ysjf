@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-repairing-a-sliding-door-draft",
+  "name": "What is the process for repairing a sliding door draft?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a sliding door draft?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically begins with an inspection to identify the source of the draft, such as worn weatherstripping, misaligned rollers, or a damaged track. Once diagnosed, the technician will propose a solution, which might involve replacing seals, adjusting door alignment, or repairing/replacing hardware. The goal is to create a tight seal and ensure smooth operation, preventing air leakage.",
+        "@type": "Answer",
+        "description": "The process involves inspection to find the draft source, then repairing or replacing components like seals, rollers, or tracks to ensure a tight seal."
+      }
+    }
+  ],
+  "description": "The process involves inspection to find the draft source, then repairing or replacing components like seals, rollers, or tracks to ensure a tight seal."
+}

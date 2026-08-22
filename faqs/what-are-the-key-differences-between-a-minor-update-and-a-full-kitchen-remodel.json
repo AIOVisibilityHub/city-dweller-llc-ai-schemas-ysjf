@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-key-differences-between-a-minor-update-and-a-full-kitchen-remodel",
+  "name": "What are the key differences between a minor update and a full kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key differences between a minor update and a full kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A minor kitchen update typically focuses on cosmetic changes without altering the layout. This might include new paint, refinished cabinets, updated countertops, or a new backsplash. It's a cost-effective way to refresh the look. A full kitchen remodel, in contrast, involves significant changes, potentially including relocating appliances, altering plumbing or electrical lines, replacing all cabinetry, and changing the floor plan. This offers a complete transformation but is more extensive in cost and duration.",
+        "@type": "Answer",
+        "description": "A minor update refreshes cosmetics, while a full remodel involves significant layout, structural, and system changes for a complete transformation."
+      }
+    }
+  ],
+  "description": "A minor update refreshes cosmetics, while a full remodel involves significant layout, structural, and system changes for a complete transformation."
+}

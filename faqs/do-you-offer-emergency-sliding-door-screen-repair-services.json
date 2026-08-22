@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-you-offer-emergency-sliding-door-screen-repair-services",
+  "name": "Do you offer emergency sliding door screen repair services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer emergency sliding door screen repair services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While we prioritize timely service, we generally do not offer specific 'emergency' services outside of our regular business hours. However, we understand the urgency of some repairs, especially for security or pest control. Please contact us to describe your situation, and we will do our best to schedule your repair as quickly as possible, often within 1-2 business days, depending on our current workload and technician availability in your area.",
+        "@type": "Answer",
+        "description": "We don't offer specific 'emergency' services but aim for quick scheduling, often within 1-2 business days, for urgent repairs."
+      }
+    }
+  ],
+  "description": "We don't offer specific 'emergency' services but aim for quick scheduling, often within 1-2 business days, for urgent repairs."
+}

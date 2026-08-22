@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-replace-a-sliding-door-in-an-older-bay-area-home",
+  "name": "How much does it cost to replace a sliding door in an older Bay Area home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to replace a sliding door in an older Bay Area home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of replacing a sliding door in an older Bay Area home varies widely based on several factors. These include the door material (vinyl, fiberglass, wood), type of glass (double-pane, low-E, tempered), size, and complexity of installation. Custom features, brand, and any required frame repairs or structural adjustments will also influence the final price. Due to these variables, we provide a detailed, customized quote after an on-site assessment of your specific needs and the existing conditions of your home.",
+        "@type": "Answer",
+        "description": "Costs vary based on door material, glass type, size, brand, and installation complexity, including any frame repairs. We provide custom quotes after an assessment."
+      }
+    }
+  ],
+  "description": "Costs vary based on door material, glass type, size, brand, and installation complexity, including any frame repairs. We provide custom quotes after an assessme"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-for-sliding-door-draft-repair",
+  "name": "What is the typical cost for sliding door draft repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for sliding door draft repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for sliding door draft repair varies depending on the specific issue and necessary parts. Simple repairs like replacing weatherstripping might be less expensive than repairs involving roller or track replacement, which can impact door alignment. A professional assessment is recommended to get an accurate estimate, as prices for labor and materials differ based on the complexity of the job.",
+        "@type": "Answer",
+        "description": "Repair costs depend on the issue; simple weatherstripping is less than complex repairs like roller or track replacement. A professional estimate is recommended."
+      }
+    }
+  ],
+  "description": "Repair costs depend on the issue; simple weatherstripping is less than complex repairs like roller or track replacement. A professional estimate is recommended."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-repairing-my-sliding-door-threshold-help-with-energy-efficiency",
+  "name": "Will repairing my sliding door threshold help with energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will repairing my sliding door threshold help with energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, repairing a damaged sliding door threshold can significantly improve your home's energy efficiency. A compromised threshold can create gaps or allow drafts, leading to heat loss in winter and cool air escape in summer. By restoring the threshold's integrity and sealing potential leaks, repairs help to create a better thermal barrier, reduce drafts, and improve the overall insulation of your sliding door, potentially lowering energy bills.",
+        "@type": "Answer",
+        "description": "Yes, repairing a damaged threshold eliminates drafts and seals leaks, improving insulation and potentially lowering energy bills."
+      }
+    }
+  ],
+  "description": "Yes, repairing a damaged threshold eliminates drafts and seals leaks, improving insulation and potentially lowering energy bills."
+}

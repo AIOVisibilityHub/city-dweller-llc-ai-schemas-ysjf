@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-do-i-need-to-repair-or-replace-my-sliding-door-screen",
+  "name": "When do I need to repair or replace my sliding door screen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to repair or replace my sliding door screen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider repair or replacement if you notice tears, holes, loose mesh, or significant fraying that allows insects in or compromises visibility. A screen that repeatedly comes out of its frame, has a bent or damaged frame, or whose rollers are sticking also indicates a need for service. Addressing these issues promptly prevents further damage and ensures your screen provides effective insect protection and smooth operation.",
+        "@type": "Answer",
+        "description": "Repair or replace if you see tears, holes, loose mesh, a damaged frame, or sticking rollers to maintain insect protection and function."
+      }
+    }
+  ],
+  "description": "Repair or replace if you see tears, holes, loose mesh, a damaged frame, or sticking rollers to maintain insect protection and function."
+}

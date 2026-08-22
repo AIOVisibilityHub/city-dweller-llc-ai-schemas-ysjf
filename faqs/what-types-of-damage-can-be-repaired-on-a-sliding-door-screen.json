@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-damage-can-be-repaired-on-a-sliding-door-screen",
+  "name": "What types of damage can be repaired on a sliding door screen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of damage can be repaired on a sliding door screen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common sliding door screen damages include tears, holes, frayed mesh, and bent frames. We can typically repair or replace damaged screen mesh, re-spline the screen into the frame, and fix minor frame alignment issues. If the frame is severely bent, corroded, or has broken components like rollers or handles, a full screen replacement might be more cost-effective. We assess the extent of the damage to determine the most suitable repair solution for your specific sliding door screen.",
+        "@type": "Answer",
+        "description": "We repair tears, holes, frayed mesh, and minor frame damage. Severe damage may require full screen replacement."
+      }
+    }
+  ],
+  "description": "We repair tears, holes, frayed mesh, and minor frame damage. Severe damage may require full screen replacement."
+}

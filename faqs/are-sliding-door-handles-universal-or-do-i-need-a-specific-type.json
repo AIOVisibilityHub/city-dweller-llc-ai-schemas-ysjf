@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-sliding-door-handles-universal-or-do-i-need-a-specific-type",
+  "name": "Are sliding door handles universal, or do I need a specific type?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are sliding door handles universal, or do I need a specific type?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, sliding door handles are not universal. They come in various types, sizes, and configurations, designed for specific door thicknesses, bore hole spacings, and locking mechanisms. It's crucial to identify the type of handle your door currently uses (e.g., flush mount, surface mount, mortise lock) and measure key dimensions like screw hole spacing and backset. A professional can help ensure you select a compatible replacement handle to avoid fitment issues.",
+        "@type": "Answer",
+        "description": "Sliding door handles are not universal; you need a specific type compatible with your door's dimensions and locking mechanism."
+      }
+    }
+  ],
+  "description": "Sliding door handles are not universal; you need a specific type compatible with your door's dimensions and locking mechanism."
+}

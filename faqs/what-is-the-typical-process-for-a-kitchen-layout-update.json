@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-a-kitchen-layout-update",
+  "name": "What is the typical process for a kitchen layout update?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a kitchen layout update?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process for a kitchen layout update begins with an initial consultation to discuss your vision, needs, and budget. Next, we move to design and planning, where our team develops detailed floor plans and 3D renderings for your approval. Once the design is finalized and permits secured, we proceed with demolition, followed by rough-ins for plumbing and electrical. This leads to cabinet installation, countertop fitting, appliance hook-up, and finally, finish work and inspection. We maintain open communication throughout each stage.",
+        "@type": "Answer",
+        "description": "The typical process involves consultation, design and planning, securing permits, demolition, rough-ins, installation of cabinets, countertops, and appliances, followed by finishing and inspection."
+      }
+    }
+  ],
+  "description": "The typical process involves consultation, design and planning, securing permits, demolition, rough-ins, installation of cabinets, countertops, and appliances,"
+}

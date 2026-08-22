@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-reconfiguring-my-kitchen-layout",
+  "name": "When should I consider reconfiguring my kitchen layout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider reconfiguring my kitchen layout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider reconfiguring your kitchen layout if your current space feels inefficient, cramped, or doesn't meet your family's needs. Signs include poor workflow, insufficient counter space, outdated appliance placement, or a desire to incorporate an open-concept design. It's also a good idea when planning a major home renovation that impacts adjacent rooms or if your lifestyle has changed, requiring a more functional or social kitchen space.",
+        "@type": "Answer",
+        "description": "Consider it if your kitchen is inefficient, cramped, or doesn't meet your family's needs, especially with lifestyle changes or a major renovation."
+      }
+    }
+  ],
+  "description": "Consider it if your kitchen is inefficient, cramped, or doesn't meet your family's needs, especially with lifestyle changes or a major renovation."
+}

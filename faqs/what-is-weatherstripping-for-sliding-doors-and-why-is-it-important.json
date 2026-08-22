@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-weatherstripping-for-sliding-doors-and-why-is-it-important",
+  "name": "What is weatherstripping for sliding doors and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is weatherstripping for sliding doors and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Weatherstripping for sliding doors is a material, typically made of rubber, foam, or brush-like fibers, installed along the edges of the door panels and frame. Its primary purpose is to seal gaps, preventing air leaks, drafts, moisture, dust, and insects from entering your home. Proper weatherstripping improves energy efficiency by maintaining indoor temperatures, reduces noise, and protects your home's interior from the elements, especially in areas with varying climates like the Bay Area. It's a crucial component for comfort and energy savings.",
+        "@type": "Answer",
+        "description": "Weatherstripping seals gaps in sliding doors to prevent drafts, moisture, and pests, improving energy efficiency and comfort."
+      }
+    }
+  ],
+  "description": "Weatherstripping seals gaps in sliding doors to prevent drafts, moisture, and pests, improving energy efficiency and comfort."
+}

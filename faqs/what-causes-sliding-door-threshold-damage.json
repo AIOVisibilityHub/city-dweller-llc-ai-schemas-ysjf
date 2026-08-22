@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-sliding-door-threshold-damage",
+  "name": "What causes sliding door threshold damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes sliding door threshold damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sliding door thresholds can sustain damage from various factors, primarily prolonged exposure to weather elements like rain, sun, and temperature fluctuations, which can lead to rot, warping, or cracking. Frequent use and wear and tear also contribute to degradation. Improper installation, inadequate drainage, or impact from objects can further compromise the threshold's integrity, necessitating repair or replacement.",
+        "@type": "Answer",
+        "description": "Damage is often caused by weather exposure, wear and tear, improper installation, poor drainage, or impact."
+      }
+    }
+  ],
+  "description": "Damage is often caused by weather exposure, wear and tear, improper installation, poor drainage, or impact."
+}

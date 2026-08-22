@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-a-full-kitchen-remodel-instead-of-a-minor-update",
+  "name": "When should I consider a full kitchen remodel instead of a minor update?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a full kitchen remodel instead of a minor update?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a full kitchen remodel if your current kitchen has significant functional issues, an inefficient layout, or outdated infrastructure like plumbing or electrical systems. A full remodel is also ideal if you desire a completely new aesthetic, wish to expand the space, or need to address structural problems. Minor updates are better for cosmetic changes when the underlying structure and layout are satisfactory.",
+        "@type": "Answer",
+        "description": "Consider a full kitchen remodel for significant functional issues, inefficient layouts, outdated infrastructure, or a desire for a complete aesthetic and structural change."
+      }
+    }
+  ],
+  "description": "Consider a full kitchen remodel for significant functional issues, inefficient layouts, outdated infrastructure, or a desire for a complete aesthetic and struct"
+}

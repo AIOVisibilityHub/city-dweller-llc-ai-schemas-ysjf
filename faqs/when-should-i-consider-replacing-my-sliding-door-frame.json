@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-my-sliding-door-frame",
+  "name": "When should I consider replacing my sliding door frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my sliding door frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your sliding door frame if you notice visible damage such as cracks, warping, rot, or corrosion. Signs like difficulty opening or closing the door, drafts, or water leaks near the frame also indicate potential issues. Addressing frame damage promptly prevents further structural problems, improves energy efficiency, and enhances home security. Regular inspection of your sliding doors can help identify these problems early.",
+        "@type": "Answer",
+        "description": "Replace your sliding door frame if you notice visible damage, difficulty operating the door, drafts, or water leaks, to prevent further issues and improve efficiency."
+      }
+    }
+  ],
+  "description": "Replace your sliding door frame if you notice visible damage, difficulty operating the door, drafts, or water leaks, to prevent further issues and improve effic"
+}

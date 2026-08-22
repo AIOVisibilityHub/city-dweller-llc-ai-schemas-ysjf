@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-signs-that-my-sliding-door-latch-needs-repair",
+  "name": "What are common signs that my sliding door latch needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my sliding door latch needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs your sliding door latch needs repair include difficulty locking or unlocking, the latch mechanism feeling loose or jammed, or if the door no longer securely engages with the frame. You might also notice the door rattling or not sealing properly, which can indicate a problem with the latch or its alignment. Ignoring these issues can compromise home security and energy efficiency.",
+        "@type": "Answer",
+        "description": "Difficulty locking, a loose or jammed mechanism, or the door not sealing properly are common signs your sliding door latch needs repair."
+      }
+    }
+  ],
+  "description": "Difficulty locking, a loose or jammed mechanism, or the door not sealing properly are common signs your sliding door latch needs repair."
+}

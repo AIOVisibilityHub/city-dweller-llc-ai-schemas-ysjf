@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-my-sliding-door-screen-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair my sliding door screen myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair my sliding door screen myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can perform minor repairs like patching small holes with a screen repair kit. However, for larger tears, mesh replacement, or frame issues, professional repair is recommended. Professionals have the right tools and expertise to ensure a tight, even screen tension, proper spline installation, and correct frame alignment. Improper DIY repairs can lead to an ill-fitting screen, reduced durability, or further damage to the frame. We ensure a high-quality, lasting repair.",
+        "@type": "Answer",
+        "description": "Minor repairs can be DIY, but for larger tears or frame issues, professional repair is best to ensure proper installation and durability."
+      }
+    }
+  ],
+  "description": "Minor repairs can be DIY, but for larger tears or frame issues, professional repair is best to ensure proper installation and durability."
+}

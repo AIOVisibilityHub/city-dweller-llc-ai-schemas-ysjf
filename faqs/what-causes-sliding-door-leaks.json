@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-sliding-door-leaks",
+  "name": "What causes sliding door leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes sliding door leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sliding door leaks are commonly caused by degraded weatherstripping or seals, blocked or damaged weep holes (drainage channels), cracks in the door frame or glass, improper installation, or issues with the surrounding stucco or siding. Over time, components wear down due to sun exposure, rain, and temperature fluctuations, compromising the door's ability to keep water out.",
+        "@type": "Answer",
+        "description": "Common causes include worn weatherstripping, clogged weep holes, frame damage, or improper installation."
+      }
+    }
+  ],
+  "description": "Common causes include worn weatherstripping, clogged weep holes, frame damage, or improper installation."
+}

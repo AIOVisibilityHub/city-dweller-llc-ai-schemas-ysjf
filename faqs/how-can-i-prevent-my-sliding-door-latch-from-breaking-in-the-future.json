@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-prevent-my-sliding-door-latch-from-breaking-in-the-future",
+  "name": "How can I prevent my sliding door latch from breaking in the future?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent my sliding door latch from breaking in the future?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent future sliding door latch issues, regularly clean the door tracks to ensure smooth operation, reducing stress on the latch. Periodically lubricate moving parts of the latch mechanism with a silicone-based spray, avoiding oil-based lubricants that can attract dirt. Ensure the door is properly aligned, as misalignment can cause the latch to bind. Gentle use and avoiding forcing the door when it resists can also extend the latch's lifespan.",
+        "@type": "Answer",
+        "description": "Prevent future latch issues by regularly cleaning tracks, lubricating the mechanism, ensuring proper door alignment, and using the door gently."
+      }
+    }
+  ],
+  "description": "Prevent future latch issues by regularly cleaning tracks, lubricating the mechanism, ensuring proper door alignment, and using the door gently."
+}

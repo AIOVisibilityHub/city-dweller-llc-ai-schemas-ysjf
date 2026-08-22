@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-benefits-of-upgrading-to-an-energy-efficient-sliding-door",
+  "name": "What are the benefits of upgrading to an energy-efficient sliding door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of upgrading to an energy-efficient sliding door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upgrading to an energy-efficient sliding door offers multiple benefits. You'll likely experience improved indoor comfort due to better temperature regulation and reduced drafts. Lower energy bills are a significant advantage, as the doors minimize heat loss in winter and heat gain in summer. Enhanced sound insulation can reduce outside noise. Additionally, newer doors often come with better security features and can significantly boost your home's aesthetic appeal and resale value. They also help reduce your carbon footprint.",
+        "@type": "Answer",
+        "description": "Benefits include improved comfort, lower energy bills, reduced noise, enhanced security, increased home value, and a smaller carbon footprint."
+      }
+    }
+  ],
+  "description": "Benefits include improved comfort, lower energy bills, reduced noise, enhanced security, increased home value, and a smaller carbon footprint."
+}

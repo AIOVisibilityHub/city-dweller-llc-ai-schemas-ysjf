@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-materials-are-used-for-sliding-door-screen-repair",
+  "name": "What materials are used for sliding door screen repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used for sliding door screen repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard screen mesh is typically fiberglass, which is durable and resistant to corrosion. We also offer specialty screens such as pet-resistant mesh, which is thicker and more resilient against animal claws, and solar screens, designed to block UV rays and improve energy efficiency. The choice of material depends on your specific needs, such as durability requirements, insect protection, or sun control. We will discuss the best options during your consultation.",
+        "@type": "Answer",
+        "description": "Common materials include fiberglass, pet-resistant mesh, and solar screens. Selection depends on durability, insect protection, or sun control needs."
+      }
+    }
+  ],
+  "description": "Common materials include fiberglass, pet-resistant mesh, and solar screens. Selection depends on durability, insect protection, or sun control needs."
+}

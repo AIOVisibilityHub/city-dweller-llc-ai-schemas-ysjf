@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/why-is-caulking-important-for-sliding-doors",
+  "name": "Why is caulking important for sliding doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is caulking important for sliding doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Caulking plays a crucial role in maintaining the integrity and energy efficiency of sliding doors. It seals gaps between the door frame and the surrounding wall, preventing air drafts, moisture intrusion, and pest entry. Proper caulking reduces heat loss or gain, leading to lower energy bills and a more comfortable indoor environment. It also protects the building structure from water damage and can extend the lifespan of your sliding door.",
+        "@type": "Answer",
+        "description": "Caulking seals gaps around sliding doors, preventing drafts, moisture, and pests, improving energy efficiency and protecting your home."
+      }
+    }
+  ],
+  "description": "Caulking seals gaps around sliding doors, preventing drafts, moisture, and pests, improving energy efficiency and protecting your home."
+}

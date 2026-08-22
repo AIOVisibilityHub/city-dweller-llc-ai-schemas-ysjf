@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-a-sliding-door-threshold-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair a sliding door threshold myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair a sliding door threshold myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor surface repairs like sealing small cracks or repainting might be manageable for a DIY enthusiast, more extensive damage often requires professional expertise. Issues involving structural integrity, significant rot, water intrusion, or complex material matching are best handled by experienced contractors. Professionals ensure proper techniques, materials, and long-term solutions, preventing recurring problems and potential further damage.",
+        "@type": "Answer",
+        "description": "Minor repairs can be DIY, but significant damage, structural issues, or water intrusion usually require a professional for proper and lasting solutions."
+      }
+    }
+  ],
+  "description": "Minor repairs can be DIY, but significant damage, structural issues, or water intrusion usually require a professional for proper and lasting solutions."
+}

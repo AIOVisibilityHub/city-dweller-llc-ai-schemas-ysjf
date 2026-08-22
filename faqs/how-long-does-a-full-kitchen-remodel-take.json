@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-full-kitchen-remodel-take",
+  "name": "How long does a full kitchen remodel take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a full kitchen remodel take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a full kitchen remodel can vary significantly based on the project's complexity and the availability of materials. Generally, a comprehensive remodel can take anywhere from 6 to 12 weeks from demolition to final installation. This timeframe accounts for design finalization, material procurement, demolition, rough-ins for plumbing and electrical, installations, and final finishes. City Dweller, LLC provides a detailed timeline during the planning phase.",
+        "@type": "Answer",
+        "description": "A full kitchen remodel generally takes 6 to 12 weeks, depending on complexity and material availability, from demolition to final installation."
+      }
+    }
+  ],
+  "description": "A full kitchen remodel generally takes 6 to 12 weeks, depending on complexity and material availability, from demolition to final installation."
+}

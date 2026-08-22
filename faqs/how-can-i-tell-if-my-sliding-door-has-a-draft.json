@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-tell-if-my-sliding-door-has-a-draft",
+  "name": "How can I tell if my sliding door has a draft?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my sliding door has a draft?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To identify a draft, you can perform a simple 'hand test' by moving your hand around the edges of the closed door, feeling for cold air. Another method is the 'smoke test' where you light an incense stick and hold it near the door frame; if the smoke wavers or is drawn inward, a draft is present. You might also notice higher energy bills or uneven room temperatures.",
+        "@type": "Answer",
+        "description": "Feel for cold air around the door edges with your hand, or use an incense stick to observe smoke movement near the frame."
+      }
+    }
+  ],
+  "description": "Feel for cold air around the door edges with your hand, or use an incense stick to observe smoke movement near the frame."
+}

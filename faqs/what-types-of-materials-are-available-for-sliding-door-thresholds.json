@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-materials-are-available-for-sliding-door-thresholds",
+  "name": "What types of materials are available for sliding door thresholds?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are available for sliding door thresholds?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sliding door thresholds are commonly made from aluminum, vinyl, fiberglass, or wood. Aluminum offers durability and resistance to corrosion. Vinyl and fiberglass provide good insulation and are low-maintenance. Wood thresholds can offer a traditional aesthetic but may require more maintenance and are susceptible to rot if not properly sealed. The best material often depends on your climate, door type, and aesthetic preferences.",
+        "@type": "Answer",
+        "description": "Common materials include aluminum, vinyl, fiberglass, and wood, each offering different benefits in durability and insulation."
+      }
+    }
+  ],
+  "description": "Common materials include aluminum, vinyl, fiberglass, and wood, each offering different benefits in durability and insulation."
+}

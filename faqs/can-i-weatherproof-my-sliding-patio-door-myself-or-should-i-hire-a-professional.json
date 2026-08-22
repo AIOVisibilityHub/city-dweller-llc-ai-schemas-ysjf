@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-weatherproof-my-sliding-patio-door-myself-or-should-i-hire-a-professional",
+  "name": "Can I weatherproof my sliding patio door myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I weatherproof my sliding patio door myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor weatherproofing tasks like applying caulk or replacing basic weatherstripping can be a DIY project for those comfortable with home repairs, hiring a professional is often recommended for comprehensive and effective results. Professionals have experience identifying less obvious air leaks, selecting the most appropriate materials, and ensuring a proper, long-lasting seal. This is especially true for complex issues, damage repair, or if you're unsure about the best approach to maximize energy efficiency and prevent water intrusion, which can lead to costly damage if not done correctly.",
+        "@type": "Answer",
+        "description": "You can DIY minor tasks, but hiring a professional is recommended for comprehensive and effective results, especially for complex issues or damage."
+      }
+    }
+  ],
+  "description": "You can DIY minor tasks, but hiring a professional is recommended for comprehensive and effective results, especially for complex issues or damage."
+}

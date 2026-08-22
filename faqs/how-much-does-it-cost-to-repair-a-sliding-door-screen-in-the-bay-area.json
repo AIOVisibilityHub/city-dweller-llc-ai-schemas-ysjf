@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-repair-a-sliding-door-screen-in-the-bay-area",
+  "name": "How much does it cost to repair a sliding door screen in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair a sliding door screen in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of sliding door screen repair in the Bay Area varies depending on the type and extent of the damage, the size of the screen, and the material chosen for replacement. Basic patch repairs are less expensive than full mesh replacement. Premium materials like pet-resistant or solar screens will also impact the price. We provide a detailed estimate after assessing your specific screen's condition and your preferences for materials. Minor repairs typically range from $75-$150, while full rescreening can range from $150-$300+.",
+        "@type": "Answer",
+        "description": "Cost varies by damage, size, and material. Basic repairs are less than full mesh replacement. Estimates are provided after assessment."
+      }
+    }
+  ],
+  "description": "Cost varies by damage, size, and material. Basic repairs are less than full mesh replacement. Estimates are provided after assessment."
+}

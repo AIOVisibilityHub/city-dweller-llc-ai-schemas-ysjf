@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-you-repair-leaks-for-all-types-of-sliding-doors",
+  "name": "Do you repair leaks for all types of sliding doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you repair leaks for all types of sliding doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, our team is equipped to diagnose and repair leaks in various types of sliding doors, including patio doors, multi-panel sliding doors, and pocket doors made from vinyl, aluminum, or wood. Regardless of the material or style, we can identify the cause of water intrusion and implement effective solutions to restore your door's integrity and weather resistance.",
+        "@type": "Answer",
+        "description": "We repair leaks in all types of sliding doors, including patio, multi-panel, and pocket doors made from various materials like vinyl, aluminum, or wood."
+      }
+    }
+  ],
+  "description": "We repair leaks in all types of sliding doors, including patio, multi-panel, and pocket doors made from various materials like vinyl, aluminum, or wood."
+}

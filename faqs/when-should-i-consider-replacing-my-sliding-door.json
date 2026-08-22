@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-my-sliding-door",
+  "name": "When should I consider replacing my sliding door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my sliding door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider replacing your sliding door if you notice drafts, condensation between glass panes (indicating a failed seal), difficulty opening or closing, or if the door feels cold or hot to the touch. Older single-pane doors are prime candidates for replacement due to their poor insulation. Upgrading also makes sense if you're experiencing high energy bills, want to improve your home's comfort, or are undertaking a larger renovation project. Replacement can enhance security and curb appeal, too.",
+        "@type": "Answer",
+        "description": "Replace your sliding door if you experience drafts, condensation, operational issues, high energy bills, or desire improved comfort, security, or aesthetics."
+      }
+    }
+  ],
+  "description": "Replace your sliding door if you experience drafts, condensation, operational issues, high energy bills, or desire improved comfort, security, or aesthetics."
+}

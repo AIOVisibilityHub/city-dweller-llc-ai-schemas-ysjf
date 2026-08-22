@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-sliding-door-threshold-repair",
+  "name": "What is the typical process for sliding door threshold repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for sliding door threshold repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically begins with an inspection to assess the damage and identify its cause. Depending on the issue, it may involve cleaning the area, removing damaged sections, applying sealants or fillers, reinforcing the structure, or replacing parts of the threshold. For severe damage, a full threshold replacement might be necessary. The final step often includes sealing and painting to protect against future wear and weather.",
+        "@type": "Answer",
+        "description": "The process involves inspection, removing damaged parts, cleaning, applying sealants or fillers, reinforcement, and finishing to prevent future damage."
+      }
+    }
+  ],
+  "description": "The process involves inspection, removing damaged parts, cleaning, applying sealants or fillers, reinforcement, and finishing to prevent future damage."
+}

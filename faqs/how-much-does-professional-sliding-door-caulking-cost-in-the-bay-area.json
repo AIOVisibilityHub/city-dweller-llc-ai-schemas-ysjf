@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-professional-sliding-door-caulking-cost-in-the-bay-area",
+  "name": "How much does professional sliding door caulking cost in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does professional sliding door caulking cost in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of professional sliding door caulking in the Bay Area varies depending on factors such as the number of doors, the type of caulk used, the condition of existing caulk (removal difficulty), and the complexity of the job. Generally, it's quoted per linear foot or as part of a larger project. We provide detailed estimates after assessing your specific needs, ensuring transparency and no hidden fees.",
+        "@type": "Answer",
+        "description": "Costs vary based on door count, caulk type, existing caulk condition, and job complexity; we provide detailed estimates."
+      }
+    }
+  ],
+  "description": "Costs vary based on door count, caulk type, existing caulk condition, and job complexity; we provide detailed estimates."
+}

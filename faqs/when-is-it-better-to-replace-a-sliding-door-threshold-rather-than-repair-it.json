@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-is-it-better-to-replace-a-sliding-door-threshold-rather-than-repair-it",
+  "name": "When is it better to replace a sliding door threshold rather than repair it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it better to replace a sliding door threshold rather than repair it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacement is generally recommended over repair when the damage is extensive, such as significant rot that compromises structural integrity, deep cracks that cannot be adequately sealed, or severe warping that prevents proper door operation. If the cost of repair approaches the cost of replacement, or if repeated repairs have failed, a full replacement often provides a more durable and long-term solution for your home.",
+        "@type": "Answer",
+        "description": "Replace when damage is extensive, like significant rot or severe warping, or if repair costs are similar to replacement costs."
+      }
+    }
+  ],
+  "description": "Replace when damage is extensive, like significant rot or severe warping, or if repair costs are similar to replacement costs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-sliding-door-leak-repair-take",
+  "name": "How long does a sliding door leak repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a sliding door leak repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a sliding door leak repair depends on the complexity of the issue. Simple fixes, like replacing weatherstripping or clearing drainage, can often be completed within a few hours. More involved repairs, such as frame reconstruction, glass replacement, or addressing adjacent structural damage, might take a full day or require multiple visits. We aim to complete repairs efficiently while ensuring a lasting solution.",
+        "@type": "Answer",
+        "description": "Minor repairs can take a few hours, while more complex issues like frame or glass replacement may take a full day or longer."
+      }
+    }
+  ],
+  "description": "Minor repairs can take a few hours, while more complex issues like frame or glass replacement may take a full day or longer."
+}

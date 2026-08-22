@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-repairing-damaged-sliding-door-flashing",
+  "name": "What is the process for repairing damaged sliding door flashing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing damaged sliding door flashing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically begins with an inspection to assess the damage and identify the source of the leak. This may involve removing exterior trim, siding, or portions of the door frame to access the existing flashing. Damaged flashing is then carefully removed and replaced with new, properly installed waterproof materials. Finally, the area is sealed, and any removed exterior elements are reinstalled and finished to match the existing structure.",
+        "@type": "Answer",
+        "description": "The process involves inspection, removal of damaged flashing, installation of new waterproof materials, sealing, and reinstallation of exterior elements."
+      }
+    }
+  ],
+  "description": "The process involves inspection, removal of damaged flashing, installation of new waterproof materials, sealing, and reinstallation of exterior elements."
+}

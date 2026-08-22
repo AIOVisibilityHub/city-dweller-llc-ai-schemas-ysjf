@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-prepare-my-home-for-a-kitchen-renovation",
+  "name": "How can I prepare my home for a kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare my home for a kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare your home for a kitchen renovation, begin by clearing out all kitchen contents, including food, dishes, and small appliances. Arrange for a temporary cooking area if needed. Protect surrounding areas from dust by covering furniture and sealing off doorways. Ensure a clear pathway for workers and material delivery. Discuss with your contractor where materials will be stored and how utilities will be managed during the project.",
+        "@type": "Answer",
+        "description": "Prepare your home by clearing kitchen contents, setting up a temporary cooking area, protecting surrounding areas from dust, and ensuring clear access for workers."
+      }
+    }
+  ],
+  "description": "Prepare your home by clearing kitchen contents, setting up a temporary cooking area, protecting surrounding areas from dust, and ensuring clear access for worke"
+}

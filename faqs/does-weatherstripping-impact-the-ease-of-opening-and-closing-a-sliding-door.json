@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/does-weatherstripping-impact-the-ease-of-opening-and-closing-a-sliding-door",
+  "name": "Does weatherstripping impact the ease of opening and closing a sliding door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does weatherstripping impact the ease of opening and closing a sliding door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When installed correctly, new weatherstripping should not negatively impact the ease of opening and closing your sliding door. In fact, by providing a smoother, consistent seal, it can sometimes improve the door's operation by eliminating uneven friction or catching points. However, if the weatherstripping is too thick, installed improperly, or of poor quality, it can create excessive drag, making the door difficult to move or causing premature wear on the stripping itself. Proper installation is key.",
+        "@type": "Answer",
+        "description": "Correctly installed weatherstripping should not hinder door operation; it can even improve it. Improper installation might cause resistance."
+      }
+    }
+  ],
+  "description": "Correctly installed weatherstripping should not hinder door operation; it can even improve it. Improper installation might cause resistance."
+}

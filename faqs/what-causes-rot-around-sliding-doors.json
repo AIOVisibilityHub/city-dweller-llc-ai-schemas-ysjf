@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-rot-around-sliding-doors",
+  "name": "What causes rot around sliding doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes rot around sliding doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rot around sliding doors is primarily caused by prolonged exposure to moisture. This often occurs when flashing or sealants around the door frame fail, allowing rainwater or irrigation overspray to penetrate the wood. Poor drainage, clogged gutters, or a lack of proper overhangs can also contribute by directing water towards the door assembly. Once moisture seeps into unsealed or improperly protected wood, fungi and bacteria can thrive, leading to decay and structural damage. Regular inspections and proper maintenance can help prevent these issues.",
+        "@type": "Answer",
+        "description": "Rot around sliding doors is caused by moisture infiltration due to failed flashing, sealants, or poor drainage, leading to wood decay."
+      }
+    }
+  ],
+  "description": "Rot around sliding doors is caused by moisture infiltration due to failed flashing, sealants, or poor drainage, leading to wood decay."
+}

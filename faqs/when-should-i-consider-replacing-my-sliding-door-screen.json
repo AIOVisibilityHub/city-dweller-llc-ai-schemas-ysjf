@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-my-sliding-door-screen",
+  "name": "When should I consider replacing my sliding door screen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my sliding door screen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your sliding door screen if it has visible tears, holes, or significant damage that compromises its function. Other signs include a screen that is constantly coming out of its frame, has severe sun rot making it brittle, or if you're experiencing excessive insect intrusion. Replacement can also improve your home's aesthetics and energy efficiency if the old screen is warped or no longer seals properly.",
+        "@type": "Answer",
+        "description": "Replace your sliding door screen if it has tears, holes, sun rot, or is no longer functioning effectively to keep insects out."
+      }
+    }
+  ],
+  "description": "Replace your sliding door screen if it has tears, holes, sun rot, or is no longer functioning effectively to keep insects out."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-replace-a-sliding-door-threshold-myself-or-should-i-hire-a-professional",
+  "name": "Can I replace a sliding door threshold myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace a sliding door threshold myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it is possible for experienced DIYers to replace a sliding door threshold, it is generally recommended to hire a professional. Proper installation requires precise measurements, sealing techniques, and knowledge of how to ensure the door operates smoothly and is weather-tight. Incorrect installation can lead to drafts, water leaks, or damage to the door itself. Professionals ensure the job is done correctly, offering peace of mind and often a warranty.",
+        "@type": "Answer",
+        "description": "Hiring a professional is recommended for precise installation and to avoid issues like leaks or drafts, though experienced DIYers might attempt it."
+      }
+    }
+  ],
+  "description": "Hiring a professional is recommended for precise installation and to avoid issues like leaks or drafts, though experienced DIYers might attempt it."
+}

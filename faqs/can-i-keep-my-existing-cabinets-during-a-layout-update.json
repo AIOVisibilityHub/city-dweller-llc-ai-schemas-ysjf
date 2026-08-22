@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-keep-my-existing-cabinets-during-a-layout-update",
+  "name": "Can I keep my existing cabinets during a layout update?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I keep my existing cabinets during a layout update?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Keeping existing cabinets during a layout update is sometimes possible, but it depends on their condition, quality, and if they fit the new design. If the new layout significantly changes the kitchen's footprint, new or additional cabinetry will likely be needed to fill gaps or accommodate relocated appliances. Refinishing or refacing existing cabinets can save costs if they are structurally sound and their configuration remains largely unchanged. We assess the feasibility during the design consultation.",
+        "@type": "Answer",
+        "description": "Keeping existing cabinets during a layout update is possible if they are in good condition and fit the new design. Significant changes often require new or additional cabinetry."
+      }
+    }
+  ],
+  "description": "Keeping existing cabinets during a layout update is possible if they are in good condition and fit the new design. Significant changes often require new or addi"
+}

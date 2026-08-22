@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-you-offer-sliding-door-leak-repair-services-in-the-bay-area",
+  "name": "Do you offer sliding door leak repair services in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer sliding door leak repair services in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, City Dweller, LLC provides comprehensive sliding door leak repair services throughout the Bay Area. Our service areas include Pacifica, Daly City, San Bruno, South San Francisco, Brisbane, Colma, Millbrae, San Mateo, Burlingame, Half Moon Bay, Montara, El Granada, Belmont, San Carlos, Redwood City, Hillsborough, Foster City, Menlo Park, Atherton, and Palo Alto. We are ready to assist homeowners with effective and lasting leak solutions.",
+        "@type": "Answer",
+        "description": "Yes, City Dweller, LLC offers sliding door leak repair across the Bay Area, including Pacifica, Daly City, and San Bruno."
+      }
+    }
+  ],
+  "description": "Yes, City Dweller, LLC offers sliding door leak repair across the Bay Area, including Pacifica, Daly City, and San Bruno."
+}

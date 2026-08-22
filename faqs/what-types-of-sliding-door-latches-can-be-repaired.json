@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-sliding-door-latches-can-be-repaired",
+  "name": "What types of sliding door latches can be repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of sliding door latches can be repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many types of sliding door latches can be repaired, including mortise latches, surface-mount latches, and hook latches found on patio, closet, and pocket doors. The feasibility of repair often depends on the specific damage; if internal components are worn or broken, replacement of the entire mechanism might be necessary rather than a simple repair. A professional can assess whether a repair or replacement is the most cost-effective solution.",
+        "@type": "Answer",
+        "description": "Most standard sliding door latch types, like mortise or hook latches, can be repaired, though sometimes full replacement is more practical."
+      }
+    }
+  ],
+  "description": "Most standard sliding door latch types, like mortise or hook latches, can be repaired, though sometimes full replacement is more practical."
+}

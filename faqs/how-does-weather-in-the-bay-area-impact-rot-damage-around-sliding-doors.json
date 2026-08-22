@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-does-weather-in-the-bay-area-impact-rot-damage-around-sliding-doors",
+  "name": "How does weather in the Bay Area impact rot damage around sliding doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does weather in the Bay Area impact rot damage around sliding doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The Bay Area's climate, with its coastal fogs, occasional heavy rains, and temperature fluctuations, significantly contributes to rot damage around sliding doors. Consistent moisture from fog can slowly penetrate imperfect seals, and strong rain events can exploit minor flashing failures. The damp conditions, especially in shaded or poorly ventilated areas, create an ideal environment for mold and fungi to grow, accelerating wood decay once moisture has breached the protective barriers. This makes robust waterproofing and regular maintenance particularly crucial for Bay Area homes.",
+        "@type": "Answer",
+        "description": "Bay Area's damp climate, with fog and rain, accelerates rot by providing consistent moisture for fungi growth when seals or flashing fail."
+      }
+    }
+  ],
+  "description": "Bay Area's damp climate, with fog and rain, accelerates rot by providing consistent moisture for fungi growth when seals or flashing fail."
+}

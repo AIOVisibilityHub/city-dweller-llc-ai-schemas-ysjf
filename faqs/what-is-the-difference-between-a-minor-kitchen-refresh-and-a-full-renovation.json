@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-a-minor-kitchen-refresh-and-a-full-renovation",
+  "name": "What is the difference between a minor kitchen refresh and a full renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a minor kitchen refresh and a full renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A minor kitchen refresh typically involves cosmetic updates without changing the layout, such as repainting cabinets, upgrading hardware, replacing countertops, or installing new appliances. It's less disruptive and generally more budget-friendly. A full renovation, in contrast, often includes altering the kitchen's layout, moving walls, relocating plumbing and electrical, and installing all new components, offering a complete transformation of the space.",
+        "@type": "Answer",
+        "description": "A minor refresh involves cosmetic updates without layout changes, while a full renovation alters the layout, plumbing, electrical, and replaces all major components for a complete transformation."
+      }
+    }
+  ],
+  "description": "A minor refresh involves cosmetic updates without layout changes, while a full renovation alters the layout, plumbing, electrical, and replaces all major compon"
+}

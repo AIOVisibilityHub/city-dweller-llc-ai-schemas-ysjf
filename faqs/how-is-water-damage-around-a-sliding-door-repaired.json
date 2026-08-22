@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-is-water-damage-around-a-sliding-door-repaired",
+  "name": "How is water damage around a sliding door repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How is water damage around a sliding door repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing water damage typically involves several steps. First, the source of the water intrusion must be identified and fixed, whether it's faulty flashing, damaged weatherstripping, or compromised caulk. Next, any saturated or damaged materials, such as drywall, insulation, wood framing, or flooring, are removed and replaced. The affected area must be thoroughly dried to prevent mold growth. Finally, the area is reconstructed and finished, ensuring proper sealing and drainage to prevent future issues. This process often requires specialized tools and expertise.",
+        "@type": "Answer",
+        "description": "Repair involves finding and fixing the water source, removing damaged materials, thoroughly drying the area, and then reconstructing with proper sealing to prevent recurrence."
+      }
+    }
+  ],
+  "description": "Repair involves finding and fixing the water source, removing damaged materials, thoroughly drying the area, and then reconstructing with proper sealing to prev"
+}

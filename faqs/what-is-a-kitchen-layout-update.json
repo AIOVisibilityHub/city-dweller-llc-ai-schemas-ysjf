@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-kitchen-layout-update",
+  "name": "What is a kitchen layout update?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a kitchen layout update?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen layout update involves altering the existing arrangement of your kitchen's key components such as cabinets, appliances, and work zones. This can range from minor reconfigurations to a complete overhaul, often driven by a need for better functionality, increased storage, improved traffic flow, or a more modern aesthetic. Unlike a cosmetic refresh, a layout update typically requires relocating plumbing or electrical, making it a more involved renovation project.",
+        "@type": "Answer",
+        "description": "A kitchen layout update involves reconfiguring the arrangement of cabinets, appliances, and work zones to improve functionality and aesthetics. It often requires relocating plumbing or electrical."
+      }
+    }
+  ],
+  "description": "A kitchen layout update involves reconfiguring the arrangement of cabinets, appliances, and work zones to improve functionality and aesthetics. It often require"
+}

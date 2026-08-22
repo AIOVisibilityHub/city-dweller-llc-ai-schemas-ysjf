@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-replacing-a-sliding-door-threshold",
+  "name": "What is the process for replacing a sliding door threshold?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing a sliding door threshold?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The replacement process typically involves carefully removing the old threshold and any damaged sub-materials. The area is then cleaned and prepared for the new threshold. A new threshold is cut to size, sealed, and securely installed, often with shims to ensure it's level and provides a tight seal. The sliding door is then re-installed and adjusted to ensure smooth operation and proper alignment. Finally, the area is sealed against weather.",
+        "@type": "Answer",
+        "description": "The process includes removing the old threshold, preparing the opening, installing the new threshold, and reinstalling/adjusting the door."
+      }
+    }
+  ],
+  "description": "The process includes removing the old threshold, preparing the opening, installing the new threshold, and reinstalling/adjusting the door."
+}

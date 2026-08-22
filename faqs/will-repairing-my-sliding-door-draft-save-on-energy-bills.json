@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-repairing-my-sliding-door-draft-save-on-energy-bills",
+  "name": "Will repairing my sliding door draft save on energy bills?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will repairing my sliding door draft save on energy bills?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, repairing a sliding door draft can lead to noticeable savings on energy bills. Drafts allow conditioned air (heated in winter, cooled in summer) to escape, forcing your HVAC system to work harder to maintain desired indoor temperatures. By sealing these leaks, you improve your home's energy efficiency, reducing energy consumption and utility costs over time.",
+        "@type": "Answer",
+        "description": "Yes, repairing drafts improves energy efficiency by preventing conditioned air from escaping, which reduces HVAC workload and utility costs."
+      }
+    }
+  ],
+  "description": "Yes, repairing drafts improves energy efficiency by preventing conditioned air from escaping, which reduces HVAC workload and utility costs."
+}

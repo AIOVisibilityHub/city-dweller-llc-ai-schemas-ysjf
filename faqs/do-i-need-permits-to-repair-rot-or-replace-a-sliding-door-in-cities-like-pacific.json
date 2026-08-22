@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-permits-to-repair-rot-or-replace-a-sliding-door-in-cities-like-pacific",
+  "name": "Do I need permits to repair rot or replace a sliding door in cities like Pacifica or San Mateo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits to repair rot or replace a sliding door in cities like Pacifica or San Mateo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for repairing rot or replacing a sliding door can vary by city within the Bay Area, including Pacifica or San Mateo. Generally, minor cosmetic repairs to the existing frame might not require a permit. However, if the work involves altering the structural framing of the wall, changing the size of the opening, or significantly impacting the building's exterior envelope, a building permit is usually required. It's always best to consult with your local building department or have your contractor verify specific permit requirements for your project to ensure compliance.",
+        "@type": "Answer",
+        "description": "Permits may be needed if work involves structural framing, changing opening size, or impacting the building envelope. Always check with your local city building department."
+      }
+    }
+  ],
+  "description": "Permits may be needed if work involves structural framing, changing opening size, or impacting the building envelope. Always check with your local city building"
+}

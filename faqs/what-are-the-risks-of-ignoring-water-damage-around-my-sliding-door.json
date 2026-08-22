@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-risks-of-ignoring-water-damage-around-my-sliding-door",
+  "name": "What are the risks of ignoring water damage around my sliding door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the risks of ignoring water damage around my sliding door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ignoring water damage can lead to significant problems over time. Continuously wet conditions create an ideal environment for mold and mildew growth, which can impact indoor air quality and potentially cause health issues. Structural integrity can be compromised as wood frames, subflooring, and wall studs weaken due to rot. This can lead to costly repairs down the line, including needing to replace entire sections of your wall or floor. Persistent moisture can also attract pests like termites, which thrive in damp wood.",
+        "@type": "Answer",
+        "description": "Ignoring water damage can lead to mold growth, compromised structural integrity from rot, increased repair costs, and pest infestations."
+      }
+    }
+  ],
+  "description": "Ignoring water damage can lead to mold growth, compromised structural integrity from rot, increased repair costs, and pest infestations."
+}

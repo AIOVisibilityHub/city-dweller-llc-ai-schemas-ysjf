@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-noise-reducing-sliding-doors-also-improve-energy-efficiency",
+  "name": "Do noise-reducing sliding doors also improve energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do noise-reducing sliding doors also improve energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, noise-reducing sliding doors often provide significant energy efficiency benefits. The same features that make them effective at blocking sound, such as multi-pane glass with inert gas fills and robust, tightly sealed frames, also create excellent thermal barriers. This helps prevent heat transfer, keeping your home cooler in summer and warmer in winter, which can lead to reduced heating and cooling costs and a more comfortable indoor environment.",
+        "@type": "Answer",
+        "description": "Yes, their multi-pane glass and tightly sealed frames also create excellent thermal barriers, improving energy efficiency and reducing utility costs."
+      }
+    }
+  ],
+  "description": "Yes, their multi-pane glass and tightly sealed frames also create excellent thermal barriers, improving energy efficiency and reducing utility costs."
+}

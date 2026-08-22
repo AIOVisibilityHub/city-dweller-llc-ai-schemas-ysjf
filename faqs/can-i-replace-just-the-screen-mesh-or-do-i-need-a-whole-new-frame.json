@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-replace-just-the-screen-mesh-or-do-i-need-a-whole-new-frame",
+  "name": "Can I replace just the screen mesh or do I need a whole new frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace just the screen mesh or do I need a whole new frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many cases, you can replace just the screen mesh if the existing frame is still structurally sound and free from significant damage or warping. This approach is often more cost-effective. However, if the frame is bent, cracked, corroded, or doesn't roll smoothly on its track, replacing the entire screen door unit, including the frame, might be necessary for optimal performance and longevity. A professional assessment can determine the best course of action.",
+        "@type": "Answer",
+        "description": "You can often replace just the screen mesh if the frame is in good condition; otherwise, a new frame may be necessary."
+      }
+    }
+  ],
+  "description": "You can often replace just the screen mesh if the frame is in good condition; otherwise, a new frame may be necessary."
+}

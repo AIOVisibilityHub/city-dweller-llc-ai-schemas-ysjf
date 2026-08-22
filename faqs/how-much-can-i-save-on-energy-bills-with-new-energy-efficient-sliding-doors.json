@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-can-i-save-on-energy-bills-with-new-energy-efficient-sliding-doors",
+  "name": "How much can I save on energy bills with new energy-efficient sliding doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much can I save on energy bills with new energy-efficient sliding doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Energy bill savings vary based on several factors, including your home's insulation, climate, existing window and door efficiency, and the specific energy performance of the new doors. Homeowners in the Bay Area might see a noticeable reduction in heating and cooling costs. While exact figures are hard to predict without an energy audit, upgrading from old, inefficient single-pane doors can lead to significant savings over the long term, potentially offsetting a portion of the installation cost over time.",
+        "@type": "Answer",
+        "description": "Savings depend on your home's insulation, climate, and current door efficiency, but upgrading can lead to a noticeable reduction in heating and cooling costs."
+      }
+    }
+  ],
+  "description": "Savings depend on your home's insulation, climate, and current door efficiency, but upgrading can lead to a noticeable reduction in heating and cooling costs."
+}

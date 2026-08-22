@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-causes-of-sliding-door-frame-damage-in-the-bay-area",
+  "name": "What are the common causes of sliding door frame damage in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common causes of sliding door frame damage in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the Bay Area, common causes of sliding door frame damage include prolonged exposure to moisture, which can lead to wood rot or corrosion in metal frames. Salt air, especially in coastal areas like Pacifica or Half Moon Bay, accelerates corrosion. Ground movement or seismic activity can also cause frames to shift or crack. Additionally, general wear and tear, inadequate maintenance, or pest infestations can compromise frame integrity over time.",
+        "@type": "Answer",
+        "description": "Common causes of sliding door frame damage in the Bay Area include moisture, salt air, seismic activity, wear and tear, and pest infestations."
+      }
+    }
+  ],
+  "description": "Common causes of sliding door frame damage in the Bay Area include moisture, salt air, seismic activity, wear and tear, and pest infestations."
+}

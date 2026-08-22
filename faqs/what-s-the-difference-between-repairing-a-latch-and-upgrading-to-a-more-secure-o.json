@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-repairing-a-latch-and-upgrading-to-a-more-secure-o",
+  "name": "What's the difference between repairing a latch and upgrading to a more secure one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between repairing a latch and upgrading to a more secure one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a latch involves fixing the existing mechanism to restore its original function and security level. This is suitable when the current latch is adequate but has simply worn out or broken. Upgrading, on the other hand, means replacing the existing latch with a newer model that offers enhanced security features, better durability, or improved convenience. An upgrade might involve a multi-point locking system or a more robust design, offering a significant improvement over the original hardware.",
+        "@type": "Answer",
+        "description": "Repairing fixes the existing latch; upgrading replaces it with a new, often more secure or durable, mechanism."
+      }
+    }
+  ],
+  "description": "Repairing fixes the existing latch; upgrading replaces it with a new, often more secure or durable, mechanism."
+}

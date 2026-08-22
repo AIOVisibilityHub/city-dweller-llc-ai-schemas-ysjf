@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-sliding-door-latch-repair-take",
+  "name": "How long does a typical sliding door latch repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical sliding door latch repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard sliding door latch repairs can be completed within one to three hours, assuming the necessary parts are readily available. This includes diagnosing the issue, replacing the faulty component, and testing the new latch for proper function and alignment. More complex issues, such as extensive frame damage or difficulty sourcing specific vintage parts, might extend the repair time.",
+        "@type": "Answer",
+        "description": "Most sliding door latch repairs take 1-3 hours, depending on the complexity and part availability."
+      }
+    }
+  ],
+  "description": "Most sliding door latch repairs take 1-3 hours, depending on the complexity and part availability."
+}

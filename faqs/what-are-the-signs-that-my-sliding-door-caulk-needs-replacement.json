@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-signs-that-my-sliding-door-caulk-needs-replacement",
+  "name": "What are the signs that my sliding door caulk needs replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my sliding door caulk needs replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key signs that your sliding door caulk needs replacement include visible cracking, crumbling, peeling, or shrinking. You might also notice drafts around the door frame, increased energy bills, or water leaking in during rain. Gaps appearing between the caulk and the door frame or wall are clear indicators that the seal has failed and is no longer performing its function effectively.",
+        "@type": "Answer",
+        "description": "Look for cracked, crumbling, or peeling caulk, drafts, water leaks, or gaps around the door frame."
+      }
+    }
+  ],
+  "description": "Look for cracked, crumbling, or peeling caulk, drafts, water leaks, or gaps around the door frame."
+}

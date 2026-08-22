@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-kitchen-renovation-project-usually-take-from-start-to-finish",
+  "name": "How long does a kitchen renovation project usually take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a kitchen renovation project usually take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a kitchen renovation depends on its complexity and scale. A minor cosmetic update might take 4-8 weeks, including design, material selection, and construction. A mid-range renovation involving layout changes and new installations typically spans 8-16 weeks. Extensive renovations with structural modifications or custom elements can take 16 weeks or more. This timeline includes planning, permitting (if necessary), demolition, and installation phases. We aim to keep you informed of the project schedule every step of the way.",
+        "@type": "Answer",
+        "description": "Kitchen renovations typically take 4-16 weeks, or longer for complex projects, depending on the scope of work and structural changes."
+      }
+    }
+  ],
+  "description": "Kitchen renovations typically take 4-16 weeks, or longer for complex projects, depending on the scope of work and structural changes."
+}

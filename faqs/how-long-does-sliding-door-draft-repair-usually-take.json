@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-sliding-door-draft-repair-usually-take",
+  "name": "How long does sliding door draft repair usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does sliding door draft repair usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a sliding door draft repair depends on the extent of the damage. Minor repairs, such as replacing weatherstripping or adjusting rollers, can often be completed within a few hours. More involved repairs, like track replacement or addressing significant frame issues, might require a full day or multiple visits. A professional can provide a more precise timeline after an inspection.",
+        "@type": "Answer",
+        "description": "Minor repairs like weatherstripping replacement can take a few hours, while more extensive work might require a full day or multiple visits."
+      }
+    }
+  ],
+  "description": "Minor repairs like weatherstripping replacement can take a few hours, while more extensive work might require a full day or multiple visits."
+}

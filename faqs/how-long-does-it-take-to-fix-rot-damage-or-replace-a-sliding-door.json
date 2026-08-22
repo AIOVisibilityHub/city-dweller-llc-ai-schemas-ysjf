@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-fix-rot-damage-or-replace-a-sliding-door",
+  "name": "How long does it take to fix rot damage or replace a sliding door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to fix rot damage or replace a sliding door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for addressing rot damage around a sliding door varies. Minor repairs involving wood treatment and patching might take a day or two. For a full replacement, the process typically spans several days to a week. This includes removing the old door, assessing and repairing any underlying structural rot in the wall, installing the new door frame and unit, and completing exterior and interior trim work. The exact duration depends on the extent of the rot, the complexity of the installation, and weather conditions.",
+        "@type": "Answer",
+        "description": "Minor repairs take 1-2 days. Full replacement, including structural repair and installation, usually takes several days to a week."
+      }
+    }
+  ],
+  "description": "Minor repairs take 1-2 days. Full replacement, including structural repair and installation, usually takes several days to a week."
+}

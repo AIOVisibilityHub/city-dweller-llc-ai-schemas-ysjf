@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-the-entire-sliding-door-latch-instead-of-just-r",
+  "name": "When should I consider replacing the entire sliding door latch instead of just repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing the entire sliding door latch instead of just repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing the entire sliding door latch if the existing mechanism is severely corroded, has multiple broken internal components, or if compatible replacement parts are difficult or expensive to source. If the latch is very old and frequently malfunctions, a full replacement can offer better long-term reliability and enhanced security compared to repeated repairs. Sometimes, upgrading to a newer, more secure latch system is also a wise choice.",
+        "@type": "Answer",
+        "description": "Replace the entire latch if it's severely corroded, has multiple broken parts, or if repair parts are unavailable or costly."
+      }
+    }
+  ],
+  "description": "Replace the entire latch if it's severely corroded, has multiple broken parts, or if repair parts are unavailable or costly."
+}

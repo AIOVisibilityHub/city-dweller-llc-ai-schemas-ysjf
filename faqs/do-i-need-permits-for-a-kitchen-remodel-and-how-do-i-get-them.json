@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-permits-for-a-kitchen-remodel-and-how-do-i-get-them",
+  "name": "Do I need permits for a kitchen remodel, and how do I get them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a kitchen remodel, and how do I get them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most kitchen remodels, especially those involving plumbing, electrical, or structural changes, require permits from your local city or county building department. These permits ensure the work meets safety and building codes. As your general contractor, City Dweller, LLC handles the entire permit acquisition process, from preparing necessary documents and drawings to submitting applications and coordinating inspections, simplifying the process for you.",
+        "@type": "Answer",
+        "description": "Most kitchen remodels require permits for plumbing, electrical, or structural changes to ensure code compliance. Your contractor, City Dweller, LLC, manages the entire permit process."
+      }
+    }
+  ],
+  "description": "Most kitchen remodels require permits for plumbing, electrical, or structural changes to ensure code compliance. Your contractor, City Dweller, LLC, manages the"
+}

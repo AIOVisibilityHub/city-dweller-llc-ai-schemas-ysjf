@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-tell-if-my-sliding-door-has-water-damage",
+  "name": "How can I tell if my sliding door has water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my sliding door has water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of water damage around a sliding door can range from obvious to subtle. Look for visible water stains on walls or flooring near the door, peeling paint, or warped wood around the frame. You might also notice a musty odor, which indicates mold or mildew growth. Soft spots in the drywall or subfloor when pressed, or a door that is difficult to open and close due to swelling, are also strong indicators. If the weatherstripping appears cracked, brittle, or detached, it's likely water is infiltrating.",
+        "@type": "Answer",
+        "description": "Look for water stains, peeling paint, warped wood, musty odors, soft spots in drywall or floor, or difficulty operating the door. Damaged weatherstripping is also a key sign."
+      }
+    }
+  ],
+  "description": "Look for water stains, peeling paint, warped wood, musty odors, soft spots in drywall or floor, or difficulty operating the door. Damaged weatherstripping is al"
+}

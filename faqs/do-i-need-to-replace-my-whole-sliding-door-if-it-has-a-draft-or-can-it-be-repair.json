@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-replace-my-whole-sliding-door-if-it-has-a-draft-or-can-it-be-repair",
+  "name": "Do I need to replace my whole sliding door if it has a draft, or can it be repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace my whole sliding door if it has a draft, or can it be repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many cases, a sliding door draft can be repaired without needing a full replacement. Most drafts are caused by worn-out components like weatherstripping, damaged seals, or misaligned parts, which can be replaced or adjusted. A full door replacement is typically only necessary if there's significant structural damage to the door frame, extensive rot, or irreversible warping of the door panels.",
+        "@type": "Answer",
+        "description": "Most drafts can be repaired by replacing components or making adjustments; a full door replacement is usually only needed for significant structural damage."
+      }
+    }
+  ],
+  "description": "Most drafts can be repaired by replacing components or making adjustments; a full door replacement is usually only needed for significant structural damage."
+}

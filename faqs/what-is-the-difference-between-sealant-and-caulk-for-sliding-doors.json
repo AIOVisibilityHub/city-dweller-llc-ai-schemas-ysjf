@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-sealant-and-caulk-for-sliding-doors",
+  "name": "What is the difference between sealant and caulk for sliding doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between sealant and caulk for sliding doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often used interchangeably, 'caulk' typically refers to materials used to fill gaps in non-moving or minimally moving joints, often more rigid and paintable. 'Sealant,' particularly high-performance options like silicone or polyurethane, is designed for joints that experience more movement due to thermal expansion or structural shifts. For sliding doors, which are subject to environmental factors and some movement, a high-quality sealant (often referred to as caulk) with good flexibility is ideal to maintain a long-lasting, weather-tight seal.",
+        "@type": "Answer",
+        "description": "Caulk fills minor gaps, while sealant is designed for joints with more movement; for sliding doors, a flexible sealant is preferred."
+      }
+    }
+  ],
+  "description": "Caulk fills minor gaps, while sealant is designed for joints with more movement; for sliding doors, a flexible sealant is preferred."
+}

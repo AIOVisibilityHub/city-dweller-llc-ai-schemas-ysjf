@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-weatherproofing-last-and-what-impacts-its-lifespan",
+  "name": "How long does weatherproofing last, and what impacts its lifespan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does weatherproofing last, and what impacts its lifespan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of weatherproofing materials typically ranges from 5 to 20 years, depending on the material quality, installation, and exposure to environmental factors. Caulk might last 5-10 years, while high-quality vinyl or rubber weatherstripping can endure longer. Factors like direct sunlight exposure, extreme temperature fluctuations, frequent door usage, and the quality of the initial application significantly impact longevity. In coastal areas like Half Moon Bay, salt air and higher humidity can accelerate wear, requiring more frequent inspection and potential replacement to maintain effectiveness.",
+        "@type": "Answer",
+        "description": "Weatherproofing typically lasts 5-20 years, depending on material quality, installation, and environmental exposure. Coastal conditions can reduce lifespan."
+      }
+    }
+  ],
+  "description": "Weatherproofing typically lasts 5-20 years, depending on material quality, installation, and environmental exposure. Coastal conditions can reduce lifespan."
+}

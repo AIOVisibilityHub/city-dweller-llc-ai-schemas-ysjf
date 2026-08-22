@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-repair-sliding-door-flashing-in-the-bay-area",
+  "name": "How much does it cost to repair sliding door flashing in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair sliding door flashing in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair sliding door flashing in the Bay Area varies significantly based on the extent of the damage, the type of flashing materials required, and whether additional structural repairs (like replacing rotted wood) are needed. Simple resealing might be less expensive, while extensive repairs involving siding removal and replacement can range from several hundred to a few thousand dollars. A professional inspection provides an accurate estimate.",
+        "@type": "Answer",
+        "description": "Repair costs in the Bay Area vary based on damage and materials, typically ranging from a few hundred to several thousand dollars for extensive work."
+      }
+    }
+  ],
+  "description": "Repair costs in the Bay Area vary based on damage and materials, typically ranging from a few hundred to several thousand dollars for extensive work."
+}

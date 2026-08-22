@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-getting-my-sliding-door-screen-repaired",
+  "name": "What is the process for getting my sliding door screen repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for getting my sliding door screen repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with you contacting us to schedule an appointment. A technician will visit your property to inspect the sliding door screen, assess the damage, and discuss your repair options and material choices. We'll then provide you with a detailed, transparent estimate. Once approved, we will either perform the repair on-site or, if necessary, take the screen frame to our workshop for rescreening. We'll then reinstall the repaired screen and ensure proper function before completion.",
+        "@type": "Answer",
+        "description": "The process involves scheduling an appointment, on-site assessment and estimate, repair (on-site or off-site), and reinstallation."
+      }
+    }
+  ],
+  "description": "The process involves scheduling an appointment, on-site assessment and estimate, repair (on-site or off-site), and reinstallation."
+}

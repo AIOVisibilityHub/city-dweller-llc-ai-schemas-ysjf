@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-kitchen-renovation-usually-take",
+  "name": "How long does a kitchen renovation usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a kitchen renovation usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a kitchen renovation depends on its complexity and scope. A smaller, cosmetic refresh might be completed in 3-5 weeks. A mid-sized renovation, involving new cabinets and countertops but limited layout changes, typically takes 6-10 weeks. Extensive remodels that include reconfiguring walls, moving plumbing/electrical lines, and custom elements can extend to 10-16 weeks or more. We establish a clear timeline upfront and work to minimize disruption.",
+        "@type": "Answer",
+        "description": "Renovation timelines vary: 3-5 weeks for a refresh, 6-10 weeks for mid-sized remodels, and 10-16+ weeks for extensive projects."
+      }
+    }
+  ],
+  "description": "Renovation timelines vary: 3-5 weeks for a refresh, 6-10 weeks for mid-sized remodels, and 10-16+ weeks for extensive projects."
+}

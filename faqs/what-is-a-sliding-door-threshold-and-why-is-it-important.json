@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-sliding-door-threshold-and-why-is-it-important",
+  "name": "What is a sliding door threshold and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a sliding door threshold and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A sliding door threshold is the raised strip at the bottom of the door frame that the sliding door runs along. It provides a seal against weather, prevents water intrusion, and ensures smooth operation of the door. A functional threshold is critical for energy efficiency and protecting your home from drafts and moisture. It also supports the weight of the door and guides its movement, contributing to the door's longevity and ease of use.",
+        "@type": "Answer",
+        "description": "A sliding door threshold is the bottom part of the door frame that seals against weather and ensures smooth door operation."
+      }
+    }
+  ],
+  "description": "A sliding door threshold is the bottom part of the door frame that seals against weather and ensures smooth door operation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-a-leaking-sliding-door-myself",
+  "name": "Can I repair a leaking sliding door myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair a leaking sliding door myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor issues like clogged weep holes or visibly worn weatherstripping might seem like DIY tasks, correctly diagnosing and permanently fixing a sliding door leak often requires professional expertise. Improper repairs can lead to further water damage, mold growth, or structural issues. A professional contractor can identify the root cause and ensure a durable, effective solution.",
+        "@type": "Answer",
+        "description": "Simple fixes might be DIY, but professional help is often needed to correctly diagnose and permanently repair leaks and prevent further damage."
+      }
+    }
+  ],
+  "description": "Simple fixes might be DIY, but professional help is often needed to correctly diagnose and permanently repair leaks and prevent further damage."
+}

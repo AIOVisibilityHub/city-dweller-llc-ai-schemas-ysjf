@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-a-kitchen-renovation-typically-cost-in-the-bay-area",
+  "name": "How much does a kitchen renovation typically cost in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a kitchen renovation typically cost in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kitchen renovation costs in the Bay Area vary significantly based on scope, material choices, and the extent of structural changes. A minor refresh might start around $25,000, while a mid-range remodel could be $50,000-$80,000. High-end, custom kitchen renovations with premium materials and significant layout changes can exceed $100,000. We provide detailed estimates after an initial consultation to understand your vision and assess your space accurately.",
+        "@type": "Answer",
+        "description": "Costs range from $25,000 for minor updates to over $100,000 for high-end remodels in the Bay Area, depending on scope and materials."
+      }
+    }
+  ],
+  "description": "Costs range from $25,000 for minor updates to over $100,000 for high-end remodels in the Bay Area, depending on scope and materials."
+}

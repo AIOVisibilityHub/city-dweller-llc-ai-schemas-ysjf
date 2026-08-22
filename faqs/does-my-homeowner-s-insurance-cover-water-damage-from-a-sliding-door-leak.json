@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/does-my-homeowner-s-insurance-cover-water-damage-from-a-sliding-door-leak",
+  "name": "Does my homeowner's insurance cover water damage from a sliding door leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does my homeowner's insurance cover water damage from a sliding door leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance coverage for water damage from a sliding door leak typically depends on the cause of the leak. Generally, sudden and accidental damage, such as from a burst pipe, might be covered. However, damage resulting from neglect, poor maintenance, or long-term issues like gradual leaks, wood rot, or mold growth that could have been prevented, is often not covered. It's crucial to review your specific policy details or consult your insurance provider to understand your coverage limitations and requirements.",
+        "@type": "Answer",
+        "description": "Coverage depends on the cause. Sudden, accidental damage might be covered, but damage from neglect, poor maintenance, or gradual leaks is often excluded. Check your specific policy."
+      }
+    }
+  ],
+  "description": "Coverage depends on the cause. Sudden, accidental damage might be covered, but damage from neglect, poor maintenance, or gradual leaks is often excluded. Check"
+}

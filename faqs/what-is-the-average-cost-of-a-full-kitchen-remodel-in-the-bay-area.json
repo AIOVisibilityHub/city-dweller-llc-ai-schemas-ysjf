@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-average-cost-of-a-full-kitchen-remodel-in-the-bay-area",
+  "name": "What is the average cost of a full kitchen remodel in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a full kitchen remodel in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a full kitchen remodel in the Bay Area varies widely due to factors like kitchen size, material selections (e.g., custom cabinets vs. semi-custom, high-end appliances), and structural changes. While costs can range significantly, a full remodel typically starts from approximately $60,000 and can exceed $150,000 for high-end projects. We provide detailed estimates after an initial consultation to align with your budget and vision.",
+        "@type": "Answer",
+        "description": "The average cost of a full kitchen remodel in the Bay Area can range from approximately $60,000 to over $150,000, depending on size, materials, and scope."
+      }
+    }
+  ],
+  "description": "The average cost of a full kitchen remodel in the Bay Area can range from approximately $60,000 to over $150,000, depending on size, materials, and scope."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-potential-damage-can-occur-if-sliding-door-flashing-is-not-repaired",
+  "name": "What potential damage can occur if sliding door flashing is not repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What potential damage can occur if sliding door flashing is not repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Unrepaired sliding door flashing can lead to severe and costly water damage. This includes wood rot in the door frame, wall studs, and subflooring, which compromises your home's structural integrity. It can also cause mold and mildew growth indoors, impacting air quality and posing health risks. Additionally, water intrusion can damage drywall, insulation, and interior finishes, leading to expensive cosmetic and structural repairs.",
+        "@type": "Answer",
+        "description": "Unrepaired flashing can cause wood rot, mold growth, compromised structural integrity, and damage to interior finishes, leading to costly repairs."
+      }
+    }
+  ],
+  "description": "Unrepaired flashing can cause wood rot, mold growth, compromised structural integrity, and damage to interior finishes, leading to costly repairs."
+}

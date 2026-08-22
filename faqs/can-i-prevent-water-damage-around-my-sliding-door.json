@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-prevent-water-damage-around-my-sliding-door",
+  "name": "Can I prevent water damage around my sliding door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I prevent water damage around my sliding door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, preventive measures can significantly reduce the risk of water damage. Regularly inspect the caulking around your sliding door and reapply it as needed, typically every few years or when cracks appear. Check the condition of the weatherstripping and replace it if it's worn or damaged. Ensure that the weep holes in the door track are clear of debris. Also, confirm that exterior grading or landscaping directs water away from your home's foundation and door openings. Proper installation from the start is key.",
+        "@type": "Answer",
+        "description": "Prevent water damage by regularly inspecting and reapplying caulk, checking and replacing weatherstripping, clearing weep holes, and ensuring proper exterior drainage away from the door."
+      }
+    }
+  ],
+  "description": "Prevent water damage by regularly inspecting and reapplying caulk, checking and replacing weatherstripping, clearing weep holes, and ensuring proper exterior dr"
+}

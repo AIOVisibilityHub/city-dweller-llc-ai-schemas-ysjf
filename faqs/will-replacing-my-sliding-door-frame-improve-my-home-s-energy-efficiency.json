@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-replacing-my-sliding-door-frame-improve-my-home-s-energy-efficiency",
+  "name": "Will replacing my sliding door frame improve my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will replacing my sliding door frame improve my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, replacing an old or damaged sliding door frame can significantly improve your home's energy efficiency. Damaged frames often have gaps, cracks, or compromised seals that allow conditioned air to escape and outside air to enter, leading to higher energy bills. A new, properly installed frame, especially one made from energy-efficient materials with high-performance glass, will create a tighter seal, reduce drafts, and better insulate your home, resulting in more consistent indoor temperatures and lower utility costs.",
+        "@type": "Answer",
+        "description": "Yes, replacing a damaged sliding door frame improves energy efficiency by eliminating drafts and creating a tighter seal, leading to lower utility bills."
+      }
+    }
+  ],
+  "description": "Yes, replacing a damaged sliding door frame improves energy efficiency by eliminating drafts and creating a tighter seal, leading to lower utility bills."
+}

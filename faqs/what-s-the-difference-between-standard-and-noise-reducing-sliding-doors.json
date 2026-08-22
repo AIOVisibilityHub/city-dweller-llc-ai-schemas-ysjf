@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-standard-and-noise-reducing-sliding-doors",
+  "name": "What's the difference between standard and noise-reducing sliding doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between standard and noise-reducing sliding doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary difference lies in their construction designed for sound insulation. Standard sliding doors typically use single-pane or basic double-pane glass with less emphasis on airtight sealing. Noise-reducing doors, however, utilize specialized laminated or thicker insulated glass units (IGUs) and robust, multi-chambered frames with superior weatherstripping and sealing systems. These advanced features significantly enhance their ability to block and absorb external noise, improving indoor acoustic comfort.",
+        "@type": "Answer",
+        "description": "Noise-reducing doors use specialized laminated or thicker insulated glass and superior sealing systems, unlike standard doors, to block external sound."
+      }
+    }
+  ],
+  "description": "Noise-reducing doors use specialized laminated or thicker insulated glass and superior sealing systems, unlike standard doors, to block external sound."
+}

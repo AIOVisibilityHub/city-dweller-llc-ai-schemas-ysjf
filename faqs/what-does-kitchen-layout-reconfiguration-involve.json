@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-does-kitchen-layout-reconfiguration-involve",
+  "name": "What does kitchen layout reconfiguration involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does kitchen layout reconfiguration involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kitchen layout reconfiguration involves changing the existing floor plan of your kitchen. This can include relocating major appliances like the sink, stove, and refrigerator, moving walls, or adding an island. The goal is to optimize functionality, improve flow, or modernize the kitchen's appearance, often without changing the overall footprint of the room. It's a significant renovation that impacts plumbing, electrical, and structural elements.",
+        "@type": "Answer",
+        "description": "It involves changing the kitchen's floor plan, relocating appliances, or moving walls to improve functionality and aesthetics."
+      }
+    }
+  ],
+  "description": "It involves changing the kitchen's floor plan, relocating appliances, or moving walls to improve functionality and aesthetics."
+}

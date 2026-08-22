@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-replace-sliding-door-weatherstripping-myself-or-should-i-hire-a-profession",
+  "name": "Can I replace sliding door weatherstripping myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace sliding door weatherstripping myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While replacing some types of weatherstripping can be a DIY project, especially for simple peel-and-stick applications, many sliding door systems require professional installation. Incorrectly installed weatherstripping can be ineffective, leading to continued drafts and energy loss, or even damage to the door itself. A professional ensures proper material selection, precise measurement, and correct installation for maximum effectiveness and longevity, which is particularly important for the larger, heavier sliding doors common in the Bay Area.",
+        "@type": "Answer",
+        "description": "Simple replacements can be DIY, but complex sliding door systems often require professional installation for correct material selection and effective sealing."
+      }
+    }
+  ],
+  "description": "Simple replacements can be DIY, but complex sliding door systems often require professional installation for correct material selection and effective sealing."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/is-it-possible-to-repair-rot-damage-or-do-i-need-a-full-replacement",
+  "name": "Is it possible to repair rot damage, or do I need a full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it possible to repair rot damage, or do I need a full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace depends on the extent of the rot. Minor, localized rot can often be repaired by removing the damaged wood, treating the area, and filling it with epoxy or wood hardener. However, if the rot is extensive, affects the structural integrity of the frame, or has spread to the surrounding wall structure, a full door replacement is typically more cost-effective and provides a longer-lasting solution. A professional assessment can determine the best course of action.",
+        "@type": "Answer",
+        "description": "Minor rot may be repairable with epoxy, but extensive damage often requires full door replacement for structural integrity and longevity."
+      }
+    }
+  ],
+  "description": "Minor rot may be repairable with epoxy, but extensive damage often requires full door replacement for structural integrity and longevity."
+}

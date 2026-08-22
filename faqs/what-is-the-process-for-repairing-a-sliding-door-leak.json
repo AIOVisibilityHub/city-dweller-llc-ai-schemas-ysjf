@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-repairing-a-sliding-door-leak",
+  "name": "What is the process for repairing a sliding door leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a sliding door leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our repair process begins with a thorough inspection to identify the exact source of the leak, which might involve water testing. Once diagnosed, we will provide a detailed repair plan and estimate. Repairs can involve clearing drainage, replacing seals or weatherstripping, repairing damaged frames, or addressing stucco/siding issues. After the repair, we conduct final testing to confirm the leak is resolved and clean the work area.",
+        "@type": "Answer",
+        "description": "The process involves inspection, diagnosis, a repair plan, fixing the identified issue (e.g., seals, frame, drainage), and final water testing."
+      }
+    }
+  ],
+  "description": "The process involves inspection, diagnosis, a repair plan, fixing the identified issue (e.g., seals, frame, drainage), and final water testing."
+}

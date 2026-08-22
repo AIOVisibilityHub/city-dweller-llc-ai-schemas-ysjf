@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-new-weatherstripping-help-reduce-noise-from-outside",
+  "name": "Will new weatherstripping help reduce noise from outside?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will new weatherstripping help reduce noise from outside?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, properly installed and effective weatherstripping can significantly help reduce outdoor noise transmission through your sliding doors. By sealing gaps around the door frame and panels, it creates a tighter barrier against sound waves, similar to how it blocks air and moisture. While it won't completely soundproof a door, especially if the glass itself is not sound-rated, it is an important component in a comprehensive strategy to minimize external noise, contributing to a quieter indoor environment.",
+        "@type": "Answer",
+        "description": "Yes, effective weatherstripping seals gaps, creating a barrier against sound waves and helping to reduce outdoor noise transmission."
+      }
+    }
+  ],
+  "description": "Yes, effective weatherstripping seals gaps, creating a barrier against sound waves and helping to reduce outdoor noise transmission."
+}

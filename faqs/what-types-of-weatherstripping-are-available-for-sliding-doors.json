@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-weatherstripping-are-available-for-sliding-doors",
+  "name": "What types of weatherstripping are available for sliding doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of weatherstripping are available for sliding doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common types of weatherstripping for sliding doors include fin seal, pile (brush) weatherstripping, and magnetic seals. Fin seal weatherstripping features a flexible fin that runs down the middle of a pile strip, offering enhanced sealing. Pile weatherstripping uses dense fibers to fill gaps and reduce friction. Magnetic seals, similar to refrigerator doors, provide a strong, airtight closure. The best type depends on your specific door design, material, and the level of sealing required, often a combination is used for optimal performance.",
+        "@type": "Answer",
+        "description": "Types include fin seal, pile (brush) weatherstripping, and magnetic seals. Each offers different sealing characteristics for various door designs."
+      }
+    }
+  ],
+  "description": "Types include fin seal, pile (brush) weatherstripping, and magnetic seals. Each offers different sealing characteristics for various door designs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-to-repair-a-leaking-sliding-door",
+  "name": "What is the typical cost to repair a leaking sliding door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to repair a leaking sliding door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a leaking sliding door varies depending on the source and severity of the leak. Minor repairs, like replacing weatherstripping or clearing weep holes, may range from $150 to $400. More extensive issues, such as frame repair, glass replacement, or addressing structural damage, could cost $500 to over $2,000. We provide detailed estimates after assessing the specific problem.",
+        "@type": "Answer",
+        "description": "Costs vary widely, from $150 for minor fixes to over $2,000 for complex repairs, depending on the leak's cause and extent."
+      }
+    }
+  ],
+  "description": "Costs vary widely, from $150 for minor fixes to over $2,000 for complex repairs, depending on the leak's cause and extent."
+}

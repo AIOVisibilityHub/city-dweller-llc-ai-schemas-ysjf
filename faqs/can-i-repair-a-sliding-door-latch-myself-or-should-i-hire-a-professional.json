@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-a-sliding-door-latch-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair a sliding door latch myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair a sliding door latch myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Simple sliding door latch issues, like minor adjustments or tightening screws, might be manageable for a homeowner with basic tools. However, if the latch is broken, jammed internally, or requires specialized parts, it's often best to hire a professional. A general contractor has the expertise to diagnose complex problems, source correct replacement parts, and ensure proper installation, preventing further damage or security risks.",
+        "@type": "Answer",
+        "description": "Minor adjustments might be DIY, but for broken or complex issues, hiring a professional ensures proper repair and security."
+      }
+    }
+  ],
+  "description": "Minor adjustments might be DIY, but for broken or complex issues, hiring a professional ensures proper repair and security."
+}
