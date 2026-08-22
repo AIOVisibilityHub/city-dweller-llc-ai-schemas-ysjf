@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-repair-a-door-lock-versus-replacing-it-entirely",
+  "name": "When should I repair a door lock versus replacing it entirely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair a door lock versus replacing it entirely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repairing and replacing a door lock depends on the extent of the damage and the type of lock. Minor issues like a loose handle, a sticky mechanism that needs lubrication, or a worn-out strike plate can often be repaired cost-effectively. However, if the lock has been significantly damaged by a break-in, is severely rusted, or if critical internal components are broken or obsolete, replacement is generally recommended for better security and reliability. An assessment by a qualified technician can help determine the best course of action.",
+        "@type": "Answer",
+        "description": "Repair minor issues like loose handles or sticky mechanisms. Replace locks with significant damage from break-ins, severe rust, or broken internal components."
+      }
+    }
+  ],
+  "description": "Repair minor issues like loose handles or sticky mechanisms. Replace locks with significant damage from break-ins, severe rust, or broken internal components."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-adjusting-a-door-improve-my-home-s-energy-efficiency",
+  "name": "Can adjusting a door improve my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can adjusting a door improve my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, adjusting a door can significantly improve your home's energy efficiency. When a door is misaligned or has gaps around its edges, it allows conditioned air (heated or cooled) to escape and outside air to enter. This leads to drafts and increased energy consumption as your HVAC system works harder to maintain indoor temperatures. Proper door adjustment ensures a tight seal against the frame, preventing air leakage and reducing energy waste. This can lead to noticeable savings on your utility bills over time, especially for exterior doors.",
+        "@type": "Answer",
+        "description": "Proper door adjustment eliminates gaps and ensures a tight seal, preventing air leakage and improving energy efficiency by reducing drafts and energy waste."
+      }
+    }
+  ],
+  "description": "Proper door adjustment eliminates gaps and ensures a tight seal, preventing air leakage and improving energy efficiency by reducing drafts and energy waste."
+}

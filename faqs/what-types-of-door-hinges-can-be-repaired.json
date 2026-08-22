@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-door-hinges-can-be-repaired",
+  "name": "What types of door hinges can be repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of door hinges can be repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most common door hinge types, including butt hinges, pivot hinges, and continuous hinges, can be repaired depending on the nature of the damage. Repairs often involve addressing issues like loose pins, stripped screws, or slight bends. However, if a hinge is severely corroded, fractured, or designed with non-repairable components, replacement is usually the more practical and safer option. A professional can assess the specific hinge type and damage to determine the best course of action.",
+        "@type": "Answer",
+        "description": "Many common door hinge types, such as butt and pivot hinges, can be repaired, but severe corrosion or fractures usually necessitate replacement."
+      }
+    }
+  ],
+  "description": "Many common door hinge types, such as butt and pivot hinges, can be repaired, but severe corrosion or fractures usually necessitate replacement."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-drywall-damage-can-be-patched",
+  "name": "What types of drywall damage can be patched?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of drywall damage can be patched?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall patching effectively repairs various types of damage, including small holes from nails or anchors, minor dents, cracks, and areas with peeling tape. For larger holes or extensive water damage, a patch can often be integrated, though the repair might involve cutting out a section and installing new drywall. The goal is to restore the wall's smooth surface, making the repair virtually invisible once painted. Our team in the Bay Area assesses the damage to determine the most appropriate patching method.",
+        "@type": "Answer",
+        "description": "Drywall patching can repair small holes, dents, cracks, and peeling tape. Larger damage may require cutting out and replacing a section."
+      }
+    }
+  ],
+  "description": "Drywall patching can repair small holes, dents, cracks, and peeling tape. Larger damage may require cutting out and replacing a section."
+}

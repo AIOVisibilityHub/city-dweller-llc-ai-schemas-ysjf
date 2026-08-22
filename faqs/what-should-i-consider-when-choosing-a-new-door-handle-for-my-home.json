@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-consider-when-choosing-a-new-door-handle-for-my-home",
+  "name": "What should I consider when choosing a new door handle for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing a new door handle for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a new door handle, consider its function (passage, privacy, keyed entry), security level, style (to match your home's aesthetic), and material durability. Also, check compatibility with your existing door's bore holes and backset measurement. For exterior doors, prioritize weather resistance and security features. For interior doors, comfort of use and aesthetic appeal are often key. Consulting with a professional can help you choose the best handle for your specific needs and ensure proper fit.",
+        "@type": "Answer",
+        "description": "Consider function, security, style, material, and compatibility with your door's existing setup. Prioritize weather resistance and security for exterior doors."
+      }
+    }
+  ],
+  "description": "Consider function, security, style, material, and compatibility with your door's existing setup. Prioritize weather resistance and security for exterior doors."
+}

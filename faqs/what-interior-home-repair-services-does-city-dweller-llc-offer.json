@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-interior-home-repair-services-does-city-dweller-llc-offer",
+  "name": "What interior home repair services does City Dweller, LLC offer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What interior home repair services does City Dweller, LLC offer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC provides a comprehensive range of interior home repair services. This includes drywall repair and patching, interior painting, minor carpentry, trim and molding installation or repair, and general handyman services for various indoor needs. We also handle flooring repairs for common materials like hardwood, laminate, and tile. Our goal is to address common wear and tear, cosmetic damage, and functional issues within your home, restoring its appearance and integrity.",
+        "@type": "Answer",
+        "description": "City Dweller, LLC offers drywall repair, painting, carpentry, trim installation, flooring repair, and general handyman services for interior home needs."
+      }
+    }
+  ],
+  "description": "City Dweller, LLC offers drywall repair, painting, carpentry, trim installation, flooring repair, and general handyman services for interior home needs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-prevent-my-door-locks-from-needing-frequent-repairs",
+  "name": "How can I prevent my door locks from needing frequent repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent my door locks from needing frequent repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To minimize the need for frequent door lock repairs, regular maintenance is key. Annually, clean the lock mechanism and lubricate it with a graphite-based lubricant; avoid oil-based products as they can attract dust and grime. Ensure that the door frame and hinges are in good condition, preventing misalignment that can strain the lock. Also, always use the correct key and avoid forcing it, as this can damage the internal pins. Investing in quality locks initially can also contribute to their longevity.",
+        "@type": "Answer",
+        "description": "Prevent frequent lock repairs with annual lubrication using graphite, ensuring proper door alignment, and always using the correct key gently."
+      }
+    }
+  ],
+  "description": "Prevent frequent lock repairs with annual lubrication using graphite, ensuring proper door alignment, and always using the correct key gently."
+}

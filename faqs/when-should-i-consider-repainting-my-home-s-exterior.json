@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-repainting-my-home-s-exterior",
+  "name": "When should I consider repainting my home's exterior?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider repainting my home's exterior?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of exterior paint can vary widely based on paint quality, climate, and initial preparation, but typically ranges from 5 to 10 years. In the Bay Area, factors like sun exposure and moisture can influence this. Look for signs such as peeling, cracking, blistering, or fading paint. Additionally, if the caulk around windows and doors is failing, it's a good indicator that repainting is due. A fresh coat not only improves curb appeal but also protects your home from the elements.",
+        "@type": "Answer",
+        "description": "Consider repainting your home's exterior every 5 to 10 years, or when you notice peeling, cracking, or fading paint, to protect it from the elements."
+      }
+    }
+  ],
+  "description": "Consider repainting your home's exterior every 5 to 10 years, or when you notice peeling, cracking, or fading paint, to protect it from the elements."
+}

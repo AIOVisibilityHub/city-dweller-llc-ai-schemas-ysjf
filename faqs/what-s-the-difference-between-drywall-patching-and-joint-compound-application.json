@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-drywall-patching-and-joint-compound-application",
+  "name": "What's the difference between drywall patching and joint compound application?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between drywall patching and joint compound application?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall patching refers to the overall process of repairing a hole or damaged section in the drywall, often involving the insertion of a new piece of material. Joint compound, also known as mud, is the material used *during* the patching process to fill gaps, feather edges, and create a smooth surface. While patching is the complete repair technique, joint compound application is a crucial step within that process, used repeatedly to build layers and achieve an even, seamless finish before priming and painting.",
+        "@type": "Answer",
+        "description": "Drywall patching is the complete repair process, while joint compound is the material used within that process to fill, smooth, and blend."
+      }
+    }
+  ],
+  "description": "Drywall patching is the complete repair process, while joint compound is the material used within that process to fill, smooth, and blend."
+}

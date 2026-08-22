@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-repairing-a-small-hole-in-drywall",
+  "name": "What is the process for repairing a small hole in drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a small hole in drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for repairing a small hole in drywall typically involves several steps. First, the damaged area is prepared by cleaning and sometimes trimming rough edges. For holes under 6 inches, a patch kit or a piece of drywall cut to fit is often used. This is secured with tape or joint compound. Multiple thin layers of joint compound are then applied, allowing each to dry and be sanded smooth. Finally, the repaired area is primed and painted to match the surrounding wall, ensuring a seamless finish.",
+        "@type": "Answer",
+        "description": "Repairing a small drywall hole involves preparing the area, applying a patch and multiple layers of joint compound, sanding, priming, and painting."
+      }
+    }
+  ],
+  "description": "Repairing a small drywall hole involves preparing the area, applying a patch and multiple layers of joint compound, sanding, priming, and painting."
+}

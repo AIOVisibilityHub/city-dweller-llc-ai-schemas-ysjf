@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-requesting-an-interior-repair-quote-from-city-dw",
+  "name": "What is the typical process for requesting an interior repair quote from City Dweller, LLC?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for requesting an interior repair quote from City Dweller, LLC?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To request a quote, simply contact City Dweller, LLC by phone or through our website. We'll schedule a convenient time for an on-site visit to assess the repair work needed. During this visit, we'll discuss your requirements, evaluate the existing conditions, and take measurements. Following the assessment, you will receive a detailed, transparent estimate outlining the scope of work, materials, labor costs, and estimated timeline for your interior repair project.",
+        "@type": "Answer",
+        "description": "Contact City Dweller, LLC to schedule an on-site assessment. After discussing your needs and evaluating the work, you'll receive a detailed quote with scope, costs, and timeline."
+      }
+    }
+  ],
+  "description": "Contact City Dweller, LLC to schedule an on-site assessment. After discussing your needs and evaluating the work, you'll receive a detailed quote with scope, co"
+}

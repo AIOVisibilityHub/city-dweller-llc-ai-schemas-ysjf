@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-interior-painting-project-take",
+  "name": "How long does a typical interior painting project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical interior painting project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an interior painting project varies depending on the scope. A single room might take 1-2 days, while an entire multi-room home could span 3-7 days. Factors like surface preparation (patching, sanding), the number of coats required, and furniture moving all influence the timeline. We provide a detailed project schedule after an on-site assessment, ensuring clear communication about expected completion times.",
+        "@type": "Answer",
+        "description": "Interior painting projects vary: a single room takes 1-2 days, a whole house 3-7 days. Duration depends on prep work, coats, and furniture moving."
+      }
+    }
+  ],
+  "description": "Interior painting projects vary: a single room takes 1-2 days, a whole house 3-7 days. Duration depends on prep work, coats, and furniture moving."
+}

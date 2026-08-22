@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-repairing-damaged-molding",
+  "name": "What is the process for repairing damaged molding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing damaged molding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The molding repair process typically begins with an assessment of the damage to determine the best approach. Minor damage, like small cracks or holes, involves cleaning the area, filling with wood putty or caulk, sanding smooth, priming, and then painting to match the existing finish. For water damage or rotten sections, the compromised material is carefully removed, and a new piece is precisely cut, fitted, and secured. This often involves intricate miter cuts to ensure a seamless joint. The new section is then filled, sanded, primed, and painted. Matching existing profiles and finishes is crucial for an undetectable repair.",
+        "@type": "Answer",
+        "description": "Molding repair involves assessing damage, cleaning, filling/sanding minor issues, or carefully replacing damaged sections. The area is then primed and painted to match existing finishes."
+      }
+    }
+  ],
+  "description": "Molding repair involves assessing damage, cleaning, filling/sanding minor issues, or carefully replacing damaged sections. The area is then primed and painted t"
+}

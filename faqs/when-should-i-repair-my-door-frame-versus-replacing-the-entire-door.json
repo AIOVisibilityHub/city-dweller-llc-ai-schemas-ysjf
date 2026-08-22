@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-repair-my-door-frame-versus-replacing-the-entire-door",
+  "name": "When should I repair my door frame versus replacing the entire door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair my door frame versus replacing the entire door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider repairing a door frame if the damage is localized to a small section, such as a split jamb, minor rot, or cosmetic dings. If the structural integrity of the frame is compromised due to extensive rot, severe splitting, or widespread pest damage, a full replacement is often more cost-effective and safer. Replacement is also advisable if the frame is outdated and you're upgrading to a different door style or material for better security or energy efficiency.",
+        "@type": "Answer",
+        "description": "Repair minor damage like splits or small areas of rot. Replace the frame if damage is extensive, structural integrity is compromised, or you're upgrading."
+      }
+    }
+  ],
+  "description": "Repair minor damage like splits or small areas of rot. Replace the frame if damage is extensive, structural integrity is compromised, or you're upgrading."
+}

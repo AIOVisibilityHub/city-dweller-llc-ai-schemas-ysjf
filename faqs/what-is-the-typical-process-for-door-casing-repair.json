@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-door-casing-repair",
+  "name": "What is the typical process for door casing repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for door casing repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The door casing repair process typically involves several steps. First, the damaged section is assessed to determine if it can be repaired or if replacement is necessary. For minor damage like small cracks or dents, repairs might include patching with wood filler, sanding, and then repainting or staining to match the existing finish. For more significant damage, the affected section of casing might be carefully removed, a new piece cut to size, installed, and then finished to seamlessly blend with the surrounding trim.",
+        "@type": "Answer",
+        "description": "Repair typically involves assessing damage, patching minor flaws with filler, sanding, and refinishing. Significant damage may require removing and replacing sections of the casing."
+      }
+    }
+  ],
+  "description": "Repair typically involves assessing damage, patching minor flaws with filler, sanding, and refinishing. Significant damage may require removing and replacing se"
+}

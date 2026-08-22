@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-common-types-of-damage-affect-baseboards",
+  "name": "What common types of damage affect baseboards?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common types of damage affect baseboards?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Baseboards can suffer from various types of damage. Water damage, often from leaks or spills, can cause swelling, warping, and mold growth. Physical impact from vacuum cleaners, furniture, or pets can lead to dents, scratches, and chips. Over time, wood can crack due to changes in humidity or age. Additionally, pests can cause structural damage. Addressing these issues promptly helps maintain the aesthetic and structural integrity of your home's trim.",
+        "@type": "Answer",
+        "description": "Common baseboard damage includes water damage, physical impacts like dents and scratches, cracks from humidity changes, and pest damage."
+      }
+    }
+  ],
+  "description": "Common baseboard damage includes water damage, physical impacts like dents and scratches, cracks from humidity changes, and pest damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-preventive-maintenance-instead-of-waiting-for-a-repair",
+  "name": "When should I consider preventive maintenance instead of waiting for a repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider preventive maintenance instead of waiting for a repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventive maintenance should always be prioritized over waiting for a repair. Addressing minor issues proactively, such as sealing cracks in the foundation, servicing your HVAC system annually, or cleaning out dryer vents, can prevent these small problems from escalating into major, costly breakdowns. For example, a minor roof leak can become significant water damage if ignored. Preventive measures extend the life of your home's systems and components, ensuring long-term reliability and reducing emergency repair expenses.",
+        "@type": "Answer",
+        "description": "Consider preventive maintenance for all home systems and components to avoid costly emergency repairs and extend the lifespan of your home."
+      }
+    }
+  ],
+  "description": "Consider preventive maintenance for all home systems and components to avoid costly emergency repairs and extend the lifespan of your home."
+}

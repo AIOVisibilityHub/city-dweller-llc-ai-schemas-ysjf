@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-a-lock-repair-and-a-rekeying-service",
+  "name": "What is the difference between a lock repair and a rekeying service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a lock repair and a rekeying service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Lock repair addresses mechanical issues within the lock itself, such as a broken bolt, a jammed cylinder, or a faulty mechanism, aiming to restore the lock's functionality without changing its keys. Rekeying, on the other hand, involves altering the internal pins of a lock so that it operates with a new key, while the original keys no longer work. Rekeying is typically done for security reasons, like when keys are lost or stolen, or after moving into a new property, without needing to replace the entire lock hardware.",
+        "@type": "Answer",
+        "description": "Lock repair fixes mechanical lock issues. Rekeying changes the lock's internal pins so it works with a new key, without replacing the lock."
+      }
+    }
+  ],
+  "description": "Lock repair fixes mechanical lock issues. Rekeying changes the lock's internal pins so it works with a new key, without replacing the lock."
+}

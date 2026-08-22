@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-all-types-of-door-locks-be-repaired-or-are-some-only-replaceable",
+  "name": "Can all types of door locks be repaired, or are some only replaceable?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can all types of door locks be repaired, or are some only replaceable?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While many common door locks, such as deadbolts, knob locks, and some lever handle locks, are designed with replaceable components, some may only be replaceable. Older or specialty locks might have discontinued parts, making repair impractical or impossible. Additionally, highly integrated smart locks or locks with extensive damage to their core structure often require full replacement to ensure proper function and security. A professional locksmith or general contractor can assess if your specific lock type is repairable.",
+        "@type": "Answer",
+        "description": "Many common door locks are repairable, but some older, specialty, or extensively damaged locks, especially smart locks, might only be replaceable."
+      }
+    }
+  ],
+  "description": "Many common door locks are repairable, but some older, specialty, or extensively damaged locks, especially smart locks, might only be replaceable."
+}

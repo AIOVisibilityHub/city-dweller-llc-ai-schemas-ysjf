@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-trim-style-for-my-home-s-aesthetic",
+  "name": "How do I choose the right trim style for my home's aesthetic?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right trim style for my home's aesthetic?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right trim style involves considering your home's architectural period and your personal aesthetic preferences. For traditional homes, wider, more ornate profiles like colonial or craftsman trim can enhance character. Modern homes often benefit from simpler, cleaner lines and minimal profiles. Think about the overall scale of your rooms; taller ceilings might accommodate larger crown molding, while smaller spaces suit more understated baseboards. Bringing in samples and consulting with a contractor can help visualize the impact and ensure cohesion with your existing decor.",
+        "@type": "Answer",
+        "description": "Select trim based on your home's architectural style and your personal taste. Consider ornate profiles for traditional homes or clean lines for modern. Match trim scale to room size."
+      }
+    }
+  ],
+  "description": "Select trim based on your home's architectural style and your personal taste. Consider ornate profiles for traditional homes or clean lines for modern. Match tr"
+}

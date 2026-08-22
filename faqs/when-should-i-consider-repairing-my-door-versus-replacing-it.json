@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-repairing-my-door-versus-replacing-it",
+  "name": "When should I consider repairing my door versus replacing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider repairing my door versus replacing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider repairing your door if the damage is localized and minor, such as a loose hinge, a drafty seal, or a faulty lock. Repairs are often more cost-effective for issues that don't compromise the door's structural integrity. Replacement is advisable when the door frame is severely warped, the door itself is extensively damaged, or if upgrading to a more secure or energy-efficient model is a priority. We can help you assess the damage and recommend the best course of action for your situation.",
+        "@type": "Answer",
+        "description": "Repair is suitable for minor, localized damage like loose hinges or faulty locks. Replace a door if the frame is severely warped, the door is extensively damaged, or if you seek a major upgrade."
+      }
+    }
+  ],
+  "description": "Repair is suitable for minor, localized damage like loose hinges or faulty locks. Replace a door if the frame is severely warped, the door is extensively damage"
+}

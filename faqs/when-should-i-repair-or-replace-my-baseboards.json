@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-repair-or-replace-my-baseboards",
+  "name": "When should I repair or replace my baseboards?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair or replace my baseboards?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repair and replacement depends on the extent and type of damage. Minor issues like small cracks, chips, or superficial scratches can often be repaired with wood filler, sanding, and repainting. However, extensive water damage, severe warping, mold, widespread cracking, or significant structural damage from pests usually warrant replacement. Replacing severely damaged sections prevents further deterioration and ensures a uniform, aesthetically pleasing finish.",
+        "@type": "Answer",
+        "description": "Repair minor damage like small cracks or chips; replace baseboards with extensive water damage, severe warping, mold, or structural damage."
+      }
+    }
+  ],
+  "description": "Repair minor damage like small cracks or chips; replace baseboards with extensive water damage, severe warping, mold, or structural damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-look-for-during-a-seasonal-property-inspection",
+  "name": "What should I look for during a seasonal property inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for during a seasonal property inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a seasonal property inspection, focus on elements prone to seasonal wear. In fall, check gutters for debris, inspect the roof for loose shingles before winter, and ensure irrigation systems are drained. In spring, look for winter damage to the exterior, check for signs of pests, and test AC units. Regularly inspect foundations for cracks, windows for seal integrity, and ensure proper drainage around the property. Adjusting your checks to local weather patterns, especially in coastal areas like Montara or Half Moon Bay, is crucial.",
+        "@type": "Answer",
+        "description": "Seasonally, inspect roofs, gutters, foundations, windows, and HVAC. Check for winter damage in spring and prepare for winter in fall, adjusting for local weather."
+      }
+    }
+  ],
+  "description": "Seasonally, inspect roofs, gutters, foundations, windows, and HVAC. Check for winter damage in spring and prepare for winter in fall, adjusting for local weathe"
+}

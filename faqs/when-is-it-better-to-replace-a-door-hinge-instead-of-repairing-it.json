@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-is-it-better-to-replace-a-door-hinge-instead-of-repairing-it",
+  "name": "When is it better to replace a door hinge instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it better to replace a door hinge instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing a door hinge is often the better option when the hinge itself is significantly damaged, such as being bent beyond repair, cracked, severely rusted, or broken. If the screw holes in the door frame or door are extensively stripped and cannot hold new screws securely even with anchors, a full hinge replacement, potentially with a different mounting solution, is also advisable. Replacement ensures structural integrity and proper door function, preventing recurring issues.",
+        "@type": "Answer",
+        "description": "Replace a door hinge if it's severely bent, cracked, rusted, broken, or if the screw holes are too damaged to hold new screws securely."
+      }
+    }
+  ],
+  "description": "Replace a door hinge if it's severely bent, cracked, rusted, broken, or if the screw holes are too damaged to hold new screws securely."
+}

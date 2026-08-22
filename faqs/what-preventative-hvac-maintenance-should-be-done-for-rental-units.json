@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-preventative-hvac-maintenance-should-be-done-for-rental-units",
+  "name": "What preventative HVAC maintenance should be done for rental units?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preventative HVAC maintenance should be done for rental units?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventative HVAC maintenance for rental units typically includes replacing air filters every 1-3 months, depending on usage and filter type. Annually, a qualified technician should perform a comprehensive inspection, cleaning coils, checking refrigerant levels, examining electrical components, and testing the thermostat. Regular maintenance extends the lifespan of the system, improves energy efficiency, and helps prevent unexpected breakdowns, which can be particularly inconvenient for tenants during extreme weather.",
+        "@type": "Answer",
+        "description": "HVAC preventative maintenance involves replacing air filters every 1-3 months and an annual professional inspection of coils, refrigerant, electrical, and thermostat for efficiency and longevity."
+      }
+    }
+  ],
+  "description": "HVAC preventative maintenance involves replacing air filters every 1-3 months and an annual professional inspection of coils, refrigerant, electrical, and therm"
+}

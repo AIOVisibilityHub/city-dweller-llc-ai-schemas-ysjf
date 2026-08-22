@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-reasons-a-door-lock-might-need-repair",
+  "name": "What are common reasons a door lock might need repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common reasons a door lock might need repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Door locks can require repair for several common issues, including keys breaking off inside the lock, difficulty inserting or turning the key, a loose or wobbly cylinder, or the lock mechanism feeling sticky or jammed. Wear and tear from frequent use, exposure to weather elements, or attempted forced entry can also damage internal components, leading to a need for professional repair. Addressing these problems promptly can prevent a complete lock failure and enhance security.",
+        "@type": "Answer",
+        "description": "Common reasons for door lock repair include broken keys, difficulty turning the key, loose cylinders, or jammed mechanisms due to wear or damage."
+      }
+    }
+  ],
+  "description": "Common reasons for door lock repair include broken keys, difficulty turning the key, loose cylinders, or jammed mechanisms due to wear or damage."
+}

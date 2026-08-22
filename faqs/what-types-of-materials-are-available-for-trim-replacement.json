@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-materials-are-available-for-trim-replacement",
+  "name": "What types of materials are available for trim replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are available for trim replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Trim can be replaced with various materials, each offering different aesthetics, durability, and cost. Popular options include solid wood (like pine, oak, or poplar) for a classic look, MDF (medium-density fiberboard) for a smooth, paintable, and cost-effective solution, and PVC or composite trim for superior moisture and pest resistance, especially in exterior or high-humidity areas. Your choice depends on your budget, desired finish, and the specific environmental conditions where the trim will be installed.",
+        "@type": "Answer",
+        "description": "Trim materials include solid wood for classic appeal, MDF for cost-effectiveness and paintability, and PVC/composite for moisture resistance. Selection depends on budget, aesthetics, and location."
+      }
+    }
+  ],
+  "description": "Trim materials include solid wood for classic appeal, MDF for cost-effectiveness and paintability, and PVC/composite for moisture resistance. Selection depends"
+}

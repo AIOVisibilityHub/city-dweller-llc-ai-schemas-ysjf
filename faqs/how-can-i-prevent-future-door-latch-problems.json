@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-prevent-future-door-latch-problems",
+  "name": "How can I prevent future door latch problems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future door latch problems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent future door latch problems, regularly clean and lubricate the moving parts with a suitable lubricant, like graphite or silicone spray, avoiding oil-based products. Ensure all screws are tight and the strike plate is properly aligned with the latch bolt. Promptly address any minor issues like stiffness or looseness to prevent them from escalating.",
+        "@type": "Answer",
+        "description": "Regularly clean and lubricate the latch, tighten screws, and ensure strike plate alignment to prevent issues."
+      }
+    }
+  ],
+  "description": "Regularly clean and lubricate the latch, tighten screws, and ensure strike plate alignment to prevent issues."
+}

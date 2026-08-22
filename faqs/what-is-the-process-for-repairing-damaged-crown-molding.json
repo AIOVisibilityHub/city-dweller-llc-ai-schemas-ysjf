@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-repairing-damaged-crown-molding",
+  "name": "What is the process for repairing damaged crown molding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing damaged crown molding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our repair process begins with an assessment of the damage to determine the best approach. For minor issues like cracks or gaps, we clean the area, apply wood filler or caulk, sand smooth, and then prime and paint to match the existing finish. For water damage or larger breaks, we remove the damaged sections, ensure the underlying wall is dry and sound, cut and fit new molding pieces, secure them, and then proceed with filling, sanding, priming, and painting. The goal is a seamless repair that blends perfectly with the original molding.",
+        "@type": "Answer",
+        "description": "The process involves damage assessment, cleaning, filling/caulking or replacing damaged sections, sanding, priming, and painting for a seamless finish."
+      }
+    }
+  ],
+  "description": "The process involves damage assessment, cleaning, filling/caulking or replacing damaged sections, sanding, priming, and painting for a seamless finish."
+}

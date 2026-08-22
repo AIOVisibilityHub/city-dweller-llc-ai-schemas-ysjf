@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/does-weatherstripping-replacement-make-a-noticeable-difference-in-energy-bills",
+  "name": "Does weatherstripping replacement make a noticeable difference in energy bills?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does weatherstripping replacement make a noticeable difference in energy bills?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, replacing old or damaged weatherstripping can make a significant difference in your energy bills. Air leaks around doors and windows are a major source of heat loss in winter and heat gain in summer. By sealing these gaps, your HVAC system won't have to work as hard to maintain your desired indoor temperature. This reduction in energy consumption directly translates to lower heating and cooling costs. The savings can be substantial, especially in homes with noticeable drafts.",
+        "@type": "Answer",
+        "description": "Yes, effective weatherstripping reduces air leaks, making your HVAC system more efficient and significantly lowering heating and cooling costs."
+      }
+    }
+  ],
+  "description": "Yes, effective weatherstripping reduces air leaks, making your HVAC system more efficient and significantly lowering heating and cooling costs."
+}

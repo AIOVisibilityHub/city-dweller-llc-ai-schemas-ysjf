@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-common-types-of-molding-damage-require-repair",
+  "name": "What common types of molding damage require repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common types of molding damage require repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Molding can suffer various types of damage that necessitate repair. Common issues include cracks and splits, often caused by natural wood movement due to temperature and humidity fluctuations, or impact. Water damage, particularly in bathrooms or kitchens, can lead to swelling, discoloration, or rot, weakening the molding structure. Scratches, dents, and chips frequently occur from everyday wear and tear or accidental impacts. Additionally, gaps can appear between molding and walls as a house settles or materials expand and contract. Addressing these damages promptly helps maintain your home's aesthetic appeal and structural integrity.",
+        "@type": "Answer",
+        "description": "Common molding damage includes cracks, splits, water damage (swelling, rot), scratches, dents, chips, and gaps caused by impacts, wear, or environmental factors."
+      }
+    }
+  ],
+  "description": "Common molding damage includes cracks, splits, water damage (swelling, rot), scratches, dents, chips, and gaps caused by impacts, wear, or environmental factors"
+}

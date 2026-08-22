@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-a-door-hinge-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair a door hinge myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair a door hinge myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor door hinge issues, such as tightening loose screws or lubricating a squeaky hinge, can often be addressed by a homeowner. However, if the hinge is bent, cracked, or the screw holes are stripped, professional repair or replacement is typically recommended. A general contractor has the tools and expertise to properly assess the damage, repair or replace hinges, and ensure the door operates safely and correctly, preventing more significant damage or recurring problems.",
+        "@type": "Answer",
+        "description": "Minor issues can be DIY, but for bent, cracked, or stripped hinges, professional repair is recommended to ensure proper function and safety."
+      }
+    }
+  ],
+  "description": "Minor issues can be DIY, but for bent, cracked, or stripped hinges, professional repair is recommended to ensure proper function and safety."
+}

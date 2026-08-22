@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-i-need-a-professional-general-contractor-for-a-home-repair",
+  "name": "How do I know if I need a professional general contractor for a home repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I need a professional general contractor for a home repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider hiring a professional general contractor like City Dweller LLC when a repair requires specialized tools, specific licenses (e.g., for major electrical or plumbing work), or involves structural components of your home. If the repair project is complex, extensive, or beyond your comfort and skill level, a contractor ensures the work is done safely, correctly, and up to code. This protects your property and prevents potential future issues.",
+        "@type": "Answer",
+        "description": "Hire a general contractor for complex, extensive, or specialized repairs that require licenses or involve structural elements."
+      }
+    }
+  ],
+  "description": "Hire a general contractor for complex, extensive, or specialized repairs that require licenses or involve structural elements."
+}

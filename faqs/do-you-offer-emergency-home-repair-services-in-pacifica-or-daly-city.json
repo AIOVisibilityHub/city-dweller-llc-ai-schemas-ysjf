@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-you-offer-emergency-home-repair-services-in-pacifica-or-daly-city",
+  "name": "Do you offer emergency home repair services in Pacifica or Daly City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer emergency home repair services in Pacifica or Daly City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While City Dweller LLC specializes in scheduled general home repairs, we understand that some issues require more urgent attention. For sudden and severe problems like burst pipes, significant leaks, or electrical hazards, we recommend contacting us immediately. We will assess the situation and, if within our capacity and expertise, prioritize your repair needs or guide you on the best course of action for immediate safety and mitigation in Pacifica, Daly City, and our other service areas.",
+        "@type": "Answer",
+        "description": "For urgent issues in Pacifica or Daly City, contact us immediately. We'll assess if we can prioritize or guide you on the best course of action."
+      }
+    }
+  ],
+  "description": "For urgent issues in Pacifica or Daly City, contact us immediately. We'll assess if we can prioritize or guide you on the best course of action."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-signs-that-my-door-handle-needs-to-be-replaced",
+  "name": "What are the common signs that my door handle needs to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that my door handle needs to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs indicating a door handle replacement is needed include difficulty turning the handle, a loose or wobbly handle, visible damage like cracks or corrosion, or if the latch mechanism is no longer engaging properly. Sometimes, security concerns due to wear or a desire to upgrade the aesthetics or functionality of a door also prompt replacement. Addressing these issues promptly can prevent further damage to the door and maintain security.",
+        "@type": "Answer",
+        "description": "Signs include a loose or wobbly handle, difficulty turning, visible damage, or a malfunctioning latch. Replacement also addresses security concerns or aesthetic upgrades."
+      }
+    }
+  ],
+  "description": "Signs include a loose or wobbly handle, difficulty turning, visible damage, or a malfunctioning latch. Replacement also addresses security concerns or aesthetic"
+}

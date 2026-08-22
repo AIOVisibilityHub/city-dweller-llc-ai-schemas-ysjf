@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-prevent-common-plumbing-issues-in-my-rental-property",
+  "name": "How can I prevent common plumbing issues in my rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent common plumbing issues in my rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing common plumbing issues involves regular checks and tenant education. Encourage tenants not to flush non-biodegradable items and to report slow drains promptly. Landlords should periodically check for leaks under sinks and around toilets, inspect water heaters, and consider professional drain cleaning every few years. In areas like Daly City or South San Francisco, where older homes may have aging pipes, proactive inspections are particularly important to avoid costly emergencies.",
+        "@type": "Answer",
+        "description": "Prevent plumbing issues by educating tenants, regular leak checks, inspecting water heaters, and periodic professional drain cleaning. Proactive checks are key, especially in older properties."
+      }
+    }
+  ],
+  "description": "Prevent plumbing issues by educating tenants, regular leak checks, inspecting water heaters, and periodic professional drain cleaning. Proactive checks are key,"
+}

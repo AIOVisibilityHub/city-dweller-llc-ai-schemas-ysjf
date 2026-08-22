@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-repair-drywall-myself-versus-hiring-a-professional",
+  "name": "When should I repair drywall myself versus hiring a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair drywall myself versus hiring a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can typically repair small nail holes or minor scuffs yourself with basic spackle and tools. However, for larger holes, cracks extending across multiple studs, water damage, or if you desire a seamless finish, hiring a professional is recommended. Professionals have the experience, tools, and materials to ensure a durable and aesthetically pleasing repair, especially when matching textures or dealing with structural issues behind the drywall. For homes in Pacifica or Daly City, we offer expert patching services.",
+        "@type": "Answer",
+        "description": "Handle small nail holes yourself, but hire a professional for larger holes, extensive cracks, water damage, or if you need a seamless finish."
+      }
+    }
+  ],
+  "description": "Handle small nail holes yourself, but hire a professional for larger holes, extensive cracks, water damage, or if you need a seamless finish."
+}

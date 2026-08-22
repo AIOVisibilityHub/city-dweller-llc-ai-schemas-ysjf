@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-signs-that-my-door-casing-needs-repair-or-replacement",
+  "name": "What are common signs that my door casing needs repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my door casing needs repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your door casing requires attention include cracks, chips, dents, or splitting in the wood, often caused by impacts or general wear and tear. Water damage, indicated by swelling, discoloration, or softness, is another frequent issue, especially in bathrooms or near exterior doors. Loose casing that has pulled away from the wall, or casing affected by pests like termites, also signals a need for professional repair to prevent further damage and maintain structural integrity.",
+        "@type": "Answer",
+        "description": "Look for cracks, chips, dents, splitting, water damage, or loose casing. These indicate a need for repair or replacement."
+      }
+    }
+  ],
+  "description": "Look for cracks, chips, dents, splitting, water damage, or loose casing. These indicate a need for repair or replacement."
+}

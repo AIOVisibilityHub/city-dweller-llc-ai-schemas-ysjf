@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-you-repair-both-interior-and-exterior-trim",
+  "name": "Can you repair both interior and exterior trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you repair both interior and exterior trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, our services cover both interior and exterior trim repair. Interior trim, such as baseboards, crown molding, and door/window casings, often suffers from dents, scuffs, or minor water damage. Exterior trim, including fascia, soffits, and window frames, is more exposed to weather elements and commonly experiences rot, cracking, or paint failure. We use appropriate materials and techniques for each application to ensure durability and aesthetic appeal, protecting your home's structure and enhancing its curb appeal.",
+        "@type": "Answer",
+        "description": "We repair both interior trim (baseboards, crown molding) and exterior trim (fascia, soffits), addressing damage specific to each environment with appropriate materials."
+      }
+    }
+  ],
+  "description": "We repair both interior trim (baseboards, crown molding) and exterior trim (fascia, soffits), addressing damage specific to each environment with appropriate ma"
+}

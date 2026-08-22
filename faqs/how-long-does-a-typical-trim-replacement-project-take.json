@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-trim-replacement-project-take",
+  "name": "How long does a typical trim replacement project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical trim replacement project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a trim replacement project varies significantly based on the scope. Replacing trim in a single room, such as baseboards or around one window, might take a day or two. A whole-house trim replacement project, involving multiple rooms and various types of trim (e.g., baseboards, crown molding, door and window casings), could extend from several days to a week or more. Factors like existing trim removal complexity, material choice, and finishing (painting/staining) also influence the timeline.",
+        "@type": "Answer",
+        "description": "Trim replacement time varies by project size, from a day for a single room to over a week for an entire house. Scope, material, and finishing impact the schedule."
+      }
+    }
+  ],
+  "description": "Trim replacement time varies by project size, from a day for a single room to over a week for an entire house. Scope, material, and finishing impact the schedul"
+}

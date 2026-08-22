@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-prevent-future-door-frame-damage",
+  "name": "How can I prevent future door frame damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future door frame damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing future door frame damage involves regular maintenance and proactive measures. Ensure proper drainage around exterior doors to prevent moisture buildup, which can lead to rot. Apply fresh paint or sealant to exterior frames periodically to protect against weather elements. Inspect frames for small cracks or gaps and seal them promptly. Addressing foundation issues that cause shifting can also prevent misalignment. Regular pest control can deter insects that damage wood frames.",
+        "@type": "Answer",
+        "description": "Prevent damage by ensuring good drainage, regularly painting/sealing exterior frames, promptly sealing cracks, addressing foundation issues, and pest control."
+      }
+    }
+  ],
+  "description": "Prevent damage by ensuring good drainage, regularly painting/sealing exterior frames, promptly sealing cracks, addressing foundation issues, and pest control."
+}

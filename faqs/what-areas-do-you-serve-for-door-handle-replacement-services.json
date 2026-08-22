@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-areas-do-you-serve-for-door-handle-replacement-services",
+  "name": "What areas do you serve for door handle replacement services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for door handle replacement services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC provides door handle replacement services throughout the Bay Area, specifically focusing on the Peninsula and surrounding communities. Our service areas include Pacifica, Daly City, San Bruno, South San Francisco, Brisbane, Colma, Millbrae, San Mateo, Burlingame, Half Moon Bay, Montara, El Granada, Belmont, San Carlos, Redwood City, Hillsborough, Foster City, Menlo Park, Atherton, and Palo Alto. We are committed to serving homeowners in these regions with efficient and reliable door hardware solutions.",
+        "@type": "Answer",
+        "description": "We serve the Bay Area, including Pacifica, Daly City, San Bruno, South San Francisco, and many other Peninsula communities."
+      }
+    }
+  ],
+  "description": "We serve the Bay Area, including Pacifica, Daly City, San Bruno, South San Francisco, and many other Peninsula communities."
+}

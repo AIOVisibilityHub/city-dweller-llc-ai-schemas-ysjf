@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-door-casing-and-why-is-it-important",
+  "name": "What is door casing and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is door casing and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Door casing, also known as trim or architrave, is the decorative molding that surrounds a door frame. Beyond its aesthetic appeal, it serves a functional purpose by covering the gap between the door frame and the wall, providing a finished look and protecting the edges of the wall from damage. It contributes significantly to the overall architectural style and insulation of a room, preventing drafts and improving energy efficiency by sealing gaps.",
+        "@type": "Answer",
+        "description": "Door casing is the decorative trim around a door frame, covering gaps and protecting walls. It adds aesthetic value and improves insulation."
+      }
+    }
+  ],
+  "description": "Door casing is the decorative trim around a door frame, covering gaps and protecting walls. It adds aesthetic value and improves insulation."
+}

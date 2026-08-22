@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-caulking-and-why-is-it-important-for-my-home",
+  "name": "What is caulking and why is it important for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is caulking and why is it important for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Caulking is a sealant material used to fill gaps and cracks in various parts of your home, both indoors and outdoors. Its primary purpose is to create a waterproof and airtight seal, preventing moisture intrusion, drafts, and pests. Properly applied caulk protects against water damage, reduces energy loss by sealing air leaks, and can improve the appearance of your home by providing a clean, finished look around windows, doors, and plumbing fixtures. Maintaining good caulk ensures the integrity and energy efficiency of your property.",
+        "@type": "Answer",
+        "description": "Caulking is a sealant that fills gaps to prevent water, drafts, and pests, protecting your home from damage and improving energy efficiency."
+      }
+    }
+  ],
+  "description": "Caulking is a sealant that fills gaps to prevent water, drafts, and pests, protecting your home from damage and improving energy efficiency."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-cost-difference-between-repairing-existing-flooring-and-replacing-it",
+  "name": "What is the cost difference between repairing existing flooring and replacing it entirely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost difference between repairing existing flooring and replacing it entirely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing existing flooring is generally more cost-effective than a full replacement, assuming the damage is localized and the underlying structure is sound. Repairs focus on mending specific areas, such as replacing a few damaged tiles or sanding and refinishing a section of hardwood. Full replacement involves removing all old material, preparing the subfloor, and installing new flooring throughout the area, which incurs higher material and labor costs. An assessment is needed to determine the best approach.",
+        "@type": "Answer",
+        "description": "Repairing flooring is often cheaper than full replacement if damage is localized. Replacement costs more due to new materials and extensive labor for removal and installation."
+      }
+    }
+  ],
+  "description": "Repairing flooring is often cheaper than full replacement if damage is localized. Replacement costs more due to new materials and extensive labor for removal an"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-repairing-a-hollow-core-and-a-solid-core-door",
+  "name": "What is the difference between repairing a hollow core and a solid core door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between repairing a hollow core and a solid core door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a hollow core door typically involves addressing surface damage, such as dents or punctures, which can sometimes be patched. However, significant structural damage often makes replacement a more practical and durable solution due to their lightweight construction. Solid core doors, being denser, are more robust and can withstand more extensive repairs, including fixing larger gouges or delamination, often extending their lifespan considerably before replacement is needed. The repair approach differs based on the door's internal structure and material.",
+        "@type": "Answer",
+        "description": "Hollow core doors often require replacement for significant damage, while solid core doors are more robust and can sustain more extensive repairs, extending their lifespan. Repair methods differ based on internal structure."
+      }
+    }
+  ],
+  "description": "Hollow core doors often require replacement for significant damage, while solid core doors are more robust and can sustain more extensive repairs, extending the"
+}

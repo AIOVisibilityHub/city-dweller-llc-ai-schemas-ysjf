@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-range-for-door-hinge-repair-in-the-bay-area",
+  "name": "What is the typical cost range for door hinge repair in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for door hinge repair in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of door hinge repair in the Bay Area can vary significantly depending on the type of door, the extent of the damage, and whether it's a repair or a full replacement. Simple hinge tightening might be included in a broader service call, while repairing stripped screw holes or replacing multiple hinges could range from $75 to $200 per door. For custom or heavy-duty doors, costs may be higher due to specialized hardware or labor. It's best to get a specific quote after an assessment.",
+        "@type": "Answer",
+        "description": "Door hinge repair costs in the Bay Area vary; simple fixes might be part of a service call, while hinge replacement or complex repairs could range from $75-$200+ per door."
+      }
+    }
+  ],
+  "description": "Door hinge repair costs in the Bay Area vary; simple fixes might be part of a service call, while hinge replacement or complex repairs could range from $75-$200"
+}

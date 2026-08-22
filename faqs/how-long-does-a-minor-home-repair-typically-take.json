@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-minor-home-repair-typically-take",
+  "name": "How long does a minor home repair typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a minor home repair typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most minor home repairs can be completed within a few hours to a single day. The exact duration depends on the specific issue, its severity, and whether any specialized parts need to be ordered. For instance, fixing a running toilet might take an hour, while patching and painting a small section of drywall could take several hours due to drying times. A professional can provide a more accurate time estimate after assessing the repair.",
+        "@type": "Answer",
+        "description": "Most minor home repairs take a few hours to a day, depending on the issue's severity and required materials. A professional can give an accurate estimate."
+      }
+    }
+  ],
+  "description": "Most minor home repairs take a few hours to a day, depending on the issue's severity and required materials. A professional can give an accurate estimate."
+}

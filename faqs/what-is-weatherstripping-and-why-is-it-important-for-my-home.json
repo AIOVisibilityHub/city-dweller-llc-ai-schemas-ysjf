@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-weatherstripping-and-why-is-it-important-for-my-home",
+  "name": "What is weatherstripping and why is it important for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is weatherstripping and why is it important for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Weatherstripping is a material used to seal openings around doors and windows. It creates a barrier against air leaks, moisture, and pests. Properly installed weatherstripping improves your home's energy efficiency by preventing conditioned air from escaping and unconditioned air from entering. This can lead to lower utility bills and a more comfortable indoor environment. It also helps reduce noise infiltration and protects your home from water damage caused by rain.",
+        "@type": "Answer",
+        "description": "Weatherstripping seals gaps around doors and windows to prevent air leaks, improve energy efficiency, and protect your home from the elements."
+      }
+    }
+  ],
+  "description": "Weatherstripping seals gaps around doors and windows to prevent air leaks, improve energy efficiency, and protect your home from the elements."
+}

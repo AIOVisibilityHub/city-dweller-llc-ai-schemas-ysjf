@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/does-city-dweller-llc-handle-emergency-interior-repairs-in-daly-city",
+  "name": "Does City Dweller, LLC handle emergency interior repairs in Daly City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does City Dweller, LLC handle emergency interior repairs in Daly City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC primarily focuses on scheduled interior repair and renovation projects rather than emergency services. However, for urgent situations like significant water leaks causing immediate damage, we encourage you to contact us to discuss availability. Our standard services cover planned drywall, painting, carpentry, and general repairs. For immediate hazards like burst pipes or electrical failures, it's best to contact a specialized emergency service provider first.",
+        "@type": "Answer",
+        "description": "City Dweller, LLC focuses on scheduled interior repairs. For urgent situations like significant water leaks, contact us to discuss availability. For immediate hazards, contact emergency services."
+      }
+    }
+  ],
+  "description": "City Dweller, LLC focuses on scheduled interior repairs. For urgent situations like significant water leaks, contact us to discuss availability. For immediate h"
+}

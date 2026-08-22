@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-your-process-for-scheduling-and-completing-a-minor-home-repair",
+  "name": "What is your process for scheduling and completing a minor home repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is your process for scheduling and completing a minor home repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins when you contact us to describe the repair needed. We'll gather necessary details and, for more complex issues, may schedule a brief consultation to assess the problem in person. Once the scope is clear, we provide a transparent estimate. Upon your approval, we schedule the repair at your convenience. Our team arrives promptly, performs the work efficiently, and cleans up the area thoroughly, ensuring your satisfaction before concluding the job.",
+        "@type": "Answer",
+        "description": "Our process involves discussing the repair, providing an estimate, scheduling the work, completing it efficiently, and ensuring your satisfaction."
+      }
+    }
+  ],
+  "description": "Our process involves discussing the repair, providing an estimate, scheduling the work, completing it efficiently, and ensuring your satisfaction."
+}

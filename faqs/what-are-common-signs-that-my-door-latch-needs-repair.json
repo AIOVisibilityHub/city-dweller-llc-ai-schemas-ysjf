@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-signs-that-my-door-latch-needs-repair",
+  "name": "What are common signs that my door latch needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my door latch needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs your door latch needs repair include difficulty turning the handle, the door failing to close properly, a loose or rattling handle, or the latch bolt not extending fully into the strike plate. You might also notice the door frequently pops open on its own or feels insecure when locked. Addressing these issues promptly can prevent further damage and maintain security.",
+        "@type": "Answer",
+        "description": "Difficulty turning the handle, the door not closing, or a loose handle are common signs your door latch needs repair."
+      }
+    }
+  ],
+  "description": "Difficulty turning the handle, the door not closing, or a loose handle are common signs your door latch needs repair."
+}

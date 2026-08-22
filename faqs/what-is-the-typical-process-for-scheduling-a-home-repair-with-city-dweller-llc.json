@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-scheduling-a-home-repair-with-city-dweller-llc",
+  "name": "What is the typical process for scheduling a home repair with City Dweller LLC?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for scheduling a home repair with City Dweller LLC?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for scheduling a home repair with City Dweller LLC typically begins with you contacting us via phone or our website to describe your repair needs. We will then schedule a convenient time for a site visit to assess the damage or issue. Following the assessment, we provide a detailed estimate outlining the scope of work, materials, and cost. Once approved, we schedule the repair at a time that works for you, ensuring minimal disruption to your daily routine.",
+        "@type": "Answer",
+        "description": "Contact us to describe your repair, we'll assess the issue, provide an estimate, and then schedule the work."
+      }
+    }
+  ],
+  "description": "Contact us to describe your repair, we'll assess the issue, provide an estimate, and then schedule the work."
+}

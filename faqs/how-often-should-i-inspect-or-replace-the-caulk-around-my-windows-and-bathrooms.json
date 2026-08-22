@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-often-should-i-inspect-or-replace-the-caulk-around-my-windows-and-bathrooms",
+  "name": "How often should I inspect or replace the caulk around my windows and bathrooms?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I inspect or replace the caulk around my windows and bathrooms?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of caulk varies depending on the type of caulk, exposure to elements, and application quality. Generally, caulk around exterior windows and doors should be inspected annually and typically lasts 3-5 years. Interior bathroom caulk, subject to high moisture, should also be checked annually and may need replacement every 2-3 years, or sooner if mold, cracking, or peeling is visible. Regular inspection helps catch issues early, preventing more significant water damage.",
+        "@type": "Answer",
+        "description": "Inspect exterior caulk annually and expect replacement every 3-5 years; interior bathroom caulk should be checked annually and may last 2-3 years."
+      }
+    }
+  ],
+  "description": "Inspect exterior caulk annually and expect replacement every 3-5 years; interior bathroom caulk should be checked annually and may last 2-3 years."
+}

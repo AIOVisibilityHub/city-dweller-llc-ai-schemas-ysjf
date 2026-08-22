@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-involved-in-your-door-repair-process",
+  "name": "What's involved in your door repair process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's involved in your door repair process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our door repair process typically begins with an on-site assessment to diagnose the problem and determine the best solution. We then provide a detailed estimate for the necessary repairs, including parts and labor. Once approved, our skilled technicians proceed with the repair, using quality materials and established techniques to ensure a lasting fix. We conclude with a final inspection to confirm the door operates correctly and meets your expectations.",
+        "@type": "Answer",
+        "description": "Our process involves on-site assessment, a detailed estimate, professional repair using quality materials, and a final inspection to ensure proper operation."
+      }
+    }
+  ],
+  "description": "Our process involves on-site assessment, a detailed estimate, professional repair using quality materials, and a final inspection to ensure proper operation."
+}

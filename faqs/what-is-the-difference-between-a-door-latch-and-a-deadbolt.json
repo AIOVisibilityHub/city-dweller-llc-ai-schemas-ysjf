@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-a-door-latch-and-a-deadbolt",
+  "name": "What is the difference between a door latch and a deadbolt?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a door latch and a deadbolt?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A door latch is typically part of the door handle mechanism, engaging with the strike plate to hold the door closed when it's shut, often with a spring-loaded bolt. A deadbolt, however, uses a solid, non-spring-loaded metal bolt that extends deep into the door frame, providing superior security. Deadbolts are manually operated and offer much greater resistance to forced entry.",
+        "@type": "Answer",
+        "description": "A door latch holds the door shut with a spring bolt, while a deadbolt uses a solid, manually-operated bolt for higher security."
+      }
+    }
+  ],
+  "description": "A door latch holds the door shut with a spring bolt, while a deadbolt uses a solid, manually-operated bolt for higher security."
+}

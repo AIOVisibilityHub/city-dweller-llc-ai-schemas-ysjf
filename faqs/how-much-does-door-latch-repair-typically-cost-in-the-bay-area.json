@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-door-latch-repair-typically-cost-in-the-bay-area",
+  "name": "How much does door latch repair typically cost in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does door latch repair typically cost in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of door latch repair in the Bay Area varies widely depending on the type of latch, the extent of the damage, and whether parts need replacement. Basic adjustments might be a service call fee, while replacing a complex or high-security latch could be higher. We provide transparent quotes after assessing the specific issue, ensuring you understand the costs upfront.",
+        "@type": "Answer",
+        "description": "Costs vary based on latch type, damage extent, and part replacement. We provide quotes after assessment."
+      }
+    }
+  ],
+  "description": "Costs vary based on latch type, damage extent, and part replacement. We provide quotes after assessment."
+}

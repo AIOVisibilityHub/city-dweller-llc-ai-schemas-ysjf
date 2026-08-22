@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-have-a-door-adjusted-in-the-bay-area",
+  "name": "How much does it cost to have a door adjusted in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to have a door adjusted in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of door adjustment in the Bay Area can vary widely based on the type of door, the complexity of the issue, and the specific contractor. Simple adjustments, such as tightening hinges or strike plate repositioning, might range from $100 to $250. More involved repairs, like planing a sticking door, shimming a frame, or addressing multiple issues, could range from $250 to $500 or more. These figures are estimates, and a professional assessment is needed for an accurate quote.",
+        "@type": "Answer",
+        "description": "Simple door adjustments in the Bay Area can range from $100-$250, while more complex issues might cost $250-$500 or more."
+      }
+    }
+  ],
+  "description": "Simple door adjustments in the Bay Area can range from $100-$250, while more complex issues might cost $250-$500 or more."
+}

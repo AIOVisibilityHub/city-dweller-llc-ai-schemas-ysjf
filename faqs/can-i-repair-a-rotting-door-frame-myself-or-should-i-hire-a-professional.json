@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-a-rotting-door-frame-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair a rotting door frame myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair a rotting door frame myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor surface rot can sometimes be addressed by a capable homeowner, repairing a rotting door frame often requires specialized tools and expertise to ensure proper structural integrity and long-term durability. Professionals can accurately assess the extent of the rot, remove all compromised material, treat the area to prevent recurrence, and seamlessly integrate new wood. Incorrect repairs can lead to further damage, security issues, or increased costs down the line, making a professional a safer choice for significant rot.",
+        "@type": "Answer",
+        "description": "Minor surface rot might be DIY, but significant rot is best handled by a professional. Incorrect repairs can lead to further issues and higher costs."
+      }
+    }
+  ],
+  "description": "Minor surface rot might be DIY, but significant rot is best handled by a professional. Incorrect repairs can lead to further issues and higher costs."
+}

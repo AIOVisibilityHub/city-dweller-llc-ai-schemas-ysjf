@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-prepare-my-home-for-earthquake-season-in-the-bay-area",
+  "name": "How can I prepare my home for earthquake season in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare my home for earthquake season in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare your home for earthquake season in the Bay Area, focus on securing heavy items and strengthening your home's structure. Anchor large furniture, water heaters, and appliances to wall studs. Install safety latches on cabinet doors. For structural preparedness, consider bolting your house to its foundation and reinforcing cripple walls, especially if your home was built before 1979. These retrofitting measures can significantly reduce damage during a seismic event and enhance safety for occupants. Consult with a local contractor experienced in seismic retrofitting.",
+        "@type": "Answer",
+        "description": "Prepare your Bay Area home for earthquakes by anchoring heavy furniture, securing appliances, and considering seismic retrofitting like bolting the house to its foundation."
+      }
+    }
+  ],
+  "description": "Prepare your Bay Area home for earthquakes by anchoring heavy furniture, securing appliances, and considering seismic retrofitting like bolting the house to its"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-prevent-door-hinge-problems-in-the-future",
+  "name": "How can I prevent door hinge problems in the future?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent door hinge problems in the future?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing door hinge problems involves regular maintenance. Periodically inspect hinges for loose screws and tighten them as needed. Lubricate hinges with a silicone-based spray or white lithium grease at least once a year to prevent squeaking and reduce wear. Ensure doors are not overloaded or forced open/closed, which can strain hinges. Addressing minor issues like slight misalignment early can prevent them from escalating into more significant and costly repairs down the line.",
+        "@type": "Answer",
+        "description": "Prevent door hinge problems by regularly tightening loose screws, lubricating hinges annually, and avoiding forceful door operation."
+      }
+    }
+  ],
+  "description": "Prevent door hinge problems by regularly tightening loose screws, lubricating hinges annually, and avoiding forceful door operation."
+}

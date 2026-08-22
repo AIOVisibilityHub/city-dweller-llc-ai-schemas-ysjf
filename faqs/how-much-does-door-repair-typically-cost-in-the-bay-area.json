@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-door-repair-typically-cost-in-the-bay-area",
+  "name": "How much does door repair typically cost in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does door repair typically cost in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of door repair in the Bay Area varies widely depending on the type of door, the extent of the damage, and the specific parts needed. Minor repairs, such as hinge adjustments or weatherstripping replacement, might cost less than a full frame repair or lock mechanism replacement. We provide a detailed estimate after assessing the specific issue with your door to ensure transparency and accurate pricing for our services.",
+        "@type": "Answer",
+        "description": "Door repair costs in the Bay Area depend on the door type, damage extent, and parts needed. Minor repairs are less expensive than major ones. We provide detailed estimates after assessment."
+      }
+    }
+  ],
+  "description": "Door repair costs in the Bay Area depend on the door type, damage extent, and parts needed. Minor repairs are less expensive than major ones. We provide detaile"
+}

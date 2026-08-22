@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-a-door-latch-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair a door latch myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair a door latch myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor door latch issues, like loose screws or needing lubrication, can often be fixed with basic tools. However, complex problems such as internal mechanism damage, misalignment, or issues with integrated smart locks typically require professional expertise. A professional ensures the repair is done correctly, maintaining your door's security and functionality without causing further damage.",
+        "@type": "Answer",
+        "description": "Simple issues might be DIY, but complex problems or internal mechanism damage usually require a professional."
+      }
+    }
+  ],
+  "description": "Simple issues might be DIY, but complex problems or internal mechanism damage usually require a professional."
+}

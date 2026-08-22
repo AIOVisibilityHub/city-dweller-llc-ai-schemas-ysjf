@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-you-offer-any-warranty-or-guarantee-on-your-minor-home-repair-work",
+  "name": "Do you offer any warranty or guarantee on your minor home repair work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer any warranty or guarantee on your minor home repair work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, City Dweller, LLC stands by the quality of our workmanship. We typically offer a guarantee on the labor performed for our minor home repair services. The specific terms and duration of the warranty can vary depending on the type of repair and materials used. We will clearly communicate any applicable warranty details in your service agreement or estimate. Our goal is always to ensure your complete satisfaction with the repair.",
+        "@type": "Answer",
+        "description": "Yes, City Dweller, LLC offers a guarantee on labor for minor home repair work. Specific warranty details vary by repair type and materials, and will be communicated in your estimate."
+      }
+    }
+  ],
+  "description": "Yes, City Dweller, LLC offers a guarantee on labor for minor home repair work. Specific warranty details vary by repair type and materials, and will be communic"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-often-should-i-have-my-doors-inspected-or-adjusted",
+  "name": "How often should I have my doors inspected or adjusted?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my doors inspected or adjusted?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There's no fixed schedule for door inspections or adjustments; it largely depends on the door's usage, type, and environmental factors. Generally, it's advisable to address issues as soon as they arise, such as a sticking door or a noticeable draft. For highly trafficked doors or those exposed to significant weather changes, an annual check can be beneficial. If you live in an older home or an area prone to ground movement, like parts of the Bay Area, occasional professional assessments can help identify and rectify minor shifts before they become major problems.",
+        "@type": "Answer",
+        "description": "Inspect or adjust doors as issues arise; consider annual checks for high-traffic doors or homes in areas with ground movement."
+      }
+    }
+  ],
+  "description": "Inspect or adjust doors as issues arise; consider annual checks for high-traffic doors or homes in areas with ground movement."
+}

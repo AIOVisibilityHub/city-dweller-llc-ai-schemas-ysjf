@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-prepare-my-home-for-interior-repair-work",
+  "name": "How do I prepare my home for interior repair work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prepare my home for interior repair work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare your home, clear the work area of furniture, valuables, and personal items. If items cannot be moved, cover them with protective sheets. Remove wall hangings, curtains, and switch plates. Ensure pets are secured away from the work zone. Providing clear access and a clean environment allows our team to work efficiently and safely, minimizing disruption to your daily routine.",
+        "@type": "Answer",
+        "description": "Prepare your home by clearing the work area of furniture and valuables, removing wall hangings, and securing pets. This ensures efficient and safe work."
+      }
+    }
+  ],
+  "description": "Prepare your home by clearing the work area of furniture and valuables, removing wall hangings, and securing pets. This ensures efficient and safe work."
+}

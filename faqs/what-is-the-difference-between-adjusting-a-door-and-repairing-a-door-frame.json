@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-adjusting-a-door-and-repairing-a-door-frame",
+  "name": "What is the difference between adjusting a door and repairing a door frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between adjusting a door and repairing a door frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Door adjustment primarily focuses on correcting issues with the door's fit and function within its existing frame. This involves fixing hinges, planing edges, or adjusting the strike plate. Repairing a door frame, however, addresses damage or structural problems with the frame itself. This could include fixing rot, cracks, splits, or replacing damaged sections of the jamb, sill, or header. While adjustment aims to optimize the door's operation, frame repair targets the integrity and stability of the surrounding structure, which can sometimes be a prerequisite for proper door adjustment.",
+        "@type": "Answer",
+        "description": "Door adjustment fixes the door's fit and function; door frame repair addresses damage or structural issues to the frame itself."
+      }
+    }
+  ],
+  "description": "Door adjustment fixes the door's fit and function; door frame repair addresses damage or structural issues to the frame itself."
+}

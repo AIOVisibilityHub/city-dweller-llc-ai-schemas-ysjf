@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-drywall-crack-repair",
+  "name": "What is the typical process for drywall crack repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for drywall crack repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically involves assessing the crack's cause and severity. Minor cracks are cleaned, taped with fiberglass mesh, spackled, sanded smooth, primed, and painted. For larger cracks or those caused by structural issues, more extensive work may be required, including reinforcing the affected area before patching and finishing. A professional ensures proper material selection and technique for a durable repair.",
+        "@type": "Answer",
+        "description": "Drywall crack repair involves assessment, cleaning, taping, spackling, sanding, priming, and painting. Larger cracks may require structural reinforcement."
+      }
+    }
+  ],
+  "description": "Drywall crack repair involves assessment, cleaning, taping, spackling, sanding, priming, and painting. Larger cracks may require structural reinforcement."
+}

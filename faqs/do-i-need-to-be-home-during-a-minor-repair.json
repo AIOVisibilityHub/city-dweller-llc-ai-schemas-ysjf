@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-be-home-during-a-minor-repair",
+  "name": "Do I need to be home during a minor repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home during a minor repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally recommended that an adult be home during a minor repair, especially for the initial assessment and at the completion of the work. This allows you to discuss the issue directly with the technician, clarify any concerns, and confirm that the repair meets your expectations. If you cannot be present for the entire duration, arrangements can often be made, but ensuring accessibility and communication channels is key.",
+        "@type": "Answer",
+        "description": "It's recommended for an adult to be home during a minor repair, especially for initial assessment and job completion, to ensure clear communication and satisfaction."
+      }
+    }
+  ],
+  "description": "It's recommended for an adult to be home during a minor repair, especially for initial assessment and job completion, to ensure clear communication and satisfac"
+}

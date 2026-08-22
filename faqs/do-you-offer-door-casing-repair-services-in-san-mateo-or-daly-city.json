@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-you-offer-door-casing-repair-services-in-san-mateo-or-daly-city",
+  "name": "Do you offer door casing repair services in San Mateo or Daly City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer door casing repair services in San Mateo or Daly City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, City Dweller, LLC provides comprehensive door casing repair services throughout our service areas, including San Mateo and Daly City. Our experienced team can address various types of damage, from minor cosmetic flaws to extensive water damage or structural issues. We work with different casing materials and styles to ensure a seamless repair that restores the look and integrity of your doors. Contact us to schedule a consultation and receive a detailed estimate for your specific needs.",
+        "@type": "Answer",
+        "description": "Yes, City Dweller, LLC offers door casing repair services in San Mateo and Daly City. We handle various damage types to restore your door casing's look and integrity."
+      }
+    }
+  ],
+  "description": "Yes, City Dweller, LLC offers door casing repair services in San Mateo and Daly City. We handle various damage types to restore your door casing's look and inte"
+}

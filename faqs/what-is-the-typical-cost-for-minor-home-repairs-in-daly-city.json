@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-for-minor-home-repairs-in-daly-city",
+  "name": "What is the typical cost for minor home repairs in Daly City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for minor home repairs in Daly City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for minor home repairs in Daly City can vary greatly depending on the type of repair, the materials needed, and the complexity of the work. Small tasks like fixing a leaky faucet, patching drywall, or repairing a fence might range from $100 to $500 for labor and materials. More involved repairs, such as electrical fixes or plumbing work, could range from $200 to $1000 or more. It's always best to get a detailed quote from a local contractor for specific repairs to understand the exact cost.",
+        "@type": "Answer",
+        "description": "Minor home repair costs in Daly City vary from $100 to over $1000 depending on the repair; always get a detailed local quote."
+      }
+    }
+  ],
+  "description": "Minor home repair costs in Daly City vary from $100 to over $1000 depending on the repair; always get a detailed local quote."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-often-should-i-inspect-my-window-trim-for-potential-damage",
+  "name": "How often should I inspect my window trim for potential damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I inspect my window trim for potential damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is advisable to inspect your window trim at least once a year, preferably in the spring or fall, to catch any potential damage early. For homes in coastal areas or those frequently exposed to harsh weather, more frequent inspections, perhaps twice a year, are recommended. Pay close attention after heavy rainstorms or periods of strong wind. Early detection of issues like peeling paint, small cracks, or soft spots can prevent minor problems from escalating into costly structural damage.",
+        "@type": "Answer",
+        "description": "Inspect window trim annually, or more frequently in harsh weather conditions, to catch damage early and prevent larger issues."
+      }
+    }
+  ],
+  "description": "Inspect window trim annually, or more frequently in harsh weather conditions, to catch damage early and prevent larger issues."
+}

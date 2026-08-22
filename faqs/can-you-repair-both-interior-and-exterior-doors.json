@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-you-repair-both-interior-and-exterior-doors",
+  "name": "Can you repair both interior and exterior doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you repair both interior and exterior doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we are equipped to repair both interior and exterior doors. Exterior doors often require attention to security features, weather sealing, and structural integrity to protect your home from the elements and intruders. Interior doors typically focus on smooth operation, noise reduction, and aesthetic integration with your home's design. Our technicians are experienced in addressing the unique challenges associated with each type of door.",
+        "@type": "Answer",
+        "description": "Yes, we repair both interior and exterior doors. We address unique needs for each, focusing on security and weather sealing for exterior doors and smooth operation and aesthetics for interior doors."
+      }
+    }
+  ],
+  "description": "Yes, we repair both interior and exterior doors. We address unique needs for each, focusing on security and weather sealing for exterior doors and smooth operat"
+}

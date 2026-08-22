@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-water-damaged-crown-molding-be-repaired-or-does-it-always-need-replacement",
+  "name": "Can water-damaged crown molding be repaired, or does it always need replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can water-damaged crown molding be repaired, or does it always need replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether water-damaged crown molding can be repaired or needs replacement depends on the severity and extent of the damage. If the damage is superficial, such as minor staining or slight swelling, it might be repairable by drying the area, sanding, and repainting. However, if the molding is significantly warped, soft to the touch, has active mold growth, or is structurally compromised, replacement of the affected sections is usually necessary to prevent further issues and ensure the longevity of the repair.",
+        "@type": "Answer",
+        "description": "Minor water damage can often be repaired, but significant warping, mold, or structural compromise typically necessitates replacement."
+      }
+    }
+  ],
+  "description": "Minor water damage can often be repaired, but significant warping, mold, or structural compromise typically necessitates replacement."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-my-door-latch-instead-of-repairing-it",
+  "name": "When should I consider replacing my door latch instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my door latch instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider replacing your door latch if it's severely damaged, outdated, or if repair costs approach the price of a new, more reliable unit. Frequent malfunctions after previous repairs, a desire for upgraded security features, or a change in aesthetic preferences are also good reasons to opt for replacement rather than repeated repairs.",
+        "@type": "Answer",
+        "description": "Replace a latch if it's severely damaged, frequently malfunctions, is outdated, or if repair costs are high."
+      }
+    }
+  ],
+  "description": "Replace a latch if it's severely damaged, frequently malfunctions, is outdated, or if repair costs are high."
+}

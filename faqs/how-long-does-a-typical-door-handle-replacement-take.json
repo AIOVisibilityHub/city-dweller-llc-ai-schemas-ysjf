@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-door-handle-replacement-take",
+  "name": "How long does a typical door handle replacement take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical door handle replacement take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a standard door handle replacement, the process is often straightforward and can typically be completed within 30 minutes to an hour by an experienced professional. This timeframe assumes the new handle is a direct replacement for the existing one and no significant modifications to the door are required. More complex situations, such as converting from a knob to a lever, repairing door damage, or re-drilling holes, might extend the duration.",
+        "@type": "Answer",
+        "description": "A standard door handle replacement usually takes 30 minutes to an hour for a professional. Complex installations may take longer."
+      }
+    }
+  ],
+  "description": "A standard door handle replacement usually takes 30 minutes to an hour for a professional. Complex installations may take longer."
+}

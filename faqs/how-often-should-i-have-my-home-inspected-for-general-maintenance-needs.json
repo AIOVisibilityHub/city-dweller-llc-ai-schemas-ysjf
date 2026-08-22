@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-often-should-i-have-my-home-inspected-for-general-maintenance-needs",
+  "name": "How often should I have my home inspected for general maintenance needs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my home inspected for general maintenance needs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A general home maintenance inspection is typically recommended at least once a year. This annual check-up allows professionals to identify potential issues such as roof damage, plumbing leaks, electrical concerns, or HVAC system inefficiencies before they escalate. For homes over 20 years old or those exposed to harsh weather conditions, a semi-annual inspection might be beneficial. Regular inspections ensure your home remains in good condition, helping to mitigate unexpected repair costs and maintain safety standards.",
+        "@type": "Answer",
+        "description": "It is generally recommended to have a professional home maintenance inspection at least once a year to identify and address potential issues."
+      }
+    }
+  ],
+  "description": "It is generally recommended to have a professional home maintenance inspection at least once a year to identify and address potential issues."
+}

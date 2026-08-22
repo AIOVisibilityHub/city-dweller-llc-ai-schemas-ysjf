@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-signs-that-my-home-s-caulk-needs-repair-or-replacement",
+  "name": "What are the signs that my home's caulk needs repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my home's caulk needs repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several signs indicate your caulk needs attention. Visually inspect for cracks, shrinking, peeling, or crumbling, which compromise the seal. Discoloration, especially black mold growth around bathroom or kitchen caulk, suggests moisture intrusion or failure. You might also notice drafts around windows or doors, or water stains near seams. If you can see light through a gap, or if the caulk feels brittle to the touch, it's time for repair or replacement to maintain your home's protection.",
+        "@type": "Answer",
+        "description": "Look for cracks, shrinking, peeling, mold growth, drafts, or water stains. If caulk is brittle or failing, it needs repair."
+      }
+    }
+  ],
+  "description": "Look for cracks, shrinking, peeling, mold growth, drafts, or water stains. If caulk is brittle or failing, it needs repair."
+}

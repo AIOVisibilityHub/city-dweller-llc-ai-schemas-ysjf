@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-my-door-needs-professional-repair",
+  "name": "How do I know if my door needs professional repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my door needs professional repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider professional door repair if you notice difficulty opening or closing the door, squeaking or grinding noises, visible damage to the frame or door slab, gaps that allow drafts, or issues with the lock mechanism. A door that doesn't seal properly can lead to energy loss, while security concerns arise from faulty locks or damaged frames. Addressing these issues promptly can prevent further damage and ensure safety.",
+        "@type": "Answer",
+        "description": "Seek professional repair if your door is difficult to operate, makes unusual noises, has visible damage, allows drafts, or has lock issues. Prompt action prevents further damage and ensures safety."
+      }
+    }
+  ],
+  "description": "Seek professional repair if your door is difficult to operate, makes unusual noises, has visible damage, allows drafts, or has lock issues. Prompt action preven"
+}

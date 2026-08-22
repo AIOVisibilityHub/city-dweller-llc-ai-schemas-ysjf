@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-my-window-trim-versus-just-repairing-it",
+  "name": "When should I consider replacing my window trim versus just repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my window trim versus just repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your window trim if the damage is extensive, such as widespread rot, significant structural compromise, or if the trim material is deteriorating beyond simple patching. If more than 25-30% of a trim piece is rotted or damaged, replacement often provides a more durable and long-lasting solution than repeated repairs. Repair is suitable for minor cosmetic issues, small cracks, or localized soft spots. A professional assessment can help determine the most cost-effective and appropriate solution.",
+        "@type": "Answer",
+        "description": "Replace window trim for extensive rot or structural damage; repair is suitable for minor cosmetic issues or small cracks."
+      }
+    }
+  ],
+  "description": "Replace window trim for extensive rot or structural damage; repair is suitable for minor cosmetic issues or small cracks."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-signs-i-need-drywall-repair",
+  "name": "What are common signs I need drywall repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs I need drywall repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You might need drywall repair if you notice cracks, holes, dents, or water stains on your walls or ceilings. Bubbling or peeling paint can also indicate underlying drywall damage, often from moisture. Small nail pops are common, but larger imperfections affect structural integrity and aesthetics. Addressing these issues promptly prevents them from worsening and helps maintain your home's appearance.",
+        "@type": "Answer",
+        "description": "Common signs of drywall damage include cracks, holes, dents, water stains, or bubbling paint. Prompt repair prevents further deterioration."
+      }
+    }
+  ],
+  "description": "Common signs of drywall damage include cracks, holes, dents, water stains, or bubbling paint. Prompt repair prevents further deterioration."
+}

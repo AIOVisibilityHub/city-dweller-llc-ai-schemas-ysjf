@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-signs-that-a-door-hinge-needs-repair",
+  "name": "What are common signs that a door hinge needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that a door hinge needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that a door hinge requires repair include squeaking, grinding, or popping noises when opening or closing the door. You might also notice the door sagging, sticking, or not closing properly, creating drafts or compromising security. Visible damage like bent pins, loose screws, or rust on the hinges are clear indicators. Addressing these issues promptly can prevent further damage to the door frame or the door itself.",
+        "@type": "Answer",
+        "description": "Squeaking, sticking, sagging, or visible damage to hinges are common signs that a repair is needed."
+      }
+    }
+  ],
+  "description": "Squeaking, sticking, sagging, or visible damage to hinges are common signs that a repair is needed."
+}

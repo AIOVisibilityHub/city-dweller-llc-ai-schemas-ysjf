@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-new-weatherstripping-typically-last",
+  "name": "How long does new weatherstripping typically last?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does new weatherstripping typically last?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of new weatherstripping depends heavily on the material quality, exposure to elements, and the amount of wear and tear it experiences. High-quality rubber or metal weatherstripping can last 10 to 20 years or even longer with proper care. Less durable materials like foam or felt might only last a few years. Regular inspection and cleaning can help extend its life, but consistent exposure to extreme temperatures and frequent use will naturally shorten its effectiveness.",
+        "@type": "Answer",
+        "description": "New weatherstripping lasts from a few years for foam to 10-20+ years for rubber or metal, depending on material quality and exposure."
+      }
+    }
+  ],
+  "description": "New weatherstripping lasts from a few years for foam to 10-20+ years for rubber or metal, depending on material quality and exposure."
+}

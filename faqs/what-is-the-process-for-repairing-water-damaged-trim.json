@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-repairing-water-damaged-trim",
+  "name": "What is the process for repairing water-damaged trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing water-damaged trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing water-damaged trim typically involves several steps. First, the source of the water damage must be identified and resolved to prevent future issues. Next, any affected trim is inspected to determine if it can be salvaged. Rotted sections are carefully removed. The remaining sound wood is treated, and new wood or appropriate filler is used to replace the damaged portions. Finally, the repaired area is sanded smooth, primed, and painted to match the existing trim, restoring its appearance and protecting it from further damage.",
+        "@type": "Answer",
+        "description": "Water-damaged trim repair involves resolving the water source, removing rot, treating remaining wood, filling or replacing damaged sections, then sanding, priming, and painting."
+      }
+    }
+  ],
+  "description": "Water-damaged trim repair involves resolving the water source, removing rot, treating remaining wood, filling or replacing damaged sections, then sanding, primi"
+}

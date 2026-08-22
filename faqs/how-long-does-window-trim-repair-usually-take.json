@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-window-trim-repair-usually-take",
+  "name": "How long does window trim repair usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does window trim repair usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of window trim repair depends on the scope of work. Simple repairs, such as filling small cracks and repainting a single window, might be completed within a few hours. More extensive projects involving the replacement of multiple trim pieces or detailed custom work across several windows could take one to two days or even longer. Our team strives to complete projects efficiently while maintaining high-quality standards and will provide an estimated timeline during your initial consultation.",
+        "@type": "Answer",
+        "description": "Repair time depends on the damage; minor fixes can take a few hours, while extensive replacement on multiple windows may take one to two days."
+      }
+    }
+  ],
+  "description": "Repair time depends on the damage; minor fixes can take a few hours, while extensive replacement on multiple windows may take one to two days."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-replace-only-a-section-of-damaged-trim-or-do-i-need-to-replace-it-all",
+  "name": "Can I replace only a section of damaged trim, or do I need to replace it all?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace only a section of damaged trim, or do I need to replace it all?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is often possible to replace only a damaged section of trim, especially if the damage is localized and the existing trim is still in good condition elsewhere. However, matching the new trim perfectly to the old in terms of material, profile, and finish can be challenging. If the existing trim is old, discolored, or of an uncommon style, replacing an entire wall or room's trim might yield a more consistent and aesthetically pleasing result. A professional assessment can help determine the best approach.",
+        "@type": "Answer",
+        "description": "You can replace only damaged sections if the existing trim is in good condition and can be matched. For older or unique trim, replacing a whole section or room may ensure a better match and appearance."
+      }
+    }
+  ],
+  "description": "You can replace only damaged sections if the existing trim is in good condition and can be matched. For older or unique trim, replacing a whole section or room"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-steps-can-i-take-to-prevent-common-home-repair-issues",
+  "name": "What steps can I take to prevent common home repair issues?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps can I take to prevent common home repair issues?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proactive maintenance is key to preventing common home repair issues. Regularly inspect for leaks under sinks and around appliances, clean gutters to prevent water damage, and check for drafts around windows and doors. Test smoke detectors and carbon monoxide alarms monthly. Address minor issues promptly before they escalate. Simple tasks like tightening loose fixtures or promptly sealing small cracks can save you significant repair costs down the line. We can also provide seasonal maintenance tips upon request.",
+        "@type": "Answer",
+        "description": "Prevent issues by regular inspections, cleaning gutters, sealing drafts, and addressing minor problems promptly. Proactive maintenance saves costs."
+      }
+    }
+  ],
+  "description": "Prevent issues by regular inspections, cleaning gutters, sealing drafts, and addressing minor problems promptly. Proactive maintenance saves costs."
+}

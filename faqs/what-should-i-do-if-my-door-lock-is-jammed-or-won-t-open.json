@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-do-if-my-door-lock-is-jammed-or-won-t-open",
+  "name": "What should I do if my door lock is jammed or won't open?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my door lock is jammed or won't open?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your door lock is jammed or won't open, avoid forcing it, as this can cause further damage to the lock or the door. First, try lubricating the keyway with a graphite-based lubricant, not oil, as oil can attract dirt. Wiggle the key gently while trying to turn it. If it still doesn't work, contact a professional door lock repair service. They have the tools and expertise to diagnose the problem safely and repair or open the lock without causing additional damage to your property.",
+        "@type": "Answer",
+        "description": "If your door lock is jammed, don't force it. Try lubricating with graphite. If it persists, call a professional repair service to avoid further damage."
+      }
+    }
+  ],
+  "description": "If your door lock is jammed, don't force it. Try lubricating with graphite. If it persists, call a professional repair service to avoid further damage."
+}

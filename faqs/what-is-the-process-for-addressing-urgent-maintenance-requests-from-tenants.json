@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-addressing-urgent-maintenance-requests-from-tenants",
+  "name": "What is the process for addressing urgent maintenance requests from tenants?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for addressing urgent maintenance requests from tenants?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for urgent maintenance requests should prioritize safety and quick resolution. First, confirm the emergency (e.g., burst pipe, no heat, electrical issue). Immediately contact a qualified professional or emergency service. Inform the tenant of the steps being taken and provide an estimated timeline. Document all communication and actions taken. For severe issues in the Bay Area, especially those affecting habitability, prompt action is legally required to ensure tenant safety and mitigate further property damage.",
+        "@type": "Answer",
+        "description": "For urgent requests, confirm the emergency, contact professionals immediately, inform the tenant, and document actions. Prompt action is crucial for safety and legal compliance."
+      }
+    }
+  ],
+  "description": "For urgent requests, confirm the emergency, contact professionals immediately, inform the tenant, and document actions. Prompt action is crucial for safety and"
+}

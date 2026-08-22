@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-repair-trim-instead-of-replacing-it",
+  "name": "When should I repair trim instead of replacing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair trim instead of replacing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing trim is often suitable for minor to moderate damage, such as small cracks, chips, or areas of superficial rot. It's a cost-effective option when the underlying structure is sound. Replacement becomes necessary if the trim is severely deteriorated, extensively rotted, or has significant structural damage that compromises its integrity. A professional assessment can determine if repair is sufficient to restore appearance and function or if full replacement is the more durable long-term solution.",
+        "@type": "Answer",
+        "description": "Repair trim for minor damage like small cracks or chips, or superficial rot. Replace trim if it's severely rotted, extensively damaged, or structurally compromised."
+      }
+    }
+  ],
+  "description": "Repair trim for minor damage like small cracks or chips, or superficial rot. Replace trim if it's severely rotted, extensively damaged, or structurally compromi"
+}

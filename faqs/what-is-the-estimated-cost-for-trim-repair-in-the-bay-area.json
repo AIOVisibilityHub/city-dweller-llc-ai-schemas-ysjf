@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-estimated-cost-for-trim-repair-in-the-bay-area",
+  "name": "What is the estimated cost for trim repair in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the estimated cost for trim repair in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of trim repair in the Bay Area depends on several factors, including the type of trim material, the extent of the damage, the linear footage needing repair, and whether repainting is included. Minor repairs might range from a few hundred dollars, while more extensive projects involving significant rot or multiple rooms could cost upwards of a thousand. We provide detailed, transparent quotes after an on-site assessment to give you an accurate understanding of the investment required for your specific needs.",
+        "@type": "Answer",
+        "description": "Trim repair costs in the Bay Area vary based on material, damage extent, and linear footage. Minor repairs may be a few hundred dollars, while larger projects can be over a thousand."
+      }
+    }
+  ],
+  "description": "Trim repair costs in the Bay Area vary based on material, damage extent, and linear footage. Minor repairs may be a few hundred dollars, while larger projects c"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-considered-a-small-drywall-repair",
+  "name": "What is considered a small drywall repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered a small drywall repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Small drywall repairs typically involve minor damage such as nail pops, small holes from anchors or picture hanging, cracks from settling, or scuffs and dents. These often don't require replacing entire sheets of drywall and can usually be patched and blended seamlessly. Examples include holes up to 6 inches in diameter, hairline cracks, or superficial surface damage. Larger repairs, like water damage affecting a significant area or structural issues, would fall under a different category.",
+        "@type": "Answer",
+        "description": "Small drywall repairs address minor damages like nail pops, small holes, or hairline cracks, usually not requiring full sheet replacement."
+      }
+    }
+  ],
+  "description": "Small drywall repairs address minor damages like nail pops, small holes, or hairline cracks, usually not requiring full sheet replacement."
+}

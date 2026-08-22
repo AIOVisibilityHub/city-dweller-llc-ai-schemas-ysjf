@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-signs-that-a-door-needs-adjustment",
+  "name": "What are common signs that a door needs adjustment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that a door needs adjustment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that a door needs adjustment include difficulty opening or closing, sticking, squeaking, or rubbing against the frame or floor. You might also notice gaps around the door allowing drafts or light to pass through. Misaligned latches or locks, visible sagging, or uneven wear on the door's bottom edge are also indicators. These issues can result from changes in humidity, house settling, or loose hardware over time, making it harder for the door to function properly and affecting energy efficiency.",
+        "@type": "Answer",
+        "description": "Signs include difficulty opening/closing, sticking, squeaking, rubbing, gaps, or misaligned latches/locks."
+      }
+    }
+  ],
+  "description": "Signs include difficulty opening/closing, sticking, squeaking, rubbing, gaps, or misaligned latches/locks."
+}

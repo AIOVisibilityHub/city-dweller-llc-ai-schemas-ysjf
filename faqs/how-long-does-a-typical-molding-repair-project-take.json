@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-molding-repair-project-take",
+  "name": "How long does a typical molding repair project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical molding repair project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a molding repair project varies significantly based on the damage's extent, the type of molding, and the preparation required. Minor repairs, like filling small holes or recaulking a few feet of trim, might take just a few hours. More extensive projects, such as repairing water-damaged sections, replacing significant lengths, or addressing multiple areas, could span several days, especially if drying times for wood fillers, primers, and paint are involved. Projects requiring custom milling or intricate detailing will naturally take longer. A professional assessment can provide a more accurate timeline for your specific repair needs.",
+        "@type": "Answer",
+        "description": "Molding repair time depends on damage severity and type. Minor fixes can take hours, while extensive or custom projects, especially those with drying times, may take several days."
+      }
+    }
+  ],
+  "description": "Molding repair time depends on damage severity and type. Minor fixes can take hours, while extensive or custom projects, especially those with drying times, may"
+}

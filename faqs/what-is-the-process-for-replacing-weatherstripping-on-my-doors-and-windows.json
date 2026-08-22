@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-replacing-weatherstripping-on-my-doors-and-windows",
+  "name": "What is the process for replacing weatherstripping on my doors and windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing weatherstripping on my doors and windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally involves removing the old, worn weatherstripping carefully to avoid damaging the frame. The surface is then cleaned thoroughly to ensure proper adhesion for the new material. Measurements are taken to cut the new weatherstripping to the correct length. Finally, the new material is installed according to its type – this might involve adhesive backing, stapling, or screwing into place. For optimal results, it's crucial to ensure a tight, consistent seal around the entire opening.",
+        "@type": "Answer",
+        "description": "The process involves removing old material, cleaning the surface, measuring, and carefully installing new weatherstripping to ensure a tight seal."
+      }
+    }
+  ],
+  "description": "The process involves removing old material, cleaning the surface, measuring, and carefully installing new weatherstripping to ensure a tight seal."
+}

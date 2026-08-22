@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-weatherstripping-are-available-for-homes",
+  "name": "What types of weatherstripping are available for homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of weatherstripping are available for homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Various types of weatherstripping are available, each suited for different applications. Common materials include foam, felt, rubber, vinyl, and metal. Foam and felt are typically inexpensive and easy to install but less durable. Rubber and vinyl offer better durability and sealing properties, often found in compression or V-strip forms. Metal weatherstripping, such as spring bronze, is highly durable and effective for permanent sealing. The best choice depends on the gap size, location (door or window), and desired durability.",
+        "@type": "Answer",
+        "description": "Common types include foam, felt, rubber, vinyl, and metal, each offering different durability and sealing properties depending on your needs."
+      }
+    }
+  ],
+  "description": "Common types include foam, felt, rubber, vinyl, and metal, each offering different durability and sealing properties depending on your needs."
+}

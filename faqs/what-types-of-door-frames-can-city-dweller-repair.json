@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-door-frames-can-city-dweller-repair",
+  "name": "What types of door frames can City Dweller repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of door frames can City Dweller repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller is equipped to repair various types of door frames, including those made of wood, metal, and composite materials. Our services cover both interior and exterior door frames, addressing issues such as rot, cracks, splits, pest damage, and general wear. We handle frames for standard entry doors, interior doors, and can often assist with frames for sliding or French doors. Our team assesses each situation to determine the most effective repair strategy.",
+        "@type": "Answer",
+        "description": "City Dweller repairs wood, metal, and composite door frames, both interior and exterior, including issues like rot, cracks, and pest damage."
+      }
+    }
+  ],
+  "description": "City Dweller repairs wood, metal, and composite door frames, both interior and exterior, including issues like rot, cracks, and pest damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-door-repair-take",
+  "name": "How long does a typical door repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical door repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a door repair depends on the complexity of the issue. Simple fixes like adjusting hinges or replacing weatherstripping can often be completed within an hour or two. More involved repairs, such as fixing a damaged frame, replacing a complex lock mechanism, or addressing alignment issues, might take several hours. We provide an estimated timeframe during our initial assessment so you know what to expect.",
+        "@type": "Answer",
+        "description": "Repair time varies; simple fixes take 1-2 hours, while complex issues like frame or lock replacement can take several hours. We provide an estimate during assessment."
+      }
+    }
+  ],
+  "description": "Repair time varies; simple fixes take 1-2 hours, while complex issues like frame or lock replacement can take several hours. We provide an estimate during asses"
+}

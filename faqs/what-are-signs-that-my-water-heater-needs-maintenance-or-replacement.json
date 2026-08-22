@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-signs-that-my-water-heater-needs-maintenance-or-replacement",
+  "name": "What are signs that my water heater needs maintenance or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are signs that my water heater needs maintenance or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several signs indicate your water heater may need attention. These include a lack of hot water, rust-colored or cloudy water, strange noises like rumbling or popping from the tank, and visible leaks around the unit. A drop in efficiency, leading to higher energy bills, can also be a symptom. While some issues can be resolved with maintenance like flushing the tank, persistent problems or an old unit (typically over 10-15 years) often point to a need for replacement. Ignoring these signs can lead to breakdowns.",
+        "@type": "Answer",
+        "description": "Signs your water heater needs maintenance or replacement include no hot water, discolored water, strange noises, leaks, or decreased efficiency."
+      }
+    }
+  ],
+  "description": "Signs your water heater needs maintenance or replacement include no hot water, discolored water, strange noises, leaks, or decreased efficiency."
+}

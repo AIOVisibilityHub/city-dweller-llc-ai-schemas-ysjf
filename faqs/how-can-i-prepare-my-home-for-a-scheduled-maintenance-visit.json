@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-prepare-my-home-for-a-scheduled-maintenance-visit",
+  "name": "How can I prepare my home for a scheduled maintenance visit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare my home for a scheduled maintenance visit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a scheduled maintenance visit, ensure clear access to areas that need attention, such as HVAC units, electrical panels, plumbing access points, and the attic or crawl space. Remove any clutter or personal items that might obstruct the work area. If pets are present, secure them in a safe location away from the work zone for their safety and the technicians'. Providing any relevant information or specific concerns to the maintenance team upon their arrival can also help streamline the process and ensure all issues are addressed efficiently.",
+        "@type": "Answer",
+        "description": "Clear access to work areas, remove clutter, secure pets, and communicate any specific concerns to the maintenance team upon arrival."
+      }
+    }
+  ],
+  "description": "Clear access to work areas, remove clutter, secure pets, and communicate any specific concerns to the maintenance team upon arrival."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-door-casing-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair door casing myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair door casing myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor door casing repairs, such as filling small nail holes or hairline cracks, can be a DIY project for experienced homeowners, more significant damage usually warrants professional attention. Issues like extensive water damage, complex trim profiles, or structural damage often require specialized tools, matching existing profiles, and precise installation to ensure a seamless and durable repair. A professional ensures the repair is done correctly, preserving the aesthetics and integrity of your home's trim.",
+        "@type": "Answer",
+        "description": "Minor repairs can be DIY, but significant damage, complex profiles, or structural issues are best handled by a professional for proper and durable results."
+      }
+    }
+  ],
+  "description": "Minor repairs can be DIY, but significant damage, complex profiles, or structural issues are best handled by a professional for proper and durable results."
+}

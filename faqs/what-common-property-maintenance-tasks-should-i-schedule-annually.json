@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-common-property-maintenance-tasks-should-i-schedule-annually",
+  "name": "What common property maintenance tasks should I schedule annually?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common property maintenance tasks should I schedule annually?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Annually, consider tasks like HVAC system tune-ups, roof inspections, gutter cleaning, exterior power washing, and plumbing system checks. These preventative measures help identify potential issues before they become emergencies. For properties in areas like Pacifica or Daly City, specific attention to drainage and exterior weatherproofing is also beneficial due to coastal influences. Regular inspection of decks, fences, and concrete surfaces for wear and tear is also recommended.",
+        "@type": "Answer",
+        "description": "Annually, schedule HVAC tune-ups, roof inspections, gutter cleaning, exterior cleaning, and plumbing checks to prevent issues."
+      }
+    }
+  ],
+  "description": "Annually, schedule HVAC tune-ups, roof inspections, gutter cleaning, exterior cleaning, and plumbing checks to prevent issues."
+}

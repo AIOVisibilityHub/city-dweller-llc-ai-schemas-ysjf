@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-maintenance-can-help-prevent-trim-damage",
+  "name": "What kind of maintenance can help prevent trim damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance can help prevent trim damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular maintenance is crucial for preventing trim damage. This includes promptly addressing any water leaks from roofs, windows, or plumbing, as moisture is a primary cause of rot. Inspecting exterior trim annually for peeling paint or cracks and repainting/resealing as needed helps protect it from the elements. For interior trim, avoiding heavy impacts and cleaning gently can preserve its finish. Ensuring proper ventilation in bathrooms and kitchens also reduces moisture-related issues.",
+        "@type": "Answer",
+        "description": "Prevent trim damage by fixing water leaks, regularly inspecting and repainting exterior trim, and protecting interior trim from impacts. Ensure good ventilation to reduce moisture."
+      }
+    }
+  ],
+  "description": "Prevent trim damage by fixing water leaks, regularly inspecting and repainting exterior trim, and protecting interior trim from impacts. Ensure good ventilation"
+}

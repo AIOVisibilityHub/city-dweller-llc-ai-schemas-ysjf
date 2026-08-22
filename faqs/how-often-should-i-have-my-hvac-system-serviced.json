@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-often-should-i-have-my-hvac-system-serviced",
+  "name": "How often should I have my HVAC system serviced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my HVAC system serviced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To ensure optimal performance, energy efficiency, and longevity, your HVAC system should be professionally serviced at least once a year. Ideally, schedule a tune-up in the spring for your air conditioning unit and in the fall for your heating system before their respective peak usage seasons. Regular maintenance helps identify minor issues before they escalate, improves indoor air quality, and can significantly reduce your energy bills. Neglecting maintenance can lead to breakdowns and decreased system efficiency.",
+        "@type": "Answer",
+        "description": "HVAC systems should be professionally serviced at least once a year, ideally in spring for AC and fall for heating, to ensure optimal performance and efficiency."
+      }
+    }
+  ],
+  "description": "HVAC systems should be professionally serviced at least once a year, ideally in spring for AC and fall for heating, to ensure optimal performance and efficiency"
+}

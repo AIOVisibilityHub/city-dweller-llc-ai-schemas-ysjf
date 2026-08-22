@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-small-drywall-repair-take-to-complete",
+  "name": "How long does a small drywall repair take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a small drywall repair take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to complete a small drywall repair can vary, primarily due to the drying time required between applications of joint compound. While the active work of patching and applying compound might only take an hour or two, the total project often spans one to two days. This allows for proper drying and curing of each layer, which is crucial for a durable and smooth finish. Faster repairs might be possible for very minor scuffs that don't require multiple coats.",
+        "@type": "Answer",
+        "description": "A small drywall repair typically takes one to two days to complete, primarily due to the necessary drying time between compound layers."
+      }
+    }
+  ],
+  "description": "A small drywall repair typically takes one to two days to complete, primarily due to the necessary drying time between compound layers."
+}

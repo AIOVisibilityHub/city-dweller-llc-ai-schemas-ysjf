@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-signs-of-poorly-installed-or-failing-weatherstripping",
+  "name": "What are the signs of poorly installed or failing weatherstripping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs of poorly installed or failing weatherstripping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of poorly installed or failing weatherstripping include noticeable drafts around doors and windows, higher energy bills, visible gaps when doors or windows are closed, or moisture infiltration. You might also see degraded material like cracking, stiffness, or pieces falling off. An easy way to check is the dollar bill test: close a door or window on a dollar bill; if you can easily pull it out, the seal is likely compromised. This indicates heat loss and reduced comfort.",
+        "@type": "Answer",
+        "description": "Signs include drafts, high energy bills, visible gaps, moisture intrusion, or degraded material; the dollar bill test can confirm a poor seal."
+      }
+    }
+  ],
+  "description": "Signs include drafts, high energy bills, visible gaps, moisture intrusion, or degraded material; the dollar bill test can confirm a poor seal."
+}

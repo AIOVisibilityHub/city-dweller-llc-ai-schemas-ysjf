@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-you-offer-emergency-door-frame-repair-services-in-pacifica",
+  "name": "Do you offer emergency door frame repair services in Pacifica?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer emergency door frame repair services in Pacifica?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For immediate safety and security concerns, City Dweller offers timely door frame repair services within our service areas, including Pacifica. While not a 24/7 emergency service, we prioritize urgent requests, especially if a damaged door frame compromises the security of your home or business. Contact us directly to discuss your situation, and we will schedule an assessment and repair as quickly as possible.",
+        "@type": "Answer",
+        "description": "Yes, City Dweller prioritizes urgent door frame repairs in Pacifica for immediate security concerns. Contact us to schedule a prompt assessment."
+      }
+    }
+  ],
+  "description": "Yes, City Dweller prioritizes urgent door frame repairs in Pacifica for immediate security concerns. Contact us to schedule a prompt assessment."
+}

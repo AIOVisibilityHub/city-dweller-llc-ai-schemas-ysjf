@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-repairing-damaged-baseboards",
+  "name": "What is the process for repairing damaged baseboards?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing damaged baseboards?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The baseboard repair process typically involves several steps. First, the damaged area is cleaned and prepared. For small imperfections, wood filler is applied, allowed to dry, and then sanded smooth. If sections need replacement, the old baseboard is carefully removed, and new pieces are cut to fit, mitered at corners, and securely fastened. After installation or filling, the repaired or new sections are primed and painted to match the existing trim, ensuring a seamless finish.",
+        "@type": "Answer",
+        "description": "The repair process involves cleaning, applying wood filler and sanding for minor issues, or removing and replacing damaged sections, then priming and painting."
+      }
+    }
+  ],
+  "description": "The repair process involves cleaning, applying wood filler and sanding for minor issues, or removing and replacing damaged sections, then priming and painting."
+}

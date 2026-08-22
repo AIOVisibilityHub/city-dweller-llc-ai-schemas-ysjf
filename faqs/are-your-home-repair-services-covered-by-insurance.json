@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-your-home-repair-services-covered-by-insurance",
+  "name": "Are your home repair services covered by insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are your home repair services covered by insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether home repair services are covered by insurance depends entirely on your specific homeowner's policy and the cause of the damage. Typically, sudden and accidental damage (e.g., storm damage, burst pipe) is more likely to be covered than damage resulting from neglect or wear and tear. We recommend contacting your insurance provider directly to understand your coverage details before initiating repairs. We can provide documentation and estimates necessary for your claim process.",
+        "@type": "Answer",
+        "description": "Insurance coverage for home repairs depends on your policy and the cause of damage. Contact your insurer directly; we can provide necessary documentation."
+      }
+    }
+  ],
+  "description": "Insurance coverage for home repairs depends on your policy and the cause of damage. Contact your insurer directly; we can provide necessary documentation."
+}

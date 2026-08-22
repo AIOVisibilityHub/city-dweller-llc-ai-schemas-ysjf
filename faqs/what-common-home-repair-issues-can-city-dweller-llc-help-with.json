@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-common-home-repair-issues-can-city-dweller-llc-help-with",
+  "name": "What common home repair issues can City Dweller LLC help with?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common home repair issues can City Dweller LLC help with?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller LLC provides a wide range of general home repair services. This includes fixing leaky faucets, repairing drywall, addressing minor electrical issues like faulty outlets or switches, resolving plumbing problems such as clogged drains, and repairing damaged flooring or trim. We also handle exterior repairs like fence mending, deck maintenance, and minor roof patch-ups. Our goal is to address common household wear and tear efficiently and effectively to maintain your home's value and functionality.",
+        "@type": "Answer",
+        "description": "City Dweller LLC handles common home repairs including plumbing, electrical, drywall, flooring, and exterior maintenance."
+      }
+    }
+  ],
+  "description": "City Dweller LLC handles common home repairs including plumbing, electrical, drywall, flooring, and exterior maintenance."
+}

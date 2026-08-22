@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-materials-are-used-for-drywall-patching",
+  "name": "What kind of materials are used for drywall patching?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of materials are used for drywall patching?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials used for drywall patching include spackle for minor imperfections, joint compound (also known as mud) for filling and smoothing, fiberglass mesh tape or paper tape for reinforcing seams and patches, and actual pieces of drywall for larger cut-outs. Depending on the repair, specific patching compounds or setting-type compounds might be used for faster drying or stronger bonds. Specialized tools like trowels, taping knives, and sanding sponges are also essential for proper application and finishing.",
+        "@type": "Answer",
+        "description": "Materials include spackle, joint compound, mesh or paper tape, and new drywall pieces. Tools like trowels and sanding sponges are also used."
+      }
+    }
+  ],
+  "description": "Materials include spackle, joint compound, mesh or paper tape, and new drywall pieces. Tools like trowels and sanding sponges are also used."
+}

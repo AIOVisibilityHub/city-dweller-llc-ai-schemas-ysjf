@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-repairing-and-replacing-window-trim",
+  "name": "What is the difference between repairing and replacing window trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between repairing and replacing window trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing window trim involves fixing existing damage, such as filling cracks, sanding, painting, or replacing small, localized sections. The goal is to restore the trim's appearance and function without a complete overhaul. Replacing window trim, on the other hand, means removing the entire existing trim piece and installing a new one. Replacement is typically chosen when the damage is too extensive for repair, when upgrading materials for better durability, or during a larger window replacement project.",
+        "@type": "Answer",
+        "description": "Repairing fixes existing damage to restore appearance, while replacing involves removing and installing entirely new trim, usually for extensive damage or upgrades."
+      }
+    }
+  ],
+  "description": "Repairing fixes existing damage to restore appearance, while replacing involves removing and installing entirely new trim, usually for extensive damage or upgra"
+}

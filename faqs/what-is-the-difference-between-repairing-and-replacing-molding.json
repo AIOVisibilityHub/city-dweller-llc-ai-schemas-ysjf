@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-repairing-and-replacing-molding",
+  "name": "What is the difference between repairing and replacing molding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between repairing and replacing molding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The key difference between repairing and replacing molding lies in the extent of the damage. Repair typically involves fixing localized issues, such as filling cracks, patching chips, or addressing small sections of water damage by cutting out and replacing only the affected part. This approach preserves as much of the original molding as possible. Replacement, on the other hand, is necessary when the damage is extensive, widespread, or compromises the structural integrity of a large section or an entire run of molding. This often occurs with severe water damage, pervasive rot, or irreparable aesthetic issues. Replacement involves removing the old molding entirely and installing new material.",
+        "@type": "Answer",
+        "description": "Repair fixes localized damage while preserving original molding. Replacement is for extensive damage, requiring removal of old molding and installation of new material."
+      }
+    }
+  ],
+  "description": "Repair fixes localized damage while preserving original molding. Replacement is for extensive damage, requiring removal of old molding and installation of new m"
+}

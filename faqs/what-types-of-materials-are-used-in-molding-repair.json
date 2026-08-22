@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-materials-are-used-in-molding-repair",
+  "name": "What types of materials are used in molding repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are used in molding repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Molding repair utilizes various materials depending on the original molding type and the nature of the damage. For wood molding, common materials include wood putties, fillers, and epoxies for patching cracks, holes, and minor chips. New sections for replacement are typically made from the same wood species as the original, such as pine, oak, or MDF (Medium-Density Fiberboard). Caulk is used to seal gaps between molding and walls. For plaster molding, specialized plaster compounds are used, often reinforced with mesh for structural integrity. After repairs, primers and paints (oil-based or latex) are essential to match the existing finish seamlessly. Material selection is critical for durability and aesthetic consistency.",
+        "@type": "Answer",
+        "description": "Molding repair uses wood putties, fillers, epoxies for wood, new wood sections (pine, oak, MDF), caulk for gaps, and specialized plaster for plaster molding. Primers and paints are used for finishing."
+      }
+    }
+  ],
+  "description": "Molding repair uses wood putties, fillers, epoxies for wood, new wood sections (pine, oak, MDF), caulk for gaps, and specialized plaster for plaster molding. Pr"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-a-privacy-door-handle-and-a-keyed-entry-door-hand",
+  "name": "What is the difference between a privacy door handle and a keyed entry door handle?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a privacy door handle and a keyed entry door handle?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary difference lies in their locking mechanism and intended use. A privacy door handle typically features a push-button or turn-button lock on the interior side, designed to offer privacy for rooms like bedrooms and bathrooms. It does not provide significant security and can usually be unlocked from the exterior with a small tool in case of emergency. A keyed entry door handle, on the other hand, requires a key for locking and unlocking from the exterior, offering a higher level of security suitable for exterior doors or rooms requiring restricted access.",
+        "@type": "Answer",
+        "description": "Privacy handles offer temporary interior locking for privacy, while keyed entry handles use a key for higher security on exterior doors."
+      }
+    }
+  ],
+  "description": "Privacy handles offer temporary interior locking for privacy, while keyed entry handles use a key for higher security on exterior doors."
+}

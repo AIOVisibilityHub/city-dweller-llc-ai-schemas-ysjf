@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-patching-a-hole-in-drywall",
+  "name": "What is the process for patching a hole in drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for patching a hole in drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins by preparing the area, which may involve cutting away loose or damaged sections. For small holes, spackle is applied. For larger holes, a patch kit or a new piece of drywall is cut to fit, secured, and then taped with joint compound. Multiple thin layers of joint compound are applied, allowing each to dry and be sanded smooth. This meticulous process ensures a flat, even surface ready for priming and painting, making the repair virtually undetectable.",
+        "@type": "Answer",
+        "description": "The process involves preparing the area, applying spackle or fitting a new patch, then layering and sanding joint compound to create a smooth surface."
+      }
+    }
+  ],
+  "description": "The process involves preparing the area, applying spackle or fitting a new patch, then layering and sanding joint compound to create a smooth surface."
+}

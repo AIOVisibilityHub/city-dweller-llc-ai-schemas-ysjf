@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-drywall-cracks-to-appear",
+  "name": "What causes drywall cracks to appear?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes drywall cracks to appear?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall cracks can stem from various issues, including normal house settling, changes in temperature and humidity, or structural movement. Minor hairline cracks are often cosmetic, while larger cracks, especially those with uneven surfaces or patterns, might indicate more significant foundation or framing problems. Identifying the cause is crucial for effective and lasting repair.",
+        "@type": "Answer",
+        "description": "Drywall cracks are caused by house settling, temperature changes, humidity fluctuations, or structural movement."
+      }
+    }
+  ],
+  "description": "Drywall cracks are caused by house settling, temperature changes, humidity fluctuations, or structural movement."
+}

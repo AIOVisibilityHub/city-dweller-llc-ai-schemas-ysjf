@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-prevent-future-small-drywall-damage",
+  "name": "How do I prevent future small drywall damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prevent future small drywall damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing future small drywall damage involves a few practical steps. Be mindful when moving furniture to avoid scuffs and dents. Use appropriate anchors for hanging heavy items to prevent pull-out holes. For areas prone to moisture, ensure good ventilation to reduce the risk of water damage. Regularly inspecting your walls for minor issues can also help catch problems early before they escalate. Proper home maintenance generally contributes to the longevity of your drywall.",
+        "@type": "Answer",
+        "description": "Prevent drywall damage by careful furniture moving, using proper anchors, ensuring good ventilation, and regular wall inspections."
+      }
+    }
+  ],
+  "description": "Prevent drywall damage by careful furniture moving, using proper anchors, ensuring good ventilation, and regular wall inspections."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-door-hinge-repair-typically-take",
+  "name": "How long does a door hinge repair typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a door hinge repair typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard door hinge repairs are relatively quick, often taking between 30 minutes to an hour per door. This includes tasks like tightening screws, replacing hinge pins, or lubricating hinges. If screw holes need to be filled and redrilled, or if the entire hinge needs to be replaced due to significant damage, the job might take slightly longer, perhaps up to 1.5 to 2 hours per door. The total time also depends on the number of hinges and doors requiring attention.",
+        "@type": "Answer",
+        "description": "Standard door hinge repairs typically take 30 minutes to an hour per door; more complex issues like hinge replacement may extend up to 2 hours."
+      }
+    }
+  ],
+  "description": "Standard door hinge repairs typically take 30 minutes to an hour per door; more complex issues like hinge replacement may extend up to 2 hours."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-small-drywall-repairs-require-painting-afterwards",
+  "name": "Do small drywall repairs require painting afterwards?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do small drywall repairs require painting afterwards?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, nearly all small drywall repairs will require painting to ensure the repair is invisible and matches the surrounding wall. After the patching and sanding process is complete, the repaired area will have a different texture and color than the original wall, even if the texture is matched. Applying a primer first, followed by one or two coats of paint matched to your existing wall color, is essential for a seamless and professional finish. Without paint, the repair will remain noticeable.",
+        "@type": "Answer",
+        "description": "Yes, small drywall repairs always require painting afterward, including priming and color-matching, to ensure a seamless finish."
+      }
+    }
+  ],
+  "description": "Yes, small drywall repairs always require painting afterward, including priming and color-matching, to ensure a seamless finish."
+}

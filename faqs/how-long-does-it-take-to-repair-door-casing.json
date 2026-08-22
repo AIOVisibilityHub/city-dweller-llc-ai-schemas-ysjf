@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-repair-door-casing",
+  "name": "How long does it take to repair door casing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair door casing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to repair door casing depends on the scope and severity of the damage. Simple cosmetic repairs, like patching and repainting a small section, might only take a few hours. More extensive repairs, such as replacing a significant portion of the casing due to water damage or installing an entirely new section, could take a full day or more, especially when factoring in drying times for fillers, primers, and paint. Multiple doors or complex trim styles will also extend the timeline.",
+        "@type": "Answer",
+        "description": "Repair time varies from a few hours for minor cosmetic fixes to a full day or more for extensive damage or section replacement, including drying times."
+      }
+    }
+  ],
+  "description": "Repair time varies from a few hours for minor cosmetic fixes to a full day or more for extensive damage or section replacement, including drying times."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-common-issues-lead-to-crown-molding-repair",
+  "name": "What common issues lead to crown molding repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common issues lead to crown molding repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Crown molding can suffer from various issues requiring repair. Common problems include cracks or gaps appearing due to house settling or humidity fluctuations, which cause the wood to expand and contract. Water damage from leaks or high moisture can lead to warping, staining, or mold growth. Physical impacts, such as moving furniture, can chip, dent, or break sections. Additionally, poor installation or aging caulk and paint can result in a deteriorated appearance or detachment from the wall.",
+        "@type": "Answer",
+        "description": "Common issues include cracks, gaps, water damage, physical impacts, and deterioration from aging caulk or poor installation."
+      }
+    }
+  ],
+  "description": "Common issues include cracks, gaps, water damage, physical impacts, and deterioration from aging caulk or poor installation."
+}

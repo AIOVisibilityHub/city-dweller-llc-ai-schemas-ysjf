@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-door-repairs-do-you-handle",
+  "name": "What types of door repairs do you handle?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of door repairs do you handle?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We handle a wide range of door repairs, including issues with hinges, frames, locks, weather stripping, and general wear and tear. This covers interior, exterior, sliding, and pocket doors. Our services address problems like sticking, squeaking, air leaks, or damaged components. We aim to restore your door's functionality and security, ensuring it operates smoothly and efficiently for your home or business.",
+        "@type": "Answer",
+        "description": "We repair various door types including interior, exterior, sliding, and pocket doors, addressing issues like hinges, frames, locks, and general wear to restore functionality and security."
+      }
+    }
+  ],
+  "description": "We repair various door types including interior, exterior, sliding, and pocket doors, addressing issues like hinges, frames, locks, and general wear to restore"
+}

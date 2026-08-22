@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-maintenance-tasks-i-can-do-myself-versus-needing-a-professional",
+  "name": "What are common maintenance tasks I can do myself versus needing a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common maintenance tasks I can do myself versus needing a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many routine maintenance tasks can be handled by homeowners, such as changing air filters, cleaning gutters, testing smoke detectors, and checking for leaks under sinks. However, tasks requiring specialized tools, expertise, or involving potential safety risks, like electrical work, major plumbing repairs, roof inspections, or HVAC servicing, should be performed by licensed professionals. Understanding this distinction helps prevent accidental damage, ensures compliance with safety codes, and guarantees the work is done correctly.",
+        "@type": "Answer",
+        "description": "Homeowners can handle basic tasks like cleaning gutters or changing filters. Professional help is needed for specialized or high-risk tasks like electrical, plumbing, or HVAC servicing."
+      }
+    }
+  ],
+  "description": "Homeowners can handle basic tasks like cleaning gutters or changing filters. Professional help is needed for specialized or high-risk tasks like electrical, plu"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-my-home-s-weatherstripping",
+  "name": "When should I consider replacing my home's weatherstripping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my home's weatherstripping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing weatherstripping when it shows signs of wear and tear, such as cracking, shrinking, tearing, or becoming brittle. A simple test is to hold a lit candle or incense stick near closed doors and windows on a windy day; if the flame flickers or smoke moves, you likely have air leaks. Replacing old weatherstripping can significantly improve insulation, reduce drafts, and help maintain consistent indoor temperatures, especially in older homes.",
+        "@type": "Answer",
+        "description": "Replace weatherstripping when it's cracked, brittle, or no longer seals effectively, which you can test for with a simple draft detection method."
+      }
+    }
+  ],
+  "description": "Replace weatherstripping when it's cracked, brittle, or no longer seals effectively, which you can test for with a simple draft detection method."
+}

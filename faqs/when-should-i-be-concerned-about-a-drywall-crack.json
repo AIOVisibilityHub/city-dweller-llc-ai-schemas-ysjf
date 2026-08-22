@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-be-concerned-about-a-drywall-crack",
+  "name": "When should I be concerned about a drywall crack?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I be concerned about a drywall crack?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should be concerned about drywall cracks if they are wider than a quarter-inch, run diagonally, appear in multiple rooms, or are accompanied by other signs like sticking doors/windows or sagging floors. These could indicate structural issues requiring professional assessment, whereas small hairline cracks are usually less serious and can be repaired cosmetically.",
+        "@type": "Answer",
+        "description": "Be concerned about cracks wider than a quarter-inch, diagonal cracks, or those accompanied by structural issues like sticking doors or sagging floors."
+      }
+    }
+  ],
+  "description": "Be concerned about cracks wider than a quarter-inch, diagonal cracks, or those accompanied by structural issues like sticking doors or sagging floors."
+}

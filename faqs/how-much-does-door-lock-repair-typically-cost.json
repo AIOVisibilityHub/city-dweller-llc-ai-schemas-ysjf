@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-door-lock-repair-typically-cost",
+  "name": "How much does door lock repair typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does door lock repair typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of door lock repair varies widely depending on the type of lock, the complexity of the damage, and the parts required. Simple repairs like lubrication or minor adjustments are less expensive. More involved repairs, such as replacing a cylinder or repairing internal mechanisms, will incur higher costs. Emergency or after-hours service can also influence the total price. It is best to get an estimate after a technician assesses the specific issue with your lock.",
+        "@type": "Answer",
+        "description": "Door lock repair costs vary based on lock type, damage complexity, and parts needed. Simple repairs are less expensive; complex issues cost more."
+      }
+    }
+  ],
+  "description": "Door lock repair costs vary based on lock type, damage complexity, and parts needed. Simple repairs are less expensive; complex issues cost more."
+}

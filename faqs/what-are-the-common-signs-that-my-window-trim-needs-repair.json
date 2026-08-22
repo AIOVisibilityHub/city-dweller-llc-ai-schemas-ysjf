@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-signs-that-my-window-trim-needs-repair",
+  "name": "What are the common signs that my window trim needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that my window trim needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs indicating your window trim needs repair include visible cracks, peeling paint, soft or rotting wood when probed, and gaps between the trim and the window frame or siding. These issues can allow moisture intrusion, leading to further damage to your home's structure, potential mold growth, and decreased energy efficiency. Addressing these signs early can prevent more extensive and costly repairs.",
+        "@type": "Answer",
+        "description": "Visible cracks, peeling paint, rotting wood, or gaps around your window trim indicate a need for repair."
+      }
+    }
+  ],
+  "description": "Visible cracks, peeling paint, rotting wood, or gaps around your window trim indicate a need for repair."
+}

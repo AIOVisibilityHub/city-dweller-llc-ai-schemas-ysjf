@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-crown-molding-repair-match-my-existing-paint-and-finish",
+  "name": "Will crown molding repair match my existing paint and finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will crown molding repair match my existing paint and finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our goal is to ensure the repair seamlessly matches your existing paint and finish. After the structural repair is complete, we carefully prepare the surface, prime it, and then apply paint. We can often color-match existing paint, but for the most uniform result, especially if your current paint is older or faded, painting the entire section or even the whole room's molding might be recommended. This ensures consistency and avoids noticeable variations in color or sheen between the repaired area and the original finish.",
+        "@type": "Answer",
+        "description": "We aim to match your existing paint and finish, often through color-matching. For best uniformity, repainting the entire molding section may be recommended."
+      }
+    }
+  ],
+  "description": "We aim to match your existing paint and finish, often through color-matching. For best uniformity, repainting the entire molding section may be recommended."
+}

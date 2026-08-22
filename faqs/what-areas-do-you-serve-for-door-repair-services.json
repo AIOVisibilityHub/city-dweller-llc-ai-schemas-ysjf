@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-areas-do-you-serve-for-door-repair-services",
+  "name": "What areas do you serve for door repair services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for door repair services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC provides door repair services throughout the Bay Area, specifically focusing on Pacifica, Daly City, San Bruno, and South San Francisco. Our local presence allows us to respond promptly to your repair needs. If you are located in these cities or the immediate surrounding regions, please contact us for reliable and efficient door repair solutions for your residential or commercial property.",
+        "@type": "Answer",
+        "description": "We serve the Bay Area, including Pacifica, Daly City, San Bruno, and South San Francisco for door repair services. Contact us if you are in these cities."
+      }
+    }
+  ],
+  "description": "We serve the Bay Area, including Pacifica, Daly City, San Bruno, and South San Francisco for door repair services. Contact us if you are in these cities."
+}

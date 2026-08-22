@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-my-trim-needs-repair",
+  "name": "How do I know if my trim needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my trim needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs your trim needs repair include visible cracks, chips, dents, or splitting. Discoloration, peeling paint, or soft spots when pressed indicate potential water damage or rot. Gaps between trim pieces or between the trim and the wall can also signal issues. Regular inspections, especially in moisture-prone areas like bathrooms and around windows, help catch problems early. Addressing these signs promptly can prevent further deterioration and more costly repairs down the line.",
+        "@type": "Answer",
+        "description": "Look for cracks, chips, dents, splitting, discoloration, peeling paint, or soft spots. Gaps in trim also indicate a need for repair."
+      }
+    }
+  ],
+  "description": "Look for cracks, chips, dents, splitting, discoloration, peeling paint, or soft spots. Gaps in trim also indicate a need for repair."
+}

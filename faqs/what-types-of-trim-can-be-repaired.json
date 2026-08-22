@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-trim-can-be-repaired",
+  "name": "What types of trim can be repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of trim can be repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Trim repair services address various materials, including wood, MDF, and PVC. Common issues like rot, cracks, dents, or gaps are assessed. For wood trim, repairs often involve sanding, filling with wood putty or epoxy, and repainting. MDF and PVC trims typically require patching with appropriate fillers and matching paint. The feasibility of repair versus replacement depends on the extent of damage and the trim's structural integrity. City Dweller, LLC provides expertise in identifying the best solution for your home's trim.",
+        "@type": "Answer",
+        "description": "Trim repair covers wood, MDF, and PVC for damage like rot, cracks, or dents. Repair involves filling and repainting, with the best solution depending on damage extent."
+      }
+    }
+  ],
+  "description": "Trim repair covers wood, MDF, and PVC for damage like rot, cracks, or dents. Repair involves filling and repainting, with the best solution depending on damage"
+}

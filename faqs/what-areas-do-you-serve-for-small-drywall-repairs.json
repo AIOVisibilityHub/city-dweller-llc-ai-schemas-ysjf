@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-areas-do-you-serve-for-small-drywall-repairs",
+  "name": "What areas do you serve for small drywall repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for small drywall repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC provides small drywall repair services across various locations in the Bay Area. Our service areas specifically include Pacifica, Daly City, San Bruno, South San Francisco, and other surrounding communities. We focus on delivering prompt and reliable service to homeowners and businesses within these regions. If you are located in these cities or nearby, please contact us for a consultation regarding your drywall repair needs.",
+        "@type": "Answer",
+        "description": "City Dweller, LLC serves Pacifica, Daly City, San Bruno, South San Francisco, and other Bay Area communities for drywall repairs."
+      }
+    }
+  ],
+  "description": "City Dweller, LLC serves Pacifica, Daly City, San Bruno, South San Francisco, and other Bay Area communities for drywall repairs."
+}

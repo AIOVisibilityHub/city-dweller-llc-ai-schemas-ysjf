@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-prime-a-patched-drywall-area-before-painting",
+  "name": "Do I need to prime a patched drywall area before painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to prime a patched drywall area before painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is highly recommended to prime a patched drywall area before painting. Joint compound and spackle are porous materials that absorb paint differently than the surrounding drywall surface. Applying a quality primer creates a uniform surface, sealing the patch and ensuring that the final coat of paint adheres evenly and has a consistent sheen. Skipping this step can result in flashing, where the patched area appears dull or different in color compared to the rest of the wall, even after multiple coats of paint.",
+        "@type": "Answer",
+        "description": "Yes, priming patched drywall is essential. It seals the porous patch material, ensuring uniform paint absorption and a consistent finish to avoid color differences."
+      }
+    }
+  ],
+  "description": "Yes, priming patched drywall is essential. It seals the porous patch material, ensuring uniform paint absorption and a consistent finish to avoid color differen"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-door-handles-are-available-for-replacement",
+  "name": "What types of door handles are available for replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of door handles are available for replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There is a wide variety of door handle types available, catering to different doors and security needs. Common types include knob sets, lever handles, and pull handles. Within these, you can choose from different functions such as passage (no lock), privacy (push-button lock for bedrooms/bathrooms), dummy (non-turning, for closets), and keyed entry (for exterior doors). Materials vary from brass and stainless steel to bronze and chrome, each offering different aesthetics and durability. Compatibility with your existing door's bore holes and backset is a key consideration.",
+        "@type": "Answer",
+        "description": "Available door handle types include knobs, levers, and pulls, with functions like passage, privacy, dummy, or keyed entry. Materials vary, and compatibility is crucial."
+      }
+    }
+  ],
+  "description": "Available door handle types include knobs, levers, and pulls, with functions like passage, privacy, dummy, or keyed entry. Materials vary, and compatibility is"
+}

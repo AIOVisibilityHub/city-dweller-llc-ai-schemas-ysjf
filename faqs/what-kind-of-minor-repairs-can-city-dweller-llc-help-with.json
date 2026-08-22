@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-minor-repairs-can-city-dweller-llc-help-with",
+  "name": "What kind of minor repairs can City Dweller, LLC help with?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of minor repairs can City Dweller, LLC help with?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC provides a range of minor home repair services. This includes patching and repairing drywall, fixing leaky faucets and toilets, repairing or replacing light fixtures, installing shelves, repairing damaged trim or baseboards, addressing minor wood rot, and correcting squeaky floors. We focus on efficiently resolving common household issues to maintain your home's functionality and appearance, preventing them from escalating into larger, more expensive problems.",
+        "@type": "Answer",
+        "description": "City Dweller, LLC handles drywall patching, leaky faucets, light fixture repair, shelf installation, trim repair, and other common household fixes."
+      }
+    }
+  ],
+  "description": "City Dweller, LLC handles drywall patching, leaky faucets, light fixture repair, shelf installation, trim repair, and other common household fixes."
+}

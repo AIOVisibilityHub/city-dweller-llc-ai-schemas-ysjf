@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-a-small-drywall-repair-cost-in-the-bay-area",
+  "name": "How much does a small drywall repair cost in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a small drywall repair cost in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a small drywall repair in the Bay Area varies depending on the type and extent of damage, as well as the complexity of the finish required. Factors include the size of the hole or crack, whether texture matching is needed, and the time involved. For an accurate estimate, it's best to contact a local contractor like City Dweller, LLC, for a free assessment, as prices can range from a few hundred dollars for very minor fixes to higher for more intricate work.",
+        "@type": "Answer",
+        "description": "Costs for small drywall repairs in the Bay Area vary by damage type and finish. Contact City Dweller, LLC for a free estimate."
+      }
+    }
+  ],
+  "description": "Costs for small drywall repairs in the Bay Area vary by damage type and finish. Contact City Dweller, LLC for a free estimate."
+}

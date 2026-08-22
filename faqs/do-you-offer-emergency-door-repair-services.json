@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-you-offer-emergency-door-repair-services",
+  "name": "Do you offer emergency door repair services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer emergency door repair services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For urgent situations like break-ins or significant damage that compromises your property's security, we strive to provide prompt assistance. While we don't operate a 24/7 emergency service, we prioritize urgent requests to secure your property as quickly as possible. Please contact us immediately to discuss your specific emergency repair needs, and we will do our best to dispatch a technician.",
+        "@type": "Answer",
+        "description": "We prioritize urgent requests like break-ins or significant security-compromising damage, but we do not offer 24/7 emergency service. Contact us immediately for urgent needs."
+      }
+    }
+  ],
+  "description": "We prioritize urgent requests like break-ins or significant security-compromising damage, but we do not offer 24/7 emergency service. Contact us immediately for"
+}

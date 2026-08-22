@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-often-should-landlords-perform-property-inspections",
+  "name": "How often should landlords perform property inspections?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should landlords perform property inspections?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Landlords should generally perform property inspections at several key times: before a new tenant moves in, after a tenant moves out, and periodically during the tenancy. Annual or semi-annual inspections are common for occupied properties to identify potential maintenance needs early and ensure lease compliance. More frequent checks might be beneficial for newer properties or those with specific concerns. Local regulations regarding tenant privacy and notice periods for entry must always be followed.",
+        "@type": "Answer",
+        "description": "Landlords should inspect before a new tenant moves in, after move-out, and periodically during tenancy, typically annually or semi-annually. Always follow local entry notice regulations."
+      }
+    }
+  ],
+  "description": "Landlords should inspect before a new tenant moves in, after move-out, and periodically during tenancy, typically annually or semi-annually. Always follow local"
+}

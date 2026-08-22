@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-common-door-frame-damage",
+  "name": "What causes common door frame damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes common door frame damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Door frames can be damaged by various factors including wear and tear from frequent use, impacts from moving furniture, and severe weather such as prolonged moisture exposure leading to rot. Termite infestations or other pests can also compromise the structural integrity of a wooden frame. Additionally, issues with the house foundation can cause shifts that lead to door frame misalignment or cracking.",
+        "@type": "Answer",
+        "description": "Common causes include wear and tear, impacts, weather-related moisture or rot, pest infestations, and foundation shifts."
+      }
+    }
+  ],
+  "description": "Common causes include wear and tear, impacts, weather-related moisture or rot, pest infestations, and foundation shifts."
+}

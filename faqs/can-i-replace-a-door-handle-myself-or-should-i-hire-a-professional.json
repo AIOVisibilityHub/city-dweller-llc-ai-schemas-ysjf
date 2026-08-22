@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-replace-a-door-handle-myself-or-should-i-hire-a-professional",
+  "name": "Can I replace a door handle myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace a door handle myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While many door handle replacements can be a DIY project for those with basic tools and some mechanical aptitude, hiring a professional offers several advantages. Professionals ensure correct installation, proper alignment, and optimal functionality, preventing issues like sticky latches or security vulnerabilities. For complex installations, specialty door types, or if you're uncomfortable with home improvement tasks, a professional contractor like City Dweller, LLC can provide efficient and reliable service, guaranteeing the job is done right.",
+        "@type": "Answer",
+        "description": "DIY replacement is possible for basic handles. Professionals ensure correct installation, functionality, and security, especially for complex jobs."
+      }
+    }
+  ],
+  "description": "DIY replacement is possible for basic handles. Professionals ensure correct installation, functionality, and security, especially for complex jobs."
+}

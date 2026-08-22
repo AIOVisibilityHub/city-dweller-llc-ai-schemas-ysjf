@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-qualifications-do-your-technicians-have-for-door-latch-repair",
+  "name": "What qualifications do your technicians have for door latch repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What qualifications do your technicians have for door latch repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our technicians at City Dweller, LLC are skilled professionals with extensive experience in door hardware installation and repair. They undergo regular training to stay current with industry best practices and new product technologies. We are licensed and insured, ensuring that all work is performed safely, effectively, and to the highest standards.",
+        "@type": "Answer",
+        "description": "Our technicians are skilled, experienced, licensed, and insured professionals who receive regular training."
+      }
+    }
+  ],
+  "description": "Our technicians are skilled, experienced, licensed, and insured professionals who receive regular training."
+}

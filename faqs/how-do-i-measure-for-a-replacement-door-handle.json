@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-measure-for-a-replacement-door-handle",
+  "name": "How do I measure for a replacement door handle?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I measure for a replacement door handle?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Accurate measurements are crucial for a successful door handle replacement. You'll need to measure the backset (distance from the door's edge to the center of the bore hole), the bore hole diameter (the main hole where the handle fits), and the door thickness. For a deadbolt, you'll also measure the spacing between the deadbolt and handle bore holes. These measurements ensure the new handle will fit properly without requiring extensive door modification.",
+        "@type": "Answer",
+        "description": "Measure the backset (door edge to bore hole center), bore hole diameter, and door thickness. These ensure proper fit without modification."
+      }
+    }
+  ],
+  "description": "Measure the backset (door edge to bore hole center), bore hole diameter, and door thickness. These ensure proper fit without modification."
+}

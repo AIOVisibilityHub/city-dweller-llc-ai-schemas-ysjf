@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-common-home-maintenance-tasks-should-i-perform-annually",
+  "name": "What common home maintenance tasks should I perform annually?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common home maintenance tasks should I perform annually?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Annual home maintenance is crucial for preventing costly repairs and extending your home's lifespan. Key tasks include checking and cleaning gutters and downspouts, inspecting your roof for damaged or missing shingles, testing smoke and carbon monoxide detectors, servicing your HVAC system, and examining exterior paint and caulking for wear. Additionally, it's wise to inspect for pest infestations, clean dryer vents, and check water heaters for sediment buildup. Regular attention to these areas can identify potential issues before they become major problems.",
+        "@type": "Answer",
+        "description": "Annually, check gutters, roof, HVAC, detectors, exterior paint, and pest control to prevent costly repairs and extend home life."
+      }
+    }
+  ],
+  "description": "Annually, check gutters, roof, HVAC, detectors, exterior paint, and pest control to prevent costly repairs and extend home life."
+}
