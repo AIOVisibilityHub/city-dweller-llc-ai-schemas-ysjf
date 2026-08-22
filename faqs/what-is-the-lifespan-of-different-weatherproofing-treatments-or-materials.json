@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-lifespan-of-different-weatherproofing-treatments-or-materials",
+  "name": "What is the lifespan of different weatherproofing treatments or materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the lifespan of different weatherproofing treatments or materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of weatherproofing varies significantly by material and climate. High-quality paints and stains on wood siding can last 5-10 years, while fiber cement siding itself can last 30-50 years with minimal maintenance. Vinyl siding typically has a lifespan of 20-40 years. Sealants and caulking usually need re-application every 5-10 years, depending on exposure. Regular inspections help identify when these treatments are nearing the end of their effective life.",
+        "@type": "Answer",
+        "description": "Lifespan varies: paints/stains on wood last 5-10 years, fiber cement 30-50 years, and vinyl 20-40 years. Sealants typically need re-application every 5-10 years."
+      }
+    }
+  ],
+  "description": "Lifespan varies: paints/stains on wood last 5-10 years, fiber cement 30-50 years, and vinyl 20-40 years. Sealants typically need re-application every 5-10 years"
+}

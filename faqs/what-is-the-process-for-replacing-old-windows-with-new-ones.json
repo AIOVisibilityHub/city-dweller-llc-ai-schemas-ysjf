@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-replacing-old-windows-with-new-ones",
+  "name": "What is the process for replacing old windows with new ones?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing old windows with new ones?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The window replacement process typically begins with an initial consultation and measurement of your existing windows. We then help you select new windows that fit your aesthetic and functional requirements. After ordering, the installation involves carefully removing the old windows, preparing the openings, installing the new units, and sealing them properly for energy efficiency. Finally, trim work and cleanup complete the project. We aim for minimal disruption to your home during this process.",
+        "@type": "Answer",
+        "description": "The process includes consultation, window selection, measurement, removal of old windows, installation of new ones, and finishing work."
+      }
+    }
+  ],
+  "description": "The process includes consultation, window selection, measurement, removal of old windows, installation of new ones, and finishing work."
+}

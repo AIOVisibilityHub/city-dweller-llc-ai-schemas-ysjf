@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-get-my-windows-inspected",
+  "name": "When should I get my windows inspected?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get my windows inspected?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is advisable to get your windows inspected if you notice signs of damage, such as drafts, condensation between panes, difficulty operating them, or visible frame deterioration. Regular inspections are also recommended before selling your home to address potential issues, after a significant weather event, or if your home is more than 10-15 years old. Proactive inspections can help identify minor problems before they become costly repairs.",
+        "@type": "Answer",
+        "description": "Get windows inspected if you notice damage, drafts, or operational issues, before selling your home, after severe weather, or if your home is older than 10-15 years."
+      }
+    }
+  ],
+  "description": "Get windows inspected if you notice damage, drafts, or operational issues, before selling your home, after severe weather, or if your home is older than 10-15 y"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-use-an-exterior-primer-on-interior-siding-or-vice-versa",
+  "name": "Can I use an exterior primer on interior siding, or vice versa?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I use an exterior primer on interior siding, or vice versa?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally not recommended to interchange exterior and interior primers. Exterior primers are formulated to withstand harsh weather conditions, UV exposure, and temperature fluctuations. They contain additives for durability, mildew resistance, and better adhesion to exterior surfaces. Interior primers, while excellent for indoor applications, lack these robust protective qualities. Using an interior primer outside would compromise the paint system's longevity and performance. Conversely, exterior primers might be overkill or contain stronger VOCs than needed for indoor use.",
+        "@type": "Answer",
+        "description": "No, exterior and interior primers have different formulations for their respective environments; using them interchangeably is not recommended."
+      }
+    }
+  ],
+  "description": "No, exterior and interior primers have different formulations for their respective environments; using them interchangeably is not recommended."
+}

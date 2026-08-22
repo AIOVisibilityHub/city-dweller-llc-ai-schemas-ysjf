@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-upgrading-my-home-s-exterior-moisture-protection",
+  "name": "When should I consider upgrading my home's exterior moisture protection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider upgrading my home's exterior moisture protection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider upgrading if you notice any signs of water intrusion, such as leaks, water stains, mold, or damaged building materials. It's also wise to assess your moisture protection during exterior renovations, before repainting, or when replacing siding or windows. Even without visible issues, homes over 20-30 years old often benefit from an updated moisture barrier system due to material degradation over time and advancements in building codes and technologies.",
+        "@type": "Answer",
+        "description": "Consider upgrading if you see leaks, stains, or mold, during renovations, or if your home is older than 20-30 years."
+      }
+    }
+  ],
+  "description": "Consider upgrading if you see leaks, stains, or mold, during renovations, or if your home is older than 20-30 years."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-a-roof-leak-and-exterior-wall-water-intrusion",
+  "name": "What is the difference between a roof leak and exterior wall water intrusion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a roof leak and exterior wall water intrusion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While both involve water entering your home, a roof leak specifically originates from the roof system, including shingles, flashing, or penetrations like vents and chimneys. Exterior wall water intrusion refers to water entering through walls, typically due to issues with siding, windows, doors, or foundation cracks. Both require different diagnostic approaches and repair methods, though sometimes wall intrusion can be a secondary effect of a roof issue.",
+        "@type": "Answer",
+        "description": "A roof leak originates from the roof system, while exterior wall intrusion comes through walls, windows, or foundation. They require different repair methods."
+      }
+    }
+  ],
+  "description": "A roof leak originates from the roof system, while exterior wall intrusion comes through walls, windows, or foundation. They require different repair methods."
+}

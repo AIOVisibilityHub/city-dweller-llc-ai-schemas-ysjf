@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-often-should-i-clean-my-exterior-siding",
+  "name": "How often should I clean my exterior siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I clean my exterior siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular cleaning is crucial for maintaining your siding's appearance and longevity. Generally, it's recommended to clean your exterior siding annually. However, factors like local environmental conditions (e.g., proximity to coastal areas like Pacifica, which can have salt spray, or areas with high pollen) and the type of siding material can influence this frequency. For instance, vinyl siding might require less frequent intense cleaning than wood siding. Annual cleaning helps prevent mildew, mold, and dirt buildup, which can cause deterioration over time.",
+        "@type": "Answer",
+        "description": "Most exterior siding should be cleaned annually to prevent dirt and mold buildup. Environmental factors and siding material can influence this frequency."
+      }
+    }
+  ],
+  "description": "Most exterior siding should be cleaned annually to prevent dirt and mold buildup. Environmental factors and siding material can influence this frequency."
+}

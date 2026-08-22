@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-change-my-siding-color-without-replacing-the-siding",
+  "name": "Can I change my siding color without replacing the siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I change my siding color without replacing the siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in many cases, you can change your siding color without needing to replace the entire siding. The most common method is painting or staining the existing siding. This is a cost-effective solution for refreshing your home's exterior, provided the siding itself is in good structural condition and not severely damaged, cracked, or warped. If the siding has extensive damage, replacement might be the more durable and long-lasting solution.",
+        "@type": "Answer",
+        "description": "Yes, you can often change siding color by painting or staining existing siding, assuming it's in good structural condition."
+      }
+    }
+  ],
+  "description": "Yes, you can often change siding color by painting or staining existing siding, assuming it's in good structural condition."
+}

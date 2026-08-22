@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-risks-of-delaying-water-intrusion-repairs",
+  "name": "What are the risks of delaying water intrusion repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the risks of delaying water intrusion repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Delaying water intrusion repairs can lead to significant and escalating problems. These include structural damage to your home's framing, subflooring, and foundation, which compromises safety and integrity. Mold and mildew growth pose health risks and can spread rapidly. Increased repair costs, decreased property value, and damage to interior finishes like drywall and flooring are also common consequences. Prompt repair saves money and prevents further deterioration.",
+        "@type": "Answer",
+        "description": "Delaying repairs can cause structural damage, mold growth, higher repair costs, and decreased property value. Prompt action prevents escalating issues."
+      }
+    }
+  ],
+  "description": "Delaying repairs can cause structural damage, mold growth, higher repair costs, and decreased property value. Prompt action prevents escalating issues."
+}

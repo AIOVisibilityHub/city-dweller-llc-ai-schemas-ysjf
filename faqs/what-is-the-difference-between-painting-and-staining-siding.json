@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-painting-and-staining-siding",
+  "name": "What is the difference between painting and staining siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between painting and staining siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Painting involves applying a solid, opaque layer of color that sits on top of the siding material, completely covering its original appearance. Staining, on the other hand, penetrates the wood fibers and adds color while allowing some of the natural grain and texture to show through. Stains are typically used on wood siding and offer a more natural look. Paints tend to provide more protection against weathering but can chip or peel, while stains wear away more gradually.",
+        "@type": "Answer",
+        "description": "Paint forms an opaque layer, covering the siding. Stain penetrates wood, adding color while showing grain. Paint offers more protection, stains wear gradually."
+      }
+    }
+  ],
+  "description": "Paint forms an opaque layer, covering the siding. Stain penetrates wood, adding color while showing grain. Paint offers more protection, stains wear gradually."
+}

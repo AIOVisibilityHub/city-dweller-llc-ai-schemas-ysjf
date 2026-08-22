@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-siding-materials-are-best-suited-for-areas-around-doors",
+  "name": "What siding materials are best suited for areas around doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What siding materials are best suited for areas around doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Durable and moisture-resistant materials are best for areas around doors. Fiber cement siding is an excellent choice due to its resistance to rot, pests, and fire. Vinyl siding is also popular for its low maintenance and moisture resistance. Wood siding, while aesthetic, requires more regular maintenance and sealing to prevent water damage. The best material often depends on your home's existing siding and local climate considerations.",
+        "@type": "Answer",
+        "description": "Fiber cement and vinyl siding are excellent choices due to their durability and moisture resistance. Wood siding requires more maintenance in these areas."
+      }
+    }
+  ],
+  "description": "Fiber cement and vinyl siding are excellent choices due to their durability and moisture resistance. Wood siding requires more maintenance in these areas."
+}

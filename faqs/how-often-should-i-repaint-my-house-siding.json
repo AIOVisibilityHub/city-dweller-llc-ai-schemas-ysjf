@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-often-should-i-repaint-my-house-siding",
+  "name": "How often should I repaint my house siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I repaint my house siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The frequency of repainting your house siding depends on several factors, including the type of siding, the quality of the previous paint job, and local weather conditions. Generally, most homes benefit from repainting every 5-10 years. Wood siding might require more frequent attention, while fiber cement or aluminum siding can last longer. In the Bay Area, where homes are exposed to coastal weather, regular inspection is key to determining when the paint starts to show signs of wear, fading, or peeling.",
+        "@type": "Answer",
+        "description": "Repainting frequency depends on siding type, previous paint quality, and weather, typically every 5-10 years. Coastal areas like the Bay Area may require more frequent checks."
+      }
+    }
+  ],
+  "description": "Repainting frequency depends on siding type, previous paint quality, and weather, typically every 5-10 years. Coastal areas like the Bay Area may require more f"
+}

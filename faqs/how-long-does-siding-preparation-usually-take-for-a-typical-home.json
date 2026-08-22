@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-siding-preparation-usually-take-for-a-typical-home",
+  "name": "How long does siding preparation usually take for a typical home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does siding preparation usually take for a typical home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of siding preparation varies significantly based on the size of the home, the condition of the existing structure, and the extent of any necessary repairs. For an average-sized home with minimal issues, preparation might take a few days. However, if extensive rot, structural damage, or lead paint abatement is required, the process could extend to a week or more. A thorough initial inspection allows contractors to provide a more accurate timeline.",
+        "@type": "Answer",
+        "description": "Siding preparation time varies, typically taking a few days to over a week, depending on home size and repair needs."
+      }
+    }
+  ],
+  "description": "Siding preparation time varies, typically taking a few days to over a week, depending on home size and repair needs."
+}

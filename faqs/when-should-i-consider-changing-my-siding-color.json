@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-changing-my-siding-color",
+  "name": "When should I consider changing my siding color?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider changing my siding color?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider changing your siding color if your current paint is fading, peeling, or chalking, indicating it's past its prime. A color change can also refresh your home's aesthetic, improve curb appeal for resale, or better align with your personal style. If you're undertaking other exterior renovations, it's an opportune time to coordinate a new siding color. Also, a new color can sometimes better reflect sunlight and improve energy efficiency, depending on the shade.",
+        "@type": "Answer",
+        "description": "Consider changing your siding color when current paint is failing, you want to refresh curb appeal, or coordinate with other renovations. It can also improve energy efficiency."
+      }
+    }
+  ],
+  "description": "Consider changing your siding color when current paint is failing, you want to refresh curb appeal, or coordinate with other renovations. It can also improve en"
+}

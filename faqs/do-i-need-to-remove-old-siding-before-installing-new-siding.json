@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-remove-old-siding-before-installing-new-siding",
+  "name": "Do I need to remove old siding before installing new siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to remove old siding before installing new siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most cases, it is highly recommended to remove old siding before installing new siding. This allows contractors to inspect the underlying sheathing for damage, rot, or mold that could compromise the new installation. Applying new siding over old can trap moisture, lead to an uneven finish, and may violate local building codes. While layering is sometimes technically possible with certain materials, it's generally not the best practice for long-term durability and proper moisture management.",
+        "@type": "Answer",
+        "description": "It's usually recommended to remove old siding to inspect for damage, prevent moisture issues, and ensure proper installation."
+      }
+    }
+  ],
+  "description": "It's usually recommended to remove old siding to inspect for damage, prevent moisture issues, and ensure proper installation."
+}

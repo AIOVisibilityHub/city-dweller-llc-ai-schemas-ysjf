@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-prevent-future-siding-damage-around-my-doors",
+  "name": "How can I prevent future siding damage around my doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future siding damage around my doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing future siding damage around doors involves routine maintenance and ensuring proper water management. Regularly inspect caulk and sealants around door frames and reapply as needed to prevent water intrusion. Ensure gutters and downspouts are clear and direct water away from the foundation. Trim back overgrown shrubs and trees that can trap moisture against the siding. Periodically clean siding to remove dirt and mildew, and promptly address any small cracks or gaps before they worsen.",
+        "@type": "Answer",
+        "description": "Prevent damage by regularly inspecting and reapplying caulk, ensuring proper gutter drainage, trimming foliage, cleaning siding, and promptly addressing small cracks."
+      }
+    }
+  ],
+  "description": "Prevent damage by regularly inspecting and reapplying caulk, ensuring proper gutter drainage, trimming foliage, cleaning siding, and promptly addressing small c"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-paint-vinyl-siding-a-new-color",
+  "name": "Can I paint vinyl siding a new color?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I paint vinyl siding a new color?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, vinyl siding can be painted, but it requires specific preparation and the right type of paint. The surface must be thoroughly cleaned, and any loose caulk or mildew removed. It's crucial to use 100% acrylic latex paint designed for exterior use, often with a primer. When choosing a color, lighter shades are generally recommended to prevent excessive heat absorption, which can lead to warping of the vinyl. Darker colors absorb more heat, which can damage the material.",
+        "@type": "Answer",
+        "description": "Yes, vinyl siding can be painted using specific acrylic latex paints and proper preparation. Lighter colors are recommended to prevent warping from heat absorption."
+      }
+    }
+  ],
+  "description": "Yes, vinyl siding can be painted using specific acrylic latex paints and proper preparation. Lighter colors are recommended to prevent warping from heat absorpt"
+}

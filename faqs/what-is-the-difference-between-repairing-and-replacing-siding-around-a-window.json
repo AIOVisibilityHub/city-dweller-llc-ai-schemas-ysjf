@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-repairing-and-replacing-siding-around-a-window",
+  "name": "What is the difference between repairing and replacing siding around a window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between repairing and replacing siding around a window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing siding around a window typically involves addressing localized damage by patching, replacing specific damaged sections, or reinforcing existing material. This is suitable when the damage is limited and the majority of the siding is still in good condition. Replacing, on the other hand, means removing and installing new siding for an entire section or wall. Replacement is often necessary when damage is widespread, materials are significantly deteriorated, or you're upgrading to a different type of siding. We recommend the most cost-effective and durable solution for your specific situation.",
+        "@type": "Answer",
+        "description": "Repairing addresses localized damage, while replacing involves installing new siding for larger sections due to widespread deterioration or upgrades."
+      }
+    }
+  ],
+  "description": "Repairing addresses localized damage, while replacing involves installing new siding for larger sections due to widespread deterioration or upgrades."
+}

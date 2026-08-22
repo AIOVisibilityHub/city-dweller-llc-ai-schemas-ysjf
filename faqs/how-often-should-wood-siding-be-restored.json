@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-often-should-wood-siding-be-restored",
+  "name": "How often should wood siding be restored?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should wood siding be restored?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The frequency of wood siding restoration depends on several factors, including the type of wood, the climate, the quality of the original finish, and exposure to sun and moisture. Generally, wood siding should be inspected annually and typically requires restoration every 3 to 7 years. In coastal areas like Pacifica or Half Moon Bay, where salt air and fog are prevalent, more frequent restoration may be necessary to maintain optimal protection.",
+        "@type": "Answer",
+        "description": "Wood siding typically requires restoration every 3 to 7 years, depending on wood type, climate, and exposure to elements."
+      }
+    }
+  ],
+  "description": "Wood siding typically requires restoration every 3 to 7 years, depending on wood type, climate, and exposure to elements."
+}

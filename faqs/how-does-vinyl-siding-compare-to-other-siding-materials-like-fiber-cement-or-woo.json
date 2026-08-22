@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-does-vinyl-siding-compare-to-other-siding-materials-like-fiber-cement-or-woo",
+  "name": "How does vinyl siding compare to other siding materials like fiber cement or wood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does vinyl siding compare to other siding materials like fiber cement or wood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Vinyl siding offers low maintenance, durability, and a wide range of colors, often at a lower initial cost than fiber cement or wood. Fiber cement is highly durable, fire-resistant, and can mimic wood, but it's heavier and typically more expensive to install. Wood siding provides a classic aesthetic but requires more frequent maintenance, such as painting or staining, and is susceptible to rot and pests.",
+        "@type": "Answer",
+        "description": "Vinyl is low-maintenance and cost-effective. Fiber cement is durable and fire-resistant. Wood offers a classic look but requires more maintenance."
+      }
+    }
+  ],
+  "description": "Vinyl is low-maintenance and cost-effective. Fiber cement is durable and fire-resistant. Wood offers a classic look but requires more maintenance."
+}

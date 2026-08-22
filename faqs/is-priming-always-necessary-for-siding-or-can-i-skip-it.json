@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/is-priming-always-necessary-for-siding-or-can-i-skip-it",
+  "name": "Is priming always necessary for siding, or can I skip it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is priming always necessary for siding, or can I skip it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether priming is necessary depends on the condition and type of your siding. New, bare, or unpainted siding, especially wood or fiber cement, almost always requires priming to ensure proper paint adhesion and protection. If the existing paint is in good condition, clean, and compatible with the new paint, and you're using a paint-and-primer-in-one product, you might be able to skip a separate primer coat. However, if there are bare spots, stains, significant fading, or a drastic color change, priming is highly recommended for best results and paint longevity.",
+        "@type": "Answer",
+        "description": "Priming is usually necessary for new, bare, or heavily worn siding. You might skip it if existing paint is sound and you use a 'paint-and-primer-in-one' product."
+      }
+    }
+  ],
+  "description": "Priming is usually necessary for new, bare, or heavily worn siding. You might skip it if existing paint is sound and you use a 'paint-and-primer-in-one' product"
+}

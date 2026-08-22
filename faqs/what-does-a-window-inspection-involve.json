@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-does-a-window-inspection-involve",
+  "name": "What does a window inspection involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a window inspection involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A comprehensive window inspection assesses the condition of all window components. This includes checking the glass for cracks or fogs, examining frames for rot, decay, or damage, and inspecting seals for drafts or leaks. Inspectors also evaluate hardware like latches, hinges, and balances for proper function, and confirm correct installation to ensure energy efficiency and structural integrity. The goal is to identify issues that could impact comfort, security, or utility costs.",
+        "@type": "Answer",
+        "description": "A window inspection assesses glass, frames, seals, hardware, and installation to identify damage, drafts, or operational issues."
+      }
+    }
+  ],
+  "description": "A window inspection assesses glass, frames, seals, hardware, and installation to identify damage, drafts, or operational issues."
+}

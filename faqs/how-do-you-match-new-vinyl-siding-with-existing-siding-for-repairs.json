@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-you-match-new-vinyl-siding-with-existing-siding-for-repairs",
+  "name": "How do you match new vinyl siding with existing siding for repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you match new vinyl siding with existing siding for repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Matching new vinyl siding for repairs involves several factors. We first try to identify the original manufacturer and color code, if available. Sometimes, a sample of the existing siding can be taken to find the closest match in color, texture, and profile. Due to weathering, new siding may appear slightly different initially, but over time, it typically blends in. For older siding where an exact match is impossible, we discuss options like replacing a larger section or strategically placing new panels to minimize visual disparity, aiming for the most cohesive outcome.",
+        "@type": "Answer",
+        "description": "We aim to match new siding by identifying the original manufacturer and color code or using samples. We discuss options if an exact match is difficult due to weathering."
+      }
+    }
+  ],
+  "description": "We aim to match new siding by identifying the original manufacturer and color code or using samples. We discuss options if an exact match is difficult due to we"
+}

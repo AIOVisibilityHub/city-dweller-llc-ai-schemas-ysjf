@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-do-some-of-the-siding-preparation-myself-to-save-money",
+  "name": "Can I do some of the siding preparation myself to save money?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I do some of the siding preparation myself to save money?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While some homeowners might consider undertaking parts of siding preparation, it's generally recommended to leave it to experienced professionals. Tasks like old siding removal can be done, but identifying and properly addressing underlying structural damage, moisture issues, or lead paint requires specialized knowledge and tools. Improper preparation can lead to significant problems later. Discuss with your contractor if there are any small, safe tasks you can realistically handle without compromising the project's integrity.",
+        "@type": "Answer",
+        "description": "DIY siding preparation is risky; professional expertise is crucial for identifying and addressing underlying issues correctly."
+      }
+    }
+  ],
+  "description": "DIY siding preparation is risky; professional expertise is crucial for identifying and addressing underlying issues correctly."
+}

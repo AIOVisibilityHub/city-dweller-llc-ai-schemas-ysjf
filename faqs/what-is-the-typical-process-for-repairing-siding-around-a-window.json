@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-repairing-siding-around-a-window",
+  "name": "What is the typical process for repairing siding around a window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for repairing siding around a window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically begins with an inspection to assess the extent of the damage. Damaged siding and trim are carefully removed, often extending beyond the immediate visible problem area to ensure all compromised material is replaced. Any underlying water damage to the sheathing or framing is addressed. New flashing and house wrap are installed to create a proper moisture barrier, followed by the installation of new siding pieces that match the existing material as closely as possible. Finally, the area is sealed and painted, if necessary, to blend seamlessly with your home's exterior.",
+        "@type": "Answer",
+        "description": "The process involves inspection, removal of damaged materials, repairing underlying issues, installing new flashing and siding, then sealing and finishing."
+      }
+    }
+  ],
+  "description": "The process involves inspection, removal of damaged materials, repairing underlying issues, installing new flashing and siding, then sealing and finishing."
+}

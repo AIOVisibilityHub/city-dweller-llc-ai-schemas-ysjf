@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-install-new-vinyl-siding-over-my-existing-siding",
+  "name": "Can I install new vinyl siding over my existing siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install new vinyl siding over my existing siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing new vinyl siding over existing siding is sometimes possible, typically if the current siding is in good condition, flat, and securely attached. This approach can potentially save on removal costs and add an extra layer of insulation. However, it's crucial to assess the existing structure for any damage or unevenness first, as covering up issues could lead to bigger problems later.",
+        "@type": "Answer",
+        "description": "Yes, if existing siding is sound and flat. It can save costs and add insulation, but inspect for underlying issues first."
+      }
+    }
+  ],
+  "description": "Yes, if existing siding is sound and flat. It can save costs and add insulation, but inspect for underlying issues first."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-siding-stripping-and-why-is-it-necessary",
+  "name": "What is siding stripping and why is it necessary?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is siding stripping and why is it necessary?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Siding stripping involves removing old or damaged siding from a building's exterior. This process is often necessary before installing new siding to ensure a smooth, stable surface for the fresh material. Stripping helps identify and address any underlying issues like water damage, rot, or structural problems that could compromise new siding. It also prevents unevenness or premature failure of the new installation, contributing to better insulation, curb appeal, and longevity of your home's exterior.",
+        "@type": "Answer",
+        "description": "Siding stripping is the removal of old siding, essential for preparing a stable surface before new siding installation and addressing underlying issues like rot or water damage."
+      }
+    }
+  ],
+  "description": "Siding stripping is the removal of old siding, essential for preparing a stable surface before new siding installation and addressing underlying issues like rot"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/why-is-it-important-to-properly-seal-siding-around-doors",
+  "name": "Why is it important to properly seal siding around doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is it important to properly seal siding around doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Properly sealing siding around doors is crucial for preventing water intrusion, which can lead to costly damage like rot, mold growth, and compromised structural integrity. A good seal also improves your home's energy efficiency by reducing drafts and air leaks, contributing to a more comfortable indoor environment and lower utility bills. This protective barrier helps maintain the longevity of both your siding and door frames.",
+        "@type": "Answer",
+        "description": "Properly sealing siding around doors prevents water damage, mold, and improves energy efficiency by stopping drafts and air leaks."
+      }
+    }
+  ],
+  "description": "Properly sealing siding around doors prevents water damage, mold, and improves energy efficiency by stopping drafts and air leaks."
+}

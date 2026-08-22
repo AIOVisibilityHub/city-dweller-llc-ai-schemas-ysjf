@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-wood-siding-are-common-in-the-bay-area-for-repairs",
+  "name": "What types of wood siding are common in the Bay Area for repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of wood siding are common in the Bay Area for repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the Bay Area, common types of wood siding that often require repair or replacement include redwood, cedar, and occasionally fir. Redwood is prized for its natural resistance to rot and insects, making it a popular choice. Cedar also offers good durability and dimensional stability. When repairing, matching the existing wood type is often preferred for consistency in appearance and performance, though alternative materials can sometimes be considered depending on the project scope.",
+        "@type": "Answer",
+        "description": "Redwood, cedar, and fir are common wood siding types in the Bay Area. Matching the existing type is often preferred for repairs."
+      }
+    }
+  ],
+  "description": "Redwood, cedar, and fir are common wood siding types in the Bay Area. Matching the existing type is often preferred for repairs."
+}

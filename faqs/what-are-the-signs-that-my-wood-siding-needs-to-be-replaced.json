@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-signs-that-my-wood-siding-needs-to-be-replaced",
+  "name": "What are the signs that my wood siding needs to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my wood siding needs to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common indicators include rot, extensive cracking or warping, persistent mold or mildew growth, and frequent peeling paint. You might also notice increased energy bills due to poor insulation. Minor issues like small cracks or chips can sometimes be repaired, but widespread damage usually points to the need for replacement to protect your home's structure and maintain its aesthetic appeal. Regular inspections can help identify these problems early.",
+        "@type": "Answer",
+        "description": "Signs include rot, extensive cracking, warping, persistent mold, or peeling paint, and higher energy bills."
+      }
+    }
+  ],
+  "description": "Signs include rot, extensive cracking, warping, persistent mold, or peeling paint, and higher energy bills."
+}

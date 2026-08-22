@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-often-should-i-stain-my-wood-siding-in-the-bay-area",
+  "name": "How often should I stain my wood siding in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I stain my wood siding in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the Bay Area, the frequency of siding staining depends on the type of stain used, exposure to sun and rain, and the wood species. Generally, transparent or semi-transparent stains may need reapplication every 2-5 years, while solid stains can last 5-10 years. Regular inspection for fading, peeling, or water absorption will help determine the best timing for re-staining.",
+        "@type": "Answer",
+        "description": "Frequency varies by stain type and weather exposure, typically every 2-10 years. Inspect for wear."
+      }
+    }
+  ],
+  "description": "Frequency varies by stain type and weather exposure, typically every 2-10 years. Inspect for wear."
+}

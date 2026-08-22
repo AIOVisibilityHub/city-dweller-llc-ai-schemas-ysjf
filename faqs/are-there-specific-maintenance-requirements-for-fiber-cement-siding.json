@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-there-specific-maintenance-requirements-for-fiber-cement-siding",
+  "name": "Are there specific maintenance requirements for fiber cement siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific maintenance requirements for fiber cement siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fiber cement siding is known for its low maintenance. It typically requires periodic cleaning, usually once a year, with a soft brush and mild detergent to remove dirt, mildew, or algae. Inspecting the caulk and paint every few years and making any necessary touch-ups will also help maintain its appearance and protective qualities. Avoiding high-pressure washing that could damage the finish is also important for longevity.",
+        "@type": "Answer",
+        "description": "Maintenance includes annual cleaning with mild detergent and periodic inspection of caulk and paint, avoiding high-pressure washing."
+      }
+    }
+  ],
+  "description": "Maintenance includes annual cleaning with mild detergent and periodic inspection of caulk and paint, avoiding high-pressure washing."
+}

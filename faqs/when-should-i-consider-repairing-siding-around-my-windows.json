@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-repairing-siding-around-my-windows",
+  "name": "When should I consider repairing siding around my windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider repairing siding around my windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider repairing siding around your windows if you notice signs of damage such as cracks, gaps, rot, warping, or moisture stains. These issues can lead to water intrusion, energy loss, and further structural damage if left unaddressed. Prompt repair helps maintain your home's integrity and prevents more extensive and costly problems down the line. Regularly inspecting your siding, especially after heavy rains or strong winds, can help you catch potential issues early.",
+        "@type": "Answer",
+        "description": "Consider repair if you see cracks, gaps, rot, warping, or moisture stains around your windows to prevent water damage and energy loss."
+      }
+    }
+  ],
+  "description": "Consider repair if you see cracks, gaps, rot, warping, or moisture stains around your windows to prevent water damage and energy loss."
+}

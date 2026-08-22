@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-wood-siding-repair",
+  "name": "What is the typical process for wood siding repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for wood siding repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical wood siding repair process begins with a thorough inspection to identify all damaged areas. Our contractors will then carefully remove the compromised sections of siding, ensuring not to disturb surrounding intact pieces. New wood siding, matched in type and profile, is cut to size and installed. Finally, the repaired sections are prepared for finishing, which may include priming and painting, to seamlessly blend with the existing exterior and protect against future damage.",
+        "@type": "Answer",
+        "description": "The process involves inspection, removal of damaged siding, installation of new matching sections, and finishing to blend with the existing exterior."
+      }
+    }
+  ],
+  "description": "The process involves inspection, removal of damaged siding, installation of new matching sections, and finishing to blend with the existing exterior."
+}

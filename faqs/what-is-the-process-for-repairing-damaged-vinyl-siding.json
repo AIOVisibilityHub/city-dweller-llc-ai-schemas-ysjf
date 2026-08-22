@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-repairing-damaged-vinyl-siding",
+  "name": "What is the process for repairing damaged vinyl siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing damaged vinyl siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically begins with an assessment of the damage to determine the necessary scope of work and identify matching siding. For a small section, technicians carefully remove the damaged panel using a zip tool, being mindful not to damage adjacent pieces. New panels are then cut to size and securely installed, ensuring proper interlocking and alignment with existing siding. For larger areas or underlying issues, additional steps like inspecting and repairing the sheathing underneath may be required before new siding is installed. The goal is to restore the siding's integrity and aesthetic.",
+        "@type": "Answer",
+        "description": "The process involves assessing damage, removing compromised panels with specialized tools, and installing new, matching siding. For extensive damage, underlying issues are also addressed."
+      }
+    }
+  ],
+  "description": "The process involves assessing damage, removing compromised panels with specialized tools, and installing new, matching siding. For extensive damage, underlying"
+}

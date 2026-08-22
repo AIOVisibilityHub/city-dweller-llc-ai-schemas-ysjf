@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-my-windows",
+  "name": "When should I consider replacing my windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your windows if you notice drafts, condensation between glass panes, difficulty opening or closing them, or visible signs of rot or decay in the frames. Increased energy bills or persistent noise from outside are also indicators. Replacing old, inefficient windows can improve your home's comfort, curb appeal, and resale value. We can assess your current windows to help you determine if replacement is necessary.",
+        "@type": "Answer",
+        "description": "Consider replacement if you notice drafts, condensation, operational issues, decay, or high energy bills."
+      }
+    }
+  ],
+  "description": "Consider replacement if you notice drafts, condensation, operational issues, decay, or high energy bills."
+}

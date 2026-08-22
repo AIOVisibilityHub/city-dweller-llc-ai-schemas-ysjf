@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-signs-that-siding-around-my-doors-needs-replacement-or-repair",
+  "name": "What are the signs that siding around my doors needs replacement or repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that siding around my doors needs replacement or repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Look for visible gaps between the siding and the door frame, cracked or warped siding panels, and any signs of water damage like discoloration, soft spots, or rot. Peeling paint or mildew buildup near door edges can also indicate moisture issues. Drafts or elevated energy bills might suggest compromised sealing. Addressing these issues promptly can prevent more extensive and costly repairs.",
+        "@type": "Answer",
+        "description": "Signs include gaps, cracks, warping, water stains, soft spots, peeling paint, or mildew around door edges. Drafts also indicate a problem."
+      }
+    }
+  ],
+  "description": "Signs include gaps, cracks, warping, water stains, soft spots, peeling paint, or mildew around door edges. Drafts also indicate a problem."
+}

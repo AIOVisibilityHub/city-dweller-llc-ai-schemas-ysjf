@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-call-a-professional-for-water-intrusion",
+  "name": "When should I call a professional for water intrusion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for water intrusion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for water intrusion as soon as you notice any persistent signs of a leak or water damage. If you're unsure about the source, the extent of the damage, or how to properly fix it, a professional general contractor can accurately diagnose the problem and provide a lasting solution. Early intervention by experts prevents minor issues from becoming major, costly repairs.",
+        "@type": "Answer",
+        "description": "Call a professional immediately if you notice persistent signs of a leak or water damage, especially if you're unsure of the source or extent."
+      }
+    }
+  ],
+  "description": "Call a professional immediately if you notice persistent signs of a leak or water damage, especially if you're unsure of the source or extent."
+}

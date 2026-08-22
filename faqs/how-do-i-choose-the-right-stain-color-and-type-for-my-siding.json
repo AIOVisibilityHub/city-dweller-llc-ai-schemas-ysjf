@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-stain-color-and-type-for-my-siding",
+  "name": "How do I choose the right stain color and type for my siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right stain color and type for my siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right stain involves considering your home's architectural style, surrounding landscape, and personal aesthetic. Stain types range from clear to solid. Clear and transparent stains highlight natural wood grain, while semi-transparent and semi-solid options add color while still allowing some grain to show. Solid stains provide opaque color similar to paint but with the penetration benefits of stain. We can provide samples to help you decide.",
+        "@type": "Answer",
+        "description": "Consider your home's style and desired transparency. Samples can help you choose the right color and type."
+      }
+    }
+  ],
+  "description": "Consider your home's style and desired transparency. Samples can help you choose the right color and type."
+}

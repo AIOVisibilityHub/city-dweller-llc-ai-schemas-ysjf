@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-replace-my-door-at-the-same-time-as-my-siding-around-it",
+  "name": "Should I replace my door at the same time as my siding around it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I replace my door at the same time as my siding around it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your door is old, damaged, or not energy-efficient, replacing it concurrently with the surrounding siding can be a cost-effective and efficient approach. This allows for a comprehensive seal, avoids disturbing new siding later, and ensures all flashing and weatherproofing are installed at once. It also provides an opportunity to upgrade both aesthetics and performance simultaneously. If the door is in good condition, replacing just the siding is sufficient.",
+        "@type": "Answer",
+        "description": "Consider replacing your door with the surrounding siding if the door is old or damaged. This ensures a comprehensive seal and can be more efficient."
+      }
+    }
+  ],
+  "description": "Consider replacing your door with the surrounding siding if the door is old or damaged. This ensures a comprehensive seal and can be more efficient."
+}

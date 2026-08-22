@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-replace-just-a-section-of-my-wood-siding-or-do-i-need-to-replace-it-all",
+  "name": "Can I replace just a section of my wood siding, or do I need to replace it all?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace just a section of my wood siding, or do I need to replace it all?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can replace just a section of your wood siding depends on the extent of the damage and the age of the existing siding. If the damage is localized to a small area and the rest of your siding is in good condition, a partial replacement might be feasible. However, if the damage is widespread, or if the existing siding is very old and prone to further issues, a full replacement is often more cost-effective and provides a more uniform, long-lasting result. We can assess your specific situation.",
+        "@type": "Answer",
+        "description": "Partial replacement is possible for localized damage, but widespread issues or old siding usually warrant a full replacement for uniformity and longevity."
+      }
+    }
+  ],
+  "description": "Partial replacement is possible for localized damage, but widespread issues or old siding usually warrant a full replacement for uniformity and longevity."
+}

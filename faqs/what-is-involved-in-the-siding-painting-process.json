@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-involved-in-the-siding-painting-process",
+  "name": "What is involved in the siding painting process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the siding painting process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The siding painting process typically begins with thorough preparation, which includes pressure washing to clean the surface, scraping loose paint, and making minor repairs to the siding. This ensures proper adhesion and a smooth finish. Next, areas not to be painted are masked and primed, especially if there's bare wood or a significant color change. Finally, two coats of high-quality exterior paint are applied, allowing adequate drying time between coats. The project concludes with a final inspection and cleanup.",
+        "@type": "Answer",
+        "description": "The siding painting process involves thorough cleaning, scraping, repairs, priming, and applying two coats of paint, followed by inspection and cleanup."
+      }
+    }
+  ],
+  "description": "The siding painting process involves thorough cleaning, scraping, repairs, priming, and applying two coats of paint, followed by inspection and cleanup."
+}

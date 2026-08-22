@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-maintenance-is-required-after-changing-siding-color",
+  "name": "What maintenance is required after changing siding color?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required after changing siding color?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After changing your siding color, regular maintenance will help preserve its appearance and longevity. This typically includes periodic cleaning, usually annually, to remove dirt, mildew, and pollutants. Inspect the siding for any signs of chipping, peeling, or damage, especially after harsh weather. Address small issues promptly with touch-ups to prevent them from worsening. For painted siding, a new coat may be needed every 5-10 years, depending on the paint quality and exposure to elements.",
+        "@type": "Answer",
+        "description": "Regular maintenance involves annual cleaning and inspecting for damage. Address issues promptly. Repainting may be needed every 5-10 years."
+      }
+    }
+  ],
+  "description": "Regular maintenance involves annual cleaning and inspecting for damage. Address issues promptly. Repainting may be needed every 5-10 years."
+}

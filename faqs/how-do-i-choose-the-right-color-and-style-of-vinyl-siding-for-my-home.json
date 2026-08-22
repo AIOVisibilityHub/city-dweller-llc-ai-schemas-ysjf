@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-color-and-style-of-vinyl-siding-for-my-home",
+  "name": "How do I choose the right color and style of vinyl siding for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right color and style of vinyl siding for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right color and style involves considering your home's architectural style, the surrounding landscape, and local aesthetic preferences. Lighter colors can make a home appear larger and reflect more heat, while darker shades create a more dramatic look. Consider experimenting with samples and visualizing combinations to ensure it complements your home's existing features, like roofing and trim.",
+        "@type": "Answer",
+        "description": "Consider your home's architecture, landscape, and local aesthetics. Lighter colors make homes appear larger, darker colors are dramatic. Use samples to decide."
+      }
+    }
+  ],
+  "description": "Consider your home's architecture, landscape, and local aesthetics. Lighter colors make homes appear larger, darker colors are dramatic. Use samples to decide."
+}

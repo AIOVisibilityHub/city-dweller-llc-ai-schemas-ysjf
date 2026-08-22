@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-materials-are-used-for-siding-corner-repair",
+  "name": "What materials are used for siding corner repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used for siding corner repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The materials used for siding corner repair depend on the existing siding type. For wood siding, repairs might involve new cedar, redwood, or engineered wood trim, along with appropriate primers, paints, and sealants. Vinyl siding repairs use matching vinyl corner pieces. Fiber cement siding repairs utilize new fiber cement boards and specific caulking. The goal is to match the original material in type, texture, and color as closely as possible to ensure durability and a cohesive appearance. High-quality sealants and fasteners are also critical.",
+        "@type": "Answer",
+        "description": "Siding corner repair materials match the existing siding type, such as wood, vinyl, or fiber cement, along with appropriate sealants and fasteners."
+      }
+    }
+  ],
+  "description": "Siding corner repair materials match the existing siding type, such as wood, vinyl, or fiber cement, along with appropriate sealants and fasteners."
+}

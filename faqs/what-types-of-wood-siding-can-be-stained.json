@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-wood-siding-can-be-stained",
+  "name": "What types of wood siding can be stained?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of wood siding can be stained?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most common types of wood siding can be stained. This includes cedar, redwood, pine, fir, and spruce. The porosity and grain of each wood type will affect how the stain is absorbed and its final appearance. Cedar and redwood are popular choices due to their natural resistance to rot and insects, and they take stain beautifully.",
+        "@type": "Answer",
+        "description": "Most wood siding types like cedar, redwood, pine, and fir can be stained, with results varying by wood porosity."
+      }
+    }
+  ],
+  "description": "Most wood siding types like cedar, redwood, pine, and fir can be stained, with results varying by wood porosity."
+}

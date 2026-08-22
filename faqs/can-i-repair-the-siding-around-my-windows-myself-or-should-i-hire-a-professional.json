@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-the-siding-around-my-windows-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair the siding around my windows myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair the siding around my windows myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor surface-level repairs like caulking small cracks might be manageable for a DIY enthusiast, extensive siding repair around windows is generally best left to professionals. Proper repair involves understanding water management, flashing techniques, and matching existing siding materials, which requires specialized tools and expertise. Incorrect repairs can lead to further water intrusion, mold growth, and more significant damage. A professional general contractor ensures the job is done correctly, maintaining your home's weather integrity and aesthetic.",
+        "@type": "Answer",
+        "description": "Minor repairs might be DIY, but extensive damage requiring flashing and material matching is best handled by professionals to prevent further issues."
+      }
+    }
+  ],
+  "description": "Minor repairs might be DIY, but extensive damage requiring flashing and material matching is best handled by professionals to prevent further issues."
+}

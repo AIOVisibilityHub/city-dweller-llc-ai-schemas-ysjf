@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-flashing-and-why-is-it-important-when-replacing-siding-around-doors",
+  "name": "What is flashing, and why is it important when replacing siding around doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is flashing, and why is it important when replacing siding around doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Flashing refers to thin pieces of impervious material, typically metal or plastic, installed at vulnerable points on a building to prevent water penetration. Around doors, flashing is crucial for diverting water away from the door frame and into the exterior siding system. It forms a watertight seal where different materials meet, preventing water from seeping behind the siding and causing rot or other moisture-related damage to the wall assembly. Proper flashing is a key defense against water intrusion.",
+        "@type": "Answer",
+        "description": "Flashing is an impervious material installed to prevent water penetration around doors by diverting water away from the frame and into the siding system."
+      }
+    }
+  ],
+  "description": "Flashing is an impervious material installed to prevent water penetration around doors by diverting water away from the frame and into the siding system."
+}

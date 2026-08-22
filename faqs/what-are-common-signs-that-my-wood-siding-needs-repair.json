@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-signs-that-my-wood-siding-needs-repair",
+  "name": "What are common signs that my wood siding needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my wood siding needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common indicators that your wood siding may need repair include visual cues such as cracking, peeling paint, or discoloration. You might also notice soft spots when pressing on the wood, which can suggest rot. Gaps between boards or around windows and doors, and the presence of mold or mildew, are also critical signs. Addressing these issues early can prevent more extensive and costly damage to your home's exterior.",
+        "@type": "Answer",
+        "description": "Signs include cracking, peeling paint, soft spots, gaps, and mold. Early detection prevents further damage."
+      }
+    }
+  ],
+  "description": "Signs include cracking, peeling paint, soft spots, gaps, and mold. Early detection prevents further damage."
+}

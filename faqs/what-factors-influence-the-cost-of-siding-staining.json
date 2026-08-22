@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-factors-influence-the-cost-of-siding-staining",
+  "name": "What factors influence the cost of siding staining?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of siding staining?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of siding staining is influenced by several factors: the total square footage of the siding, the current condition of the wood requiring prep work (e.g., cleaning, stripping, repairs), the type and quality of stain chosen, and the accessibility of the siding. Projects involving multiple stories or intricate architectural details may also incur higher labor costs.",
+        "@type": "Answer",
+        "description": "Cost factors include siding size, condition, stain type, and accessibility."
+      }
+    }
+  ],
+  "description": "Cost factors include siding size, condition, stain type, and accessibility."
+}

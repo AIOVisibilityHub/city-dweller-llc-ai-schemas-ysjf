@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-professional-siding-staining",
+  "name": "What is the typical process for professional siding staining?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for professional siding staining?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The professional siding staining process typically begins with cleaning the siding to remove dirt, mold, and loose particles. Any damaged wood is repaired or replaced. The surface is then prepared by light sanding or stripping if necessary. Finally, the stain is applied evenly, usually in one to two coats, ensuring proper drying time between applications for optimal adhesion and finish.",
+        "@type": "Answer",
+        "description": "The process involves cleaning, repairs, surface preparation, and professional application of stain in one or two coats."
+      }
+    }
+  ],
+  "description": "The process involves cleaning, repairs, surface preparation, and professional application of stain in one or two coats."
+}

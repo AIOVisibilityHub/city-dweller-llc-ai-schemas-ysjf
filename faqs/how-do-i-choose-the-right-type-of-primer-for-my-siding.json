@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-type-of-primer-for-my-siding",
+  "name": "How do I choose the right type of primer for my siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right type of primer for my siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right primer depends on your siding material and the topcoat you plan to use. For wood siding, oil-based primers are excellent for blocking stains and providing a strong bond, while acrylic latex primers are suitable for good adhesion and flexibility. Fiber cement siding often benefits from a high-quality acrylic latex primer designed for masonry or cementitious surfaces. Metal siding requires rust-inhibiting primers. Always ensure the primer is compatible with your chosen finish paint for optimal performance and durability. Consult with a professional or paint supplier if unsure.",
+        "@type": "Answer",
+        "description": "Select primer based on siding material (wood, fiber cement, metal) and topcoat compatibility. Oil-based works for wood, acrylic latex for fiber cement."
+      }
+    }
+  ],
+  "description": "Select primer based on siding material (wood, fiber cement, metal) and topcoat compatibility. Oil-based works for wood, acrylic latex for fiber cement."
+}

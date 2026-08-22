@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-happens-if-i-don-t-prime-new-siding-before-painting",
+  "name": "What happens if I don't prime new siding before painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if I don't prime new siding before painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If new siding, particularly wood or fiber cement, is not primed before painting, several issues can arise. The paint may not adhere properly, leading to premature peeling, flaking, or blistering. Porous materials will absorb paint unevenly, resulting in a splotchy, inconsistent finish that looks unprofessional. Wood knots and sap can bleed through the topcoat, causing discoloration. Without primer, the paint's durability and lifespan will be significantly reduced, requiring more frequent repainting and potentially leading to higher long-term costs.",
+        "@type": "Answer",
+        "description": "Not priming new siding can cause poor paint adhesion, uneven finish, knot bleed-through, and reduced paint durability, leading to premature failure."
+      }
+    }
+  ],
+  "description": "Not priming new siding can cause poor paint adhesion, uneven finish, knot bleed-through, and reduced paint durability, leading to premature failure."
+}

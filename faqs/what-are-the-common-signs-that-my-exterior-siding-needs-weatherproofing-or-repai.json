@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-signs-that-my-exterior-siding-needs-weatherproofing-or-repai",
+  "name": "What are the common signs that my exterior siding needs weatherproofing or repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that my exterior siding needs weatherproofing or repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Look for visible signs of wear such as peeling paint, warped or cracked boards, bubbling or blistering, and soft spots when pressed. Discoloration, especially dark streaks, can indicate mold or mildew growth due to moisture. Gaps between siding panels or around windows and doors suggest failed seals. Increased energy bills might also point to compromised insulation and weatherproofing. Addressing these signs promptly can prevent further damage to your home's structure.",
+        "@type": "Answer",
+        "description": "Signs include peeling paint, warped or cracked boards, soft spots, discoloration from mold, and gaps in siding. Increased energy bills can also indicate weatherproofing issues."
+      }
+    }
+  ],
+  "description": "Signs include peeling paint, warped or cracked boards, soft spots, discoloration from mold, and gaps in siding. Increased energy bills can also indicate weather"
+}

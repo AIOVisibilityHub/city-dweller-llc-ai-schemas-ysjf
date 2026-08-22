@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-benefits-of-energy-efficient-windows",
+  "name": "What are the benefits of energy-efficient windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of energy-efficient windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Energy-efficient windows significantly reduce heat transfer, keeping your home cooler in summer and warmer in winter. This can lead to lower energy bills and a more comfortable indoor environment. Key features often include double or triple-pane glass, low-emissivity (Low-E) coatings, and argon or krypton gas fills between panes. These features help block harmful UV rays and improve insulation, contributing to a more sustainable home.",
+        "@type": "Answer",
+        "description": "Energy-efficient windows reduce energy bills and improve indoor comfort by minimizing heat transfer and blocking UV rays."
+      }
+    }
+  ],
+  "description": "Energy-efficient windows reduce energy bills and improve indoor comfort by minimizing heat transfer and blocking UV rays."
+}

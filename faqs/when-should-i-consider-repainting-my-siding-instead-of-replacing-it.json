@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-repainting-my-siding-instead-of-replacing-it",
+  "name": "When should I consider repainting my siding instead of replacing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider repainting my siding instead of replacing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider repainting your siding when the existing paint is showing signs of wear like fading, chalking, minor peeling, or cracking, but the siding material itself is still structurally sound. Repainting is a cost-effective way to refresh your home's appearance and protect the siding from further deterioration. If the siding material is severely damaged, warped, or showing extensive rot or pest issues, replacement might be the more appropriate and long-term solution.",
+        "@type": "Answer",
+        "description": "Repainting is suitable when paint shows wear but the siding is structurally sound. Consider replacement if the siding material is severely damaged or compromised."
+      }
+    }
+  ],
+  "description": "Repainting is suitable when paint shows wear but the siding is structurally sound. Consider replacement if the siding material is severely damaged or compromise"
+}

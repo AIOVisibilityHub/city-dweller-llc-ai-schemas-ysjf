@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-best-wood-siding-type-for-my-home-s-climate-and-style",
+  "name": "How do I choose the best wood siding type for my home's climate and style?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the best wood siding type for my home's climate and style?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the best wood siding involves considering your home's architectural style, the local climate, your budget, and desired maintenance level. For the Bay Area's coastal conditions, naturally rot-resistant woods like cedar or redwood are excellent choices for durability. For a specific aesthetic, different wood types offer various grain patterns and staining options. We can guide you through the options, discussing the pros and cons of each in relation to your specific needs and preferences to ensure an informed decision.",
+        "@type": "Answer",
+        "description": "Consider your home's style, local climate, budget, and maintenance needs. Rot-resistant woods like cedar or redwood are good for coastal areas."
+      }
+    }
+  ],
+  "description": "Consider your home's style, local climate, budget, and maintenance needs. Rot-resistant woods like cedar or redwood are good for coastal areas."
+}

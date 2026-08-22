@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-house-wrap-and-why-is-it-used-in-siding-preparation",
+  "name": "What is a house wrap, and why is it used in siding preparation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a house wrap, and why is it used in siding preparation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A house wrap, also known as a weather-resistive barrier, is a synthetic fabric material installed over the exterior sheathing but beneath the siding. Its primary purpose is to act as a secondary defense against moisture intrusion, preventing water from reaching the structural components of the house while allowing water vapor from inside the walls to escape. This helps prevent rot, mold, and improves the overall energy efficiency of the home by reducing air leaks. It's a critical component in modern siding installations.",
+        "@type": "Answer",
+        "description": "A house wrap is a weather-resistive barrier installed under siding to prevent moisture intrusion, allow vapor escape, and improve energy efficiency."
+      }
+    }
+  ],
+  "description": "A house wrap is a weather-resistive barrier installed under siding to prevent moisture intrusion, allow vapor escape, and improve energy efficiency."
+}

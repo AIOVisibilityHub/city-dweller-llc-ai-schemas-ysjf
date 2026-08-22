@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-often-should-i-have-my-exterior-siding-weatherproofed-or-inspected-for-weath",
+  "name": "How often should I have my exterior siding weatherproofed or inspected for weather damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my exterior siding weatherproofed or inspected for weather damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The frequency of weatherproofing or inspection depends on your siding material, its age, and local weather exposure. Generally, we recommend a thorough inspection every 1-3 years. For wooden siding, re-sealing or re-painting might be necessary every 5-7 years. Fiber cement and vinyl sidings are more durable but should still be checked for compromised seals or physical damage periodically. Early detection of issues can prevent more extensive and costly repairs later.",
+        "@type": "Answer",
+        "description": "Siding should be inspected every 1-3 years. Wood siding may need re-sealing every 5-7 years, while other materials like fiber cement and vinyl require periodic checks for damage or compromised seals."
+      }
+    }
+  ],
+  "description": "Siding should be inspected every 1-3 years. Wood siding may need re-sealing every 5-7 years, while other materials like fiber cement and vinyl require periodic"
+}

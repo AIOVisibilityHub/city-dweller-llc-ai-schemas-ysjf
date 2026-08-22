@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-look-for-when-inspecting-my-home-s-exterior-before-new-siding",
+  "name": "What should I look for when inspecting my home's exterior before new siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when inspecting my home's exterior before new siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before new siding installation, thoroughly inspect your home's exterior for several issues. Look for signs of water damage, such as warped sheathing, discolored areas, or soft spots on the walls. Check for rot or mold, especially around windows, doors, and the foundation. Ensure all existing flashing is intact and properly sealed. Identify any loose boards, cracks, or gaps in the current exterior. These observations help your contractor anticipate potential challenges and provide an accurate estimate for preparation work.",
+        "@type": "Answer",
+        "description": "Inspect for water damage, rot, mold, compromised flashing, loose boards, or cracks before new siding installation."
+      }
+    }
+  ],
+  "description": "Inspect for water damage, rot, mold, compromised flashing, loose boards, or cracks before new siding installation."
+}

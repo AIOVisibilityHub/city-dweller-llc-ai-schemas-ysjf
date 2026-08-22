@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-exterior-moisture-problems-in-bay-area-homes",
+  "name": "What are common exterior moisture problems in Bay Area homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common exterior moisture problems in Bay Area homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bay Area homes commonly face moisture challenges due to coastal conditions, fog, and seasonal rains. Issues often include failing flashing around windows and doors, deteriorated sealants, compromised roofing materials, and improper drainage leading to water pooling near foundations. These can result in dry rot, termite damage, mold growth in wall cavities, and damaged interior finishes. Proactive maintenance and professional inspections are essential to mitigate these region-specific risks.",
+        "@type": "Answer",
+        "description": "Common Bay Area moisture problems include failing flashing, deteriorated sealants, and improper drainage, leading to rot and mold."
+      }
+    }
+  ],
+  "description": "Common Bay Area moisture problems include failing flashing, deteriorated sealants, and improper drainage, leading to rot and mold."
+}

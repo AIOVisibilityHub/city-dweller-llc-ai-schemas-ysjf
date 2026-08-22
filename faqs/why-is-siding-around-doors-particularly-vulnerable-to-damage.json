@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/why-is-siding-around-doors-particularly-vulnerable-to-damage",
+  "name": "Why is siding around doors particularly vulnerable to damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is siding around doors particularly vulnerable to damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Siding around doors is highly vulnerable because these areas experience significant foot traffic and are naturally predisposed to moisture intrusion. Gaps in flashing or sealant around door frames allow water to seep behind the siding, leading to rot, mold, and structural damage over time. Additionally, the constant opening and closing of doors can cause vibration and stress on the adjacent siding, contributing to its deterioration. Proper installation and sealing are crucial to protect these susceptible areas.",
+        "@type": "Answer",
+        "description": "Doors are vulnerable due to moisture intrusion from flashing/sealant gaps and stress from frequent use. This leads to rot, mold, and structural damage."
+      }
+    }
+  ],
+  "description": "Doors are vulnerable due to moisture intrusion from flashing/sealant gaps and stress from frequent use. This leads to rot, mold, and structural damage."
+}

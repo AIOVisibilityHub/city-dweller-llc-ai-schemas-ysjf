@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-signs-that-the-siding-around-my-doors-needs-repair",
+  "name": "What are common signs that the siding around my doors needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that the siding around my doors needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs indicating your siding around doors needs repair include visible gaps, cracks, or rot in the siding material itself or the trim. You might also notice peeling paint, discoloration, or warping. Water stains on interior walls near door frames, drafts, or an increase in energy bills can also suggest water intrusion and damage behind the siding. Addressing these issues promptly prevents further deterioration and more extensive, costly repairs.",
+        "@type": "Answer",
+        "description": "Look for gaps, cracks, rot, peeling paint, or discoloration in the siding and trim around doors. Interior water stains or drafts can also indicate a problem."
+      }
+    }
+  ],
+  "description": "Look for gaps, cracks, rot, peeling paint, or discoloration in the siding and trim around doors. Interior water stains or drafts can also indicate a problem."
+}

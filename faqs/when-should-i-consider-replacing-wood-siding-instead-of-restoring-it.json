@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-wood-siding-instead-of-restoring-it",
+  "name": "When should I consider replacing wood siding instead of restoring it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing wood siding instead of restoring it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacement is typically considered when the wood siding is extensively damaged, has widespread rot, or shows signs of structural failure that restoration cannot effectively address. If more than 25-30% of the siding requires replacement, or if there are severe issues like persistent moisture intrusion behind the siding, a full replacement might be more cost-effective in the long run. Restoration is ideal for addressing surface wear, minor damage, and maintaining healthy siding.",
+        "@type": "Answer",
+        "description": "Consider replacement if siding has extensive rot, widespread damage, or structural failure that restoration cannot fix effectively."
+      }
+    }
+  ],
+  "description": "Consider replacement if siding has extensive rot, widespread damage, or structural failure that restoration cannot fix effectively."
+}

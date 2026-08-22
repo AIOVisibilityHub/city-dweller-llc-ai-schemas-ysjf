@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-new-windows-require-a-permit-in-cities-like-pacifica-or-daly-city",
+  "name": "Do new windows require a permit in cities like Pacifica or Daly City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do new windows require a permit in cities like Pacifica or Daly City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many Bay Area cities, including Pacifica and Daly City, replacing windows typically requires a building permit. This is to ensure that the new windows meet local building codes, energy efficiency standards, and safety regulations. We handle the permit application process to ensure your project complies with all local requirements. Obtaining the correct permits protects both the homeowner and the contractor.",
+        "@type": "Answer",
+        "description": "Yes, new window replacement usually requires a building permit in cities like Pacifica and Daly City to ensure code compliance."
+      }
+    }
+  ],
+  "description": "Yes, new window replacement usually requires a building permit in cities like Pacifica and Daly City to ensure code compliance."
+}

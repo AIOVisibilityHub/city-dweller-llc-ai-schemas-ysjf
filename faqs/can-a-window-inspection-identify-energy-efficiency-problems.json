@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-a-window-inspection-identify-energy-efficiency-problems",
+  "name": "Can a window inspection identify energy efficiency problems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a window inspection identify energy efficiency problems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a professional window inspection can effectively identify issues contributing to energy inefficiency. Inspectors look for compromised seals, gaps in weatherstripping, poorly fitted frames, and outdated single-pane glass. These common problems allow conditioned air to escape and outside air to infiltrate, leading to higher heating and cooling bills. Identifying these deficiencies allows for targeted repairs or replacements to improve your home's thermal performance.",
+        "@type": "Answer",
+        "description": "Yes, inspections identify compromised seals, gaps, poor fits, or outdated glass contributing to energy inefficiency and higher utility bills."
+      }
+    }
+  ],
+  "description": "Yes, inspections identify compromised seals, gaps, poor fits, or outdated glass contributing to energy inefficiency and higher utility bills."
+}

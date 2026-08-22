@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-previously-painted-siding-be-stained",
+  "name": "Can previously painted siding be stained?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can previously painted siding be stained?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Staining previously painted siding is challenging because stain needs to penetrate the wood, and paint forms a barrier. To stain painted siding, all existing paint must be completely removed through sanding, stripping, or blasting to expose the bare wood. Without full removal, the stain will not absorb correctly and may lead to an uneven or peeling finish. This process can be labor-intensive.",
+        "@type": "Answer",
+        "description": "Yes, but all existing paint must be completely removed to allow the stain to penetrate the wood."
+      }
+    }
+  ],
+  "description": "Yes, but all existing paint must be completely removed to allow the stain to penetrate the wood."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-fiber-cement-siding-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair fiber cement siding myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair fiber cement siding myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor cosmetic issues like small cracks or paint touch-ups might be manageable for a skilled homeowner, more significant damage generally requires professional expertise. Proper repair of fiber cement siding involves specialized tools, knowledge of panel replacement techniques, and ensuring seamless integration with existing siding to prevent future water intrusion. A professional contractor can assess the damage accurately and ensure repairs meet manufacturer specifications for durability and aesthetics.",
+        "@type": "Answer",
+        "description": "Minor cosmetic repairs can be DIY, but significant damage to fiber cement siding is best handled by a professional to ensure proper technique and prevent future issues."
+      }
+    }
+  ],
+  "description": "Minor cosmetic repairs can be DIY, but significant damage to fiber cement siding is best handled by a professional to ensure proper technique and prevent future"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-paint-over-any-type-of-siding",
+  "name": "Can I paint over any type of siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I paint over any type of siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most common siding materials can be painted, including wood, fiber cement, aluminum, and vinyl. However, the preparation process and the type of paint used will vary significantly depending on the material. For example, vinyl siding requires a specific type of paint that can adhere properly and won't warp the material by absorbing too much heat. Stucco also needs breathable paint. It's crucial to correctly identify your siding material to ensure the right products and techniques are used for a lasting finish.",
+        "@type": "Answer",
+        "description": "Most siding types like wood, fiber cement, aluminum, and vinyl can be painted, but the prep and paint type vary significantly by material. Proper identification is key."
+      }
+    }
+  ],
+  "description": "Most siding types like wood, fiber cement, aluminum, and vinyl can be painted, but the prep and paint type vary significantly by material. Proper identification"
+}

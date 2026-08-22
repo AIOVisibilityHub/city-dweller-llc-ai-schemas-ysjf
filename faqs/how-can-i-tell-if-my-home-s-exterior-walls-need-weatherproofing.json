@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-tell-if-my-home-s-exterior-walls-need-weatherproofing",
+  "name": "How can I tell if my home's exterior walls need weatherproofing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my home's exterior walls need weatherproofing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs that your home's exterior walls may need weatherproofing include visible cracks in stucco or siding, peeling paint, water stains on interior walls or ceilings, and efflorescence (white, powdery residue) on masonry. Drafts near windows and doors, or unusually high energy bills, can also indicate compromised insulation and weather resistance. During rainy periods, look for areas where water pools against the foundation or where gutters overflow, suggesting potential water penetration points that need addressing.",
+        "@type": "Answer",
+        "description": "Look for cracks, peeling paint, interior water stains, or drafts. High energy bills and visible moisture issues during rain also indicate a need for weatherproofing."
+      }
+    }
+  ],
+  "description": "Look for cracks, peeling paint, interior water stains, or drafts. High energy bills and visible moisture issues during rain also indicate a need for weatherproo"
+}

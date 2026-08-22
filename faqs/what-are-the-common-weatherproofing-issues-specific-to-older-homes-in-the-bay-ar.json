@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-weatherproofing-issues-specific-to-older-homes-in-the-bay-ar",
+  "name": "What are the common weatherproofing issues specific to older homes in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common weatherproofing issues specific to older homes in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Older Bay Area homes often face unique weatherproofing challenges. Original wood siding may be severely deteriorated from decades of weather exposure, leading to rot, pest damage, and compromised structural integrity. Outdated or failing sealants around windows, doors, and siding joints are common, creating significant entry points for moisture. Many older homes also lack proper housewrap or modern vapor barriers, making them more susceptible to water damage and drafts. Addressing these requires a thorough assessment and often more extensive repair work.",
+        "@type": "Answer",
+        "description": "Older Bay Area homes frequently have deteriorated wood siding, failing sealants, and lack modern vapor barriers, making them vulnerable to rot, pests, and moisture damage. These issues require careful assessment and repair."
+      }
+    }
+  ],
+  "description": "Older Bay Area homes frequently have deteriorated wood siding, failing sealants, and lack modern vapor barriers, making them vulnerable to rot, pests, and moist"
+}

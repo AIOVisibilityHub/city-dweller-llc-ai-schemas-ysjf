@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-repair-siding-around-windows-in-the-bay-area",
+  "name": "How much does it cost to repair siding around windows in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair siding around windows in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair siding around windows in the Bay Area varies significantly based on several factors. These include the extent of the damage, the type of siding material (e.g., wood, fiber cement, vinyl), the number of windows requiring repair, and any underlying structural issues that need addressing. Minor repairs might involve sealing gaps and replacing small sections, while extensive damage requiring removal of multiple panels or structural work will be more costly. We provide detailed estimates after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Costs vary based on damage extent, siding material type, number of windows, and underlying structural issues. An on-site assessment provides a detailed estimate."
+      }
+    }
+  ],
+  "description": "Costs vary based on damage extent, siding material type, number of windows, and underlying structural issues. An on-site assessment provides a detailed estimate"
+}

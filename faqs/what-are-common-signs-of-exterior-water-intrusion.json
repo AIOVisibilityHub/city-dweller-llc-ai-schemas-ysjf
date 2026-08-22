@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-signs-of-exterior-water-intrusion",
+  "name": "What are common signs of exterior water intrusion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of exterior water intrusion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of exterior water intrusion include water stains on ceilings or walls, peeling paint, warped flooring, mold growth, musty odors, and damaged siding or foundation. You might also notice drips or puddles during rain, or efflorescence (white, powdery residue) on masonry. Early detection can prevent more extensive damage and costly repairs.",
+        "@type": "Answer",
+        "description": "Look for water stains, peeling paint, warped floors, mold, or musty odors. Damaged siding or efflorescence are also key indicators."
+      }
+    }
+  ],
+  "description": "Look for water stains, peeling paint, warped floors, mold, or musty odors. Damaged siding or efflorescence are also key indicators."
+}

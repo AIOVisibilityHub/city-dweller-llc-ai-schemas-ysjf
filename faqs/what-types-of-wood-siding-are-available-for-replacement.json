@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-wood-siding-are-available-for-replacement",
+  "name": "What types of wood siding are available for replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of wood siding are available for replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Popular wood siding options include cedar, redwood, and pine. Cedar is known for its natural resistance to rot and insects, while redwood offers similar durability and a distinctive look. Pine is a more economical choice but requires more maintenance and treatment to withstand the elements. Each type has different aesthetic qualities and performance characteristics, influencing its suitability for various climates and architectural styles in the Bay Area.",
+        "@type": "Answer",
+        "description": "Common wood siding types are cedar, redwood, and pine, each offering different durability, aesthetics, and maintenance needs."
+      }
+    }
+  ],
+  "description": "Common wood siding types are cedar, redwood, and pine, each offering different durability, aesthetics, and maintenance needs."
+}

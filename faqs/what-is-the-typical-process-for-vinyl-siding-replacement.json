@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-vinyl-siding-replacement",
+  "name": "What is the typical process for vinyl siding replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for vinyl siding replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The vinyl siding replacement process usually begins with an initial consultation and estimate. Once approved, the existing siding is removed, and any necessary repairs to the underlying sheathing are made. A weather-resistant barrier is then installed, followed by the new vinyl siding panels, starting from the bottom up. Finally, trim pieces, soffit, and fascia are installed, and a thorough clean-up is performed.",
+        "@type": "Answer",
+        "description": "The process involves consultation, removal of old siding, sheathing repair, weather barrier installation, new vinyl siding, trim, and clean-up."
+      }
+    }
+  ],
+  "description": "The process involves consultation, removal of old siding, sheathing repair, weather barrier installation, new vinyl siding, trim, and clean-up."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-new-windows-are-available-for-my-home-in-the-bay-area",
+  "name": "What types of new windows are available for my home in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of new windows are available for my home in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowners in the Bay Area typically choose from various window types, including single-hung, double-hung, casement, awning, and sliding windows. The best choice depends on factors like ventilation needs, architectural style, and budget. Common frame materials include vinyl, wood, fiberglass, and aluminum. Each material offers different benefits in terms of insulation, maintenance, and durability, which are important considerations given the diverse weather patterns in the Bay Area.",
+        "@type": "Answer",
+        "description": "Common new window types include single-hung, double-hung, and casement, with frame materials like vinyl, wood, and fiberglass."
+      }
+    }
+  ],
+  "description": "Common new window types include single-hung, double-hung, and casement, with frame materials like vinyl, wood, and fiberglass."
+}

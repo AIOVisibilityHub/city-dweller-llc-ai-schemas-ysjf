@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-siding-around-windows-to-deteriorate",
+  "name": "What causes siding around windows to deteriorate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes siding around windows to deteriorate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Siding around windows often deteriorates due to a combination of factors. The most common causes include prolonged exposure to harsh weather conditions like rain, sun, and temperature fluctuations, which can lead to material breakdown and rot. Improper installation or flashing can allow water to penetrate behind the siding. Additionally, natural aging of materials, pest infestations, and lack of regular maintenance contribute to wear and tear. Over time, these issues can compromise the integrity of the siding and the window's seal.",
+        "@type": "Answer",
+        "description": "Deterioration is often caused by weather exposure, improper installation or flashing, material aging, pests, and lack of maintenance."
+      }
+    }
+  ],
+  "description": "Deterioration is often caused by weather exposure, improper installation or flashing, material aging, pests, and lack of maintenance."
+}

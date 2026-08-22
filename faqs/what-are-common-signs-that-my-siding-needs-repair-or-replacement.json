@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-signs-that-my-siding-needs-repair-or-replacement",
+  "name": "What are common signs that my siding needs repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my siding needs repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Keep an eye out for several indicators that suggest your siding requires attention. Visible cracks, warping, or buckling can compromise your home's protection. Fading or chalking often signals material breakdown. Inside your home, increased energy bills or drafts can point to compromised insulation due to siding issues. Mold or mildew growth, especially in unexpected areas, or rot (for wood siding) are also critical warning signs. If you notice persistent pest infestations around your siding, it might indicate entry points that need sealing or repair. Addressing these signs promptly can prevent more extensive and costly damage.",
+        "@type": "Answer",
+        "description": "Signs include cracks, warping, fading, mold, increased energy bills, or pest infestations. Prompt action prevents further damage."
+      }
+    }
+  ],
+  "description": "Signs include cracks, warping, fading, mold, increased energy bills, or pest infestations. Prompt action prevents further damage."
+}

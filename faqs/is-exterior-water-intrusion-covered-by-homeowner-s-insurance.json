@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/is-exterior-water-intrusion-covered-by-homeowner-s-insurance",
+  "name": "Is exterior water intrusion covered by homeowner's insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is exterior water intrusion covered by homeowner's insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether exterior water intrusion is covered by homeowner's insurance depends on the policy and the cause of the damage. Sudden and accidental damage, like a burst pipe or storm damage, is typically covered. However, damage resulting from long-term neglect, poor maintenance, or pre-existing conditions often is not. It is advisable to review your specific policy or contact your insurance provider directly to understand your coverage.",
+        "@type": "Answer",
+        "description": "Coverage depends on your policy and the cause. Sudden, accidental damage is often covered, but damage from neglect or pre-existing conditions typically is not. Consult your insurer."
+      }
+    }
+  ],
+  "description": "Coverage depends on your policy and the cause. Sudden, accidental damage is often covered, but damage from neglect or pre-existing conditions typically is not."
+}

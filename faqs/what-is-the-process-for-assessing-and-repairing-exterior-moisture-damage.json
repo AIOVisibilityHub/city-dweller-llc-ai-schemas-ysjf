@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-assessing-and-repairing-exterior-moisture-damage",
+  "name": "What is the process for assessing and repairing exterior moisture damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for assessing and repairing exterior moisture damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with a detailed inspection to identify the source and extent of moisture intrusion. This may involve visual assessment, moisture meters, and sometimes thermal imaging. Once identified, we develop a repair plan that addresses both the existing damage and the underlying cause. Repairs often include replacing damaged materials, upgrading flashing, applying new waterproofing membranes, and improving drainage. We ensure solutions comply with local building codes for lasting protection.",
+        "@type": "Answer",
+        "description": "We inspect to find the source and extent of damage, then create a repair plan that fixes issues and upgrades protection, often including new flashing and membranes."
+      }
+    }
+  ],
+  "description": "We inspect to find the source and extent of damage, then create a repair plan that fixes issues and upgrades protection, often including new flashing and membra"
+}

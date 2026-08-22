@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-vinyl-and-fiberglass-windows",
+  "name": "What's the difference between vinyl and fiberglass windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between vinyl and fiberglass windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Vinyl windows are a popular, cost-effective choice known for their low maintenance and good energy efficiency. They are resistant to moisture and don't require painting. Fiberglass windows, while often a higher upfront investment, offer superior strength, durability, and stability, making them highly resistant to warping and cracking, especially in varying Bay Area temperatures. They can also be painted to match your home's exterior, offering more design flexibility.",
+        "@type": "Answer",
+        "description": "Vinyl windows are cost-effective and low-maintenance; fiberglass windows offer superior strength, durability, and paintability."
+      }
+    }
+  ],
+  "description": "Vinyl windows are cost-effective and low-maintenance; fiberglass windows offer superior strength, durability, and paintability."
+}

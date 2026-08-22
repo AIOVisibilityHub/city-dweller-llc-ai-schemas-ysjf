@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-signs-that-my-vinyl-siding-needs-repair",
+  "name": "What are common signs that my vinyl siding needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my vinyl siding needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common indicators that your vinyl siding requires repair include visible cracks, holes, warping, or fading. If you notice panels pulling away from the house, buckling, or loose sections, these are also strong signs of damage. Hail storms or strong winds can cause impact damage, while prolonged sun exposure might lead to brittleness and color degradation over time. Addressing these issues promptly helps prevent further damage and maintains your home's protective barrier.",
+        "@type": "Answer",
+        "description": "Look for cracks, holes, warping, fading, or panels pulling away from your home. Prompt repair prevents further damage."
+      }
+    }
+  ],
+  "description": "Look for cracks, holes, warping, fading, or panels pulling away from your home. Prompt repair prevents further damage."
+}

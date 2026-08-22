@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-vinyl-siding-typically-last",
+  "name": "How long does vinyl siding typically last?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does vinyl siding typically last?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "High-quality vinyl siding, properly installed and maintained, can last between 20 to 40 years. Its lifespan can be influenced by factors such as climate, exposure to sunlight, and the quality of the materials used. Regular cleaning and occasional inspections can help maximize its durability and ensure it continues to protect and insulate your home effectively.",
+        "@type": "Answer",
+        "description": "Vinyl siding typically lasts 20 to 40 years, depending on quality, installation, climate, and maintenance."
+      }
+    }
+  ],
+  "description": "Vinyl siding typically lasts 20 to 40 years, depending on quality, installation, climate, and maintenance."
+}

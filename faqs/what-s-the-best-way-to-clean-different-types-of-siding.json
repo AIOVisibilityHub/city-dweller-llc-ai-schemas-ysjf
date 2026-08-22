@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-best-way-to-clean-different-types-of-siding",
+  "name": "What's the best way to clean different types of siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the best way to clean different types of siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best cleaning method depends on your siding material. For vinyl, fiber cement, and aluminum, a soft-bristle brush, garden hose, and a mild detergent (like dish soap or specialized siding cleaner) are usually effective. Power washing can be used, but with caution; use a wide spray nozzle and low pressure (below 1500 PSI) to avoid damaging the material or forcing water behind the panels. Wood siding requires a more gentle approach to prevent moisture damage; use a soft brush and wood-safe cleaner. Always test cleaning solutions on an inconspicuous area first.",
+        "@type": "Answer",
+        "description": "Use a soft brush and mild detergent for most siding types. Power washing requires caution, especially for vinyl and wood siding. Always test cleaners first."
+      }
+    }
+  ],
+  "description": "Use a soft brush and mild detergent for most siding types. Power washing requires caution, especially for vinyl and wood siding. Always test cleaners first."
+}

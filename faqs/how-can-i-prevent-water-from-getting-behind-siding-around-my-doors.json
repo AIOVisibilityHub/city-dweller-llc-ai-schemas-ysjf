@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-prevent-water-from-getting-behind-siding-around-my-doors",
+  "name": "How can I prevent water from getting behind siding around my doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent water from getting behind siding around my doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent water intrusion, ensure proper flashing is installed above and on the sides of the door frame. A high-quality, flexible caulk should be applied in all seams between the siding and the door trim. Maintaining proper drainage away from the house and keeping gutters clear also reduces the risk of water pooling. Regular inspections of caulk and flashing can help identify and address potential issues early.",
+        "@type": "Answer",
+        "description": "Prevent water intrusion by ensuring proper flashing, applying high-quality caulk in all seams, and maintaining good drainage away from the house."
+      }
+    }
+  ],
+  "description": "Prevent water intrusion by ensuring proper flashing, applying high-quality caulk in all seams, and maintaining good drainage away from the house."
+}

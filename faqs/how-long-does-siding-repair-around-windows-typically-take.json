@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-siding-repair-around-windows-typically-take",
+  "name": "How long does siding repair around windows typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does siding repair around windows typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of siding repair around windows depends heavily on the scope of the project. A simple repair of a single window with minimal damage might take a few hours to a day. More extensive repairs involving multiple windows, significant rot, or underlying structural issues could take several days. Factors like weather conditions and the need for specialized materials can also influence the timeline. We aim to complete projects efficiently while ensuring high-quality workmanship.",
+        "@type": "Answer",
+        "description": "Repair time varies from a few hours for minor damage to several days for extensive repairs, depending on scope, number of windows, and weather."
+      }
+    }
+  ],
+  "description": "Repair time varies from a few hours for minor damage to several days for extensive repairs, depending on scope, number of windows, and weather."
+}

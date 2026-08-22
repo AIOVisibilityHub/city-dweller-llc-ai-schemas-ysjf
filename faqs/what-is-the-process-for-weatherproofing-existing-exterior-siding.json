@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-weatherproofing-existing-exterior-siding",
+  "name": "What is the process for weatherproofing existing exterior siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for weatherproofing existing exterior siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The weatherproofing process typically begins with a thorough inspection to identify any damage, rot, or areas needing repair. We then prepare the surface by cleaning it, removing loose paint, and making necessary repairs to the siding itself. Gaps and cracks are sealed with high-quality caulking. Depending on the material, a protective primer and weather-resistant paint or stain may be applied. The goal is to create a seamless barrier against moisture intrusion.",
+        "@type": "Answer",
+        "description": "The process involves inspection, surface preparation, repairing damage, sealing gaps with caulk, and then applying protective primers or weather-resistant finishes to create a moisture barrier."
+      }
+    }
+  ],
+  "description": "The process involves inspection, surface preparation, repairing damage, sealing gaps with caulk, and then applying protective primers or weather-resistant finis"
+}

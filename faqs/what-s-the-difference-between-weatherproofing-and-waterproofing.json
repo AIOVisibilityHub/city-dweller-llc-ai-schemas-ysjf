@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-weatherproofing-and-waterproofing",
+  "name": "What's the difference between weatherproofing and waterproofing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between weatherproofing and waterproofing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often used interchangeably, weatherproofing is a broader term encompassing protection against various weather elements, including rain, wind, UV radiation, and temperature fluctuations. It aims to create a durable, weather-resistant exterior. Waterproofing specifically refers to creating an impermeable barrier against water, typically for areas subjected to hydrostatic pressure or constant moisture, like foundations or wet rooms. All waterproofing is weatherproofing, but not all weatherproofing is strictly waterproofing. For exterior walls, weatherproofing usually includes waterproofing elements but also focuses on overall durability and air sealing.",
+        "@type": "Answer",
+        "description": "Weatherproofing is broad protection against all weather elements; waterproofing specifically creates an impermeable barrier against water. All waterproofing is weatherproofing, but the reverse isn't true."
+      }
+    }
+  ],
+  "description": "Weatherproofing is broad protection against all weather elements; waterproofing specifically creates an impermeable barrier against water. All waterproofing is"
+}

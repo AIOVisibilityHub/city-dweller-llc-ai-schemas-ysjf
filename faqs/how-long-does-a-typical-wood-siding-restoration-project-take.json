@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-wood-siding-restoration-project-take",
+  "name": "How long does a typical wood siding restoration project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical wood siding restoration project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a wood siding restoration project varies based on the size of the home, the extent of damage, weather conditions, and the complexity of the chosen finish. A small project with minimal repairs might take a few days, while a larger home with significant damage requiring extensive repairs and multiple coats could take several weeks. Professionals will provide a more accurate timeline after a thorough assessment of your specific property.",
+        "@type": "Answer",
+        "description": "Project duration varies by home size, damage extent, weather, and finish complexity, ranging from a few days to several weeks."
+      }
+    }
+  ],
+  "description": "Project duration varies by home size, damage extent, weather, and finish complexity, ranging from a few days to several weeks."
+}

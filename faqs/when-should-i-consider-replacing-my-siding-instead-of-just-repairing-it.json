@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-my-siding-instead-of-just-repairing-it",
+  "name": "When should I consider replacing my siding instead of just repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my siding instead of just repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repair and replacement depends on the extent of damage and overall condition. If only a few panels are damaged, repairing them is usually more cost-effective. However, if damage is widespread across multiple sections, such as extensive cracking, warping, or dry rot affecting a large portion of the home, replacement becomes the more sensible option. Signs of structural compromise, recurring moisture issues, or a desire to significantly improve energy efficiency or curb appeal can also warrant a full replacement. A professional inspection can help determine the most economical and effective long-term solution for your home.",
+        "@type": "Answer",
+        "description": "Replace siding when damage is widespread, structural integrity is compromised, or you want significant upgrades. Repair is better for isolated issues."
+      }
+    }
+  ],
+  "description": "Replace siding when damage is widespread, structural integrity is compromised, or you want significant upgrades. Repair is better for isolated issues."
+}

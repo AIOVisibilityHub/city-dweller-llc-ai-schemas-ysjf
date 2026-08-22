@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-best-siding-color-for-my-home",
+  "name": "How do I choose the best siding color for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the best siding color for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the best siding color involves considering your home's architectural style, the surrounding landscape, and neighboring homes. Look at fixed elements like roofing, trim, and stone accents that won't change, and select a color that complements them. Using online visualization tools or test swatches on a discreet area of your home can help. Also, consider the color's impact on perceived size and curb appeal, and check local HOA guidelines if applicable in the Bay Area.",
+        "@type": "Answer",
+        "description": "Choose a siding color by considering architectural style, landscape, fixed elements, and neighbor homes. Use test swatches and check HOA rules."
+      }
+    }
+  ],
+  "description": "Choose a siding color by considering architectural style, landscape, fixed elements, and neighbor homes. Use test swatches and check HOA rules."
+}

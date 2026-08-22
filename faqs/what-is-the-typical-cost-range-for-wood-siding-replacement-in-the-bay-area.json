@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-range-for-wood-siding-replacement-in-the-bay-area",
+  "name": "What is the typical cost range for wood siding replacement in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for wood siding replacement in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of wood siding replacement in the Bay Area varies significantly based on the wood type chosen, the total square footage of your home, and the complexity of the installation. Premium woods like cedar or redwood will be more expensive than pine. Additionally, factors such as removal of old siding, necessary repairs to the underlying structure, and painting or staining costs influence the final price. We provide detailed estimates after an on-site evaluation.",
+        "@type": "Answer",
+        "description": "Cost varies based on wood type, home size, and installation complexity, with premium woods being more expensive."
+      }
+    }
+  ],
+  "description": "Cost varies based on wood type, home size, and installation complexity, with premium woods being more expensive."
+}

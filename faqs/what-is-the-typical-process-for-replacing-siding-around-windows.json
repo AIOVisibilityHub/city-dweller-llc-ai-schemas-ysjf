@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-replacing-siding-around-windows",
+  "name": "What is the typical process for replacing siding around windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for replacing siding around windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally involves removing the old siding, flashing, and trim around the window. The exposed sheathing is inspected for damage, and any necessary repairs are made. New flashing is installed to create a watertight seal, followed by a weather-resistant barrier. Finally, new siding and trim are meticulously installed and sealed to ensure a durable, weather-tight finish. Proper sealing and flashing are crucial for preventing future water intrusion.",
+        "@type": "Answer",
+        "description": "The process includes removing old materials, inspecting for damage, installing new flashing and a weather barrier, then fitting and sealing new siding and trim."
+      }
+    }
+  ],
+  "description": "The process includes removing old materials, inspecting for damage, installing new flashing and a weather barrier, then fitting and sealing new siding and trim."
+}

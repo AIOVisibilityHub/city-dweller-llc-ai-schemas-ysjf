@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-complete-siding-repair-around-a-door",
+  "name": "How long does it take to complete siding repair around a door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete siding repair around a door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of siding repair around a door depends on the severity and complexity of the damage. For minor issues like replacing a few damaged boards or re-sealing, the job might be completed within half a day to one full day. However, if there's extensive rot, mold, or structural damage that requires additional framing or water barrier replacement, the project could extend to several days. Weather conditions can also influence the timeline, as exterior work often requires dry conditions.",
+        "@type": "Answer",
+        "description": "Minor repairs can take half a day to a full day. Extensive rot or structural damage may extend the project to several days, depending on severity and weather conditions."
+      }
+    }
+  ],
+  "description": "Minor repairs can take half a day to a full day. Extensive rot or structural damage may extend the project to several days, depending on severity and weather co"
+}

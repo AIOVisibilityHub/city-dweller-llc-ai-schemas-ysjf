@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/does-siding-staining-offer-protection-against-weather-and-pests",
+  "name": "Does siding staining offer protection against weather and pests?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does siding staining offer protection against weather and pests?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, siding staining provides significant protection for your wood siding. Stains penetrate the wood fibers, offering a barrier against moisture intrusion, which can lead to rot and mildew. They also contain UV inhibitors that protect against sun damage, preventing fading and degradation. While not pest-proof, a well-maintained, stained surface is less inviting for wood-boring insects.",
+        "@type": "Answer",
+        "description": "Staining protects against moisture, UV damage, and makes wood less attractive to pests."
+      }
+    }
+  ],
+  "description": "Staining protects against moisture, UV damage, and makes wood less attractive to pests."
+}

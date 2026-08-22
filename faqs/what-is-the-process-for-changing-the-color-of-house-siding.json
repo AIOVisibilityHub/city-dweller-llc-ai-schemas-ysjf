@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-changing-the-color-of-house-siding",
+  "name": "What is the process for changing the color of house siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for changing the color of house siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with a thorough cleaning of the existing siding to remove dirt, mildew, and loose paint. Any damaged areas are repaired or replaced. Next, the surface is prepped, which may involve sanding or priming, especially for significant color changes or certain materials. Finally, the new color is applied, usually through painting or staining, ensuring even coverage and durability. A final inspection completes the job.",
+        "@type": "Answer",
+        "description": "The process involves cleaning, repairing, prepping (sanding/priming), and then applying the new color. A final inspection ensures quality."
+      }
+    }
+  ],
+  "description": "The process involves cleaning, repairing, prepping (sanding/priming), and then applying the new color. A final inspection ensures quality."
+}

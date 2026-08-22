@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-tell-if-my-home-has-adequate-exterior-moisture-protection",
+  "name": "How can I tell if my home has adequate exterior moisture protection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my home has adequate exterior moisture protection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of inadequate moisture protection include water stains on ceilings or walls, peeling paint, cracked stucco or siding, musty odors indoors, efflorescence (white powdery substance) on masonry, or visible mold growth. Inspect your roof for missing shingles, look for damaged flashing around windows and doors, and check gutters for blockages. Our team can perform a thorough exterior inspection to identify vulnerabilities and recommend appropriate solutions.",
+        "@type": "Answer",
+        "description": "Look for water stains, peeling paint, cracks, musty odors, or mold. A professional inspection can identify specific vulnerabilities."
+      }
+    }
+  ],
+  "description": "Look for water stains, peeling paint, cracks, musty odors, or mold. A professional inspection can identify specific vulnerabilities."
+}

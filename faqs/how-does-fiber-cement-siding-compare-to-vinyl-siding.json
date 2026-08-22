@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-does-fiber-cement-siding-compare-to-vinyl-siding",
+  "name": "How does fiber cement siding compare to vinyl siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does fiber cement siding compare to vinyl siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fiber cement siding offers superior durability, fire resistance, and a more robust appearance compared to vinyl siding. It is less prone to melting, cracking from extreme temperature changes, or fading over time. While vinyl is generally a lower-cost initial investment and quicker to install, fiber cement provides better protection against pests and offers a higher return on investment due to its longevity and aesthetic appeal. Fiber cement also allows for custom paint colors.",
+        "@type": "Answer",
+        "description": "Fiber cement is more durable, fire-resistant, and aesthetically versatile than vinyl, offering better long-term protection and appearance."
+      }
+    }
+  ],
+  "description": "Fiber cement is more durable, fire-resistant, and aesthetically versatile than vinyl, offering better long-term protection and appearance."
+}

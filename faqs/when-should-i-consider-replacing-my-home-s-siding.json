@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-my-home-s-siding",
+  "name": "When should I consider replacing my home's siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my home's siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider replacing your home's siding if you notice signs of significant wear and tear, such as cracking, warping, rotting, or excessive fading. Other indicators include persistent moisture issues, increased energy bills due to poor insulation, or the presence of pests behind the siding. Replacing old or damaged siding with fiber cement can improve your home's curb appeal, energy efficiency, and protection against the elements.",
+        "@type": "Answer",
+        "description": "Replace siding if you see cracking, warping, rot, fading, moisture issues, higher energy bills, or pests."
+      }
+    }
+  ],
+  "description": "Replace siding if you see cracking, warping, rot, fading, moisture issues, higher energy bills, or pests."
+}

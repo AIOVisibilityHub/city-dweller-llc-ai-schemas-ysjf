@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-wood-siding-repair-project-take",
+  "name": "How long does a typical wood siding repair project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical wood siding repair project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a wood siding repair project varies significantly based on the scope of work. Small, isolated repairs on a few boards might be completed within a day or two. More extensive damage across multiple sections, especially if it involves identifying and addressing underlying moisture issues, could take several days to a week or more. Factors like weather conditions, material availability, and the need for paint or stain drying time also influence the overall project timeline.",
+        "@type": "Answer",
+        "description": "Project duration depends on repair scope; small jobs take a day or two, while extensive damage could take a week or more. Weather and drying time also play a role."
+      }
+    }
+  ],
+  "description": "Project duration depends on repair scope; small jobs take a day or two, while extensive damage could take a week or more. Weather and drying time also play a ro"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-repair-or-replace-my-siding-corners",
+  "name": "When should I repair or replace my siding corners?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair or replace my siding corners?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider repair for minor issues like small cracks, minor dents, or loose sections if the underlying material is still sound. Replacement is necessary for extensive damage such as significant rot, large holes, or widespread deterioration that compromises the structural integrity and weatherproofing. If multiple corners are damaged, or if the damage is linked to a larger issue like water intrusion behind the siding, full replacement of the affected sections or even entire corners might be more effective and cost-efficient in the long run. Early intervention can prevent minor issues from escalating.",
+        "@type": "Answer",
+        "description": "Repair minor damage, but replace siding corners with extensive rot, large holes, or widespread deterioration."
+      }
+    }
+  ],
+  "description": "Repair minor damage, but replace siding corners with extensive rot, large holes, or widespread deterioration."
+}

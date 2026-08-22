@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-warranty-comes-with-new-windows",
+  "name": "What kind of warranty comes with new windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty comes with new windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most new windows come with a manufacturer's warranty that covers defects in materials and workmanship, often ranging from 10 years to a limited lifetime. The specifics, such as coverage for glass, frames, or hardware, vary by manufacturer. Additionally, as your contractor, we provide a warranty on our installation labor. We will review all warranty details with you during the selection process so you understand the protection for your investment.",
+        "@type": "Answer",
+        "description": "New windows typically come with a manufacturer's warranty for materials and workmanship, plus a separate labor warranty from the installer."
+      }
+    }
+  ],
+  "description": "New windows typically come with a manufacturer's warranty for materials and workmanship, plus a separate labor warranty from the installer."
+}

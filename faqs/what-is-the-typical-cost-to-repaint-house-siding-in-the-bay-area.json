@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-to-repaint-house-siding-in-the-bay-area",
+  "name": "What is the typical cost to repaint house siding in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to repaint house siding in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of repainting house siding in the Bay Area varies significantly based on factors such as the size and height of the house, the type of siding, the condition of the existing paint, and the quality of paint chosen. Additional costs might include extensive prep work like power washing, scraping, repairs, or primer application. We provide detailed, itemized estimates after an on-site evaluation to ensure accuracy for your specific property.",
+        "@type": "Answer",
+        "description": "Siding repainting costs in the Bay Area depend on house size, siding type, current condition, and paint quality. We offer itemized estimates after a site evaluation."
+      }
+    }
+  ],
+  "description": "Siding repainting costs in the Bay Area depend on house size, siding type, current condition, and paint quality. We offer itemized estimates after a site evalua"
+}

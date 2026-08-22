@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-repairing-siding-around-doors",
+  "name": "What is the typical process for repairing siding around doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for repairing siding around doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically begins with a thorough inspection to assess the extent of the damage. This involves identifying the cause of the problem, such as water leaks or rot. Damaged siding panels, trim, or flashing are carefully removed. The underlying structure is then inspected and repaired if necessary. New, matching siding materials are installed, ensuring proper waterproofing with new flashing, house wrap, and sealant around the door frame. Finally, the repaired area is painted or stained to seamlessly blend with the existing exterior.",
+        "@type": "Answer",
+        "description": "The process involves inspection, removal of damaged materials, repair of underlying structure, installation of new siding and flashing, and sealing. The area is then painted to match."
+      }
+    }
+  ],
+  "description": "The process involves inspection, removal of damaged materials, repair of underlying structure, installation of new siding and flashing, and sealing. The area is"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-a-window-inspection-and-a-window-estimate",
+  "name": "What's the difference between a window inspection and a window estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a window inspection and a window estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A window inspection is a detailed assessment of your existing windows' condition, identifying all current issues, potential problems, and overall performance. It focuses on diagnosis. A window estimate, on the other hand, provides a cost projection for specific services, such as repairing or replacing windows. An estimate typically follows an inspection, or a preliminary assessment, once the scope of work is determined. The inspection informs the estimate.",
+        "@type": "Answer",
+        "description": "An inspection diagnoses current window issues and performance, while an estimate provides a cost projection for repairs or replacement based on those findings."
+      }
+    }
+  ],
+  "description": "An inspection diagnoses current window issues and performance, while an estimate provides a cost projection for repairs or replacement based on those findings."
+}

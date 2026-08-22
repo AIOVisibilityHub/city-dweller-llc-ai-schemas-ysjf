@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-maintenance-is-required-for-new-wood-siding",
+  "name": "What maintenance is required for new wood siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for new wood siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New wood siding requires regular maintenance to preserve its appearance and extend its lifespan. This typically includes periodic cleaning to prevent mold and mildew growth, and re-painting or re-staining every 5-10 years, depending on the type of finish and exposure to elements. Promptly addressing any minor damage, such as cracks or chips, is also crucial to prevent water infiltration and further deterioration. Proper maintenance protects your investment and keeps your home looking its best.",
+        "@type": "Answer",
+        "description": "New wood siding needs regular cleaning and re-painting or re-staining every 5-10 years, plus prompt repair of minor damage."
+      }
+    }
+  ],
+  "description": "New wood siding needs regular cleaning and re-painting or re-staining every 5-10 years, plus prompt repair of minor damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-steps-are-involved-in-preparing-my-siding-for-painting",
+  "name": "What steps are involved in preparing my siding for painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in preparing my siding for painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper preparation is key to a long-lasting paint job. First, thoroughly clean the siding to remove all dirt, mildew, and loose paint; power washing on a low setting is often effective, but ensure siding is dry before proceeding. Next, inspect for any damage like cracks, holes, or rot and repair them. Caulk any gaps around windows and doors. For wood siding, prime any bare wood or patched areas to ensure adhesion and prevent bleed-through. Finally, scrape off any peeling paint and lightly sand rough spots to create a smooth surface for the new paint. This meticulous preparation prevents premature peeling and enhances durability.",
+        "@type": "Answer",
+        "description": "Preparation involves thorough cleaning, repairing any damage, caulking gaps, priming bare wood, and scraping/sanding old paint for a smooth surface."
+      }
+    }
+  ],
+  "description": "Preparation involves thorough cleaning, repairing any damage, caulking gaps, priming bare wood, and scraping/sanding old paint for a smooth surface."
+}

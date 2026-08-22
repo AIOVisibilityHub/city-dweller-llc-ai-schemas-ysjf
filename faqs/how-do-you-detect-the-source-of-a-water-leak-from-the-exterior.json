@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-you-detect-the-source-of-a-water-leak-from-the-exterior",
+  "name": "How do you detect the source of a water leak from the exterior?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you detect the source of a water leak from the exterior?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Detecting the source of an exterior water leak involves a systematic inspection. Our process often includes visual assessment of the roof, flashing, gutters, siding, windows, and foundation for visible damage or entry points. We may also use moisture meters, infrared cameras, or controlled water testing to pinpoint hidden leaks. Thorough detection is crucial to ensure all entry points are identified and properly sealed.",
+        "@type": "Answer",
+        "description": "We use visual inspections, moisture meters, infrared cameras, and controlled water testing to find exterior leak sources."
+      }
+    }
+  ],
+  "description": "We use visual inspections, moisture meters, infrared cameras, and controlled water testing to find exterior leak sources."
+}

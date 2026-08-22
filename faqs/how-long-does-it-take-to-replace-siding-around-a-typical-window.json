@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-replace-siding-around-a-typical-window",
+  "name": "How long does it take to replace siding around a typical window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace siding around a typical window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration depends on the extent of the work, the type of siding, and whether any underlying damage needs repair. For a single window with no significant underlying issues, the replacement of surrounding siding can typically be completed within a few hours to half a day. If multiple windows are involved, or if rot and structural repairs are needed, the project could extend over several days. We provide a detailed timeline after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Replacing siding around a single window can take a few hours to half a day, but varies with project scope and any necessary repairs."
+      }
+    }
+  ],
+  "description": "Replacing siding around a single window can take a few hours to half a day, but varies with project scope and any necessary repairs."
+}
