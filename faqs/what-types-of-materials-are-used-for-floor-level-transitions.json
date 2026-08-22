@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-materials-are-used-for-floor-level-transitions",
+  "name": "What types of materials are used for floor level transitions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are used for floor level transitions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Various materials are used for floor level transitions, chosen based on the flooring types, height difference, and desired aesthetic. Common options include wood or laminate transition strips (T-molding, reducer strips), metal thresholds (brass, aluminum), and vinyl or rubber reducers. For more significant height differences or subfloor issues, leveling compounds, plywood shims, or even structural adjustments may be necessary to create a stable, even base before installing the final transition material.",
+        "@type": "Answer",
+        "description": "Materials include wood, laminate, metal, vinyl, or rubber transition strips. Leveling compounds or subfloor adjustments are used for larger height differences."
+      }
+    }
+  ],
+  "description": "Materials include wood, laminate, metal, vinyl, or rubber transition strips. Leveling compounds or subfloor adjustments are used for larger height differences."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-accessible-light-switches-require-special-wiring-or-electrical-work",
+  "name": "Do accessible light switches require special wiring or electrical work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do accessible light switches require special wiring or electrical work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many accessible light switches, such as rocker or paddle switches, can be direct replacements for existing standard switches and typically do not require special wiring, assuming your current electrical box meets modern standards. However, some smart switches may require a neutral wire, which might not be present in older homes, necessitating minor electrical work. Complex whole-house smart home integrations could involve more extensive wiring changes. A qualified electrician can assess your specific situation.",
+        "@type": "Answer",
+        "description": "Many accessible switches are direct replacements, but some smart switches may require a neutral wire or more complex wiring adjustments, especially in older homes."
+      }
+    }
+  ],
+  "description": "Many accessible switches are direct replacements, but some smart switches may require a neutral wire or more complex wiring adjustments, especially in older hom"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-type-of-accessible-light-switch-for-my-home",
+  "name": "How do I choose the right type of accessible light switch for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right type of accessible light switch for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right accessible light switch involves considering the user's specific needs, the room's function, and your budget. Evaluate factors like dexterity, visual acuity, and mobility. For example, rocker switches are simple, while smart switches offer advanced control for varying abilities. Consulting with a general contractor can help you compare options and integrate them seamlessly into your home's existing electrical system and decor.",
+        "@type": "Answer",
+        "description": "Consider user needs (dexterity, vision), room function, and budget. Consult a contractor to compare options and ensure seamless integration."
+      }
+    }
+  ],
+  "description": "Consider user needs (dexterity, vision), room function, and budget. Consult a contractor to compare options and ensure seamless integration."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-ongoing-maintenance-does-a-senior-s-home-require",
+  "name": "What kind of ongoing maintenance does a senior's home require?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of ongoing maintenance does a senior's home require?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ongoing maintenance for a senior's home often involves regular safety checks, such as ensuring smoke detectors and carbon monoxide alarms are functional, and that pathways remain clear of clutter. It also includes routine repairs like fixing leaky faucets, securing loose handrails, and checking for any potential tripping hazards. Seasonal maintenance, like gutter cleaning or HVAC system checks, is also vital for comfort and safety. Proactive upkeep helps prevent small issues from becoming larger, more hazardous problems.",
+        "@type": "Answer",
+        "description": "Ongoing maintenance includes regular safety checks, routine repairs, and seasonal tasks like gutter cleaning, all aimed at preventing hazards and ensuring comfort."
+      }
+    }
+  ],
+  "description": "Ongoing maintenance includes regular safety checks, routine repairs, and seasonal tasks like gutter cleaning, all aimed at preventing hazards and ensuring comfo"
+}

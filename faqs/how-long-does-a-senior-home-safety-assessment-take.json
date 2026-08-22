@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-senior-home-safety-assessment-take",
+  "name": "How long does a senior home safety assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a senior home safety assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a senior home safety assessment can vary depending on the size and complexity of the home, as well as the thoroughness of the evaluation. Typically, an on-site assessment can take anywhere from one to three hours. This timeframe allows the assessor to carefully inspect all rooms, identify potential hazards, and discuss observations with the homeowner or family. The subsequent report generation and recommendation delivery might take additional time after the physical inspection is complete.",
+        "@type": "Answer",
+        "description": "An on-site senior home safety assessment usually takes one to three hours, depending on the home's size. Report generation follows the physical inspection."
+      }
+    }
+  ],
+  "description": "An on-site senior home safety assessment usually takes one to three hours, depending on the home's size. Report generation follows the physical inspection."
+}

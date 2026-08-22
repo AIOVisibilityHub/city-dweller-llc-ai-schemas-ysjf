@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-often-should-accessibility-features-in-my-home-be-inspected",
+  "name": "How often should accessibility features in my home be inspected?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should accessibility features in my home be inspected?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The frequency of inspections for accessibility features depends on their type, usage, and material. High-traffic items like ramps and automatic door openers may require annual checks, while grab bars or shower seats could be inspected every 1-2 years. It's also advisable to perform a visual check after any significant weather events or if you notice any changes in functionality or stability. City Dweller, LLC can help establish a suitable maintenance schedule tailored to your specific home and installed features.",
+        "@type": "Answer",
+        "description": "Inspection frequency varies by feature and usage; high-traffic items may need annual checks, others every 1-2 years. Check after weather events or if functionality changes."
+      }
+    }
+  ],
+  "description": "Inspection frequency varies by feature and usage; high-traffic items may need annual checks, others every 1-2 years. Check after weather events or if functional"
+}

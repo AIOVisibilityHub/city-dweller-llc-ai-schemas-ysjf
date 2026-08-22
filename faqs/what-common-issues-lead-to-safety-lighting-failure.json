@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-common-issues-lead-to-safety-lighting-failure",
+  "name": "What common issues lead to safety lighting failure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common issues lead to safety lighting failure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Safety lighting can fail due to several common issues. These often include faulty wiring, aging fixtures, or damage from weather exposure. Blown bulbs or ballasts are frequent culprits, especially in older systems. Sensor malfunctions, such as those controlling motion-activated lights, can also prevent lights from turning on when needed. Additionally, power supply interruptions or issues with the circuit breaker connected to the lighting system can cause widespread outages. Regular inspections can help identify and address these problems before they lead to complete failure, ensuring your property remains secure.",
+        "@type": "Answer",
+        "description": "Common issues include faulty wiring, aging fixtures, weather damage, blown bulbs, sensor malfunctions, or power supply interruptions."
+      }
+    }
+  ],
+  "description": "Common issues include faulty wiring, aging fixtures, weather damage, blown bulbs, sensor malfunctions, or power supply interruptions."
+}

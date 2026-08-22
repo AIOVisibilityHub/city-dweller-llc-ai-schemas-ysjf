@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-night-lights-affect-my-home-s-energy-consumption",
+  "name": "How do night lights affect my home's energy consumption?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do night lights affect my home's energy consumption?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Modern night lights, particularly those utilizing LED technology, are very energy-efficient and have a minimal impact on your home's energy consumption. LED lights consume significantly less power than traditional incandescent bulbs and have a much longer lifespan. Solar-powered night lights consume no grid electricity at all. Even hardwired systems, when properly designed and potentially paired with timers or motion sensors, contribute very little to your overall energy bill, making them an eco-friendly choice for outdoor illumination.",
+        "@type": "Answer",
+        "description": "Modern LED night lights are very energy-efficient, with minimal impact on consumption. Solar lights use no grid electricity."
+      }
+    }
+  ],
+  "description": "Modern LED night lights are very energy-efficient, with minimal impact on consumption. Solar lights use no grid electricity."
+}

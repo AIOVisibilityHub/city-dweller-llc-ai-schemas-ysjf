@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-a-minor-lighting-repair-and-a-major-safety-upgrade",
+  "name": "What's the difference between a minor lighting repair and a major safety upgrade?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a minor lighting repair and a major safety upgrade?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A minor lighting repair typically involves fixing a single faulty fixture, switch, or outlet that isn't indicative of a systemic issue. Examples include replacing a broken dimmer or troubleshooting a non-working light. A major safety upgrade, however, addresses foundational electrical issues like outdated wiring, an overloaded electrical panel, or a lack of modern safety devices such as GFCIs/AFCIs, often requiring more extensive work to bring the entire system up to current code standards.",
+        "@type": "Answer",
+        "description": "Minor repairs fix isolated issues, while major safety upgrades address systemic problems like outdated wiring, overloaded panels, or lack of modern safety devices."
+      }
+    }
+  ],
+  "description": "Minor repairs fix isolated issues, while major safety upgrades address systemic problems like outdated wiring, overloaded panels, or lack of modern safety devic"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-signs-that-my-home-s-electrical-lighting-system-needs-safety-upg",
+  "name": "What are common signs that my home's electrical lighting system needs safety upgrades?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my home's electrical lighting system needs safety upgrades?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Look for flickering lights, frequently tripping breakers, outlets that spark, or a persistent burning smell. Warm or discolored switch plates or outlets can also indicate issues. Older homes, especially those built before the 1970s, may have outdated wiring like knob-and-tube or aluminum wiring, which can pose significant fire hazards. Addressing these signs proactively can prevent serious electrical problems and ensure your home's safety.",
+        "@type": "Answer",
+        "description": "Flickering lights, tripping breakers, sparking outlets, or a burning smell are common signs. Older homes often need updates due to outdated wiring."
+      }
+    }
+  ],
+  "description": "Flickering lights, tripping breakers, sparking outlets, or a burning smell are common signs. Older homes often need updates due to outdated wiring."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-home-repairs-do-you-offer-for-seniors",
+  "name": "What types of home repairs do you offer for seniors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of home repairs do you offer for seniors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC provides a wide range of home repair services tailored for seniors, focusing on safety, accessibility, and comfort. This includes repairs to plumbing fixtures, electrical systems, minor structural issues, and general maintenance like repairing leaky faucets, fixing doors and windows, and drywall patching. We can also assist with installing grab bars, handrails, and performing minor modifications to improve home safety and ease of movement.",
+        "@type": "Answer",
+        "description": "We offer a variety of repairs including plumbing, electrical, minor structural fixes, and accessibility modifications like grab bar installation."
+      }
+    }
+  ],
+  "description": "We offer a variety of repairs including plumbing, electrical, minor structural fixes, and accessibility modifications like grab bar installation."
+}

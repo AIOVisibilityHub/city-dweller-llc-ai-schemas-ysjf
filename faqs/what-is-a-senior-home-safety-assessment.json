@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-senior-home-safety-assessment",
+  "name": "What is a senior home safety assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a senior home safety assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A senior home safety assessment is a thorough evaluation of a living space to identify potential hazards and recommend modifications that enhance safety and accessibility for older adults. It typically covers areas like bathrooms, kitchens, bedrooms, entrances, and common living spaces, focusing on preventing falls, improving mobility, and ensuring a comfortable environment. Recommendations often include grab bars, improved lighting, non-slip flooring, and accessible entryways. The goal is to allow seniors to age in place safely and independently.",
+        "@type": "Answer",
+        "description": "A senior home safety assessment identifies hazards in a home and recommends modifications to improve safety and accessibility for older adults, aiming to prevent falls and enhance independence."
+      }
+    }
+  ],
+  "description": "A senior home safety assessment identifies hazards in a home and recommends modifications to improve safety and accessibility for older adults, aiming to preven"
+}

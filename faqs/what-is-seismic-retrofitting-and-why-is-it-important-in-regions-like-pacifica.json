@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-seismic-retrofitting-and-why-is-it-important-in-regions-like-pacifica",
+  "name": "What is seismic retrofitting and why is it important in regions like Pacifica?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is seismic retrofitting and why is it important in regions like Pacifica?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Seismic retrofitting involves strengthening a building's structure to better withstand earthquake forces. This can include bolting the house to its foundation, reinforcing cripple walls, and installing shear paneling. In earthquake-prone areas like Pacifica and the wider Bay Area, seismic retrofitting is critically important to protect lives and minimize property damage during seismic events. It helps prevent homes from sliding off their foundations or collapsing, significantly improving their resilience.",
+        "@type": "Answer",
+        "description": "Seismic retrofitting strengthens a building against earthquakes by reinforcing its structure, crucial for homes in active seismic zones like Pacifica."
+      }
+    }
+  ],
+  "description": "Seismic retrofitting strengthens a building against earthquakes by reinforcing its structure, crucial for homes in active seismic zones like Pacifica."
+}

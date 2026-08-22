@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-there-any-specific-electrical-safety-codes-for-lighting-upgrades-in-older-ho",
+  "name": "Are there any specific electrical safety codes for lighting upgrades in older homes in cities like San Francisco or nearby Bay Area locales?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any specific electrical safety codes for lighting upgrades in older homes in cities like San Francisco or nearby Bay Area locales?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, older homes in cities like San Francisco, and other Bay Area communities such as San Mateo or Redwood City, often have specific requirements for electrical upgrades. Local building codes, which are usually based on the National Electrical Code (NEC) with local amendments, may mandate specific procedures for handling existing wiring (like knob-and-tube or aluminum), require higher amperage services, or insist on certain fire safety measures. Always consult with a local, licensed electrician and your city's planning department for precise regulations before starting work.",
+        "@type": "Answer",
+        "description": "Older homes in Bay Area cities like San Francisco have specific electrical codes. Consult a licensed local electrician and your city's planning department for details."
+      }
+    }
+  ],
+  "description": "Older homes in Bay Area cities like San Francisco have specific electrical codes. Consult a licensed local electrician and your city's planning department for d"
+}

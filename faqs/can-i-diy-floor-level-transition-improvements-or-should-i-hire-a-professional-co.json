@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-diy-floor-level-transition-improvements-or-should-i-hire-a-professional-co",
+  "name": "Can I DIY floor level transition improvements, or should I hire a professional contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I DIY floor level transition improvements, or should I hire a professional contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor floor level transitions, like installing a basic transition strip between floors with minimal height difference, might be a feasible DIY project for experienced homeowners. However, if there are significant height discrepancies, structural issues, or if the transition is in a high-traffic area requiring precise leveling for safety and durability, hiring a professional contractor is strongly recommended. Professionals ensure proper subfloor preparation, use suitable materials, and achieve a durable, code-compliant result.",
+        "@type": "Answer",
+        "description": "Minor transitions might be DIY, but significant height differences or structural issues require a professional contractor for safety, durability, and compliance."
+      }
+    }
+  ],
+  "description": "Minor transitions might be DIY, but significant height differences or structural issues require a professional contractor for safety, durability, and compliance"
+}

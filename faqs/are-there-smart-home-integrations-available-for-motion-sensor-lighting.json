@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-there-smart-home-integrations-available-for-motion-sensor-lighting",
+  "name": "Are there smart home integrations available for motion sensor lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there smart home integrations available for motion sensor lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, many modern motion sensor lighting systems offer robust smart home integrations. These systems can connect to platforms like Google Home or Amazon Alexa, allowing for voice control, scheduling, and integration with other smart devices. You can often customize settings via a smartphone app, receive alerts, or even link them to security cameras. This enhances convenience, security, and energy management, giving you greater control over your home's lighting and security from anywhere.",
+        "@type": "Answer",
+        "description": "Yes, many systems integrate with smart home platforms like Google Home or Amazon Alexa, offering voice control, scheduling, and app-based customization for enhanced convenience and security."
+      }
+    }
+  ],
+  "description": "Yes, many systems integrate with smart home platforms like Google Home or Amazon Alexa, offering voice control, scheduling, and app-based customization for enha"
+}

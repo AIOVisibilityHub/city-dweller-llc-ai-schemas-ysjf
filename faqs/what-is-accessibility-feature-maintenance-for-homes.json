@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-accessibility-feature-maintenance-for-homes",
+  "name": "What is accessibility feature maintenance for homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is accessibility feature maintenance for homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Accessibility feature maintenance involves ensuring that modifications made to a home for accessibility, such as ramps, grab bars, wider doorways, or roll-in showers, remain safe, functional, and compliant with their intended design. This includes regular inspections, repairs, and adjustments to prevent wear and tear that could compromise their effectiveness or safety for residents. Timely maintenance extends the lifespan of these features and helps avoid more costly repairs down the line, ensuring continuous ease of use for those who rely on them.",
+        "@type": "Answer",
+        "description": "Accessibility feature maintenance ensures home modifications like ramps and grab bars remain safe and functional through regular inspections and repairs."
+      }
+    }
+  ],
+  "description": "Accessibility feature maintenance ensures home modifications like ramps and grab bars remain safe and functional through regular inspections and repairs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-often-should-i-inspect-my-outdoor-safety-lights",
+  "name": "How often should I inspect my outdoor safety lights?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I inspect my outdoor safety lights?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It's recommended to visually inspect your outdoor safety lights at least once a month for obvious damage, such as cracked lenses or loose wires. A more thorough professional inspection should be conducted annually to check electrical connections, fixture integrity, and sensor functionality. This is especially important before the winter season when darker evenings increase the reliance on safety lighting. Regular maintenance helps prevent unexpected failures, extends the lifespan of the system, and ensures your property in areas like Pacifica and Daly City remains well-lit and secure.",
+        "@type": "Answer",
+        "description": "Visually inspect monthly; professional inspection annually. Regular checks prevent failure and extend system life."
+      }
+    }
+  ],
+  "description": "Visually inspect monthly; professional inspection annually. Regular checks prevent failure and extend system life."
+}

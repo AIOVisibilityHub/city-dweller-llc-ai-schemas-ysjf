@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-installing-new-rocker-light-switches",
+  "name": "What is the typical process for installing new rocker light switches?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for installing new rocker light switches?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process for a new rocker light switch typically involves turning off power at the circuit breaker, carefully removing the old switch, and then wiring the new rocker switch according to electrical codes. This usually means connecting the hot wire, load wire, and ground wire correctly to the new switch terminals. After installation, the switch is secured in the electrical box, a faceplate is attached, and power is restored to test its function. For safety and compliance, this work should ideally be performed by a qualified electrician.",
+        "@type": "Answer",
+        "description": "Installation involves turning off power, removing the old switch, wiring the new rocker switch, securing it, attaching a faceplate, and restoring power. A qualified electrician should perform this work."
+      }
+    }
+  ],
+  "description": "Installation involves turning off power, removing the old switch, wiring the new rocker switch, securing it, attaching a faceplate, and restoring power. A quali"
+}

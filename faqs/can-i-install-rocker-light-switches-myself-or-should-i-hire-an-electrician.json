@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-install-rocker-light-switches-myself-or-should-i-hire-an-electrician",
+  "name": "Can I install rocker light switches myself, or should I hire an electrician?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install rocker light switches myself, or should I hire an electrician?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's possible for a homeowner with electrical experience to install rocker light switches, it's generally recommended to hire a licensed electrician. Working with electricity carries inherent risks, including electric shock and fire hazards, if not done correctly. An electrician ensures that the wiring complies with local electrical codes, uses the correct switch types for your circuit, and guarantees the safety and proper function of your electrical system. For residents in the Bay Area, consulting City Dweller, LLC ensures professional and safe installation.",
+        "@type": "Answer",
+        "description": "Hiring a licensed electrician for rocker switch installation is recommended due to safety risks and to ensure compliance with electrical codes. Incorrect installation can be hazardous."
+      }
+    }
+  ],
+  "description": "Hiring a licensed electrician for rocker switch installation is recommended due to safety risks and to ensure compliance with electrical codes. Incorrect instal"
+}

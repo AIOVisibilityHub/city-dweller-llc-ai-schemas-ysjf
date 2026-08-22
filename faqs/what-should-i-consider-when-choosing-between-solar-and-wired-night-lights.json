@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-consider-when-choosing-between-solar-and-wired-night-lights",
+  "name": "What should I consider when choosing between solar and wired night lights?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing between solar and wired night lights?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing between solar and wired night lights, consider several factors. Solar lights are easier to install, require no wiring, and have no ongoing electricity costs. However, their brightness and duration are dependent on sunlight exposure. Wired lights offer consistent brightness, reliability, and more control over illumination, but involve higher installation costs due to wiring and professional installation. Consider your aesthetic preferences, budget, desired brightness, and the amount of sunlight your desired installation area receives.",
+        "@type": "Answer",
+        "description": "Solar lights are easy to install but sunlight-dependent. Wired lights offer consistent brightness but require professional installation and wiring."
+      }
+    }
+  ],
+  "description": "Solar lights are easy to install but sunlight-dependent. Wired lights offer consistent brightness but require professional installation and wiring."
+}

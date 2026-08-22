@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-perform-a-senior-home-safety-assessment-myself",
+  "name": "Can I perform a senior home safety assessment myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I perform a senior home safety assessment myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While you can certainly identify obvious hazards, a professional senior home safety assessment offers a more comprehensive and expert evaluation. Professionals are trained to spot less obvious risks, understand specific accessibility standards, and recommend tailored solutions that you might overlook. They can also advise on specific products and installation techniques to ensure modifications are effective and safe. A DIY approach might miss critical details that a trained eye would catch, potentially compromising safety.",
+        "@type": "Answer",
+        "description": "You can identify some hazards yourself, but a professional assessment provides a more comprehensive, expert evaluation of risks and tailored solutions, ensuring greater safety."
+      }
+    }
+  ],
+  "description": "You can identify some hazards yourself, but a professional assessment provides a more comprehensive, expert evaluation of risks and tailored solutions, ensuring"
+}

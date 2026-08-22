@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-your-senior-home-maintenance-services-insured-and-licensed-in-the-bay-area",
+  "name": "Are your senior home maintenance services insured and licensed in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are your senior home maintenance services insured and licensed in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, as a professional general contractor operating in the Bay Area, City Dweller, LLC is fully licensed and insured. Our California contractor's license ensures we meet the state's requirements for competence and ethical operation. We also carry comprehensive liability insurance, which protects both our clients and our team in the unlikely event of an accident or property damage during our work. We can provide proof of both license and insurance upon request, offering peace of mind that you are working with a reputable and compliant service provider for your senior home maintenance needs.",
+        "@type": "Answer",
+        "description": "Yes, City Dweller, LLC is a fully licensed and insured general contractor in the Bay Area, providing peace of mind and protection for our senior home maintenance services."
+      }
+    }
+  ],
+  "description": "Yes, City Dweller, LLC is a fully licensed and insured general contractor in the Bay Area, providing peace of mind and protection for our senior home maintenanc"
+}

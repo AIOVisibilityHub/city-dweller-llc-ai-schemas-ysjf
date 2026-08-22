@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-troubleshoot-common-issues-with-my-motion-sensor-lights-such-as-false-a",
+  "name": "How do I troubleshoot common issues with my motion sensor lights, such as false alarms or not turning on?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I troubleshoot common issues with my motion sensor lights, such as false alarms or not turning on?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common issues with motion sensor lights often stem from incorrect settings or environmental factors. If experiencing false alarms, check the sensor's sensitivity and adjust it downwards, or clear any obstacles like swaying branches that might be triggering it. If the light isn't turning on, ensure the power source is active, check the bulb, and verify the sensor's range and duration settings. Extreme temperature changes can also affect some sensors. If basic troubleshooting doesn't resolve the issue, a professional electrician can diagnose and fix more complex problems.",
+        "@type": "Answer",
+        "description": "Adjust sensitivity to reduce false alarms, clear obstacles, and check power, bulb, and sensor settings if lights aren't turning on. Professional help is advised for persistent issues."
+      }
+    }
+  ],
+  "description": "Adjust sensitivity to reduce false alarms, clear obstacles, and check power, bulb, and sensor settings if lights aren't turning on. Professional help is advised"
+}

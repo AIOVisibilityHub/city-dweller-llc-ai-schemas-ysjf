@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-accessibility-feature-maintenance-requirements-differ-for-residential-versus",
+  "name": "Do accessibility feature maintenance requirements differ for residential versus commercial properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do accessibility feature maintenance requirements differ for residential versus commercial properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, maintenance requirements often differ between residential and commercial properties. Commercial properties typically face more stringent regulatory compliance, such as ADA (Americans with Disabilities Act) standards, which may dictate specific maintenance protocols and documentation. They also experience higher traffic, leading to faster wear and tear on features like automatic doors or commercial ramps. Residential maintenance focuses more on individual safety and convenience, although quality construction and regular upkeep are still paramount for both.",
+        "@type": "Answer",
+        "description": "Yes, commercial properties have stricter regulatory compliance like ADA and higher traffic, affecting maintenance more than residential properties."
+      }
+    }
+  ],
+  "description": "Yes, commercial properties have stricter regulatory compliance like ADA and higher traffic, affecting maintenance more than residential properties."
+}

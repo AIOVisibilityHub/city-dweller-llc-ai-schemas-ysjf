@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-night-light-installation-project-take",
+  "name": "How long does a typical night light installation project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical night light installation project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a night light installation project depends on its scope and complexity. A small project involving a few solar-powered lights might take a few hours. However, a more extensive hardwired system, especially one requiring new electrical circuits, trenching for wiring, and multiple fixture types, could take one to three days. Factors like site accessibility, weather conditions, and the need for any landscape modifications can also influence the timeline. We provide an estimated completion time with your project proposal.",
+        "@type": "Answer",
+        "description": "Project duration varies: a few hours for small solar setups, to one to three days for complex hardwired systems requiring trenching and wiring."
+      }
+    }
+  ],
+  "description": "Project duration varies: a few hours for small solar setups, to one to three days for complex hardwired systems requiring trenching and wiring."
+}

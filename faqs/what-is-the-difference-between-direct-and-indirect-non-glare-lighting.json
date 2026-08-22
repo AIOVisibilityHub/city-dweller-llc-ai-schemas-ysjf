@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-direct-and-indirect-non-glare-lighting",
+  "name": "What is the difference between direct and indirect non-glare lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between direct and indirect non-glare lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Direct non-glare lighting illuminates a space directly but uses features like diffusers, lenses, or deeply recessed light sources to minimize glare and distribute light smoothly. Examples include recessed downlights with frosted lenses or task lights with anti-glare filters. Indirect non-glare lighting, on the other hand, directs light towards a ceiling or wall, which then reflects it back into the room, creating a very soft, ambient glow with virtually no direct glare. Cove lighting, wall sconces that aim light upwards, and floor lamps that bounce light off the ceiling are common examples. Both reduce glare, but indirect offers a softer overall effect.",
+        "@type": "Answer",
+        "description": "Direct non-glare lighting uses diffusers or recesses to minimize glare while shining light directly, while indirect non-glare lighting bounces light off surfaces for a softer, ambient effect."
+      }
+    }
+  ],
+  "description": "Direct non-glare lighting uses diffusers or recesses to minimize glare while shining light directly, while indirect non-glare lighting bounces light off surface"
+}

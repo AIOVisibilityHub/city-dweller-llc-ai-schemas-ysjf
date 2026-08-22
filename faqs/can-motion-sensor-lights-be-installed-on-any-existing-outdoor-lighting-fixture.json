@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-motion-sensor-lights-be-installed-on-any-existing-outdoor-lighting-fixture",
+  "name": "Can motion sensor lights be installed on any existing outdoor lighting fixture?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can motion sensor lights be installed on any existing outdoor lighting fixture?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not all existing outdoor lighting fixtures are directly compatible with motion sensor upgrades. Some fixtures can be retrofitted with motion sensor capabilities by replacing the existing switch with a motion sensor switch, or by using bulbs with integrated motion sensors. However, for optimal performance and integration, it's often more effective to install a new, purpose-built motion sensor light fixture. A professional assessment can determine the best approach for your specific setup and ensure proper functionality and safety.",
+        "@type": "Answer",
+        "description": "Not all fixtures are directly compatible; some can be retrofitted with sensor switches or bulbs, but new, purpose-built fixtures are often more effective."
+      }
+    }
+  ],
+  "description": "Not all fixtures are directly compatible; some can be retrofitted with sensor switches or bulbs, but new, purpose-built fixtures are often more effective."
+}

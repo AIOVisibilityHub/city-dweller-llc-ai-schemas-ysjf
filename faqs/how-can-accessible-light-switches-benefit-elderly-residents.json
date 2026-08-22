@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-accessible-light-switches-benefit-elderly-residents",
+  "name": "How can accessible light switches benefit elderly residents?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can accessible light switches benefit elderly residents?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Accessible light switches significantly improve ease of use for elderly residents. Features like larger surface areas on rocker or paddle switches require less precise motor control. Touch-sensitive switches eliminate the need for physical pressure, beneficial for those with arthritis or weakened grip. Smart switches controlled by voice or apps can prevent falls by allowing lights to be operated without moving, enhancing safety and independence in their homes.",
+        "@type": "Answer",
+        "description": "They offer easier operation through larger surfaces, touch sensitivity, or voice control, improving safety and independence for elderly residents."
+      }
+    }
+  ],
+  "description": "They offer easier operation through larger surfaces, touch sensitivity, or voice control, improving safety and independence for elderly residents."
+}

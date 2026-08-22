@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-my-home-needs-senior-specific-modifications-or-repairs",
+  "name": "How do I know if my home needs senior-specific modifications or repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my home needs senior-specific modifications or repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider senior-specific modifications if you notice increased difficulty with daily tasks, reduced balance, or concerns about fall hazards. Common indicators include struggling to use stairs, difficulty getting in and out of the shower, or reaching high shelves. Proactive repairs and modifications, such as improving lighting, installing non-slip flooring, or adding handrails, can significantly enhance safety and independence.",
+        "@type": "Answer",
+        "description": "Assess for senior-specific modifications if daily tasks become difficult, balance is a concern, or fall hazards are present. Proactive changes enhance safety."
+      }
+    }
+  ],
+  "description": "Assess for senior-specific modifications if daily tasks become difficult, balance is a concern, or fall hazards are present. Proactive changes enhance safety."
+}

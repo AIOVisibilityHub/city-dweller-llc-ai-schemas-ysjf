@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-foundation-repair-project-take",
+  "name": "How long does a typical foundation repair project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical foundation repair project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a foundation repair project varies widely depending on the extent of the damage, the type of repair needed, and the size of the structure. Minor crack repairs might take a few days, while more extensive work like pier and beam leveling or complete foundation replacement could span several weeks to a few months. Factors such as weather conditions, accessibility, and necessary permitting also influence the timeline. A detailed assessment from a foundation specialist can provide a more accurate estimate.",
+        "@type": "Answer",
+        "description": "Foundation repair times vary from a few days for minor cracks to several weeks or months for extensive work, depending on damage and repair type."
+      }
+    }
+  ],
+  "description": "Foundation repair times vary from a few days for minor cracks to several weeks or months for extensive work, depending on damage and repair type."
+}

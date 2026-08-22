@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-upgrading-my-light-switches-for-accessibility",
+  "name": "When should I consider upgrading my light switches for accessibility?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider upgrading my light switches for accessibility?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider upgrading light switches when planning a home renovation, when an elderly family member or someone with mobility challenges will be living in or visiting your home regularly, or if you are simply looking to improve the general usability of your home's lighting. Proactive upgrades can prevent future difficulties and enhance daily living. It's also a good idea during electrical upgrades or energy efficiency improvements.",
+        "@type": "Answer",
+        "description": "Consider upgrading during renovations, when accommodating elderly or mobility-challenged residents, or to generally improve home usability and safety."
+      }
+    }
+  ],
+  "description": "Consider upgrading during renovations, when accommodating elderly or mobility-challenged residents, or to generally improve home usability and safety."
+}

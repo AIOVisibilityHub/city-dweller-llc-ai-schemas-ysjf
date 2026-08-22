@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-a-seasonal-safety-maintenance-inspection",
+  "name": "What is the process for a seasonal safety maintenance inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for a seasonal safety maintenance inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical seasonal safety maintenance inspection involves a thorough visual and functional assessment of critical home components. A contractor will examine your roof, gutters, and downspouts for damage or blockages. They will check the foundation and exterior for cracks or water intrusion signs. HVAC systems are inspected for proper operation, filter condition, and cleanliness. Interior checks include plumbing leaks, electrical hazards, and safety device functionality. After the inspection, you'll receive a report detailing findings and recommended actions, prioritizing any immediate safety concerns.",
+        "@type": "Answer",
+        "description": "The process includes a thorough inspection of your roof, foundation, HVAC, plumbing, and safety systems, followed by a report of findings and recommendations."
+      }
+    }
+  ],
+  "description": "The process includes a thorough inspection of your roof, foundation, HVAC, plumbing, and safety systems, followed by a report of findings and recommendations."
+}

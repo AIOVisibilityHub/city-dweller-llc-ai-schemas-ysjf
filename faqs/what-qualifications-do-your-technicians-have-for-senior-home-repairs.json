@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-qualifications-do-your-technicians-have-for-senior-home-repairs",
+  "name": "What qualifications do your technicians have for senior home repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What qualifications do your technicians have for senior home repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our technicians are experienced general contractors with a strong background in various home repair disciplines. They are skilled in plumbing, electrical work, carpentry, and general home maintenance. Furthermore, our team members are chosen for their professionalism and understanding of the unique considerations when working in senior households, ensuring respectful and effective service. We prioritize safety and attention to detail in all projects.",
+        "@type": "Answer",
+        "description": "Our technicians are experienced general contractors skilled in various home repairs, chosen for their professionalism and understanding of senior needs."
+      }
+    }
+  ],
+  "description": "Our technicians are experienced general contractors skilled in various home repairs, chosen for their professionalism and understanding of senior needs."
+}

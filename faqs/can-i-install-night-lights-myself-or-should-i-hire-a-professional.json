@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-install-night-lights-myself-or-should-i-hire-a-professional",
+  "name": "Can I install night lights myself or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install night lights myself or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While simple, solar-powered night lights can often be a DIY project, complex installations involving hardwired or low-voltage systems are best handled by a professional. A general contractor or electrician ensures proper wiring, adherence to electrical codes, safe trenching, and optimal placement for aesthetics and functionality. Professionals have the tools and expertise to prevent electrical hazards, ensure system longevity, and guarantee the lights perform as intended, saving you time and potential issues in the long run.",
+        "@type": "Answer",
+        "description": "Simple solar lights can be DIY, but hardwired or low-voltage systems should be professionally installed for safety, compliance, and optimal performance."
+      }
+    }
+  ],
+  "description": "Simple solar lights can be DIY, but hardwired or low-voltage systems should be professionally installed for safety, compliance, and optimal performance."
+}

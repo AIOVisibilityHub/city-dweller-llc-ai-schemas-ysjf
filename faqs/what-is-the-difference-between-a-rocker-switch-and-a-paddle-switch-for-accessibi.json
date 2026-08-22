@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-a-rocker-switch-and-a-paddle-switch-for-accessibi",
+  "name": "What is the difference between a rocker switch and a paddle switch for accessibility?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a rocker switch and a paddle switch for accessibility?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rocker and paddle switches are quite similar in their accessible design, both offering a larger, flatter surface area compared to traditional toggle switches, making them easier to operate. A rocker switch typically 'rocks' up and down to toggle power, while a paddle switch acts more like a large, flat button that you press on one side to activate. Both are good choices for accessibility, reducing the need for fine motor skills. The choice often comes down to aesthetic preference or slight differences in tactile feel.",
+        "@type": "Answer",
+        "description": "Both rocker and paddle switches offer larger, easier-to-operate surfaces than toggle switches. Rocker switches 'rock', while paddle switches are large buttons; the choice is often aesthetic."
+      }
+    }
+  ],
+  "description": "Both rocker and paddle switches offer larger, easier-to-operate surfaces than toggle switches. Rocker switches 'rock', while paddle switches are large buttons;"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-warranty-or-guarantee-do-you-offer-on-safety-lighting-repairs",
+  "name": "What kind of warranty or guarantee do you offer on safety lighting repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty or guarantee do you offer on safety lighting repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC stands behind the quality of our safety lighting repair work. We typically offer a warranty on both the parts we install and the labor performed. The specific duration of the warranty may vary depending on the type of repair and components used, but generally ranges from 90 days to one year. We provide clear details of your warranty in writing upon completion of the service. Our goal is to ensure your complete satisfaction and the long-term reliability of your repaired safety lighting system.",
+        "@type": "Answer",
+        "description": "We offer a warranty on both parts and labor for our safety lighting repairs, typically ranging from 90 days to one year. Details are provided in writing."
+      }
+    }
+  ],
+  "description": "We offer a warranty on both parts and labor for our safety lighting repairs, typically ranging from 90 days to one year. Details are provided in writing."
+}

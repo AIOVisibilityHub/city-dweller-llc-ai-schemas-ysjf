@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-outdoor-night-lights-require-special-electrical-wiring",
+  "name": "Do outdoor night lights require special electrical wiring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do outdoor night lights require special electrical wiring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many outdoor night lights, particularly low-voltage systems and hardwired fixtures, do require specific electrical wiring. Low-voltage systems use a transformer to reduce household current, requiring dedicated low-voltage wiring. High-voltage fixtures need standard electrical wiring run by a licensed electrician, often involving trenching and weather-proof connections. Solar-powered night lights, however, typically do not require any new wiring, as they are self-contained. Our team ensures all installations comply with local electrical codes for safety and performance.",
+        "@type": "Answer",
+        "description": "Hardwired and low-voltage night lights require specific electrical wiring, often installed by an electrician. Solar lights do not need new wiring."
+      }
+    }
+  ],
+  "description": "Hardwired and low-voltage night lights require specific electrical wiring, often installed by an electrician. Solar lights do not need new wiring."
+}

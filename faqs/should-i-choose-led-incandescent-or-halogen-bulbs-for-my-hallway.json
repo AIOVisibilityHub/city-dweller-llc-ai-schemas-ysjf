@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-choose-led-incandescent-or-halogen-bulbs-for-my-hallway",
+  "name": "Should I choose LED, incandescent, or halogen bulbs for my hallway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose LED, incandescent, or halogen bulbs for my hallway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For hallway lighting, we highly recommend LED bulbs. They are significantly more energy-efficient, consuming up to 80% less power than incandescent or halogen bulbs, which translates to lower electricity bills. LEDs also have a much longer lifespan, often lasting tens of thousands of hours, reducing the frequency of bulb replacement. While the initial cost of LEDs might be slightly higher, their long-term savings and environmental benefits make them the superior choice. Incandescent and halogen bulbs are less common now due to their inefficiency and shorter lifespan.",
+        "@type": "Answer",
+        "description": "LED bulbs are recommended for hallways due to their superior energy efficiency, longer lifespan, and lower long-term operating costs compared to incandescent or halogen options."
+      }
+    }
+  ],
+  "description": "LED bulbs are recommended for hallways due to their superior energy efficiency, longer lifespan, and lower long-term operating costs compared to incandescent or"
+}

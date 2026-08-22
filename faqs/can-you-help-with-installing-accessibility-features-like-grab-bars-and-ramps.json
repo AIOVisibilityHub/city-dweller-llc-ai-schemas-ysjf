@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-you-help-with-installing-accessibility-features-like-grab-bars-and-ramps",
+  "name": "Can you help with installing accessibility features like grab bars and ramps?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you help with installing accessibility features like grab bars and ramps?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we specialize in installing a variety of accessibility features to enhance safety and ease of movement for seniors. This includes professional installation of grab bars in bathrooms and hallways, sturdy handrails on staircases, and custom-built ramps for easier access into and out of the home. We ensure all installations are secure, compliant, and tailored to the specific needs of the resident.",
+        "@type": "Answer",
+        "description": "We install various accessibility features, including grab bars, handrails, and custom ramps, ensuring secure and compliant solutions."
+      }
+    }
+  ],
+  "description": "We install various accessibility features, including grab bars, handrails, and custom ramps, ensuring secure and compliant solutions."
+}

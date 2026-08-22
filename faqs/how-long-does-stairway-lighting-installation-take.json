@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-stairway-lighting-installation-take",
+  "name": "How long does stairway lighting installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does stairway lighting installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of stairway lighting installation depends on the project's scope and complexity. A simple installation involving a few pre-wired step lights might be completed within a day. More extensive projects that require new electrical runs, custom fixture placement, or integration with smart home systems could take several days. We provide a projected timeline during the initial consultation, ensuring you are informed every step of the way.",
+        "@type": "Answer",
+        "description": "Installation time varies with project scope; simple jobs can be a day, while complex ones might take several. We provide a timeline during consultation."
+      }
+    }
+  ],
+  "description": "Installation time varies with project scope; simple jobs can be a day, while complex ones might take several. We provide a timeline during consultation."
+}

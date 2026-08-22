@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-do-if-my-safety-lights-are-flickering-or-not-turning-on-consistent",
+  "name": "What should I do if my safety lights are flickering or not turning on consistently?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my safety lights are flickering or not turning on consistently?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your safety lights are flickering or inconsistent, it often indicates a problem that needs attention. First, check the circuit breaker to ensure it hasn't tripped. If the issue persists, it could be due to loose wiring connections, a failing bulb or ballast, or a faulty sensor or switch. These issues require professional diagnosis to avoid further damage or electrical hazards. Contacting a qualified electrician is recommended to pinpoint the exact cause and perform the necessary repairs safely and effectively, restoring reliable operation to your lighting system.",
+        "@type": "Answer",
+        "description": "Check the circuit breaker first. If flickering continues, it likely indicates loose wiring, a failing bulb, or a faulty sensor, requiring professional diagnosis."
+      }
+    }
+  ],
+  "description": "Check the circuit breaker first. If flickering continues, it likely indicates loose wiring, a failing bulb, or a faulty sensor, requiring professional diagnosis"
+}

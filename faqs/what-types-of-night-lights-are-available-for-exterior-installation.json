@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-night-lights-are-available-for-exterior-installation",
+  "name": "What types of night lights are available for exterior installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of night lights are available for exterior installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Exterior night lights come in various types to suit different needs and aesthetics. Common options include low-voltage pathway lights that define walkways, step lights integrated into stairs for safety, and accent lights highlighting architectural features or landscaping. Many models now feature LED technology for energy efficiency and longer lifespan. Additionally, you can choose between solar-powered lights for easy installation or hardwired options for consistent power and brightness. Motion-activated lights are also popular for security and energy saving.",
+        "@type": "Answer",
+        "description": "Exterior night lights include pathway lights, step lights, and accent lights, available in LED, solar, hardwired, or motion-activated options."
+      }
+    }
+  ],
+  "description": "Exterior night lights include pathway lights, step lights, and accent lights, available in LED, solar, hardwired, or motion-activated options."
+}

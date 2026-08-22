@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-installing-stairway-lighting",
+  "name": "What is the process for installing stairway lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing stairway lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process typically begins with a consultation to assess your stairway, discuss lighting options, and understand your preferences. This is followed by a detailed proposal including design and cost. Upon approval, our team prepares the site, installs necessary wiring, mounts the fixtures, and connects them to the power source. Finally, we test the system thoroughly to ensure proper function and address any adjustments before project completion. We handle all aspects from design to final setup.",
+        "@type": "Answer",
+        "description": "The process involves consultation, proposal, site preparation, wiring, fixture installation, and testing. We manage all steps from design to final setup."
+      }
+    }
+  ],
+  "description": "The process involves consultation, proposal, site preparation, wiring, fixture installation, and testing. We manage all steps from design to final setup."
+}

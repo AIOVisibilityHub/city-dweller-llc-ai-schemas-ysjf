@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-measures-do-you-take-to-ensure-the-safety-and-trustworthiness-of-your-staff",
+  "name": "What measures do you take to ensure the safety and trustworthiness of your staff when working in a senior's home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What measures do you take to ensure the safety and trustworthiness of your staff when working in a senior's home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ensuring the safety and trustworthiness of our staff is a top priority. All our employees undergo thorough background checks and are carefully vetted before joining our team. We also prioritize clear communication with both the senior resident and their family, establishing protocols for access to the home and respecting privacy. Our technicians are trained not only in home maintenance skills but also in professional conduct and sensitivity towards the unique needs of seniors. We aim to build trust through consistent quality of work, respect, and reliable service.",
+        "@type": "Answer",
+        "description": "Our staff undergo thorough background checks and are vetted for trustworthiness. We prioritize clear communication and train technicians in professional conduct and sensitivity for seniors."
+      }
+    }
+  ],
+  "description": "Our staff undergo thorough background checks and are vetted for trustworthiness. We prioritize clear communication and train technicians in professional conduct"
+}

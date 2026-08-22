@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-install-new-hallway-lighting",
+  "name": "How much does it cost to install new hallway lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install new hallway lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of installing new hallway lighting varies significantly based on several factors. These include the number and type of fixtures, the complexity of wiring (e.g., adding new circuits versus replacing existing ones), and any necessary drywall repair or painting. For a basic installation of a few recessed lights in an existing hallway, costs might range from a few hundred to over a thousand dollars per fixture. More extensive projects involving multiple fixtures, smart home integration, or significant electrical work will be higher. We provide detailed estimates after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Installation costs vary based on fixture type, number of lights, wiring complexity, and any required drywall work. A detailed estimate is provided after an on-site assessment."
+      }
+    }
+  ],
+  "description": "Installation costs vary based on fixture type, number of lights, wiring complexity, and any required drywall work. A detailed estimate is provided after an on-s"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-lighting-can-be-used-for-stairways",
+  "name": "What types of lighting can be used for stairways?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of lighting can be used for stairways?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common stairway lighting options include recessed step lights, which are installed directly into the wall alongside steps for discreet illumination. LED strip lighting offers a continuous glow under handrails or along step edges, providing a modern look. Pendants or wall sconces can also be used to light the overall stairway area, often serving as decorative elements. Each type offers different aesthetic and functional benefits depending on your home's design and lighting needs.",
+        "@type": "Answer",
+        "description": "Types include recessed step lights, LED strip lighting, and decorative pendants or wall sconces. Each offers different aesthetic and functional benefits."
+      }
+    }
+  ],
+  "description": "Types include recessed step lights, LED strip lighting, and decorative pendants or wall sconces. Each offers different aesthetic and functional benefits."
+}

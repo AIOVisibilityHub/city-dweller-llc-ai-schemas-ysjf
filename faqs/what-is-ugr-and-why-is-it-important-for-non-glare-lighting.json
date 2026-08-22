@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-ugr-and-why-is-it-important-for-non-glare-lighting",
+  "name": "What is 'UGR' and why is it important for non-glare lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is 'UGR' and why is it important for non-glare lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "UGR stands for Unified Glare Rating, a standard metric used to quantify the discomfort glare caused by lighting in indoor environments. A lower UGR value indicates less discomfort glare. For residential applications, a UGR of 19 or less is generally considered comfortable for areas requiring visual concentration, like offices or kitchens. Higher values suggest more noticeable glare. When selecting non-glare lighting, particularly for functional spaces, paying attention to the fixture's UGR rating can help ensure the chosen solution effectively minimizes visual discomfort and meets desired performance standards. We can guide you on appropriate UGR levels for different areas of your home.",
+        "@type": "Answer",
+        "description": "UGR (Unified Glare Rating) measures discomfort glare from lighting; a lower value means less glare. It's important for non-glare lighting to ensure visual comfort, especially in task-oriented rooms."
+      }
+    }
+  ],
+  "description": "UGR (Unified Glare Rating) measures discomfort glare from lighting; a lower value means less glare. It's important for non-glare lighting to ensure visual comfo"
+}

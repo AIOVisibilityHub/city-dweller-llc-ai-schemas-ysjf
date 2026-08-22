@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-maintenance-do-outdoor-night-lights-require",
+  "name": "What maintenance do outdoor night lights require?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance do outdoor night lights require?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Outdoor night lights require minimal but regular maintenance to ensure optimal performance. This typically includes periodically cleaning the fixtures to remove dirt, debris, or leaves that can obstruct light output. For solar lights, ensure the solar panel is clean and free from shade to maximize charging efficiency. Check for any loose wiring or damaged components, especially after severe weather. Replacing bulbs in non-LED fixtures or addressing minor electrical issues promptly can extend the life of your system. LED lights require less frequent bulb replacement.",
+        "@type": "Answer",
+        "description": "Maintenance involves cleaning fixtures and solar panels, checking for damage or loose wiring, and occasional bulb replacement for non-LED types."
+      }
+    }
+  ],
+  "description": "Maintenance involves cleaning fixtures and solar panels, checking for damage or loose wiring, and occasional bulb replacement for non-LED types."
+}

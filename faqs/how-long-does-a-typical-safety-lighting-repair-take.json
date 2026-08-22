@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-safety-lighting-repair-take",
+  "name": "How long does a typical safety lighting repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical safety lighting repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a safety lighting repair depends significantly on the nature and complexity of the problem. Simple repairs, such as replacing a motion sensor or a faulty bulb, might take an hour or two. More involved issues, like diagnosing and fixing wiring problems or replacing multiple fixtures, could take half a day or longer. Our technicians work efficiently to minimize disruption, and we aim to complete most repairs within a single visit. We can provide a time estimate after assessing the specific issue at your property.",
+        "@type": "Answer",
+        "description": "Repair times vary; simple fixes may take an hour or two, while complex issues could take half a day or more. We aim to complete most repairs in one visit."
+      }
+    }
+  ],
+  "description": "Repair times vary; simple fixes may take an hour or two, while complex issues could take half a day or more. We aim to complete most repairs in one visit."
+}

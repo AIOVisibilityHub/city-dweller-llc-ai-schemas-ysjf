@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-for-safety-lighting-repair-services",
+  "name": "What is the typical cost for safety lighting repair services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for safety lighting repair services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of safety lighting repair can vary widely depending on the complexity of the issue and the type of lighting system. Simple repairs, like replacing a faulty sensor or bulb, might range from $75 to $200. More extensive work, such as rewiring a section or replacing multiple damaged fixtures, could range from $300 to $800 or more. Factors influencing the cost include the accessibility of the lighting, the need for specialized parts, and labor rates in the Bay Area. We provide detailed estimates after an on-site assessment to give you an accurate quote.",
+        "@type": "Answer",
+        "description": "Costs vary based on complexity, from $75 for simple fixes to over $300 for extensive repairs. An on-site assessment provides an accurate quote."
+      }
+    }
+  ],
+  "description": "Costs vary based on complexity, from $75 for simple fixes to over $300 for extensive repairs. An on-site assessment provides an accurate quote."
+}

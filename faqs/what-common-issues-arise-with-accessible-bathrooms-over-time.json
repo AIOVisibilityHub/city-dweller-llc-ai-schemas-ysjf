@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-common-issues-arise-with-accessible-bathrooms-over-time",
+  "name": "What common issues arise with accessible bathrooms over time?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common issues arise with accessible bathrooms over time?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Over time, accessible bathrooms can develop several common issues due to regular use and moisture exposure. These include loose or wobbly grab bars, worn non-slip flooring, deteriorating grout in roll-in showers, faulty shower controls, and issues with adjustable height fixtures. Leaks around fixtures or within the shower area can also occur, potentially leading to water damage. Regular inspection and maintenance are crucial to address these problems promptly, maintaining safety and functionality.",
+        "@type": "Answer",
+        "description": "Common issues in accessible bathrooms include loose grab bars, worn flooring, deteriorating grout, faulty fixtures, and leaks. Regular maintenance prevents these problems."
+      }
+    }
+  ],
+  "description": "Common issues in accessible bathrooms include loose grab bars, worn flooring, deteriorating grout, faulty fixtures, and leaks. Regular maintenance prevents thes"
+}

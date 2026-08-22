@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-main-benefits-of-installing-motion-sensor-lighting",
+  "name": "What are the main benefits of installing motion sensor lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the main benefits of installing motion sensor lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Motion sensor lighting offers several advantages for homeowners. Primarily, it enhances security by illuminating unexpected activity around your property, deterring potential intruders. It also provides convenience, automatically lighting pathways or entrances when you approach. Furthermore, motion sensors contribute to energy efficiency by ensuring lights are only on when needed, reducing electricity consumption and utility bills. This intelligent lighting solution is an effective upgrade for both safety and convenience.",
+        "@type": "Answer",
+        "description": "Motion sensor lighting improves security, offers convenience by automatically illuminating areas, and saves energy by only activating when motion is detected."
+      }
+    }
+  ],
+  "description": "Motion sensor lighting improves security, offers convenience by automatically illuminating areas, and saves energy by only activating when motion is detected."
+}

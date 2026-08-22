@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-home-maintenance-services-are-available-for-seniors",
+  "name": "What types of home maintenance services are available for seniors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of home maintenance services are available for seniors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Senior home maintenance services typically cover a broad range of tasks designed to ensure safety, comfort, and accessibility. This can include minor repairs like fixing leaky faucets, patching drywall, or replacing light fixtures. Larger tasks such as gutter cleaning, exterior power washing, fence repair, and basic landscaping are also common. Inside the home, services often extend to smoke detector battery replacement, dryer vent cleaning, and general handyman tasks. The goal is to address common household upkeep that may become physically challenging for seniors, helping them maintain their independence and stay safely in their homes.",
+        "@type": "Answer",
+        "description": "Services for seniors include minor repairs, safety checks, and general upkeep like gutter cleaning and landscaping, to ensure comfort and safety at home."
+      }
+    }
+  ],
+  "description": "Services for seniors include minor repairs, safety checks, and general upkeep like gutter cleaning and landscaping, to ensure comfort and safety at home."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-install-outdoor-night-lights-in-the-bay-area",
+  "name": "How much does it cost to install outdoor night lights in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install outdoor night lights in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of installing outdoor night lights in the Bay Area varies significantly based on several factors. These include the type and number of fixtures chosen (e.g., solar vs. hardwired, LED vs. traditional), the complexity of the installation, the need for new wiring or trenching, and the specific property layout. Simple solar light installations can be less expensive, while comprehensive hardwired systems requiring electrical work will incur higher costs. We provide detailed estimates after an on-site assessment to ensure accuracy for your specific project.",
+        "@type": "Answer",
+        "description": "Cost varies based on fixture type, number of lights, installation complexity, and wiring needs. Hardwired systems are generally more expensive than solar options."
+      }
+    }
+  ],
+  "description": "Cost varies based on fixture type, number of lights, installation complexity, and wiring needs. Hardwired systems are generally more expensive than solar option"
+}

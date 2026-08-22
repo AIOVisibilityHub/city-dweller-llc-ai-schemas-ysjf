@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-hallway-lighting-installation-take",
+  "name": "How long does hallway lighting installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does hallway lighting installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a hallway lighting installation project depends on its complexity and scope. A simple replacement of a few existing fixtures might take half a day. However, installing new recessed lighting in a long hallway, which requires running new wiring, cutting multiple holes, and potentially installing new switches, can take one to two full days or more. We provide a projected timeline in our proposal after understanding the specifics of your project during the initial consultation.",
+        "@type": "Answer",
+        "description": "Installation time varies, from a half-day for simple replacements to one to two days or more for complex projects requiring new wiring and multiple fixtures."
+      }
+    }
+  ],
+  "description": "Installation time varies, from a half-day for simple replacements to one to two days or more for complex projects requiring new wiring and multiple fixtures."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-rocker-light-switches-are-available-e-g-dimmer-3-way-smart",
+  "name": "What types of rocker light switches are available (e.g., dimmer, 3-way, smart)?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of rocker light switches are available (e.g., dimmer, 3-way, smart)?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rocker light switches come in various types to suit different needs. Standard single-pole rocker switches control one light fixture from one location. Three-way rocker switches allow control of a single light fixture from two different locations, commonly used in hallways. Four-way switches allow control from three or more locations. Dimmer rocker switches enable light intensity adjustment. Additionally, smart rocker switches integrate with home automation systems, offering features like remote control and scheduling. These variations ensure flexibility for almost any lighting control requirement.",
+        "@type": "Answer",
+        "description": "Rocker switches are available as standard single-pole, 3-way, 4-way, dimmers, and smart switches. Each type serves different control and functionality needs."
+      }
+    }
+  ],
+  "description": "Rocker switches are available as standard single-pole, 3-way, 4-way, dimmers, and smart switches. Each type serves different control and functionality needs."
+}

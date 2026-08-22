@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-a-smoke-detector-and-a-carbon-monoxide-detector-a",
+  "name": "What is the difference between a smoke detector and a carbon monoxide detector, and do I need both?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a smoke detector and a carbon monoxide detector, and do I need both?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A smoke detector senses smoke particles, alerting you to potential fires. A carbon monoxide (CO) detector, on the other hand, detects the presence of invisible, odorless, and highly toxic carbon monoxide gas, which can be produced by faulty fuel-burning appliances. Yes, you generally need both. Smoke detectors are critical for fire safety, and CO detectors are essential for protecting against carbon monoxide poisoning, making them both vital components of a comprehensive home safety plan.",
+        "@type": "Answer",
+        "description": "Smoke detectors alert to fire, while carbon monoxide detectors warn of CO gas; both are essential for comprehensive home safety."
+      }
+    }
+  ],
+  "description": "Smoke detectors alert to fire, while carbon monoxide detectors warn of CO gas; both are essential for comprehensive home safety."
+}

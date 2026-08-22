@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-for-maintaining-a-wheelchair-ramp",
+  "name": "What is the typical cost for maintaining a wheelchair ramp?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for maintaining a wheelchair ramp?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to maintain a wheelchair ramp can vary based on its material (wood, aluminum, concrete), length, and the extent of any necessary repairs. Routine maintenance like cleaning, tightening fasteners, and checking for structural integrity might range from a few hundred dollars. More extensive repairs, such as replacing worn planks, fixing railing instability, or repainting to prevent rot, will incur higher costs depending on the specific issues. We provide detailed estimates after assessing the ramp's condition.",
+        "@type": "Answer",
+        "description": "Maintenance cost for wheelchair ramps varies by material and repair needs. Routine checks are less expensive; extensive repairs will cost more. We offer estimates."
+      }
+    }
+  ],
+  "description": "Maintenance cost for wheelchair ramps varies by material and repair needs. Routine checks are less expensive; extensive repairs will cost more. We offer estimat"
+}

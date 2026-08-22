@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-perform-seasonal-safety-checks-on-my-home",
+  "name": "When should I perform seasonal safety checks on my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I perform seasonal safety checks on my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Seasonal safety checks are typically recommended at the beginning of each major season – spring, summer, fall, and winter. For instance, before winter, focus on heating systems, insulation, and roof integrity. Prior to summer, check air conditioning, plumbing, and outdoor structures. Fall is ideal for gutter cleaning and preparing for colder weather, while spring is for post-winter assessments and preparing for warmer temperatures. Staggering these checks helps distribute the workload and addresses specific seasonal vulnerabilities.",
+        "@type": "Answer",
+        "description": "Perform seasonal safety checks at the start of each major season (spring, summer, fall, winter) to address specific seasonal home vulnerabilities."
+      }
+    }
+  ],
+  "description": "Perform seasonal safety checks at the start of each major season (spring, summer, fall, winter) to address specific seasonal home vulnerabilities."
+}

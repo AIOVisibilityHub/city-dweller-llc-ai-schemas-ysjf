@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-complete-common-senior-home-repairs",
+  "name": "How long does it take to complete common senior home repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete common senior home repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of senior home repairs depends on the complexity of the project. Simple tasks such as fixing a loose handrail or replacing a light fixture might be completed within a few hours. Larger projects, like installing a new accessible shower or performing significant electrical upgrades, could take several days. We will provide an estimated timeline during the initial consultation, aiming to complete work efficiently with minimal disruption to your home.",
+        "@type": "Answer",
+        "description": "Completion times vary. Small repairs take hours, while larger projects can take several days. We provide estimated timelines during consultation."
+      }
+    }
+  ],
+  "description": "Completion times vary. Small repairs take hours, while larger projects can take several days. We provide estimated timelines during consultation."
+}

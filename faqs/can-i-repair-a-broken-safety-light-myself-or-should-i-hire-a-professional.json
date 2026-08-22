@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-a-broken-safety-light-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair a broken safety light myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair a broken safety light myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor issues like changing a standard light bulb might be manageable for homeowners, most safety lighting repairs involve electrical work and are best handled by a professional. Working with electrical systems without proper training can be dangerous and could lead to further damage or safety hazards. A professional contractor has the tools, expertise, and understanding of local electrical codes to diagnose problems accurately and perform repairs safely and efficiently. This ensures the repair is done correctly, maintaining the effectiveness and safety of your lighting system.",
+        "@type": "Answer",
+        "description": "Most safety lighting repairs involve electrical work and require a professional. DIY repairs can be dangerous and lead to further damage."
+      }
+    }
+  ],
+  "description": "Most safety lighting repairs involve electrical work and require a professional. DIY repairs can be dangerous and lead to further damage."
+}

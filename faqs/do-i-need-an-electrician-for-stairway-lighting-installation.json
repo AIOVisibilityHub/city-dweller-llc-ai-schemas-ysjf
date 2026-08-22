@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-an-electrician-for-stairway-lighting-installation",
+  "name": "Do I need an electrician for stairway lighting installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need an electrician for stairway lighting installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, for most stairway lighting installations, particularly those involving new wiring, circuit modifications, or connecting to your home's main electrical system, a licensed electrician is highly recommended, if not required by local codes. Improper electrical work can pose significant safety hazards and may not pass inspections. Our team includes qualified electricians to ensure all installations meet safety standards and local regulations in the Bay Area.",
+        "@type": "Answer",
+        "description": "Yes, a licensed electrician is recommended for most stairway lighting installations involving new wiring or circuit modifications. This ensures safety and compliance with local codes."
+      }
+    }
+  ],
+  "description": "Yes, a licensed electrician is recommended for most stairway lighting installations involving new wiring or circuit modifications. This ensures safety and compl"
+}

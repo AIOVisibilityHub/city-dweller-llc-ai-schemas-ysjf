@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-to-upgrade-light-switches-for-accessibility",
+  "name": "What is the typical cost to upgrade light switches for accessibility?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to upgrade light switches for accessibility?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to upgrade light switches for accessibility varies based on the type of switch, the number of switches, and the complexity of installation. Basic rocker or paddle switches might range from $15-$50 per switch, excluding labor. Smart switches, which offer advanced features, can cost $50-$150 or more per unit. Installation labor will add to the overall cost, depending on the electrician's rates and any necessary wiring modifications.",
+        "@type": "Answer",
+        "description": "Costs vary based on switch type (rocker, smart), quantity, and installation complexity. Basic switches are $15-$50+, smart switches are $50-$150+, plus labor."
+      }
+    }
+  ],
+  "description": "Costs vary based on switch type (rocker, smart), quantity, and installation complexity. Basic switches are $15-$50+, smart switches are $50-$150+, plus labor."
+}

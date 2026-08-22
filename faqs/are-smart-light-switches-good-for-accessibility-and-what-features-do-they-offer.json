@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-smart-light-switches-good-for-accessibility-and-what-features-do-they-offer",
+  "name": "Are smart light switches good for accessibility, and what features do they offer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are smart light switches good for accessibility, and what features do they offer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, smart light switches are excellent for accessibility. They offer control via smartphone apps, voice commands through smart assistants, or even automated scheduling. This eliminates the need to physically interact with a switch, which is beneficial for individuals with limited mobility or dexterity. Some systems also include motion sensors to automatically turn lights on and off, further enhancing convenience and safety.",
+        "@type": "Answer",
+        "description": "Smart switches offer accessibility via apps, voice control, or automation, eliminating the need for physical interaction and enhancing convenience."
+      }
+    }
+  ],
+  "description": "Smart switches offer accessibility via apps, voice control, or automation, eliminating the need for physical interaction and enhancing convenience."
+}

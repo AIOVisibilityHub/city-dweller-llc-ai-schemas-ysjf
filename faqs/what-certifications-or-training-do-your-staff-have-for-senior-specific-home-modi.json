@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-certifications-or-training-do-your-staff-have-for-senior-specific-home-modi",
+  "name": "What certifications or training do your staff have for senior-specific home modifications?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What certifications or training do your staff have for senior-specific home modifications?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our team members involved in senior home modifications possess relevant training and experience in aging-in-place design and accessibility standards. While specific certifications can vary by individual and specialization, we prioritize knowledge of ADA guidelines where applicable, universal design principles, and best practices for creating safe, functional, and comfortable environments for older adults. We continuously educate our staff on the latest techniques and materials to ensure we provide the highest quality and most beneficial modifications for our senior clients.",
+        "@type": "Answer",
+        "description": "Our staff have training and experience in aging-in-place design and accessibility standards, prioritizing universal design and safety for seniors."
+      }
+    }
+  ],
+  "description": "Our staff have training and experience in aging-in-place design and accessibility standards, prioritizing universal design and safety for seniors."
+}

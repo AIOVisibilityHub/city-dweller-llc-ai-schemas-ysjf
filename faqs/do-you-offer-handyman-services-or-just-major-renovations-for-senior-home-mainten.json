@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-you-offer-handyman-services-or-just-major-renovations-for-senior-home-mainten",
+  "name": "Do you offer handyman services or just major renovations for senior home maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer handyman services or just major renovations for senior home maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC offers a comprehensive range of services for senior home maintenance, from minor handyman tasks to extensive renovations. This includes small but important fixes like installing new door handles or repairing loose railings, as well as larger projects such as bathroom accessibility remodels, kitchen adaptations, or creating barrier-free entryways. We understand that both small adjustments and significant changes contribute to a safer, more comfortable home environment for seniors. Our goal is to meet diverse needs with quality craftsmanship.",
+        "@type": "Answer",
+        "description": "We offer both minor handyman services and major renovations, from installing grab bars to full bathroom remodels, to meet various senior home maintenance needs."
+      }
+    }
+  ],
+  "description": "We offer both minor handyman services and major renovations, from installing grab bars to full bathroom remodels, to meet various senior home maintenance needs."
+}

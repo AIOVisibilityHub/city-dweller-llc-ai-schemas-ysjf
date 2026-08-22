@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-install-smart-lighting-in-my-hallway",
+  "name": "Can I install smart lighting in my hallway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install smart lighting in my hallway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, smart lighting is an excellent option for hallways, offering convenience and energy savings. Smart bulbs or smart switches allow you to control lights wirelessly via a smartphone app, voice commands, or integration with home automation systems. You can set schedules, adjust brightness and color temperature, or even trigger lights based on motion sensors. This can enhance safety, save energy by ensuring lights are only on when needed, and provide custom ambiance. We specialize in integrating smart home technologies into lighting installations.",
+        "@type": "Answer",
+        "description": "Yes, smart lighting can be installed in hallways, offering app and voice control, scheduling, and motion sensor integration for convenience, energy savings, and enhanced safety."
+      }
+    }
+  ],
+  "description": "Yes, smart lighting can be installed in hallways, offering app and voice control, scheduling, and motion sensor integration for convenience, energy savings, and"
+}

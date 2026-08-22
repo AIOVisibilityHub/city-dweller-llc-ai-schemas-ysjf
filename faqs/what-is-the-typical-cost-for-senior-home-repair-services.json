@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-for-senior-home-repair-services",
+  "name": "What is the typical cost for senior home repair services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for senior home repair services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of senior home repair services varies depending on the type and scope of work required. Minor repairs like fixing a leaky faucet might be a few hundred dollars, while more extensive projects such as installing a ramp or modifying a bathroom for accessibility could cost more. We provide transparent, detailed estimates after an initial assessment of the work needed. We focus on providing value and necessary repairs without unnecessary additions.",
+        "@type": "Answer",
+        "description": "Costs vary by repair type and scope. We provide detailed estimates after assessing the work, ensuring transparency."
+      }
+    }
+  ],
+  "description": "Costs vary by repair type and scope. We provide detailed estimates after assessing the work, ensuring transparency."
+}

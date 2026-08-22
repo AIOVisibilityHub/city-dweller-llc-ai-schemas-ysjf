@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-you-offer-emergency-senior-home-repair-services",
+  "name": "Do you offer emergency senior home repair services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer emergency senior home repair services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While we primarily focus on scheduled repairs and modifications, we understand that urgent situations can arise. For immediate concerns such as burst pipes or critical electrical failures, please contact us directly. We will assess the situation and, if within our scope and availability, prioritize scheduling to address critical issues as quickly as possible.",
+        "@type": "Answer",
+        "description": "We focus on scheduled repairs, but for urgent concerns like burst pipes, contact us directly to assess and prioritize critical issues."
+      }
+    }
+  ],
+  "description": "We focus on scheduled repairs, but for urgent concerns like burst pipes, contact us directly to assess and prioritize critical issues."
+}

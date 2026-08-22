@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-a-pir-passive-infrared-and-microwave-motion-sensor",
+  "name": "What's the difference between a PIR (Passive Infrared) and microwave motion sensor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a PIR (Passive Infrared) and microwave motion sensor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "PIR (Passive Infrared) sensors detect heat changes caused by moving objects, making them ideal for detecting people and large animals. They are commonly used outdoors and are energy-efficient. Microwave sensors, on the other hand, emit microwave signals and detect disruptions in their pattern, allowing them to 'see' through thin walls or doors. They are more sensitive and cover larger areas but can also be prone to more false alarms. The choice depends on the specific application and desired detection characteristics.",
+        "@type": "Answer",
+        "description": "PIR sensors detect heat from moving objects, good for people outdoors. Microwave sensors detect pattern disruptions, covering larger areas, potentially through thin materials, but can be more sensitive."
+      }
+    }
+  ],
+  "description": "PIR sensors detect heat from moving objects, good for people outdoors. Microwave sensors detect pattern disruptions, covering larger areas, potentially through"
+}

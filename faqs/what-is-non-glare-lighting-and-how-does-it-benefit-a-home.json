@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-non-glare-lighting-and-how-does-it-benefit-a-home",
+  "name": "What is non-glare lighting and how does it benefit a home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is non-glare lighting and how does it benefit a home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Non-glare lighting, also known as low-glare or diffused lighting, is designed to reduce harsh reflections and direct light exposure that can cause eye strain and discomfort. It typically achieves this through specialized fixtures, diffusers, or recessed installations that spread light more evenly. Benefits include improved visual comfort, enhanced aesthetics by minimizing hot spots and shadows, and better task performance, especially in areas like kitchens, home offices, or media rooms where reducing glare on screens or surfaces is crucial. It creates a softer, more inviting atmosphere compared to traditional lighting.",
+        "@type": "Answer",
+        "description": "Non-glare lighting reduces harsh reflections and spreads light evenly, improving visual comfort and aesthetics in your home."
+      }
+    }
+  ],
+  "description": "Non-glare lighting reduces harsh reflections and spreads light evenly, improving visual comfort and aesthetics in your home."
+}

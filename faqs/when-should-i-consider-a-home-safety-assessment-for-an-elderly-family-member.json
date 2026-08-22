@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-a-home-safety-assessment-for-an-elderly-family-member",
+  "name": "When should I consider a home safety assessment for an elderly family member?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a home safety assessment for an elderly family member?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider a home safety assessment when an elderly family member shows increased difficulty with daily tasks, has experienced a fall, or is preparing to return home after a hospital stay. Proactive assessments are also beneficial for those planning to age in place, even if no immediate issues are apparent. It's a key step when mobility or balance changes become noticeable, or if you're concerned about potential hazards in their current living environment. Early assessment can prevent future incidents.",
+        "@type": "Answer",
+        "description": "Consider an assessment when an elderly family member shows difficulty with daily tasks, has fallen, or is planning to age in place. It's beneficial proactively or after significant changes in mobility."
+      }
+    }
+  ],
+  "description": "Consider an assessment when an elderly family member shows difficulty with daily tasks, has fallen, or is planning to age in place. It's beneficial proactively"
+}

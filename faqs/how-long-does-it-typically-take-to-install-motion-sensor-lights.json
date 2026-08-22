@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-typically-take-to-install-motion-sensor-lights",
+  "name": "How long does it typically take to install motion sensor lights?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to install motion sensor lights?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation time for motion sensor lighting varies based on the complexity of the project and the number of fixtures. A single standard fixture replacement can often be completed within one to two hours. For more extensive projects involving new wiring, multiple outdoor lights, or integration with smart home systems, installation could take a full day or more. A professional contractor like City Dweller, LLC will assess your specific needs and provide a clear timeline during the initial consultation.",
+        "@type": "Answer",
+        "description": "Installation time varies, from one to two hours for a single fixture to a full day or more for complex projects requiring new wiring or multiple lights."
+      }
+    }
+  ],
+  "description": "Installation time varies, from one to two hours for a single fixture to a full day or more for complex projects requiring new wiring or multiple lights."
+}

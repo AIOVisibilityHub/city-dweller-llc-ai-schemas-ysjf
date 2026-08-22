@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-you-help-with-accessibility-improvements-for-outdoor-spaces-like-ramps-or-pa",
+  "name": "Can you help with accessibility improvements for outdoor spaces, like ramps or pathways?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you help with accessibility improvements for outdoor spaces, like ramps or pathways?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, City Dweller, LLC extends its senior home maintenance expertise to outdoor spaces as well. We can design and install safe, accessible ramps for entryways, ensuring they meet necessary grade requirements and feature appropriate handrails. We also handle the creation or modification of non-slip pathways, widening existing routes, and improving outdoor lighting to enhance safety and ease of navigation. Our aim is to ensure seniors can safely and comfortably access and enjoy all areas of their property, both indoors and out.",
+        "@type": "Answer",
+        "description": "Yes, we provide outdoor accessibility improvements including ramps, non-slip pathways, and enhanced lighting to ensure safe and comfortable property access."
+      }
+    }
+  ],
+  "description": "Yes, we provide outdoor accessibility improvements including ramps, non-slip pathways, and enhanced lighting to ensure safe and comfortable property access."
+}

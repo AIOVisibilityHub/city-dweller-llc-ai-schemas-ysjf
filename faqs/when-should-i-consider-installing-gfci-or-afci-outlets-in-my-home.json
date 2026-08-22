@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-installing-gfci-or-afci-outlets-in-my-home",
+  "name": "When should I consider installing GFCI or AFCI outlets in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider installing GFCI or AFCI outlets in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider installing Ground Fault Circuit Interrupter (GFCI) outlets in areas prone to moisture, such as bathrooms, kitchens, laundry rooms, garages, and outdoor spaces. Arc Fault Circuit Interrupter (AFCI) outlets are recommended for bedrooms and living areas to protect against electrical fires caused by arc faults. Modern electrical codes often require these safety devices in new construction and during significant renovations to minimize shock and fire risks.",
+        "@type": "Answer",
+        "description": "Install GFCIs in wet areas like bathrooms and kitchens, and AFCIs in living areas and bedrooms for enhanced fire protection."
+      }
+    }
+  ],
+  "description": "Install GFCIs in wet areas like bathrooms and kitchens, and AFCIs in living areas and bedrooms for enhanced fire protection."
+}

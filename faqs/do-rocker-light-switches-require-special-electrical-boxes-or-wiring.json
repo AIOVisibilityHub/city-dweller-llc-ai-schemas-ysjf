@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-rocker-light-switches-require-special-electrical-boxes-or-wiring",
+  "name": "Do rocker light switches require special electrical boxes or wiring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do rocker light switches require special electrical boxes or wiring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, rocker light switches are designed to fit into standard electrical wall boxes, making them compatible with existing installations. They don't typically require special boxes unless you are upgrading from a very old, smaller box that doesn't meet current code standards or you're adding multiple switches into a single gang box. The wiring requirements are also standard for most applications, adhering to conventional hot, load, and ground connections. However, specialized rocker switches like smart switches or dimmers may have additional wiring terminals, such as neutral wires, which might necessitate verifying existing wiring. This is where a professional electrician can ensure everything is correctly assessed and installed.",
+        "@type": "Answer",
+        "description": "Rocker light switches usually fit standard electrical boxes and use conventional wiring. However, older boxes or specialized switches (like smart dimmers) might require verification or minor adjustments to meet current standards."
+      }
+    }
+  ],
+  "description": "Rocker light switches usually fit standard electrical boxes and use conventional wiring. However, older boxes or specialized switches (like smart dimmers) might"
+}

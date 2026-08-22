@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-rocker-light-switch-and-how-does-it-differ-from-a-toggle-switch",
+  "name": "What is a rocker light switch and how does it differ from a toggle switch?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a rocker light switch and how does it differ from a toggle switch?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A rocker light switch, often called a decor or paddle switch, features a flat, rectangular button that you press to turn lights on or off. Unlike a traditional toggle switch, which has a small lever that flips up or down, a rocker switch offers a sleeker, more modern appearance. Functionally, they both control lighting circuits, but the rocker's larger surface area can be easier to operate. Many homeowners choose rocker switches for aesthetic reasons or to match contemporary interior designs.",
+        "@type": "Answer",
+        "description": "A rocker switch has a flat, rectangular button for operation, providing a modern aesthetic, while a toggle switch uses a small lever. Both control light circuits."
+      }
+    }
+  ],
+  "description": "A rocker switch has a flat, rectangular button for operation, providing a modern aesthetic, while a toggle switch uses a small lever. Both control light circuit"
+}

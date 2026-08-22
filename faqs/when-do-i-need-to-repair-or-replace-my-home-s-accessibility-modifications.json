@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-do-i-need-to-repair-or-replace-my-home-s-accessibility-modifications",
+  "name": "When do I need to repair or replace my home's accessibility modifications?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to repair or replace my home's accessibility modifications?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider repairing or replacing accessibility modifications if you notice signs of wear, damage, or reduced functionality. Common indicators include loose grab bars, rusty shower seats, cracks in ramps, or doors that no longer open smoothly. Any issue that compromises safety or ease of use for the person relying on the feature warrants immediate attention. Early intervention can often prevent minor issues from becoming major, more expensive problems, ensuring the continued safety and independence of residents.",
+        "@type": "Answer",
+        "description": "Repair or replace accessibility modifications when you see signs of wear, damage, or reduced functionality that compromises safety or ease of use."
+      }
+    }
+  ],
+  "description": "Repair or replace accessibility modifications when you see signs of wear, damage, or reduced functionality that compromises safety or ease of use."
+}

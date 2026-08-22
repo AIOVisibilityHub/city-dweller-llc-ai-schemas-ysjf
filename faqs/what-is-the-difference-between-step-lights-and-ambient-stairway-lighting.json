@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-step-lights-and-ambient-stairway-lighting",
+  "name": "What is the difference between step lights and ambient stairway lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between step lights and ambient stairway lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Step lights are specifically designed to illuminate individual steps, providing direct, focused light right where it's needed for safety and visibility. They are often recessed into walls or risers. Ambient stairway lighting, on the other hand, provides general illumination for the entire stairwell area, often using wall sconces, ceiling fixtures, or pendant lights. While ambient lighting can contribute to overall brightness, step lights are more effective at defining the steps themselves, especially in darker conditions, offering a crucial layer of safety.",
+        "@type": "Answer",
+        "description": "Step lights illuminate individual steps directly for safety, often recessed. Ambient lighting provides general illumination for the entire stairwell area using fixtures like sconces or pendants."
+      }
+    }
+  ],
+  "description": "Step lights illuminate individual steps directly for safety, often recessed. Ambient lighting provides general illumination for the entire stairwell area using"
+}

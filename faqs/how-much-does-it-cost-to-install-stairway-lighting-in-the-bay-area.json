@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-install-stairway-lighting-in-the-bay-area",
+  "name": "How much does it cost to install stairway lighting in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install stairway lighting in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of stairway lighting installation in the Bay Area varies widely based on several factors. These include the type of lighting fixtures chosen (e.g., simple LED step lights versus custom integrated systems), the complexity of the installation (e.g., new wiring versus utilizing existing electrical), the length of the stairway, and labor rates. A basic installation might start from a few hundred dollars, while more elaborate, multi-fixture projects can range into several thousands. We provide detailed estimates after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Stairway lighting installation costs in the Bay Area vary based on fixture type, installation complexity, and labor. Basic installations start from hundreds, while complex projects can be thousands."
+      }
+    }
+  ],
+  "description": "Stairway lighting installation costs in the Bay Area vary based on fixture type, installation complexity, and labor. Basic installations start from hundreds, wh"
+}

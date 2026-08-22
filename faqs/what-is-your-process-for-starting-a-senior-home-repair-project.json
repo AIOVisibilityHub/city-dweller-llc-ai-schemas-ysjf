@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-your-process-for-starting-a-senior-home-repair-project",
+  "name": "What is your process for starting a senior home repair project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is your process for starting a senior home repair project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial phone consultation to discuss your specific needs and concerns. Following this, we schedule an on-site visit to thoroughly assess the required repairs or modifications and gather all necessary details. Based on this assessment, we provide a detailed, transparent estimate. Once approved, we schedule the work at your convenience and complete the project efficiently and to your satisfaction.",
+        "@type": "Answer",
+        "description": "Our process includes a phone consultation, on-site assessment, detailed estimate, and efficient project completion."
+      }
+    }
+  ],
+  "description": "Our process includes a phone consultation, on-site assessment, detailed estimate, and efficient project completion."
+}

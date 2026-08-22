@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-replacing-old-wiring-with-new-safer-electrical-wiring",
+  "name": "What is the process for replacing old wiring with new, safer electrical wiring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing old wiring with new, safer electrical wiring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing old wiring involves a licensed electrician assessing your current system, determining the scope of work, and obtaining necessary permits. The process typically includes disconnecting power, removing old wiring, installing new code-compliant wiring (often Romex or MC cable), upgrading electrical panels if needed, and installing new outlets and switches. After installation, the system is tested, and a final inspection ensures everything meets safety standards. This can be a disruptive process, but ensures long-term safety.",
+        "@type": "Answer",
+        "description": "The process includes assessment, permitting, old wiring removal, new wiring installation, panel upgrades, and final inspection by a licensed electrician."
+      }
+    }
+  ],
+  "description": "The process includes assessment, permitting, old wiring removal, new wiring installation, panel upgrades, and final inspection by a licensed electrician."
+}

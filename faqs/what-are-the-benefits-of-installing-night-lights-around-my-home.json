@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-benefits-of-installing-night-lights-around-my-home",
+  "name": "What are the benefits of installing night lights around my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of installing night lights around my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Night lights offer multiple benefits for homeowners. They enhance safety by illuminating pathways, stairs, and dark corners, reducing the risk of falls or accidents at night. Improved visibility can also deter potential intruders, adding a layer of security. Furthermore, strategically placed night lights can boost your home's curb appeal and create a welcoming ambiance, increasing its aesthetic value. They are an energy-efficient solution for providing essential nighttime illumination without the high costs associated with brighter, always-on outdoor lighting.",
+        "@type": "Answer",
+        "description": "Night lights improve safety, enhance security by deterring intruders, and boost curb appeal while being energy-efficient."
+      }
+    }
+  ],
+  "description": "Night lights improve safety, enhance security by deterring intruders, and boost curb appeal while being energy-efficient."
+}

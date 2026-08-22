@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-motion-sensor-lights-work-effectively-in-all-weather-conditions-especially-in",
+  "name": "Do motion sensor lights work effectively in all weather conditions, especially in coastal areas like Pacifica or Half Moon Bay?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do motion sensor lights work effectively in all weather conditions, especially in coastal areas like Pacifica or Half Moon Bay?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, motion sensor lights can work effectively in various weather conditions, but it's crucial to select fixtures specifically designed for outdoor use and rated for harsh environments. For coastal areas like Pacifica or Half Moon Bay, look for lights with high IP (Ingress Protection) ratings, indicating resistance to dust and water, including salt spray. Quality outdoor motion sensors are built to withstand rain, fog, and temperature fluctuations, ensuring reliable operation and longevity even in challenging Bay Area climates.",
+        "@type": "Answer",
+        "description": "Yes, if they are appropriate for outdoor installation and have a high IP rating for dust and water resistance, which is crucial for coastal areas."
+      }
+    }
+  ],
+  "description": "Yes, if they are appropriate for outdoor installation and have a high IP rating for dust and water resistance, which is crucial for coastal areas."
+}

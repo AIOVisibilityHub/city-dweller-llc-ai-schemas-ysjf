@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-benefits-of-led-lighting-for-home-safety-and-energy-efficiency",
+  "name": "What are the benefits of LED lighting for home safety and energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of LED lighting for home safety and energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "LED lighting offers several safety benefits: they produce very little heat, significantly reducing fire risk compared to incandescent bulbs. They are also highly durable and less prone to breakage. From an efficiency standpoint, LEDs consume considerably less energy than traditional bulbs, leading to lower electricity bills and a reduced environmental footprint. Their long lifespan also means less frequent bulb changes, adding to convenience and safety on ladders.",
+        "@type": "Answer",
+        "description": "LEDs reduce fire risk due to low heat, are durable, and offer significant energy savings, lowering bills and the need for frequent replacements."
+      }
+    }
+  ],
+  "description": "LEDs reduce fire risk due to low heat, are durable, and offer significant energy savings, lowering bills and the need for frequent replacements."
+}

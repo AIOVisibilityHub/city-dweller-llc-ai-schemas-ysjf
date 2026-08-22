@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-install-accessible-light-switches-in-a-home",
+  "name": "How long does it take to install accessible light switches in a home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install accessible light switches in a home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation time for accessible light switches depends on the number of switches being replaced and whether any new wiring is required. A direct replacement of a standard switch with a similar accessible type (e.g., rocker switch) can take as little as 15-30 minutes per switch. More complex installations, such as adding smart switches that require hub configuration or new wiring, could take longer per unit or require a half-day to full-day for a whole-house upgrade. Your contractor can provide a more precise estimate.",
+        "@type": "Answer",
+        "description": "Installation typically ranges from 15-30 minutes per switch for direct replacements, to several hours or a full day for more complex smart switch systems or whole-house upgrades."
+      }
+    }
+  ],
+  "description": "Installation typically ranges from 15-30 minutes per switch for direct replacements, to several hours or a full day for more complex smart switch systems or who"
+}

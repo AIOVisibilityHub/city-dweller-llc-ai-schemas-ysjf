@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-benefits-of-having-functional-safety-lighting-on-my-property",
+  "name": "What are the benefits of having functional safety lighting on my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of having functional safety lighting on my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Functional safety lighting provides multiple benefits for your property. Primarily, it deters potential intruders by eliminating dark spots and increasing visibility, enhancing overall security. It also improves safety for residents and visitors by illuminating pathways, stairs, and entry points, reducing the risk of slips, trips, and falls. Additionally, well-lit exteriors can increase your property's curb appeal and value, making it more inviting. For businesses, it creates a safer environment for employees and customers, ensuring compliance with safety standards.",
+        "@type": "Answer",
+        "description": "Functional safety lighting deters intruders, improves safety by illuminating pathways, and enhances property curb appeal and value."
+      }
+    }
+  ],
+  "description": "Functional safety lighting deters intruders, improves safety by illuminating pathways, and enhances property curb appeal and value."
+}

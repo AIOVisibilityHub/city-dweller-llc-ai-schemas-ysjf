@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-factors-should-i-consider-when-choosing-motion-sensor-lights-for-my-home",
+  "name": "What factors should I consider when choosing motion sensor lights for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing motion sensor lights for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting motion sensor lights, consider the detection range and angle needed for the area you want to cover. Lumens (brightness) are important for effective illumination; higher lumens are suitable for security, while lower are for ambiance. Evaluate power source options like hardwired, solar, or battery. Look for adjustable settings for sensitivity and duration to customize performance. Finally, consider weather resistance ratings (IP ratings) for outdoor installations to ensure durability in the Bay Area climate.",
+        "@type": "Answer",
+        "description": "Consider detection range, brightness (lumens), power source, adjustable settings (sensitivity, duration), and weather resistance for outdoor use."
+      }
+    }
+  ],
+  "description": "Consider detection range, brightness (lumens), power source, adjustable settings (sensitivity, duration), and weather resistance for outdoor use."
+}

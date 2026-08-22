@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-types-of-accessible-light-switches",
+  "name": "What are common types of accessible light switches?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common types of accessible light switches?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Accessible light switches typically include rocker switches, paddle switches, touch-sensitive switches, and smart switches. Rocker and paddle switches require less dexterity than traditional toggle switches, while touch-sensitive options eliminate physical force entirely. Smart switches offer control via voice commands, apps, or motion sensors, enhancing accessibility for a wide range of needs. The best choice depends on individual user requirements and home integration possibilities.",
+        "@type": "Answer",
+        "description": "Common types include rocker, paddle, touch-sensitive, and smart switches, each offering different accessibility benefits."
+      }
+    }
+  ],
+  "description": "Common types include rocker, paddle, touch-sensitive, and smart switches, each offering different accessibility benefits."
+}

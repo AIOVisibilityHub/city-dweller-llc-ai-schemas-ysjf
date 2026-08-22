@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-non-glare-lighting-for-different-rooms-in-my-house",
+  "name": "How do I choose the right non-glare lighting for different rooms in my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right non-glare lighting for different rooms in my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right non-glare lighting depends on the function and aesthetic of each room. For task areas like kitchens or home offices, consider recessed lighting with deep-set bulbs, diffusers, or linear fixtures that provide ample light without direct glare. In living rooms or bedrooms, softer, indirect lighting from cove lighting, wall sconces, or lamps with opaque shades can create a relaxed, low-glare environment. Pay attention to color temperature (warm white for comfort, cooler for tasks), beam spread, and dimmability. Our team can help assess your specific needs and recommend suitable fixtures and layouts.",
+        "@type": "Answer",
+        "description": "Select non-glare lighting based on room function; recessed or diffused fixtures for tasks, and indirect or shaded lighting for ambient areas. Consider color temperature and dimmability."
+      }
+    }
+  ],
+  "description": "Select non-glare lighting based on room function; recessed or diffused fixtures for tasks, and indirect or shaded lighting for ambient areas. Consider color tem"
+}
