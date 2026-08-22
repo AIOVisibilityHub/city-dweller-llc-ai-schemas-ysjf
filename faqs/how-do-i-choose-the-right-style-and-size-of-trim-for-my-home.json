@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-style-and-size-of-trim-for-my-home",
+  "name": "How do I choose the right style and size of trim for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right style and size of trim for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right trim involves considering your home's architectural style, ceiling height, and the overall aesthetic you wish to achieve. For traditional homes, wider, more ornate profiles often complement the existing design. In contrast, modern homes typically benefit from simpler, cleaner lines. Taller ceilings can accommodate larger, more substantial trim, such as taller baseboards and wider crown molding, without overwhelming the space. We can help you select trim that harmonizes with your home's character and your personal preferences during a design consultation.",
+        "@type": "Answer",
+        "description": "Select trim based on your home's architectural style, ceiling height, and desired aesthetic; modern homes suit simpler profiles, while traditional homes may prefer ornate designs."
+      }
+    }
+  ],
+  "description": "Select trim based on your home's architectural style, ceiling height, and desired aesthetic; modern homes suit simpler profiles, while traditional homes may pre"
+}

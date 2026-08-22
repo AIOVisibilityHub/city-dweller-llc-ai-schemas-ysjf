@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-often-should-interior-walls-be-repainted",
+  "name": "How often should interior walls be repainted?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should interior walls be repainted?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The frequency of interior repainting depends on several factors, including the room's use, wear and tear, and your personal preference for a fresh look. High-traffic areas like hallways, kitchens, and bathrooms may need repainting every 3-5 years due to increased exposure to dirt, moisture, and scuffs. Bedrooms and living rooms typically require repainting every 5-7 years. Quality of the previous paint job and paint type also influence longevity. Ultimately, repainting when the current finish shows signs of fading, chipping, or excessive scuffs is a good guideline.",
+        "@type": "Answer",
+        "description": "Repainting frequency varies by room use; high-traffic areas every 3-5 years, others every 5-7 years. Repaint when paint shows fading, chipping, or scuffs."
+      }
+    }
+  ],
+  "description": "Repainting frequency varies by room use; high-traffic areas every 3-5 years, others every 5-7 years. Repaint when paint shows fading, chipping, or scuffs."
+}

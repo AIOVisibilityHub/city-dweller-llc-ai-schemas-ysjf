@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-custom-molding-increase-the-value-of-my-home",
+  "name": "Will custom molding increase the value of my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will custom molding increase the value of my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, custom molding can significantly enhance the aesthetic appeal and perceived value of your home. It adds a layer of architectural detail and sophistication that distinguishes a property from others with standard finishes. High-quality custom millwork suggests attention to detail and craftsmanship, which can be attractive to potential buyers. While specific ROI varies, investments in custom architectural elements are generally considered valuable upgrades that contribute to a home's overall market desirability and often command a higher selling price.",
+        "@type": "Answer",
+        "description": "Yes, custom molding increases home value by adding architectural detail, sophistication, and perceived craftsmanship, making the property more attractive to buyers."
+      }
+    }
+  ],
+  "description": "Yes, custom molding increases home value by adding architectural detail, sophistication, and perceived craftsmanship, making the property more attractive to buy"
+}

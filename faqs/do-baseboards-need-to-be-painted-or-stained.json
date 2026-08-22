@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-baseboards-need-to-be-painted-or-stained",
+  "name": "Do baseboards need to be painted or stained?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do baseboards need to be painted or stained?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Baseboards typically need to be finished with either paint or stain to protect the material and integrate them visually with the room's design. MDF baseboards are usually painted, as staining wouldn't highlight a natural wood grain. Wood baseboards (pine, oak, etc.) can be painted to match trim or walls, or stained to showcase their natural beauty, often complementing wooden floors or doors. The choice depends on the desired aesthetic and material.",
+        "@type": "Answer",
+        "description": "Yes, baseboards are painted or stained for protection and to match room aesthetics. MDF is usually painted; wood can be painted or stained."
+      }
+    }
+  ],
+  "description": "Yes, baseboards are painted or stained for protection and to match room aesthetics. MDF is usually painted; wood can be painted or stained."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-latex-and-oil-based-paint-for-interiors",
+  "name": "What is the difference between latex and oil-based paint for interiors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between latex and oil-based paint for interiors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Latex (water-based) paints are the most common choice for interiors today. They dry quickly, have low VOCs (volatile organic compounds) for fewer odors, and clean up easily with water. They are flexible, resisting cracking and yellowing over time. Oil-based paints, while more durable and traditionally used for trim and high-traffic areas, have higher VOCs, a longer drying time, and require mineral spirits for cleanup. While oil-based paints offer a harder finish, modern latex paints have significantly improved in durability and performance, often making them the preferred option for most interior applications.",
+        "@type": "Answer",
+        "description": "Latex paints dry fast, have low odor, and clean with water; ideal for most interiors. Oil-based paints are more durable but have higher VOCs, longer dry times, and need mineral spirits for cleanup."
+      }
+    }
+  ],
+  "description": "Latex paints dry fast, have low odor, and clean with water; ideal for most interiors. Oil-based paints are more durable but have higher VOCs, longer dry times,"
+}

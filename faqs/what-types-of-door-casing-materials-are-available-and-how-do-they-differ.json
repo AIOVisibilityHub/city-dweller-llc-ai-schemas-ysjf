@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-door-casing-materials-are-available-and-how-do-they-differ",
+  "name": "What types of door casing materials are available, and how do they differ?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of door casing materials are available, and how do they differ?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common door casing materials include solid wood (such as pine, oak, or maple), MDF (medium-density fiberboard), and PVC. Solid wood offers natural beauty and can be stained or painted, providing durability and a classic look. MDF is a cost-effective option, ideal for painting, and resistant to warping, though it's less durable than solid wood. PVC is moisture-resistant and suitable for humid environments like bathrooms or exterior applications, but it may have fewer design options. Your choice depends on budget, desired finish, and environmental conditions.",
+        "@type": "Answer",
+        "description": "Door casing materials include solid wood for classic durability, MDF for cost-effective painting, and PVC for moisture resistance. Each has pros and cons for budget and appearance."
+      }
+    }
+  ],
+  "description": "Door casing materials include solid wood for classic durability, MDF for cost-effective painting, and PVC for moisture resistance. Each has pros and cons for bu"
+}

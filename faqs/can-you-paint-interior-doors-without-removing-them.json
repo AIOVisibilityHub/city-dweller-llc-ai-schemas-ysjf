@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-you-paint-interior-doors-without-removing-them",
+  "name": "Can you paint interior doors without removing them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you paint interior doors without removing them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, interior doors can be painted without removing them, but it typically requires more careful preparation and can sometimes lead to a less optimal finish. When painting doors in place, you'll need to meticulously tape off hinges, door handles, and surrounding trim. Care must be taken to prevent drips and ensure even coverage around the edges. While possible, removing the doors usually allows for a more thorough and professional result, especially for multiple coats.",
+        "@type": "Answer",
+        "description": "You can paint doors without removing them, but it requires more careful masking and may yield a less polished finish than removal."
+      }
+    }
+  ],
+  "description": "You can paint doors without removing them, but it requires more careful masking and may yield a less polished finish than removal."
+}

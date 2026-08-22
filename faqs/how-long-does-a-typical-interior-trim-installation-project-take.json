@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-interior-trim-installation-project-take",
+  "name": "How long does a typical interior trim installation project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical interior trim installation project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an interior trim installation project varies based on the scope and complexity. For a single room with basic trim like baseboards and door casings, it might take 1-3 days. A whole-house trim upgrade, especially with custom profiles or intricate crown molding, could extend to 1-2 weeks. Factors like material availability, existing wall conditions, and the need for painting or staining after installation also influence the timeline. We provide a detailed project schedule after our initial consultation and site assessment.",
+        "@type": "Answer",
+        "description": "Project duration depends on scope; a single room might take 1-3 days, while a whole house could be 1-2 weeks. We provide a detailed schedule after assessment."
+      }
+    }
+  ],
+  "description": "Project duration depends on scope; a single room might take 1-3 days, while a whole house could be 1-2 weeks. We provide a detailed schedule after assessment."
+}

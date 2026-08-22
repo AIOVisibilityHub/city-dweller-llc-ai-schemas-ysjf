@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-cost-of-interior-trim-work-for-a-home-in-daly-city",
+  "name": "What is the cost of interior trim work for a home in Daly City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of interior trim work for a home in Daly City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of interior trim work in Daly City depends on several factors: the type and quantity of trim (e.g., baseboards, crown molding), the material chosen (e.g., MDF, solid wood), the complexity of the installation (e.g., intricate cuts, curved walls), and any necessary prep or finish work like painting. Basic baseboard installation might start at a certain price per linear foot, while custom crown molding will be higher. We provide a detailed, itemized quote after an on-site consultation to accurately assess your specific needs and the scope of work.",
+        "@type": "Answer",
+        "description": "Costs vary based on trim type, material, installation complexity, and finish work. We provide itemized quotes after an on-site consultation in Daly City."
+      }
+    }
+  ],
+  "description": "Costs vary based on trim type, material, installation complexity, and finish work. We provide itemized quotes after an on-site consultation in Daly City."
+}

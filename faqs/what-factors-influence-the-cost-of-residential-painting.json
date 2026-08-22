@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-factors-influence-the-cost-of-residential-painting",
+  "name": "What factors influence the cost of residential painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of residential painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence the overall cost of residential painting. These include the size of the area to be painted (square footage), the complexity of the job (e.g., high ceilings, intricate trim work, multiple colors), and the amount of surface preparation required (e.g., extensive patching, sanding, or power washing). The type and quality of paint chosen also impact the price, with premium paints typically costing more but offering greater durability. Accessibility, furniture moving, and the number of coats needed can also contribute to the final estimate.",
+        "@type": "Answer",
+        "description": "Painting costs depend on area size, job complexity, surface preparation, paint quality, and accessibility."
+      }
+    }
+  ],
+  "description": "Painting costs depend on area size, job complexity, surface preparation, paint quality, and accessibility."
+}

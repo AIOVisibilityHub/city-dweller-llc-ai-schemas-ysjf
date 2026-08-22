@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-often-should-i-repaint-the-exterior-of-my-house-in-the-bay-area",
+  "name": "How often should I repaint the exterior of my house in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I repaint the exterior of my house in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The frequency of exterior repainting in the Bay Area can vary based on several factors, including local climate, sun exposure, and the type of paint previously used. Generally, a high-quality exterior paint job can last between 5 to 10 years. Coastal areas like Pacifica or Half Moon Bay, with more exposure to salt air and moisture, might require repainting sooner. Regular inspection for peeling, cracking, or fading can help determine the optimal time for a new coat, protecting your home and maintaining its curb appeal.",
+        "@type": "Answer",
+        "description": "Exterior repainting in the Bay Area typically lasts 5-10 years, depending on climate and sun exposure. Coastal homes may need it sooner."
+      }
+    }
+  ],
+  "description": "Exterior repainting in the Bay Area typically lasts 5-10 years, depending on climate and sun exposure. Coastal homes may need it sooner."
+}

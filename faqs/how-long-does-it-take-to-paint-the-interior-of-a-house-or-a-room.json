@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-paint-the-interior-of-a-house-or-a-room",
+  "name": "How long does it take to paint the interior of a house or a room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to paint the interior of a house or a room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an interior painting project varies depending on several factors, including the size of the area, the number of rooms, the complexity of trim work, and the amount of preparation required. A single average-sized room might take 1-2 days, while a full interior house painting project could range from 3-7 days or more. We aim for efficiency without compromising quality, providing a realistic timeline during the initial estimate after assessing your specific project details.",
+        "@type": "Answer",
+        "description": "Project duration depends on size, number of rooms, and prep work. A single room may take 1-2 days; a whole house, 3-7 days or more."
+      }
+    }
+  ],
+  "description": "Project duration depends on size, number of rooms, and prep work. A single room may take 1-2 days; a whole house, 3-7 days or more."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-wood-are-used-for-window-framing",
+  "name": "What types of wood are used for window framing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of wood are used for window framing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common types of wood used for window framing include Douglas Fir, Southern Yellow Pine, and Spruce-Pine-Fir (SPF) lumber. These woods are chosen for their strength, durability, and availability. For headers, engineered lumber products like Laminated Veneer Lumber (LVL) or Glued Laminated Timber (Glulam) are often preferred due to their superior strength and ability to span wider openings without excessive deflection. The specific type of wood used depends on structural requirements, local building codes, and material availability.",
+        "@type": "Answer",
+        "description": "Common woods for window framing include Douglas Fir, Southern Yellow Pine, and SPF lumber. Engineered lumber like LVL or Glulam is often used for headers due to superior strength."
+      }
+    }
+  ],
+  "description": "Common woods for window framing include Douglas Fir, Southern Yellow Pine, and SPF lumber. Engineered lumber like LVL or Glulam is often used for headers due to"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-maintenance-does-installed-trim-require",
+  "name": "What kind of maintenance does installed trim require?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance does installed trim require?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Properly installed trim requires minimal maintenance, primarily focused on keeping it clean and periodically checking for damage. Regular dusting and occasional wiping with a damp cloth are usually sufficient to maintain its appearance. For painted trim, touch-ups may be needed every few years, especially in high-traffic areas, to cover scuffs or chips. For stained or natural wood trim, reapplication of protective finishes might be necessary over time to prevent drying or fading. Inspecting for gaps or loose sections and addressing them promptly will help maintain its integrity.",
+        "@type": "Answer",
+        "description": "Trim maintenance involves regular dusting, occasional cleaning, and periodic paint touch-ups or finish reapplication for wood. Check for and address any loose sections."
+      }
+    }
+  ],
+  "description": "Trim maintenance involves regular dusting, occasional cleaning, and periodic paint touch-ups or finish reapplication for wood. Check for and address any loose s"
+}

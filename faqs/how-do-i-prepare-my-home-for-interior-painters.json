@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-prepare-my-home-for-interior-painters",
+  "name": "How do I prepare my home for interior painters?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prepare my home for interior painters?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare your home for interior painters, we recommend clearing small, valuable, or fragile items from the rooms being painted. Larger furniture can often be moved to the center of the room by our team and covered. While we take precautions to protect your belongings, removing personal items, electronics, and wall decor yourself helps ensure their safety and speeds up the preparation process. Please also ensure clear access to all walls and ceilings slated for painting.",
+        "@type": "Answer",
+        "description": "Prepare by clearing small items, moving furniture to the room's center, and ensuring clear access to walls and ceilings."
+      }
+    }
+  ],
+  "description": "Prepare by clearing small items, moving furniture to the room's center, and ensuring clear access to walls and ceilings."
+}

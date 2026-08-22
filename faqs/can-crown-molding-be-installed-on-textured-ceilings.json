@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-crown-molding-be-installed-on-textured-ceilings",
+  "name": "Can crown molding be installed on textured ceilings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can crown molding be installed on textured ceilings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, crown molding can be installed on textured ceilings, but it may require additional preparation to ensure a clean and secure fit. For heavily textured ceilings (like popcorn ceilings), some texture may need to be carefully removed along the line where the molding will sit to create a smooth surface for adhesion. This helps in achieving a seamless look and preventing gaps. Our team assesses the ceiling texture during the consultation and advises on any necessary preparation.",
+        "@type": "Answer",
+        "description": "Yes, but heavily textured ceilings may require preparation, like localized texture removal, for a clean and secure fit."
+      }
+    }
+  ],
+  "description": "Yes, but heavily textured ceilings may require preparation, like localized texture removal, for a clean and secure fit."
+}

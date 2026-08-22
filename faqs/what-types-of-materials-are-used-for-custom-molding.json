@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-materials-are-used-for-custom-molding",
+  "name": "What types of materials are used for custom molding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are used for custom molding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom molding can be crafted from various materials, each offering distinct properties. Common choices include solid hardwoods like oak, maple, or cherry for durability and natural grain, and softwoods such as pine or poplar, which are easier to work with and paint. MDF (Medium-Density Fiberboard) is a cost-effective option for painted finishes, while polyurethane or plaster can be used for intricate, non-structural designs, especially in historical replication. The material choice depends on the desired finish, budget, and structural requirements of the project.",
+        "@type": "Answer",
+        "description": "Custom molding uses materials like hardwoods (oak, maple), softwoods (pine, poplar), MDF, polyurethane, and plaster, depending on the desired finish, budget, and project needs."
+      }
+    }
+  ],
+  "description": "Custom molding uses materials like hardwoods (oak, maple), softwoods (pine, poplar), MDF, polyurethane, and plaster, depending on the desired finish, budget, an"
+}

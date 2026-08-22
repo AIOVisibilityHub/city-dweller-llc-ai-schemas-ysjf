@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-trim-repair-and-trim-replacement",
+  "name": "What is the difference between trim repair and trim replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between trim repair and trim replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Trim repair involves fixing localized damage, such as filling small cracks, sanding imperfections, or reattaching loose sections. It's suitable for minor issues that haven't compromised the trim's structural integrity or aesthetic. Trim replacement, however, entails removing and installing new trim sections or entire pieces. This is necessary for extensive damage like severe rot, warping, or when updating to a different style. Replacement ensures a uniform, long-lasting finish, especially for areas exposed to moisture.",
+        "@type": "Answer",
+        "description": "Trim repair fixes minor, localized damage, while trim replacement involves installing new sections due to extensive damage or aesthetic updates."
+      }
+    }
+  ],
+  "description": "Trim repair fixes minor, localized damage, while trim replacement involves installing new sections due to extensive damage or aesthetic updates."
+}

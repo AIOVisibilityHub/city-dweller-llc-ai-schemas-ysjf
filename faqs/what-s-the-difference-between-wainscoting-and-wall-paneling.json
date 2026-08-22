@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-wainscoting-and-wall-paneling",
+  "name": "What's the difference between wainscoting and wall paneling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between wainscoting and wall paneling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often used interchangeably, wainscoting is a specific type of wall paneling that covers only the lower portion of a wall. Wall paneling, in its broader definition, can refer to any decorative panels that cover an entire wall or section of a wall, not just the bottom. Wainscoting's distinct characteristic is its height, typically extending one-third to half-way up the wall, serving both decorative and protective purposes for the lower wall section.",
+        "@type": "Answer",
+        "description": "Wainscoting is a specific type of wall paneling that covers only the lower portion of a wall, while general wall paneling can cover entire walls."
+      }
+    }
+  ],
+  "description": "Wainscoting is a specific type of wall paneling that covers only the lower portion of a wall, while general wall paneling can cover entire walls."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-wainscoting-and-why-is-it-used",
+  "name": "What is wainscoting and why is it used?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is wainscoting and why is it used?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wainscoting is a decorative paneling installed on the lower portion of an interior wall, typically extending from the floor to about waist height. Historically, it provided insulation and protected walls from scuffs and moisture. Today, it's primarily used for aesthetic enhancement, adding architectural interest, texture, and a refined look to rooms. It can also conceal minor wall imperfections and offer a durable surface in high-traffic areas.",
+        "@type": "Answer",
+        "description": "Wainscoting is a decorative wall paneling that adds architectural interest and protects walls, often used for aesthetic enhancement."
+      }
+    }
+  ],
+  "description": "Wainscoting is a decorative wall paneling that adds architectural interest and protects walls, often used for aesthetic enhancement."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-install-baseboards-before-or-after-flooring",
+  "name": "Should I install baseboards before or after flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I install baseboards before or after flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally recommended to install flooring first, especially if it's a floating floor like laminate or engineered wood, as these require an expansion gap around the perimeter. Baseboards are then installed on top of the finished flooring, covering this gap and providing a clean, finished edge. If painting, you might consider painting walls first, then installing and painting baseboards to avoid extensive masking.",
+        "@type": "Answer",
+        "description": "Install flooring first to allow for expansion gaps, then install baseboards on top to cover the gaps and provide a finished edge."
+      }
+    }
+  ],
+  "description": "Install flooring first to allow for expansion gaps, then install baseboards on top to cover the gaps and provide a finished edge."
+}

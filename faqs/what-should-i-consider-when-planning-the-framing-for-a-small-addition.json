@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-consider-when-planning-the-framing-for-a-small-addition",
+  "name": "What should I consider when planning the framing for a small addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when planning the framing for a small addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When planning the framing for a small addition, consider the structural integrity and how it connects to the existing home. Think about the long-term use of the space, window and door placements for natural light and ventilation, and future needs like HVAC and electrical rough-ins. Evaluate material choices (wood vs. steel), local seismic requirements, and potential for advanced framing techniques to enhance energy efficiency. Early consideration of these factors ensures a sturdy, functional, and efficient addition.",
+        "@type": "Answer",
+        "description": "When planning framing, consider structural integrity, integration with the existing home, window/door placement, material choices, and future needs."
+      }
+    }
+  ],
+  "description": "When planning framing, consider structural integrity, integration with the existing home, window/door placement, material choices, and future needs."
+}

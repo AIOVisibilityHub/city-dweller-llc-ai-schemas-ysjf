@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-install-door-casing-myself-or-should-i-hire-a-professional",
+  "name": "Can I install door casing myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install door casing myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While DIY door casing installation is possible for those with carpentry experience, hiring a professional ensures a high-quality, precise finish. Professionals have the specialized tools, knowledge, and experience to accurately measure, cut mitered corners, and properly secure the casing, preventing issues like gaps, uneven seams, or inefficient installation. For a flawless result that enhances your home's value and aesthetics, especially with complex designs or expensive materials, professional installation is recommended. City Dweller, LLC provides expert installation services.",
+        "@type": "Answer",
+        "description": "While DIY is possible, hiring a professional ensures precise and high-quality door casing installation. Professionals have the tools and experience for a flawless finish."
+      }
+    }
+  ],
+  "description": "While DIY is possible, hiring a professional ensures precise and high-quality door casing installation. Professionals have the tools and experience for a flawle"
+}

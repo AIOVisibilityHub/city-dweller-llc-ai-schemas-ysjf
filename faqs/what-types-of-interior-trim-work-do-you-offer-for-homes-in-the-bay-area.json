@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-interior-trim-work-do-you-offer-for-homes-in-the-bay-area",
+  "name": "What types of interior trim work do you offer for homes in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of interior trim work do you offer for homes in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We offer a comprehensive range of interior trim services, including baseboards, crown molding, door and window casings, chair rails, and wainscoting. Our team can work with various materials such as MDF, pine, oak, and other hardwoods to match your home's aesthetic. Whether you're looking for a modern, minimalist design or a more traditional, ornate style, we provide custom solutions to enhance the architectural details and overall finish of your living spaces. We also handle built-in shelving and custom cabinetry trim.",
+        "@type": "Answer",
+        "description": "We offer baseboards, crown molding, door and window casings, chair rails, wainscoting, and custom trim for built-ins in various materials."
+      }
+    }
+  ],
+  "description": "We offer baseboards, crown molding, door and window casings, chair rails, wainscoting, and custom trim for built-ins in various materials."
+}

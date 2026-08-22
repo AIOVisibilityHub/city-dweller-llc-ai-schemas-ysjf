@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-different-types-of-door-casing-for-interior-versus-exterior-doors",
+  "name": "Do I need different types of door casing for interior versus exterior doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need different types of door casing for interior versus exterior doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, interior and exterior door casings typically require different materials and considerations. Exterior door casing needs to withstand outdoor elements like moisture, temperature fluctuations, and UV exposure. Therefore, weather-resistant materials such as PVC, composite, or rot-resistant woods are preferred. Interior door casing, not exposed to harsh conditions, has more material and style flexibility, allowing for choices like MDF, various wood species, or polyurethane. Functionally, exterior casing also plays a greater role in sealing the building envelope.",
+        "@type": "Answer",
+        "description": "Exterior door casing requires weather-resistant materials like PVC or composite to withstand elements. Interior casing has more material and style flexibility, as it's not exposed to harsh conditions."
+      }
+    }
+  ],
+  "description": "Exterior door casing requires weather-resistant materials like PVC or composite to withstand elements. Interior casing has more material and style flexibility,"
+}

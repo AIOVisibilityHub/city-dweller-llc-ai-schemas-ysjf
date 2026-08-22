@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-factors-influence-the-cost-of-interior-painting",
+  "name": "What factors influence the cost of interior painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of interior painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of interior painting is determined by several factors. These include the total square footage to be painted, the number of rooms, the ceiling height, and the condition of the walls which dictates the amount of prep work (patching, sanding, priming). The type and quality of paint chosen, the number of coats required, and the complexity of trim or detail work also play a significant role. Access challenges, such as vaulted ceilings or difficult-to-reach areas, can also impact labor costs. We provide detailed estimates tailored to your specific project needs.",
+        "@type": "Answer",
+        "description": "Cost factors include square footage, number of rooms, wall condition, paint type, number of coats, and complexity of trim or detail work."
+      }
+    }
+  ],
+  "description": "Cost factors include square footage, number of rooms, wall condition, paint type, number of coats, and complexity of trim or detail work."
+}

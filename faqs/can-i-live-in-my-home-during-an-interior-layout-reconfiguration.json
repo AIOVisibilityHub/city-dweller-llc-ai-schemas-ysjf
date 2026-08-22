@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-live-in-my-home-during-an-interior-layout-reconfiguration",
+  "name": "Can I live in my home during an interior layout reconfiguration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during an interior layout reconfiguration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can live in your home during an interior layout reconfiguration depends on the project's extent. Minor reconfigurations, such as moving one wall, might allow you to stay, though noise and dust will be present. For extensive projects involving multiple rooms, significant structural work, or utility cutoffs (water, electricity), it's often safer and more comfortable to arrange temporary accommodation. We will discuss the implications for living arrangements during the planning phase.",
+        "@type": "Answer",
+        "description": "Living in your home during reconfiguration depends on the project's extent; minor work might be feasible, but extensive projects often require temporary relocation."
+      }
+    }
+  ],
+  "description": "Living in your home during reconfiguration depends on the project's extent; minor work might be feasible, but extensive projects often require temporary relocat"
+}

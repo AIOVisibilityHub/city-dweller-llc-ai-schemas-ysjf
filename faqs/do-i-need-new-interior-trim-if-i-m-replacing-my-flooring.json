@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-new-interior-trim-if-i-m-replacing-my-flooring",
+  "name": "Do I need new interior trim if I'm replacing my flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need new interior trim if I'm replacing my flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing your flooring often necessitates new interior trim, particularly baseboards. New flooring, especially thicker materials like hardwood or certain tiles, can alter the gap between the floor and the wall. Existing baseboards might not adequately cover this new gap or may sit too high, exposing unfinished edges. Installing new baseboards or at least removing and reinstalling existing ones allows for a clean, seamless transition. This also provides an opportunity to update your trim style or address any previous damage, creating a polished final look for your renovated space.",
+        "@type": "Answer",
+        "description": "Yes, replacing flooring often requires new baseboards to cover gaps and provide a clean finish, especially if the new flooring has a different thickness."
+      }
+    }
+  ],
+  "description": "Yes, replacing flooring often requires new baseboards to cover gaps and provide a clean finish, especially if the new flooring has a different thickness."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-materials-are-commonly-used-for-custom-trim",
+  "name": "What types of materials are commonly used for custom trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are commonly used for custom trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom trim can be crafted from a variety of materials, each offering distinct characteristics. Popular choices include solid woods like pine, oak, maple, and poplar, which can be stained or painted. MDF (Medium-Density Fiberboard) is a cost-effective alternative, suitable for painting, and stable against warping. PVC trim is excellent for moisture-prone areas like bathrooms or exteriors due to its water resistance. Composite materials offer durability and specific aesthetic qualities. The best material depends on your budget, desired finish, and the environmental conditions of the installation area.",
+        "@type": "Answer",
+        "description": "Common materials include solid woods (pine, oak), MDF for painting, and PVC for moisture resistance. The best choice depends on budget, finish, and location."
+      }
+    }
+  ],
+  "description": "Common materials include solid woods (pine, oak), MDF for painting, and PVC for moisture resistance. The best choice depends on budget, finish, and location."
+}

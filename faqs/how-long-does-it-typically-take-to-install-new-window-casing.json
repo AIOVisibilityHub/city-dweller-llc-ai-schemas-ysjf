@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-typically-take-to-install-new-window-casing",
+  "name": "How long does it typically take to install new window casing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to install new window casing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to install new window casing varies based on several factors, including the number of windows, the complexity of the trim style, and whether the existing casing needs to be removed. For a single standard window, installation might take a few hours. For multiple windows or custom designs, the project could span a day or more. This estimate does not include prep work or finishing like painting.",
+        "@type": "Answer",
+        "description": "Installation time for new window casing depends on the number of windows and trim complexity, typically a few hours per window."
+      }
+    }
+  ],
+  "description": "Installation time for new window casing depends on the number of windows and trim complexity, typically a few hours per window."
+}

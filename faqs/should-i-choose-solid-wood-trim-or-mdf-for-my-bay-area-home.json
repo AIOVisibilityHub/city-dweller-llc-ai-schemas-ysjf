@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-choose-solid-wood-trim-or-mdf-for-my-bay-area-home",
+  "name": "Should I choose solid wood trim or MDF for my Bay Area home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose solid wood trim or MDF for my Bay Area home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice between solid wood and MDF trim depends on your priorities and budget. Solid wood trim, such as oak or pine, offers superior durability, a natural aesthetic, and can be stained or painted. It's ideal for high-end projects or homes where natural wood grain is desired. However, it's more expensive and can be prone to expanding/contracting with humidity changes. MDF (medium-density fiberboard) is a more cost-effective alternative, less prone to warping, and provides a smooth surface perfect for painting. While less durable than solid wood, it's an excellent choice for a uniform painted finish and moisture-prone areas.",
+        "@type": "Answer",
+        "description": "Solid wood trim offers durability and natural beauty but is pricier; MDF is a budget-friendly option, good for painting, and less prone to warping."
+      }
+    }
+  ],
+  "description": "Solid wood trim offers durability and natural beauty but is pricier; MDF is a budget-friendly option, good for painting, and less prone to warping."
+}

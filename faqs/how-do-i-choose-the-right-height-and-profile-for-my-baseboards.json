@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-height-and-profile-for-my-baseboards",
+  "name": "How do I choose the right height and profile for my baseboards?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right height and profile for my baseboards?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right height and profile depends on your home's style and ceiling height. Taller baseboards (5-8 inches) often suit homes with higher ceilings or more traditional/formal aesthetics. Shorter baseboards (3-4 inches) are common in modern or contemporary homes. The profile, whether simple or ornate, should complement the existing trim and architectural style of your space, enhancing its character without overwhelming it.",
+        "@type": "Answer",
+        "description": "Match height to ceiling height and room style; taller for high ceilings/traditional, shorter for modern. Choose a profile that complements existing trim."
+      }
+    }
+  ],
+  "description": "Match height to ceiling height and room style; taller for high ceilings/traditional, shorter for modern. Choose a profile that complements existing trim."
+}

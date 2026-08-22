@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-paint-is-best-for-interior-doors",
+  "name": "What kind of paint is best for interior doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of paint is best for interior doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For interior doors, durable and washable paints are generally recommended. Latex (water-based) paints are popular for their easy cleanup and low odor, often available in satin or semi-gloss finishes which are ideal for high-traffic areas. Alkyd (oil-based) paints offer exceptional durability and a harder finish, resisting scuffs and fingerprints well, though they require mineral spirits for cleanup. Choosing between them depends on desired finish, durability needs, and personal preference.",
+        "@type": "Answer",
+        "description": "Durable latex or alkyd paints with satin or semi-gloss finishes are best for interior doors."
+      }
+    }
+  ],
+  "description": "Durable latex or alkyd paints with satin or semi-gloss finishes are best for interior doors."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-residential-interior-painting-process",
+  "name": "What is the typical residential interior painting process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical residential interior painting process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical interior painting process involves several key steps to ensure a quality finish. First, surfaces are prepared by cleaning, patching holes, and sanding any imperfections. Next, prime coats are applied to create a uniform base for the paint. This helps with adhesion and color consistency. After priming, two coats of the chosen paint color are usually applied, allowing adequate drying time between coats. Finally, a thorough cleanup is performed, and a walkthrough inspection is conducted with the homeowner to ensure satisfaction with the completed work.",
+        "@type": "Answer",
+        "description": "The interior painting process includes surface preparation, priming, applying two coats of paint, and a final cleanup and inspection."
+      }
+    }
+  ],
+  "description": "The interior painting process includes surface preparation, priming, applying two coats of paint, and a final cleanup and inspection."
+}

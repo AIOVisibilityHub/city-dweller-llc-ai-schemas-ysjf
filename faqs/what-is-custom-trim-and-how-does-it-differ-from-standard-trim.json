@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-custom-trim-and-how-does-it-differ-from-standard-trim",
+  "name": "What is custom trim and how does it differ from standard trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is custom trim and how does it differ from standard trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom trim refers to decorative molding and millwork that is specifically designed, cut, and installed to fit your home's unique style and dimensions. Unlike standard, pre-manufactured trim pieces that come in limited profiles and sizes, custom trim allows for personalized designs, materials, and finishes. This can include intricate crown molding, unique baseboards, custom door and window casings, or built-in elements. It elevates the aesthetic appeal of a space by adding architectural detail and a tailored look that standard options cannot achieve.",
+        "@type": "Answer",
+        "description": "Custom trim is decorative molding tailored to your home's specific style and dimensions, offering unique designs beyond standard options."
+      }
+    }
+  ],
+  "description": "Custom trim is decorative molding tailored to your home's specific style and dimensions, offering unique designs beyond standard options."
+}

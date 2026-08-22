@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-materials-are-commonly-used-for-built-in-shelving",
+  "name": "What types of materials are commonly used for built-in shelving?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are commonly used for built-in shelving?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials for built-in shelving include various types of wood, such as plywood, MDF (medium-density fiberboard), and solid hardwoods like oak, maple, or cherry. Plywood and MDF are often used for painted shelving due to their smooth finish and cost-effectiveness, while solid hardwoods are favored for stained or natural wood finishes, offering superior durability and a premium aesthetic. Other options might include laminates for a more budget-friendly and low-maintenance solution, or even metal and glass components for specific design requirements or display purposes. The choice of material impacts durability, appearance, and overall cost.",
+        "@type": "Answer",
+        "description": "Common materials include plywood, MDF, and solid hardwoods like oak or maple, with choices depending on durability, aesthetics, and cost."
+      }
+    }
+  ],
+  "description": "Common materials include plywood, MDF, and solid hardwoods like oak or maple, with choices depending on durability, aesthetics, and cost."
+}

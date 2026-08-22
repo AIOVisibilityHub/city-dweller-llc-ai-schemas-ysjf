@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-a-minor-renovation-and-an-interior-layout-reconfig",
+  "name": "What's the difference between a minor renovation and an interior layout reconfiguration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a minor renovation and an interior layout reconfiguration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A minor renovation typically involves cosmetic updates or small-scale changes that don't alter the fundamental structure or flow of a space, such as painting, new flooring, or cabinet refacing. Interior layout reconfiguration, however, involves more significant structural changes like moving or removing walls, altering room sizes, or changing the purpose of a space, fundamentally redesigning the home's internal arrangement. Reconfiguration often requires architectural plans and permits, unlike most minor renovations.",
+        "@type": "Answer",
+        "description": "Minor renovations are cosmetic, while interior layout reconfiguration involves significant structural changes like moving walls or altering room sizes, often requiring permits."
+      }
+    }
+  ],
+  "description": "Minor renovations are cosmetic, while interior layout reconfiguration involves significant structural changes like moving walls or altering room sizes, often re"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-installing-new-baseboards",
+  "name": "What is the process for installing new baseboards?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing new baseboards?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process involves several steps: first, measuring and cutting the new baseboards to fit each wall section, paying attention to inside and outside corners. Next, the baseboards are securely fastened to the wall studs using nails. After installation, the gaps between the baseboard and the wall or floor are sealed with caulk, and nail holes are filled. Finally, the baseboards are prepared and painted or stained to match the room's aesthetic.",
+        "@type": "Answer",
+        "description": "The process includes measuring, cutting, nailing baseboards, caulking gaps, filling nail holes, and then painting or staining."
+      }
+    }
+  ],
+  "description": "The process includes measuring, cutting, nailing baseboards, caulking gaps, filling nail holes, and then painting or staining."
+}

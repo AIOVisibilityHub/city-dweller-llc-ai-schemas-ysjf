@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-conventional-framing-and-engineered-lumber-framin",
+  "name": "What is the difference between conventional framing and engineered lumber framing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between conventional framing and engineered lumber framing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Conventional framing primarily uses dimensioned lumber like 2x4s or 2x6s cut from solid trees. Engineered lumber, such as I-joists, laminated veneer lumber (LVL), or glulam beams, is manufactured by bonding wood strands, veneers, or lumber with adhesives. Engineered lumber offers greater strength, stability, and uniformity, making it ideal for longer spans, heavier loads, and reducing warping or shrinking. While often more expensive upfront, engineered products can sometimes simplify construction and allow for more open designs.",
+        "@type": "Answer",
+        "description": "Conventional framing uses solid lumber, while engineered lumber is manufactured for greater strength, stability, and uniformity, allowing for longer spans."
+      }
+    }
+  ],
+  "description": "Conventional framing uses solid lumber, while engineered lumber is manufactured for greater strength, stability, and uniformity, allowing for longer spans."
+}

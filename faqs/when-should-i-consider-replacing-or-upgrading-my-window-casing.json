@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-or-upgrading-my-window-casing",
+  "name": "When should I consider replacing or upgrading my window casing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing or upgrading my window casing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider replacing or upgrading your window casing if it shows signs of damage like cracks, rot, or water stains. You might also upgrade if you're undertaking a home renovation and want to update the aesthetic, or if your current casing doesn't match new windows. Replacing casing can also be part of an effort to improve insulation and reduce drafts around older windows.",
+        "@type": "Answer",
+        "description": "Replace or upgrade window casing if it's damaged, during a home renovation, or to improve insulation around windows."
+      }
+    }
+  ],
+  "description": "Replace or upgrade window casing if it's damaged, during a home renovation, or to improve insulation around windows."
+}

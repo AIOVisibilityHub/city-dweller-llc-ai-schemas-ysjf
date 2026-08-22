@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-choose-pre-primed-or-unfinished-window-casing",
+  "name": "Should I choose pre-primed or unfinished window casing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose pre-primed or unfinished window casing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice between pre-primed and unfinished window casing depends on your project goals and budget. Pre-primed casing comes with a factory-applied primer, saving you a step during installation and potentially reducing labor time for painting. Unfinished casing offers more flexibility if you want a custom stain or a very specific paint finish, but it requires more preparation and labor on-site. Pre-primed is often preferred for painted finishes.",
+        "@type": "Answer",
+        "description": "Choose pre-primed casing for convenience and reduced painting labor, or unfinished for custom stains or specific paint finishes requiring more prep."
+      }
+    }
+  ],
+  "description": "Choose pre-primed casing for convenience and reduced painting labor, or unfinished for custom stains or specific paint finishes requiring more prep."
+}

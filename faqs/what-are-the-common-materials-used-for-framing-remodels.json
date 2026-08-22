@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-materials-used-for-framing-remodels",
+  "name": "What are the common materials used for framing remodels?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common materials used for framing remodels?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most common materials for framing remodels are lumber, specifically dimensional lumber like Douglas Fir or Southern Yellow Pine, and engineered wood products (EWPs) such as Laminated Veneer Lumber (LVL) or Oriented Strand Board (OSB). Lumber is widely used for studs, joists, and rafters due to its availability and cost-effectiveness. EWPs offer greater strength and stability, often used for longer spans or areas requiring specific load-bearing capabilities. Steel framing is also an option, particularly for commercial projects or where specific structural needs or fire ratings are required.",
+        "@type": "Answer",
+        "description": "Common framing materials include dimensional lumber for studs and joists, and engineered wood products like LVL or OSB for stronger supports. Steel framing is also used for specific structural needs."
+      }
+    }
+  ],
+  "description": "Common framing materials include dimensional lumber for studs and joists, and engineered wood products like LVL or OSB for stronger supports. Steel framing is a"
+}

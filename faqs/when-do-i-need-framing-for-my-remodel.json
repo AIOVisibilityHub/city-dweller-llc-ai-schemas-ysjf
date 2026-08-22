@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-do-i-need-framing-for-my-remodel",
+  "name": "When do I need framing for my remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need framing for my remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You typically need framing for your remodel if you are making significant structural changes, such as altering the floor plan by adding or removing walls, changing the size or location of windows and doors, or constructing an addition. Even for non-structural changes, new framing might be required to support new fixtures or finishes, ensure level surfaces, or meet updated building codes. A general contractor can assess your project scope to determine the exact framing requirements.",
+        "@type": "Answer",
+        "description": "Framing is needed for significant structural changes like altering floor plans, adding or removing walls, or constructing additions, as well as to support new fixtures or finishes."
+      }
+    }
+  ],
+  "description": "Framing is needed for significant structural changes like altering floor plans, adding or removing walls, or constructing additions, as well as to support new f"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-materials-are-commonly-used-for-interior-and-exterior-trim",
+  "name": "What types of materials are commonly used for interior and exterior trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are commonly used for interior and exterior trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials for interior trim include solid wood (pine, oak, maple), MDF (Medium-Density Fiberboard), and composite materials. Wood offers natural beauty but requires maintenance. MDF is cost-effective and takes paint well, but is susceptible to water damage. Exterior trim options often include treated wood, PVC (Polyvinyl Chloride), fiber cement, and engineered wood. PVC and fiber cement are highly durable and moisture-resistant, ideal for Bay Area weather, while treated wood balances natural look with enhanced durability.",
+        "@type": "Answer",
+        "description": "Interior trim uses wood, MDF, and composites. Exterior trim often uses treated wood, PVC, fiber cement, and engineered wood for durability."
+      }
+    }
+  ],
+  "description": "Interior trim uses wood, MDF, and composites. Exterior trim often uses treated wood, PVC, fiber cement, and engineered wood for durability."
+}

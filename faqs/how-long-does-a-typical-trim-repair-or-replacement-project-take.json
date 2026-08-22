@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-trim-repair-or-replacement-project-take",
+  "name": "How long does a typical trim repair or replacement project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical trim repair or replacement project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a trim repair or replacement project varies significantly based on its scope. Minor repairs, such as filling a few nail holes or re-caulking, might take a few hours. Replacing trim in a single room could take one to two days, depending on the complexity of the trim profiles and the need for painting or finishing. A whole-house trim replacement, involving multiple rooms and exterior sections, could extend over several days to a week or more. Factors like material choice and existing surface conditions also influence the timeline.",
+        "@type": "Answer",
+        "description": "Project duration depends on scope: minor repairs take hours, a room takes days, and a whole-house replacement can take a week or more."
+      }
+    }
+  ],
+  "description": "Project duration depends on scope: minor repairs take hours, a room takes days, and a whole-house replacement can take a week or more."
+}

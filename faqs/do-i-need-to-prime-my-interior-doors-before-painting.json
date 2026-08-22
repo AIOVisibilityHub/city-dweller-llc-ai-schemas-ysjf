@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-prime-my-interior-doors-before-painting",
+  "name": "Do I need to prime my interior doors before painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to prime my interior doors before painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Priming interior doors before painting is generally recommended, especially if you are painting over a dark color with a lighter one, changing paint types (e.g., oil-based to latex), or painting bare wood. Primer helps the new paint adhere better, provides a uniform base, and can seal imperfections or prevent stains from bleeding through. Skipping primer might lead to poor adhesion, uneven color, or a less durable finish in the long run.",
+        "@type": "Answer",
+        "description": "Yes, priming is recommended for better adhesion, uniform color, and durability, especially when changing colors or paint types."
+      }
+    }
+  ],
+  "description": "Yes, priming is recommended for better adhesion, uniform color, and durability, especially when changing colors or paint types."
+}

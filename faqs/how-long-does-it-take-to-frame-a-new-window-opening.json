@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-frame-a-new-window-opening",
+  "name": "How long does it take to frame a new window opening?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to frame a new window opening?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to frame a new window opening varies depending on several factors, including the size of the opening, whether it's a load-bearing wall, and the complexity of the wall construction. For a single, straightforward window in a non-load-bearing wall, the framing process might take a few hours to a full day. For multiple windows, larger openings, or load-bearing walls requiring temporary structural support, the framing work could extend over several days. This estimate does not include the time for window installation or finishing work.",
+        "@type": "Answer",
+        "description": "Framing a new window can take a few hours to several days, depending on size, whether it's a load-bearing wall, and overall complexity. This excludes actual window installation time."
+      }
+    }
+  ],
+  "description": "Framing a new window can take a few hours to several days, depending on size, whether it's a load-bearing wall, and overall complexity. This excludes actual win"
+}

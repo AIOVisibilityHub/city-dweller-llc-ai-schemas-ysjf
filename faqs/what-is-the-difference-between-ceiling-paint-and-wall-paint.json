@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-ceiling-paint-and-wall-paint",
+  "name": "What is the difference between ceiling paint and wall paint?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between ceiling paint and wall paint?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While some paints can be used on both, dedicated ceiling paints are typically formulated with a flatter finish. This flat finish helps to hide surface imperfections and reduce light reflection, which is often desirable on ceilings. Wall paints, especially those with sheens like eggshell or satin, are more durable and washable, making them better suited for high-traffic areas and frequent cleaning. Ceiling paints also tend to be thicker to reduce drips during application.",
+        "@type": "Answer",
+        "description": "Ceiling paint is usually a flat finish to hide imperfections and reduce glare, while wall paint often has a more durable sheen for washability."
+      }
+    }
+  ],
+  "description": "Ceiling paint is usually a flat finish to hide imperfections and reduce glare, while wall paint often has a more durable sheen for washability."
+}

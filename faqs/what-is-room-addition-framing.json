@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-room-addition-framing",
+  "name": "What is room addition framing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is room addition framing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Room addition framing is the structural skeleton of a new room built onto an existing house. It involves constructing walls, floors, and roofs using lumber or steel to create the basic shape and support of the addition. This phase follows foundation work and precedes insulation, plumbing, electrical, and finishing touches. Proper framing ensures the addition's structural integrity, safety, and compliance with local building codes, integrating it seamlessly with the existing structure.",
+        "@type": "Answer",
+        "description": "Room addition framing creates the structural skeleton for a new room, involving walls, floors, and roofs, ensuring structural integrity and code compliance."
+      }
+    }
+  ],
+  "description": "Room addition framing creates the structural skeleton for a new room, involving walls, floors, and roofs, ensuring structural integrity and code compliance."
+}

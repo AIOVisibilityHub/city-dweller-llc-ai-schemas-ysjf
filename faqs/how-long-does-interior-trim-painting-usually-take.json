@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-interior-trim-painting-usually-take",
+  "name": "How long does interior trim painting usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does interior trim painting usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of interior trim painting depends on the scope of the project, including the amount of trim, its current condition, and the chosen paint system. A small room's trim might be completed in a day, while an entire house could take several days to a week. This estimate includes essential steps like preparation, taping, sanding, applying primer if needed, and two coats of paint, allowing for proper drying time between coats. We provide a detailed project timeline after assessing your home.",
+        "@type": "Answer",
+        "description": "Interior trim painting duration varies based on project size and trim condition, typically ranging from one day for a small room to a week for a whole house."
+      }
+    }
+  ],
+  "description": "Interior trim painting duration varies based on project size and trim condition, typically ranging from one day for a small room to a week for a whole house."
+}

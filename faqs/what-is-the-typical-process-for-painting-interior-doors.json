@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-painting-interior-doors",
+  "name": "What is the typical process for painting interior doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for painting interior doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process for painting interior doors involves several steps to ensure a smooth and durable finish. First, the doors are usually removed from their hinges and hardware is taken off. Then, they are thoroughly cleaned and sanded to create a smooth surface. Any imperfections are filled and sanded again. A primer is applied, followed by one or two coats of high-quality paint, allowing adequate drying time between coats. Finally, the hardware is reattached, and the doors are reinstalled.",
+        "@type": "Answer",
+        "description": "The process includes removal, cleaning, sanding, priming, painting multiple coats, and reinstallation."
+      }
+    }
+  ],
+  "description": "The process includes removal, cleaning, sanding, priming, painting multiple coats, and reinstallation."
+}

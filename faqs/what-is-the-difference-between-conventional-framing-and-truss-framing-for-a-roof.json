@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-conventional-framing-and-truss-framing-for-a-roof",
+  "name": "What is the difference between conventional framing and truss framing for a roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between conventional framing and truss framing for a roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Conventional (or stick) framing involves cutting and assembling individual pieces of lumber on-site to create the roof's rafters, ceiling joists, and ridge board. This method offers flexibility for custom designs and attic space but can be more labor-intensive. Truss framing uses pre-engineered, factory-built components (trusses) that are delivered to the site and lifted into place. Trusses are typically more cost-effective and faster to install, providing consistent quality and spanning longer distances without interior supports, though they limit attic usability.",
+        "@type": "Answer",
+        "description": "Conventional framing builds roof components on-site, offering design flexibility. Truss framing uses pre-fabricated components, which are faster and more cost-effective but limit attic space."
+      }
+    }
+  ],
+  "description": "Conventional framing builds roof components on-site, offering design flexibility. Truss framing uses pre-fabricated components, which are faster and more cost-e"
+}

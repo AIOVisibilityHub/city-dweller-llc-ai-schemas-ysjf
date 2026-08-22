@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-window-casing-and-why-is-it-important",
+  "name": "What is window casing and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is window casing and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window casing refers to the trim or molding installed around a window frame. It serves both aesthetic and functional purposes. Aesthetically, it frames the window and contributes to the room's overall design, hiding gaps between the window frame and the wall. Functionally, casing protects the edges of drywall or plaster from damage and helps seal air leaks, improving energy efficiency.",
+        "@type": "Answer",
+        "description": "Window casing is the decorative and protective trim around a window frame, covering gaps and enhancing aesthetics."
+      }
+    }
+  ],
+  "description": "Window casing is the decorative and protective trim around a window frame, covering gaps and enhancing aesthetics."
+}

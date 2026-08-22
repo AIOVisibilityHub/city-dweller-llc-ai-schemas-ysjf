@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-an-interior-layout-reconfiguration-project",
+  "name": "What is the process for an interior layout reconfiguration project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for an interior layout reconfiguration project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process for interior layout reconfiguration begins with an initial consultation to understand your vision and needs. This is followed by design development, where we create floor plans and renderings. Once approved, we handle permit acquisition. Construction then begins, involving demolition, structural modifications, utility rough-ins, and finishing work. Throughout, we maintain clear communication and manage the project to ensure it stays on schedule and within budget, concluding with a final walkthrough.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design, permit acquisition, construction (demolition, modifications, finishes), and a final walkthrough."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design, permit acquisition, construction (demolition, modifications, finishes), and a final walkthrough."
+}

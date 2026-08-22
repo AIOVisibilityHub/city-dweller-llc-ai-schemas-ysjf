@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-a-rough-opening-and-a-finished-opening",
+  "name": "What's the difference between a rough opening and a finished opening?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a rough opening and a finished opening?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The rough opening is the framed space in the wall that the window unit will be installed into. It is intentionally larger than the actual window frame to allow for shims, insulation, and proper leveling and squaring of the window. The finished opening refers to the final visible opening after the window has been installed and trimmed out with interior and exterior casings, sills, and other finishing materials. The rough opening dimensions are crucial for ordering the correct window size, while the finished opening defines the aesthetic appearance.",
+        "@type": "Answer",
+        "description": "The rough opening is the slightly oversized framed space for the window unit, allowing for installation adjustments. The finished opening is the final, trimmed-out visible space after window installation."
+      }
+    }
+  ],
+  "description": "The rough opening is the slightly oversized framed space for the window unit, allowing for installation adjustments. The finished opening is the final, trimmed-"
+}

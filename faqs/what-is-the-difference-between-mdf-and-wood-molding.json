@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-mdf-and-wood-molding",
+  "name": "What is the difference between MDF and wood molding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between MDF and wood molding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "MDF (Medium-Density Fiberboard) and solid wood are common materials for molding, each with distinct characteristics. MDF molding is made from recycled wood fibers and resin, making it less expensive, consistent in texture, and resistant to warping. It comes pre-primed and is ideal for painting. Solid wood molding, such as pine, oak, or maple, offers natural grain, can be stained or painted, and is generally more durable and impact-resistant. However, wood is more prone to expansion/contraction with humidity changes and typically costs more. The choice depends on budget, desired finish, and environmental conditions.",
+        "@type": "Answer",
+        "description": "MDF molding is more affordable, consistent, and paint-ready, while solid wood offers natural grain, durability, and can be stained, though it's more expensive."
+      }
+    }
+  ],
+  "description": "MDF molding is more affordable, consistent, and paint-ready, while solid wood offers natural grain, durability, and can be stained, though it's more expensive."
+}

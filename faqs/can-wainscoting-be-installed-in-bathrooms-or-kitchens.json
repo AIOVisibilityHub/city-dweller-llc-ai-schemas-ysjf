@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-wainscoting-be-installed-in-bathrooms-or-kitchens",
+  "name": "Can wainscoting be installed in bathrooms or kitchens?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can wainscoting be installed in bathrooms or kitchens?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, wainscoting can be installed in bathrooms and kitchens, but material selection is crucial due to the higher moisture levels in these areas. For bathrooms, moisture-resistant materials like PVC or specially treated MDF are recommended over standard wood products, which can warp or swell. In kitchens, durability and ease of cleaning are also important considerations. Proper sealing and ventilation are essential for longevity in moisture-prone environments. We advise on suitable materials for humid spaces.",
+        "@type": "Answer",
+        "description": "Wainscoting can be installed in bathrooms and kitchens, but moisture-resistant materials like PVC or treated MDF are recommended."
+      }
+    }
+  ],
+  "description": "Wainscoting can be installed in bathrooms and kitchens, but moisture-resistant materials like PVC or treated MDF are recommended."
+}

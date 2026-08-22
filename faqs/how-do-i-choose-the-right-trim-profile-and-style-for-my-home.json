@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-trim-profile-and-style-for-my-home",
+  "name": "How do I choose the right trim profile and style for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right trim profile and style for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right trim profile and style involves considering your home's architectural period, ceiling height, existing decor, and personal taste. For example, a more ornate, larger profile might suit a Victorian or traditional home, while cleaner, simpler lines are often preferred for modern or minimalist aesthetics. We recommend looking at various examples, gathering inspiration, and discussing your preferences during our consultation. Our designers can guide you through options that complement your home's unique characteristics and your desired ambiance, ensuring a harmonious and impactful result.",
+        "@type": "Answer",
+        "description": "Consider your home's architecture, ceiling height, and existing decor. Our designers can guide you through options that complement your space and personal style."
+      }
+    }
+  ],
+  "description": "Consider your home's architecture, ceiling height, and existing decor. Our designers can guide you through options that complement your space and personal style"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-materials-are-commonly-used-for-room-addition-framing",
+  "name": "What materials are commonly used for room addition framing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are commonly used for room addition framing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most common material for room addition framing in residential construction is wood, specifically lumber such as Douglas fir or Southern yellow pine. These are chosen for their strength, availability, and ease of use. Engineered wood products, like LVL (Laminated Veneer Lumber) or PSL (Parallel Strand Lumber), are often used for beams, headers, and longer spans where greater strength is needed. Steel framing is an alternative, sometimes used for its durability, fire resistance, and in specific structural requirements, though it is less common in typical home additions.",
+        "@type": "Answer",
+        "description": "Wood lumber, including Douglas fir or Southern yellow pine, is the most common framing material. Engineered wood products are used for specific structural needs, and steel is an alternative."
+      }
+    }
+  ],
+  "description": "Wood lumber, including Douglas fir or Southern yellow pine, is the most common framing material. Engineered wood products are used for specific structural needs"
+}

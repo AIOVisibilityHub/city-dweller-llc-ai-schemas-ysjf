@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-framing-a-new-window-opening",
+  "name": "What is the process for framing a new window opening?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for framing a new window opening?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for framing a new window opening typically begins with careful measurement and marking of the desired opening location. Next, the wall materials are removed, and temporary supports are often installed if it's a load-bearing wall. Then, a new header is installed at the top of the opening, supported by jack studs. Cripple studs are added above the header and below the sill plate to fill gaps and provide nailing surfaces. Finally, a sill plate forms the bottom of the opening. The new frame is then checked for squareness and plumbness before window installation.",
+        "@type": "Answer",
+        "description": "Framing a new window involves marking, removing wall materials, adding temporary supports, installing a header with jack studs, cripple studs, and a sill plate, then checking for squareness."
+      }
+    }
+  ],
+  "description": "Framing a new window involves marking, removing wall materials, adding temporary supports, installing a header with jack studs, cripple studs, and a sill plate,"
+}

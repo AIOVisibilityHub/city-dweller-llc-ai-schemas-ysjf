@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-crown-molding-and-what-are-its-benefits",
+  "name": "What is crown molding and what are its benefits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is crown molding and what are its benefits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Crown molding is a decorative trim piece installed at the junction where walls meet the ceiling. It adds a touch of elegance and architectural interest, visually softening the transition between these two planes. Benefits include enhancing the perceived height of a room, concealing minor imperfections or unevenness in ceiling or wall lines, and providing a finished, custom look. Available in various profiles and sizes, crown molding can significantly elevate the aesthetic appeal and value of a home, moving it from standard to bespoke.",
+        "@type": "Answer",
+        "description": "Crown molding is decorative trim at the wall-ceiling junction, enhancing elegance, concealing imperfections, and adding visual interest and value to a room."
+      }
+    }
+  ],
+  "description": "Crown molding is decorative trim at the wall-ceiling junction, enhancing elegance, concealing imperfections, and adding visual interest and value to a room."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-average-cost-to-install-new-trim-in-the-bay-area",
+  "name": "What is the average cost to install new trim in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to install new trim in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of trim installation in the Bay Area can vary widely depending on factors like the type of trim material (wood, MDF, PVC), the complexity of the profile, the total linear footage, and whether it's new installation or replacement. Labor costs in the Bay Area are generally higher than the national average. Basic MDF baseboard installation might start from a certain price per linear foot, while custom wood crown molding would be significantly more. We recommend scheduling a consultation for a detailed, no-obligation estimate tailored to your specific project needs.",
+        "@type": "Answer",
+        "description": "Average trim installation costs in the Bay Area vary by material, complexity, and linear footage. A custom estimate is recommended."
+      }
+    }
+  ],
+  "description": "Average trim installation costs in the Bay Area vary by material, complexity, and linear footage. A custom estimate is recommended."
+}

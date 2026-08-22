@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-move-all-my-furniture-before-ceiling-painting",
+  "name": "Do I need to move all my furniture before ceiling painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to move all my furniture before ceiling painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While we take precautions to protect your belongings, it is highly recommended that you clear the room of small or fragile items. For larger furniture, our team will assist in carefully moving and covering them with protective plastic sheeting and drop cloths to prevent any paint splatter or damage. Ensuring the room is as clear as possible helps us work efficiently and maintain a clean environment.",
+        "@type": "Answer",
+        "description": "Clearing small items is recommended. Our team will move and cover larger furniture for protection and efficient work."
+      }
+    }
+  ],
+  "description": "Clearing small items is recommended. Our team will move and cover larger furniture for protection and efficient work."
+}

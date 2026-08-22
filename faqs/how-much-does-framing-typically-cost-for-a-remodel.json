@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-framing-typically-cost-for-a-remodel",
+  "name": "How much does framing typically cost for a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does framing typically cost for a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of framing for a remodel can fluctuate greatly depending on the scope and complexity of the work. Factors include the extent of demolition needed, the type and amount of materials used (lumber vs. engineered wood), labor costs, and any necessary structural engineering services. Simple wall modifications will be less expensive than adding a second story or extending the footprint of your home. It's best to get a detailed estimate from a general contractor like City Dweller, LLC, who can provide a breakdown based on your specific project plans.",
+        "@type": "Answer",
+        "description": "Framing costs vary widely based on project scope, demolition needs, materials, labor, and engineering. A detailed estimate from a general contractor is recommended."
+      }
+    }
+  ],
+  "description": "Framing costs vary widely based on project scope, demolition needs, materials, labor, and engineering. A detailed estimate from a general contractor is recommen"
+}

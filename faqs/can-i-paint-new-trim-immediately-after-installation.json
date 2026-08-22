@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-paint-new-trim-immediately-after-installation",
+  "name": "Can I paint new trim immediately after installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I paint new trim immediately after installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it might seem efficient, it's generally best to wait before painting new trim immediately after installation, especially if it's unfinished wood or a material that requires conditioning. Wood trim needs time to acclimate to your home's humidity and temperature to prevent warping or cracking post-painting. For materials like MDF or composite, a primer is often recommended first to ensure proper paint adhesion and a smooth finish. Your contractor will advise on the specific drying and priming times based on the trim material used.",
+        "@type": "Answer",
+        "description": "It's best to wait before painting new trim. Allow wood to acclimate and other materials may need priming for proper adhesion and finish."
+      }
+    }
+  ],
+  "description": "It's best to wait before painting new trim. Allow wood to acclimate and other materials may need priming for proper adhesion and finish."
+}

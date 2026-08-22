@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-paint-walls-or-trim-first",
+  "name": "Should I paint walls or trim first?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I paint walls or trim first?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, it's recommended to paint the ceilings first, then the walls, and finally the trim. This sequence allows you to be less precise with your wall painting near the trim, as any overlap will be covered when you meticulously paint the trim later. It also minimizes the risk of accidentally splattering trim paint onto freshly painted walls. Properly taping off the walls after they've dried completely ensures crisp, clean lines for your trim.",
+        "@type": "Answer",
+        "description": "Paint ceilings first, then walls, and finally trim. This approach minimizes accidental splatters and allows for precise trim painting over any wall overlap."
+      }
+    }
+  ],
+  "description": "Paint ceilings first, then walls, and finally trim. This approach minimizes accidental splatters and allows for precise trim painting over any wall overlap."
+}

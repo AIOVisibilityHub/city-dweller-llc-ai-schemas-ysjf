@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-style-of-molding-for-my-home",
+  "name": "How do I choose the right style of molding for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right style of molding for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right molding style involves considering your home's architectural period, ceiling height, and overall design aesthetic. For traditional homes, intricate crown molding and wider baseboards often complement the existing character. Modern homes might benefit from simpler, cleaner profiles. Higher ceilings can accommodate larger, more ornate moldings, while smaller rooms might feel overwhelmed by very grand trim. Consider the proportion of the molding to the room's scale. Looking at existing elements, like door casings and window trim, can help you maintain a consistent style throughout your home.",
+        "@type": "Answer",
+        "description": "Choose molding style based on your home's architecture, ceiling height, and overall design, ensuring it complements the room's scale and existing trim."
+      }
+    }
+  ],
+  "description": "Choose molding style based on your home's architecture, ceiling height, and overall design, ensuring it complements the room's scale and existing trim."
+}

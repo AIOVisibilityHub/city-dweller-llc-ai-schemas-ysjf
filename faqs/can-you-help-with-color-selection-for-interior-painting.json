@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-you-help-with-color-selection-for-interior-painting",
+  "name": "Can you help with color selection for interior painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you help with color selection for interior painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we can certainly assist with color selection. Choosing the right paint colors can be challenging, but our experienced team can offer guidance based on current trends, your home's existing decor, lighting conditions, and your desired mood for each space. While we don't provide dedicated interior design services, we can help narrow down choices and recommend samples to ensure you make an informed decision that you'll love. Many paint brands also offer online tools or physical samples to aid in this process.",
+        "@type": "Answer",
+        "description": "Yes, we can guide you on color selection, considering trends, decor, and lighting, to help you choose the best options for your space."
+      }
+    }
+  ],
+  "description": "Yes, we can guide you on color selection, considering trends, decor, and lighting, to help you choose the best options for your space."
+}

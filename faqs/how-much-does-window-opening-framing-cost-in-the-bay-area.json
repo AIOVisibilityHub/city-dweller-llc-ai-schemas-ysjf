@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-window-opening-framing-cost-in-the-bay-area",
+  "name": "How much does window opening framing cost in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does window opening framing cost in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of window opening framing in the Bay Area varies widely based on factors such as the size of the opening, the type of wall (e.g., load-bearing vs. non-load-bearing), and the complexity of the job. Prices can range from a few hundred dollars for a simple non-load-bearing window to several thousand for a large, load-bearing opening requiring extensive structural modifications. These costs are separate from the window unit itself and installation. For an accurate estimate, it's best to consult with a local general contractor.",
+        "@type": "Answer",
+        "description": "Costs for window opening framing in the Bay Area depend on opening size, wall type, and job complexity, ranging from hundreds to several thousand dollars, excluding the window unit and installation."
+      }
+    }
+  ],
+  "description": "Costs for window opening framing in the Bay Area depend on opening size, wall type, and job complexity, ranging from hundreds to several thousand dollars, exclu"
+}

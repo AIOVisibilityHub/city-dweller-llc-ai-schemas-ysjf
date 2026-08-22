@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-do-my-interior-doors-need-repainting",
+  "name": "When do my interior doors need repainting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do my interior doors need repainting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Your interior doors likely need repainting if you notice signs of wear and tear, such as chipped paint, scuffs, fading, or discoloration. High-traffic doors, especially in areas with children or pets, may show wear sooner. You might also consider repainting if you're updating your home's interior design, preparing to sell your home, or simply want to refresh its appearance. Regularly inspecting your doors can help determine the best time for a new coat of paint.",
+        "@type": "Answer",
+        "description": "Repaint interior doors when you see chips, scuffs, fading, or if you're updating your home's look."
+      }
+    }
+  ],
+  "description": "Repaint interior doors when you see chips, scuffs, fading, or if you're updating your home's look."
+}

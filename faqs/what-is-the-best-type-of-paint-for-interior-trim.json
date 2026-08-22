@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-best-type-of-paint-for-interior-trim",
+  "name": "What is the best type of paint for interior trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the best type of paint for interior trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For interior trim, durable paints with a satin, semi-gloss, or high-gloss finish are generally recommended. These finishes are more resistant to scuffs and easier to clean than matte or eggshell paints, which is important for high-traffic areas like baseboards and doorframes. Options include acrylic-latex enamel for good durability and easy cleanup, or alkyd (oil-based) paints for a harder, more traditional finish, though they take longer to dry and clean up with mineral spirits. We can help you choose based on your specific trim material and desired aesthetic.",
+        "@type": "Answer",
+        "description": "Durable paints with a satin, semi-gloss, or high-gloss finish are best for interior trim, offering resistance to scuffs and easy cleaning."
+      }
+    }
+  ],
+  "description": "Durable paints with a satin, semi-gloss, or high-gloss finish are best for interior trim, offering resistance to scuffs and easy cleaning."
+}

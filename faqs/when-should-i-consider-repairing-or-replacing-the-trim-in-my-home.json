@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-repairing-or-replacing-the-trim-in-my-home",
+  "name": "When should I consider repairing or replacing the trim in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider repairing or replacing the trim in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider trim repair or replacement if you notice signs of damage such as cracks, chips, rot, warping, or insect infestation. Water damage, often visible as swelling or discoloration, also necessitates attention. Beyond damage, upgrading trim can refresh your home's appearance, improve energy efficiency by sealing drafts, or update its architectural style. For homes in the Bay Area, where coastal weather can impact materials, regular inspection of exterior and interior trim is advisable.",
+        "@type": "Answer",
+        "description": "Consider repair or replacement if trim shows damage like cracks, rot, or warping. Upgrading also refreshes appearance or improves energy efficiency."
+      }
+    }
+  ],
+  "description": "Consider repair or replacement if trim shows damage like cracks, rot, or warping. Upgrading also refreshes appearance or improves energy efficiency."
+}

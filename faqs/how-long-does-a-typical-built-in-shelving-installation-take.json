@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-built-in-shelving-installation-take",
+  "name": "How long does a typical built-in shelving installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical built-in shelving installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a built-in shelving installation varies significantly based on the project's complexity, size, and the materials chosen. A small, straightforward unit might take a few days from initial measurements to completion, including painting or finishing. More elaborate projects, such as large custom library walls or intricate designs with specialized finishes, could extend to several weeks. This timeframe typically includes design consultation, material acquisition, fabrication (if off-site), on-site installation, and final finishing touches. We provide a detailed timeline after the initial consultation and design finalization.",
+        "@type": "Answer",
+        "description": "Installation time varies by project complexity, size, and materials, ranging from a few days for simple units to several weeks for elaborate designs."
+      }
+    }
+  ],
+  "description": "Installation time varies by project complexity, size, and materials, ranging from a few days for simple units to several weeks for elaborate designs."
+}

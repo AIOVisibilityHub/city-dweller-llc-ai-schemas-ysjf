@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-window-header-and-why-is-it-important",
+  "name": "What is a window header and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a window header and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A window header is a structural beam installed horizontally above a window opening, designed to bear the weight from the wall and roof structure above it, transferring that load to the jack studs on either side of the opening. Its primary purpose is to prevent the wall above the window from sagging or collapsing. Without a properly sized and installed header, the structural integrity of your home could be compromised, leading to cracks in walls, difficulty opening and closing windows, and potentially more severe structural damage.",
+        "@type": "Answer",
+        "description": "A window header is a structural beam above an opening that supports the load from the wall and roof, transferring it to jack studs. It prevents sagging and maintains structural integrity."
+      }
+    }
+  ],
+  "description": "A window header is a structural beam above an opening that supports the load from the wall and roof, transferring it to jack studs. It prevents sagging and main"
+}

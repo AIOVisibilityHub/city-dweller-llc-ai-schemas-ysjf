@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-trim-are-available-for-home-interiors",
+  "name": "What types of trim are available for home interiors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of trim are available for home interiors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Trim, also known as molding, significantly enhances the aesthetic appeal of your home. Common types include baseboards, which cover the joint between walls and floors; crown molding, installed at the junction of walls and ceilings; casing, used around doors and windows; and chair rails, which protect walls from furniture. Materials range from solid wood like pine, oak, and maple, offering natural beauty and durability, to MDF (medium-density fiberboard) or PVC, which are more affordable and moisture-resistant options. Each type serves a distinct decorative and functional purpose.",
+        "@type": "Answer",
+        "description": "Common trim types include baseboards, crown molding, casing, and chair rails, available in materials like wood, MDF, or PVC."
+      }
+    }
+  ],
+  "description": "Common trim types include baseboards, crown molding, casing, and chair rails, available in materials like wood, MDF, or PVC."
+}

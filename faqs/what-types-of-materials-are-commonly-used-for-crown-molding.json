@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-materials-are-commonly-used-for-crown-molding",
+  "name": "What types of materials are commonly used for crown molding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are commonly used for crown molding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Crown molding is typically available in several materials, each with distinct characteristics. Solid wood, such as pine or oak, offers a classic, durable finish that can be stained or painted. MDF (Medium-Density Fiberboard) is a cost-effective and popular option, easy to paint, and resistant to warping. Polyurethane is lightweight, moisture-resistant, and ideal for bathrooms or humid environments, often used for intricate designs. Plaster molding is another option for highly decorative and custom designs, offering a premium finish.",
+        "@type": "Answer",
+        "description": "Common materials include solid wood, MDF, polyurethane, and plaster, each offering different aesthetics and properties."
+      }
+    }
+  ],
+  "description": "Common materials include solid wood, MDF, polyurethane, and plaster, each offering different aesthetics and properties."
+}

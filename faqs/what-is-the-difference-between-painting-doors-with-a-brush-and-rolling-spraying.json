@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-painting-doors-with-a-brush-and-rolling-spraying",
+  "name": "What is the difference between painting doors with a brush and rolling/spraying?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between painting doors with a brush and rolling/spraying?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Each method of painting doors offers different results and advantages. Brushing allows for precise control and is good for intricate details, but can leave brush marks. Rolling provides a smoother, more even finish over flat surfaces and is quicker than brushing for larger areas. Spraying offers the smoothest, most professional-looking finish with no brush or roller marks, and is the fastest method, but requires more preparation to protect surrounding areas and can be more complex for DIYers.",
+        "@type": "Answer",
+        "description": "Brushing offers control, rolling provides a smoother finish, and spraying gives the most professional, even look."
+      }
+    }
+  ],
+  "description": "Brushing offers control, rolling provides a smoother finish, and spraying gives the most professional, even look."
+}

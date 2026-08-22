@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-wainscoting-styles-are-available",
+  "name": "What types of wainscoting styles are available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of wainscoting styles are available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several popular wainscoting styles can transform a room's aesthetic. Beadboard features vertical grooves and beads, often used in informal settings like kitchens or bathrooms. Raised panel wainscoting offers a classic, formal look with intricate molding. Recessed panel provides a simpler, more contemporary panel style. Picture frame or box panel wainscoting uses trim to create decorative boxes on the wall. Each style can be customized with different heights and finishes.",
+        "@type": "Answer",
+        "description": "Common wainscoting styles include beadboard, raised panel, recessed panel, and picture frame, each offering a distinct aesthetic."
+      }
+    }
+  ],
+  "description": "Common wainscoting styles include beadboard, raised panel, recessed panel, and picture frame, each offering a distinct aesthetic."
+}

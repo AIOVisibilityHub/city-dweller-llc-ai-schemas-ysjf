@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-maintenance-does-custom-trim-require",
+  "name": "What kind of maintenance does custom trim require?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance does custom trim require?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The maintenance required for custom trim largely depends on the material and finish. Painted wood trim typically requires occasional cleaning with a damp cloth and touch-ups of paint if scuffed or chipped over time. Stained wood trim may benefit from periodic re-application of protective sealants or waxes to maintain its luster. PVC and composite trims are generally low-maintenance, needing only occasional cleaning. Regardless of the material, avoiding harsh chemical cleaners and promptly addressing any damage will help preserve the trim's appearance and longevity.",
+        "@type": "Answer",
+        "description": "Maintenance varies by material: painted wood needs occasional cleaning and touch-ups, stained wood may need resealing, and PVC/composite trims require minimal cleaning."
+      }
+    }
+  ],
+  "description": "Maintenance varies by material: painted wood needs occasional cleaning and touch-ups, stained wood may need resealing, and PVC/composite trims require minimal c"
+}

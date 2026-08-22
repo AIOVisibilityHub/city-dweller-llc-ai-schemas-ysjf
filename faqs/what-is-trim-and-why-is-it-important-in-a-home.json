@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-trim-and-why-is-it-important-in-a-home",
+  "name": "What is trim and why is it important in a home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is trim and why is it important in a home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Trim refers to the decorative molding and finishing elements found around windows, doors, baseboards, and ceilings in a home. Beyond aesthetics, trim serves several functional purposes. It conceals gaps between walls and other surfaces, protects walls from damage, and helps to create a cohesive and polished look throughout the interior. Properly installed and maintained trim can enhance the architectural style of a property and contribute to its overall value and appeal.",
+        "@type": "Answer",
+        "description": "Trim is decorative molding around windows, doors, and baseboards, concealing gaps, protecting walls, and enhancing home aesthetics."
+      }
+    }
+  ],
+  "description": "Trim is decorative molding around windows, doors, and baseboards, concealing gaps, protecting walls, and enhancing home aesthetics."
+}

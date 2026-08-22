@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-preparation-is-needed-before-interior-painting",
+  "name": "What kind of preparation is needed before interior painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of preparation is needed before interior painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Thorough preparation is crucial for a lasting and high-quality interior paint job. This typically includes moving furniture, covering floors and fixtures, and masking off trim and windows. Walls are then inspected for imperfections like holes, cracks, or peeling paint, which are patched, sanded smooth, and cleaned to remove dust and grime. Any glossy surfaces are scuff-sanded to promote adhesion. Depending on the wall's condition or if there's a significant color change, a primer may be applied to ensure a uniform and durable finish.",
+        "@type": "Answer",
+        "description": "Preparation involves moving furniture, covering surfaces, patching holes/cracks, sanding, cleaning walls, and potentially priming for a smooth, durable finish."
+      }
+    }
+  ],
+  "description": "Preparation involves moving furniture, covering surfaces, patching holes/cracks, sanding, cleaning walls, and potentially priming for a smooth, durable finish."
+}

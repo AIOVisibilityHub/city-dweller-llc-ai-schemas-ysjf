@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-interior-door-painting-take",
+  "name": "How long does interior door painting take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does interior door painting take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to paint interior doors can vary, but generally, a professional painting project for a standard set of interior doors might take 1-3 days. This duration accounts for thorough preparation, multiple coats of paint and primer, and adequate drying time between each application. Factors such as the number of doors, their condition, the chosen paint type, and environmental conditions (like humidity) can extend or shorten the project timeline.",
+        "@type": "Answer",
+        "description": "Interior door painting typically takes 1-3 days, depending on the number of doors, their condition, and drying times."
+      }
+    }
+  ],
+  "description": "Interior door painting typically takes 1-3 days, depending on the number of doors, their condition, and drying times."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-permits-for-interior-finishing-work-in-daly-city",
+  "name": "Do I need permits for interior finishing work in Daly City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for interior finishing work in Daly City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need permits for interior finishing work in Daly City depends on the scope of the project. Minor cosmetic updates like painting or replacing flooring typically do not require permits. However, projects involving structural changes, alterations to plumbing or electrical systems, moving walls, or significant modifications to the layout will likely require permits from the City of Daly City's building department. It's always best to consult with your contractor or the local planning department early in the process to confirm specific requirements.",
+        "@type": "Answer",
+        "description": "Permits for interior finishing in Daly City are needed for structural, plumbing, or electrical changes, but not typically for minor cosmetic updates."
+      }
+    }
+  ],
+  "description": "Permits for interior finishing in Daly City are needed for structural, plumbing, or electrical changes, but not typically for minor cosmetic updates."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-you-match-existing-interior-trim-during-a-repair-or-addition",
+  "name": "Can you match existing interior trim during a repair or addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you match existing interior trim during a repair or addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we strive to match existing interior trim whenever possible, whether for repairs, additions, or integrating new features. Our process involves carefully examining the profile, dimensions, and material of your current trim. We can source commercially available matches, or if the trim is custom or very old, we can have custom milling done to replicate the exact profile. While perfect matches can sometimes be challenging due to age or discontinued styles, we use our expertise to achieve the closest possible integration, ensuring a cohesive look throughout your home.",
+        "@type": "Answer",
+        "description": "We aim to match existing trim for repairs or additions by examining profiles and materials. We can source matches or custom mill to replicate unique styles."
+      }
+    }
+  ],
+  "description": "We aim to match existing trim for repairs or additions by examining profiles and materials. We can source matches or custom mill to replicate unique styles."
+}

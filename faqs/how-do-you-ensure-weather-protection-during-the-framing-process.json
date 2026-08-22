@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-you-ensure-weather-protection-during-the-framing-process",
+  "name": "How do you ensure weather protection during the framing process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you ensure weather protection during the framing process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During the framing process, we implement several measures to protect the new structure from weather elements. This includes promptly installing exterior sheathing, which acts as a temporary barrier against wind and rain. We also use weather-resistant barriers (WRBs) like house wrap over the sheathing as soon as possible. Additionally, temporary roof coverings or tarps are utilized if the permanent roofing cannot be installed immediately, especially in areas prone to sudden weather changes like the Bay Area.",
+        "@type": "Answer",
+        "description": "We ensure weather protection during framing by promptly installing sheathing, weather-resistant barriers, and temporary roof coverings."
+      }
+    }
+  ],
+  "description": "We ensure weather protection during framing by promptly installing sheathing, weather-resistant barriers, and temporary roof coverings."
+}

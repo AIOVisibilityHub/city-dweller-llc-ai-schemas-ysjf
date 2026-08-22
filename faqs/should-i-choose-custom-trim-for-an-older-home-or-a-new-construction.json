@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-choose-custom-trim-for-an-older-home-or-a-new-construction",
+  "name": "Should I choose custom trim for an older home or a new construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose custom trim for an older home or a new construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom trim is beneficial for both older homes and new constructions. For older homes, it can restore historical accuracy, replicate original detailing, or introduce period-appropriate enhancements that respect the home's heritage. In new constructions, custom trim elevates a basic structure, adding character, warmth, and a unique personality that standard builder-grade trim often lacks. It allows you to define the style from the outset, ensuring a cohesive and sophisticated design throughout the property.",
+        "@type": "Answer",
+        "description": "Custom trim benefits older homes by restoring historical accuracy and new constructions by adding unique character and sophistication beyond standard options."
+      }
+    }
+  ],
+  "description": "Custom trim benefits older homes by restoring historical accuracy and new constructions by adding unique character and sophistication beyond standard options."
+}

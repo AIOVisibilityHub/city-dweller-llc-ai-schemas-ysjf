@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-framing-in-the-context-of-a-small-addition",
+  "name": "What is framing in the context of a small addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is framing in the context of a small addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Framing is the construction of the skeletal structure that forms the walls, floor, and roof of your small addition. It typically uses wood or steel studs, beams, and joists to create a stable and structurally sound space. This framework defines the size, shape, and overall layout of the new room, providing the foundation for subsequent steps like installing insulation, drywall, and finishes. Proper framing ensures the addition meets structural integrity and local building codes.",
+        "@type": "Answer",
+        "description": "Framing builds the skeletal structure (walls, floor, roof) of your small addition using wood or steel, defining its shape and providing structural support."
+      }
+    }
+  ],
+  "description": "Framing builds the skeletal structure (walls, floor, roof) of your small addition using wood or steel, defining its shape and providing structural support."
+}

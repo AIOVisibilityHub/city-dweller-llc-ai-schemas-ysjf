@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-paint-my-interior-doors-the-same-color-as-the-trim",
+  "name": "Should I paint my interior doors the same color as the trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I paint my interior doors the same color as the trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to paint interior doors the same color as the trim depends on your aesthetic preference and desired visual effect. Painting doors and trim the same color, often a neutral like white, creates a cohesive and seamless look, making rooms appear larger. Painting doors a contrasting color can create a focal point or add architectural interest. Consider your wall color, flooring, and overall home style when making this design choice.",
+        "@type": "Answer",
+        "description": "Painting doors and trim the same color offers a cohesive look; contrasting colors add architectural interest."
+      }
+    }
+  ],
+  "description": "Painting doors and trim the same color offers a cohesive look; contrasting colors add architectural interest."
+}

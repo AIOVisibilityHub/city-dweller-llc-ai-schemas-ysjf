@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-types-of-materials-used-for-window-casing",
+  "name": "What are the common types of materials used for window casing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common types of materials used for window casing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window casing can be made from various materials, each with distinct characteristics. Common options include solid wood (such as pine, oak, or poplar) which can be painted or stained, MDF (medium-density fiberboard) for an affordable paint-grade option, and PVC or composite materials for moisture resistance and durability, especially in high-humidity areas like bathrooms. The choice often depends on budget, desired finish, and environmental factors.",
+        "@type": "Answer",
+        "description": "Common materials for window casing include solid wood, MDF, and PVC or composite materials, chosen based on budget and durability needs."
+      }
+    }
+  ],
+  "description": "Common materials for window casing include solid wood, MDF, and PVC or composite materials, chosen based on budget and durability needs."
+}

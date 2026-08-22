@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-molding-are-available-for-home-interiors",
+  "name": "What types of molding are available for home interiors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of molding are available for home interiors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are various types of molding to enhance interior aesthetics and function. Crown molding is installed at the junction of walls and ceilings, adding elegance. Baseboards cover the joint between walls and floors, protecting walls and hiding imperfections. Chair rails are decorative and protective strips installed horizontally on walls, typically in dining rooms. Picture rails offer a historical method for hanging art without wall damage. Other options include door and window casing, panel molding, and decorative trim, each serving to define spaces, add architectural interest, and provide a finished look.",
+        "@type": "Answer",
+        "description": "Common types of molding include crown molding, baseboards, chair rails, and door/window casings, each serving decorative or protective purposes."
+      }
+    }
+  ],
+  "description": "Common types of molding include crown molding, baseboards, chair rails, and door/window casings, each serving decorative or protective purposes."
+}

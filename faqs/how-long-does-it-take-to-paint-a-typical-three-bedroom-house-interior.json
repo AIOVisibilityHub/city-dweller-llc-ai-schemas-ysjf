@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-paint-a-typical-three-bedroom-house-interior",
+  "name": "How long does it take to paint a typical three-bedroom house interior?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to paint a typical three-bedroom house interior?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to paint the interior of a typical three-bedroom house can vary significantly based on factors such as the size of the rooms, the amount of preparation needed, and the number of coats applied. On average, a professional painting crew might complete the job in 3 to 7 days. This estimate includes time for masking, surface preparation, applying primer (if necessary), two coats of paint, and cleanup. Homes with extensive repairs, high ceilings, or complex color schemes may take longer.",
+        "@type": "Answer",
+        "description": "Painting a typical three-bedroom house interior usually takes 3 to 7 days, depending on room size, preparation, and number of coats."
+      }
+    }
+  ],
+  "description": "Painting a typical three-bedroom house interior usually takes 3 to 7 days, depending on room size, preparation, and number of coats."
+}

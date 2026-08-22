@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-my-door-casing",
+  "name": "When should I consider replacing my door casing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my door casing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your door casing if it shows signs of significant damage such as rot, cracks, deep gouges, or insect infestation. Outdated or severely worn casing that detracts from your home's aesthetic is another common reason. If you are undertaking a major renovation or upgrading your doors, replacing the casing can provide a cohesive and updated look. Additionally, damaged casing can compromise insulation and protection, making replacement a functional improvement.",
+        "@type": "Answer",
+        "description": "Replace door casing if it's damaged by rot, cracks, or insects, or if it's outdated and affects your home's appearance. It's also a good idea during renovations."
+      }
+    }
+  ],
+  "description": "Replace door casing if it's damaged by rot, cracks, or insects, or if it's outdated and affects your home's appearance. It's also a good idea during renovations"
+}

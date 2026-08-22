@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-style-of-interior-trim-for-my-home",
+  "name": "How do I choose the right style of interior trim for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right style of interior trim for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right trim involves considering your home's architectural style, ceiling height, and personal aesthetic. For traditional homes, wider, more ornate profiles like colonial or craftsman styles often work well. Modern homes might benefit from simpler, cleaner lines and less elaborate profiles. Consider the scale of the trim relative to your room size; larger rooms can handle more substantial trim without feeling overwhelmed. We recommend looking at examples, gathering inspiration, and discussing options with our team to ensure the trim complements your home's existing features and your desired look.",
+        "@type": "Answer",
+        "description": "Choose trim based on your home's architectural style, ceiling height, and personal preference. Consider the trim's scale relative to room size and consult with our team."
+      }
+    }
+  ],
+  "description": "Choose trim based on your home's architectural style, ceiling height, and personal preference. Consider the trim's scale relative to room size and consult with"
+}

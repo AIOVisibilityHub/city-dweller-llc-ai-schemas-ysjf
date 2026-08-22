@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-color-for-my-home-s-exterior",
+  "name": "How do I choose the right color for my home's exterior?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right color for my home's exterior?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right exterior color involves considering several elements to ensure a cohesive and appealing look. Look at your home's fixed elements, such as roofing materials, brickwork, or stone, as these have permanent colors to work with. Consider your home's architectural style and the surrounding landscape and neighborhood. Test paint samples on different areas of your exterior to see how they look in various lighting conditions throughout the day. A professional painter can also offer color consultation based on their experience.",
+        "@type": "Answer",
+        "description": "Choose exterior paint by considering fixed elements, architectural style, neighborhood, and by testing samples in different light. Professional consultation can also help."
+      }
+    }
+  ],
+  "description": "Choose exterior paint by considering fixed elements, architectural style, neighborhood, and by testing samples in different light. Professional consultation can"
+}

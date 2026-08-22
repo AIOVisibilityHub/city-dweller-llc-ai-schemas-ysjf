@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-baseboard-materials-are-available",
+  "name": "What types of baseboard materials are available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of baseboard materials are available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common baseboard materials include MDF (medium-density fiberboard), pine, and hardwood. MDF is an affordable, smooth option ideal for painting, but it can swell if exposed to moisture. Pine is a popular softwood that is easy to cut and nail, suitable for both painting and staining. Hardwoods like oak or maple are durable and offer a premium finish, often chosen for staining to showcase their natural grain, though they are generally more expensive.",
+        "@type": "Answer",
+        "description": "Materials include MDF, pine, and hardwoods like oak or maple, each offering different aesthetics, durability, and cost."
+      }
+    }
+  ],
+  "description": "Materials include MDF, pine, and hardwoods like oak or maple, each offering different aesthetics, durability, and cost."
+}

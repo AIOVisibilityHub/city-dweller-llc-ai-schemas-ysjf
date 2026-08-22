@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-permit-for-window-opening-framing-in-daly-city",
+  "name": "Do I need a permit for window opening framing in Daly City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for window opening framing in Daly City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Daly City, as with most municipalities, significant structural modifications like creating new window openings or substantially enlarging existing ones typically require a building permit. This is because such work impacts the structural integrity of your home and must comply with local building codes. Minor replacements of existing windows within the same opening usually do not require a permit. Always check with the Daly City Building Division or consult with your general contractor to confirm permit requirements for your specific project before starting any work.",
+        "@type": "Answer",
+        "description": "Yes, creating new or significantly enlarging window openings in Daly City usually requires a building permit due to structural implications and code compliance. Consult local building authorities or a contractor."
+      }
+    }
+  ],
+  "description": "Yes, creating new or significantly enlarging window openings in Daly City usually requires a building permit due to structural implications and code compliance."
+}

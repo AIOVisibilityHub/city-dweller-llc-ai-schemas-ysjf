@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-baseboard-installation-cost-in-the-bay-area",
+  "name": "How much does baseboard installation cost in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does baseboard installation cost in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of baseboard installation in the Bay Area varies based on material, labor rates, and the complexity of the job. Factors include the type of material (MDF, pine, hardwood), linear footage, removal of old baseboards, prep work, and finishing (painting/staining). For an accurate estimate, it's best to schedule a consultation, as pricing can range significantly depending on these specifics.",
+        "@type": "Answer",
+        "description": "Installation cost in the Bay Area varies by material, linear footage, labor, and job complexity. A consultation provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Installation cost in the Bay Area varies by material, linear footage, labor, and job complexity. A consultation provides an accurate estimate."
+}

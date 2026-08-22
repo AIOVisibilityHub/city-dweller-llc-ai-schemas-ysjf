@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-do-i-need-new-window-opening-framing",
+  "name": "When do I need new window opening framing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need new window opening framing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New window opening framing is typically needed when you are installing new windows where none existed before, enlarging an existing window opening, or relocating a window. It's also essential if existing framing is damaged due to water, pests, or structural shifts, or if you're upgrading to significantly heavier windows that require stronger support. A professional assessment can determine the specific framing requirements for your project, ensuring safety and compliance with building codes.",
+        "@type": "Answer",
+        "description": "New framing is needed for new window installations, enlarging openings, relocating windows, or if existing framing is damaged or insufficient for heavier windows."
+      }
+    }
+  ],
+  "description": "New framing is needed for new window installations, enlarging openings, relocating windows, or if existing framing is damaged or insufficient for heavier window"
+}

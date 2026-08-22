@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-mdf-and-solid-wood-trim",
+  "name": "What is the difference between MDF and solid wood trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between MDF and solid wood trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "MDF (Medium-Density Fiberboard) trim is an engineered wood product made from wood fibers, resin, and wax. It's generally more affordable, consistent in density, and less prone to warping or cracking than solid wood. However, MDF can be susceptible to water damage if not properly sealed and can be more challenging to repair if dented. Solid wood trim, typically pine, oak, or maple, offers superior durability, can be stained to show natural grain, and is more resistant to moisture. While solid wood is often more expensive and can expand or contract with humidity, it provides a classic, high-end finish and can be sanded and refinished multiple times.",
+        "@type": "Answer",
+        "description": "MDF is affordable, consistent, and less prone to warping but vulnerable to water. Solid wood is durable, stainable, and repairable but more expensive and sensitive to humidity."
+      }
+    }
+  ],
+  "description": "MDF is affordable, consistent, and less prone to warping but vulnerable to water. Solid wood is durable, stainable, and repairable but more expensive and sensit"
+}

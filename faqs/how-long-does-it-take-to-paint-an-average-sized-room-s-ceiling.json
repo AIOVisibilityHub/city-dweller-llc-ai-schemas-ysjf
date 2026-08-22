@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-paint-an-average-sized-room-s-ceiling",
+  "name": "How long does it take to paint an average-sized room's ceiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to paint an average-sized room's ceiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to paint an average-sized room's ceiling typically ranges from half a day to a full day, depending on several factors. These include the ceiling's condition, the amount of preparation needed (e.g., patching, sanding), the number of coats required, and whether furniture needs to be moved. Larger rooms or ceilings with significant repairs will naturally take longer.",
+        "@type": "Answer",
+        "description": "Painting an average-sized room's ceiling usually takes half a day to a full day, depending on preparation and room size."
+      }
+    }
+  ],
+  "description": "Painting an average-sized room's ceiling usually takes half a day to a full day, depending on preparation and room size."
+}

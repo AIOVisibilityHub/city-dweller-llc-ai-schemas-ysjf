@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-custom-molding-work-and-how-is-it-different-from-standard-molding",
+  "name": "What is custom molding work and how is it different from standard molding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is custom molding work and how is it different from standard molding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom molding work involves creating unique trim pieces, such as baseboards, crown molding, or door casings, specifically designed to fit a project's aesthetic or architectural requirements. Unlike standard molding, which is mass-produced in common profiles and materials, custom molding allows for precise replication of historical designs, creation of new, distinctive styles, or matching existing intricate woodwork. This process often involves specialized woodworking techniques and materials to achieve a tailored look that enhances the character of a space.",
+        "@type": "Answer",
+        "description": "Custom molding is trim specifically designed for unique project aesthetics, differing from mass-produced standard molding by offering tailored designs and specialized craftsmanship."
+      }
+    }
+  ],
+  "description": "Custom molding is trim specifically designed for unique project aesthetics, differing from mass-produced standard molding by offering tailored designs and speci"
+}

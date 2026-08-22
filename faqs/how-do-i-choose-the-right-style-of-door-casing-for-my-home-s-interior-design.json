@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-style-of-door-casing-for-my-home-s-interior-design",
+  "name": "How do I choose the right style of door casing for my home's interior design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right style of door casing for my home's interior design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right door casing style involves considering your home's architectural period and existing trim. For traditional homes, wider, more ornate profiles like Colonial or Craftsman styles are often suitable. Modern homes might benefit from simpler, cleaner lines and less decorative casing. Consistency is key; aim to match or complement the style of your baseboards and crown molding. Consider the scale of your rooms and the door openings – larger casings can make a statement in spacious areas, while narrower profiles might suit smaller rooms.",
+        "@type": "Answer",
+        "description": "Choose door casing style based on your home's architecture, existing trim, and room scale. Traditional homes suit ornate styles, while modern homes favor simpler designs."
+      }
+    }
+  ],
+  "description": "Choose door casing style based on your home's architecture, existing trim, and room scale. Traditional homes suit ornate styles, while modern homes favor simple"
+}

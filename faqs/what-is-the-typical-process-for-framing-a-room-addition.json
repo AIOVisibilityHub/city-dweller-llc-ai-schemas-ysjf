@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-framing-a-room-addition",
+  "name": "What is the typical process for framing a room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for framing a room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The framing process begins after the foundation is cured and ready. First, the floor system is built, including joists and subflooring. Next, wall sections are constructed, often on the ground, and then lifted into place and secured to the floor system. Headers are installed over windows and doors. Finally, the roof system, including rafters or trusses, is constructed and sheathed. Throughout the process, careful measurements, plumb, and level checks are continuously performed to ensure structural accuracy and stability.",
+        "@type": "Answer",
+        "description": "The framing process involves building the floor, then the wall sections, followed by headers over openings, and finally, the roof system, with continuous checks for accuracy."
+      }
+    }
+  ],
+  "description": "The framing process involves building the floor, then the wall sections, followed by headers over openings, and finally, the roof system, with continuous checks"
+}

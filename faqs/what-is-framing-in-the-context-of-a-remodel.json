@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-framing-in-the-context-of-a-remodel",
+  "name": "What is framing in the context of a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is framing in the context of a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Framing is the construction of the skeletal structure of a building, or in a remodel, the modification of this structure. It involves creating the walls, floors, and roof lines that define the shape and size of your renovated space. This can include removing existing walls, building new ones, or altering the roof structure. Proper framing ensures structural integrity, supports finishes like drywall and flooring, and creates the foundation for your design. It's a critical step that dictates the layout and safety of your remodeled area.",
+        "@type": "Answer",
+        "description": "Framing builds or modifies the skeletal structure of a building, creating walls, floors, and roof lines that define your renovated space."
+      }
+    }
+  ],
+  "description": "Framing builds or modifies the skeletal structure of a building, creating walls, floors, and roof lines that define your renovated space."
+}

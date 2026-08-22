@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-wainscoting-style-for-my-home",
+  "name": "How do I choose the right wainscoting style for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right wainscoting style for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right wainscoting style involves considering your home's existing architectural style, the room's function, and your personal aesthetic preferences. Traditional homes often suit raised panel or classic beadboard. More modern or transitional spaces might benefit from recessed panel or a simpler picture frame design. Consider the height and scale of the room; taller wainscoting can make a room feel grander, while shorter styles add subtle detail. We can help you select a style that complements your interior.",
+        "@type": "Answer",
+        "description": "Select wainscoting by matching it to your home's architectural style, room function, and personal taste. Consider height and scale."
+      }
+    }
+  ],
+  "description": "Select wainscoting by matching it to your home's architectural style, room function, and personal taste. Consider height and scale."
+}

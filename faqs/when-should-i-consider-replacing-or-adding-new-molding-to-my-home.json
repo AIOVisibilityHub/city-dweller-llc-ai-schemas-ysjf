@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-or-adding-new-molding-to-my-home",
+  "name": "When should I consider replacing or adding new molding to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing or adding new molding to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing or adding new molding for several reasons. If your existing molding is damaged, cracked, or outdated, new molding can significantly refresh your home's appearance. It's also a great way to add architectural detail and increase perceived value, especially in older homes lacking character. When undertaking a renovation, painting project, or flooring replacement, updating molding ensures a cohesive and finished look. Even a simple change can transform a plain room into a more elegant and inviting space.",
+        "@type": "Answer",
+        "description": "Consider replacing or adding molding when it's damaged, outdated, or if you want to add architectural detail, refresh a room, or complete a renovation."
+      }
+    }
+  ],
+  "description": "Consider replacing or adding molding when it's damaged, outdated, or if you want to add architectural detail, refresh a room, or complete a renovation."
+}

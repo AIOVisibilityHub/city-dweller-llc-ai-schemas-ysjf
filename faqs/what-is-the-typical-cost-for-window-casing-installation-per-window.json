@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-for-window-casing-installation-per-window",
+  "name": "What is the typical cost for window casing installation per window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for window casing installation per window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for window casing installation can vary significantly based on material choice, labor rates, and the complexity of the design. Expect costs to include materials (wood, MDF, or composite) and labor for removal of old casing (if any), installation, and finishing touches. More elaborate profiles or premium materials will increase the price. Contacting a local contractor for a detailed quote is recommended.",
+        "@type": "Answer",
+        "description": "Window casing installation costs vary based on materials, labor, and design complexity; a quote from a local contractor is recommended."
+      }
+    }
+  ],
+  "description": "Window casing installation costs vary based on materials, labor, and design complexity; a quote from a local contractor is recommended."
+}

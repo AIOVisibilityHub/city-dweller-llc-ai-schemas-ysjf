@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-purpose-of-baseboards",
+  "name": "What is the purpose of baseboards?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the purpose of baseboards?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Baseboards serve both functional and aesthetic purposes. Functionally, they cover the joint between the wall and the floor, concealing imperfections and protecting the wall from damage by furniture, vacuums, and foot traffic. Aesthetically, they provide a finished look to a room, creating a visual transition and adding architectural detail that can enhance the overall design.",
+        "@type": "Answer",
+        "description": "Baseboards cover the wall-to-floor joint, hide imperfections, protect walls, and add a finished look to a room."
+      }
+    }
+  ],
+  "description": "Baseboards cover the wall-to-floor joint, hide imperfections, protect walls, and add a finished look to a room."
+}

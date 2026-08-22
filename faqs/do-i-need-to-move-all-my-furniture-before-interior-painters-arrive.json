@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-move-all-my-furniture-before-interior-painters-arrive",
+  "name": "Do I need to move all my furniture before interior painters arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to move all my furniture before interior painters arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While you don't necessarily need to move *all* your furniture, we recommend moving smaller, more delicate items and clearing tabletops and shelves. Our team will carefully move larger furniture pieces to the center of the room and cover them with protective sheeting. However, the more you can clear out before we arrive, the more efficiently our team can begin surface preparation and painting. This also reduces the risk of accidental damage to your personal belongings.",
+        "@type": "Answer",
+        "description": "You should clear small, delicate items. Our team will move and cover large furniture, but pre-clearing helps efficiency and protects your belongings."
+      }
+    }
+  ],
+  "description": "You should clear small, delicate items. Our team will move and cover large furniture, but pre-clearing helps efficiency and protects your belongings."
+}

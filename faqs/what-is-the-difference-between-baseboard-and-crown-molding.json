@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-baseboard-and-crown-molding",
+  "name": "What is the difference between baseboard and crown molding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between baseboard and crown molding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Baseboard and crown molding serve distinct decorative and functional purposes in a home. Baseboard is installed at the bottom of walls, covering the seam where the wall meets the floor. It protects the lower part of the wall from impacts and scuffs while adding a finished look. Crown molding, conversely, is placed at the top of walls, where the wall meets the ceiling. It adds architectural elegance, masks imperfections in the wall-ceiling joint, and draws the eye upwards, enhancing the room's perceived height and grandeur.",
+        "@type": "Answer",
+        "description": "Baseboard is installed at the bottom of walls to protect and finish the floor-wall joint, while crown molding is placed at the top to enhance the ceiling-wall junction."
+      }
+    }
+  ],
+  "description": "Baseboard is installed at the bottom of walls to protect and finish the floor-wall joint, while crown molding is placed at the top to enhance the ceiling-wall j"
+}

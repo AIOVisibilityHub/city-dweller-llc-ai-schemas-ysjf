@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-paint-crown-molding-before-or-after-installation",
+  "name": "Should I paint crown molding before or after installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I paint crown molding before or after installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Painting crown molding after installation generally yields the best results. While pre-painting can save some time, post-installation painting allows for seamless integration with your walls and ceiling. It ensures that any nail holes, caulk lines, or minor imperfections from the installation process are properly covered, resulting in a smooth, unified finish. Our contractors prefer to apply the final coats of paint once the molding is securely in place and prepped.",
+        "@type": "Answer",
+        "description": "Painting after installation is recommended to ensure a seamless finish, covering nail holes and caulk lines."
+      }
+    }
+  ],
+  "description": "Painting after installation is recommended to ensure a seamless finish, covering nail holes and caulk lines."
+}

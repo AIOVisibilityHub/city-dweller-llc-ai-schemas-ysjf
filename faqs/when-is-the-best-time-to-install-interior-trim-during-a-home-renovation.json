@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-is-the-best-time-to-install-interior-trim-during-a-home-renovation",
+  "name": "When is the best time to install interior trim during a home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time to install interior trim during a home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interior trim is typically installed after major construction, drywall installation, and flooring preparation are complete, but before the final coat of paint on walls and ceilings. This sequence ensures that the trim can be properly fitted and secured to a stable surface, and any nail holes or imperfections can be filled and sanded smoothly before painting. If new flooring is being installed, trim is often put in after the subfloor is level, but sometimes after the final floor depending on the trim type (e.g., baseboards covering flooring expansion gaps).",
+        "@type": "Answer",
+        "description": "Install interior trim after drywall and flooring prep, but before the final coat of paint on walls. This ensures proper fit and a smooth finish."
+      }
+    }
+  ],
+  "description": "Install interior trim after drywall and flooring prep, but before the final coat of paint on walls. This ensures proper fit and a smooth finish."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-use-wood-or-steel-framing-for-a-small-addition",
+  "name": "Can I use wood or steel framing for a small addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I use wood or steel framing for a small addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Both wood and steel are viable options for framing a small addition, each with distinct advantages. Wood framing is traditional, cost-effective, and easy to work with for most residential projects. Steel framing offers superior strength, fire resistance, and is often preferred for larger spans or in areas with seismic concerns, but it can be more expensive and requires specialized installers. The choice depends on your specific structural needs, budget, design preferences, and local building codes.",
+        "@type": "Answer",
+        "description": "You can use wood or steel framing for a small addition; wood is common and cost-effective, while steel offers greater strength and fire resistance."
+      }
+    }
+  ],
+  "description": "You can use wood or steel framing for a small addition; wood is common and cost-effective, while steel offers greater strength and fire resistance."
+}
