@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-involved-in-the-process-of-replacing-an-old-bathroom-sink",
+  "name": "What is involved in the process of replacing an old bathroom sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the process of replacing an old bathroom sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing an old bathroom sink involves several steps. First, the water supply is shut off, and the old plumbing connections (supply lines and drain trap) are disconnected. The old sink and faucet are then carefully removed. Next, the new sink is positioned, and if necessary, modifications are made to the countertop opening. The new faucet is typically installed onto the sink before it's set in place. Finally, the new sink is mounted, sealed, and reconnected to the plumbing system, followed by leak testing.",
+        "@type": "Answer",
+        "description": "The process includes shutting off water, disconnecting old plumbing, removing the old sink, installing the new faucet and sink, and reconnecting plumbing."
+      }
+    }
+  ],
+  "description": "The process includes shutting off water, disconnecting old plumbing, removing the old sink, installing the new faucet and sink, and reconnecting plumbing."
+}

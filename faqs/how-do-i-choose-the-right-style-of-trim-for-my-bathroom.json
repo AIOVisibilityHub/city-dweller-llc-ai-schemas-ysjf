@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-style-of-trim-for-my-bathroom",
+  "name": "How do I choose the right style of trim for my bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right style of trim for my bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right trim style involves considering your bathroom's overall design aesthetic. For traditional bathrooms, ornate or layered trim profiles like colonial or craftsman styles can be suitable. Modern bathrooms often benefit from simpler, cleaner lines, such as a flat stock or square edge trim. Consider the height of your ceilings and the scale of the room; larger rooms can handle wider trim. Matching or complementing existing trim throughout your home can create a cohesive look. Samples can help you visualize the final appearance.",
+        "@type": "Answer",
+        "description": "Choose trim style based on your bathroom's aesthetic (traditional vs. modern), ceiling height, room scale, and existing home trim."
+      }
+    }
+  ],
+  "description": "Choose trim style based on your bathroom's aesthetic (traditional vs. modern), ceiling height, room scale, and existing home trim."
+}

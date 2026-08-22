@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-size-vanity-for-my-bathroom",
+  "name": "How do I choose the right size vanity for my bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right size vanity for my bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right vanity size involves careful measurement and consideration of your bathroom layout. Measure the width, depth, and height of the existing vanity space. Ensure there's adequate clearance around the vanity for door swings, shower entrances, and toilet access. Consider how the vanity's size will impact traffic flow and overall bathroom functionality. Standard depths are usually 18 or 21 inches, but custom sizes are available. A well-proportioned vanity enhances both aesthetics and usability.",
+        "@type": "Answer",
+        "description": "Measure existing space, consider clearances for doors and traffic, and choose a size that fits the bathroom layout and improves functionality."
+      }
+    }
+  ],
+  "description": "Measure existing space, consider clearances for doors and traffic, and choose a size that fits the bathroom layout and improves functionality."
+}

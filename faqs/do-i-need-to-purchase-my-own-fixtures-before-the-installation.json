@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-purchase-my-own-fixtures-before-the-installation",
+  "name": "Do I need to purchase my own fixtures before the installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to purchase my own fixtures before the installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You have the option to either purchase your own fixtures or we can assist you in selecting and sourcing them. If you provide your own fixtures, please ensure they are on-site and inspected for damage before our team arrives. If you prefer our assistance, we can recommend reputable brands and suppliers that align with your budget and aesthetic preferences. Our goal is to ensure the chosen fixtures are compatible with your plumbing system and meet local building codes.",
+        "@type": "Answer",
+        "description": "You can purchase your own fixtures or we can help you select and source them, ensuring compatibility and code compliance."
+      }
+    }
+  ],
+  "description": "You can purchase your own fixtures or we can help you select and source them, ensuring compatibility and code compliance."
+}

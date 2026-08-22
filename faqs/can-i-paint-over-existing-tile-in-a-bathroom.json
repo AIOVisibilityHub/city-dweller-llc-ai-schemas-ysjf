@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-paint-over-existing-tile-in-a-bathroom",
+  "name": "Can I paint over existing tile in a bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I paint over existing tile in a bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it is technically possible to paint over existing bathroom tiles, it is generally not recommended as a long-term solution, especially in high-moisture areas like showers or around sinks. Paint applied to tile can chip, peel, and show wear much faster than paint on walls. If considering this option, thorough cleaning, degreasing, sanding, and the use of a specialized epoxy or urethane-based primer and paint designed for tile are crucial. For a durable and lasting finish, professional tile replacement is usually preferred by City Dweller, LLC over painting existing tiles.",
+        "@type": "Answer",
+        "description": "Painting over bathroom tile is generally not recommended for a lasting solution, especially in high-moisture areas, due to chipping and peeling."
+      }
+    }
+  ],
+  "description": "Painting over bathroom tile is generally not recommended for a lasting solution, especially in high-moisture areas, due to chipping and peeling."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-materials-are-best-for-bathroom-countertops",
+  "name": "What types of materials are best for bathroom countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are best for bathroom countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common bathroom countertop materials include quartz, granite, marble, and solid surface. Quartz is durable, non-porous, and low maintenance, ideal for busy bathrooms. Granite offers natural beauty and durability but requires periodic sealing. Marble provides a luxurious look but is softer and more prone to staining and etching. Solid surface options are seamless, repairable, and come in various colors, making them a practical choice for many households.",
+        "@type": "Answer",
+        "description": "Quartz, granite, marble, and solid surface are popular bathroom countertop materials, each offering unique benefits in terms of durability, maintenance, and aesthetics."
+      }
+    }
+  ],
+  "description": "Quartz, granite, marble, and solid surface are popular bathroom countertop materials, each offering unique benefits in terms of durability, maintenance, and aes"
+}

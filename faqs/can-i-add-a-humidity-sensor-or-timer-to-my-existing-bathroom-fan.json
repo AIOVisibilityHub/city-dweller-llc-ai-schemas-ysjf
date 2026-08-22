@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-add-a-humidity-sensor-or-timer-to-my-existing-bathroom-fan",
+  "name": "Can I add a humidity sensor or timer to my existing bathroom fan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a humidity sensor or timer to my existing bathroom fan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is often possible to add a humidity sensor or timer to an existing bathroom exhaust fan, provided the fan itself is compatible with such controls. These upgrades can significantly improve energy efficiency and convenience by automatically activating the fan when humidity levels rise or running it for a set duration. This typically involves replacing the existing wall switch with a new control unit. Our team can assess your current setup and recommend suitable options.",
+        "@type": "Answer",
+        "description": "Yes, you can often add humidity sensors or timers to existing bathroom fans, usually by replacing the wall switch."
+      }
+    }
+  ],
+  "description": "Yes, you can often add humidity sensors or timers to existing bathroom fans, usually by replacing the wall switch."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-upgrade-my-bathroom-lighting-to-improve-energy-efficiency",
+  "name": "Can I upgrade my bathroom lighting to improve energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I upgrade my bathroom lighting to improve energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, upgrading your bathroom lighting is an effective way to improve energy efficiency. Replacing old incandescent or fluorescent bulbs with modern LED fixtures significantly reduces electricity consumption. Installing dimmers allows you to reduce light output and save energy when full brightness isn't needed. Additionally, motion sensors can ensure lights are only on when the bathroom is occupied.",
+        "@type": "Answer",
+        "description": "Upgrading to LED fixtures, installing dimmers, and adding motion sensors can significantly improve your bathroom's energy efficiency."
+      }
+    }
+  ],
+  "description": "Upgrading to LED fixtures, installing dimmers, and adding motion sensors can significantly improve your bathroom's energy efficiency."
+}

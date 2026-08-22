@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-colors-are-popular-for-bathrooms-right-now",
+  "name": "What colors are popular for bathrooms right now?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What colors are popular for bathrooms right now?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Current popular bathroom colors often lean towards serene and clean aesthetics. Shades of white, light gray, and soft blues and greens are consistently favored for their ability to create a spa-like, calming atmosphere. Earthy tones and warm neutrals are also gaining popularity, bringing a natural and inviting feel. Bold accents with deeper blues, charcoal, or even black can be used on a single wall or cabinetry for a modern touch. Ultimately, the best color complements your home's overall style and your personal preference. City Dweller, LLC can offer color consultation.",
+        "@type": "Answer",
+        "description": "Popular bathroom colors include serene whites, light grays, soft blues, greens, and warm neutrals, with bolder accents for modern touches."
+      }
+    }
+  ],
+  "description": "Popular bathroom colors include serene whites, light grays, soft blues, greens, and warm neutrals, with bolder accents for modern touches."
+}

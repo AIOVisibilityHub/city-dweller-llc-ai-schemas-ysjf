@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-upgrading-my-bathroom-ventilation-system",
+  "name": "What is the process for upgrading my bathroom ventilation system?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for upgrading my bathroom ventilation system?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for upgrading your bathroom ventilation system typically begins with an initial consultation and assessment to determine your needs and existing setup. We then recommend suitable fan types and sizes. Following your approval, our team handles the removal of old equipment, installation of the new fan, ductwork, and electrical connections. Finally, we test the system to ensure proper operation and clear any debris, leaving your bathroom functional and clean.",
+        "@type": "Answer",
+        "description": "Upgrading ventilation involves consultation, assessment, fan selection, removal of old equipment, new installation, and testing."
+      }
+    }
+  ],
+  "description": "Upgrading ventilation involves consultation, assessment, fan selection, removal of old equipment, new installation, and testing."
+}

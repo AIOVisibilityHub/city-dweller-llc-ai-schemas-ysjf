@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-baseboard-casing-and-crown-molding-in-a-bathroom",
+  "name": "What is the difference between baseboard, casing, and crown molding in a bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between baseboard, casing, and crown molding in a bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "These terms refer to different types of molding used in a bathroom. Baseboards are installed at the bottom of the wall, where it meets the floor, protecting the wall from scuffs and impacts. Casing is trim installed around door and window frames, providing a finished look and concealing gaps between the frame and the wall. Crown molding is decorative trim installed where the wall meets the ceiling, adding an elegant architectural detail. Each type serves both a protective and aesthetic purpose, contributing to the room's overall design.",
+        "@type": "Answer",
+        "description": "Baseboards trim the wall-floor junction, casing frames doors and windows, and crown molding decorates the wall-ceiling junction. Each has a distinct purpose and placement."
+      }
+    }
+  ],
+  "description": "Baseboards trim the wall-floor junction, casing frames doors and windows, and crown molding decorates the wall-ceiling junction. Each has a distinct purpose and"
+}

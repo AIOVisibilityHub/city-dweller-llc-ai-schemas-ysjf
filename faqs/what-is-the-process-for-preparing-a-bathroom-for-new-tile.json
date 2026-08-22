@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-preparing-a-bathroom-for-new-tile",
+  "name": "What is the process for preparing a bathroom for new tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for preparing a bathroom for new tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper preparation is crucial for a durable tile installation. The process begins with removing old flooring and ensuring the subfloor is structurally sound and level. Any damage or unevenness must be repaired. Next, a waterproof membrane or cement backer board is typically installed on the floor and shower walls to protect against moisture. This step is particularly important in wet areas like showers. Finally, the surface is thoroughly cleaned to ensure proper adhesion of the tile adhesive. Skipping these preparation steps can lead to costly issues later.",
+        "@type": "Answer",
+        "description": "Preparation involves removing old flooring, ensuring a sound subfloor, installing a waterproof membrane or backer board, and thoroughly cleaning the surface for adhesion."
+      }
+    }
+  ],
+  "description": "Preparation involves removing old flooring, ensuring a sound subfloor, installing a waterproof membrane or backer board, and thoroughly cleaning the surface for"
+}

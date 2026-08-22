@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-use-grout-or-epoxy-for-shower-tiles",
+  "name": "Should I use grout or epoxy for shower tiles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I use grout or epoxy for shower tiles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For shower tiles, the choice between traditional grout and epoxy grout depends on durability, maintenance, and budget. Traditional cement-based grout is common and more affordable, but it's porous and requires sealing to resist water and stains. Epoxy grout, while more expensive and harder to work with, is highly resistant to stains, chemicals, mold, and mildew, making it an excellent choice for wet environments like showers as it's non-porous and doesn't require sealing. For a long-lasting, low-maintenance shower, epoxy grout is often recommended.",
+        "@type": "Answer",
+        "description": "Traditional grout is porous and needs sealing. Epoxy grout is highly water, stain, and mold resistant, making it ideal for showers despite higher cost and difficult application."
+      }
+    }
+  ],
+  "description": "Traditional grout is porous and needs sealing. Epoxy grout is highly water, stain, and mold resistant, making it ideal for showers despite higher cost and diffi"
+}

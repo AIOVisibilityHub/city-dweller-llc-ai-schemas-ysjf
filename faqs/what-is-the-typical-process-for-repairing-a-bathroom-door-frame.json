@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-repairing-a-bathroom-door-frame",
+  "name": "What is the typical process for repairing a bathroom door frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for repairing a bathroom door frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process for a bathroom door frame typically begins with an assessment of the damage to determine the best approach. Minor damage might involve sanding and patching with wood filler. For rot, the affected wood is removed, treated, and then filled with epoxy or replaced with new wood sections. Severely warped or compromised sections may require partial replacement. Finally, the repaired area is sanded smooth, primed, and painted to match the existing frame, ensuring a seamless finish and restored functionality.",
+        "@type": "Answer",
+        "description": "The process involves assessing damage, removing compromised material, filling or replacing sections, sanding, priming, and painting."
+      }
+    }
+  ],
+  "description": "The process involves assessing damage, removing compromised material, filling or replacing sections, sanding, priming, and painting."
+}

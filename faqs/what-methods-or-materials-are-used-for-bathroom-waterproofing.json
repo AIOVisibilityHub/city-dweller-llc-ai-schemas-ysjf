@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-methods-or-materials-are-used-for-bathroom-waterproofing",
+  "name": "What methods or materials are used for bathroom waterproofing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What methods or materials are used for bathroom waterproofing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common bathroom waterproofing methods include liquid-applied membranes, sheet membranes, and cementitious coatings. Liquid membranes are painted on, forming a seamless barrier. Sheet membranes are pre-formed rolls applied to surfaces. Cementitious coatings are typically used for concrete substrates. The choice of material often depends on the specific area being waterproofed, substrate type, and project requirements, ensuring a durable and watertight seal.",
+        "@type": "Answer",
+        "description": "Methods include liquid-applied membranes, sheet membranes, and cementitious coatings, chosen based on the area, substrate, and project needs."
+      }
+    }
+  ],
+  "description": "Methods include liquid-applied membranes, sheet membranes, and cementitious coatings, chosen based on the area, substrate, and project needs."
+}

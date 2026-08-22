@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-install-a-larger-vanity-than-my-current-one",
+  "name": "Can I install a larger vanity than my current one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a larger vanity than my current one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a larger vanity than your current one is often possible, but it requires careful planning and potential modifications. You'll need to verify that the new vanity fits the available wall space without obstructing doors, windows, or other fixtures. Enlarging a vanity often necessitates moving existing plumbing lines, which can add complexity and cost to the installation. Additionally, you might need to address flooring or wall areas that were previously covered by the smaller vanity. Consulting a professional ensures structural and plumbing considerations are properly addressed.",
+        "@type": "Answer",
+        "description": "Yes, but ensure it fits your space without obstruction. A larger vanity often requires plumbing modifications and may uncover areas needing wall or floor repair."
+      }
+    }
+  ],
+  "description": "Yes, but ensure it fits your space without obstruction. A larger vanity often requires plumbing modifications and may uncover areas needing wall or floor repair"
+}

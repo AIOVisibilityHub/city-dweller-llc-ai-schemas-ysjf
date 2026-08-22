@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-repairing-my-bathroom-door-frame-instead-of-replacing-it",
+  "name": "When should I consider repairing my bathroom door frame instead of replacing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider repairing my bathroom door frame instead of replacing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider repairing your bathroom door frame if the damage is localized and minor. This often includes small cracks, minor wood rot affecting a limited area, or superficial cosmetic issues that don't compromise the frame's structural integrity. Repair is a cost-effective solution for these problems. However, if there's extensive water damage, significant structural compromise, widespread rot, or multiple areas needing attention, a full replacement is usually more practical and durable in the long run.",
+        "@type": "Answer",
+        "description": "Repair is suitable for localized, minor damage like small cracks or superficial rot. Replace if damage is extensive, structural, or widespread."
+      }
+    }
+  ],
+  "description": "Repair is suitable for localized, minor damage like small cracks or superficial rot. Replace if damage is extensive, structural, or widespread."
+}

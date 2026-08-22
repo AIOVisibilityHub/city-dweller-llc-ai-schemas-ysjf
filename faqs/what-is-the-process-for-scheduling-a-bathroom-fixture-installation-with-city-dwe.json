@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-scheduling-a-bathroom-fixture-installation-with-city-dwe",
+  "name": "What is the process for scheduling a bathroom fixture installation with City Dweller?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for scheduling a bathroom fixture installation with City Dweller?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To schedule an installation, you can contact us via phone or our website to arrange an initial consultation. During this consultation, our team will discuss your project needs, assess the existing plumbing, and take measurements. We'll then provide a detailed estimate outlining the scope of work, materials, and cost. Once you approve the estimate, we'll coordinate a convenient installation date and ensure all necessary preparations are made for a smooth project execution.",
+        "@type": "Answer",
+        "description": "Schedule by contacting us for a consultation, where we assess needs and provide an estimate. Upon approval, we'll book your installation date."
+      }
+    }
+  ],
+  "description": "Schedule by contacting us for a consultation, where we assess needs and provide an estimate. Upon approval, we'll book your installation date."
+}

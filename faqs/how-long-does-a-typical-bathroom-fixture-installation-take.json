@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-bathroom-fixture-installation-take",
+  "name": "How long does a typical bathroom fixture installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bathroom fixture installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a bathroom fixture installation varies depending on the type and number of fixtures. A single faucet or toilet replacement might take a few hours. More complex projects, such as installing a new bathtub or a custom shower system, could require a full day or even several days, especially if plumbing modifications are necessary. We provide a detailed time estimate after assessing your specific project requirements during the initial consultation.",
+        "@type": "Answer",
+        "description": "Installation time varies: a few hours for a single fixture, or a full day to several days for complex projects like new bathtubs or custom showers."
+      }
+    }
+  ],
+  "description": "Installation time varies: a few hours for a single fixture, or a full day to several days for complex projects like new bathtubs or custom showers."
+}

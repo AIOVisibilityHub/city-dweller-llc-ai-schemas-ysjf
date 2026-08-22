@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-prevent-future-bathroom-drywall-damage",
+  "name": "How can I prevent future bathroom drywall damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future bathroom drywall damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing future damage involves addressing moisture control. Ensure your bathroom has adequate ventilation, ideally with an exhaust fan vented to the outside, and use it consistently during and after showers. Promptly repair any plumbing leaks from sinks, toilets, or showers. Consider using mildew-resistant paint and keeping the bathroom door open when not in use to improve air circulation. Regularly inspect for signs of moisture or leaks.",
+        "@type": "Answer",
+        "description": "Prevent damage by ensuring good ventilation, promptly fixing leaks, using mildew-resistant paint, and allowing proper air circulation."
+      }
+    }
+  ],
+  "description": "Prevent damage by ensuring good ventilation, promptly fixing leaks, using mildew-resistant paint, and allowing proper air circulation."
+}

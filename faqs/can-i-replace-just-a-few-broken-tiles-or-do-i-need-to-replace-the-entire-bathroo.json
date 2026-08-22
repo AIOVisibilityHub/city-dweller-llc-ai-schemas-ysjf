@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-replace-just-a-few-broken-tiles-or-do-i-need-to-replace-the-entire-bathroo",
+  "name": "Can I replace just a few broken tiles, or do I need to replace the entire bathroom floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace just a few broken tiles, or do I need to replace the entire bathroom floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can replace just a few broken tiles or need a full floor replacement depends on several factors. If you have spare tiles that perfectly match the existing ones and the damage is isolated to a small area with an intact subfloor, spot replacement is often possible. However, if the tiles are discontinued, the damage is widespread, the subfloor has significant water damage, or you desire a refreshed look, a full replacement is usually more practical and provides a more cohesive, long-lasting result. We can assess your specific situation to recommend the best approach.",
+        "@type": "Answer",
+        "description": "You can replace a few broken tiles if you have matching spares and localized damage. A full replacement is necessary for widespread damage, subfloor issues, or if you want a new look."
+      }
+    }
+  ],
+  "description": "You can replace a few broken tiles if you have matching spares and localized damage. A full replacement is necessary for widespread damage, subfloor issues, or"
+}

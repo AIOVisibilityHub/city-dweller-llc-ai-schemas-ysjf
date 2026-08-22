@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-is-it-necessary-to-replace-rather-than-repair-a-bathroom-fixture",
+  "name": "When is it necessary to replace rather than repair a bathroom fixture?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it necessary to replace rather than repair a bathroom fixture?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It's often necessary to replace a bathroom fixture when the cost of repair approaches or exceeds the cost of a new unit, or when repairs are only temporary solutions. Frequent leaks, significant corrosion, outdated water efficiency, or irreparable damage to the fixture's internal components or aesthetics are common reasons for replacement. For instance, an old toilet that constantly runs or a shower valve that can't be reliably fixed may be better replaced to avoid ongoing issues and conserve water.",
+        "@type": "Answer",
+        "description": "Replace fixtures when repair costs are high, repairs are temporary, or when there's significant damage, corrosion, or outdated water efficiency."
+      }
+    }
+  ],
+  "description": "Replace fixtures when repair costs are high, repairs are temporary, or when there's significant damage, corrosion, or outdated water efficiency."
+}

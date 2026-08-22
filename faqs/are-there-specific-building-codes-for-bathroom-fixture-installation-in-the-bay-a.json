@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-there-specific-building-codes-for-bathroom-fixture-installation-in-the-bay-a",
+  "name": "Are there specific building codes for bathroom fixture installation in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific building codes for bathroom fixture installation in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, bathroom fixture installation in the Bay Area, including Pacifica, Daly City, and South San Francisco, must adhere to local and state building codes, primarily the California Plumbing Code. These codes dictate requirements for drain sizes, venting, water supply lines, fixture clearances, and water-saving standards for toilets and showerheads. City Dweller is knowledgeable about these regulations and ensures all installations comply, which is essential for safety, proper function, and passing inspections.",
+        "@type": "Answer",
+        "description": "Yes, Bay Area installations must follow California Plumbing Code regarding drains, vents, water lines, clearances, and water-saving standards."
+      }
+    }
+  ],
+  "description": "Yes, Bay Area installations must follow California Plumbing Code regarding drains, vents, water lines, clearances, and water-saving standards."
+}

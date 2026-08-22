@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-molding-are-best-suited-for-bathrooms",
+  "name": "What types of molding are best suited for bathrooms?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of molding are best suited for bathrooms?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For bathrooms, it's crucial to select molding materials that can withstand high humidity and moisture without warping, rotting, or developing mold. PVC or composite moldings are excellent choices as they are fully waterproof and low maintenance. Primed wood molding can also be used if properly sealed and painted with moisture-resistant paint, but it requires more careful installation and ongoing maintenance. Avoid unprimed wood or MDF in wet areas like showers or near bathtubs. We can help you choose the best option based on your bathroom's specific ventilation and design.",
+        "@type": "Answer",
+        "description": "PVC and composite moldings are ideal for bathrooms due to their moisture resistance. Primed wood can work if properly sealed, but avoid unprimed wood or MDF."
+      }
+    }
+  ],
+  "description": "PVC and composite moldings are ideal for bathrooms due to their moisture resistance. Primed wood can work if properly sealed, but avoid unprimed wood or MDF."
+}

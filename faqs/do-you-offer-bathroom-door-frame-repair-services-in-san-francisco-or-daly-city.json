@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-you-offer-bathroom-door-frame-repair-services-in-san-francisco-or-daly-city",
+  "name": "Do you offer bathroom door frame repair services in San Francisco or Daly City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer bathroom door frame repair services in San Francisco or Daly City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, City Dweller, LLC provides comprehensive bathroom door frame repair services across our service areas, including San Francisco, Daly City, Pacifica, San Bruno, and South San Francisco. Our experienced team can assess the damage, provide an accurate quote, and perform professional repairs to restore the integrity and appearance of your bathroom door frame. We handle issues ranging from minor cosmetic fixes to extensive rot removal and structural restoration.",
+        "@type": "Answer",
+        "description": "Yes, City Dweller, LLC offers bathroom door frame repair services in San Francisco, Daly City, and other listed service areas."
+      }
+    }
+  ],
+  "description": "Yes, City Dweller, LLC offers bathroom door frame repair services in San Francisco, Daly City, and other listed service areas."
+}

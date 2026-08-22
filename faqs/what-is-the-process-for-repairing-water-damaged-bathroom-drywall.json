@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-repairing-water-damaged-bathroom-drywall",
+  "name": "What is the process for repairing water-damaged bathroom drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing water-damaged bathroom drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with identifying and fixing the source of the water leak or moisture issue. Next, any damaged or moldy drywall is carefully cut out and removed. New moisture-resistant drywall is then cut to size and installed. This is followed by taping the seams, applying multiple layers of joint compound (mudding), sanding smooth after each coat, and finally priming the repaired area before painting. Proper ventilation is ensured throughout the process.",
+        "@type": "Answer",
+        "description": "The process involves fixing the leak, removing damaged drywall, installing new drywall, taping, mudding, sanding, and priming."
+      }
+    }
+  ],
+  "description": "The process involves fixing the leak, removing damaged drywall, installing new drywall, taping, mudding, sanding, and priming."
+}

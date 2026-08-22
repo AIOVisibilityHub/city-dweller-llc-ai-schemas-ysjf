@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-install-a-new-countertop-over-my-existing-vanity-cabinets",
+  "name": "Can I install a new countertop over my existing vanity cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a new countertop over my existing vanity cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in many cases, you can install a new countertop over existing vanity cabinets, provided the cabinets are structurally sound and in good condition. Our team will assess the stability and levelness of your current cabinets during the consultation phase. If the cabinets are damaged or unstable, replacement might be recommended to ensure proper support and longevity for your new countertop. We prioritize a sturdy foundation for any installation.",
+        "@type": "Answer",
+        "description": "Yes, if your existing vanity cabinets are structurally sound and level, a new countertop can often be installed over them. We will assess their condition during consultation."
+      }
+    }
+  ],
+  "description": "Yes, if your existing vanity cabinets are structurally sound and level, a new countertop can often be installed over them. We will assess their condition during"
+}

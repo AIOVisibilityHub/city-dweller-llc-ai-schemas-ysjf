@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-materials-are-used-for-bathroom-door-frame-repair",
+  "name": "What types of materials are used for bathroom door frame repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are used for bathroom door frame repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials used for bathroom door frame repair include wood fillers (like epoxy or polyester-based compounds) for patching small holes and cracks, and sometimes for rebuilding small sections of rotted wood. For more significant damage, new lumber matching the existing frame's species and dimensions is used for replacement sections. Moisture-resistant primers and paints are essential for finishing to protect against future water damage. For severe rot, composite or PVC lumber might be used for parts of the repair due to its superior moisture resistance.",
+        "@type": "Answer",
+        "description": "Materials include wood fillers, new lumber, moisture-resistant primers/paints, and sometimes composite or PVC lumber for enhanced water resistance."
+      }
+    }
+  ],
+  "description": "Materials include wood fillers, new lumber, moisture-resistant primers/paints, and sometimes composite or PVC lumber for enhanced water resistance."
+}

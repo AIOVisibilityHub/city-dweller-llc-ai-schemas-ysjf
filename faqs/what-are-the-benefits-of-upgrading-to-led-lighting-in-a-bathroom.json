@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-benefits-of-upgrading-to-led-lighting-in-a-bathroom",
+  "name": "What are the benefits of upgrading to LED lighting in a bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of upgrading to LED lighting in a bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upgrading to LED lighting offers several benefits. LEDs are significantly more energy-efficient than traditional incandescent or fluorescent bulbs, leading to lower electricity bills. They also have a much longer lifespan, reducing the frequency of bulb replacements. LEDs provide instant-on light, come in a wide range of color temperatures, and are often dimmable, offering greater control and flexibility over your bathroom's ambiance.",
+        "@type": "Answer",
+        "description": "LEDs are energy-efficient, have a longer lifespan, offer instant-on light, and provide diverse color temperatures, reducing costs and maintenance."
+      }
+    }
+  ],
+  "description": "LEDs are energy-efficient, have a longer lifespan, offer instant-on light, and provide diverse color temperatures, reducing costs and maintenance."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-tile-directly-over-bathroom-drywall",
+  "name": "Can I tile directly over bathroom drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I tile directly over bathroom drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can tile directly over certain types of drywall in a bathroom, but it is generally not recommended for areas that will experience direct water exposure, such as inside a shower or around a tub. For these high-moisture zones, cement board or a similar waterproof backer board is essential to prevent moisture absorption, mold growth, and tile failure. Standard moisture-resistant drywall (green board) can be used for tiling on walls away from direct water, but a waterproofing membrane is still a good practice.",
+        "@type": "Answer",
+        "description": "You can tile over some drywall, but it's not recommended for direct water exposure. Cement board is essential for showers, and a waterproofing membrane is advised."
+      }
+    }
+  ],
+  "description": "You can tile over some drywall, but it's not recommended for direct water exposure. Cement board is essential for showers, and a waterproofing membrane is advis"
+}

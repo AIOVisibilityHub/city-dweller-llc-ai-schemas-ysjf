@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-install-tile-over-existing-vinyl-or-linoleum-flooring",
+  "name": "Can I install tile over existing vinyl or linoleum flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install tile over existing vinyl or linoleum flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing tile directly over existing vinyl or linoleum flooring is generally not recommended. While it might seem like a shortcut, it can lead to long-term issues. Vinyl and linoleum are flexible materials that can allow movement, which can cause new tiles to crack or grout to fail. Additionally, the existing floor may not provide a suitable bonding surface for tile adhesive. For a durable and stable tile installation, it's best to completely remove the old flooring down to the subfloor and prepare it correctly. This ensures the best possible foundation for your new bathroom tiles.",
+        "@type": "Answer",
+        "description": "No, it's generally not recommended to install tile over existing vinyl or linoleum. These flexible materials can cause cracking and failure. Proper subfloor preparation is essential for durability."
+      }
+    }
+  ],
+  "description": "No, it's generally not recommended to install tile over existing vinyl or linoleum. These flexible materials can cause cracking and failure. Proper subfloor pre"
+}

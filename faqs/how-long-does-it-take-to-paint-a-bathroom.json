@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-paint-a-bathroom",
+  "name": "How long does it take to paint a bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to paint a bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to paint a bathroom varies based on its size, the extent of preparation needed, and the number of coats. A small to medium-sized bathroom, including proper prep work like cleaning, patching, and taping, plus two coats of paint, typically takes one to two days. Larger bathrooms or those requiring significant repairs, wallpaper removal, or specialized finishes may take longer. City Dweller, LLC prioritizes thorough preparation to ensure a long-lasting finish, which can influence the overall timeline.",
+        "@type": "Answer",
+        "description": "Painting a bathroom typically takes one to two days for a small to medium size, depending on preparation and the number of coats."
+      }
+    }
+  ],
+  "description": "Painting a bathroom typically takes one to two days for a small to medium size, depending on preparation and the number of coats."
+}

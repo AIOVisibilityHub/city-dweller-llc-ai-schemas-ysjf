@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-signs-that-my-bathroom-door-frame-might-need-repair",
+  "name": "What are the signs that my bathroom door frame might need repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my bathroom door frame might need repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Look for several key signs that indicate your bathroom door frame may need repair. These include visible cracks, splinters, or soft spots in the wood, especially near the bottom or around the hinges. You might also notice peeling paint, discoloration, or swelling of the wood, which are common indicators of moisture damage. If the door sticks, doesn't close properly, or if there's a visible gap around the door when it's closed, the frame could be warped or compromised. A musty odor near the frame can also signal hidden rot.",
+        "@type": "Answer",
+        "description": "Signs include visible cracks, soft spots, peeling paint, discoloration, swelling, a sticking door, gaps, or a musty odor near the frame."
+      }
+    }
+  ],
+  "description": "Signs include visible cracks, soft spots, peeling paint, discoloration, swelling, a sticking door, gaps, or a musty odor near the frame."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-warranty-or-guarantee-does-city-dweller-offer-on-fixture-installati",
+  "name": "What kind of warranty or guarantee does City Dweller offer on fixture installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty or guarantee does City Dweller offer on fixture installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller stands behind the quality of our workmanship for all bathroom fixture installations. We typically offer a warranty on our labor to ensure that the installation is performed correctly and functions as intended. Specific details of the warranty, including its duration and coverage, will be provided with your project estimate. This warranty covers issues directly related to the installation process, giving you peace of mind regarding the longevity and performance of your newly installed fixtures.",
+        "@type": "Answer",
+        "description": "City Dweller offers a labor warranty on fixture installations, with specific details provided in your project estimate, covering installation-related issues."
+      }
+    }
+  ],
+  "description": "City Dweller offers a labor warranty on fixture installations, with specific details provided in your project estimate, covering installation-related issues."
+}

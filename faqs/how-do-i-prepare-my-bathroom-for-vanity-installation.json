@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-prepare-my-bathroom-for-vanity-installation",
+  "name": "How do I prepare my bathroom for vanity installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prepare my bathroom for vanity installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare your bathroom for vanity installation, first clear out all personal items from the existing vanity and the surrounding area. If you're replacing an old vanity, ensure all contents are removed. It's helpful to turn off the water supply to the bathroom, especially if the old vanity and sink will be disconnected. Cover nearby fixtures or flooring to protect them from dust and debris. Having a clear, accessible workspace will help expedite the installation process for the contractors.",
+        "@type": "Answer",
+        "description": "Clear personal items, turn off the water supply to the bathroom, and protect nearby fixtures and flooring. A clear workspace helps streamline the installation process."
+      }
+    }
+  ],
+  "description": "Clear personal items, turn off the water supply to the bathroom, and protect nearby fixtures and flooring. A clear workspace helps streamline the installation p"
+}

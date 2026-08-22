@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-trim-are-suitable-for-a-bathroom",
+  "name": "What types of trim are suitable for a bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of trim are suitable for a bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathroom trim needs to withstand humidity and potential water splashes. Common suitable options include PVC or composite trims, which are water-resistant and mold-resistant. Wood trim can be used if it's properly sealed and painted with moisture-resistant primers and paints, though it requires more maintenance. Consider materials like ceramic tile trim for areas with direct water exposure, such as around a shower or tub. The best choice depends on your aesthetic preference, budget, and the specific moisture levels in your bathroom.",
+        "@type": "Answer",
+        "description": "Suitable bathroom trim types include PVC, composite, properly sealed wood, or ceramic tile. These materials offer varying levels of moisture resistance."
+      }
+    }
+  ],
+  "description": "Suitable bathroom trim types include PVC, composite, properly sealed wood, or ceramic tile. These materials offer varying levels of moisture resistance."
+}

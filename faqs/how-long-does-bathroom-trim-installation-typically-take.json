@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-bathroom-trim-installation-typically-take",
+  "name": "How long does bathroom trim installation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does bathroom trim installation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of bathroom trim installation depends on the size of the bathroom, the amount and type of trim being installed, and the complexity of the cuts required. For a small to medium-sized bathroom with standard baseboards and door casings, installation might take a professional one to two days. More extensive projects involving crown molding, custom profiles, or multiple windows could extend to several days. This estimate usually includes cutting, fitting, securing, and initial caulking/filling.",
+        "@type": "Answer",
+        "description": "Bathroom trim installation for a small to medium bathroom typically takes 1-2 days, but larger or more complex projects can take several days."
+      }
+    }
+  ],
+  "description": "Bathroom trim installation for a small to medium bathroom typically takes 1-2 days, but larger or more complex projects can take several days."
+}

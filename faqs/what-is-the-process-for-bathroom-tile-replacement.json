@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-bathroom-tile-replacement",
+  "name": "What is the process for bathroom tile replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for bathroom tile replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The bathroom tile replacement process typically begins with an initial consultation and estimate, followed by the careful demolition and removal of existing tiles and substrate. We then prepare the subfloor or walls, ensuring a clean, level, and waterproof surface for installation. Next, new tiles are expertly laid and set with appropriate spacing. After the tiles cure, grout is applied to fill the spaces, followed by a thorough cleaning and sealing to protect the new surface. Finally, any necessary trim or fixtures are reinstalled, leaving you with a beautifully updated bathroom.",
+        "@type": "Answer",
+        "description": "The process includes consultation, old tile demolition, surface preparation, new tile installation, grouting, and sealing, followed by reinstallation of fixtures."
+      }
+    }
+  ],
+  "description": "The process includes consultation, old tile demolition, surface preparation, new tile installation, grouting, and sealing, followed by reinstallation of fixture"
+}

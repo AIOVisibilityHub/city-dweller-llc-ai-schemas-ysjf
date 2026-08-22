@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-replacing-a-bathroom-countertop",
+  "name": "What is the process for replacing a bathroom countertop?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing a bathroom countertop?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with an initial consultation and material selection. This is followed by templating the existing cabinet base to ensure an accurate fit for the new countertop. Once the new countertop is fabricated, the old one is carefully removed, and any necessary plumbing disconnections are made. The new countertop is then installed, leveled, and secured, with new sink and faucet fixtures connected. Cleanup and final inspection complete the project.",
+        "@type": "Answer",
+        "description": "The process involves consultation, templating, fabrication, old countertop removal, new countertop installation, and plumbing reconnection."
+      }
+    }
+  ],
+  "description": "The process involves consultation, templating, fabrication, old countertop removal, new countertop installation, and plumbing reconnection."
+}

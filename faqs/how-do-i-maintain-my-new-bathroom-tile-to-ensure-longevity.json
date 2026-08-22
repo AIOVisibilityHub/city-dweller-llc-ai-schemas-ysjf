@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-maintain-my-new-bathroom-tile-to-ensure-longevity",
+  "name": "How do I maintain my new bathroom tile to ensure longevity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I maintain my new bathroom tile to ensure longevity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintaining your new bathroom tile involves regular cleaning and prompt attention to spills. Use pH-neutral cleaners specifically designed for tile and grout, avoiding harsh chemicals or abrasive scrubbers that can damage grout or tile surfaces. Regularly clean grout lines to prevent mold and mildew buildup. Sealing grout, especially in high-moisture areas, is crucial and typically needs to be reapplied every 1-3 years, depending on traffic and product specifications. Promptly address any loose or cracked grout to prevent water infiltration, ensuring the longevity and beauty of your tile.",
+        "@type": "Answer",
+        "description": "Maintain new bathroom tile by using pH-neutral cleaners, regularly cleaning grout lines, and reapplying grout sealer every 1-3 years. Promptly address loose or cracked grout."
+      }
+    }
+  ],
+  "description": "Maintain new bathroom tile by using pH-neutral cleaners, regularly cleaning grout lines, and reapplying grout sealer every 1-3 years. Promptly address loose or"
+}

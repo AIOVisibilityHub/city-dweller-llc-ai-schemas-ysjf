@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-look-for-when-choosing-new-bathroom-fixtures",
+  "name": "What should I look for when choosing new bathroom fixtures?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing new bathroom fixtures?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing new bathroom fixtures, consider durability, water efficiency, and how they complement your bathroom's style. Look for fixtures made from quality materials that will withstand daily use. WaterSense labeled products can help reduce water consumption. Also, ensure the size and configuration of new fixtures are compatible with your existing plumbing layout and available space. Practicality, ease of cleaning, and your long-term budget are also important considerations for making the best choice.",
+        "@type": "Answer",
+        "description": "Consider durability, water efficiency, style, size compatibility, and ease of cleaning when choosing new bathroom fixtures."
+      }
+    }
+  ],
+  "description": "Consider durability, water efficiency, style, size compatibility, and ease of cleaning when choosing new bathroom fixtures."
+}

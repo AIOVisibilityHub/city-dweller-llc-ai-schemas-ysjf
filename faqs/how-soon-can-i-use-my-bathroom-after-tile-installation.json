@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-soon-can-i-use-my-bathroom-after-tile-installation",
+  "name": "How soon can I use my bathroom after tile installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How soon can I use my bathroom after tile installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Typically, you should wait at least 24 to 48 hours before walking on newly tiled floors to allow the tile adhesive to properly cure. For full use of the bathroom, including showering, it's generally advised to wait 72 hours to a full week after grouting. Grout needs sufficient time to dry and cure completely to achieve its full strength and water resistance. Your contractor will provide specific recommendations based on the type of adhesive and grout used, as well as environmental conditions like humidity and temperature.",
+        "@type": "Answer",
+        "description": "Wait 24-48 hours before walking on new tile, and 72 hours to a full week after grouting for full bathroom use, including showering."
+      }
+    }
+  ],
+  "description": "Wait 24-48 hours before walking on new tile, and 72 hours to a full week after grouting for full bathroom use, including showering."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-bathroom-drywall-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair bathroom drywall myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair bathroom drywall myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor repairs like small holes or surface cracks can often be a DIY project for someone with basic home improvement skills. However, for significant water damage, mold remediation, or structural issues, hiring a professional is recommended. Professionals have the specialized tools, experience, and knowledge to correctly identify underlying problems, ensure proper mold removal, and execute a durable, aesthetically pleasing repair that prevents future issues. This is especially true for repairs involving plumbing or electrical components.",
+        "@type": "Answer",
+        "description": "DIY is suitable for minor repairs; hire a professional for significant water damage, mold, or structural issues to ensure proper repair and safety."
+      }
+    }
+  ],
+  "description": "DIY is suitable for minor repairs; hire a professional for significant water damage, mold, or structural issues to ensure proper repair and safety."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-signs-that-my-bathroom-needs-waterproofing-or-repair",
+  "name": "What are the signs that my bathroom needs waterproofing or repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my bathroom needs waterproofing or repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key signs that your bathroom may need waterproofing or repair include discolored or peeling paint on adjacent walls, damp spots, loose or cracked tiles, crumbling grout, musty odors indicating mold growth, or visible water stains on the ceiling below the bathroom. Addressing these issues promptly is crucial to prevent further water damage to your home's structure and air quality.",
+        "@type": "Answer",
+        "description": "Signs include discolored paint, damp spots, loose tiles, musty odors, or water stains, indicating a need for waterproofing or repair."
+      }
+    }
+  ],
+  "description": "Signs include discolored paint, damp spots, loose tiles, musty odors, or water stains, indicating a need for waterproofing or repair."
+}

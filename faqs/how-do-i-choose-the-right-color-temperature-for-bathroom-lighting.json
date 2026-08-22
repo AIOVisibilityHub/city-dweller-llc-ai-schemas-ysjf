@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-color-temperature-for-bathroom-lighting",
+  "name": "How do I choose the right color temperature for bathroom lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right color temperature for bathroom lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right color temperature involves considering the desired mood and function. Warmer temperatures (around 2700K-3000K) create a cozy, inviting atmosphere, while cooler temperatures (3500K-4000K) offer brighter, more energizing light suitable for tasks like makeup application or shaving. Many homeowners prefer a neutral white (3000K-3500K) for a balanced look. Using dimmers can also provide flexibility.",
+        "@type": "Answer",
+        "description": "Select warmer temperatures (2700K-3000K) for a cozy feel, cooler (3500K-4000K) for task lighting, or neutral white (3000K-3500K) for balance."
+      }
+    }
+  ],
+  "description": "Select warmer temperatures (2700K-3000K) for a cozy feel, cooler (3500K-4000K) for task lighting, or neutral white (3000K-3500K) for balance."
+}

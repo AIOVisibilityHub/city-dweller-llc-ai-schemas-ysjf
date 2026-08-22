@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-rectified-and-non-rectified-tiles",
+  "name": "What is the difference between rectified and non-rectified tiles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between rectified and non-rectified tiles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rectified tiles are precisely cut after firing to achieve extremely consistent and exact dimensions, with very sharp 90-degree edges. This allows for much thinner grout lines, creating a more seamless and contemporary look. Non-rectified tiles, also known as cushion-edged or pressed tiles, have slightly rounded or irregular edges and minor variations in size from tile to tile, which is a natural result of the firing process. These variations necessitate wider grout lines to accommodate the differences and create a uniform appearance. Your choice depends on the aesthetic you desire and the required grout line width.",
+        "@type": "Answer",
+        "description": "Rectified tiles are precisely cut for consistent size and sharp edges, allowing thin grout lines. Non-rectified tiles have slightly rounded edges and size variations, requiring wider grout lines."
+      }
+    }
+  ],
+  "description": "Rectified tiles are precisely cut for consistent size and sharp edges, allowing thin grout lines. Non-rectified tiles have slightly rounded edges and size varia"
+}

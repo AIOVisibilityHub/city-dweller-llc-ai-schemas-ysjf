@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-care-for-my-new-bathroom-countertop",
+  "name": "How do I care for my new bathroom countertop?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I care for my new bathroom countertop?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Caring for your new bathroom countertop depends heavily on the material. For natural stone like granite or marble, use pH-neutral cleaners and seal periodically as recommended by your installer. Quartz and solid surface countertops are generally low maintenance, requiring only mild soap and water for daily cleaning. Always wipe spills promptly to prevent staining, especially on porous materials, and avoid abrasive cleaners or harsh chemicals on any surface to preserve its finish.",
+        "@type": "Answer",
+        "description": "Care for your new countertop by using appropriate cleaners for its material; seal natural stone periodically, and clean quartz/solid surface with mild soap and water."
+      }
+    }
+  ],
+  "description": "Care for your new countertop by using appropriate cleaners for its material; seal natural stone periodically, and clean quartz/solid surface with mild soap and"
+}

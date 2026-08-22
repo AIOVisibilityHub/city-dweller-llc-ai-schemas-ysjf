@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-know-about-sealing-marble-in-a-bathroom",
+  "name": "What should I know about sealing marble in a bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I know about sealing marble in a bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sealing is a critical step for marble in a bathroom to protect it from stains and etching. Marble is porous and can absorb liquids, leading to discoloration. A penetrating sealer is applied to fill the pores and create a barrier without changing the marble's appearance. The initial seal should be applied immediately after installation, and re-sealing is typically recommended every 6 to 12 months, depending on usage and the type of marble and sealer. Regular testing by placing a few drops of water on the surface can help determine if it needs re-sealing.",
+        "@type": "Answer",
+        "description": "Sealing marble is essential to protect it from stains and etching due to its porous nature. Apply a penetrating sealer upon installation and re-seal every 6-12 months, or when water no longer beads on the surface."
+      }
+    }
+  ],
+  "description": "Sealing marble is essential to protect it from stains and etching due to its porous nature. Apply a penetrating sealer upon installation and re-seal every 6-12"
+}

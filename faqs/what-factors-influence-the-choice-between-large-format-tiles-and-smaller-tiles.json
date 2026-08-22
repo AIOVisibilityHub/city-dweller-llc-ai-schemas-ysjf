@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-factors-influence-the-choice-between-large-format-tiles-and-smaller-tiles",
+  "name": "What factors influence the choice between large format tiles and smaller tiles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the choice between large format tiles and smaller tiles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice between large and small format tiles impacts both aesthetics and practicality. Large format tiles can make a small bathroom appear more expansive by reducing the number of grout lines, creating a sleek, continuous look. They are often quicker to install over large areas. Smaller tiles, like mosaics, are excellent for creating intricate patterns, providing better grip on floors, and conforming to curved surfaces. However, they involve more grout lines, which can require more cleaning. Consider the size of your bathroom, desired aesthetic, and slip resistance needs when making this decision.",
+        "@type": "Answer",
+        "description": "Large format tiles create a spacious, sleek look with fewer grout lines. Smaller tiles offer intricate designs and better grip but have more grout to clean."
+      }
+    }
+  ],
+  "description": "Large format tiles create a spacious, sleek look with fewer grout lines. Smaller tiles offer intricate designs and better grip but have more grout to clean."
+}

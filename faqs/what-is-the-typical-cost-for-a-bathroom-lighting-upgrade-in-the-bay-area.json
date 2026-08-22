@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-for-a-bathroom-lighting-upgrade-in-the-bay-area",
+  "name": "What is the typical cost for a bathroom lighting upgrade in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for a bathroom lighting upgrade in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a bathroom lighting upgrade in the Bay Area varies widely based on the scope of work. Factors include the number and type of fixtures chosen, whether new wiring or electrical panel upgrades are needed, and labor rates. A simple fixture replacement might be a few hundred dollars, while a comprehensive upgrade with new recessed lighting and wiring could range from $1,500 to $5,000 or more. A detailed quote requires an on-site assessment.",
+        "@type": "Answer",
+        "description": "Costs for a bathroom lighting upgrade in the Bay Area vary from a few hundred dollars for simple replacements to $1,500-$5,000+ for comprehensive overhauls, depending on fixtures and electrical work."
+      }
+    }
+  ],
+  "description": "Costs for a bathroom lighting upgrade in the Bay Area vary from a few hundred dollars for simple replacements to $1,500-$5,000+ for comprehensive overhauls, dep"
+}

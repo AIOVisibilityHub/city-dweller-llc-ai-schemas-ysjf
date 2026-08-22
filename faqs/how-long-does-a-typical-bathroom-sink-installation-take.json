@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-bathroom-sink-installation-take",
+  "name": "How long does a typical bathroom sink installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bathroom sink installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a bathroom sink installation can vary depending on the sink type, existing plumbing conditions, and whether a new countertop is also being installed. A straightforward replacement of a similar sink, assuming existing plumbing is adequate, can often be completed in 2 to 4 hours. If plumbing modifications are needed, or if it's part of a larger renovation involving countertop replacement, the process will take longer, potentially requiring a full day or more. City Dweller, LLC provides estimated timelines based on project specifics.",
+        "@type": "Answer",
+        "description": "Installation typically takes 2-4 hours for a simple replacement. More complex jobs with plumbing modifications or countertop changes may take a full day or longer."
+      }
+    }
+  ],
+  "description": "Installation typically takes 2-4 hours for a simple replacement. More complex jobs with plumbing modifications or countertop changes may take a full day or long"
+}

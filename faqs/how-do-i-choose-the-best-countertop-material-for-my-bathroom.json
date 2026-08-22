@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-best-countertop-material-for-my-bathroom",
+  "name": "How do I choose the best countertop material for my bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the best countertop material for my bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the best countertop material involves considering durability, maintenance, aesthetics, and budget. Evaluate how frequently the bathroom is used and by whom; a high-traffic family bathroom might benefit from durable, low-maintenance quartz, while a guest bath could feature more delicate marble. Aesthetics should complement your overall bathroom design. Review samples in different lighting and discuss pros and cons with your contractor.",
+        "@type": "Answer",
+        "description": "Choose a countertop material by balancing durability, maintenance, aesthetics, and budget, considering bathroom usage and design preferences."
+      }
+    }
+  ],
+  "description": "Choose a countertop material by balancing durability, maintenance, aesthetics, and budget, considering bathroom usage and design preferences."
+}

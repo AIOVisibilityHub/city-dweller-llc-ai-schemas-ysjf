@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-hire-a-plumber-before-or-after-countertop-installation",
+  "name": "Do I need to hire a plumber before or after countertop installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to hire a plumber before or after countertop installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally recommended to coordinate plumbing work with your countertop installation. Typically, your existing sink and faucet will need to be disconnected before the old countertop is removed. After the new countertop is installed and the sink is in place, a plumber will need to reconnect the faucet, drain, and supply lines. We can help coordinate this sequence to ensure a smooth and efficient process.",
+        "@type": "Answer",
+        "description": "A plumber is needed to disconnect and reconnect fixtures before and after countertop installation. We can help coordinate the timing."
+      }
+    }
+  ],
+  "description": "A plumber is needed to disconnect and reconnect fixtures before and after countertop installation. We can help coordinate the timing."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-seal-bathroom-floor-tiles",
+  "name": "Do I need to seal bathroom floor tiles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to seal bathroom floor tiles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need to seal bathroom floor tiles depends on the type of tile chosen. Natural stone tiles, such as marble, granite, travertine, or slate, are porous and must be sealed regularly (typically annually or biannually) to prevent water penetration, staining, and mold growth. Unglazed ceramic tiles also benefit from sealing. Glazed ceramic and porcelain tiles, however, are non-porous and generally do not require sealing. Sealing grout lines is always recommended for all tile types to protect them from moisture and stains, extending their lifespan and maintaining their appearance.",
+        "@type": "Answer",
+        "description": "Natural stone and unglazed ceramic tiles require sealing to prevent water damage and stains. Glazed ceramic and porcelain tiles usually do not need sealing, but grout lines should always be sealed."
+      }
+    }
+  ],
+  "description": "Natural stone and unglazed ceramic tiles require sealing to prevent water damage and stains. Glazed ceramic and porcelain tiles usually do not need sealing, but"
+}

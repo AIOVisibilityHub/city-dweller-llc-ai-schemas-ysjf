@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-try-to-repair-a-rotting-bathroom-door-frame-myself-or-hire-a-profession",
+  "name": "Should I try to repair a rotting bathroom door frame myself or hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I try to repair a rotting bathroom door frame myself or hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For minor surface-level rot or small cracks, a DIY repair might be feasible if you have basic carpentry skills. However, for significant rot, structural damage, or if you're unsure about the extent of the problem, hiring a professional is strongly recommended. Professionals have the tools, experience, and knowledge to properly identify the cause of the rot, effectively remove damaged sections, treat for mold/mildew, and ensure a durable, long-lasting repair that maintains the structural integrity of the frame. Improper DIY repairs can lead to recurring issues.",
+        "@type": "Answer",
+        "description": "Hire a professional for significant rot or structural damage; DIY is only advisable for minor, surface-level issues if you have carpentry skills."
+      }
+    }
+  ],
+  "description": "Hire a professional for significant rot or structural damage; DIY is only advisable for minor, surface-level issues if you have carpentry skills."
+}

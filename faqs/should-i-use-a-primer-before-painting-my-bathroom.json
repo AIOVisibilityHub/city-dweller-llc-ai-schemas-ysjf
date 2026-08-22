@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-use-a-primer-before-painting-my-bathroom",
+  "name": "Should I use a primer before painting my bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I use a primer before painting my bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, using a primer is highly recommended, especially in bathrooms. Primer creates a uniform surface for the topcoat, improving paint adhesion and durability. It's particularly important if you are painting over a dark color with a lighter one, covering stains or patches, or dealing with porous surfaces. In a humid bathroom environment, a quality primer helps prevent moisture absorption and can include mildew-resistant properties, further enhancing the longevity of your paint job. City Dweller, LLC always recommends primer for optimal results.",
+        "@type": "Answer",
+        "description": "Yes, primer is highly recommended in bathrooms to improve paint adhesion, durability, cover stains, and prevent moisture absorption."
+      }
+    }
+  ],
+  "description": "Yes, primer is highly recommended in bathrooms to improve paint adhesion, durability, cover stains, and prevent moisture absorption."
+}

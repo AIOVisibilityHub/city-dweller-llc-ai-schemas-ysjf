@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-average-cost-to-replace-a-bathroom-countertop-in-the-bay-area",
+  "name": "What is the average cost to replace a bathroom countertop in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to replace a bathroom countertop in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to replace a bathroom countertop in the Bay Area varies significantly based on material, size, edge profile, and labor rates. For example, solid surface or laminate can range from $50-$100 per square foot installed, while natural stone like granite or marble, or engineered quartz, often costs $75-$200+ per square foot. These estimates typically include material, fabrication, and installation, but can exclude old countertop removal and plumbing modifications.",
+        "@type": "Answer",
+        "description": "Bathroom countertop replacement costs in the Bay Area typically range from $50 to $200+ per square foot, depending on material choice and complexity."
+      }
+    }
+  ],
+  "description": "Bathroom countertop replacement costs in the Bay Area typically range from $50 to $200+ per square foot, depending on material choice and complexity."
+}

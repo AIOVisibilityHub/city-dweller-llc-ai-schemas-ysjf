@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-bathroom-sinks-are-available-for-installation",
+  "name": "What types of bathroom sinks are available for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of bathroom sinks are available for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are several common types of bathroom sinks, each with distinct installation requirements and aesthetic appeals. Undermount sinks are installed beneath the counter, creating a seamless look and easy cleaning. Drop-in (or self-rimming) sinks sit on top of the counter with a visible rim. Vessel sinks are freestanding bowls that sit entirely on the countertop. Wall-mounted sinks attach directly to the wall, saving floor space. Pedestal sinks feature a basin supported by a standalone pedestal. The best choice depends on your bathroom's style, available space, and functional needs.",
+        "@type": "Answer",
+        "description": "Common types include undermount, drop-in, vessel, wall-mounted, and pedestal sinks. Each offers different aesthetics and installation methods."
+      }
+    }
+  ],
+  "description": "Common types include undermount, drop-in, vessel, wall-mounted, and pedestal sinks. Each offers different aesthetics and installation methods."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-type-of-drywall-is-best-for-bathrooms",
+  "name": "What type of drywall is best for bathrooms?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of drywall is best for bathrooms?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Moisture-resistant drywall, often called 'green board' due to its color, is typically recommended for bathrooms. It has a special paperless fiberglass mat instead of paper facing or a wax coating that helps repel moisture, making it more resilient to humidity and accidental splashes than standard drywall. For areas with very high moisture exposure, like shower surrounds, cement board or fiberglass mat gypsum panels are superior options as they are completely waterproof and provide a stable base for tiling.",
+        "@type": "Answer",
+        "description": "Moisture-resistant 'green board' is recommended for bathrooms, while cement board or fiberglass mat gypsum panels are best for high-moisture areas like shower surrounds."
+      }
+    }
+  ],
+  "description": "Moisture-resistant 'green board' is recommended for bathrooms, while cement board or fiberglass mat gypsum panels are best for high-moisture areas like shower s"
+}

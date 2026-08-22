@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-bathroom-waterproofing-and-why-is-it-important",
+  "name": "What is bathroom waterproofing and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is bathroom waterproofing and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathroom waterproofing involves applying a protective barrier to floors, walls, and shower areas to prevent water from penetrating into underlying structures. This is crucial to protect your home from significant damage such as wood rot, mold growth, and structural weakening. Proper waterproofing safeguards your investment, maintains property value, and prevents costly repairs by containing moisture within the bathroom area.",
+        "@type": "Answer",
+        "description": "Bathroom waterproofing applies a protective barrier to prevent water from damaging underlying structures, protecting your home from mold, rot, and costly repairs."
+      }
+    }
+  ],
+  "description": "Bathroom waterproofing applies a protective barrier to prevent water from damaging underlying structures, protecting your home from mold, rot, and costly repair"
+}

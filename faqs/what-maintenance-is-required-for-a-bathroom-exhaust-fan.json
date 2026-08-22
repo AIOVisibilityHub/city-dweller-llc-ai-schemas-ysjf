@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-maintenance-is-required-for-a-bathroom-exhaust-fan",
+  "name": "What maintenance is required for a bathroom exhaust fan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a bathroom exhaust fan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular maintenance for a bathroom exhaust fan primarily involves cleaning the fan grille and, if accessible, the fan blades and housing. Dust and lint can accumulate, reducing efficiency and increasing noise. Periodically check for any obstructions in the ductwork and ensure the exterior vent flap opens and closes properly. This simple upkeep helps maintain optimal performance, prolong the fan's lifespan, and prevent potential issues.",
+        "@type": "Answer",
+        "description": "Bathroom exhaust fan maintenance includes cleaning the grille and blades, checking for duct obstructions, and ensuring the exterior vent functions."
+      }
+    }
+  ],
+  "description": "Bathroom exhaust fan maintenance includes cleaning the grille and blades, checking for duct obstructions, and ensuring the exterior vent functions."
+}

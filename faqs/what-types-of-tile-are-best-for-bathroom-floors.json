@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-tile-are-best-for-bathroom-floors",
+  "name": "What types of tile are best for bathroom floors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of tile are best for bathroom floors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For bathroom floors, durable and water-resistant tile options are essential. Porcelain tile is a popular choice due to its low water absorption, making it highly resistant to moisture and stains. Ceramic tile is also suitable and offers a wide range of styles at a more budget-friendly price. Both types provide good slip resistance when unglazed or textured, which is important for safety in wet environments. Natural stone tiles like slate or travertine can also be used but often require more maintenance, including regular sealing, to prevent water damage and staining.",
+        "@type": "Answer",
+        "description": "Porcelain and ceramic tiles are excellent choices for bathroom floors due to their durability and water resistance. Natural stone is also an option but requires more maintenance."
+      }
+    }
+  ],
+  "description": "Porcelain and ceramic tiles are excellent choices for bathroom floors due to their durability and water resistance. Natural stone is also an option but requires"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-replace-my-sink-and-faucet-when-replacing-my-bathroom-countertop",
+  "name": "Do I need to replace my sink and faucet when replacing my bathroom countertop?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace my sink and faucet when replacing my bathroom countertop?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is often recommended to replace your sink and faucet when replacing your bathroom countertop, though not always strictly necessary. New countertops may require different sink cutouts or mounting styles. Furthermore, a new countertop provides an ideal opportunity to update plumbing fixtures to match the new aesthetic and ensure all components are new and warrantied, preventing future leaks or compatibility issues. If reusing, ensure compatibility.",
+        "@type": "Answer",
+        "description": "While not always required, replacing your sink and faucet with a new countertop is recommended for aesthetic consistency and to avoid future compatibility issues."
+      }
+    }
+  ],
+  "description": "While not always required, replacing your sink and faucet with a new countertop is recommended for aesthetic consistency and to avoid future compatibility issue"
+}

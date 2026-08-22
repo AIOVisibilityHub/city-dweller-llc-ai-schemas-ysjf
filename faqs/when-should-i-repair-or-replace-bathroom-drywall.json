@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-repair-or-replace-bathroom-drywall",
+  "name": "When should I repair or replace bathroom drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair or replace bathroom drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor damage, such as small cracks or superficial holes from picture hangers, can often be repaired with patching compound. However, extensive water damage, mold growth that has penetrated the drywall, or structural issues require replacement. If the drywall is soft, crumbling, or has significant discoloration from moisture, replacement is the more durable and safer solution to ensure the integrity of your bathroom walls and prevent health hazards.",
+        "@type": "Answer",
+        "description": "Repair small cracks or holes; replace drywall with extensive water damage, mold growth, or structural weakening."
+      }
+    }
+  ],
+  "description": "Repair small cracks or holes; replace drywall with extensive water damage, mold growth, or structural weakening."
+}

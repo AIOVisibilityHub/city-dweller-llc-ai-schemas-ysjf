@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-average-cost-to-tile-a-bathroom-in-the-bay-area",
+  "name": "What is the average cost to tile a bathroom in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to tile a bathroom in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to tile a bathroom in the Bay Area can vary significantly due to factors like labor rates, tile material choices, and project scope. On average, homeowners might expect to pay between $10 to $25 per square foot for basic tile and installation. However, for premium tiles, complex layouts, or specialized waterproofing, costs can exceed $30-$50 per square foot. This estimate typically covers materials, labor, and basic preparation. We provide detailed, transparent quotes after an on-site assessment to give you an accurate cost for your specific project.",
+        "@type": "Answer",
+        "description": "In the Bay Area, bathroom tiling can range from $10 to $25 per square foot for basic projects, potentially higher for premium materials or complex designs."
+      }
+    }
+  ],
+  "description": "In the Bay Area, bathroom tiling can range from $10 to $25 per square foot for basic projects, potentially higher for premium materials or complex designs."
+}

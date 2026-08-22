@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-permits-are-required-for-bathroom-vanity-replacement-in-the-bay-area",
+  "name": "What permits are required for bathroom vanity replacement in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for bathroom vanity replacement in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a simple 'like-for-like' bathroom vanity replacement that does not involve altering the existing plumbing or electrical layout, permits are typically not required. However, if the replacement involves moving plumbing lines, changing the electrical configuration for new lighting or outlets, or altering structural elements, permits from your local building department in places like San Bruno or South San Francisco may be necessary. Always check with your local city or county building department to confirm permit requirements for your specific project before starting work.",
+        "@type": "Answer",
+        "description": "Permits are usually not needed for 'like-for-like' vanity replacement, but are required if plumbing, electrical, or structural changes are made. Always confirm with local authorities."
+      }
+    }
+  ],
+  "description": "Permits are usually not needed for 'like-for-like' vanity replacement, but are required if plumbing, electrical, or structural changes are made. Always confirm"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-often-should-a-bathroom-be-repainted",
+  "name": "How often should a bathroom be repainted?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should a bathroom be repainted?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The frequency of repainting a bathroom depends on factors such as humidity levels, ventilation, paint quality, and usage. Generally, a bathroom should be repainted every 3 to 5 years to maintain its appearance and protect against moisture damage. High-traffic bathrooms, or those with poor ventilation, may require more frequent repainting. Signs like peeling paint, mildew growth, or faded color indicate it's time for a fresh coat. Regular cleaning and good ventilation can extend the life of your bathroom paint.",
+        "@type": "Answer",
+        "description": "Bathrooms should typically be repainted every 3 to 5 years, depending on humidity, ventilation, and paint quality."
+      }
+    }
+  ],
+  "description": "Bathrooms should typically be repainted every 3 to 5 years, depending on humidity, ventilation, and paint quality."
+}

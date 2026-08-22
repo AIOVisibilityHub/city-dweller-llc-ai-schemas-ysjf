@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-bathroom-drywall-repair-take",
+  "name": "How long does bathroom drywall repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does bathroom drywall repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of bathroom drywall repair depends on the extent of the damage. Small patches might take a few hours of active work, spread over a day or two to allow for drying and sanding. Larger sections requiring full panel replacement, mudding, taping, and multiple coats of compound can take several days to a week. This timeline includes drying times between coats and the final prep for painting, which are critical for a lasting finish.",
+        "@type": "Answer",
+        "description": "Repair time varies; small patches take a few hours over 1-2 days, while larger replacements can take several days to a week due to drying times."
+      }
+    }
+  ],
+  "description": "Repair time varies; small patches take a few hours over 1-2 days, while larger replacements can take several days to a week due to drying times."
+}

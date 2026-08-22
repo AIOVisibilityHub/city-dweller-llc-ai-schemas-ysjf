@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-drywall-damage-in-bathrooms",
+  "name": "What causes drywall damage in bathrooms?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes drywall damage in bathrooms?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathroom drywall damage often results from high humidity and direct water exposure. Common causes include inadequate ventilation, leading to moisture buildup that softens and degrades drywall, and leaks from plumbing fixtures like toilets, sinks, or showers. Steam from hot showers can also condense on walls, contributing to mold growth and structural weakening over time. Addressing these underlying issues is crucial to prevent future damage after repairs.",
+        "@type": "Answer",
+        "description": "Bathroom drywall damage is typically caused by high humidity, steam condensation, or water leaks from plumbing fixtures."
+      }
+    }
+  ],
+  "description": "Bathroom drywall damage is typically caused by high humidity, steam condensation, or water leaks from plumbing fixtures."
+}

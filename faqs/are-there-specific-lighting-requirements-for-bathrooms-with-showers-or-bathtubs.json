@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-there-specific-lighting-requirements-for-bathrooms-with-showers-or-bathtubs",
+  "name": "Are there specific lighting requirements for bathrooms with showers or bathtubs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific lighting requirements for bathrooms with showers or bathtubs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, lighting fixtures installed directly within a shower or above a bathtub must be rated for wet or damp locations to ensure safety. This rating indicates the fixture's ability to withstand moisture exposure. Look for fixtures with an IP (Ingress Protection) rating suitable for zones with splashing or direct water contact. This prevents electrical hazards and ensures durability in humid environments.",
+        "@type": "Answer",
+        "description": "Lights in showers or above tubs must be wet or damp-rated (IP rated) to safely withstand moisture exposure."
+      }
+    }
+  ],
+  "description": "Lights in showers or above tubs must be wet or damp-rated (IP rated) to safely withstand moisture exposure."
+}

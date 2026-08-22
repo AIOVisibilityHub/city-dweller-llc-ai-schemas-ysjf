@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-bathroom-ventilation-systems-are-available",
+  "name": "What types of bathroom ventilation systems are available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of bathroom ventilation systems are available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most common types of bathroom ventilation systems are exhaust fans, which come in various styles like ceiling-mounted, wall-mounted, and inline fans. Exhaust fans differ by their cubic feet per minute (CFM) rating, noise level (sone rating), and features such as humidity sensors or timers. For larger bathrooms or specific needs, inline fans can be more powerful and quieter as the motor is located further from the vent.",
+        "@type": "Answer",
+        "description": "Bathroom ventilation systems typically involve exhaust fans, which can be ceiling-mounted, wall-mounted, or inline, differing by CFM and noise levels."
+      }
+    }
+  ],
+  "description": "Bathroom ventilation systems typically involve exhaust fans, which can be ceiling-mounted, wall-mounted, or inline, differing by CFM and noise levels."
+}

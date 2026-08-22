@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-size-exhaust-fan-for-my-bathroom",
+  "name": "How do I choose the right size exhaust fan for my bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right size exhaust fan for my bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To choose the right size exhaust fan, measure your bathroom's square footage. A general rule of thumb is to have at least 1 CFM (cubic feet per minute) of ventilation for every square foot of bathroom area, for rooms up to 100 sq ft. For bathrooms larger than 100 sq ft, specific fixture-based calculations are often used. Factors like ceiling height and the presence of a separate toilet or shower area can also influence the required CFM.",
+        "@type": "Answer",
+        "description": "Select an exhaust fan by calculating your bathroom's square footage; generally, aim for at least 1 CFM per square foot."
+      }
+    }
+  ],
+  "description": "Select an exhaust fan by calculating your bathroom's square footage; generally, aim for at least 1 CFM per square foot."
+}

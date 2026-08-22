@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-waterproofing-for-my-entire-bathroom-or-just-the-shower-area",
+  "name": "Do I need waterproofing for my entire bathroom or just the shower area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need waterproofing for my entire bathroom or just the shower area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The extent of waterproofing depends on the bathroom layout and potential for water exposure. For showers, waterproofing all walls and the floor is essential. For bathrooms with a tub, waterproofing the walls around the tub and the floor is typically sufficient. In some cases, especially with high humidity or frequent splashing, waterproofing the entire bathroom floor, including areas around the vanity and toilet, provides maximum protection against unexpected leaks or overflows.",
+        "@type": "Answer",
+        "description": "Waterproofing is essential for shower areas. For tubs, walls and the floor are critical. In some cases, the entire bathroom floor offers maximum protection."
+      }
+    }
+  ],
+  "description": "Waterproofing is essential for shower areas. For tubs, walls and the floor are critical. In some cases, the entire bathroom floor offers maximum protection."
+}

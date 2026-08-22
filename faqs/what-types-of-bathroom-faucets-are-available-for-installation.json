@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-bathroom-faucets-are-available-for-installation",
+  "name": "What types of bathroom faucets are available for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of bathroom faucets are available for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are several common types of bathroom faucets, each with different installation considerations. Single-hole faucets combine the spout and handles into one unit. Centerset faucets have handles and spout mounted on a single base plate. Widespread faucets feature separate components for the hot and cold handles and the spout. Wall-mounted faucets require plumbing within the wall, offering a clean counter look. Bridge faucets connect the hot and cold water supplies through a visible bridge. Understanding these types helps determine compatibility with your existing sink or if a new sink is needed.",
+        "@type": "Answer",
+        "description": "Common types include single-hole, centerset, widespread, wall-mounted, and bridge faucets. Each type has specific installation requirements."
+      }
+    }
+  ],
+  "description": "Common types include single-hole, centerset, widespread, wall-mounted, and bridge faucets. Each type has specific installation requirements."
+}

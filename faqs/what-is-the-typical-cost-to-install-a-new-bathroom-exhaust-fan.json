@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-to-install-a-new-bathroom-exhaust-fan",
+  "name": "What is the typical cost to install a new bathroom exhaust fan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to install a new bathroom exhaust fan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to install a new bathroom exhaust fan can vary based on several factors, including the type of fan, the complexity of the installation, and whether new ductwork or electrical wiring is required. Basic replacements might cost less, while installing a new fan where none existed before, or upgrading to a more powerful or feature-rich model, will incur higher costs due to additional labor and materials. We provide detailed estimates after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Installation costs for bathroom exhaust fans vary based on fan type, installation complexity, and whether new ductwork or wiring is needed."
+      }
+    }
+  ],
+  "description": "Installation costs for bathroom exhaust fans vary based on fan type, installation complexity, and whether new ductwork or wiring is needed."
+}

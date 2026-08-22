@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-bathroom-fixtures-can-city-dweller-install",
+  "name": "What types of bathroom fixtures can City Dweller install?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of bathroom fixtures can City Dweller install?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller installs a wide range of bathroom fixtures, including sinks, faucets, toilets, showers, bathtubs, and showerheads. We also handle the installation of accessories like towel bars, grab bars, and medicine cabinets. Our services cover various styles and brands, ensuring compatibility with your existing plumbing and design preferences. Whether you're upgrading a single fixture or undertaking a full bathroom renovation, we provide professional installation to ensure proper function and a watertight seal.",
+        "@type": "Answer",
+        "description": "City Dweller installs sinks, faucets, toilets, showers, bathtubs, and accessories, covering various styles and brands."
+      }
+    }
+  ],
+  "description": "City Dweller installs sinks, faucets, toilets, showers, bathtubs, and accessories, covering various styles and brands."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-installing-bathroom-molding",
+  "name": "What is the process for installing bathroom molding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing bathroom molding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an initial consultation to discuss your design preferences, material choices, and take precise measurements. Once materials are selected, our team prepares the area, which may include removing old molding and preparing surfaces. We then meticulously cut and fit the new molding pieces, ensuring tight seams and a seamless appearance. After installation, the molding is typically caulked, filled, and primed, ready for its final paint finish. We handle all aspects of the installation, ensuring a clean and professional result.",
+        "@type": "Answer",
+        "description": "The process involves consultation, material selection, site preparation, precise cutting and fitting, and finishing touches like caulking and priming."
+      }
+    }
+  ],
+  "description": "The process involves consultation, material selection, site preparation, precise cutting and fitting, and finishing touches like caulking and priming."
+}

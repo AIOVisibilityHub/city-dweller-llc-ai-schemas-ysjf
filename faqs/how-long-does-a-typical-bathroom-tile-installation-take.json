@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-bathroom-tile-installation-take",
+  "name": "How long does a typical bathroom tile installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bathroom tile installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a bathroom tile installation varies depending on the size of the bathroom, the complexity of the design, and the type of tile being installed. Generally, a standard bathroom remodel involving tiling floors and possibly some walls can take anywhere from three to seven days. This includes preparation work like subfloor inspection and waterproofing, tile setting, grout application, and curing time. Larger or more intricate projects, such as custom shower designs or mosaic work, will naturally require more time.",
+        "@type": "Answer",
+        "description": "A typical bathroom tile installation usually takes three to seven days, depending on the bathroom size, design complexity, and tile type."
+      }
+    }
+  ],
+  "description": "A typical bathroom tile installation usually takes three to seven days, depending on the bathroom size, design complexity, and tile type."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-a-single-handle-and-a-double-handle-bathroom-fauc",
+  "name": "What is the difference between a single-handle and a double-handle bathroom faucet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a single-handle and a double-handle bathroom faucet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary difference between single-handle and double-handle bathroom faucets lies in their operation and appearance. A single-handle faucet uses one lever or knob to control both water temperature and flow, offering convenience and a minimalist look. A double-handle faucet features separate handles for hot and cold water, allowing for more precise temperature adjustment and often contributing to a more traditional or classic aesthetic. Both types are widely available and their choice often comes down to personal preference, existing sink holes, and design consistency with other bathroom fixtures.",
+        "@type": "Answer",
+        "description": "Single-handle faucets use one lever for temperature and flow, while double-handle faucets have separate controls for hot and cold water, offering different aesthetics and control."
+      }
+    }
+  ],
+  "description": "Single-handle faucets use one lever for temperature and flow, while double-handle faucets have separate controls for hot and cold water, offering different aest"
+}

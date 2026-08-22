@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-vanity-countertops-are-available",
+  "name": "What types of vanity countertops are available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of vanity countertops are available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common vanity countertop materials include granite, quartz, marble, laminate, and solid surface. Granite and marble offer natural stone aesthetics with unique patterns but require sealing. Quartz is engineered, durable, and low-maintenance. Laminate is a budget-friendly option with many design choices. Solid surface materials provide a seamless look and are easy to repair. Each material has distinct properties regarding durability, maintenance, and appearance, allowing selection based on budget and desired style.",
+        "@type": "Answer",
+        "description": "Vanity countertops come in granite, quartz, marble, laminate, and solid surface, each offering different durability, maintenance, and aesthetic qualities."
+      }
+    }
+  ],
+  "description": "Vanity countertops come in granite, quartz, marble, laminate, and solid surface, each offering different durability, maintenance, and aesthetic qualities."
+}

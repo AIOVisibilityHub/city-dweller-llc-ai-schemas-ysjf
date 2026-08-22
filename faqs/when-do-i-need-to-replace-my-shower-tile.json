@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-do-i-need-to-replace-my-shower-tile",
+  "name": "When do I need to replace my shower tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to replace my shower tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your shower tile if you notice signs of damage, such as cracked, loose, or missing tiles, which can indicate underlying moisture issues. Discoloration, persistent mold growth, or a continuously damp smell are also strong indicators of water penetration or failing waterproofing. Beyond damage, many homeowners opt to replace shower tile during a bathroom remodel to update aesthetics, improve functionality, or enhance property value. Addressing issues promptly prevents more extensive and costly repairs down the line.",
+        "@type": "Answer",
+        "description": "Replace shower tile if you see cracks, loose tiles, persistent mold, or dampness, indicating water damage. Consider replacement also for aesthetic updates during remodels."
+      }
+    }
+  ],
+  "description": "Replace shower tile if you see cracks, loose tiles, persistent mold, or dampness, indicating water damage. Consider replacement also for aesthetic updates durin"
+}

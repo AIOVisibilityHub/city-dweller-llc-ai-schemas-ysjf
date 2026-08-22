@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-wood-finishes-are-best-for-a-bathroom",
+  "name": "What types of wood finishes are best for a bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of wood finishes are best for a bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For bathroom finish carpentry, durability and moisture resistance are key. Popular choices include semi-gloss or high-gloss paints, which create a hard, protective barrier that is easy to clean and repels moisture. For stained wood, a marine-grade varnish or a high-quality polyurethane sealant provides excellent protection against humidity and water splashes. Engineered woods with water-resistant coatings, such as medium-density fiberboard (MDF) with a laminate finish, are also suitable for vanity construction. Avoid unfinished or oil-based finishes, as they offer less protection in a high-moisture environment.",
+        "@type": "Answer",
+        "description": "For bathrooms, durable and moisture-resistant finishes like semi-gloss paints, marine-grade varnishes, or high-quality polyurethane sealants are best for wood."
+      }
+    }
+  ],
+  "description": "For bathrooms, durable and moisture-resistant finishes like semi-gloss paints, marine-grade varnishes, or high-quality polyurethane sealants are best for wood."
+}

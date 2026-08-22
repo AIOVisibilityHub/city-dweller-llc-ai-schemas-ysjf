@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-contractor-to-replace-a-bathroom-vanity",
+  "name": "Do I need a contractor to replace a bathroom vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a contractor to replace a bathroom vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While some homeowners may attempt a DIY vanity replacement, hiring a contractor is often recommended, especially if plumbing modifications, electrical work, or structural adjustments are needed. Contractors ensure proper installation, address any unforeseen issues, and can manage waste disposal. For homeowners in areas like Pacifica or Daly City, a local general contractor familiar with regional building codes can streamline the process and ensure compliance, preventing potential problems down the line. This ensures a professional finish and proper functionality.",
+        "@type": "Answer",
+        "description": "A contractor is recommended for vanity replacement, especially with plumbing or structural changes, to ensure proper installation and compliance with local building codes."
+      }
+    }
+  ],
+  "description": "A contractor is recommended for vanity replacement, especially with plumbing or structural changes, to ensure proper installation and compliance with local buil"
+}

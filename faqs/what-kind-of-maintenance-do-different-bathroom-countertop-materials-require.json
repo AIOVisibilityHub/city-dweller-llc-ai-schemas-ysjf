@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-maintenance-do-different-bathroom-countertop-materials-require",
+  "name": "What kind of maintenance do different bathroom countertop materials require?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance do different bathroom countertop materials require?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance requirements vary significantly by material. Quartz is highly non-porous and requires minimal maintenance, typically just wiping with soap and water. Granite and marble, as natural stones, are porous and require periodic sealing (usually annually) to prevent staining and etching; they also need gentle, pH-neutral cleaners. Solid surface countertops are easy to clean and can often be repaired if scratched, requiring standard non-abrasive cleaning.",
+        "@type": "Answer",
+        "description": "Quartz requires minimal maintenance. Granite and marble need periodic sealing and gentle cleaners. Solid surface countertops are easy to clean and repairable."
+      }
+    }
+  ],
+  "description": "Quartz requires minimal maintenance. Granite and marble need periodic sealing and gentle cleaners. Solid surface countertops are easy to clean and repairable."
+}

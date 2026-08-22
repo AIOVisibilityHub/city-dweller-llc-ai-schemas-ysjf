@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-install-or-replace-a-bathroom-exhaust-fan",
+  "name": "How long does it take to install or replace a bathroom exhaust fan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install or replace a bathroom exhaust fan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to install or replace a bathroom exhaust fan typically ranges from a few hours to a full day, depending on the project's complexity. A simple fan replacement in an existing duct and wiring setup is quicker. However, if new ductwork needs to be routed, new electrical wiring run, or structural modifications made, the process will take longer. We aim to complete projects efficiently while ensuring quality and proper functionality.",
+        "@type": "Answer",
+        "description": "Installation or replacement of a bathroom exhaust fan can take a few hours to a full day, depending on project complexity."
+      }
+    }
+  ],
+  "description": "Installation or replacement of a bathroom exhaust fan can take a few hours to a full day, depending on project complexity."
+}

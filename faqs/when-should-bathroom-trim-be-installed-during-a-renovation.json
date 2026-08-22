@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-bathroom-trim-be-installed-during-a-renovation",
+  "name": "When should bathroom trim be installed during a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should bathroom trim be installed during a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathroom trim, such as baseboards, crown molding, and window/door casings, is typically installed towards the end of a renovation project. This usually occurs after walls are painted, flooring is laid, and fixtures are in place but before final touch-ups. Installing trim at this stage prevents damage during other construction activities and allows for a clean finish against new surfaces. This sequence helps protect the trim and ensures a precise fit.",
+        "@type": "Answer",
+        "description": "Bathroom trim is typically installed towards the end of a renovation, after painting and flooring but before final touch-ups."
+      }
+    }
+  ],
+  "description": "Bathroom trim is typically installed towards the end of a renovation, after painting and flooring but before final touch-ups."
+}

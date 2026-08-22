@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-install-new-tiles-over-existing-bathroom-wall-tiles",
+  "name": "Can I install new tiles over existing bathroom wall tiles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install new tiles over existing bathroom wall tiles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing new tiles over existing ones is generally not recommended for bathroom walls, especially in wet areas. While technically possible in some scenarios, it adds significant weight to the wall structure, which could lead to issues. More importantly, if the original tiles have underlying moisture problems, cracks, or are poorly bonded, tiling over them will likely exacerbate these issues, leading to premature failure of the new installation. The best practice is always to remove old tiles and ensure the substrate is sound and properly prepared for a long-lasting, waterproof installation.",
+        "@type": "Answer",
+        "description": "Installing new tiles over existing ones on bathroom walls is generally not recommended due to added weight and potential underlying issues. Removing old tiles ensures a sound substrate and a durable new installation."
+      }
+    }
+  ],
+  "description": "Installing new tiles over existing ones on bathroom walls is generally not recommended due to added weight and potential underlying issues. Removing old tiles e"
+}

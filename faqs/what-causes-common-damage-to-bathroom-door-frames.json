@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-common-damage-to-bathroom-door-frames",
+  "name": "What causes common damage to bathroom door frames?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes common damage to bathroom door frames?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathroom door frames frequently suffer damage primarily due to moisture exposure. High humidity from showers and baths can lead to wood rot, swelling, and warping. Physical impact, such as slamming doors, also contributes to wear and tear, causing cracks, splintering, or loosened joints. Additionally, pests like termites can infest and weaken the frame structure, often going unnoticed until significant damage occurs. Proper ventilation and timely repairs are crucial to mitigate these issues.",
+        "@type": "Answer",
+        "description": "Common damage includes wood rot, swelling, warping from moisture, physical impact, and pest infestations like termites."
+      }
+    }
+  ],
+  "description": "Common damage includes wood rot, swelling, warping from moisture, physical impact, and pest infestations like termites."
+}

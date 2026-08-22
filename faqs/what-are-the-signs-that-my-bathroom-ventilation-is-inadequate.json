@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-signs-that-my-bathroom-ventilation-is-inadequate",
+  "name": "What are the signs that my bathroom ventilation is inadequate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my bathroom ventilation is inadequate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of inadequate bathroom ventilation include persistent foggy mirrors after a shower, peeling paint or wallpaper, visible mold or mildew on walls or ceilings, and a lingering musty odor. Excessive condensation on windows or cold surfaces, and prolonged dampness of towels or surfaces, also indicate a ventilation issue that needs addressing to prevent further damage and unhealthy conditions.",
+        "@type": "Answer",
+        "description": "Signs of poor ventilation include foggy mirrors, peeling paint, visible mold, lingering odors, and excessive condensation."
+      }
+    }
+  ],
+  "description": "Signs of poor ventilation include foggy mirrors, peeling paint, visible mold, lingering odors, and excessive condensation."
+}

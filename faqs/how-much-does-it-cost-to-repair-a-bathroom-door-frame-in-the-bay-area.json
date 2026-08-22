@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-repair-a-bathroom-door-frame-in-the-bay-area",
+  "name": "How much does it cost to repair a bathroom door frame in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair a bathroom door frame in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a bathroom door frame in the Bay Area varies significantly based on the extent of the damage, the type of repair needed, and material costs. Minor cosmetic repairs, like patching small cracks, might be a few hundred dollars. More extensive repairs involving wood rot removal and replacement of sections can range from $500 to $1,500 or more. Labor rates in the Bay Area also influence the overall cost. It's best to get a detailed quote after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Costs vary widely in the Bay Area, from a few hundred dollars for minor repairs to over $1,500 for extensive rot and section replacement."
+      }
+    }
+  ],
+  "description": "Costs vary widely in the Bay Area, from a few hundred dollars for minor repairs to over $1,500 for extensive rot and section replacement."
+}

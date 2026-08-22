@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-replace-a-bathroom-floor",
+  "name": "How long does it take to replace a bathroom floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace a bathroom floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a bathroom floor replacement typically ranges from 2 to 5 days, depending on several factors. These include the size of the bathroom, the type of flooring being installed, and the amount of preparation needed. For example, removing old flooring, repairing a subfloor, or allowing time for thin-set mortar or grout to cure can add to the duration. More complex patterns or materials like natural stone might also require more time than simpler vinyl installations. Your contractor can provide a more accurate schedule after assessing your specific project.",
+        "@type": "Answer",
+        "description": "Bathroom floor replacement usually takes 2 to 5 days, influenced by bathroom size, flooring type, and necessary subfloor preparation."
+      }
+    }
+  ],
+  "description": "Bathroom floor replacement usually takes 2 to 5 days, influenced by bathroom size, flooring type, and necessary subfloor preparation."
+}

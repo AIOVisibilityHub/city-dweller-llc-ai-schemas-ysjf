@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-choose-a-single-or-double-sink-vanity",
+  "name": "Should I choose a single or double sink vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose a single or double sink vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice between a single or double sink vanity depends primarily on bathroom size and user needs. Double sinks are ideal for larger master bathrooms shared by two people, providing individual space and reducing morning congestion. However, they require more counter space and can increase plumbing complexity. Single sink vanities are suitable for smaller bathrooms, guest bathrooms, or situations where counter space is prioritized over multiple sinks. Consider your daily routine and available space when making this decision.",
+        "@type": "Answer",
+        "description": "Choose a double sink for shared master bathrooms with ample space, or a single sink for smaller bathrooms or when counter space is a priority."
+      }
+    }
+  ],
+  "description": "Choose a double sink for shared master bathrooms with ample space, or a single sink for smaller bathrooms or when counter space is a priority."
+}

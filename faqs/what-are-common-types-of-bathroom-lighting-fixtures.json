@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-types-of-bathroom-lighting-fixtures",
+  "name": "What are common types of bathroom lighting fixtures?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common types of bathroom lighting fixtures?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common bathroom lighting fixtures include vanity lights for task illumination around mirrors, recessed lights for general ambient lighting, and shower lights for wet areas. Accent lighting, such as toe-kick or niche lighting, can also be added for aesthetic purposes. The best choice depends on the bathroom's size, design, and specific lighting needs.",
+        "@type": "Answer",
+        "description": "Common types include vanity lights, recessed lights, and shower lights, each serving different functions like task, ambient, or accent lighting."
+      }
+    }
+  ],
+  "description": "Common types include vanity lights, recessed lights, and shower lights, each serving different functions like task, ambient, or accent lighting."
+}

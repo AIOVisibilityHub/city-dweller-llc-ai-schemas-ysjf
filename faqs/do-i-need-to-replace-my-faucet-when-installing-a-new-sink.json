@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-replace-my-faucet-when-installing-a-new-sink",
+  "name": "Do I need to replace my faucet when installing a new sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace my faucet when installing a new sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You don't always need to replace your faucet when installing a new sink, but it's often recommended. The decision depends on the condition of your existing faucet, its compatibility with the new sink's drillings (e.g., single-hole, widespread, or centerset), and your aesthetic preferences. If your current faucet is old, corroded, or doesn't match the new sink's style, upgrading it during the sink installation can save on future labor costs. It's more efficient to handle both tasks simultaneously.",
+        "@type": "Answer",
+        "description": "Not always, but often recommended. Consider faucet condition, compatibility with new sink drillings, and aesthetics. Replacing both simultaneously can save labor costs."
+      }
+    }
+  ],
+  "description": "Not always, but often recommended. Consider faucet condition, compatibility with new sink drillings, and aesthetics. Replacing both simultaneously can save labo"
+}

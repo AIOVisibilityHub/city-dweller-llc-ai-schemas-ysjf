@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/does-city-dweller-offer-plumbing-rough-in-services-for-new-bathroom-construction",
+  "name": "Does City Dweller offer plumbing rough-in services for new bathroom construction or remodels?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does City Dweller offer plumbing rough-in services for new bathroom construction or remodels?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, City Dweller provides comprehensive plumbing rough-in services for both new bathroom construction and major remodels. This involves installing all the hidden plumbing lines, drains, and vents behind walls and floors before the finishes are applied. Proper rough-in is crucial for the correct placement and function of all future fixtures. Our experienced team ensures that all rough-in plumbing meets current building codes and prepares your bathroom for final fixture installation.",
+        "@type": "Answer",
+        "description": "Yes, City Dweller offers plumbing rough-in services for new construction and remodels, installing all hidden plumbing lines and ensuring code compliance."
+      }
+    }
+  ],
+  "description": "Yes, City Dweller offers plumbing rough-in services for new construction and remodels, installing all hidden plumbing lines and ensuring code compliance."
+}

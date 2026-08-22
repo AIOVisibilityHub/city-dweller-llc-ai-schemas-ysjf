@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-average-cost-to-replace-a-bathroom-vanity-in-the-bay-area",
+  "name": "What is the average cost to replace a bathroom vanity in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to replace a bathroom vanity in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to replace a bathroom vanity in the Bay Area varies significantly based on several factors. These include the size and style of the vanity, the material quality of the cabinet and countertop, and whether custom fabrication is required. Labor costs for removal and installation also play a role. Generally, expect costs to range from a few hundred dollars for a basic unit to several thousand for high-end, custom installations. A detailed quote is recommended for an accurate estimate.",
+        "@type": "Answer",
+        "description": "Average costs vary widely, from hundreds to several thousand dollars, depending on vanity size, materials, customization, and labor in the Bay Area."
+      }
+    }
+  ],
+  "description": "Average costs vary widely, from hundreds to several thousand dollars, depending on vanity size, materials, customization, and labor in the Bay Area."
+}

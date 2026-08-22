@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-ceramic-and-porcelain-tile-for-showers",
+  "name": "What is the difference between ceramic and porcelain tile for showers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between ceramic and porcelain tile for showers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Both ceramic and porcelain tiles are excellent choices for showers, but they differ primarily in their water absorption rate and durability. Porcelain tile is denser, less porous, and has a significantly lower water absorption rate (less than 0.5%) than ceramic tile, making it more resistant to moisture and suitable for heavy traffic areas. Ceramic tile is generally softer and more affordable, with a higher water absorption rate. While ceramic can be used in showers, porcelain offers superior performance and longevity in wet environments due to its inherent resistance to water penetration.",
+        "@type": "Answer",
+        "description": "Porcelain tile is denser, less porous, and has a lower water absorption rate than ceramic, making it more durable and better for wet shower environments."
+      }
+    }
+  ],
+  "description": "Porcelain tile is denser, less porous, and has a lower water absorption rate than ceramic, making it more durable and better for wet shower environments."
+}

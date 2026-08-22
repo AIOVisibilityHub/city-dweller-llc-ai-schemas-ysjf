@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-permits-for-bathroom-ventilation-improvements-in-the-bay-area",
+  "name": "Do I need permits for bathroom ventilation improvements in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for bathroom ventilation improvements in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For significant bathroom ventilation improvements, such as installing a new exhaust fan where none existed or modifying existing ductwork that affects structural components or fire safety, permits may be required by local building codes in the Bay Area. Simple like-for-like fan replacements might not need a permit. We can help you determine the specific permit requirements for your project in your city and assist with the application process if necessary.",
+        "@type": "Answer",
+        "description": "Permits may be required for significant bathroom ventilation improvements in the Bay Area, especially for new installations or structural changes."
+      }
+    }
+  ],
+  "description": "Permits may be required for significant bathroom ventilation improvements in the Bay Area, especially for new installations or structural changes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-smart-lighting-options-are-available-for-bathrooms",
+  "name": "What smart lighting options are available for bathrooms?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What smart lighting options are available for bathrooms?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Smart lighting options for bathrooms include dimmable fixtures controlled via apps or voice commands, color-changing LEDs to adjust ambiance, and motion-activated lights for convenience and energy savings. Some systems can integrate with smart home hubs to create customized scenes or schedules. These features can enhance comfort, functionality, and energy efficiency in your bathroom.",
+        "@type": "Answer",
+        "description": "Smart lighting offers app/voice control, color-changing LEDs, and motion activation for enhanced convenience, ambiance, and energy efficiency."
+      }
+    }
+  ],
+  "description": "Smart lighting offers app/voice control, color-changing LEDs, and motion activation for enhanced convenience, ambiance, and energy efficiency."
+}

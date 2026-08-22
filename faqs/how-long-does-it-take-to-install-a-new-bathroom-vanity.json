@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-install-a-new-bathroom-vanity",
+  "name": "How long does it take to install a new bathroom vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a new bathroom vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required for a new bathroom vanity installation can vary based on several factors. A straightforward replacement with no plumbing modifications might take a single day. However, if plumbing lines need to be moved, electrical outlets adjusted, or if there's extensive demolition or new tile work involved, the project could extend to two or three days. Custom installations or unforeseen issues can also impact the timeline. It's best to consult with your contractor for a precise estimate.",
+        "@type": "Answer",
+        "description": "Installation time varies: a simple replacement can take one day, while complex jobs with plumbing or electrical modifications may take two to three days or more."
+      }
+    }
+  ],
+  "description": "Installation time varies: a simple replacement can take one day, while complex jobs with plumbing or electrical modifications may take two to three days or more"
+}

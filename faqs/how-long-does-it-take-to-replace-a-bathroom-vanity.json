@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-replace-a-bathroom-vanity",
+  "name": "How long does it take to replace a bathroom vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace a bathroom vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to replace a bathroom vanity can vary based on the complexity of the project. A straightforward replacement with no plumbing modifications might be completed within one day. If the project involves reconfiguring plumbing lines, making significant wall repairs, or installing a custom vanity, it could take two to three days. The overall timeline also depends on the availability of materials and the coordination of trades if other bathroom renovations are occurring simultaneously.",
+        "@type": "Answer",
+        "description": "A basic vanity replacement can take one day, but complex projects with plumbing changes or custom installations may take two to three days."
+      }
+    }
+  ],
+  "description": "A basic vanity replacement can take one day, but complex projects with plumbing changes or custom installations may take two to three days."
+}

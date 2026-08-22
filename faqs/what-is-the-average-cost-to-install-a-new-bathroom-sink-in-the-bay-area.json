@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-average-cost-to-install-a-new-bathroom-sink-in-the-bay-area",
+  "name": "What is the average cost to install a new bathroom sink in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to install a new bathroom sink in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to install a new bathroom sink in the Bay Area varies significantly based on several factors. These include the type and material of the sink itself, whether new plumbing lines need to be run or existing ones modified, and the complexity of the installation (e.g., vessel sinks typically require more precise plumbing than drop-ins). Labor costs also factor in, and these can be higher in the Bay Area due to regional economic conditions. We provide detailed estimates after assessing your specific project requirements.",
+        "@type": "Answer",
+        "description": "Installation costs vary widely based on sink type, plumbing complexity, and Bay Area labor rates. We provide detailed estimates after project assessment."
+      }
+    }
+  ],
+  "description": "Installation costs vary widely based on sink type, plumbing complexity, and Bay Area labor rates. We provide detailed estimates after project assessment."
+}

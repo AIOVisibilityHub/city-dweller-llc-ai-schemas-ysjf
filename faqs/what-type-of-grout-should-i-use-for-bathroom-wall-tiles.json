@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-type-of-grout-should-i-use-for-bathroom-wall-tiles",
+  "name": "What type of grout should I use for bathroom wall tiles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of grout should I use for bathroom wall tiles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For bathroom wall tiles, either sanded or unsanded grout can be used, with the choice depending primarily on the width of the grout lines. Unsanded grout is recommended for grout lines 1/8 inch or narrower, as its fine texture allows it to fill small gaps without clumping. Sanded grout, containing fine sand, provides more strength and is ideal for wider grout lines (typically 1/8 inch and above). Epoxy grout is another option, known for its exceptional stain resistance and impermeability, making it highly durable and suitable for shower areas, though it can be more challenging to work with.",
+        "@type": "Answer",
+        "description": "Use unsanded grout for lines 1/8 inch or narrower, and sanded grout for wider lines. Epoxy grout offers superior stain resistance and impermeability, especially for showers."
+      }
+    }
+  ],
+  "description": "Use unsanded grout for lines 1/8 inch or narrower, and sanded grout for wider lines. Epoxy grout offers superior stain resistance and impermeability, especially"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-is-it-necessary-to-replace-a-bathroom-vanity",
+  "name": "When is it necessary to replace a bathroom vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it necessary to replace a bathroom vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing a bathroom vanity becomes necessary for several reasons. Visible damage like water stains, warped wood, or persistent mold can indicate a need for replacement. Outdated styles that no longer fit the aesthetic of your home are another common reason. Functionality issues, such as sticking drawers, broken hinges, or inadequate storage, also prompt replacement. Finally, if you are undertaking a full bathroom renovation, a new vanity is typically part of the upgrade to ensure a cohesive design and improved utility.",
+        "@type": "Answer",
+        "description": "Replace a vanity when it shows significant damage, is outdated, has functional issues like broken drawers, or during a full bathroom renovation."
+      }
+    }
+  ],
+  "description": "Replace a vanity when it shows significant damage, is outdated, has functional issues like broken drawers, or during a full bathroom renovation."
+}

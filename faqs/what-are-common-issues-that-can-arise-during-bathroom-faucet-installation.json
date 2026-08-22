@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-issues-that-can-arise-during-bathroom-faucet-installation",
+  "name": "What are common issues that can arise during bathroom faucet installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common issues that can arise during bathroom faucet installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several issues can complicate a bathroom faucet installation. Accessing tight spaces under the sink can be challenging, especially for larger hands or with limited clearance. Dealing with old, corroded, or seized nuts and fittings can significantly increase installation time and effort. Existing plumbing may be incompatible with the new faucet, requiring adapters or minor modifications. Leaks, if not properly addressed during testing, can lead to water damage. Incorrectly aligned parts or aesthetic issues can also arise, emphasizing the importance of careful work and proper technique.",
+        "@type": "Answer",
+        "description": "Common issues include tight access, corroded fittings, plumbing incompatibility, potential leaks, and alignment problems."
+      }
+    }
+  ],
+  "description": "Common issues include tight access, corroded fittings, plumbing incompatibility, potential leaks, and alignment problems."
+}

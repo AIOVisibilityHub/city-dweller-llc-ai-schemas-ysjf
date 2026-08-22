@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-range-for-a-new-bathroom-countertop-in-the-bay-area",
+  "name": "What is the typical cost range for a new bathroom countertop in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for a new bathroom countertop in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a new bathroom countertop in the Bay Area varies widely based on material, size, edge profiles, and the complexity of installation. Basic laminate or solid surface options can start lower, while premium granite, quartz, or marble will be significantly higher per square foot. Fabrication, demolition of existing counters, and sink cutouts also impact the final price. We provide detailed estimates after an on-site consultation.",
+        "@type": "Answer",
+        "description": "Bathroom countertop costs in the Bay Area vary by material, size, and complexity. Premium materials like granite or quartz are more expensive than basic options. An on-site consultation provides a detailed estimate."
+      }
+    }
+  ],
+  "description": "Bathroom countertop costs in the Bay Area vary by material, size, and complexity. Premium materials like granite or quartz are more expensive than basic options"
+}

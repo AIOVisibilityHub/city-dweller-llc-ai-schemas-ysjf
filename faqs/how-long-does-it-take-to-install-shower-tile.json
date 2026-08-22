@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-install-shower-tile",
+  "name": "How long does it take to install shower tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install shower tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of shower tile installation typically ranges from 3 to 7 days, though this can vary based on the shower's size, the intricacy of the tile pattern, and the tile material itself. This timeline generally includes demolition, surface preparation, tile setting, grouting, and sealing. It's important to allow adequate drying and curing time between stages to ensure a durable and long-lasting finish. Complex designs or extensive waterproofing can extend the project timeline.",
+        "@type": "Answer",
+        "description": "Shower tile installation usually takes 3-7 days, depending on shower size, tile complexity, and material. This includes prep, setting, grouting, and curing."
+      }
+    }
+  ],
+  "description": "Shower tile installation usually takes 3-7 days, depending on shower size, tile complexity, and material. This includes prep, setting, grouting, and curing."
+}

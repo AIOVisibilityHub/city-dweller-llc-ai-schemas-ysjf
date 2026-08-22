@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-is-the-best-time-to-waterproof-a-bathroom",
+  "name": "When is the best time to waterproof a bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time to waterproof a bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The ideal time to waterproof a bathroom is during initial construction or a major renovation before tiles, fixtures, and finishes are installed. This allows for a thorough application of the waterproofing membrane to all critical areas, ensuring maximum effectiveness and longevity. While it's possible to address localized issues later, comprehensive waterproofing is most effective when done as part of a complete project.",
+        "@type": "Answer",
+        "description": "The best time to waterproof a bathroom is during initial construction or a major renovation before tiles and fixtures are installed."
+      }
+    }
+  ],
+  "description": "The best time to waterproof a bathroom is during initial construction or a major renovation before tiles and fixtures are installed."
+}

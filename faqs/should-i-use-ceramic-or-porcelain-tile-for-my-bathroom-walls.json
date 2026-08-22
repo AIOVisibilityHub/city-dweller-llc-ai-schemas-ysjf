@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-use-ceramic-or-porcelain-tile-for-my-bathroom-walls",
+  "name": "Should I use ceramic or porcelain tile for my bathroom walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I use ceramic or porcelain tile for my bathroom walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Both ceramic and porcelain tiles are excellent choices for bathroom walls, each with distinct characteristics. Porcelain is generally denser, less porous, and more durable than ceramic, making it more resistant to moisture and impacts. This makes porcelain ideal for high-moisture areas like shower interiors. Ceramic tile is often more affordable and easier to cut, offering a wide range of styles. For general bathroom walls outside the immediate shower area, ceramic is very suitable. Your choice may depend on your budget, desired durability, and specific aesthetic preferences.",
+        "@type": "Answer",
+        "description": "Porcelain is denser, less porous, and more durable, ideal for high-moisture areas. Ceramic is often more affordable and easier to cut, suitable for general bathroom walls. The choice depends on budget, durability needs, and style."
+      }
+    }
+  ],
+  "description": "Porcelain is denser, less porous, and more durable, ideal for high-moisture areas. Ceramic is often more affordable and easier to cut, suitable for general bath"
+}

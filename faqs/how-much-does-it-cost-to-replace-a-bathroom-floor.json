@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-replace-a-bathroom-floor",
+  "name": "How much does it cost to replace a bathroom floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to replace a bathroom floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of replacing a bathroom floor varies significantly based on the material chosen, the size of the bathroom, the complexity of the existing subfloor, and labor rates in your area. For a standard-sized bathroom, you might expect costs to range from several hundred dollars for DIY vinyl options to several thousand dollars for professional installation of high-end tile or natural stone. This estimate typically includes demolition, subfloor preparation, new material, and installation. Getting a detailed quote from a local contractor is the best way to understand specific costs for your project.",
+        "@type": "Answer",
+        "description": "Bathroom floor replacement costs vary widely based on material, bathroom size, and labor, ranging from hundreds to thousands of dollars."
+      }
+    }
+  ],
+  "description": "Bathroom floor replacement costs vary widely based on material, bathroom size, and labor, ranging from hundreds to thousands of dollars."
+}
