@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-widen-a-doorway-in-the-bay-area",
+  "name": "How much does it cost to widen a doorway in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to widen a doorway in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to widen a doorway in the Bay Area varies based on several factors, including the type of wall (load-bearing vs. non-load-bearing), the materials needed, electrical or plumbing line relocation, and the required finishes. Simple projects for non-load-bearing walls might start from a certain range, while more complex structural modifications will be higher. We provide detailed estimates after an on-site consultation to accurately assess your specific project requirements.",
+        "@type": "Answer",
+        "description": "Costs for doorway widening in the Bay Area depend on wall type, materials, potential utility relocation, and finishes. Estimates are provided after an on-site consultation."
+      }
+    }
+  ],
+  "description": "Costs for doorway widening in the Bay Area depend on wall type, materials, potential utility relocation, and finishes. Estimates are provided after an on-site c"
+}

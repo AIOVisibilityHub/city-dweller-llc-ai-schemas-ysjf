@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-exterior-lighting-improve-my-home-s-security",
+  "name": "Can exterior lighting improve my home's security?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can exterior lighting improve my home's security?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, exterior lighting is a highly effective way to enhance your home's security. Well-placed security lights, especially those with motion sensors, can deter potential intruders by illuminating dark areas and unexpected movement. Bright lighting around entry points, pathways, and vulnerable spots makes it difficult for someone to approach unnoticed. Consistent and adequate lighting also increases visibility for residents and neighbors, creating a safer environment around your property at night.",
+        "@type": "Answer",
+        "description": "Exterior lighting significantly improves home security by deterring intruders with illumination and motion-activated lights, increasing visibility around vulnerable areas."
+      }
+    }
+  ],
+  "description": "Exterior lighting significantly improves home security by deterring intruders with illumination and motion-activated lights, increasing visibility around vulner"
+}

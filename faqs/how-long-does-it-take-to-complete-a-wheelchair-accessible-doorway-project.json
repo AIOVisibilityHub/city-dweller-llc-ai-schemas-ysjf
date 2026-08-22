@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-complete-a-wheelchair-accessible-doorway-project",
+  "name": "How long does it take to complete a wheelchair accessible doorway project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete a wheelchair accessible doorway project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a wheelchair accessible doorway project can vary based on its complexity. A simple widening of a non-load-bearing wall might take a few days. Projects involving structural changes, permit acquisition, and extensive finishing work could take several weeks. We provide a detailed timeline after assessing the scope of your specific project.",
+        "@type": "Answer",
+        "description": "Project duration varies; simple widening can take days, while complex structural changes and permits may extend to several weeks."
+      }
+    }
+  ],
+  "description": "Project duration varies; simple widening can take days, while complex structural changes and permits may extend to several weeks."
+}

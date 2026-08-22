@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-prevent-trip-hazards-from-forming-in-the-future",
+  "name": "How can I prevent trip hazards from forming in the future?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent trip hazards from forming in the future?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing trip hazards involves addressing their root causes. Proper site preparation and compaction before installation are crucial for new concrete or paved surfaces. Regular inspection and maintenance can catch small issues before they worsen. Ensuring proper drainage away from paved areas helps prevent soil erosion. Choosing appropriate landscaping, such as root-friendly tree species away from pathways, can mitigate issues from tree growth. Prompt repair of minor cracks can also prevent water intrusion and further damage.",
+        "@type": "Answer",
+        "description": "Prevent future trip hazards by ensuring proper site preparation, performing regular maintenance, improving drainage, choosing appropriate landscaping, and promptly repairing small cracks."
+      }
+    }
+  ],
+  "description": "Prevent future trip hazards by ensuring proper site preparation, performing regular maintenance, improving drainage, choosing appropriate landscaping, and promp"
+}

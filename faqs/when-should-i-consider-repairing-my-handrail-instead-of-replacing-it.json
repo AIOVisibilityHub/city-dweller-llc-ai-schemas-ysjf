@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-repairing-my-handrail-instead-of-replacing-it",
+  "name": "When should I consider repairing my handrail instead of replacing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider repairing my handrail instead of replacing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a handrail is often more cost-effective than full replacement if the damage is localized and the structural integrity is still sound. Minor issues like loose fasteners, small cracks, or surface rust are typically repairable. Replacement is usually necessary when there is extensive structural damage, severe rot, or multiple broken components that compromise safety.",
+        "@type": "Answer",
+        "description": "Consider repair for localized damage with sound structural integrity; replace for extensive structural damage or severe rot."
+      }
+    }
+  ],
+  "description": "Consider repair for localized damage with sound structural integrity; replace for extensive structural damage or severe rot."
+}

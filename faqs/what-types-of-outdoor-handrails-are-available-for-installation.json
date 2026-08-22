@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-outdoor-handrails-are-available-for-installation",
+  "name": "What types of outdoor handrails are available for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of outdoor handrails are available for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common outdoor handrail materials include aluminum, steel, wrought iron, and composite. Aluminum is popular for its low maintenance and rust resistance. Steel offers strength and durability, often with a powder-coated finish for protection. Wrought iron provides a classic, decorative look but requires more maintenance to prevent rust. Composite materials are gaining popularity for their wood-like appearance without the need for painting or staining, offering good weather resistance. Each material has distinct aesthetic and functional properties to suit different architectural styles and budget requirements.",
+        "@type": "Answer",
+        "description": "Outdoor handrails are commonly made from aluminum, steel, wrought iron, or composite materials, each offering different aesthetics, durability, and maintenance needs."
+      }
+    }
+  ],
+  "description": "Outdoor handrails are commonly made from aluminum, steel, wrought iron, or composite materials, each offering different aesthetics, durability, and maintenance"
+}

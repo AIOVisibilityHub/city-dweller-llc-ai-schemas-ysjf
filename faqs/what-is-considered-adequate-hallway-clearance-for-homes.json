@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-considered-adequate-hallway-clearance-for-homes",
+  "name": "What is considered adequate hallway clearance for homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered adequate hallway clearance for homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adequate hallway clearance typically refers to the width and height of a hallway that allows for comfortable passage and movement of furniture. For residential buildings, a minimum clear width of 36 inches is often recommended, though some accessibility standards may suggest wider dimensions. Ensuring sufficient height, free from low-hanging fixtures, is also important. These standards help improve safety, accessibility, and the overall functionality of your living space, especially in older homes or during renovations.",
+        "@type": "Answer",
+        "description": "Adequate hallway clearance generally means a minimum clear width of 36 inches, allowing for comfortable passage and furniture movement."
+      }
+    }
+  ],
+  "description": "Adequate hallway clearance generally means a minimum clear width of 36 inches, allowing for comfortable passage and furniture movement."
+}

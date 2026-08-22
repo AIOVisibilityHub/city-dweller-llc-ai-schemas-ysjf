@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-removing-an-old-door-threshold",
+  "name": "What is the process for removing an old door threshold?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for removing an old door threshold?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for removing an old door threshold typically involves carefully prying it up from the subfloor, often using a pry bar and hammer. For thresholds that are glued or nailed down, additional tools may be needed to loosen them without damaging the surrounding floor or door frame. If the threshold is integrated with the door frame, some cutting might be required. Once removed, the area is cleaned, and any remaining adhesive or nails are cleared to prepare for a new threshold installation or to create a smooth transition.",
+        "@type": "Answer",
+        "description": "Removing a door threshold involves carefully prying it up, often requiring tools to loosen glued or nailed sections, and then cleaning the area."
+      }
+    }
+  ],
+  "description": "Removing a door threshold involves carefully prying it up, often requiring tools to loosen glued or nailed sections, and then cleaning the area."
+}

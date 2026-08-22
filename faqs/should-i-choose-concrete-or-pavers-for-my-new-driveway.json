@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-choose-concrete-or-pavers-for-my-new-driveway",
+  "name": "Should I choose concrete or pavers for my new driveway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose concrete or pavers for my new driveway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice between concrete and pavers depends on your priorities. Concrete offers a smooth, durable surface and is generally more cost-effective upfront for large areas. It requires less maintenance but can be prone to cracking over time. Pavers provide a more aesthetic and customizable look, with a wider range of colors and patterns. They are also more flexible, resisting cracking, and individual units can be easily replaced if damaged, though they typically have a higher initial cost.",
+        "@type": "Answer",
+        "description": "Concrete is durable and cost-effective but can crack; pavers offer aesthetics, flexibility, and easy repair but have a higher initial cost."
+      }
+    }
+  ],
+  "description": "Concrete is durable and cost-effective but can crack; pavers offer aesthetics, flexibility, and easy repair but have a higher initial cost."
+}

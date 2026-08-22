@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-door-threshold-and-why-might-it-need-to-be-removed",
+  "name": "What is a door threshold and why might it need to be removed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a door threshold and why might it need to be removed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A door threshold is the strip located at the bottom of a door frame, typically covering the joint between two different flooring materials or sealing the bottom of an exterior door. Thresholds prevent drafts, moisture, and pests from entering. Reasons for removal can include floor replacement, creating a seamless transition for accessibility, repairing damage, or updating the door frame's appearance. Professional removal ensures the surrounding flooring and door frame are not damaged, and proper reinstallation or finishing is achieved.",
+        "@type": "Answer",
+        "description": "A door threshold is a strip at the bottom of a door frame; it might be removed for floor replacement, accessibility, or repair."
+      }
+    }
+  ],
+  "description": "A door threshold is a strip at the bottom of a door frame; it might be removed for floor replacement, accessibility, or repair."
+}

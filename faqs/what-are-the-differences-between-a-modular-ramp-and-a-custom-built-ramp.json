@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-differences-between-a-modular-ramp-and-a-custom-built-ramp",
+  "name": "What are the differences between a modular ramp and a custom-built ramp?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the differences between a modular ramp and a custom-built ramp?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Modular ramps are prefabricated, often made from aluminum, and can be assembled quickly without permanent attachment. They are flexible, reusable, and good for temporary or short-term needs. Custom-built ramps, typically made from wood or concrete, are designed to seamlessly integrate with your home's aesthetic and permanent structure. They offer durability and a tailored appearance but require more time for construction and installation.",
+        "@type": "Answer",
+        "description": "Modular ramps are pre-made for quick installation, while custom ramps are built on-site to match your home permanently."
+      }
+    }
+  ],
+  "description": "Modular ramps are pre-made for quick installation, while custom ramps are built on-site to match your home permanently."
+}

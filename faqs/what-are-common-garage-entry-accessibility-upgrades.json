@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-garage-entry-accessibility-upgrades",
+  "name": "What are common garage entry accessibility upgrades?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common garage entry accessibility upgrades?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common garage entry accessibility upgrades enhance safety and ease of use. These often include installing automatic door openers with remote or smart controls, widening doorways for wheelchair access, and replacing steps with ramps. Other improvements might involve adding grab bars, improving lighting, or integrating non-slip flooring materials. These modifications help create a safer and more convenient entry point for everyone, particularly those with mobility challenges.",
+        "@type": "Answer",
+        "description": "Common upgrades include automatic door openers, wider doorways, ramps, grab bars, and improved lighting for safer garage access."
+      }
+    }
+  ],
+  "description": "Common upgrades include automatic door openers, wider doorways, ramps, grab bars, and improved lighting for safer garage access."
+}

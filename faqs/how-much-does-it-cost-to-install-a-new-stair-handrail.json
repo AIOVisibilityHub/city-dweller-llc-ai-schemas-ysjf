@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-install-a-new-stair-handrail",
+  "name": "How much does it cost to install a new stair handrail?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install a new stair handrail?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of installing a new stair handrail varies significantly based on factors such as material choice, length of the staircase, complexity of the design, and labor rates. Custom designs, premium materials like wrought iron or exotic woods, and intricate baluster work will increase the overall price. Simple wooden handrails with standard balusters will be on the lower end. We provide detailed estimates after an on-site consultation to accurately assess your specific project needs.",
+        "@type": "Answer",
+        "description": "Handrail installation costs vary by material, staircase length, and design complexity. We offer detailed estimates after a consultation."
+      }
+    }
+  ],
+  "description": "Handrail installation costs vary by material, staircase length, and design complexity. We offer detailed estimates after a consultation."
+}

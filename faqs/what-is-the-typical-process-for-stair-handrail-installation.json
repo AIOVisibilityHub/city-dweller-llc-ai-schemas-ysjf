@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-stair-handrail-installation",
+  "name": "What is the typical process for stair handrail installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for stair handrail installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process typically begins with a consultation and measurement to understand your needs and staircase dimensions. Next, we help you select materials and design options. Once materials are ordered, the old handrail (if applicable) is removed, and mounting points are prepared. The new handrail and balusters are then installed, ensuring they are level, secure, and meet all code requirements. The final step involves finishing touches like sanding, staining, or painting.",
+        "@type": "Answer",
+        "description": "The installation process involves consultation, measurement, material selection, removal of old handrail, new handrail installation, and finishing touches."
+      }
+    }
+  ],
+  "description": "The installation process involves consultation, measurement, material selection, removal of old handrail, new handrail installation, and finishing touches."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-repair-methods-are-available-for-concrete-trip-hazards",
+  "name": "What repair methods are available for concrete trip hazards?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What repair methods are available for concrete trip hazards?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common methods for repairing concrete trip hazards include grinding, concrete leveling (slab jacking or poly jacking), and patching. Grinding involves using a specialized machine to shave down the higher concrete slab to match the lower one, eliminating the vertical displacement. Concrete leveling injects material (mud or polyurethane foam) beneath the slab to raise it back to an even height. Patching uses new concrete or repair compounds for smaller cracks and spalling. The best method depends on the specific issue and desired outcome.",
+        "@type": "Answer",
+        "description": "Concrete trip hazards can be repaired by grinding down uneven sections, using concrete leveling (slab jacking) to raise sunken slabs, or patching cracks and spalling."
+      }
+    }
+  ],
+  "description": "Concrete trip hazards can be repaired by grinding down uneven sections, using concrete leveling (slab jacking) to raise sunken slabs, or patching cracks and spa"
+}

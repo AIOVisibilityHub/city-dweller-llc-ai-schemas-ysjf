@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-clear-opening-width-is-recommended-for-accessible-interior-doorways",
+  "name": "What clear opening width is recommended for accessible interior doorways?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What clear opening width is recommended for accessible interior doorways?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For optimal accessibility, a clear opening width of at least 32 inches is generally recommended, although 36 inches is often preferred for more comfortable passage, especially with larger wheelchairs or mobility scooters. This clear opening is measured from the face of the door to the door stop when the door is open 90 degrees. City Dweller, LLC can assess your specific needs and recommend the most suitable clear width for your home.",
+        "@type": "Answer",
+        "description": "A clear opening of at least 32 inches is recommended for accessible doorways, with 36 inches often preferred for comfort."
+      }
+    }
+  ],
+  "description": "A clear opening of at least 32 inches is recommended for accessible doorways, with 36 inches often preferred for comfort."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-widening-a-doorway-in-my-home",
+  "name": "What is the process for widening a doorway in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for widening a doorway in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with an on-site assessment to determine if the wall is load-bearing and identify any electrical, plumbing, or HVAC lines. For non-load-bearing walls, the existing door frame and surrounding drywall are removed, the opening is expanded, and new framing is installed. For load-bearing walls, temporary supports are erected, and a new header is installed to redistribute the load. Finally, new drywall, trim, and paint are applied to match the existing interior.",
+        "@type": "Answer",
+        "description": "The process involves an assessment, removal of existing frame, expansion of the opening with new framing, and finishing with drywall and paint. Load-bearing walls require structural support."
+      }
+    }
+  ],
+  "description": "The process involves an assessment, removal of existing frame, expansion of the opening with new framing, and finishing with drywall and paint. Load-bearing wal"
+}

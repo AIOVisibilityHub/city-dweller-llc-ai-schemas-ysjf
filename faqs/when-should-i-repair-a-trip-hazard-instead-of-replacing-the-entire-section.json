@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-repair-a-trip-hazard-instead-of-replacing-the-entire-section",
+  "name": "When should I repair a trip hazard instead of replacing the entire section?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair a trip hazard instead of replacing the entire section?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair versus replace depends on the extent of the damage, the underlying cause, and the overall condition of the surrounding area. Minor issues like small cracks, spalling, or slight unevenness might be suitable for localized repair methods such as grinding, patching, or concrete leveling. However, if there are widespread cracks, significant subsidence, or severe structural integrity issues, a full replacement of the section is often more cost-effective and provides a longer-lasting solution. A professional assessment can help determine the best approach.",
+        "@type": "Answer",
+        "description": "Repairing is suitable for minor damage like small cracks or slight unevenness. Replacement is better for widespread cracks, significant subsidence, or severe structural issues."
+      }
+    }
+  ],
+  "description": "Repairing is suitable for minor damage like small cracks or slight unevenness. Replacement is better for widespread cracks, significant subsidence, or severe st"
+}

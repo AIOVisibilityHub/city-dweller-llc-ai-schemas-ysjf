@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-consider-when-choosing-a-low-profile-threshold-for-my-home",
+  "name": "What should I consider when choosing a low-profile threshold for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing a low-profile threshold for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a low-profile threshold, consider the type of flooring on both sides of the doorway, the traffic volume, and whether the door is interior or exterior. Material choice (wood, aluminum) should complement your existing decor and withstand the environment. Prioritize accessibility needs if applicable. Also, ensure the threshold height is appropriate for the door swing and any existing door sweep to maintain proper sealing and functionality.",
+        "@type": "Answer",
+        "description": "Consider flooring type, traffic, interior/exterior use, material (wood, aluminum), accessibility, and door swing compatibility."
+      }
+    }
+  ],
+  "description": "Consider flooring type, traffic, interior/exterior use, material (wood, aluminum), accessibility, and door swing compatibility."
+}

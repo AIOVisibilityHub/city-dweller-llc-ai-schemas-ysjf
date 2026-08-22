@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-widen-a-single-doorway",
+  "name": "How long does it take to widen a single doorway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to widen a single doorway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeframe for widening a single doorway can vary depending on its complexity. A straightforward project involving a non-load-bearing wall might take 1-3 days from demolition to finishing, assuming no unexpected issues. If the wall is load-bearing, requires structural engineering, or involves rerouting utilities, the project could extend to 3-7 days or more. We aim to complete projects efficiently while maintaining quality and minimizing disruption to your home.",
+        "@type": "Answer",
+        "description": "Widening a doorway typically takes 1-3 days for non-load-bearing walls and 3-7 days or more for load-bearing walls or those requiring utility rerouting."
+      }
+    }
+  ],
+  "description": "Widening a doorway typically takes 1-3 days for non-load-bearing walls and 3-7 days or more for load-bearing walls or those requiring utility rerouting."
+}

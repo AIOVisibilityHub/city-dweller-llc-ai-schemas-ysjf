@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-permit-to-widen-a-doorway-in-my-bay-area-home",
+  "name": "Do I need a permit to widen a doorway in my Bay Area home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to widen a doorway in my Bay Area home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether a permit is required to widen a doorway depends on the scope of the project and local building codes in Bay Area cities like Pacifica or Daly City. Widening a doorway in a load-bearing wall almost always requires a permit because it involves structural modifications. Even some non-load-bearing wall modifications might require a permit if they affect electrical wiring or plumbing. Our team can help determine permit requirements and assist with the application process.",
+        "@type": "Answer",
+        "description": "A permit is usually needed for widening doorways in load-bearing walls due to structural changes. Some non-load-bearing modifications might also require a permit if utilities are affected."
+      }
+    }
+  ],
+  "description": "A permit is usually needed for widening doorways in load-bearing walls due to structural changes. Some non-load-bearing modifications might also require a permi"
+}

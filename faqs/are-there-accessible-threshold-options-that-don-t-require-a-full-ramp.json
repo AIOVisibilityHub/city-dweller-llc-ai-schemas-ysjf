@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-there-accessible-threshold-options-that-don-t-require-a-full-ramp",
+  "name": "Are there accessible threshold options that don't require a full ramp?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there accessible threshold options that don't require a full ramp?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, there are several accessible threshold options designed to minimize or eliminate tripping hazards without needing a full ramp. These include low-profile thresholds that are very shallow, beveled thresholds that offer a gentle slope, or flush transitions where flooring materials are brought to the same level. These options are ideal for minor height differences or to improve ease of movement for individuals using walkers or wheelchairs over smaller bumps. City Dweller can help you explore suitable low-profile solutions.",
+        "@type": "Answer",
+        "description": "Yes, low-profile, beveled, or flush thresholds can provide accessible transitions for minor height differences without a full ramp."
+      }
+    }
+  ],
+  "description": "Yes, low-profile, beveled, or flush thresholds can provide accessible transitions for minor height differences without a full ramp."
+}

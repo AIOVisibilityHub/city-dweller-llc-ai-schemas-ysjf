@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-for-a-front-entrance-accessibility-upgrade",
+  "name": "What is the typical cost for a front entrance accessibility upgrade?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for a front entrance accessibility upgrade?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a front entrance accessibility upgrade varies significantly based on the scope of work. Simple additions like handrails might be a few hundred dollars, while a custom ramp or doorway modification can range from a few thousand to over ten thousand dollars. Factors influencing cost include materials, labor, existing structural conditions, and any necessary permits. A detailed estimate requires an on-site assessment.",
+        "@type": "Answer",
+        "description": "Costs vary widely, from hundreds for small additions to thousands for ramps or doorway modifications, depending on scope and materials."
+      }
+    }
+  ],
+  "description": "Costs vary widely, from hundreds for small additions to thousands for ramps or doorway modifications, depending on scope and materials."
+}

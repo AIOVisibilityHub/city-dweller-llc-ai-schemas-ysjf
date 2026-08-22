@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-back-entrance-accessibility-upgrades",
+  "name": "What are back entrance accessibility upgrades?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are back entrance accessibility upgrades?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Back entrance accessibility upgrades involve modifying a property's rear entry to ensure it is easily usable by individuals with disabilities or limited mobility. This can include installing ramps, widening doorways, leveling thresholds, and sometimes integrating automated door openers. The goal is to provide safe and convenient access, often as an alternative or complement to front entrance modifications, adhering to accessibility standards for a more inclusive environment.",
+        "@type": "Answer",
+        "description": "Back entrance accessibility upgrades modify rear entries with ramps, wider doorways, or other features to improve access for people with disabilities or limited mobility."
+      }
+    }
+  ],
+  "description": "Back entrance accessibility upgrades modify rear entries with ramps, wider doorways, or other features to improve access for people with disabilities or limited"
+}

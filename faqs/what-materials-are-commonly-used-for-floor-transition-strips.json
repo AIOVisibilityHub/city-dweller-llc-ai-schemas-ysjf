@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-materials-are-commonly-used-for-floor-transition-strips",
+  "name": "What materials are commonly used for floor transition strips?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are commonly used for floor transition strips?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Floor transition strips are available in a variety of materials to match or complement your flooring. Common options include wood (often solid wood or engineered wood to match hardwood floors), laminate, vinyl, aluminum, brass, and plastic. The choice depends on the type of flooring being joined, the desired aesthetic, and the level of durability required for the area.",
+        "@type": "Answer",
+        "description": "Common transition materials include wood, laminate, vinyl, aluminum, brass, and plastic, chosen based on flooring type and desired durability."
+      }
+    }
+  ],
+  "description": "Common transition materials include wood, laminate, vinyl, aluminum, brass, and plastic, chosen based on flooring type and desired durability."
+}

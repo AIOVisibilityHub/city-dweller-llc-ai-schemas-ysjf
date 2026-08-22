@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-using-offset-hinges-and-widening-a-doorway",
+  "name": "What's the difference between using offset hinges and widening a doorway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between using offset hinges and widening a doorway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Offset hinges are a less invasive and often more affordable solution that shifts the door's pivot point, effectively adding 1.5 to 2 inches of clear passage without altering the existing door frame. This can be sufficient for minor clearance issues. Widening a doorway, however, involves structural modifications to the wall and door frame to create a larger opening, providing maximum clear width. The choice depends on the required clearance and budget.",
+        "@type": "Answer",
+        "description": "Offset hinges add a few inches of clearance without structural change, while widening a doorway involves construction for a larger opening."
+      }
+    }
+  ],
+  "description": "Offset hinges add a few inches of clearance without structural change, while widening a doorway involves construction for a larger opening."
+}

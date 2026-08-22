@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-front-entrance-accessibility-upgrades",
+  "name": "What are front entrance accessibility upgrades?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are front entrance accessibility upgrades?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Front entrance accessibility upgrades involve modifying a building's entry points to make them accessible for individuals with disabilities or limited mobility. This can include installing ramps, widening doorways, adding handrails, improving lighting, or integrating automated door openers. The goal is to ensure safe and convenient access for everyone, adhering to design standards that promote independence.",
+        "@type": "Answer",
+        "description": "Front entrance accessibility upgrades modify building entries to make them accessible for individuals with disabilities, including ramps, wider doorways, and handrails."
+      }
+    }
+  ],
+  "description": "Front entrance accessibility upgrades modify building entries to make them accessible for individuals with disabilities, including ramps, wider doorways, and ha"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-install-a-low-profile-threshold-myself-or-should-i-hire-a-professional",
+  "name": "Can I install a low-profile threshold myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a low-profile threshold myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While DIY installation is possible for those with carpentry experience, hiring a professional ensures proper fitting, sealing, and long-term durability. Professionals have the right tools for precise cuts and can handle unexpected issues, such as uneven subfloors or unusual door frame sizes. Incorrect installation can lead to gaps, drafts, water intrusion, or trip hazards, compromising the very benefits of a low-profile threshold.",
+        "@type": "Answer",
+        "description": "Professional installation is recommended for proper fitting, sealing, and durability, preventing issues like gaps or water intrusion."
+      }
+    }
+  ],
+  "description": "Professional installation is recommended for proper fitting, sealing, and durability, preventing issues like gaps or water intrusion."
+}

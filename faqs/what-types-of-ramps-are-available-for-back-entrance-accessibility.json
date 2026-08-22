@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-ramps-are-available-for-back-entrance-accessibility",
+  "name": "What types of ramps are available for back entrance accessibility?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of ramps are available for back entrance accessibility?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Various ramp types are available, each suited for different needs and budgets. Options include portable ramps for temporary solutions, modular ramps that can be configured to various lengths and angles, and custom-built permanent ramps made from wood, concrete, or metal. The best choice depends on factors like the entrance height, available space, desired aesthetic, durability requirements, and local building codes for accessibility.",
+        "@type": "Answer",
+        "description": "Available ramp types include portable, modular, and custom-built permanent ramps (wood, concrete, metal). Selection depends on entrance height, space, aesthetics, durability, and building codes."
+      }
+    }
+  ],
+  "description": "Available ramp types include portable, modular, and custom-built permanent ramps (wood, concrete, metal). Selection depends on entrance height, space, aesthetic"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-low-profile-thresholds-require-special-maintenance",
+  "name": "Do low-profile thresholds require special maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do low-profile thresholds require special maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance for low-profile thresholds is generally minimal. For wood thresholds, regular cleaning and occasional resealing or re-staining might be necessary to protect against wear and moisture. Metal thresholds typically only require routine cleaning with appropriate cleaners to maintain their finish. Inspecting them periodically for any signs of wear, loosening, or damage will help ensure their longevity and continued performance.",
+        "@type": "Answer",
+        "description": "Maintenance is minimal; wood thresholds may need occasional resealing, while metal ones just require routine cleaning."
+      }
+    }
+  ],
+  "description": "Maintenance is minimal; wood thresholds may need occasional resealing, while metal ones just require routine cleaning."
+}

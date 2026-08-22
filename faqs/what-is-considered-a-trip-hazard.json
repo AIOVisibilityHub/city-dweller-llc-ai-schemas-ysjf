@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-considered-a-trip-hazard",
+  "name": "What is considered a trip hazard?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered a trip hazard?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A trip hazard is anything that could cause someone to stumble, fall, or lose their balance, leading to potential injury. Common examples in residential or commercial settings include uneven concrete slabs, cracked pavements, raised tree roots, loose pavers, or significant potholes. Even small differences in elevation, as little as a quarter-inch, can create a dangerous tripping point. Identifying and repairing these hazards is crucial for safety and preventing accidents.",
+        "@type": "Answer",
+        "description": "A trip hazard is anything that can cause a person to stumble or fall, such as uneven concrete, cracks, or raised sections. Even small elevation differences can be dangerous."
+      }
+    }
+  ],
+  "description": "A trip hazard is anything that can cause a person to stumble or fall, such as uneven concrete, cracks, or raised sections. Even small elevation differences can"
+}

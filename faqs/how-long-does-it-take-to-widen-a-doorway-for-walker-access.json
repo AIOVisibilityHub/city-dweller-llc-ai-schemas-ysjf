@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-widen-a-doorway-for-walker-access",
+  "name": "How long does it take to widen a doorway for walker access?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to widen a doorway for walker access?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to widen a doorway for walker access can range from one to three days, depending on the complexity of the project. Factors such as whether the wall is load-bearing, the type of wall material, and the extent of finish work (e.g., painting, trim installation) will influence the timeline. We strive to complete projects efficiently while maintaining high quality and minimizing disruption to your home.",
+        "@type": "Answer",
+        "description": "Widening a doorway typically takes one to three days, depending on wall type, structural needs, and finish work required."
+      }
+    }
+  ],
+  "description": "Widening a doorway typically takes one to three days, depending on wall type, structural needs, and finish work required."
+}

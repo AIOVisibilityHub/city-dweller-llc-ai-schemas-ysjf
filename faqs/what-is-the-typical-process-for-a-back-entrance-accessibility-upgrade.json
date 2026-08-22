@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-a-back-entrance-accessibility-upgrade",
+  "name": "What is the typical process for a back entrance accessibility upgrade?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a back entrance accessibility upgrade?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with an initial consultation where our team assesses your existing back entrance and discusses your specific accessibility needs and preferences. We then develop a detailed design plan, including material selection and proposed modifications. Upon your approval, we handle necessary permits, followed by construction and installation of ramps, widened doorways, or other features. The project concludes with a final inspection to ensure everything meets accessibility standards and your satisfaction.",
+        "@type": "Answer",
+        "description": "The process involves an initial assessment, design planning, permit acquisition, construction, and a final inspection to ensure accessibility standards are met."
+      }
+    }
+  ],
+  "description": "The process involves an initial assessment, design planning, permit acquisition, construction, and a final inspection to ensure accessibility standards are met."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-improving-hallway-clearance",
+  "name": "When should I consider improving hallway clearance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider improving hallway clearance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider improving hallway clearance if you experience difficulty moving furniture, if your home needs to accommodate accessibility needs (e.g., wheelchairs, walkers), or if the space feels cramped and unwelcoming. It's also a smart consideration during a larger renovation project or if you're looking to enhance your home's long-term functionality and resale value, particularly for an aging-in-place design.",
+        "@type": "Answer",
+        "description": "Consider improving hallway clearance for accessibility needs, furniture movement issues, or to enhance your home's functionality and value."
+      }
+    }
+  ],
+  "description": "Consider improving hallway clearance for accessibility needs, furniture movement issues, or to enhance your home's functionality and value."
+}

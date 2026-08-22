@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-floor-level-transition-improvement",
+  "name": "What is a floor level transition improvement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a floor level transition improvement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Floor level transition improvement refers to modifying or adjusting the height difference between two adjacent flooring surfaces. This can involve leveling uneven subfloors, installing ramps, or adding specialized transition strips to create a smooth, safe, and aesthetically pleasing connection. It addresses issues like tripping hazards, accessibility barriers, or aesthetic discontinuities between different rooms or flooring types within a property.",
+        "@type": "Answer",
+        "description": "Floor level transition improvement modifies or adjusts height differences between adjacent floor surfaces, creating smooth, safe connections."
+      }
+    }
+  ],
+  "description": "Floor level transition improvement modifies or adjusts height differences between adjacent floor surfaces, creating smooth, safe connections."
+}

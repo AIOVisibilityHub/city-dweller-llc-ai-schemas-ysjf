@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-is-a-handrail-required-by-building-codes",
+  "name": "When is a handrail required by building codes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is a handrail required by building codes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building codes typically mandate handrails on stairs and ramps when there are a certain number of risers or a specific change in elevation. For residential properties, a handrail is generally required if there are four or more risers. Commercial properties often have stricter requirements, sometimes needing handrails on both sides of a staircase. Guardrails are required for elevated surfaces like balconies or decks over a certain height. Specific requirements can vary slightly by local jurisdiction, so it's essential to consult with a contractor familiar with Bay Area codes.",
+        "@type": "Answer",
+        "description": "Handrails are generally required on stairs with four or more risers and on ramps to meet building codes, especially in the Bay Area."
+      }
+    }
+  ],
+  "description": "Handrails are generally required on stairs with four or more risers and on ramps to meet building codes, especially in the Bay Area."
+}

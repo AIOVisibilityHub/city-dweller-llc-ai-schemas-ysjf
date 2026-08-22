@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-all-interior-doorways-be-widened-for-accessibility",
+  "name": "Can all interior doorways be widened for accessibility?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can all interior doorways be widened for accessibility?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most interior doorways can be widened, but the feasibility depends on structural considerations. Walls containing plumbing, electrical wiring, or HVAC ducts may require more complex and costly modifications. Load-bearing walls also present a greater challenge, requiring structural reinforcement. Non-load-bearing walls are generally simpler to modify. A professional assessment from City Dweller, LLC will determine the best approach for each specific doorway in your home.",
+        "@type": "Answer",
+        "description": "Most doorways can be widened, but feasibility depends on structural elements like load-bearing walls, plumbing, or electrical systems."
+      }
+    }
+  ],
+  "description": "Most doorways can be widened, but feasibility depends on structural elements like load-bearing walls, plumbing, or electrical systems."
+}

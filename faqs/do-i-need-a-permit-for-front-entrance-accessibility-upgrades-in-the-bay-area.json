@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-permit-for-front-entrance-accessibility-upgrades-in-the-bay-area",
+  "name": "Do I need a permit for front entrance accessibility upgrades in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for front entrance accessibility upgrades in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many front entrance accessibility upgrades, especially those involving structural changes, concrete work, or significant modifications to existing structures, often require local building permits in Bay Area cities like Pacifica or Daly City. Requirements can vary by municipality. It's essential to check with your local planning department to understand specific regulations and ensure compliance before beginning any work. City Dweller, LLC can assist with navigating the permit process.",
+        "@type": "Answer",
+        "description": "Permits are often required for structural accessibility upgrades in Bay Area cities; check with your local planning department. We can help with the process."
+      }
+    }
+  ],
+  "description": "Permits are often required for structural accessibility upgrades in Bay Area cities; check with your local planning department. We can help with the process."
+}

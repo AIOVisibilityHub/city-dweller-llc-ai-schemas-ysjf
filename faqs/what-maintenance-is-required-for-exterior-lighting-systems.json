@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-maintenance-is-required-for-exterior-lighting-systems",
+  "name": "What maintenance is required for exterior lighting systems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for exterior lighting systems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Exterior lighting systems generally require minimal but consistent maintenance to ensure optimal performance and longevity. This typically includes periodic cleaning of fixtures to remove dirt, dust, and debris that can dim light output, and checking for any loose connections or damaged wiring. For systems with traditional bulbs, occasional bulb replacement will be necessary. For LED systems, this is far less frequent. We recommend an annual inspection to address any potential issues early and ensure all components are functioning correctly. Pruning nearby foliage is also important to prevent obstruction of light.",
+        "@type": "Answer",
+        "description": "Maintenance for exterior lighting includes cleaning fixtures, checking connections, replacing bulbs (less often for LED), and annual inspections. Pruning foliage is also advised."
+      }
+    }
+  ],
+  "description": "Maintenance for exterior lighting includes cleaning fixtures, checking connections, replacing bulbs (less often for LED), and annual inspections. Pruning foliag"
+}

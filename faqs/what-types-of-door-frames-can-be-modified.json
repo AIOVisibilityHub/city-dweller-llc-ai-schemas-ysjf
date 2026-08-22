@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-door-frames-can-be-modified",
+  "name": "What types of door frames can be modified?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of door frames can be modified?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard door frame types, including those made of wood, metal, or composite materials, can be modified. The feasibility and complexity depend on the desired change. For instance, wooden frames are often the easiest to cut and adjust, while metal frames might require specialized tools and welding. Existing masonry or concrete openings can also be modified but involve more extensive demolition and structural work. The existing frame material influences the modification techniques and potential costs.",
+        "@type": "Answer",
+        "description": "Most wood, metal, or composite door frames can be modified; feasibility depends on desired change and material, with wood being most adaptable."
+      }
+    }
+  ],
+  "description": "Most wood, metal, or composite door frames can be modified; feasibility depends on desired change and material, with wood being most adaptable."
+}

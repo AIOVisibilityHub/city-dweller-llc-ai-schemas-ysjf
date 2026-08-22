@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-remove-common-interior-trip-hazards",
+  "name": "How long does it take to remove common interior trip hazards?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to remove common interior trip hazards?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration for removing interior trip hazards depends on the complexity and number of issues. Simple fixes like re-securing a rug, clearing clutter, or installing transition strips can often be completed within a few hours. Repairs involving flooring, such as leveling a small section of subfloor or replacing a few damaged tiles, might take a day or two. Extensive projects like renovating a staircase or addressing widespread floor issues could extend to several days. A professional assessment will provide a more precise timeline.",
+        "@type": "Answer",
+        "description": "Simple fixes take hours; more complex flooring or stair repairs can take one to several days, depending on the scope."
+      }
+    }
+  ],
+  "description": "Simple fixes take hours; more complex flooring or stair repairs can take one to several days, depending on the scope."
+}

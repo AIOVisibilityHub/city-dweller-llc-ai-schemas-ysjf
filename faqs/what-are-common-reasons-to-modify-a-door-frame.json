@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-reasons-to-modify-a-door-frame",
+  "name": "What are common reasons to modify a door frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common reasons to modify a door frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Door frame modifications are typically needed to accommodate new door sizes, improve accessibility, or repair existing damage. For instance, you might enlarge an opening for a wider door to enhance flow or allow furniture access. Modifications can also involve adjusting height for taller doors, or reinforcing frames to support heavier, more secure doors. This ensures the new door fits properly, functions safely, and aligns with your aesthetic or practical requirements.",
+        "@type": "Answer",
+        "description": "Common reasons include changing door sizes, improving accessibility, or repairing damage to support new door installations or functional improvements."
+      }
+    }
+  ],
+  "description": "Common reasons include changing door sizes, improving accessibility, or repairing damage to support new door installations or functional improvements."
+}

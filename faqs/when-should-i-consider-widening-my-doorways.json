@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-widening-my-doorways",
+  "name": "When should I consider widening my doorways?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider widening my doorways?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider widening your doorways if you or a family member needs improved accessibility for mobility devices like wheelchairs or walkers. It's also a valuable upgrade during a home renovation to enhance natural light, create a more open floor plan, or accommodate large furniture and appliances. Widening doorways can improve the aesthetic appeal and functionality of your home, making everyday living more comfortable and convenient.",
+        "@type": "Answer",
+        "description": "Consider widening doorways for improved accessibility, during renovations to enhance open-plan aesthetics, or to accommodate large items like furniture or appliances."
+      }
+    }
+  ],
+  "description": "Consider widening doorways for improved accessibility, during renovations to enhance open-plan aesthetics, or to accommodate large items like furniture or appli"
+}

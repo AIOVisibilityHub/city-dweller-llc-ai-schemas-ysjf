@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-handrail-installation-take",
+  "name": "How long does handrail installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does handrail installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of handrail installation depends on the project's scope and complexity. Simple, pre-fabricated handrails on a straight staircase might be installed within a day or two. More complex projects involving custom fabrication, multiple turns, or specialized materials like glass or intricate wrought iron can take several days to a week or more. The process typically includes site measurement, fabrication (if custom), preparation of the installation area, and finally, the installation and finishing touches. We provide a project timeline with our estimate.",
+        "@type": "Answer",
+        "description": "Installation time varies: simple handrails can take 1-2 days, while custom or complex designs may require several days to over a week."
+      }
+    }
+  ],
+  "description": "Installation time varies: simple handrails can take 1-2 days, while custom or complex designs may require several days to over a week."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-front-entrance-upgrades-increase-my-property-value",
+  "name": "Can front entrance upgrades increase my property value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can front entrance upgrades increase my property value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, front entrance accessibility upgrades can potentially increase property value, especially in areas with an aging population or strong demand for accessible homes. While the primary benefit is improved usability, these features can broaden the appeal of your home to a wider range of buyers. Thoughtful, well-integrated upgrades can be seen as a desirable amenity that enhances both functionality and curb appeal.",
+        "@type": "Answer",
+        "description": "Yes, well-designed accessibility upgrades can increase property value by broadening appeal and enhancing home functionality."
+      }
+    }
+  ],
+  "description": "Yes, well-designed accessibility upgrades can increase property value by broadening appeal and enhancing home functionality."
+}

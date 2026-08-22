@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-accessibility-features-beyond-width-should-i-consider-for-a-doorway",
+  "name": "What accessibility features beyond width should I consider for a doorway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What accessibility features beyond width should I consider for a doorway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Beyond just width, consider features like appropriate door hardware, thresholds, and clear floor space. Lever handles are often easier to operate than doorknobs. Thresholds should be minimal (typically no more than 1/2 inch high and beveled) to prevent tripping hazards. Adequate clear floor space on both sides of the door allows for easier maneuvering, especially for turns into or out of the doorway.",
+        "@type": "Answer",
+        "description": "Consider lever handles, minimal thresholds, and clear floor space on both sides for improved accessibility beyond just doorway width."
+      }
+    }
+  ],
+  "description": "Consider lever handles, minimal thresholds, and clear floor space on both sides for improved accessibility beyond just doorway width."
+}

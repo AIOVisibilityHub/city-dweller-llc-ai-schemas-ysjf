@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-tell-if-i-have-a-trip-hazard-in-my-home",
+  "name": "How can I tell if I have a trip hazard in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if I have a trip hazard in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can identify potential trip hazards by looking for uneven surfaces, such as cracked tiles, buckling carpets, or raised floorboards. Loose rugs that don't lay flat, clutter in walkways, and inadequate lighting also pose risks. Steps with damaged treads, missing handrails, or inconsistent rise heights are significant concerns. Any obstruction that unexpectedly catches a foot is a hazard. Regularly inspecting your home for these issues can help prevent accidents.",
+        "@type": "Answer",
+        "description": "Look for uneven floors, loose rugs, clutter, poor lighting, or damaged stairs. Any unexpected obstruction is a hazard."
+      }
+    }
+  ],
+  "description": "Look for uneven floors, loose rugs, clutter, poor lighting, or damaged stairs. Any unexpected obstruction is a hazard."
+}

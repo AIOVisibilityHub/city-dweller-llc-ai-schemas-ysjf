@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-interior-doorway-accessibility-modifications-are-available",
+  "name": "What types of interior doorway accessibility modifications are available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of interior doorway accessibility modifications are available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interior doorway accessibility modifications typically involve widening doorways, installing offset hinges, or replacing standard doors with pocket doors or barn doors. Widening can involve adjusting the door frame and header. Offset hinges allow the door to swing clear of the opening, effectively adding a couple of inches of clearance without structural changes. Pocket and barn doors eliminate the swing radius altogether, providing maximum clear passage.",
+        "@type": "Answer",
+        "description": "Common modifications include widening doorways, installing offset hinges, or using space-saving doors like pocket or barn doors."
+      }
+    }
+  ],
+  "description": "Common modifications include widening doorways, installing offset hinges, or using space-saving doors like pocket or barn doors."
+}

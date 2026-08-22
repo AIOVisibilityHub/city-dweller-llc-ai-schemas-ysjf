@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-low-profile-threshold",
+  "name": "What is a low-profile threshold?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a low-profile threshold?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A low-profile threshold is a door sill designed with a minimal height, typically less than half an inch, to create a smooth transition between two floor surfaces. It reduces trip hazards and improves accessibility for wheelchairs, walkers, and strollers. These thresholds are commonly used in doorways, especially those connecting different rooms or leading to outdoor spaces where a seamless passage is desired.",
+        "@type": "Answer",
+        "description": "A low-profile threshold is a door sill with minimal height, reducing trip hazards and improving accessibility."
+      }
+    }
+  ],
+  "description": "A low-profile threshold is a door sill with minimal height, reducing trip hazards and improving accessibility."
+}

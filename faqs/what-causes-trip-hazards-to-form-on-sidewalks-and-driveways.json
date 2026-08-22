@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-trip-hazards-to-form-on-sidewalks-and-driveways",
+  "name": "What causes trip hazards to form on sidewalks and driveways?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes trip hazards to form on sidewalks and driveways?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Trip hazards on sidewalks and driveways are often caused by several factors. Tree roots growing beneath concrete slabs can push them upwards, creating uneven sections. Soil erosion or settling due to water runoff or poor compaction can cause slabs to sink. Freeze-thaw cycles can expand and contract water in cracks, leading to deterioration and unevenness. Heavy vehicle traffic can also contribute to shifting or cracking, especially if the underlying base is insufficient.",
+        "@type": "Answer",
+        "description": "Trip hazards are typically caused by tree roots, soil erosion or settling, freeze-thaw cycles, and heavy vehicle traffic, which all contribute to uneven surfaces."
+      }
+    }
+  ],
+  "description": "Trip hazards are typically caused by tree roots, soil erosion or settling, freeze-thaw cycles, and heavy vehicle traffic, which all contribute to uneven surface"
+}

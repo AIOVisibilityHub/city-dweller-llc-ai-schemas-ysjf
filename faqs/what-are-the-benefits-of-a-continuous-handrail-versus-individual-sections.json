@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-benefits-of-a-continuous-handrail-versus-individual-sections",
+  "name": "What are the benefits of a continuous handrail versus individual sections?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of a continuous handrail versus individual sections?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A continuous handrail offers uninterrupted support from the top to the bottom of the staircase, enhancing safety and ease of use, especially for individuals who rely on consistent support. It also provides a cleaner, more fluid aesthetic that can visually extend the space. Individual sections, while sometimes more cost-effective for repairs or specific design elements, may require users to shift their grip, potentially interrupting balance. Continuous handrails are often preferred for their superior safety features and streamlined appearance.",
+        "@type": "Answer",
+        "description": "A continuous handrail provides uninterrupted support and a cleaner aesthetic, enhancing safety and ease of use compared to individual sections."
+      }
+    }
+  ],
+  "description": "A continuous handrail provides uninterrupted support and a cleaner aesthetic, enhancing safety and ease of use compared to individual sections."
+}

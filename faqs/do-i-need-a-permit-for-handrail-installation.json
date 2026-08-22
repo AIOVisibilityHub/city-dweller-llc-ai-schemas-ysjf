@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-permit-for-handrail-installation",
+  "name": "Do I need a permit for handrail installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for handrail installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether a permit is required for handrail installation depends on the scope of the project and local building regulations. Minor repairs or replacements that don't alter the structure might not need one. However, new installations, significant alterations, or projects that involve structural changes almost always require a permit to ensure compliance with safety codes. In areas like San Francisco or Daly City, permits are often necessary. We can assist you in determining if a permit is needed for your specific project and guide you through the application process.",
+        "@type": "Answer",
+        "description": "Permits are often needed for new handrail installations or significant alterations, especially in Bay Area cities like San Francisco or Daly City."
+      }
+    }
+  ],
+  "description": "Permits are often needed for new handrail installations or significant alterations, especially in Bay Area cities like San Francisco or Daly City."
+}

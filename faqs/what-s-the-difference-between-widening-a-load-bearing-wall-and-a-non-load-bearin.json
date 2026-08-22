@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-widening-a-load-bearing-wall-and-a-non-load-bearin",
+  "name": "What's the difference between widening a load-bearing wall and a non-load-bearing wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between widening a load-bearing wall and a non-load-bearing wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary difference lies in structural support. A non-load-bearing wall only supports its own weight and can be modified with less structural intervention. A load-bearing wall, however, supports the weight of the structure above it, such as floors, ceilings, or the roof. Widening an opening in a load-bearing wall requires installing a new, adequately sized header beam to transfer the weight around the new opening. This process is more complex, often requires engineering calculations, and takes longer.",
+        "@type": "Answer",
+        "description": "Widening a load-bearing wall requires installing a new header to support the structure above, making it more complex than widening a non-load-bearing wall."
+      }
+    }
+  ],
+  "description": "Widening a load-bearing wall requires installing a new header to support the structure above, making it more complex than widening a non-load-bearing wall."
+}

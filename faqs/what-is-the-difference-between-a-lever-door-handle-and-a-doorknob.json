@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-a-lever-door-handle-and-a-doorknob",
+  "name": "What is the difference between a lever door handle and a doorknob?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a lever door handle and a doorknob?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Lever door handles are operated by pushing down, offering easier grip and accessibility compared to doorknobs which require twisting. Levers are often preferred for their ergonomic design, making them ideal for individuals with limited dexterity or for areas requiring quick egress, such as commercial spaces or ADA-compliant residences. Doorknobs typically have a more traditional aesthetic and can be more challenging for some users due to the wrist rotation required. Both types come in various styles and finishes to match interior designs, but the primary distinction lies in their method of operation and ease of use.",
+        "@type": "Answer",
+        "description": "Lever handles are pushed down for operation, offering easier access than doorknobs which require twisting. Levers are often preferred for accessibility and ease of use."
+      }
+    }
+  ],
+  "description": "Lever handles are pushed down for operation, offering easier access than doorknobs which require twisting. Levers are often preferred for accessibility and ease"
+}

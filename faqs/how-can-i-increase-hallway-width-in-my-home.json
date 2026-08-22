@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-increase-hallway-width-in-my-home",
+  "name": "How can I increase hallway width in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I increase hallway width in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Increasing hallway width often involves structural modifications, such as removing or repositioning non-load-bearing walls. This process typically requires an assessment by a general contractor to determine feasibility and potential structural implications. Options might include creating open archways, recessing built-in shelving, or completely reconfiguring the layout. We ensure all modifications comply with local building codes in areas like Pacifica and Daly City.",
+        "@type": "Answer",
+        "description": "Increasing hallway width can involve removing non-load-bearing walls or reconfiguring layouts, requiring a contractor's assessment."
+      }
+    }
+  ],
+  "description": "Increasing hallway width can involve removing non-load-bearing walls or reconfiguring layouts, requiring a contractor's assessment."
+}

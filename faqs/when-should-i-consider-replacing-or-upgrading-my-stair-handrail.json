@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-or-upgrading-my-stair-handrail",
+  "name": "When should I consider replacing or upgrading my stair handrail?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing or upgrading my stair handrail?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing or upgrading your stair handrail if it shows signs of wear, damage, or instability, which can compromise safety. Outdated designs or materials that no longer match your home's aesthetic are also reasons for an upgrade. Furthermore, if your current handrail doesn't meet modern building codes, especially if you're undertaking other renovations, an upgrade is advisable to ensure compliance and improve safety for all users.",
+        "@type": "Answer",
+        "description": "Consider replacing your handrail if it's damaged, unstable, outdated, or doesn't meet current building codes to ensure safety and improve aesthetics."
+      }
+    }
+  ],
+  "description": "Consider replacing your handrail if it's damaged, unstable, outdated, or doesn't meet current building codes to ensure safety and improve aesthetics."
+}

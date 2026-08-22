@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-trip-hazard-repair-cost-in-the-bay-area",
+  "name": "How much does trip hazard repair cost in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does trip hazard repair cost in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of trip hazard repair in the Bay Area varies widely based on the type and severity of the hazard, the material involved (e.g., concrete, asphalt, pavers), and the repair method chosen. Simple grinding of a raised edge might be a few hundred dollars, while concrete leveling for a larger area could range from $800 to several thousand. Full replacement of a section will be on the higher end. We provide detailed, no-obligation estimates after an on-site assessment to give you an accurate cost for your specific situation in areas like Pacifica or Daly City.",
+        "@type": "Answer",
+        "description": "Costs vary based on hazard type, material, and repair method. Simple grinding is less expensive than concrete leveling or full replacement. We provide on-site estimates."
+      }
+    }
+  ],
+  "description": "Costs vary based on hazard type, material, and repair method. Simple grinding is less expensive than concrete leveling or full replacement. We provide on-site e"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-is-a-low-profile-threshold-installation-necessary",
+  "name": "When is a low-profile threshold installation necessary?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is a low-profile threshold installation necessary?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installation of a low-profile threshold is necessary when you need to improve accessibility, such as for ADA compliance in commercial spaces, or to create a safer environment in residential settings for elderly family members or those using mobility aids. They are also suitable for areas with frequent foot traffic, where reducing tripping hazards is a priority, or when you are updating flooring and want a sleek, modern finish without a bulky transition.",
+        "@type": "Answer",
+        "description": "Installation is necessary to improve accessibility, reduce trip hazards, and achieve a modern aesthetic, especially for ADA compliance or mobility needs."
+      }
+    }
+  ],
+  "description": "Installation is necessary to improve accessibility, reduce trip hazards, and achieve a modern aesthetic, especially for ADA compliance or mobility needs."
+}

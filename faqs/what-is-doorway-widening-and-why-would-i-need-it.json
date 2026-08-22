@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-doorway-widening-and-why-would-i-need-it",
+  "name": "What is doorway widening and why would I need it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is doorway widening and why would I need it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Doorway widening involves modifying an existing door frame and surrounding wall structure to create a wider opening. This service is often needed to improve accessibility for individuals using wheelchairs, walkers, or other mobility aids. It can also enhance the flow and aesthetic appeal of a home, making rooms feel more open, or accommodate larger furniture and appliances during moves or renovations. Our team can assess your current doorways and recommend optimal solutions.",
+        "@type": "Answer",
+        "description": "Doorway widening expands existing door frames, often for improved accessibility or to enhance home flow and accommodate large items. It involves modifying the door frame and wall."
+      }
+    }
+  ],
+  "description": "Doorway widening expands existing door frames, often for improved accessibility or to enhance home flow and accommodate large items. It involves modifying the d"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-materials-are-commonly-used-for-stair-handrails",
+  "name": "What types of materials are commonly used for stair handrails?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are commonly used for stair handrails?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials for stair handrails include wood (oak, maple, cherry), metal (iron, steel, aluminum), and composite materials. Wood offers a classic aesthetic and can be stained or painted to match interior décor. Metal provides durability and a modern or industrial look, often chosen for strength and versatility in design. Composite options offer low maintenance and can mimic the appearance of wood or metal. The best choice depends on your home's style, desired durability, and budget.",
+        "@type": "Answer",
+        "description": "Stair handrails are commonly made from wood, metal, or composite materials, each offering different aesthetics and durability."
+      }
+    }
+  ],
+  "description": "Stair handrails are commonly made from wood, metal, or composite materials, each offering different aesthetics and durability."
+}

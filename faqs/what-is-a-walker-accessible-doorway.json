@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-walker-accessible-doorway",
+  "name": "What is a walker accessible doorway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a walker accessible doorway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A walker accessible doorway is designed to provide sufficient clear width for individuals using walkers or other mobility aids to pass through comfortably and safely. This typically involves widening the door opening, removing obstructions like raised thresholds, and ensuring adequate maneuvering space on both sides of the doorway. The goal is to enhance independence and prevent accidents within a home.",
+        "@type": "Answer",
+        "description": "A walker accessible doorway is widened and cleared of obstructions to allow easy passage for individuals using walkers, improving safety and independence."
+      }
+    }
+  ],
+  "description": "A walker accessible doorway is widened and cleared of obstructions to allow easy passage for individuals using walkers, improving safety and independence."
+}

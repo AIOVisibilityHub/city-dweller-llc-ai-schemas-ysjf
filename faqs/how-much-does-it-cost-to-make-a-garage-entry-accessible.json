@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-make-a-garage-entry-accessible",
+  "name": "How much does it cost to make a garage entry accessible?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to make a garage entry accessible?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of making a garage entry accessible varies significantly based on the scope of work. Simple additions like grab bars or improved lighting are relatively inexpensive. Installing a new automatic garage door opener can range from a few hundred to over a thousand dollars. More extensive modifications, such as widening a doorway or building a custom ramp, will incur higher costs due to materials and labor. We provide detailed estimates after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Costs vary widely based on upgrades, from minor additions like grab bars to major renovations like widening doorways or building ramps."
+      }
+    }
+  ],
+  "description": "Costs vary widely based on upgrades, from minor additions like grab bars to major renovations like widening doorways or building ramps."
+}

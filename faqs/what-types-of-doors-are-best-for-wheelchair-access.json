@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-doors-are-best-for-wheelchair-access",
+  "name": "What types of doors are best for wheelchair access?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of doors are best for wheelchair access?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common options include swing doors with wider openings, pocket doors, and barn doors. Swing doors are practical but require clear space for opening and closing. Pocket doors slide into a wall cavity, saving space but can be more complex to install. Barn doors slide along the wall, offering good accessibility and a unique aesthetic, but may not seal as tightly as other door types. Your choice often depends on available space and desired functionality.",
+        "@type": "Answer",
+        "description": "Best doors for wheelchair access include wider swing doors, pocket doors, and barn doors, each offering different space-saving and functional benefits."
+      }
+    }
+  ],
+  "description": "Best doors for wheelchair access include wider swing doors, pocket doors, and barn doors, each offering different space-saving and functional benefits."
+}

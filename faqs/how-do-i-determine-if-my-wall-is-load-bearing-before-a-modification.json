@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-determine-if-my-wall-is-load-bearing-before-a-modification",
+  "name": "How do I determine if my wall is load-bearing before a modification?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I determine if my wall is load-bearing before a modification?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining if a wall is load-bearing requires careful assessment, as it supports structural weight from above. Key indicators include its position relative to the foundation and roof, joist direction, and whether it has a wall directly above it on an upper floor. Exterior walls are almost always load-bearing. For interior walls, if floor joists run perpendicular to the wall and rest on it, it’s likely load-bearing. Always consult a structural engineer or experienced general contractor to confirm before any modifications.",
+        "@type": "Answer",
+        "description": "Look at its position, joist direction, and walls above it. Exterior walls are typically load-bearing. Always consult a professional to confirm."
+      }
+    }
+  ],
+  "description": "Look at its position, joist direction, and walls above it. Exterior walls are typically load-bearing. Always consult a professional to confirm."
+}

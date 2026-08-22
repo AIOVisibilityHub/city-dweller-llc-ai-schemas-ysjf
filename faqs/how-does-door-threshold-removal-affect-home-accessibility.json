@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-does-door-threshold-removal-affect-home-accessibility",
+  "name": "How does door threshold removal affect home accessibility?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does door threshold removal affect home accessibility?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Removing or replacing a raised door threshold significantly improves home accessibility, particularly for individuals using wheelchairs, walkers, or those with mobility challenges. Eliminating a threshold creates a smooth, level transition between rooms, preventing tripping hazards and making it easier to maneuver. For exterior doors, a flush or low-profile threshold can allow easier entry and exit, enhancing independence and safety throughout the home. This is a common modification in universal design renovations.",
+        "@type": "Answer",
+        "description": "Door threshold removal creates smooth, level transitions, greatly improving home accessibility for wheelchairs, walkers, and those with mobility challenges."
+      }
+    }
+  ],
+  "description": "Door threshold removal creates smooth, level transitions, greatly improving home accessibility for wheelchairs, walkers, and those with mobility challenges."
+}

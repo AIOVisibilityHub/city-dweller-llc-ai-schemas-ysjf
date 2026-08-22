@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-types-of-materials-used-for-handrails",
+  "name": "What are the common types of materials used for handrails?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common types of materials used for handrails?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Handrails are commonly made from various materials, each offering different aesthetics, durability, and maintenance requirements. Popular options include wood (such as oak or maple) for a classic look, metal (like aluminum, steel, or wrought iron) for strength and modern appeal, and composite materials which combine durability with low maintenance. Glass handrails are also an option for a contemporary, open feel, often paired with metal supports. The best choice depends on the installation location (indoor or outdoor), desired style, and budget.",
+        "@type": "Answer",
+        "description": "Common handrail materials include wood, metal (aluminum, steel, wrought iron), composite, and glass. Each offers distinct aesthetics, durability, and maintenance."
+      }
+    }
+  ],
+  "description": "Common handrail materials include wood, metal (aluminum, steel, wrought iron), composite, and glass. Each offers distinct aesthetics, durability, and maintenanc"
+}

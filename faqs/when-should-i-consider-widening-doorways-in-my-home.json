@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-widening-doorways-in-my-home",
+  "name": "When should I consider widening doorways in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider widening doorways in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider widening doorways if you or a family member currently uses a wheelchair or other mobility device, anticipates needing one in the future, or if you plan to age in place. It's also a valuable upgrade for enhancing general home accessibility and can be beneficial for resale value, as accessible homes appeal to a broader market. Proactive planning helps avoid urgent modifications during a time of need.",
+        "@type": "Answer",
+        "description": "Consider widening doorways if you use a mobility device, plan to age in place, or want to increase your home's general accessibility and potential resale value."
+      }
+    }
+  ],
+  "description": "Consider widening doorways if you use a mobility device, plan to age in place, or want to increase your home's general accessibility and potential resale value."
+}

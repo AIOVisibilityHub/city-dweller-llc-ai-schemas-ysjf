@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-upgrading-my-front-entrance-for-accessibility",
+  "name": "When should I consider upgrading my front entrance for accessibility?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider upgrading my front entrance for accessibility?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider upgrading your front entrance if a resident or frequent visitor has mobility challenges, or if you anticipate needing such features in the future. Businesses often upgrade to comply with accessibility regulations and better serve their customer base. It's also a valuable improvement for aging-in-place strategies, enhancing the long-term usability and value of a property.",
+        "@type": "Answer",
+        "description": "Consider upgrading if someone with mobility challenges uses the entrance, for business compliance, or for future-proofing your home."
+      }
+    }
+  ],
+  "description": "Consider upgrading if someone with mobility challenges uses the entrance, for business compliance, or for future-proofing your home."
+}

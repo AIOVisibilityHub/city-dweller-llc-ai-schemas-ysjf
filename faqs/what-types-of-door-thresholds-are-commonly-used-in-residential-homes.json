@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-door-thresholds-are-commonly-used-in-residential-homes",
+  "name": "What types of door thresholds are commonly used in residential homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of door thresholds are commonly used in residential homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common types of door thresholds in residential homes include saddle thresholds, which are raised in the middle and sloped on both sides, often made of wood or metal. Bumper thresholds, usually for exterior doors, feature a rubber or vinyl strip for an improved seal against drafts and moisture. Other types include thermal break thresholds for energy efficiency, and transition strips designed to connect different flooring materials at varying heights. The choice depends on the door's location, aesthetics, and required functionality.",
+        "@type": "Answer",
+        "description": "Residential door thresholds include saddle, bumper, and thermal break types, chosen based on location, aesthetics, and functionality like sealing."
+      }
+    }
+  ],
+  "description": "Residential door thresholds include saddle, bumper, and thermal break types, chosen based on location, aesthetics, and functionality like sealing."
+}

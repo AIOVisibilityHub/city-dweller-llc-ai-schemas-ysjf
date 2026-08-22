@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-install-a-new-stair-handrail",
+  "name": "How long does it take to install a new stair handrail?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a new stair handrail?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of stair handrail installation depends on the project's scope and complexity. A straightforward replacement of an existing handrail on a standard staircase might take 1-2 days. More elaborate projects involving custom fabrication, multiple turns, or complex baluster systems could extend to several days or even a week. We aim to complete projects efficiently while maintaining high quality, and we'll provide a timeline estimate during your initial consultation.",
+        "@type": "Answer",
+        "description": "Installation time for a stair handrail varies, from 1-2 days for simple replacements to several days for complex custom projects."
+      }
+    }
+  ],
+  "description": "Installation time for a stair handrail varies, from 1-2 days for simple replacements to several days for complex custom projects."
+}

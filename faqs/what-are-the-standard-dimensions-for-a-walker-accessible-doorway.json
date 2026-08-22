@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-standard-dimensions-for-a-walker-accessible-doorway",
+  "name": "What are the standard dimensions for a walker accessible doorway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the standard dimensions for a walker accessible doorway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While specific regulations can vary, a common recommendation for a walker accessible doorway is a minimum clear opening width of 32 inches when the door is open 90 degrees. This measurement is taken from the face of the door to the stop on the frame. Existing doorways are often 28 or 30 inches wide, which can be challenging for walkers. We can assess your current doorways and advise on the best approach to achieve adequate clearance.",
+        "@type": "Answer",
+        "description": "Standard walker accessible doorways typically require a minimum clear opening width of 32 inches when the door is open 90 degrees."
+      }
+    }
+  ],
+  "description": "Standard walker accessible doorways typically require a minimum clear opening width of 32 inches when the door is open 90 degrees."
+}

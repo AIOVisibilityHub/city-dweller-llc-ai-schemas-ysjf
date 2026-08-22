@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-install-a-lever-door-handle-myself-or-should-i-hire-a-professional",
+  "name": "Can I install a lever door handle myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a lever door handle myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's possible for a homeowner with basic DIY skills to install a lever door handle, hiring a professional ensures proper installation and optimal function. Professionals have the right tools and experience to handle various door types and potential issues like misaligned boreholes or old hardware removal. Incorrect installation can lead to handles that stick, sag, or fail prematurely. For a seamless process and lasting results, especially for multiple installations or specialized hardware, a general contractor offers reliability and expertise.",
+        "@type": "Answer",
+        "description": "While DIY is possible, hiring a professional ensures proper alignment, function, and avoids issues, especially for multiple or complex installations."
+      }
+    }
+  ],
+  "description": "While DIY is possible, hiring a professional ensures proper alignment, function, and avoids issues, especially for multiple or complex installations."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-differences-between-a-wheelchair-ramp-and-a-porch-lift",
+  "name": "What are the differences between a wheelchair ramp and a porch lift?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the differences between a wheelchair ramp and a porch lift?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A wheelchair ramp provides a gradual, sloped pathway, ideal for situations where there is sufficient horizontal space to achieve a safe incline. Ramps are often preferred for their simplicity and continuous accessibility. A porch lift, also known as a vertical platform lift, is a mechanical device that raises a wheelchair or scooter vertically, requiring less horizontal space. Lifts are suitable for higher porches or limited areas, offering a more compact solution. The choice depends on the porch height, available area, and user preference for a mechanical versus an inclined solution.",
+        "@type": "Answer",
+        "description": "Ramps offer a gradual slope over more horizontal space, while porch lifts provide vertical access in smaller areas. The choice depends on porch height and available space."
+      }
+    }
+  ],
+  "description": "Ramps offer a gradual slope over more horizontal space, while porch lifts provide vertical access in smaller areas. The choice depends on porch height and avail"
+}

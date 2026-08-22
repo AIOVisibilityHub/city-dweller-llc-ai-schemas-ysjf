@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/is-trip-hazard-repair-covered-by-insurance",
+  "name": "Is trip hazard repair covered by insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is trip hazard repair covered by insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether trip hazard repair is covered by insurance depends on your specific policy and the circumstances. Homeowners insurance typically covers damage resulting from sudden, accidental events like fallen trees, but not usually routine maintenance or issues caused by neglect, such as gradual settling or wear and tear. If a trip hazard led to an injury claim, liability coverage might come into play. It's essential to consult your insurance provider directly to understand your coverage options for property damage or liability related to trip hazards.",
+        "@type": "Answer",
+        "description": "Insurance coverage for trip hazard repair depends on your policy. It typically covers accidental damage, not routine maintenance. Consult your provider for specific coverage details."
+      }
+    }
+  ],
+  "description": "Insurance coverage for trip hazard repair depends on your policy. It typically covers accidental damage, not routine maintenance. Consult your provider for spec"
+}

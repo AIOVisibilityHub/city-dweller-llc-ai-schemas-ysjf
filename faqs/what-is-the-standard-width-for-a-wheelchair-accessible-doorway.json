@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-standard-width-for-a-wheelchair-accessible-doorway",
+  "name": "What is the standard width for a wheelchair accessible doorway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the standard width for a wheelchair accessible doorway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The minimum clear opening width for an accessible doorway is typically 32 inches when the door is open 90 degrees. This measurement is taken from the face of the door to the stop on the frame. It's crucial to consider the type of door and its hardware, as these can affect the actual clear opening. For example, a standard 36-inch door slab usually provides the necessary 32-inch clear opening once installed.",
+        "@type": "Answer",
+        "description": "The standard minimum clear opening for a wheelchair accessible doorway is 32 inches when the door is open 90 degrees."
+      }
+    }
+  ],
+  "description": "The standard minimum clear opening for a wheelchair accessible doorway is 32 inches when the door is open 90 degrees."
+}

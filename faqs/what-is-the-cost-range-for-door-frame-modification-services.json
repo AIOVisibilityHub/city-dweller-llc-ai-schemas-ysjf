@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-cost-range-for-door-frame-modification-services",
+  "name": "What is the cost range for door frame modification services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost range for door frame modification services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of door frame modification services can vary significantly based on the scope of work. Factors influencing the price include the extent of demolition, structural alterations, materials required, and whether new framing, drywall, or finishes are needed. A minor adjustment might cost a few hundred dollars, while a major structural modification, especially for an exterior wall, could range into thousands. We provide a detailed, no-obligation estimate after an on-site evaluation.",
+        "@type": "Answer",
+        "description": "Costs vary based on scope, from a few hundred for minor adjustments to thousands for major structural changes, influenced by demolition and materials."
+      }
+    }
+  ],
+  "description": "Costs vary based on scope, from a few hundred for minor adjustments to thousands for major structural changes, influenced by demolition and materials."
+}

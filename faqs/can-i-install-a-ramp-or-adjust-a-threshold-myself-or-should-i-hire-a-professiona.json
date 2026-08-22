@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-install-a-ramp-or-adjust-a-threshold-myself-or-should-i-hire-a-professiona",
+  "name": "Can I install a ramp or adjust a threshold myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a ramp or adjust a threshold myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor threshold replacements might be a DIY project for experienced homeowners, installing or adjusting ramps, especially those designed for accessibility, is generally best left to professionals. This ensures proper construction, adherence to safety standards, and compliance with building codes. Incorrectly built ramps can be hazardous and may not meet accessibility requirements. A general contractor has the expertise to select appropriate materials, ensure structural integrity, and achieve a professional finish.",
+        "@type": "Answer",
+        "description": "Minor threshold work can be DIY, but professional installation is recommended for ramps to ensure safety, structural integrity, and code compliance."
+      }
+    }
+  ],
+  "description": "Minor threshold work can be DIY, but professional installation is recommended for ramps to ensure safety, structural integrity, and code compliance."
+}

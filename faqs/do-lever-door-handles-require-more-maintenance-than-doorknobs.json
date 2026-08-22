@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-lever-door-handles-require-more-maintenance-than-doorknobs",
+  "name": "Do lever door handles require more maintenance than doorknobs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do lever door handles require more maintenance than doorknobs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, lever door handles do not require significantly more maintenance than doorknobs. Both types of hardware benefit from occasional cleaning to remove grime and dust. High-quality levers are designed for durability and smooth operation, similar to well-made doorknobs. However, if a lever becomes loose over time due to frequent use, it may require tightening of the set screws, a simple task. Proper installation is key to minimizing future maintenance, ensuring all components are secure and aligned from the start.",
+        "@type": "Answer",
+        "description": "No, lever handles typically don't require more maintenance. Regular cleaning and occasional tightening of set screws are usually sufficient for both."
+      }
+    }
+  ],
+  "description": "No, lever handles typically don't require more maintenance. Regular cleaning and occasional tightening of set screws are usually sufficient for both."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/why-choose-a-low-profile-threshold-over-a-standard-one",
+  "name": "Why choose a low-profile threshold over a standard one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why choose a low-profile threshold over a standard one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Low-profile thresholds are preferred for their accessibility benefits, making entry and exit easier for individuals with mobility challenges, children, and pets. They also offer a cleaner, more modern aesthetic by minimizing the visual interruption at the doorway. Unlike standard thresholds that can create a noticeable bump, low-profile options provide a smoother transition, enhancing safety and overall design continuity within your home or business.",
+        "@type": "Answer",
+        "description": "Choose a low-profile threshold for improved accessibility, reduced trip hazards, and a modern aesthetic."
+      }
+    }
+  ],
+  "description": "Choose a low-profile threshold for improved accessibility, reduced trip hazards, and a modern aesthetic."
+}

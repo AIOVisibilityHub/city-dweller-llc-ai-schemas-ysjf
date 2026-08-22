@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-professional-for-floor-transition-repairs-or-can-i-do-it-myself",
+  "name": "Do I need a professional for floor transition repairs, or can I do it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a professional for floor transition repairs, or can I do it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor adjustments might seem DIY-friendly, professional repair is recommended for most floor transition issues. Professionals ensure correct material selection, proper installation techniques for durability and safety, and a seamless finish that blends with your existing flooring. Incorrect DIY attempts can lead to recurring problems, further damage, or create new tripping hazards. City Dweller, LLC provides expert service.",
+        "@type": "Answer",
+        "description": "Professional repair ensures correct material, proper installation, and a seamless, durable, and safe finish. DIY can lead to more issues."
+      }
+    }
+  ],
+  "description": "Professional repair ensures correct material, proper installation, and a seamless, durable, and safe finish. DIY can lead to more issues."
+}

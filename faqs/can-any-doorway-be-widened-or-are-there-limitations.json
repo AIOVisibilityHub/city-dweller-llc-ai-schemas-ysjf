@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-any-doorway-be-widened-or-are-there-limitations",
+  "name": "Can any doorway be widened, or are there limitations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can any doorway be widened, or are there limitations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While most doorways can be widened, there are potential limitations. The main constraints typically involve whether the wall is load-bearing and the presence of electrical wiring, plumbing pipes, or HVAC ducts within the wall. Significant structural elements or utility lines may require relocation, adding to the complexity and cost. Very narrow walls or those adjacent to critical structural components can also pose challenges. An on-site evaluation helps identify any such limitations.",
+        "@type": "Answer",
+        "description": "Most doorways can be widened, but limitations exist, especially with load-bearing walls or if electrical, plumbing, or HVAC lines are present within the wall."
+      }
+    }
+  ],
+  "description": "Most doorways can be widened, but limitations exist, especially with load-bearing walls or if electrical, plumbing, or HVAC lines are present within the wall."
+}

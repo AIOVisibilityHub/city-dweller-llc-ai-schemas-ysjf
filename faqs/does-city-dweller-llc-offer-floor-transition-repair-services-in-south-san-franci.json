@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/does-city-dweller-llc-offer-floor-transition-repair-services-in-south-san-franci",
+  "name": "Does City Dweller, LLC offer floor transition repair services in South San Francisco?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does City Dweller, LLC offer floor transition repair services in South San Francisco?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, City Dweller, LLC proudly offers comprehensive floor transition repair services throughout South San Francisco and surrounding Bay Area communities. Our team is equipped to handle various repair needs for both residential and commercial properties in the area. Contact us to schedule a consultation for your South San Francisco project.",
+        "@type": "Answer",
+        "description": "Yes, City Dweller, LLC provides floor transition repair services in South San Francisco for both residential and commercial properties."
+      }
+    }
+  ],
+  "description": "Yes, City Dweller, LLC provides floor transition repair services in South San Francisco for both residential and commercial properties."
+}

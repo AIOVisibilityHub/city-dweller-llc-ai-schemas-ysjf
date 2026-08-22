@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-look-for-when-choosing-a-contractor-for-accessibility-upgrades",
+  "name": "What should I look for when choosing a contractor for accessibility upgrades?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a contractor for accessibility upgrades?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for accessibility upgrades, prioritize experience with similar projects and a strong understanding of local accessibility standards. Look for a licensed and insured general contractor. Review their portfolio, ask for references, and ensure they communicate clearly about project scope, timeline, and costs. A good contractor will also help you explore appropriate solutions for your specific needs.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured contractor with experience in accessibility projects, knowledge of local standards, and clear communication."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured contractor with experience in accessibility projects, knowledge of local standards, and clear communication."
+}

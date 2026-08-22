@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-complete-a-garage-entry-accessibility-upgrade",
+  "name": "How long does it take to complete a garage entry accessibility upgrade?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete a garage entry accessibility upgrade?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a garage entry accessibility upgrade depends on the complexity of the project. Minor installations, like grab bars or a new automatic door opener, might take a few hours to a day. More significant modifications, such as widening an entry point or building a custom ramp, could take several days to a week or more. We provide an estimated timeline during the initial consultation, factoring in material availability and specific project requirements.",
+        "@type": "Answer",
+        "description": "Timelines vary: minor upgrades take hours to a day, while major renovations like ramps or widened doorways can take several days to over a week."
+      }
+    }
+  ],
+  "description": "Timelines vary: minor upgrades take hours to a day, while major renovations like ramps or widened doorways can take several days to over a week."
+}

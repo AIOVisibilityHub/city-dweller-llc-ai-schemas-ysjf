@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-complete-a-typical-floor-transition-repair",
+  "name": "How long does it take to complete a typical floor transition repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete a typical floor transition repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard floor transition repairs are completed relatively quickly, often within a few hours to a single day, depending on the number of transitions and the complexity of the repair. More extensive damage or custom installations might require additional time. We strive for efficient service to minimize disruption to your home while ensuring quality workmanship.",
+        "@type": "Answer",
+        "description": "Typical floor transition repairs usually take a few hours to one day, though more complex projects may require additional time."
+      }
+    }
+  ],
+  "description": "Typical floor transition repairs usually take a few hours to one day, though more complex projects may require additional time."
+}

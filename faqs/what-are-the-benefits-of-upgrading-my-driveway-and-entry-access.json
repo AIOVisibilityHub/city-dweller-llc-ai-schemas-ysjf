@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-benefits-of-upgrading-my-driveway-and-entry-access",
+  "name": "What are the benefits of upgrading my driveway and entry access?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of upgrading my driveway and entry access?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upgrading your driveway and entry access offers multiple benefits. It significantly enhances your home's curb appeal, increasing its market value and making a positive first impression. Improved access provides greater safety by eliminating tripping hazards and improving visibility, especially with better lighting. It also boosts functionality and convenience for daily use and for visitors, potentially improving stormwater management with modern materials.",
+        "@type": "Answer",
+        "description": "Upgrading enhances curb appeal and property value, improves safety by removing hazards, and boosts functionality and convenience."
+      }
+    }
+  ],
+  "description": "Upgrading enhances curb appeal and property value, improves safety by removing hazards, and boosts functionality and convenience."
+}

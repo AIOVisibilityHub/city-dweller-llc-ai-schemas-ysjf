@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-consider-a-pocket-door-or-a-swing-door-for-walker-accessibility",
+  "name": "Should I consider a pocket door or a swing door for walker accessibility?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I consider a pocket door or a swing door for walker accessibility?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Both pocket doors and swing doors can be made walker accessible, but they offer different benefits. Pocket doors slide into the wall, saving valuable floor space and providing a completely clear opening, which is excellent for tight areas. However, they can be more complex and costly to install. Swing doors are generally simpler to install and maintain but require clear space for the door to open. We can help you decide based on your space and needs.",
+        "@type": "Answer",
+        "description": "Pocket doors save space but cost more; swing doors are simpler but need clearance. We help you choose based on your needs."
+      }
+    }
+  ],
+  "description": "Pocket doors save space but cost more; swing doors are simpler but need clearance. We help you choose based on your needs."
+}

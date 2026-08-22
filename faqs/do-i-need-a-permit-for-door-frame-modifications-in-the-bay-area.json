@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-permit-for-door-frame-modifications-in-the-bay-area",
+  "name": "Do I need a permit for door frame modifications in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for door frame modifications in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, many door frame modifications, particularly those involving changes to structural elements like load-bearing walls or exterior openings, typically require a building permit in Bay Area cities such as Pacifica or South San Francisco. Non-structural, interior aesthetic changes might not. It's crucial to consult with your local building department or a qualified general contractor to determine permit requirements before starting any work to ensure compliance with local codes and regulations.",
+        "@type": "Answer",
+        "description": "Modifications affecting structural elements or exterior walls often require permits in Bay Area cities. Always consult with a contractor or local building department."
+      }
+    }
+  ],
+  "description": "Modifications affecting structural elements or exterior walls often require permits in Bay Area cities. Always consult with a contractor or local building depar"
+}

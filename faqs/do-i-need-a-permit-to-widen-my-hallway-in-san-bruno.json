@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-permit-to-widen-my-hallway-in-san-bruno",
+  "name": "Do I need a permit to widen my hallway in San Bruno?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to widen my hallway in San Bruno?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, widening a hallway, especially if it involves modifying walls, often requires a building permit from your local city planning department, such as in San Bruno. This ensures that the modifications comply with local building codes and safety regulations. Our team assists clients with the permitting process, ensuring all necessary documentation is submitted and approvals are obtained before construction begins, minimizing potential delays or issues.",
+        "@type": "Answer",
+        "description": "Yes, widening a hallway typically requires a building permit from your local city planning department, like in San Bruno, to ensure code compliance."
+      }
+    }
+  ],
+  "description": "Yes, widening a hallway typically requires a building permit from your local city planning department, like in San Bruno, to ensure code compliance."
+}

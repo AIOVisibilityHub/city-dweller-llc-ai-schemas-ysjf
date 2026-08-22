@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-there-specific-regulations-for-pathway-safety-in-bay-area-cities-like-san-ma",
+  "name": "Are there specific regulations for pathway safety in Bay Area cities like San Mateo or Daly City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific regulations for pathway safety in Bay Area cities like San Mateo or Daly City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, cities in the Bay Area, including San Mateo and Daly City, generally adhere to state and local building codes that dictate safety and accessibility standards for exterior pathways. These regulations can cover aspects like minimum pathway width, slope, surface requirements for slip resistance, and lighting levels, especially for commercial properties or public access areas. It's crucial to ensure any improvements comply with the Americans with Disabilities Act (ADA) guidelines, if applicable, and local municipality ordinances to avoid penalties and ensure public safety. A qualified contractor will be familiar with these requirements.",
+        "@type": "Answer",
+        "description": "Bay Area cities like San Mateo and Daly City follow state and local building codes for pathway safety, including ADA guidelines, covering width, slope, surface, and lighting. A contractor can ensure compliance."
+      }
+    }
+  ],
+  "description": "Bay Area cities like San Mateo and Daly City follow state and local building codes for pathway safety, including ADA guidelines, covering width, slope, surface,"
+}

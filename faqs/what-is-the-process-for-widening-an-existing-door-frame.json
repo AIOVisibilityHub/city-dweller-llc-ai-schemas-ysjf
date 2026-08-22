@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-widening-an-existing-door-frame",
+  "name": "What is the process for widening an existing door frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for widening an existing door frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Widening an existing door frame typically involves several steps. First, the existing door and frame are carefully removed. Then, the wall opening is enlarged to the desired width, which may involve cutting into drywall and studs. If the wall is load-bearing, a new, appropriately sized header will be installed to support the structure above. New framing is then built for the wider door, followed by drywall repair and finishing to blend seamlessly with the existing wall. Finally, the new, wider door and its frame are installed.",
+        "@type": "Answer",
+        "description": "The process involves removing the old frame, enlarging the wall opening, installing a new header if structural, framing the new width, and finishing the wall."
+      }
+    }
+  ],
+  "description": "The process involves removing the old frame, enlarging the wall opening, installing a new header if structural, framing the new width, and finishing the wall."
+}

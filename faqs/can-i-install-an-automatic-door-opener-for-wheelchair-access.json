@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-install-an-automatic-door-opener-for-wheelchair-access",
+  "name": "Can I install an automatic door opener for wheelchair access?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install an automatic door opener for wheelchair access?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, automatic door openers can be installed on many types of doors to enhance wheelchair accessibility. These systems can be activated by a push-button, motion sensor, or remote control, providing hands-free entry and exit. They are particularly beneficial for individuals with limited arm strength or mobility. Installation typically involves electrical work and fitting the opener mechanism to your existing or new door system.",
+        "@type": "Answer",
+        "description": "Yes, automatic door openers can be installed for hands-free wheelchair access, activated by buttons, sensors, or remotes, requiring electrical work."
+      }
+    }
+  ],
+  "description": "Yes, automatic door openers can be installed for hands-free wheelchair access, activated by buttons, sensors, or remotes, requiring electrical work."
+}

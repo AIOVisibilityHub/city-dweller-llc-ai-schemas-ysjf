@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-removing-an-exterior-door-threshold-versus-an-interior-on",
+  "name": "When should I consider removing an exterior door threshold versus an interior one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider removing an exterior door threshold versus an interior one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider removing an exterior door threshold if it's damaged, failing to seal properly, or if you're installing a new door and need a different type of threshold. Exterior thresholds are critical for weatherproofing and energy efficiency. Interior threshold removal is often considered for aesthetic reasons, such as creating a flush transition between rooms for seamless flooring, or improving accessibility for wheelchairs or strollers. The decision depends on the specific function and issues of each doorway.",
+        "@type": "Answer",
+        "description": "Remove exterior thresholds if damaged or for better sealing; remove interior ones for aesthetics, seamless flooring, or improved accessibility."
+      }
+    }
+  ],
+  "description": "Remove exterior thresholds if damaged or for better sealing; remove interior ones for aesthetics, seamless flooring, or improved accessibility."
+}

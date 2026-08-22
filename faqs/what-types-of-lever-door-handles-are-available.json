@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-lever-door-handles-are-available",
+  "name": "What types of lever door handles are available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of lever door handles are available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Lever door handles come in several functional types to suit different needs. 'Passage' levers have no lock and are used for hallways or closets. 'Privacy' levers include a push-button or turn-button lock, suitable for bedrooms and bathrooms. 'Keyed Entry' levers offer a key-operated lock on the exterior and a turn-button on the interior, ideal for exterior doors or rooms needing higher security. 'Dummy' levers are non-functional, used for decorative purposes on inactive doors. Each type is available in various finishes and designs to complement your home's decor.",
+        "@type": "Answer",
+        "description": "Types include passage (no lock), privacy (push-button lock), keyed entry (key-operated), and dummy (non-functional/decorative) levers."
+      }
+    }
+  ],
+  "description": "Types include passage (no lock), privacy (push-button lock), keyed entry (key-operated), and dummy (non-functional/decorative) levers."
+}

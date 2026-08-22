@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-repairing-a-door-frame-and-modifying-one",
+  "name": "What is the difference between repairing a door frame and modifying one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between repairing a door frame and modifying one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a door frame typically involves fixing existing damage, such as rot, cracks, or loose joints, to restore its original condition and functionality. This might include patching, reinforcing, or replacing damaged sections while maintaining the original opening size. Modifying a door frame, however, involves altering its dimensions or structure to change its purpose or accommodate a different door size or style. This could mean widening, heightening, or structurally changing the opening itself, rather than just fixing what's there.",
+        "@type": "Answer",
+        "description": "Repairing fixes existing damage to restore original condition, while modifying alters dimensions or structure to change the opening's size or purpose."
+      }
+    }
+  ],
+  "description": "Repairing fixes existing damage to restore original condition, while modifying alters dimensions or structure to change the opening's size or purpose."
+}

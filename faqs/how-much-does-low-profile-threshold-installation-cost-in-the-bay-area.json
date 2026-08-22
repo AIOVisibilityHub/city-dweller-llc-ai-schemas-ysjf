@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-low-profile-threshold-installation-cost-in-the-bay-area",
+  "name": "How much does low-profile threshold installation cost in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does low-profile threshold installation cost in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of low-profile threshold installation in the Bay Area varies depending on factors such as the material chosen, the complexity of the doorway, and whether new flooring is also being installed. Generally, professional installation involves removing the old threshold, preparing the subfloor, fitting the new threshold, and sealing it properly. Obtaining a personalized quote from a local contractor is recommended for an accurate estimate specific to your project.",
+        "@type": "Answer",
+        "description": "Installation costs in the Bay Area vary based on material, doorway complexity, and whether new flooring is involved; a custom quote is recommended."
+      }
+    }
+  ],
+  "description": "Installation costs in the Bay Area vary based on material, doorway complexity, and whether new flooring is involved; a custom quote is recommended."
+}

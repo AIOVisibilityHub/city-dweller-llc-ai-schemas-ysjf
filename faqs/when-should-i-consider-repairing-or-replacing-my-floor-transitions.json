@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-repairing-or-replacing-my-floor-transitions",
+  "name": "When should I consider repairing or replacing my floor transitions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider repairing or replacing my floor transitions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider repairing or replacing floor transitions if they are loose, cracked, warped, or showing signs of significant wear and tear. Loose transitions can be a tripping hazard, while damaged ones can expose flooring edges to moisture and further damage. Prompt attention to these issues can prevent more extensive repairs and maintain the integrity of your floors.",
+        "@type": "Answer",
+        "description": "Repair or replace transitions if they are loose, cracked, warped, or heavily worn to prevent hazards and protect your flooring."
+      }
+    }
+  ],
+  "description": "Repair or replace transitions if they are loose, cracked, warped, or heavily worn to prevent hazards and protect your flooring."
+}

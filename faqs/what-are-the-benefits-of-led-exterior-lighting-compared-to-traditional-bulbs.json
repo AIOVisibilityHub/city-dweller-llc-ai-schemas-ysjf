@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-benefits-of-led-exterior-lighting-compared-to-traditional-bulbs",
+  "name": "What are the benefits of LED exterior lighting compared to traditional bulbs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of LED exterior lighting compared to traditional bulbs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "LED exterior lighting offers several advantages over traditional incandescent or halogen bulbs. LEDs are significantly more energy-efficient, using up to 80% less energy, which leads to lower electricity bills. They also have a much longer lifespan, often lasting tens of thousands of hours, reducing the need for frequent bulb replacements. While the initial cost can be higher, the long-term savings in energy and maintenance often make LEDs a more economical and environmentally friendly choice. They also offer a variety of color temperatures and brightness levels.",
+        "@type": "Answer",
+        "description": "LED exterior lighting is more energy-efficient and has a longer lifespan than traditional bulbs, leading to lower energy bills and reduced maintenance, despite a higher upfront cost."
+      }
+    }
+  ],
+  "description": "LED exterior lighting is more energy-efficient and has a longer lifespan than traditional bulbs, leading to lower energy bills and reduced maintenance, despite"
+}

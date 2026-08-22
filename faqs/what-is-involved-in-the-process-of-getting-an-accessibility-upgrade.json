@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-involved-in-the-process-of-getting-an-accessibility-upgrade",
+  "name": "What is involved in the process of getting an accessibility upgrade?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the process of getting an accessibility upgrade?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with an initial consultation to assess your needs and the existing space. Next, we develop a detailed proposal outlining the scope of work, materials, timeline, and cost. Once approved, we assist with obtaining any necessary permits. Construction then proceeds, followed by a final inspection to ensure the upgrade meets specifications and satisfaction. We keep you informed at each stage.",
+        "@type": "Answer",
+        "description": "The process involves consultation, proposal, permitting, construction, and a final inspection, with communication throughout."
+      }
+    }
+  ],
+  "description": "The process involves consultation, proposal, permitting, construction, and a final inspection, with communication throughout."
+}

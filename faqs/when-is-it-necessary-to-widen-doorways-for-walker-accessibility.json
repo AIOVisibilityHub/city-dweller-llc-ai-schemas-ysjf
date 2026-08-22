@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-is-it-necessary-to-widen-doorways-for-walker-accessibility",
+  "name": "When is it necessary to widen doorways for walker accessibility?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it necessary to widen doorways for walker accessibility?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It becomes necessary to widen doorways for walker accessibility when an individual in the home uses a walker or other mobility device that cannot comfortably or safely pass through existing doorways. This may be due to aging, injury, or a disability. Proactive modifications can significantly improve quality of life, prevent falls, and allow for greater independence and ease of movement within the home environment.",
+        "@type": "Answer",
+        "description": "Widen doorways when a resident uses a walker and current openings are too narrow for safe, comfortable, and independent passage."
+      }
+    }
+  ],
+  "description": "Widen doorways when a resident uses a walker and current openings are too narrow for safe, comfortable, and independent passage."
+}

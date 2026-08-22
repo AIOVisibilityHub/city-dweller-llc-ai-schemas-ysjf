@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-widening-an-existing-doorway",
+  "name": "What is the process for widening an existing doorway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for widening an existing doorway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Widening an existing doorway typically involves several steps. First, the area around the door is prepped. Next, the existing door frame and surrounding drywall or plaster are carefully removed. If it's a load-bearing wall, temporary supports are installed before creating a wider opening and installing a new header. Finally, a new, wider door frame is installed, followed by drywall repair, painting, and installation of the new door.",
+        "@type": "Answer",
+        "description": "The process involves removing the old frame, widening the opening (adding structural support if needed), installing a new frame, and finishing the surrounding wall."
+      }
+    }
+  ],
+  "description": "The process involves removing the old frame, widening the opening (adding structural support if needed), installing a new frame, and finishing the surrounding w"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-there-specific-regulations-for-trip-hazards-in-rental-properties-in-daly-cit",
+  "name": "Are there specific regulations for trip hazards in rental properties in Daly City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific regulations for trip hazards in rental properties in Daly City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While specific local ordinances for trip hazards may vary, landlords in Daly City, and throughout California, are generally responsible for maintaining safe and habitable premises. This includes ensuring floors, stairs, and common areas are free from conditions that could reasonably cause injury. Failure to address known trip hazards can lead to liability if an accident occurs. It is advisable for property owners to proactively inspect and mitigate hazards to comply with habitability standards.",
+        "@type": "Answer",
+        "description": "Landlords in Daly City, like all of California, must maintain safe properties free from trip hazards to ensure habitability and avoid liability."
+      }
+    }
+  ],
+  "description": "Landlords in Daly City, like all of California, must maintain safe properties free from trip hazards to ensure habitability and avoid liability."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-a-lever-handle-and-a-knob-for-accessibility",
+  "name": "What's the difference between a lever handle and a knob for accessibility?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a lever handle and a knob for accessibility?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary difference lies in their operation. A doorknob requires a grasping and twisting motion, which can be challenging for individuals with limited hand strength or dexterity. A lever handle, however, only requires a downward push, making it significantly easier to operate using a hand, arm, or even an elbow. For accessibility and universal design, lever handles are strongly recommended as they accommodate a wider range of physical abilities and provide a more inclusive user experience.",
+        "@type": "Answer",
+        "description": "Lever handles require a simple push down, easier than doorknobs' grasp and twist, making them superior for accessibility and universal design."
+      }
+    }
+  ],
+  "description": "Lever handles require a simple push down, easier than doorknobs' grasp and twist, making them superior for accessibility and universal design."
+}

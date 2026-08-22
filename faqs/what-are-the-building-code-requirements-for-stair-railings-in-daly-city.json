@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-building-code-requirements-for-stair-railings-in-daly-city",
+  "name": "What are the building code requirements for stair railings in Daly City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the building code requirements for stair railings in Daly City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Daly City, as with much of the Bay Area, stair railings must typically meet specific building code requirements for height, graspability, and load-bearing capacity. Handrails are generally required on at least one side of stairs with four or more risers, and on both sides for wider staircases. They must be continuously graspable, mounted at a specific height (usually between 34 and 38 inches), and capable of withstanding certain force. Balusters must be spaced to prevent a 4-inch sphere from passing through. Consulting local Daly City building department guidelines or a contractor familiar with local codes is essential for compliance.",
+        "@type": "Answer",
+        "description": "Daly City stair railings must meet building codes for height (34-38 inches), graspability, and load-bearing capacity. Handrails are required on one or both sides, and baluster spacing must prevent a 4-inch sphere from passing through."
+      }
+    }
+  ],
+  "description": "Daly City stair railings must meet building codes for height (34-38 inches), graspability, and load-bearing capacity. Handrails are required on one or both side"
+}

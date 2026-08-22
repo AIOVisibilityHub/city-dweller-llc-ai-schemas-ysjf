@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-widening-my-interior-doorways-for-accessibility",
+  "name": "When should I consider widening my interior doorways for accessibility?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider widening my interior doorways for accessibility?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider widening interior doorways when current openings prevent safe and comfortable passage for wheelchairs, walkers, or other mobility aids. This might be due to a new or changing mobility need, or as part of a proactive plan for aging in place. Standard doorway widths may not accommodate modern mobility equipment. Early planning allows for modifications to be integrated smoothly, enhancing safety and independence within your home.",
+        "@type": "Answer",
+        "description": "Widen doorways when current openings impede mobility device passage, for new needs, or as part of aging-in-place planning."
+      }
+    }
+  ],
+  "description": "Widen doorways when current openings impede mobility device passage, for new needs, or as part of aging-in-place planning."
+}

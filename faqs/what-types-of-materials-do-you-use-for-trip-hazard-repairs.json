@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-materials-do-you-use-for-trip-hazard-repairs",
+  "name": "What types of materials do you use for trip hazard repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials do you use for trip hazard repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The materials we use for trip hazard repairs depend entirely on the nature of the hazard. For uneven flooring, we might use self-leveling compounds, shims, or replace subfloor sections. Damaged stairs may require new treads, risers, or structural reinforcement. For loose carpeting, we use appropriate adhesives or tack strips. We prioritize durable, high-quality materials that are suitable for the specific application, ensuring the repair is long-lasting and effectively eliminates the hazard while blending with your existing interior.",
+        "@type": "Answer",
+        "description": "Material choices vary by hazard, including self-leveling compounds for floors, new treads for stairs, or adhesives for carpets, all selected for durability."
+      }
+    }
+  ],
+  "description": "Material choices vary by hazard, including self-leveling compounds for floors, new treads for stairs, or adhesives for carpets, all selected for durability."
+}

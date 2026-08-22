@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-permits-to-widen-a-doorway-in-daly-city",
+  "name": "Do I need permits to widen a doorway in Daly City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits to widen a doorway in Daly City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Daly City, as with many municipalities, structural modifications like widening a doorway, especially in a load-bearing wall, generally require a building permit. Permits ensure that the work meets safety and building codes. City Dweller, LLC can assist you in navigating the permit application process with the City of Daly City, ensuring all work complies with local regulations and is properly inspected.",
+        "@type": "Answer",
+        "description": "Yes, widening a doorway, particularly in a load-bearing wall, often requires a building permit in Daly City to ensure code compliance."
+      }
+    }
+  ],
+  "description": "Yes, widening a doorway, particularly in a load-bearing wall, often requires a building permit in Daly City to ensure code compliance."
+}

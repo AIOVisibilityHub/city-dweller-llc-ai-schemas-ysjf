@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-importance-of-proper-lighting-for-stair-safety",
+  "name": "What is the importance of proper lighting for stair safety?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the importance of proper lighting for stair safety?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper lighting is crucial for stair safety because it enhances visibility, allowing users to clearly see each step, tread depth, and any potential obstacles. Inadequate lighting can cast shadows, creating an illusion of flat surfaces or obscuring step edges, which increases the risk of missteps and falls. Good lighting, including overhead fixtures and possibly step-level illumination, ensures safe navigation for all users, especially in low-light conditions or for those with impaired vision.",
+        "@type": "Answer",
+        "description": "Proper lighting is crucial for stair safety as it enhances visibility of steps and obstacles, preventing missteps and falls. Inadequate lighting creates shadows, increasing risks, especially in low light or for those with vision impairment."
+      }
+    }
+  ],
+  "description": "Proper lighting is crucial for stair safety as it enhances visibility of steps and obstacles, preventing missteps and falls. Inadequate lighting creates shadows"
+}

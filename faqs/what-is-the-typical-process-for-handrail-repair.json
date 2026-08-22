@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-handrail-repair",
+  "name": "What is the typical process for handrail repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for handrail repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our handrail repair process usually begins with an inspection to assess the damage and determine the best repair method. This is followed by preparing the area, which might include sanding, cleaning, or disassembling parts. Repairs then proceed with tasks such as welding, carpentry, fastener replacement, or applying protective coatings. Finally, we ensure the handrail is secure, stable, and meets safety standards.",
+        "@type": "Answer",
+        "description": "The process involves inspection, preparation, repair (welding, carpentry, fastener replacement), and final safety checks."
+      }
+    }
+  ],
+  "description": "The process involves inspection, preparation, repair (welding, carpentry, fastener replacement), and final safety checks."
+}

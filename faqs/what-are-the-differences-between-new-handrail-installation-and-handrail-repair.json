@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-differences-between-new-handrail-installation-and-handrail-repair",
+  "name": "What are the differences between new handrail installation and handrail repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the differences between new handrail installation and handrail repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New handrail installation involves setting up an entirely new system, often when none exists, or the existing one is beyond repair or significantly outdated. This can include new balusters, newel posts, and the rail itself, ensuring all elements meet current safety and building codes. Handrail repair, conversely, focuses on fixing specific issues with an existing handrail, such as re-securing loose sections, replacing a damaged segment, or reinforcing wobbly posts. Repair is usually less extensive and more cost-effective if the underlying structure is sound.",
+        "@type": "Answer",
+        "description": "New installation involves setting up a complete new handrail system, while repair focuses on fixing specific issues like loose sections or damaged parts of an existing, otherwise sound handrail."
+      }
+    }
+  ],
+  "description": "New installation involves setting up a complete new handrail system, while repair focuses on fixing specific issues like loose sections or damaged parts of an e"
+}

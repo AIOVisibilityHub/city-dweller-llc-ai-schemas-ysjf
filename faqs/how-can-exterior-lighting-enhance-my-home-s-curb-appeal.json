@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-exterior-lighting-enhance-my-home-s-curb-appeal",
+  "name": "How can exterior lighting enhance my home's curb appeal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can exterior lighting enhance my home's curb appeal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Exterior lighting dramatically enhances your home's curb appeal by highlighting architectural features, landscaping, and creating a welcoming ambiance after dark. Accent lighting can draw attention to attractive elements like unique textures, trees, or garden art. Path lighting provides a warm glow along walkways, inviting visitors. Uplighting on walls or columns can add dramatic flair, making your home stand out. Strategic lighting can transform your property from plain to picturesque, increasing its perceived value and making it more appealing to guests and prospective buyers.",
+        "@type": "Answer",
+        "description": "Exterior lighting enhances curb appeal by highlighting architectural features and landscaping, creating a welcoming ambiance, and adding dramatic flair to your home after dark."
+      }
+    }
+  ],
+  "description": "Exterior lighting enhances curb appeal by highlighting architectural features and landscaping, creating a welcoming ambiance, and adding dramatic flair to your"
+}

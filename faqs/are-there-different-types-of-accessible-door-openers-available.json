@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-there-different-types-of-accessible-door-openers-available",
+  "name": "Are there different types of accessible door openers available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there different types of accessible door openers available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, there are various types of accessible door openers, ranging from simple lever handles to fully automated systems. Manual options include easy-to-use lever or pull handles, requiring less grip than traditional doorknobs. Automated systems can be activated by pushing a button, remote control, or sensors, providing hands-free entry and exit. The best choice depends on the user's specific needs and the door type.",
+        "@type": "Answer",
+        "description": "Accessible door openers range from easy-to-use lever handles to fully automated, hands-free systems activated by buttons or sensors."
+      }
+    }
+  ],
+  "description": "Accessible door openers range from easy-to-use lever handles to fully automated, hands-free systems activated by buttons or sensors."
+}

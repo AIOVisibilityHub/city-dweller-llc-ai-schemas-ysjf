@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-upgrade-my-stairs-to-be-safer-for-pets",
+  "name": "Can I upgrade my stairs to be safer for pets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I upgrade my stairs to be safer for pets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can upgrade your stairs to be safer for pets. Common improvements include adding carpet runners or anti-slip treads to provide better traction, especially on slippery surfaces like hardwood or tile. Ensuring baluster spacing is narrow enough to prevent small pets from slipping through, and installing gates at the top and bottom of stairs can also enhance pet safety. Good lighting is also beneficial for pets with declining vision.",
+        "@type": "Answer",
+        "description": "To make stairs safer for pets, add carpet runners or anti-slip treads for traction, ensure narrow baluster spacing, and consider installing gates at both ends of the staircase."
+      }
+    }
+  ],
+  "description": "To make stairs safer for pets, add carpet runners or anti-slip treads for traction, ensure narrow baluster spacing, and consider installing gates at both ends o"
+}

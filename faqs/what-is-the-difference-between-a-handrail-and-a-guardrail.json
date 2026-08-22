@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-a-handrail-and-a-guardrail",
+  "name": "What is the difference between a handrail and a guardrail?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a handrail and a guardrail?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often confused, handrails and guardrails serve distinct safety functions. A handrail is designed to be grasped by hand to provide support and stability when ascending or descending stairs or ramps. It primarily prevents falls by offering a steadying grip. A guardrail, on the other hand, is a protective barrier installed to prevent accidental falls from elevated surfaces such as balconies, decks, or open stair landings where there's a significant drop. Guardrails are typically taller and designed to withstand more force than handrails.",
+        "@type": "Answer",
+        "description": "A handrail provides support for grasping on stairs, while a guardrail is a barrier on elevated surfaces to prevent falls."
+      }
+    }
+  ],
+  "description": "A handrail provides support for grasping on stairs, while a guardrail is a barrier on elevated surfaces to prevent falls."
+}

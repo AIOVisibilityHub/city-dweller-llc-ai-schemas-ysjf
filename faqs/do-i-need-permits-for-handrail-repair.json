@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-permits-for-handrail-repair",
+  "name": "Do I need permits for handrail repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for handrail repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor handrail repairs, such as tightening fasteners or cosmetic fixes, typically do not require permits. However, if the repair involves significant structural changes, altering the height or configuration of the handrail, or replacing a substantial portion of it, a permit may be required by local building codes in cities like San Francisco or Daly City. We can advise you on permit requirements during our assessment.",
+        "@type": "Answer",
+        "description": "Minor repairs usually don't need permits. Significant structural changes or replacements may require them by local building codes."
+      }
+    }
+  ],
+  "description": "Minor repairs usually don't need permits. Significant structural changes or replacements may require them by local building codes."
+}

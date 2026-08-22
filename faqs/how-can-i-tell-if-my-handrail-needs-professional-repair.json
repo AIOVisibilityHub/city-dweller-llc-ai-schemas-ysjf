@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-tell-if-my-handrail-needs-professional-repair",
+  "name": "How can I tell if my handrail needs professional repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my handrail needs professional repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should seek professional repair if your handrail feels loose or wobbly, shows signs of rust or corrosion that affect its integrity, has large cracks or splinters, or if the mounting hardware is visibly damaged. Any compromise to the handrail's stability or safety should be addressed promptly to prevent accidents.",
+        "@type": "Answer",
+        "description": "Seek professional repair if your handrail is loose, wobbly, rusted, cracked, splintered, or has damaged mounting hardware."
+      }
+    }
+  ],
+  "description": "Seek professional repair if your handrail is loose, wobbly, rusted, cracked, splintered, or has damaged mounting hardware."
+}

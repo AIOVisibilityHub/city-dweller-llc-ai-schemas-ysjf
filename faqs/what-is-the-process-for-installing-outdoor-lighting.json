@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-installing-outdoor-lighting",
+  "name": "What is the process for installing outdoor lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing outdoor lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The exterior lighting installation process typically begins with an initial consultation and site assessment to understand your goals and property layout. Our team then designs a lighting plan, considering aesthetics, functionality, and local codes. Once the design is approved, we handle all necessary permits. Installation involves preparing the site, running electrical wiring, installing fixtures, and connecting to the power source. Finally, we test the system and adjust aiming for optimal effect. We ensure minimal disruption and a clean worksite.",
+        "@type": "Answer",
+        "description": "The process involves a consultation, design, permitting, installation of wiring and fixtures, and final testing. We manage each step to ensure a smooth, professional installation."
+      }
+    }
+  ],
+  "description": "The process involves a consultation, design, permitting, installation of wiring and fixtures, and final testing. We manage each step to ensure a smooth, profess"
+}

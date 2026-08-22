@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-trip-hazard-removal-improve-my-home-s-accessibility",
+  "name": "Can trip hazard removal improve my home's accessibility?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can trip hazard removal improve my home's accessibility?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, absolutely. Removing trip hazards is a fundamental step in improving home accessibility. By eliminating uneven surfaces, clutter, and obstacles, pathways become clearer and safer for everyone, especially those using wheelchairs, walkers, or canes. Addressing issues like stair damage or lack of handrails can also be integrated into broader accessibility modifications. A safer, hazard-free environment allows for easier and more confident movement throughout the home, enhancing independence and overall quality of life.",
+        "@type": "Answer",
+        "description": "Yes, removing trip hazards makes pathways clearer and safer, directly improving home accessibility for all, especially those with mobility aids."
+      }
+    }
+  ],
+  "description": "Yes, removing trip hazards makes pathways clearer and safer, directly improving home accessibility for all, especially those with mobility aids."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-exterior-lighting-are-available-for-homes",
+  "name": "What types of exterior lighting are available for homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of exterior lighting are available for homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are many options for exterior lighting, each serving different purposes. Common types include accent lighting to highlight architectural features or landscaping, path lighting for safety and aesthetics along walkways, and security lighting with motion sensors to deter intruders. Other options include floodlights for broad illumination, step lights for stairs, and decorative fixtures like wall sconces or hanging lanterns to enhance curb appeal. The best choice depends on your property's specific needs, desired ambiance, and security requirements.",
+        "@type": "Answer",
+        "description": "Exterior lighting types include accent, path, security, floodlights, step lights, and decorative fixtures, each serving different functional or aesthetic purposes for your home."
+      }
+    }
+  ],
+  "description": "Exterior lighting types include accent, path, security, floodlights, step lights, and decorative fixtures, each serving different functional or aesthetic purpos"
+}

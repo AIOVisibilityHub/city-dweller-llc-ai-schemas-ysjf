@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-maintain-my-newly-installed-handrail",
+  "name": "How do I maintain my newly installed handrail?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I maintain my newly installed handrail?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance depends largely on the material of your handrail. Wooden handrails benefit from regular cleaning with a damp cloth and occasional re-sealing or re-staining to protect against wear and moisture. Metal handrails, particularly iron, may require periodic cleaning and touch-ups to prevent rust, while aluminum and stainless steel are more resistant and need less upkeep. Glass handrails should be cleaned with glass cleaner to maintain clarity. Regular inspection for loose fasteners or damage is recommended for all types to ensure continued safety.",
+        "@type": "Answer",
+        "description": "Maintain wood handrails by cleaning and sealing; metal ones by cleaning and preventing rust. Glass needs regular cleaning. Inspect all types periodically for safety."
+      }
+    }
+  ],
+  "description": "Maintain wood handrails by cleaning and sealing; metal ones by cleaning and preventing rust. Glass needs regular cleaning. Inspect all types periodically for sa"
+}

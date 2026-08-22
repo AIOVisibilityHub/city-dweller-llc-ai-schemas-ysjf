@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-steps-can-i-take-to-maintain-my-handrails-after-repair",
+  "name": "What steps can I take to maintain my handrails after repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps can I take to maintain my handrails after repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After repair, regular maintenance can prolong the life of your handrails. For wood, periodically inspect for moisture damage and reapply sealants or paint as needed. For metal, clean off rust promptly and reapply protective coatings. Regularly check fasteners for tightness and address any minor issues early to prevent more extensive damage.",
+        "@type": "Answer",
+        "description": "Regularly inspect for damage, reapply sealants/paint for wood, clean rust and reapply coatings for metal, and check fasteners."
+      }
+    }
+  ],
+  "description": "Regularly inspect for damage, reapply sealants/paint for wood, clean rust and reapply coatings for metal, and check fasteners."
+}

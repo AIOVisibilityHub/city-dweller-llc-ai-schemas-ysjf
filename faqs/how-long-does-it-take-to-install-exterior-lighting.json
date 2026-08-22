@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-install-exterior-lighting",
+  "name": "How long does it take to install exterior lighting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install exterior lighting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an exterior lighting installation project depends on its scope and complexity. A small project, such as adding a few security lights or path lights, might take one to two days. More extensive landscape lighting systems, involving multiple zones, complex wiring, or specialized fixtures, could take several days to a week or more. We'll provide a clear timeline estimate after evaluating your specific project during the initial consultation. Factors like weather conditions can also influence the schedule.",
+        "@type": "Answer",
+        "description": "Installation time varies, from one to two days for small projects to a week or more for extensive systems. We provide a timeline estimate after an on-site evaluation."
+      }
+    }
+  ],
+  "description": "Installation time varies, from one to two days for small projects to a week or more for extensive systems. We provide a timeline estimate after an on-site evalu"
+}

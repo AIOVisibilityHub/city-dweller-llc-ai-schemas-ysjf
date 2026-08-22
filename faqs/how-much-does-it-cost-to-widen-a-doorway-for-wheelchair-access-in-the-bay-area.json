@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-widen-a-doorway-for-wheelchair-access-in-the-bay-area",
+  "name": "How much does it cost to widen a doorway for wheelchair access in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to widen a doorway for wheelchair access in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to widen a doorway in the Bay Area varies significantly based on factors like the existing wall structure, materials needed, and labor rates. A non-load-bearing wall might be less expensive than a load-bearing wall, which requires structural modifications and permits. Costs can range from a few hundred dollars for minor adjustments to several thousand for more complex structural changes. It’s best to get a detailed quote after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Costs to widen a doorway for wheelchair access in the Bay Area depend on wall structure and materials, ranging from hundreds to several thousands of dollars."
+      }
+    }
+  ],
+  "description": "Costs to widen a doorway for wheelchair access in the Bay Area depend on wall structure and materials, ranging from hundreds to several thousands of dollars."
+}

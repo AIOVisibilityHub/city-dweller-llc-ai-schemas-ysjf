@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-for-handrail-installation",
+  "name": "What is the typical cost for handrail installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for handrail installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of handrail installation varies significantly based on several factors. These include the material chosen (wood, metal, glass), the length of the handrail, the complexity of the design, and whether it's an indoor or outdoor installation. Labor costs, site preparation, and any necessary code compliance adjustments also contribute to the total. For an accurate estimate, a site visit is usually required to assess the specific conditions and your preferences. We provide detailed quotes after understanding your project scope.",
+        "@type": "Answer",
+        "description": "Handrail installation costs vary depending on material, length, design complexity, and labor. A site visit is needed for an accurate quote."
+      }
+    }
+  ],
+  "description": "Handrail installation costs vary depending on material, length, design complexity, and labor. A site visit is needed for an accurate quote."
+}

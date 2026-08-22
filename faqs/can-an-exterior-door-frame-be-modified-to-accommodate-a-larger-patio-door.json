@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-an-exterior-door-frame-be-modified-to-accommodate-a-larger-patio-door",
+  "name": "Can an exterior door frame be modified to accommodate a larger patio door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can an exterior door frame be modified to accommodate a larger patio door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, an exterior door frame can be modified to accommodate a larger patio door, but this is a significant project. It almost always involves structural changes, including the installation of a new, larger header to support the increased opening. This work typically requires engineering plans and building permits due to its impact on the home's structural integrity and weatherproofing. Proper flashing, insulation, and sealing are critical to prevent leaks and maintain energy efficiency.",
+        "@type": "Answer",
+        "description": "Yes, but it's a significant project involving structural changes, new headers, engineering plans, and permits to ensure integrity and weatherproofing."
+      }
+    }
+  ],
+  "description": "Yes, but it's a significant project involving structural changes, new headers, engineering plans, and permits to ensure integrity and weatherproofing."
+}

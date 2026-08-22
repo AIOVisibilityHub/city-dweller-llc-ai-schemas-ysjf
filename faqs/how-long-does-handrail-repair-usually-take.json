@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-handrail-repair-usually-take",
+  "name": "How long does handrail repair usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does handrail repair usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of handrail repair depends on the scope of the damage. Simple repairs like tightening loose connections or minor cosmetic fixes can often be completed within a few hours to a single day. More complex repairs involving material fabrication, significant structural work, or extensive finishing may take several days. We provide an estimated timeline with your quote.",
+        "@type": "Answer",
+        "description": "Simple repairs take hours to a day; complex repairs can take several days. We provide a timeline with your quote."
+      }
+    }
+  ],
+  "description": "Simple repairs take hours to a day; complex repairs can take several days. We provide a timeline with your quote."
+}

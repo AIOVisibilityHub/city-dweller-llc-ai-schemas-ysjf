@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-interior-trip-hazard-removal",
+  "name": "What is interior trip hazard removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is interior trip hazard removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interior trip hazard removal involves identifying and eliminating conditions within a property that could cause someone to trip and fall. Common hazards include uneven flooring, loose rugs, damaged stairs, exposed wires, and transitions between different floor types. Professionals assess the area, recommend solutions, and perform repairs or modifications to create a safer indoor environment, reducing the risk of accidents for residents and visitors.",
+        "@type": "Answer",
+        "description": "Interior trip hazard removal identifies and eliminates conditions inside a property that can cause trips and falls."
+      }
+    }
+  ],
+  "description": "Interior trip hazard removal identifies and eliminates conditions inside a property that can cause trips and falls."
+}
