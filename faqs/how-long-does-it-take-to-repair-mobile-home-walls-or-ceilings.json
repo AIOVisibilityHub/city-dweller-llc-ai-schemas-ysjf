@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-repair-mobile-home-walls-or-ceilings",
+  "name": "How long does it take to repair mobile home walls or ceilings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair mobile home walls or ceilings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of mobile home wall or ceiling repair depends on the scope and complexity of the damage. Small patches or minor crack repairs might take a few hours to a day. More extensive damage, such as water-damaged sections or multiple areas requiring replacement, could take several days, especially if drying time or multiple coats of finishing materials are needed. A clear timeline can be provided after an initial assessment.",
+        "@type": "Answer",
+        "description": "Repair time varies; small patches take hours, while extensive damage can take several days. A timeline is provided after assessment."
+      }
+    }
+  ],
+  "description": "Repair time varies; small patches take hours, while extensive damage can take several days. A timeline is provided after assessment."
+}

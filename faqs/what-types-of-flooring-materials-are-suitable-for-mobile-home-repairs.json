@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-flooring-materials-are-suitable-for-mobile-home-repairs",
+  "name": "What types of flooring materials are suitable for mobile home repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of flooring materials are suitable for mobile home repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When repairing mobile home flooring, suitable materials often include laminate, vinyl planks, engineered hardwood, or carpet. The best choice depends on the specific area and your needs. For kitchens and bathrooms, waterproof vinyl plank flooring is ideal due to its moisture resistance. High-traffic areas might benefit from durable laminate or engineered wood. Carpet provides warmth and sound insulation for living areas and bedrooms. Consider factors like moisture exposure, foot traffic, and budget when selecting materials.",
+        "@type": "Answer",
+        "description": "Suitable materials include laminate, vinyl planks, engineered hardwood, or carpet. Select based on room, traffic, moisture, and budget."
+      }
+    }
+  ],
+  "description": "Suitable materials include laminate, vinyl planks, engineered hardwood, or carpet. Select based on room, traffic, moisture, and budget."
+}

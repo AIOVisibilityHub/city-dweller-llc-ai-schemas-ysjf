@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-rental-property-restoration",
+  "name": "What is rental property restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is rental property restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rental property restoration involves repairing and renovating a rental unit after a tenant vacates, or following damage, to prepare it for new occupancy. This can include cosmetic updates like painting and flooring, as well as structural repairs, plumbing, electrical work, and addressing wear and tear. The goal is to return the property to a desirable, safe, and functional condition, maximizing its appeal and value for future tenants.",
+        "@type": "Answer",
+        "description": "Rental property restoration repairs and renovates a rental unit to prepare it for new tenants or address damage, ensuring it's safe and appealing."
+      }
+    }
+  ],
+  "description": "Rental property restoration repairs and renovates a rental unit to prepare it for new tenants or address damage, ensuring it's safe and appealing."
+}

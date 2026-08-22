@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-involved-in-the-water-damage-cleanup-process",
+  "name": "What is involved in the water damage cleanup process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the water damage cleanup process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The water damage cleanup process typically involves several key stages. First, emergency contact and inspection identify the source and extent of damage. This is followed by water extraction to remove standing water. Next, professional drying and dehumidification eliminate residual moisture from structures and contents. Finally, cleaning, sanitizing, and deodorizing are performed to prevent mold and bacteria, preparing the area for restoration and repair work.",
+        "@type": "Answer",
+        "description": "Cleanup involves inspection, water extraction, professional drying and dehumidification, then cleaning, sanitizing, and deodorizing to prepare for restoration."
+      }
+    }
+  ],
+  "description": "Cleanup involves inspection, water extraction, professional drying and dehumidification, then cleaning, sanitizing, and deodorizing to prepare for restoration."
+}

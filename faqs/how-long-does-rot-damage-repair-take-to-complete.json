@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-rot-damage-repair-take-to-complete",
+  "name": "How long does rot damage repair take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does rot damage repair take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of rot damage repair depends on the scope and severity of the issue. Small, non-structural repairs might be completed within a day or two. More extensive damage involving structural elements, multiple areas, or requiring significant moisture source remediation could take several days to over a week. Factors like drying times for sealants or paints, and permit requirements in areas like Pacifica or Daly City, can also influence the timeline. A detailed project schedule can be provided after an initial assessment.",
+        "@type": "Answer",
+        "description": "Repair time varies from a day for minor rot to over a week for extensive, structural damage, depending on scope and drying times."
+      }
+    }
+  ],
+  "description": "Repair time varies from a day for minor rot to over a week for extensive, structural damage, depending on scope and drying times."
+}

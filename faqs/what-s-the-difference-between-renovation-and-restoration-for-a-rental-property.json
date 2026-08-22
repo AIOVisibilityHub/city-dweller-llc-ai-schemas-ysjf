@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-renovation-and-restoration-for-a-rental-property",
+  "name": "What's the difference between renovation and restoration for a rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between renovation and restoration for a rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Renovation often refers to updating and improving the aesthetic or functional aspects of a property, such as modernizing kitchens or bathrooms, to increase its value or appeal. Restoration, while it can include renovation elements, primarily focuses on repairing damage and returning a property to a previous or original condition of safety and habitability. For rental properties, restoration ensures the unit is ready for new tenants after issues like wear and tear, or specific damage.",
+        "@type": "Answer",
+        "description": "Renovation updates aesthetics or function; restoration primarily repairs damage to return a property to a safe, habitable condition."
+      }
+    }
+  ],
+  "description": "Renovation updates aesthetics or function; restoration primarily repairs damage to return a property to a safe, habitable condition."
+}

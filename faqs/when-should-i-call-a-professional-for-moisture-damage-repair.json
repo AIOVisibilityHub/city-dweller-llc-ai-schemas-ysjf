@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-call-a-professional-for-moisture-damage-repair",
+  "name": "When should I call a professional for moisture damage repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for moisture damage repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for moisture damage repair when the damage is extensive, covers a large area, or when you suspect structural compromise. If you find mold growth exceeding 10 square feet, or if the source of the moisture is not immediately clear, professional assessment is crucial. Professionals can accurately identify the source, assess the full extent of the damage, and ensure proper remediation to prevent future issues and health risks.",
+        "@type": "Answer",
+        "description": "Call a professional when damage is extensive, covers a large area, involves structural concerns, or if mold growth is significant (over 10 sq ft)."
+      }
+    }
+  ],
+  "description": "Call a professional when damage is extensive, covers a large area, involves structural concerns, or if mold growth is significant (over 10 sq ft)."
+}

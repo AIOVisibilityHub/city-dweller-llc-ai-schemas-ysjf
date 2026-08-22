@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-process-for-repairing-storm-damaged-exterior-paint-and-finishes",
+  "name": "What's the process for repairing storm-damaged exterior paint and finishes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the process for repairing storm-damaged exterior paint and finishes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for repairing storm-damaged exterior paint typically begins with an assessment to identify all affected areas and the underlying cause. Next, surfaces are meticulously prepared, which may involve scraping loose paint, cleaning, sanding, and repairing any substrate damage like wood rot or cracks. Once prepared, appropriate primers are applied, followed by high-quality exterior paint. Multiple coats might be necessary to ensure durability and a seamless finish, restoring your home's protection and appearance.",
+        "@type": "Answer",
+        "description": "The process involves damage assessment, thorough surface preparation (scraping, cleaning, repairing), priming, and applying high-quality exterior paint for a durable finish."
+      }
+    }
+  ],
+  "description": "The process involves damage assessment, thorough surface preparation (scraping, cleaning, repairing), priming, and applying high-quality exterior paint for a du"
+}

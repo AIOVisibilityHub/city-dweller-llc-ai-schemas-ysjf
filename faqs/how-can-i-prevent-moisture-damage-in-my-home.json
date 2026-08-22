@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-prevent-moisture-damage-in-my-home",
+  "name": "How can I prevent moisture damage in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent moisture damage in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing moisture damage involves regular maintenance and vigilance. Ensure proper ventilation in bathrooms and kitchens, promptly fix any leaks from pipes or the roof, and maintain good exterior drainage around your foundation. Regularly inspect your attic, crawl spaces, and basement for signs of dampness or mold. Using dehumidifiers in humid areas and ensuring proper sealing around windows and doors can also significantly reduce the risk of moisture intrusion.",
+        "@type": "Answer",
+        "description": "Prevent moisture damage by ensuring good ventilation, fixing leaks promptly, maintaining exterior drainage, and regularly inspecting vulnerable areas for dampness."
+      }
+    }
+  ],
+  "description": "Prevent moisture damage by ensuring good ventilation, fixing leaks promptly, maintaining exterior drainage, and regularly inspecting vulnerable areas for dampne"
+}

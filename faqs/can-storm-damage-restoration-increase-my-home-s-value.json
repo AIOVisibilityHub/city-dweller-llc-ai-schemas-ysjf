@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-storm-damage-restoration-increase-my-home-s-value",
+  "name": "Can storm damage restoration increase my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can storm damage restoration increase my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While the primary goal of storm damage restoration is to return your home to its pre-damage condition, some repairs can inadvertently increase its value. If outdated components are replaced with newer, more energy-efficient, or higher-quality materials (e.g., impact-resistant roofing, modern windows), this can be seen as an upgrade. Additionally, addressing underlying issues like water intrusion or structural weaknesses during restoration can prevent future problems, contributing to long-term property value and appeal.",
+        "@type": "Answer",
+        "description": "Yes, if restoration involves upgrading to newer, more efficient, or higher-quality materials, it can potentially increase your home's value beyond its pre-damage state."
+      }
+    }
+  ],
+  "description": "Yes, if restoration involves upgrading to newer, more efficient, or higher-quality materials, it can potentially increase your home's value beyond its pre-damag"
+}

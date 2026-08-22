@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-often-should-a-mobile-home-be-repainted",
+  "name": "How often should a mobile home be repainted?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should a mobile home be repainted?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A mobile home typically needs repainting every 7 to 15 years, although this can vary. Factors influencing the frequency include the quality of the previous paint job, the type of paint used, the weather conditions it's exposed to, and how well it's maintained. Signs that indicate it's time to repaint include peeling, cracking, blistering, chalking, or significant fading of the current paint. Proactive repainting before severe deterioration sets in can protect the underlying siding and potentially reduce future repair costs.",
+        "@type": "Answer",
+        "description": "Mobile homes generally need repainting every 7-15 years, or when showing signs of peeling, cracking, or fading."
+      }
+    }
+  ],
+  "description": "Mobile homes generally need repainting every 7-15 years, or when showing signs of peeling, cracking, or fading."
+}

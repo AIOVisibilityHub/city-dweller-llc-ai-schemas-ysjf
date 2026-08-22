@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-dry-out-my-home-myself-after-water-damage-or-do-i-need-professionals",
+  "name": "Can I dry out my home myself after water damage, or do I need professionals?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I dry out my home myself after water damage, or do I need professionals?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While small spills might be manageable, significant water damage often requires professional intervention. Professionals have specialized equipment like industrial-strength dehumidifiers and air movers that can thoroughly dry out hidden moisture within walls, subfloors, and insulation. Improper or incomplete drying can lead to mold growth, structural damage, and long-term health issues. For anything beyond minor surface water, professional help is recommended to ensure complete remediation.",
+        "@type": "Answer",
+        "description": "For significant water damage, professionals are crucial; they use specialized equipment to dry hidden moisture, preventing mold and structural issues that DIY methods often miss."
+      }
+    }
+  ],
+  "description": "For significant water damage, professionals are crucial; they use specialized equipment to dry hidden moisture, preventing mold and structural issues that DIY m"
+}

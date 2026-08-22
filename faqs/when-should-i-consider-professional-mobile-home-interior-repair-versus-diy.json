@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-professional-mobile-home-interior-repair-versus-diy",
+  "name": "When should I consider professional mobile home interior repair versus DIY?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider professional mobile home interior repair versus DIY?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider professional mobile home interior repair for complex issues like extensive water damage, structural problems, electrical or plumbing system repairs, or if you lack the necessary tools and experience. Professionals can ensure repairs meet safety standards and prevent future issues. DIY is generally suitable for minor cosmetic repairs, such as patching small holes, painting, or replacing simple fixtures, provided you have the skills and understand mobile home construction specifics. Incorrect DIY repairs can lead to more costly problems down the line.",
+        "@type": "Answer",
+        "description": "Choose professional repair for complex issues like water damage or structural problems; DIY for minor cosmetic fixes if you have the skills."
+      }
+    }
+  ],
+  "description": "Choose professional repair for complex issues like water damage or structural problems; DIY for minor cosmetic fixes if you have the skills."
+}

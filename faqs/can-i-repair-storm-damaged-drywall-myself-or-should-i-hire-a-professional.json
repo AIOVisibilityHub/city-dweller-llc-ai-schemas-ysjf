@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-storm-damaged-drywall-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair storm-damaged drywall myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair storm-damaged drywall myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor surface-level damage, like small cosmetic blemishes, might be manageable as a DIY project. However, if the drywall is wet, soft, or showing signs of mold, it's strongly recommended to hire a professional. Water damage often extends beyond visible areas, affecting insulation and framing. Professionals can properly assess the full extent of damage, ensure complete drying, prevent mold growth, and guarantee structural integrity, saving you time and potential future problems.",
+        "@type": "Answer",
+        "description": "While minor surface damage might be DIY, extensive or wet drywall with potential mold requires a professional for proper assessment, drying, and structural integrity."
+      }
+    }
+  ],
+  "description": "While minor surface damage might be DIY, extensive or wet drywall with potential mold requires a professional for proper assessment, drying, and structural inte"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-mobile-home-and-traditional-home-repairs",
+  "name": "What is the difference between mobile home and traditional home repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between mobile home and traditional home repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mobile homes have distinct construction differences from traditional site-built homes, which impact repair methods. They often use lighter materials, different framing techniques, and have unique foundation (or anchoring) systems. Repairs may require specialized knowledge of these materials and systems, such as specific roofing types or chassis-related issues, which differ from repairs on conventional stick-built houses.",
+        "@type": "Answer",
+        "description": "Mobile home repairs differ from traditional home repairs due to unique construction, materials, framing techniques, and foundation systems, requiring specialized knowledge."
+      }
+    }
+  ],
+  "description": "Mobile home repairs differ from traditional home repairs due to unique construction, materials, framing techniques, and foundation systems, requiring specialize"
+}

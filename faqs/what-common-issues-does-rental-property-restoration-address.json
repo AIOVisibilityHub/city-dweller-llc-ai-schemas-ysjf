@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-common-issues-does-rental-property-restoration-address",
+  "name": "What common issues does rental property restoration address?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common issues does rental property restoration address?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rental property restoration commonly addresses a range of issues from tenant-induced damage like holes in walls or stained carpets, to general wear and tear such as outdated fixtures, faded paint, and worn flooring. It also includes repairing damage from incidents like leaks, mold growth, or minor structural problems. The goal is to resolve these issues to meet safety standards and tenant expectations.",
+        "@type": "Answer",
+        "description": "Restoration addresses tenant damage, wear and tear, outdated fixtures, faded paint, and issues from leaks or mold."
+      }
+    }
+  ],
+  "description": "Restoration addresses tenant damage, wear and tear, outdated fixtures, faded paint, and issues from leaks or mold."
+}

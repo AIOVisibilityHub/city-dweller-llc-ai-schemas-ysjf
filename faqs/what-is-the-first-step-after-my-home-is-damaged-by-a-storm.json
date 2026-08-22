@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-first-step-after-my-home-is-damaged-by-a-storm",
+  "name": "What is the first step after my home is damaged by a storm?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the first step after my home is damaged by a storm?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately after storm damage, ensure everyone's safety and prevent further damage by covering broken windows or leaky roofs. Document all damage with photos and videos for insurance purposes. Contact your insurance provider as soon as possible to report the claim. Next, reach out to a reputable general contractor specializing in storm damage restoration. They can assess the full extent of the damage, provide an estimate, and help guide you through the repair process.",
+        "@type": "Answer",
+        "description": "Prioritize safety, document damage, contact your insurance, and then call a general contractor for assessment and repair."
+      }
+    }
+  ],
+  "description": "Prioritize safety, document damage, contact your insurance, and then call a general contractor for assessment and repair."
+}

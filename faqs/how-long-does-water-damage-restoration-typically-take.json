@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-water-damage-restoration-typically-take",
+  "name": "How long does water damage restoration typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does water damage restoration typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of water damage restoration varies significantly based on the extent of the damage, the type of water (e.g., clean, grey, black), and the materials affected. Minor issues might take a few days for drying and repairs. Extensive damage involving structural components, multiple rooms, or mold remediation can extend to several weeks. A professional assessment will provide a more accurate timeline.",
+        "@type": "Answer",
+        "description": "Restoration time varies, from a few days for minor issues to several weeks for extensive damage, depending on the severity and type of water."
+      }
+    }
+  ],
+  "description": "Restoration time varies, from a few days for minor issues to several weeks for extensive damage, depending on the severity and type of water."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-add-an-extension-or-expand-my-mobile-home",
+  "name": "Can I add an extension or expand my mobile home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add an extension or expand my mobile home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding an extension or expanding a mobile home is a complex process. It involves significant structural work and adherence to specific building codes for manufactured homes. Local zoning ordinances and mobile home park regulations (if applicable) also play a crucial role. Not all mobile homes or locations are suitable for additions. It's essential to consult with a qualified contractor and local planning department to understand feasibility, permit requirements, and potential limitations before considering any expansion.",
+        "@type": "Answer",
+        "description": "Expanding a mobile home is complex, requiring structural work and adherence to building codes, zoning, and park regulations; consult a contractor and local planning department for feasibility."
+      }
+    }
+  ],
+  "description": "Expanding a mobile home is complex, requiring structural work and adherence to building codes, zoning, and park regulations; consult a contractor and local plan"
+}

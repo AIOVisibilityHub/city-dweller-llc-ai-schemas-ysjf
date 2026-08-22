@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-do-first-when-planning-a-rental-property-restoration-project",
+  "name": "What should I do first when planning a rental property restoration project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first when planning a rental property restoration project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The first step in planning a rental property restoration project is a thorough assessment of the property's current condition and a clear definition of your goals. Determine what needs repair, replacement, or upgrade. Establish a budget and research potential contractors. Getting multiple bids and ensuring the contractor understands your vision and timeline are crucial initial steps before any work begins.",
+        "@type": "Answer",
+        "description": "First, assess the property's condition, define your goals, set a budget, and research qualified general contractors for bids."
+      }
+    }
+  ],
+  "description": "First, assess the property's condition, define your goals, set a budget, and research qualified general contractors for bids."
+}

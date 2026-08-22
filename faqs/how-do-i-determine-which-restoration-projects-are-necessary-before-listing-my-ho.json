@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-determine-which-restoration-projects-are-necessary-before-listing-my-ho",
+  "name": "How do I determine which restoration projects are necessary before listing my home for sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I determine which restoration projects are necessary before listing my home for sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Start with a thorough home inspection to identify any underlying issues. Prioritize critical repairs such as structural problems, roofing, plumbing, or electrical systems. Cosmetic updates like painting or landscaping can then be addressed to enhance curb appeal. Consider a pre-listing appraisal or consultation with a real estate agent for insights into buyer expectations and market trends in areas like Pacifica or Daly City. They can advise on what updates will most impact your sale price and speed.",
+        "@type": "Answer",
+        "description": "Assess necessary projects through a home inspection, prioritizing critical repairs. Consult a real estate agent for market-specific advice on cosmetic updates."
+      }
+    }
+  ],
+  "description": "Assess necessary projects through a home inspection, prioritizing critical repairs. Consult a real estate agent for market-specific advice on cosmetic updates."
+}

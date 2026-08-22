@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-tell-if-i-have-mold-damage-in-my-walls-or-ceilings",
+  "name": "How can I tell if I have mold damage in my walls or ceilings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if I have mold damage in my walls or ceilings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mold often manifests as visible discoloration, appearing in patches of green, black, white, or fuzzy growth on surfaces like walls and ceilings. You might also notice a persistent musty, earthy odor, even if you can't see the mold itself, as mold often thrives behind drywall or under flooring. Peeling paint, warped drywall, or recurring respiratory issues among household members can also be indicators of hidden mold growth. If you suspect mold, especially after a leak or flood, it's best to have a professional inspection.",
+        "@type": "Answer",
+        "description": "Look for visible discoloration, a musty odor, or signs of water damage like peeling paint or warped drywall. These can indicate mold growth."
+      }
+    }
+  ],
+  "description": "Look for visible discoloration, a musty odor, or signs of water damage like peeling paint or warped drywall. These can indicate mold growth."
+}

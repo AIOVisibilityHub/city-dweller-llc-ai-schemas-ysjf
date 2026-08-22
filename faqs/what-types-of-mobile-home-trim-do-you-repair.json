@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-mobile-home-trim-do-you-repair",
+  "name": "What types of mobile home trim do you repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of mobile home trim do you repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We repair various types of mobile home trim, both interior and exterior. This includes exterior trim components such as fascia, skirting trim, window and door casings, and corner trim, which are often exposed to the elements. For interior trim, we handle baseboards, door and window casings, crown molding, and other decorative elements that may be loose, damaged, or outdated. Our goal is to restore the aesthetic appeal and protective function of all trim components.",
+        "@type": "Answer",
+        "description": "We repair both interior and exterior mobile home trim, including exterior fascia, skirting, window/door casings, and interior baseboards, crown molding, and decorative elements."
+      }
+    }
+  ],
+  "description": "We repair both interior and exterior mobile home trim, including exterior fascia, skirting, window/door casings, and interior baseboards, crown molding, and dec"
+}

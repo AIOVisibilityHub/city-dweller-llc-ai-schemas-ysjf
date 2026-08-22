@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-drywall-damage-in-mobile-homes",
+  "name": "What causes drywall damage in mobile homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes drywall damage in mobile homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common causes include water leaks from roofs or plumbing, impact damage from moving furniture or accidents, and foundation shifts which can lead to cracks. Environmental factors like humidity changes can also contribute to issues. Identifying the underlying cause is important not only for repair but also to prevent recurrence, ensuring a lasting solution.",
+        "@type": "Answer",
+        "description": "Water leaks, impact, foundation shifts, and humidity changes are common causes of drywall damage in mobile homes."
+      }
+    }
+  ],
+  "description": "Water leaks, impact, foundation shifts, and humidity changes are common causes of drywall damage in mobile homes."
+}

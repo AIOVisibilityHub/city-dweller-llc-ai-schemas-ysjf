@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-repairing-and-replacing-a-mobile-home-door-frame",
+  "name": "What is the difference between repairing and replacing a mobile home door frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between repairing and replacing a mobile home door frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a mobile home door frame involves fixing specific damaged sections, like patching small cracks, reinforcing weak points, or replacing localized areas of rot. This is often suitable for minor to moderate damage. Replacing a door frame means removing the entire existing frame and installing a new one. This is necessary for extensive damage such as severe warping, widespread water damage, or compromised structural integrity that cannot be safely or effectively repaired. Replacement ensures a completely new, sound structure.",
+        "@type": "Answer",
+        "description": "Repairing fixes specific damaged sections of a door frame, while replacing involves installing an entirely new frame for extensive or structural damage."
+      }
+    }
+  ],
+  "description": "Repairing fixes specific damaged sections of a door frame, while replacing involves installing an entirely new frame for extensive or structural damage."
+}

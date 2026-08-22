@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-trim-are-used-on-mobile-homes",
+  "name": "What types of trim are used on mobile homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of trim are used on mobile homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mobile homes commonly use various types of trim to cover seams and protect edges. This includes interior trim like baseboards, crown molding, and door/window casings, often made from wood, MDF, or vinyl. Exterior trim, such as skirting trim, fascia, and corner trim, is typically made from weather-resistant materials like aluminum, vinyl, or sometimes fiber cement. The specific type depends on the manufacturer, the age of the home, and whether it's an interior or exterior application.",
+        "@type": "Answer",
+        "description": "Mobile homes use interior trim like baseboards and casings (wood, MDF, vinyl) and exterior trim like skirting and fascia (aluminum, vinyl). Materials vary by location and home age."
+      }
+    }
+  ],
+  "description": "Mobile homes use interior trim like baseboards and casings (wood, MDF, vinyl) and exterior trim like skirting and fascia (aluminum, vinyl). Materials vary by lo"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-you-repair-mobile-home-roofs",
+  "name": "Can you repair mobile home roofs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you repair mobile home roofs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, mobile home roof repairs are a common service. We address various roofing issues, including leaks, damaged seams, deteriorated coatings, and missing shingles. Our team can perform patch repairs, re-sealing, or full roof replacements depending on the condition and type of your mobile home roof. Timely roof repair prevents more extensive water damage inside your home.",
+        "@type": "Answer",
+        "description": "Yes, we repair mobile home roofs, addressing leaks, damaged seams, and deteriorated coatings, offering patching, re-sealing, or full replacement services."
+      }
+    }
+  ],
+  "description": "Yes, we repair mobile home roofs, addressing leaks, damaged seams, and deteriorated coatings, offering patching, re-sealing, or full replacement services."
+}

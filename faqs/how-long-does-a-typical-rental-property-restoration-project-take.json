@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-rental-property-restoration-project-take",
+  "name": "How long does a typical rental property restoration project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical rental property restoration project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a rental property restoration project varies significantly based on the extent of damage and the scope of work. Minor cosmetic updates might take a few days to a week. Extensive renovations involving structural repairs, multiple room overhauls, or addressing issues like water damage could take several weeks to a few months. A general contractor can provide a more accurate timeline after assessing the specific project.",
+        "@type": "Answer",
+        "description": "Project duration varies. Minor work can be days, while extensive renovations may take weeks to months, depending on damage and scope."
+      }
+    }
+  ],
+  "description": "Project duration varies. Minor work can be days, while extensive renovations may take weeks to months, depending on damage and scope."
+}

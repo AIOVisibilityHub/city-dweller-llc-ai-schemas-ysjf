@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-mobile-home-interior-repair-project-take",
+  "name": "How long does a typical mobile home interior repair project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical mobile home interior repair project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a mobile home interior repair project depends on the scope and complexity of the work. Small repairs, such as patching a wall or replacing a single fixture, might be completed in a day or two. More extensive projects, like full room renovations, water damage remediation, or multiple structural repairs, could take anywhere from one to several weeks. Factors like material availability, drying times for paints or adhesives, and the need for specialized contractors can also influence the overall timeline.",
+        "@type": "Answer",
+        "description": "Project timelines vary; small repairs might take days, while extensive renovations or water damage remediation could take weeks, depending on scope and materials."
+      }
+    }
+  ],
+  "description": "Project timelines vary; small repairs might take days, while extensive renovations or water damage remediation could take weeks, depending on scope and material"
+}

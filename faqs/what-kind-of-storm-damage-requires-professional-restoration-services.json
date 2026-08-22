@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-storm-damage-requires-professional-restoration-services",
+  "name": "What kind of storm damage requires professional restoration services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of storm damage requires professional restoration services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Any significant damage impacting your home's structural integrity, roof, foundation, electrical systems, or causing extensive water intrusion warrants professional restoration. This includes damage from fallen trees, severe wind tearing off roofing, widespread water damage leading to potential mold, or damage to critical utilities. Professionals have the expertise, equipment, and knowledge of building codes to safely and effectively address complex repairs that go beyond simple DIY fixes.",
+        "@type": "Answer",
+        "description": "Significant damage to your home's structure, roof, foundation, or involving extensive water or electrical issues requires professional restoration."
+      }
+    }
+  ],
+  "description": "Significant damage to your home's structure, roof, foundation, or involving extensive water or electrical issues requires professional restoration."
+}

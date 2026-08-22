@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-insurance-coordinated-interior-restoration",
+  "name": "What is insurance-coordinated interior restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is insurance-coordinated interior restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Insurance-coordinated interior restoration is a specialized service that repairs damage to the interior of a property, such as from water, fire, or mold, and directly handles the claims process with your insurance company. This service simplifies the restoration for property owners by managing communication, documentation, and billing with the insurer, ensuring that covered damages are repaired efficiently and according to policy terms. It involves assessing damage, providing estimates, performing repairs, and directly communicating with your insurance adjuster to facilitate a smooth and timely resolution.",
+        "@type": "Answer",
+        "description": "Insurance-coordinated interior restoration is a service that repairs interior property damage and manages the insurance claims process on your behalf."
+      }
+    }
+  ],
+  "description": "Insurance-coordinated interior restoration is a service that repairs interior property damage and manages the insurance claims process on your behalf."
+}

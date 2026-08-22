@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-city-dweller-llc-s-emergency-repair-services-available-24-7-in-south-san-fra",
+  "name": "Are City Dweller, LLC's emergency repair services available 24/7 in South San Francisco?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are City Dweller, LLC's emergency repair services available 24/7 in South San Francisco?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC understands that storm emergencies can happen at any time. We offer prompt and responsive emergency repair services for interior storm damage across our service areas, including South San Francisco. While we prioritize emergency calls and aim for swift dispatch, 24/7 availability for immediate on-site response can depend on current call volume and specific crew availability. We recommend calling our emergency line immediately to confirm the quickest possible response time for your specific situation.",
+        "@type": "Answer",
+        "description": "City Dweller, LLC offers prompt emergency repair services in South San Francisco. Call our emergency line for the quickest response, as 24/7 on-site availability can vary."
+      }
+    }
+  ],
+  "description": "City Dweller, LLC offers prompt emergency repair services in South San Francisco. Call our emergency line for the quickest response, as 24/7 on-site availabilit"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-permits-for-rental-property-restoration-in-the-bay-area",
+  "name": "Do I need permits for rental property restoration in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for rental property restoration in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, permits are often required for significant rental property restoration projects in Bay Area cities like Pacifica, Daly City, or South San Francisco. This typically applies to structural changes, major electrical or plumbing work, or any project that alters the footprint or use of the building. Non-permitted work can lead to fines and legal issues. A reputable general contractor can help identify necessary permits and manage the application process.",
+        "@type": "Answer",
+        "description": "Permits are usually required for major structural, electrical, or plumbing work in Bay Area rental property restoration. A contractor can assist."
+      }
+    }
+  ],
+  "description": "Permits are usually required for major structural, electrical, or plumbing work in Bay Area rental property restoration. A contractor can assist."
+}

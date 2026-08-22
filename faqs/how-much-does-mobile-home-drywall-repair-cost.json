@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-mobile-home-drywall-repair-cost",
+  "name": "How much does mobile home drywall repair cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does mobile home drywall repair cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of mobile home drywall repair varies based on the damage's extent, type, and location. Small patch jobs for minor holes or cracks are less expensive, while larger sections requiring new sheets, structural reinforcement, or extensive finishing will incur higher costs. Factors like material type, labor rates in the Bay Area, and paint matching also influence the final price. We provide detailed estimates after an assessment.",
+        "@type": "Answer",
+        "description": "Costs vary widely depending on damage size, type, materials, and labor rates in the Bay Area. Estimates are provided after assessment."
+      }
+    }
+  ],
+  "description": "Costs vary widely depending on damage size, type, materials, and labor rates in the Bay Area. Estimates are provided after assessment."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-mobile-home-drywall-myself",
+  "name": "Can I repair mobile home drywall myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair mobile home drywall myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor drywall repairs, such as small nail holes or hairline cracks, can often be handled by a DIY enthusiast. However, for larger holes, extensive water damage, or issues requiring texture matching, professional expertise is highly recommended. Mobile home drywall can sometimes be different from traditional drywall, and improper repairs can lead to an uneven finish or recurring issues.",
+        "@type": "Answer",
+        "description": "Small repairs are DIY-friendly, but larger damage, water issues, or texture matching are best left to professionals."
+      }
+    }
+  ],
+  "description": "Small repairs are DIY-friendly, but larger damage, water issues, or texture matching are best left to professionals."
+}

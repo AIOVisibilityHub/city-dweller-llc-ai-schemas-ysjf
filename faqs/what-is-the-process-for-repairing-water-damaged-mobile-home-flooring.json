@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-repairing-water-damaged-mobile-home-flooring",
+  "name": "What is the process for repairing water-damaged mobile home flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing water-damaged mobile home flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for repairing water-damaged mobile home flooring typically involves several steps. First, the source of the water leak must be identified and stopped. Next, the damaged flooring and subfloor materials are carefully removed to prevent mold growth. Any remaining moisture is thoroughly dried. New subfloor materials are then installed, followed by the chosen surface flooring. Proper ventilation during and after the repair is crucial to ensure a lasting result. Our team manages this entire process, from assessment to final installation.",
+        "@type": "Answer",
+        "description": "The process involves stopping the leak, removing damaged materials, drying the area, installing new subfloor, and then new flooring."
+      }
+    }
+  ],
+  "description": "The process involves stopping the leak, removing damaged materials, drying the area, installing new subfloor, and then new flooring."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-general-contracting-and-insurance-coordinated-res",
+  "name": "What is the difference between general contracting and insurance-coordinated restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between general contracting and insurance-coordinated restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "General contracting involves overseeing various construction projects, including new builds, remodels, and general repairs. Insurance-coordinated restoration is a specialized form of general contracting focused specifically on repairing property damage that is covered by an insurance policy. The key difference is the deep expertise in navigating insurance claims, documenting damage to meet insurer requirements, and directly communicating with adjusters to ensure repairs are funded and completed. While a general contractor can do repairs, an insurance-coordinated service manages the entire claims aspect.",
+        "@type": "Answer",
+        "description": "General contracting covers all construction, while insurance-coordinated restoration specifically handles property damage repairs covered by and coordinated with insurance."
+      }
+    }
+  ],
+  "description": "General contracting covers all construction, while insurance-coordinated restoration specifically handles property damage repairs covered by and coordinated wit"
+}

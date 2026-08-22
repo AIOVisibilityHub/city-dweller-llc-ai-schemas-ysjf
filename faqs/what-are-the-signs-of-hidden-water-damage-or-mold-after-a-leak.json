@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-signs-of-hidden-water-damage-or-mold-after-a-leak",
+  "name": "What are the signs of hidden water damage or mold after a leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs of hidden water damage or mold after a leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of hidden water damage or mold can include a musty odor, unexplained stains or discoloration on walls or ceilings, peeling paint or wallpaper, warped flooring, or soft spots in drywall. You might also notice an increase in allergy symptoms if mold is present. Even if visible water has been removed, moisture can linger in materials, creating ideal conditions for mold growth. A professional inspection with moisture meters can detect hidden issues.",
+        "@type": "Answer",
+        "description": "Hidden water damage or mold can cause musty odors, discoloration, peeling paint, warped floors, or soft drywall, and may worsen allergy symptoms."
+      }
+    }
+  ],
+  "description": "Hidden water damage or mold can cause musty odors, discoloration, peeling paint, warped floors, or soft drywall, and may worsen allergy symptoms."
+}

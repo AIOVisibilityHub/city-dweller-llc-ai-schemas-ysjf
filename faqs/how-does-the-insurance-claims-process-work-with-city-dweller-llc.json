@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-does-the-insurance-claims-process-work-with-city-dweller-llc",
+  "name": "How does the insurance claims process work with City Dweller, LLC?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the insurance claims process work with City Dweller, LLC?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "With City Dweller, LLC, the insurance claims process for interior restoration begins with a thorough assessment of your property damage. We document all affected areas and prepare a detailed estimate for the necessary repairs. This estimate is then submitted directly to your insurance company. We communicate closely with your insurance adjuster, providing all required information and advocating for a fair settlement that covers the full scope of work. Our goal is to minimize your stress by managing the entire claims communication and approval process.",
+        "@type": "Answer",
+        "description": "We assess damage, prepare an estimate, submit it to your insurer, and manage communication with your adjuster to ensure repairs are covered."
+      }
+    }
+  ],
+  "description": "We assess damage, prepare an estimate, submit it to your insurer, and manage communication with your adjuster to ensure repairs are covered."
+}

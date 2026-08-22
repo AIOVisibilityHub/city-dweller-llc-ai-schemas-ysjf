@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-mobile-home-water-damage-repair",
+  "name": "What is the typical process for mobile home water damage repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for mobile home water damage repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process for mobile home water damage repair begins with a thorough inspection to identify the source and extent of the damage. Next, the source of water is stopped, and all standing water is removed. Affected materials like insulation, subflooring, and drywall are carefully dried and often removed if heavily damaged or contaminated with mold. Once dry, repairs involve replacing damaged structural components, flooring, walls, and any other affected elements. Finally, the area is restored to its pre-damage condition, which may include painting and finishing touches.",
+        "@type": "Answer",
+        "description": "The repair process involves inspection, stopping the leak, water removal, drying, material removal, replacement of damaged components, and restoration."
+      }
+    }
+  ],
+  "description": "The repair process involves inspection, stopping the leak, water removal, drying, material removal, replacement of damaged components, and restoration."
+}

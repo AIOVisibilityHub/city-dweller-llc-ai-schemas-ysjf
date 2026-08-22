@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-water-intrusion-repair-take",
+  "name": "How long does water intrusion repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does water intrusion repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of water intrusion repair depends heavily on the severity and type of damage. Small, localized leaks might be resolved in a day or two. However, extensive issues involving structural repairs, mold remediation, or significant drying periods could take several days to weeks. Factors like material availability, weather conditions, and the need for specialized drying equipment also influence the timeline. We provide an estimated completion time after our initial assessment.",
+        "@type": "Answer",
+        "description": "Repair time varies from a day for minor leaks to several weeks for extensive damage, depending on severity and scope."
+      }
+    }
+  ],
+  "description": "Repair time varies from a day for minor leaks to several weeks for extensive damage, depending on severity and scope."
+}

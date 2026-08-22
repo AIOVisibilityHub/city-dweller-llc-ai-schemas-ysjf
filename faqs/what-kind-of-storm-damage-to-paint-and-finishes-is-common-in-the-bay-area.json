@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-storm-damage-to-paint-and-finishes-is-common-in-the-bay-area",
+  "name": "What kind of storm damage to paint and finishes is common in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of storm damage to paint and finishes is common in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the Bay Area, common storm damage to paint and finishes often includes water stains from leaks, peeling or blistering paint due to moisture intrusion, and impact damage from wind-blown debris like branches. Coastal areas might also see increased salt spray corrosion. High winds can also cause abrasions from grit and dirt, affecting the integrity and appearance of exterior coatings. Prompt assessment after a storm helps determine the extent of damage and the best repair approach.",
+        "@type": "Answer",
+        "description": "Common storm damage includes water stains, peeling paint from moisture, and impact damage from debris, especially in the Bay Area's coastal regions."
+      }
+    }
+  ],
+  "description": "Common storm damage includes water stains, peeling paint from moisture, and impact damage from debris, especially in the Bay Area's coastal regions."
+}

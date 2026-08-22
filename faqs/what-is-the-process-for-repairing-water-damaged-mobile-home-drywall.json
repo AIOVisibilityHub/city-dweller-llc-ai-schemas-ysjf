@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-repairing-water-damaged-mobile-home-drywall",
+  "name": "What is the process for repairing water-damaged mobile home drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing water-damaged mobile home drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins by identifying and stopping the water source. Next, the damaged drywall is carefully removed, and the underlying structure is inspected for mold or deterioration. Any affected areas are treated or repaired. New drywall is then installed, taped, mudded, sanded, and primed, ensuring a smooth, seamless finish ready for painting. Proper drying and ventilation are crucial throughout.",
+        "@type": "Answer",
+        "description": "The process involves stopping the leak, removing damaged sections, inspecting for mold, installing new drywall, and finishing for painting."
+      }
+    }
+  ],
+  "description": "The process involves stopping the leak, removing damaged sections, inspecting for mold, installing new drywall, and finishing for painting."
+}

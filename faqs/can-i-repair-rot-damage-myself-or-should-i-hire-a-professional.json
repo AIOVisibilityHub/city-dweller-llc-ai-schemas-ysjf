@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-rot-damage-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair rot damage myself or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair rot damage myself or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For small, non-structural areas of rot damage that are easily accessible and don't involve load-bearing elements, a homeowner with DIY experience might be able to handle the repair. However, for larger areas, structural components, or if the source of moisture isn't clear, hiring a professional general contractor is highly recommended. Professionals have the expertise to properly diagnose the cause, effectively remove all compromised material, correctly reinforce structures, and prevent recurrence, ensuring a durable and safe repair.",
+        "@type": "Answer",
+        "description": "DIY is possible for minor, non-structural rot; hire a professional for larger, structural damage or if the moisture source is unclear."
+      }
+    }
+  ],
+  "description": "DIY is possible for minor, non-structural rot; hire a professional for larger, structural damage or if the moisture source is unclear."
+}

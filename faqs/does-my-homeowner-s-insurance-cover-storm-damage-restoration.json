@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/does-my-homeowner-s-insurance-cover-storm-damage-restoration",
+  "name": "Does my homeowner's insurance cover storm damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does my homeowner's insurance cover storm damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard homeowner's insurance policies cover damage caused by sudden and accidental events like storms, including wind, hail, and fallen trees. However, coverage limits, deductibles, and specific exclusions (such as flood damage, which typically requires a separate policy) can vary. Review your policy documents or speak directly with your insurance agent to understand your specific coverage for storm-related repairs. A general contractor can also help you understand the scope of work often covered by such claims.",
+        "@type": "Answer",
+        "description": "Generally, yes, homeowner's insurance covers storm damage, but check your specific policy for deductibles and exclusions like floods."
+      }
+    }
+  ],
+  "description": "Generally, yes, homeowner's insurance covers storm damage, but check your specific policy for deductibles and exclusions like floods."
+}

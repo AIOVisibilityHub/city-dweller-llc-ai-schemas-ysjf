@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-replace-the-flooring-in-my-mobile-home-with-hardwood-or-tile",
+  "name": "Can I replace the flooring in my mobile home with hardwood or tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace the flooring in my mobile home with hardwood or tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can replace the flooring in your mobile home with hardwood or tile, but it's important to consider specific factors. Mobile homes may have different subfloor structures compared to traditional stick-built homes, which need to be assessed for proper support. For heavier materials like tile, additional subfloor reinforcement might be necessary to prevent cracking or shifting. Engineered hardwood is often a good option due to its stability. A professional assessment can determine the best and most durable flooring solution for your home.",
+        "@type": "Answer",
+        "description": "Yes, hardwood or tile can be installed in mobile homes, but subfloor assessment and potential reinforcement are crucial due to structural differences."
+      }
+    }
+  ],
+  "description": "Yes, hardwood or tile can be installed in mobile homes, but subfloor assessment and potential reinforcement are crucial due to structural differences."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-mobile-home-skirting-and-why-is-it-important",
+  "name": "What is mobile home skirting and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is mobile home skirting and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mobile home skirting refers to the material that encloses the space between the bottom of the mobile home and the ground. It serves several important functions. Skirting protects the crawl space from pests, debris, and weather elements, which helps prevent damage to plumbing and wiring. It also contributes to energy efficiency by insulating the underside of the home, reducing heat loss in winter and heat gain in summer. Furthermore, skirting improves the aesthetic appeal of the mobile home by concealing the foundation structure.",
+        "@type": "Answer",
+        "description": "Mobile home skirting encloses the space beneath the home, protecting against pests and weather, improving energy efficiency, and enhancing appearance."
+      }
+    }
+  ],
+  "description": "Mobile home skirting encloses the space beneath the home, protecting against pests and weather, improving energy efficiency, and enhancing appearance."
+}

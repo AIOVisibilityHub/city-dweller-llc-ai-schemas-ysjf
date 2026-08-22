@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-water-intrusion-repair-and-water-damage-restorati",
+  "name": "What is the difference between water intrusion repair and water damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between water intrusion repair and water damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water intrusion repair specifically focuses on identifying and fixing the source of water entry to stop future leaks. This could involve roof repairs, foundation sealing, or window replacement. Water damage restoration, on the other hand, deals with the aftermath: drying out affected areas, removing damaged materials, cleaning, sanitizing, and rebuilding to pre-loss conditions. While often done concurrently, repair targets the cause, and restoration addresses the effects.",
+        "@type": "Answer",
+        "description": "Water intrusion repair fixes the leak source, while water damage restoration addresses the damage caused by the water."
+      }
+    }
+  ],
+  "description": "Water intrusion repair fixes the leak source, while water damage restoration addresses the damage caused by the water."
+}

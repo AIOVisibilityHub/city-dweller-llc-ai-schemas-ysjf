@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-permits-for-storm-related-drywall-replacement-in-cities-like-south-san",
+  "name": "Do I need permits for storm-related drywall replacement in cities like South San Francisco or San Bruno?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for storm-related drywall replacement in cities like South San Francisco or San Bruno?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for storm-related drywall replacement can vary based on the extent of the damage and local building codes in cities like South San Francisco or San Bruno. Minor patch repairs typically do not require permits. However, if the damage is structural, affects electrical or plumbing systems, or requires extensive demolition and reconstruction, permits will likely be necessary. A qualified contractor can determine if permits are needed and assist with the application process.",
+        "@type": "Answer",
+        "description": "Permit needs for storm-related drywall replacement vary by city (e.g., South San Francisco, San Bruno) and damage extent. Minor repairs often don't need permits, but structural or extensive work usually does."
+      }
+    }
+  ],
+  "description": "Permit needs for storm-related drywall replacement vary by city (e.g., South San Francisco, San Bruno) and damage extent. Minor repairs often don't need permits"
+}

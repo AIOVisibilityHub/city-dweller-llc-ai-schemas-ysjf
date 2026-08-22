@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-moisture-damage-repair-typically-take",
+  "name": "How long does moisture damage repair typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does moisture damage repair typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of moisture damage repair varies significantly based on the severity and extent of the damage. Minor repairs, like addressing a small leak and replacing a section of drywall, might take a few days. More extensive damage involving structural components, significant mold remediation, or multiple affected areas could take several weeks or even longer. The drying process alone can take 3-7 days, followed by demolition and reconstruction. A professional assessment will provide a more accurate timeline.",
+        "@type": "Answer",
+        "description": "Repair time varies from a few days for minor issues to several weeks for extensive damage, depending on severity and scope of work."
+      }
+    }
+  ],
+  "description": "Repair time varies from a few days for minor issues to several weeks for extensive damage, depending on severity and scope of work."
+}

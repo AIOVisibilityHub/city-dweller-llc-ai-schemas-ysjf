@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-prevent-future-water-damage-in-my-home",
+  "name": "How can I prevent future water damage in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future water damage in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing future water damage involves regular home maintenance. Inspect and maintain your roof, gutters, and downspouts annually. Check plumbing for leaks, especially around appliances like water heaters, washing machines, and dishwashers. Consider installing leak detection sensors. Ensure proper drainage away from your foundation. Regularly clean out drains and address any signs of moisture promptly. These proactive steps can significantly reduce your risk.",
+        "@type": "Answer",
+        "description": "Prevent water damage by regularly inspecting roofs, gutters, and plumbing, installing leak sensors, ensuring proper drainage, and addressing any moisture promptly."
+      }
+    }
+  ],
+  "description": "Prevent water damage by regularly inspecting roofs, gutters, and plumbing, installing leak sensors, ensuring proper drainage, and addressing any moisture prompt"
+}

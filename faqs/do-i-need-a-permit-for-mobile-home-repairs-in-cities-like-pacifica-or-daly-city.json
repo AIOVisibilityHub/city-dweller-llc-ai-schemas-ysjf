@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-permit-for-mobile-home-repairs-in-cities-like-pacifica-or-daly-city",
+  "name": "Do I need a permit for mobile home repairs in cities like Pacifica or Daly City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for mobile home repairs in cities like Pacifica or Daly City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for mobile home repairs vary by city and the scope of work. Minor cosmetic repairs typically do not require permits. However, significant structural alterations, electrical system modifications, plumbing system overhauls, or extensive additions often do. We can advise on specific permit needs for your project in Pacifica, Daly City, or other service areas during the consultation.",
+        "@type": "Answer",
+        "description": "Permit needs for mobile home repairs in cities like Pacifica or Daly City depend on the work scope; major structural, electrical, or plumbing changes usually require them."
+      }
+    }
+  ],
+  "description": "Permit needs for mobile home repairs in cities like Pacifica or Daly City depend on the work scope; major structural, electrical, or plumbing changes usually re"
+}

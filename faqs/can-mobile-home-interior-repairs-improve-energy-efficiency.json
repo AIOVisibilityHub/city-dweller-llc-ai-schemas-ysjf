@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-mobile-home-interior-repairs-improve-energy-efficiency",
+  "name": "Can mobile home interior repairs improve energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can mobile home interior repairs improve energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, certain mobile home interior repairs can significantly improve energy efficiency. Upgrading insulation in walls, floors, or ceilings, replacing drafty windows and doors with energy-efficient models, and sealing air leaks are key improvements. Modernizing HVAC systems and repairing damaged ductwork also contribute to better energy performance. These repairs can lead to lower utility bills and a more comfortable living environment by maintaining consistent indoor temperatures and reducing heat loss or gain.",
+        "@type": "Answer",
+        "description": "Yes, repairs like insulation upgrades, new windows/doors, and sealing air leaks can improve mobile home energy efficiency, reducing utility costs."
+      }
+    }
+  ],
+  "description": "Yes, repairs like insulation upgrades, new windows/doors, and sealing air leaks can improve mobile home energy efficiency, reducing utility costs."
+}

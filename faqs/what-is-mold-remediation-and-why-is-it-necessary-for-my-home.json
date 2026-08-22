@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-mold-remediation-and-why-is-it-necessary-for-my-home",
+  "name": "What is mold remediation and why is it necessary for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is mold remediation and why is it necessary for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mold remediation is the process of removing mold from a property and restoring the affected areas to a healthy state. It's crucial because mold can spread quickly, causing structural damage to your home's interior, like walls, ceilings, and flooring. Beyond property damage, certain types of mold can also impact indoor air quality. Professional remediation ensures thorough removal and helps prevent recurrence, protecting both your property's integrity and its living environment. Ignoring mold can lead to more extensive and costly repairs down the line.",
+        "@type": "Answer",
+        "description": "Mold remediation removes mold to prevent structural damage and maintain healthy indoor air quality. It's necessary to protect your home and its inhabitants from further issues."
+      }
+    }
+  ],
+  "description": "Mold remediation removes mold to prevent structural damage and maintain healthy indoor air quality. It's necessary to protect your home and its inhabitants from"
+}

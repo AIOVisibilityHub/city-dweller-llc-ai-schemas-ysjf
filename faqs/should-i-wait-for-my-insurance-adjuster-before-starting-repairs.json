@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-wait-for-my-insurance-adjuster-before-starting-repairs",
+  "name": "Should I wait for my insurance adjuster before starting repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I wait for my insurance adjuster before starting repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For immediate safety and to prevent further damage, take temporary measures like boarding up windows or tarping a roof, and document everything. However, for significant, permanent repairs, it's often best to wait until your insurance adjuster has assessed the damage. This ensures they see the full scope before anything is removed or replaced, which can streamline the claims process. Your contractor can advise on which urgent repairs can proceed while still preserving evidence for the adjuster.",
+        "@type": "Answer",
+        "description": "Take temporary measures and document damage immediately. For permanent repairs, it's generally best to wait for the insurance adjuster's assessment to ensure a smooth claim process."
+      }
+    }
+  ],
+  "description": "Take temporary measures and document damage immediately. For permanent repairs, it's generally best to wait for the insurance adjuster's assessment to ensure a"
+}

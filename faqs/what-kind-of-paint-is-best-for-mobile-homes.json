@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-paint-is-best-for-mobile-homes",
+  "name": "What kind of paint is best for mobile homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of paint is best for mobile homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For mobile homes, acrylic latex paints are generally recommended due to their flexibility, durability, and resistance to fading and chalking. These properties are important for exterior surfaces exposed to various weather conditions. Look for paints specifically designed for manufactured housing or those with excellent adhesion to common mobile home siding materials like aluminum, vinyl, or pre-painted metal. A high-quality primer is also crucial for proper adhesion and to extend the life of the topcoat. Consulting with a painting professional can help determine the optimal paint type for your specific mobile home material and climate.",
+        "@type": "Answer",
+        "description": "Acrylic latex paints are generally best for mobile homes due to their flexibility and durability on common siding materials."
+      }
+    }
+  ],
+  "description": "Acrylic latex paints are generally best for mobile homes due to their flexibility and durability on common siding materials."
+}

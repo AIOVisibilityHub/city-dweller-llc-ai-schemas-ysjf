@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-water-intrusion-repair",
+  "name": "What is the typical process for water intrusion repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for water intrusion repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our repair process typically begins with a comprehensive inspection to identify the source and extent of water intrusion. Next, we implement containment measures to prevent further damage. This is followed by water extraction and thorough drying of affected areas. Any damaged materials, like drywall or insulation, are then removed and replaced. Finally, we address the root cause, such as sealing cracks, repairing roofing, or improving drainage, to prevent future occurrences.",
+        "@type": "Answer",
+        "description": "The process involves inspection, containment, water extraction, drying, material replacement, and fixing the source of intrusion."
+      }
+    }
+  ],
+  "description": "The process involves inspection, containment, water extraction, drying, material replacement, and fixing the source of intrusion."
+}

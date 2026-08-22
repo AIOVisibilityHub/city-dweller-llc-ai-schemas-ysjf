@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-repair-a-mobile-home",
+  "name": "How much does it cost to repair a mobile home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair a mobile home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of mobile home repairs varies widely depending on the type and extent of the damage, materials needed, and labor involved. Minor repairs like a small roof patch might be a few hundred dollars, while extensive damage such as subfloor replacement or major structural work could range from several thousand dollars. It's best to get a detailed estimate for your specific situation.",
+        "@type": "Answer",
+        "description": "Repair costs depend on the damage and materials; minor fixes can be hundreds, while major work can be thousands."
+      }
+    }
+  ],
+  "description": "Repair costs depend on the damage and materials; minor fixes can be hundreds, while major work can be thousands."
+}

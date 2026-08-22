@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-my-home-pass-inspection-after-storm-damage-repairs",
+  "name": "Will my home pass inspection after storm damage repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my home pass inspection after storm damage repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a reputable general contractor will ensure all storm damage repairs meet or exceed current building codes and standards. Depending on the scope of work, permits may be required, and inspections will be conducted by local authorities to verify compliance. Choosing an experienced contractor ensures that the reconstruction is done correctly and safely, allowing your home to pass all necessary inspections, particularly in areas like the Bay Area where seismic considerations are also important.",
+        "@type": "Answer",
+        "description": "Yes, a qualified contractor ensures repairs meet building codes and pass necessary inspections, especially vital in areas like the Bay Area."
+      }
+    }
+  ],
+  "description": "Yes, a qualified contractor ensures repairs meet building codes and pass necessary inspections, especially vital in areas like the Bay Area."
+}

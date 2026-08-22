@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-water-damage-and-moisture-damage",
+  "name": "What's the difference between water damage and moisture damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between water damage and moisture damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often used interchangeably, water damage refers to immediate, often visible damage caused by direct contact with water, like a flood or burst pipe. Moisture damage, on the other hand, can be more insidious, resulting from prolonged exposure to humidity, condensation, or slow leaks. This can lead to issues like mold growth, wood rot, and structural degradation over time, even without obvious standing water. Both require professional attention to prevent long-term problems.",
+        "@type": "Answer",
+        "description": "Water damage is immediate and visible, often from floods or leaks. Moisture damage is gradual, caused by humidity or slow leaks, leading to mold or rot."
+      }
+    }
+  ],
+  "description": "Water damage is immediate and visible, often from floods or leaks. Moisture damage is gradual, caused by humidity or slow leaks, leading to mold or rot."
+}

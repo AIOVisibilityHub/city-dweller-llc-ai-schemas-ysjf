@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-repair-mold-damage-in-a-home",
+  "name": "How long does it take to repair mold damage in a home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair mold damage in a home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of mold damage repair depends heavily on the scope of the problem. Small, localized mold issues might be resolved in a few days, including remediation and drying. However, extensive mold growth affecting multiple rooms or hidden within structural components can take several weeks to fully remediate and reconstruct. Factors like the drying time for affected areas, material replacement, and any necessary permits can extend the timeline. Your contractor will provide a more accurate estimate after assessing the specific damage.",
+        "@type": "Answer",
+        "description": "Repair time varies; small issues can take days, while extensive damage might take several weeks, depending on the scope and drying time."
+      }
+    }
+  ],
+  "description": "Repair time varies; small issues can take days, while extensive damage might take several weeks, depending on the scope and drying time."
+}

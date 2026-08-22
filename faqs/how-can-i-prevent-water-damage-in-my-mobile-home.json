@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-prevent-water-damage-in-my-mobile-home",
+  "name": "How can I prevent water damage in my mobile home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent water damage in my mobile home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing water damage in your mobile home involves regular maintenance and vigilance. Routinely inspect your roof for damaged shingles or leaks, and ensure gutters and downspouts are clear to direct water away from the foundation. Check plumbing fixtures, pipes, and appliance hoses for any signs of leaks or wear. Maintaining proper ventilation to reduce condensation, especially in bathrooms and kitchens, can also help. Addressing small issues promptly, like a dripping faucet, prevents them from escalating into larger, more damaging problems over time.",
+        "@type": "Answer",
+        "description": "Prevent water damage by regularly inspecting your roof, maintaining clear gutters, checking plumbing for leaks, and ensuring good ventilation."
+      }
+    }
+  ],
+  "description": "Prevent water damage by regularly inspecting your roof, maintaining clear gutters, checking plumbing for leaks, and ensuring good ventilation."
+}

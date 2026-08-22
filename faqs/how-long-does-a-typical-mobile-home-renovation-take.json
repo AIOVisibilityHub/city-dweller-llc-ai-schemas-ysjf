@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-mobile-home-renovation-take",
+  "name": "How long does a typical mobile home renovation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical mobile home renovation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a mobile home renovation project varies based on its complexity and scale. Small projects, such as a single room update or cosmetic changes, might take a few weeks. Larger renovations, like a full kitchen remodel or significant interior reconfigurations, could span several weeks to a few months. Factors like material availability, permit approvals, and contractor scheduling can also influence the timeline. A detailed project plan from your contractor will provide a more accurate estimate for your specific project.",
+        "@type": "Answer",
+        "description": "Mobile home renovation timelines vary, with small projects taking weeks and larger ones several months, depending on complexity, permits, and material availability."
+      }
+    }
+  ],
+  "description": "Mobile home renovation timelines vary, with small projects taking weeks and larger ones several months, depending on complexity, permits, and material availabil"
+}

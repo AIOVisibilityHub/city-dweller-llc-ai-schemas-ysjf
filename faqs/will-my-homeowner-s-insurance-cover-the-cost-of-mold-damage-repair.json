@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-my-homeowner-s-insurance-cover-the-cost-of-mold-damage-repair",
+  "name": "Will my homeowner's insurance cover the cost of mold damage repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover the cost of mold damage repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance coverage for mold damage varies significantly by policy and the cause of the mold. Most standard policies cover mold if it results from a sudden and accidental peril, such as a burst pipe. However, mold caused by neglect, ongoing leaks, or floods (which typically require separate flood insurance) may not be covered. It's crucial to review your specific policy details or contact your insurance provider directly to understand your coverage limitations and reporting requirements before beginning any repairs.",
+        "@type": "Answer",
+        "description": "Coverage depends on your policy and the mold's cause; generally, sudden accidents are covered, but neglect or floods may not be. Check your policy."
+      }
+    }
+  ],
+  "description": "Coverage depends on your policy and the mold's cause; generally, sudden accidents are covered, but neglect or floods may not be. Check your policy."
+}

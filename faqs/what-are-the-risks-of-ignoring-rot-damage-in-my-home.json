@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-risks-of-ignoring-rot-damage-in-my-home",
+  "name": "What are the risks of ignoring rot damage in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the risks of ignoring rot damage in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ignoring rot damage can lead to severe consequences for your home's structure and your wallet. Initially, it weakens wooden components like floor joists, wall studs, or roof trusses, potentially leading to structural failure over time. The rot can spread to adjacent healthy wood, increasing the repair scope and cost. Furthermore, untreated moisture issues that cause rot can foster mold growth, which may impact indoor air quality. Addressing rot promptly prevents escalating damage and ensures your home's safety and value.",
+        "@type": "Answer",
+        "description": "Ignoring rot weakens structural components, causes spread to healthy wood, and can lead to mold growth, increasing repair costs and safety risks."
+      }
+    }
+  ],
+  "description": "Ignoring rot weakens structural components, causes spread to healthy wood, and can lead to mold growth, increasing repair costs and safety risks."
+}

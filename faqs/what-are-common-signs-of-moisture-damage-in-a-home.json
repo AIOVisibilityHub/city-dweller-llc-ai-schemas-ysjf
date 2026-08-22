@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-signs-of-moisture-damage-in-a-home",
+  "name": "What are common signs of moisture damage in a home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of moisture damage in a home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of moisture damage include water stains on walls or ceilings, peeling paint, warped flooring, musty odors, and visible mold growth. You might also notice damp spots, increased humidity indoors, or a sudden spike in your water bill. Addressing these signs promptly can prevent more extensive and costly repairs. Pay close attention to areas prone to water exposure like bathrooms, kitchens, basements, and attics.",
+        "@type": "Answer",
+        "description": "Common signs include water stains, peeling paint, warped floors, musty odors, and visible mold. Prompt action prevents extensive damage."
+      }
+    }
+  ],
+  "description": "Common signs include water stains, peeling paint, warped floors, musty odors, and visible mold. Prompt action prevents extensive damage."
+}

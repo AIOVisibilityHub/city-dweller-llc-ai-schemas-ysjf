@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/does-homeowner-s-insurance-cover-moisture-damage-repair",
+  "name": "Does homeowner's insurance cover moisture damage repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does homeowner's insurance cover moisture damage repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance typically covers sudden and accidental water damage, such as a burst pipe or a sudden appliance leak. However, damage resulting from neglect, poor maintenance, or gradual leaks that could have been prevented, like long-term roof leaks or continuous seepage, are generally not covered. Flood damage also requires a separate flood insurance policy. It's crucial to review your specific policy and contact your insurer immediately after discovering damage to understand your coverage.",
+        "@type": "Answer",
+        "description": "Insurance often covers sudden water damage but usually excludes damage from neglect, gradual leaks, or floods. Review your policy and contact your insurer."
+      }
+    }
+  ],
+  "description": "Insurance often covers sudden water damage but usually excludes damage from neglect, gradual leaks, or floods. Review your policy and contact your insurer."
+}

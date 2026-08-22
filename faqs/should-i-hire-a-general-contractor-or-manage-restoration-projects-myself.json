@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-hire-a-general-contractor-or-manage-restoration-projects-myself",
+  "name": "Should I hire a general contractor or manage restoration projects myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I hire a general contractor or manage restoration projects myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hiring a general contractor is often beneficial for comprehensive home restoration projects. They coordinate trades, manage schedules, ensure quality control, and handle permits, which can be complex. While managing projects yourself can save on labor costs, it requires significant time, experience, and knowledge of construction. For pre-sale restorations, a contractor can help ensure the work is completed efficiently and to a professional standard, maximizing your home's appeal to buyers.",
+        "@type": "Answer",
+        "description": "A general contractor simplifies comprehensive restoration by managing all aspects, saving you time and ensuring professional quality. Self-management requires significant expertise."
+      }
+    }
+  ],
+  "description": "A general contractor simplifies comprehensive restoration by managing all aspects, saving you time and ensuring professional quality. Self-management requires s"
+}

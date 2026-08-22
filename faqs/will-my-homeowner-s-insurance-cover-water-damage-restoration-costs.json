@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-my-homeowner-s-insurance-cover-water-damage-restoration-costs",
+  "name": "Will my homeowner's insurance cover water damage restoration costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover water damage restoration costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance typically covers water damage that is sudden and accidental, such as a burst pipe or storm-related flooding. However, damage from neglected maintenance, sewage backups (without specific endorsement), or slow leaks that develop over time may not be covered. It's crucial to review your policy details and contact your insurance provider as soon as possible to understand your specific coverage and filing procedures.",
+        "@type": "Answer",
+        "description": "Insurance usually covers sudden, accidental water damage, but check your policy for exclusions like neglected maintenance or specific types of water damage."
+      }
+    }
+  ],
+  "description": "Insurance usually covers sudden, accidental water damage, but check your policy for exclusions like neglected maintenance or specific types of water damage."
+}

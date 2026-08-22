@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-interior-repairs-are-common-for-mobile-homes",
+  "name": "What types of interior repairs are common for mobile homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of interior repairs are common for mobile homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mobile homes often require specific interior repairs due to their construction and age. Common issues include floor damage from water leaks, wall panel replacement, ceiling repairs, and updates to plumbing and electrical systems. We address problems like soft spots in subfloors, delaminated wall coverings, sagging ceilings, and outdated fixtures. These repairs are crucial for maintaining the structural integrity and comfort of your mobile home, and they can significantly improve its longevity and value.",
+        "@type": "Answer",
+        "description": "Common mobile home interior repairs include fixing floors, walls, ceilings, and updating plumbing or electrical systems due to wear or water damage."
+      }
+    }
+  ],
+  "description": "Common mobile home interior repairs include fixing floors, walls, ceilings, and updating plumbing or electrical systems due to wear or water damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-common-issues-affect-mobile-home-trim-and-doors",
+  "name": "What common issues affect mobile home trim and doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common issues affect mobile home trim and doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mobile home trim and doors can experience several common issues due to age, weather exposure, or structural movement. These often include cracked or peeling exterior trim, damaged door frames, loose interior trim, and doors that stick, sag, or no longer close properly. Water damage, insect infestation, and general wear and tear can also contribute to trim and door deterioration, impacting both aesthetics and functionality. Addressing these issues promptly helps maintain the integrity and comfort of your mobile home.",
+        "@type": "Answer",
+        "description": "Common issues include cracked exterior trim, damaged door frames, loose interior trim, and doors that stick or sag, often due to age, weather, or movement."
+      }
+    }
+  ],
+  "description": "Common issues include cracked exterior trim, damaged door frames, loose interior trim, and doors that stick or sag, often due to age, weather, or movement."
+}

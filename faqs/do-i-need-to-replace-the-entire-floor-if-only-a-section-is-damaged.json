@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-replace-the-entire-floor-if-only-a-section-is-damaged",
+  "name": "Do I need to replace the entire floor if only a section is damaged?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace the entire floor if only a section is damaged?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not necessarily. Whether you need to replace the entire floor depends on the extent and nature of the damage. If only a small, localized area of the surface flooring is damaged and the subfloor beneath is intact, a patch repair or replacement of a few planks/tiles might suffice. However, if the damage, particularly water damage, has spread to a larger area, compromised the subfloor, or caused structural issues, a more extensive replacement might be necessary to ensure safety and longevity. An inspection will determine the best course of action.",
+        "@type": "Answer",
+        "description": "It depends on the damage's extent and nature. Small, localized surface damage might allow for patching, but widespread or subfloor damage often requires more extensive replacement."
+      }
+    }
+  ],
+  "description": "It depends on the damage's extent and nature. Small, localized surface damage might allow for patching, but widespread or subfloor damage often requires more ex"
+}

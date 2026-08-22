@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-water-damaged-mobile-home-walls-and-ceilings-be-repaired-or-do-they-need-rep",
+  "name": "Can water-damaged mobile home walls and ceilings be repaired, or do they need replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can water-damaged mobile home walls and ceilings be repaired, or do they need replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor water damage, such as small stains or slight warping, can often be repaired by drying the area thoroughly, treating for mold, and then patching or refinishing. However, if the water damage is extensive, has compromised the structural integrity, or led to significant mold growth, replacement of the affected sections is usually necessary. Addressing the source of the water leak is crucial before any repairs.",
+        "@type": "Answer",
+        "description": "Minor water damage can often be repaired by drying and patching. Extensive damage or significant mold usually requires replacement after fixing the leak source."
+      }
+    }
+  ],
+  "description": "Minor water damage can often be repaired by drying and patching. Extensive damage or significant mold usually requires replacement after fixing the leak source."
+}

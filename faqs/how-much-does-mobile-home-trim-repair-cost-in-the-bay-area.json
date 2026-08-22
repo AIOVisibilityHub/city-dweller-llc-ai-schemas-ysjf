@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-mobile-home-trim-repair-cost-in-the-bay-area",
+  "name": "How much does mobile home trim repair cost in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does mobile home trim repair cost in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of mobile home trim repair in the Bay Area varies significantly based on several factors. These include the type of trim (e.g., exterior fascia vs. interior baseboard), the extent of the damage, the materials needed, and the complexity of the installation. For example, repairing a small section of vinyl skirting trim will be less costly than replacing extensive rotted wood trim around windows or doors. Labor rates in the Bay Area also contribute to the overall price. It's best to obtain a detailed estimate after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Cost varies based on trim type, damage extent, materials, and labor rates in the Bay Area. A detailed estimate is recommended after an on-site assessment."
+      }
+    }
+  ],
+  "description": "Cost varies based on trim type, damage extent, materials, and labor rates in the Bay Area. A detailed estimate is recommended after an on-site assessment."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-live-in-my-home-during-restoration-work-before-selling",
+  "name": "Can I live in my home during restoration work before selling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during restoration work before selling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can live in your home during restoration depends entirely on the scope of the projects. Minor work like painting or small repairs might allow you to stay. However, major renovations, especially those affecting essential utilities (kitchen, bathroom), structural integrity, or requiring significant demolition, will likely necessitate temporary relocation for safety and comfort. Discuss logistics with your contractor to understand the impact on daily living and plan accordingly.",
+        "@type": "Answer",
+        "description": "Living in your home during restoration depends on the project's scope. Minor work may allow it, but major renovations often require temporary relocation for safety."
+      }
+    }
+  ],
+  "description": "Living in your home during restoration depends on the project's scope. Minor work may allow it, but major renovations often require temporary relocation for saf"
+}

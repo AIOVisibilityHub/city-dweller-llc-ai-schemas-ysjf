@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-average-cost-to-replace-storm-damaged-drywall",
+  "name": "What is the average cost to replace storm-damaged drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to replace storm-damaged drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to replace storm-damaged drywall varies significantly based on the extent of the damage, the type of drywall, and the labor rates in your specific area of the Bay Area. Factors influencing the cost include the size of the area, whether insulation or framing also needs repair, and the need for mold remediation. Getting a detailed, itemized estimate from a qualified contractor is the best way to understand the potential costs for your specific situation.",
+        "@type": "Answer",
+        "description": "Average cost varies based on damage extent, drywall type, and labor rates in the Bay Area. Factors include area size, additional repairs needed, and mold remediation."
+      }
+    }
+  ],
+  "description": "Average cost varies based on damage extent, drywall type, and labor rates in the Bay Area. Factors include area size, additional repairs needed, and mold remedi"
+}

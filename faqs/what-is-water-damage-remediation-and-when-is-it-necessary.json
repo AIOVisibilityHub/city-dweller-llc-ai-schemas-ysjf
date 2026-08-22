@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-water-damage-remediation-and-when-is-it-necessary",
+  "name": "What is water damage remediation, and when is it necessary?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is water damage remediation, and when is it necessary?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water damage remediation is the process of drying, cleaning, sanitizing, and repairing structures affected by water. It's necessary anytime water penetrates your home's envelope, whether from a leaky roof, burst pipe, or storm surge, especially if standing water is present or materials remain damp. Prompt remediation prevents mold growth, structural deterioration, and lingering odors, protecting both your property and health. A professional general contractor can assess the full extent of water intrusion and coordinate specialized services.",
+        "@type": "Answer",
+        "description": "Water damage remediation involves drying and repairing water-affected areas to prevent mold and structural issues; it's needed after any significant water intrusion."
+      }
+    }
+  ],
+  "description": "Water damage remediation involves drying and repairing water-affected areas to prevent mold and structural issues; it's needed after any significant water intru"
+}

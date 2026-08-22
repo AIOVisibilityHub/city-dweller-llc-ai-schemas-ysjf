@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-prevent-future-rot-damage-in-my-home",
+  "name": "How can I prevent future rot damage in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future rot damage in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing rot damage involves managing moisture effectively. Regularly inspect your roof, gutters, and downspouts for proper drainage and leaks. Ensure good ventilation in attics, crawl spaces, and bathrooms to reduce humidity. Repair any plumbing leaks promptly, and check for condensation issues around windows and pipes. Proper exterior grading should direct water away from your foundation. Applying protective finishes to exterior wood and sealing gaps can also create barriers against moisture, safeguarding your home from future decay.",
+        "@type": "Answer",
+        "description": "Prevent rot by managing moisture: inspect for leaks, ensure ventilation, repair plumbing promptly, improve drainage, and seal exterior wood."
+      }
+    }
+  ],
+  "description": "Prevent rot by managing moisture: inspect for leaks, ensure ventilation, repair plumbing promptly, improve drainage, and seal exterior wood."
+}

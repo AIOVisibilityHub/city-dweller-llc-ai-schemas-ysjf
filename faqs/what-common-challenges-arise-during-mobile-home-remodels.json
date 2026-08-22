@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-common-challenges-arise-during-mobile-home-remodels",
+  "name": "What common challenges arise during mobile home remodels?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common challenges arise during mobile home remodels?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mobile home remodels can present unique challenges compared to stick-built homes. These include structural limitations, which may impact load-bearing walls or design changes. Dealing with older electrical or plumbing systems that may not meet current codes is another common hurdle. Finding specialized materials or contractors familiar with manufactured home construction can also be a challenge. Adherence to strict mobile home park regulations or specific local permitting requirements adds further complexity to the process.",
+        "@type": "Answer",
+        "description": "Common mobile home remodel challenges include structural limitations, updating older utility systems, finding specialized contractors or materials, and navigating park or local regulations."
+      }
+    }
+  ],
+  "description": "Common mobile home remodel challenges include structural limitations, updating older utility systems, finding specialized contractors or materials, and navigati"
+}

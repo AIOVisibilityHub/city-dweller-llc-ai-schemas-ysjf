@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-repair-mobile-home-drywall",
+  "name": "How long does it take to repair mobile home drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair mobile home drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of mobile home drywall repair depends on the scope of the damage. Small patches for holes or cracks might take a few hours to a day, including drying time between coats. Larger repairs involving multiple sheets or water damage can take several days due due to the need for thorough drying, multiple mud applications, and precise finishing. An accurate timeline is provided after assessment.",
+        "@type": "Answer",
+        "description": "Repair time varies from a few hours for small patches to several days for larger or water-damaged areas, including drying time."
+      }
+    }
+  ],
+  "description": "Repair time varies from a few hours for small patches to several days for larger or water-damaged areas, including drying time."
+}

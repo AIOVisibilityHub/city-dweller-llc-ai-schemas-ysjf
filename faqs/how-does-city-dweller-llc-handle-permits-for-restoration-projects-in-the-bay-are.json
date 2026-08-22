@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-does-city-dweller-llc-handle-permits-for-restoration-projects-in-the-bay-are",
+  "name": "How does City Dweller, LLC handle permits for restoration projects in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does City Dweller, LLC handle permits for restoration projects in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For restoration projects in the Bay Area that require permits, City Dweller, LLC manages the entire permitting process on your behalf. This includes identifying necessary permits based on the scope of work and local regulations in cities like Pacifica, Daly City, or South San Francisco. We prepare and submit all required documentation to the relevant municipal building departments and coordinate inspections as the project progresses. Our goal is to ensure all work complies with local codes and regulations without you needing to navigate the complex permitting system.",
+        "@type": "Answer",
+        "description": "City Dweller handles all permitting for Bay Area restoration projects, including identifying requirements, submitting documentation, and coordinating inspections."
+      }
+    }
+  ],
+  "description": "City Dweller handles all permitting for Bay Area restoration projects, including identifying requirements, submitting documentation, and coordinating inspection"
+}

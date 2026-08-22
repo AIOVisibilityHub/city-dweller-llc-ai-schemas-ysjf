@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-water-intrusion-and-why-is-it-a-problem-for-my-home",
+  "name": "What is water intrusion and why is it a problem for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is water intrusion and why is it a problem for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water intrusion occurs when unwanted water enters your building, often through leaks in the roof, foundation, walls, or windows. It can lead to significant problems like structural damage, mold growth, compromised air quality, and damage to finishes such as drywall and flooring. Addressing water intrusion promptly is crucial to prevent extensive and costly repairs, maintain your property's value, and ensure a healthy living environment.",
+        "@type": "Answer",
+        "description": "Water intrusion is unwanted water entering your home, causing structural damage, mold, and health issues if not addressed quickly."
+      }
+    }
+  ],
+  "description": "Water intrusion is unwanted water entering your home, causing structural damage, mold, and health issues if not addressed quickly."
+}

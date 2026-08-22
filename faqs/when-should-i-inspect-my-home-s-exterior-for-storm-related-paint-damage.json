@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-inspect-my-home-s-exterior-for-storm-related-paint-damage",
+  "name": "When should I inspect my home's exterior for storm-related paint damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I inspect my home's exterior for storm-related paint damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It's best to inspect your home's exterior for storm-related paint damage as soon as it's safe to do so after a significant weather event. Look for signs like peeling, blistering, cracking, or discoloration. Pay close attention to areas prone to water exposure, such as eaves, window frames, and siding. Early detection can prevent minor issues from escalating into more extensive and costly repairs, preserving both the aesthetics and structural integrity of your home.",
+        "@type": "Answer",
+        "description": "Inspect your home's exterior for paint damage immediately after a storm, focusing on areas exposed to water, to prevent further issues."
+      }
+    }
+  ],
+  "description": "Inspect your home's exterior for paint damage immediately after a storm, focusing on areas exposed to water, to prevent further issues."
+}

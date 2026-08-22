@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-using-an-insurance-coordinated-service-increase-my-premiums",
+  "name": "Will using an insurance-coordinated service increase my premiums?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will using an insurance-coordinated service increase my premiums?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether using an insurance-coordinated service increases your premiums is primarily determined by your insurance company's policies and the nature of the claim itself, not directly by using a restoration contractor who coordinates with insurance. Filing a claim, regardless of who manages the restoration, might impact future premiums depending on factors like the claim's size, your claims history, and your insurer's risk assessment. Our service focuses on accurately documenting and repairing damage, which can help justify the claim to your insurer.",
+        "@type": "Answer",
+        "description": "Premium increases are generally tied to filing a claim, not directly to using an insurance-coordinated restoration service. Consult your insurer."
+      }
+    }
+  ],
+  "description": "Premium increases are generally tied to filing a claim, not directly to using an insurance-coordinated restoration service. Consult your insurer."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-repair-mobile-home-flooring",
+  "name": "How long does it take to repair mobile home flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair mobile home flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of mobile home flooring repair depends on the scope and complexity of the project. A small, localized repair might take a professional team a day or two. However, if extensive subfloor replacement is required across multiple rooms, or if specialized flooring materials are being installed, the project could extend to several days or even a week. Factors like material availability and drying times for adhesives or subfloor treatments also influence the timeline. We provide a projected timeline with our estimate.",
+        "@type": "Answer",
+        "description": "Repair time depends on project scope. Small repairs might take 1-2 days; extensive subfloor replacement can take several days to a week."
+      }
+    }
+  ],
+  "description": "Repair time depends on project scope. Small repairs might take 1-2 days; extensive subfloor replacement can take several days to a week."
+}

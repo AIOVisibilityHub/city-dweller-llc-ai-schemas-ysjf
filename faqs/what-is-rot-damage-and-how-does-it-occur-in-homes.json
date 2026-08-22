@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-rot-damage-and-how-does-it-occur-in-homes",
+  "name": "What is rot damage and how does it occur in homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is rot damage and how does it occur in homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rot damage, often caused by fungal growth, occurs when wood is exposed to moisture for extended periods. Common sources include leaks from pipes or roofs, condensation, and poor drainage. This can compromise the structural integrity of wooden components like joists, subflooring, and siding, leading to soft, discolored, or crumbling wood. Addressing the underlying moisture issue is crucial to prevent recurrence after repairs.",
+        "@type": "Answer",
+        "description": "Rot damage is wood decay caused by fungal growth due to prolonged moisture exposure, weakening structural components."
+      }
+    }
+  ],
+  "description": "Rot damage is wood decay caused by fungal growth due to prolonged moisture exposure, weakening structural components."
+}

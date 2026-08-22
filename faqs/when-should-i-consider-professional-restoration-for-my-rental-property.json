@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-professional-restoration-for-my-rental-property",
+  "name": "When should I consider professional restoration for my rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider professional restoration for my rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider professional restoration when damages go beyond minor wear and tear, or when preparing a property for a new tenant requires more than basic cleaning and cosmetic touch-ups. This includes significant damage from previous tenants, water or fire damage, mold remediation, or if you aim to upgrade the property to attract higher-paying tenants. Professionals ensure quality work and adherence to local building codes.",
+        "@type": "Answer",
+        "description": "Consider professional restoration for significant damage, major upgrades, or when preparing a property for new tenants requires more than minor fixes."
+      }
+    }
+  ],
+  "description": "Consider professional restoration for significant damage, major upgrades, or when preparing a property for new tenants requires more than minor fixes."
+}

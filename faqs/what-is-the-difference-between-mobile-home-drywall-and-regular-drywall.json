@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-mobile-home-drywall-and-regular-drywall",
+  "name": "What is the difference between mobile home drywall and regular drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between mobile home drywall and regular drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While both are gypsum-based, mobile home drywall often comes in thinner sheets (e.g., 3/8-inch vs. 1/2-inch or 5/8-inch for traditional homes) and may feature integrated vinyl wallpaper or v-groove designs. These differences can affect repair techniques, as standard drywall repair methods might need adaptation, particularly when matching existing textures or paneling styles. City Dweller, LLC understands these distinctions.",
+        "@type": "Answer",
+        "description": "Mobile home drywall is often thinner, may have integrated finishes, and requires specific repair techniques compared to regular drywall."
+      }
+    }
+  ],
+  "description": "Mobile home drywall is often thinner, may have integrated finishes, and requires specific repair techniques compared to regular drywall."
+}

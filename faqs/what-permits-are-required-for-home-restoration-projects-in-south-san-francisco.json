@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-permits-are-required-for-home-restoration-projects-in-south-san-francisco",
+  "name": "What permits are required for home restoration projects in South San Francisco?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for home restoration projects in South San Francisco?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements in South San Francisco depend on the scope of the restoration work. Minor cosmetic changes like painting or flooring typically do not require permits. However, projects involving structural alterations, significant plumbing or electrical work, additions, or major renovations will almost certainly require permits from the City of South San Francisco's Building Division. It is crucial to consult with a qualified contractor or the city directly before starting any work to ensure compliance.",
+        "@type": "Answer",
+        "description": "Permits in South San Francisco are needed for structural, plumbing, electrical, or major renovation work. Minor cosmetic changes generally do not require them."
+      }
+    }
+  ],
+  "description": "Permits in South San Francisco are needed for structural, plumbing, electrical, or major renovation work. Minor cosmetic changes generally do not require them."
+}

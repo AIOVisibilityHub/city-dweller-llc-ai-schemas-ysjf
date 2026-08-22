@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-my-homeowner-s-insurance-cover-storm-related-paint-damage-repairs",
+  "name": "Will my homeowner's insurance cover storm-related paint damage repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover storm-related paint damage repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many homeowner's insurance policies do cover damage to exterior paint and finishes resulting from sudden and accidental storm events, such as wind, hail, or falling debris. However, coverage can vary based on your specific policy, deductible, and the cause of the damage (e.g., gradual wear and tear is typically not covered). We recommend reviewing your policy details and contacting your insurance provider directly to understand your coverage options and the claims process.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance often covers storm-related paint damage, but coverage depends on your specific policy and the damage cause. Check with your insurer."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance often covers storm-related paint damage, but coverage depends on your specific policy and the damage cause. Check with your insurer."
+}

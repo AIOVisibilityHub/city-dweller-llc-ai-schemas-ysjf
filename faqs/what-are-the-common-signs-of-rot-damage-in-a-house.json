@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-signs-of-rot-damage-in-a-house",
+  "name": "What are the common signs of rot damage in a house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of rot damage in a house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Identifying rot damage early can prevent more extensive and costly repairs. Look for visible discoloration or dark spots on wood, especially in damp areas like bathrooms, kitchens, basements, or near windows. The wood might feel soft or spongy when pressed, or it could crumble easily. A persistent musty odor is another strong indicator of fungal growth. Peeling paint or warped wood can also suggest underlying moisture problems that lead to rot.",
+        "@type": "Answer",
+        "description": "Signs include discolored, soft, or crumbling wood, a musty odor, or peeling paint in moisture-prone areas."
+      }
+    }
+  ],
+  "description": "Signs include discolored, soft, or crumbling wood, a musty odor, or peeling paint in moisture-prone areas."
+}

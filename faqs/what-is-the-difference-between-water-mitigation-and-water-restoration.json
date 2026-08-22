@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-water-mitigation-and-water-restoration",
+  "name": "What is the difference between water mitigation and water restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between water mitigation and water restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water mitigation focuses on preventing further damage and stabilizing the property after a water incident. This includes emergency services like water extraction, drying, dehumidification, and mold prevention. Water restoration, conversely, involves rebuilding and repairing the damaged areas to their pre-loss condition, which can include structural repairs, flooring replacement, painting, and other cosmetic finishes. Mitigation happens first to limit loss, followed by restoration to return the property to normal.",
+        "@type": "Answer",
+        "description": "Water mitigation stops further damage (extraction, drying), while water restoration rebuilds and repairs affected areas to their original state."
+      }
+    }
+  ],
+  "description": "Water mitigation stops further damage (extraction, drying), while water restoration rebuilds and repairs affected areas to their original state."
+}

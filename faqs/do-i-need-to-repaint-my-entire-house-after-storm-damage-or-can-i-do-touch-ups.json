@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-repaint-my-entire-house-after-storm-damage-or-can-i-do-touch-ups",
+  "name": "Do I need to repaint my entire house after storm damage, or can I do touch-ups?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to repaint my entire house after storm damage, or can I do touch-ups?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need a full repaint or can opt for touch-ups depends on the extent and nature of the storm damage. If the damage is localized, such as a few chipped spots or minor water stains, touch-ups might suffice. However, if there's widespread peeling, significant substrate damage, or extensive fading on multiple surfaces, a full repaint often provides a more uniform, durable, and aesthetically pleasing result. A professional assessment can help determine the most cost-effective and long-lasting solution.",
+        "@type": "Answer",
+        "description": "It depends on the damage. Localized issues may allow touch-ups, but widespread damage often requires a full repaint for best results."
+      }
+    }
+  ],
+  "description": "It depends on the damage. Localized issues may allow touch-ups, but widespread damage often requires a full repaint for best results."
+}

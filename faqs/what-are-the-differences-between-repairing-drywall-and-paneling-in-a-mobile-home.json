@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-differences-between-repairing-drywall-and-paneling-in-a-mobile-home",
+  "name": "What are the differences between repairing drywall and paneling in a mobile home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the differences between repairing drywall and paneling in a mobile home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing drywall typically involves cutting out damaged sections, installing new drywall pieces, taping and mudding seams, and then sanding and painting to blend the repair seamlessly. Paneling repair, on the other hand, often means replacing individual damaged panels, which can be challenging to match perfectly due to fading or discontinued styles. Drywall offers more flexibility in patching, while paneling might require replacing a larger section for a uniform look.",
+        "@type": "Answer",
+        "description": "Drywall repair involves patching and blending with mud and paint. Paneling repair often means replacing panels, which can be harder to match."
+      }
+    }
+  ],
+  "description": "Drywall repair involves patching and blending with mud and paint. Paneling repair often means replacing panels, which can be harder to match."
+}

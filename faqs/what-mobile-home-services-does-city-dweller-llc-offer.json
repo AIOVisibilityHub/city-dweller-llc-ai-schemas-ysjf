@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-mobile-home-services-does-city-dweller-llc-offer",
+  "name": "What mobile home services does City Dweller, LLC offer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What mobile home services does City Dweller, LLC offer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC provides a range of mobile home services to address common needs and improvements. These services can include foundation repairs, structural inspections, re-leveling, utility connections (plumbing and electrical), skirting installation, and exterior maintenance such as siding and roofing. We aim to ensure the safety, stability, and longevity of your mobile home. For specific project inquiries or to discuss your needs, please contact us directly. Our expertise covers both routine upkeep and more complex renovation projects.",
+        "@type": "Answer",
+        "description": "City Dweller, LLC offers services like foundation repairs, re-leveling, utility connections, skirting installation, and exterior maintenance for mobile homes."
+      }
+    }
+  ],
+  "description": "City Dweller, LLC offers services like foundation repairs, re-leveling, utility connections, skirting installation, and exterior maintenance for mobile homes."
+}

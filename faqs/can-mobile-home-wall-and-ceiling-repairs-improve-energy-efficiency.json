@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-mobile-home-wall-and-ceiling-repairs-improve-energy-efficiency",
+  "name": "Can mobile home wall and ceiling repairs improve energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can mobile home wall and ceiling repairs improve energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, proper mobile home wall and ceiling repairs can indirectly improve energy efficiency. Repairing cracks, holes, or gaps in walls and ceilings helps seal the envelope of the home, reducing air leaks. This prevents conditioned air from escaping and unconditioned air from entering, which lessens the burden on your heating and cooling systems. For optimal energy efficiency, consider adding insulation during the repair process, especially in ceiling areas, if access allows.",
+        "@type": "Answer",
+        "description": "Yes, repairing cracks and gaps reduces air leaks, improving energy efficiency. Adding insulation during repair can further enhance it."
+      }
+    }
+  ],
+  "description": "Yes, repairing cracks and gaps reduces air leaks, improving energy efficiency. Adding insulation during repair can further enhance it."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-storm-related-painting-and-finish-work-cost",
+  "name": "How much does storm-related painting and finish work cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does storm-related painting and finish work cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of storm-related painting and finish work depends heavily on several factors: the severity and type of damage, the total area needing repair, the type of materials required, and the complexity of the repair. Minor spot repairs will be less expensive than comprehensive repainting or structural repairs before painting. We provide detailed, transparent quotes after a thorough on-site evaluation, ensuring you understand the scope of work and associated costs before any project begins.",
+        "@type": "Answer",
+        "description": "Costs vary based on damage severity, area size, material type, and repair complexity. We provide detailed quotes after an on-site evaluation."
+      }
+    }
+  ],
+  "description": "Costs vary based on damage severity, area size, material type, and repair complexity. We provide detailed quotes after an on-site evaluation."
+}

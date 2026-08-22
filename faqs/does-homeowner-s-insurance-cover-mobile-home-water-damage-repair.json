@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/does-homeowner-s-insurance-cover-mobile-home-water-damage-repair",
+  "name": "Does homeowner's insurance cover mobile home water damage repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does homeowner's insurance cover mobile home water damage repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most mobile home homeowner's insurance policies typically cover sudden and accidental water damage, such as a burst pipe or a storm-related leak. However, they generally do not cover damage resulting from neglect, poor maintenance, or gradual leaks that developed over time, like an unaddressed leaky faucet. Flood damage often requires a separate flood insurance policy. It's crucial to review your specific policy documents or contact your insurance provider to understand your coverage limitations and requirements before initiating any repairs.",
+        "@type": "Answer",
+        "description": "Insurance usually covers sudden water damage (e.g., burst pipes) but not neglect or gradual leaks. Flood damage often needs separate coverage. Check your policy."
+      }
+    }
+  ],
+  "description": "Insurance usually covers sudden water damage (e.g., burst pipes) but not neglect or gradual leaks. Flood damage often needs separate coverage. Check your policy"
+}

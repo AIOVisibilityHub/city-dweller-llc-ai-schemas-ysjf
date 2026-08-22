@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-colors-are-popular-for-mobile-home-exteriors",
+  "name": "What colors are popular for mobile home exteriors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What colors are popular for mobile home exteriors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Popular color choices for mobile home exteriors often include neutral tones like off-whites, grays, and light blues, which provide a clean and classic look. Earthy tones such as beige, tan, or sage green are also frequently chosen for their ability to blend with natural surroundings. Darker accent colors for trim, doors, or shutters can add visual interest. The best color for your mobile home depends on your personal preference, the surrounding landscape, and any community guidelines. Lighter colors can also help reflect sunlight and keep the interior cooler.",
+        "@type": "Answer",
+        "description": "Popular mobile home colors include neutral tones like off-whites, grays, and light blues, as well as earthy tones like beige or sage green."
+      }
+    }
+  ],
+  "description": "Popular mobile home colors include neutral tones like off-whites, grays, and light blues, as well as earthy tones like beige or sage green."
+}

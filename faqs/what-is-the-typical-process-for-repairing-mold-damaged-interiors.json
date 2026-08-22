@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-repairing-mold-damaged-interiors",
+  "name": "What is the typical process for repairing mold-damaged interiors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for repairing mold-damaged interiors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically begins with a thorough inspection to identify the mold source and extent. Next, containment measures are put in place to prevent mold spores from spreading. Affected materials, such as drywall, insulation, and flooring, are carefully removed and disposed of. The area is then cleaned using specialized solutions and thoroughly dried. Finally, repairs are made to restore the interior, which can involve replacing drywall, painting, and other finishes. The goal is to return the area to its pre-mold condition.",
+        "@type": "Answer",
+        "description": "The process involves inspection, containment, removal of damaged materials, cleaning, drying, and then restoring the interior surfaces."
+      }
+    }
+  ],
+  "description": "The process involves inspection, containment, removal of damaged materials, cleaning, drying, and then restoring the interior surfaces."
+}

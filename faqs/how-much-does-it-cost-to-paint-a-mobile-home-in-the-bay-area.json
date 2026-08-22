@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-paint-a-mobile-home-in-the-bay-area",
+  "name": "How much does it cost to paint a mobile home in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to paint a mobile home in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to paint a mobile home in the Bay Area varies significantly based on factors like the size of the home, its current condition, the type of paint chosen, and the complexity of the job. Generally, pricing can range from a few thousand dollars for a smaller single-wide to over ten thousand for a larger double-wide with extensive prep work. Additional costs might include repairs to siding, trim replacement, or special finishes. Obtaining detailed estimates from local contractors like City Dweller, LLC, is recommended to understand the specific costs for your mobile home in areas such as Pacifica or Daly City.",
+        "@type": "Answer",
+        "description": "Costs vary based on mobile home size, condition, paint type, and job complexity, typically ranging from a few thousand to over ten thousand dollars."
+      }
+    }
+  ],
+  "description": "Costs vary based on mobile home size, condition, paint type, and job complexity, typically ranging from a few thousand to over ten thousand dollars."
+}

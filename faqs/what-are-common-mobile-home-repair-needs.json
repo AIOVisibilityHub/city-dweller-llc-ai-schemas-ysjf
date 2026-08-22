@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-mobile-home-repair-needs",
+  "name": "What are common mobile home repair needs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common mobile home repair needs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mobile homes often require specific repairs due to their construction. Common issues include roof leaks, subfloor damage, plumbing leaks, electrical system faults, siding repair, and leveling problems. Skirting damage, window and door seal failures, and issues with ventilation systems are also frequently encountered. Addressing these promptly helps maintain structural integrity and extends the life of your mobile home.",
+        "@type": "Answer",
+        "description": "Common mobile home repair needs include roof leaks, subfloor damage, plumbing or electrical issues, siding repair, and leveling problems."
+      }
+    }
+  ],
+  "description": "Common mobile home repair needs include roof leaks, subfloor damage, plumbing or electrical issues, siding repair, and leveling problems."
+}

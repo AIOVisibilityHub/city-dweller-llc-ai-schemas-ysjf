@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-do-immediately-after-discovering-water-damage-in-my-home",
+  "name": "What should I do immediately after discovering water damage in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after discovering water damage in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately after discovering water damage, prioritize safety by turning off the main water supply and electricity to the affected areas. Document the damage with photos and videos for insurance purposes. Contact a professional water damage restoration company promptly, as quick action can prevent further damage and mold growth. Avoid entering areas with structural damage or standing water if electrical hazards are present.",
+        "@type": "Answer",
+        "description": "Turn off water and electricity, document damage, and call a professional restoration company immediately to prevent further issues and mold growth."
+      }
+    }
+  ],
+  "description": "Turn off water and electricity, document damage, and call a professional restoration company immediately to prevent further issues and mold growth."
+}

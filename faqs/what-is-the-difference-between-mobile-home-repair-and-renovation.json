@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-mobile-home-repair-and-renovation",
+  "name": "What is the difference between mobile home repair and renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between mobile home repair and renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mobile home repair typically addresses existing damage, malfunctions, or safety issues to restore the home to its original or safe operating condition. Examples include fixing a leaky roof, repairing a damaged foundation, or replacing broken plumbing. Renovation, on the other hand, involves upgrading, modernizing, or aesthetically improving the mobile home beyond just fixing problems. This could include kitchen remodels, bathroom updates, new flooring installations, or adding features to enhance comfort and value. While repairs are often essential, renovations are about enhancing living quality and aesthetics.",
+        "@type": "Answer",
+        "description": "Repair fixes existing damage to restore function, while renovation upgrades and modernizes a mobile home for aesthetic or functional improvement."
+      }
+    }
+  ],
+  "description": "Repair fixes existing damage to restore function, while renovation upgrades and modernizes a mobile home for aesthetic or functional improvement."
+}

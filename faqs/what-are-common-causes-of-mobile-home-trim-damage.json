@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-causes-of-mobile-home-trim-damage",
+  "name": "What are common causes of mobile home trim damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common causes of mobile home trim damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mobile home trim can be damaged by various factors. Weather exposure, including sun, rain, and humidity, can cause exterior trim to warp, crack, fade, or rot over time. Impact from landscaping equipment, falling branches, or minor accidents can cause physical damage. Pests, such as termites or rodents, can also chew through or nest within trim. Furthermore, improper installation, poor quality materials, or general wear and tear can lead to deterioration. Water intrusion behind trim is a significant cause of damage, leading to rot and mold.",
+        "@type": "Answer",
+        "description": "Common causes include weather exposure, physical impact, pests, improper installation, poor materials, and water intrusion, leading to rot, cracks, and warping."
+      }
+    }
+  ],
+  "description": "Common causes include weather exposure, physical impact, pests, improper installation, poor materials, and water intrusion, leading to rot, cracks, and warping."
+}

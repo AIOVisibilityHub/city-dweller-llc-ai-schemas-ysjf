@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-call-a-professional-for-water-intrusion-repair-instead-of-doing-it",
+  "name": "When should I call a professional for water intrusion repair instead of doing it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for water intrusion repair instead of doing it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional if the water intrusion source isn't obvious, if there's significant structural damage, or if you suspect mold growth. Professionals have specialized equipment for detection, drying, and remediation that homeowners typically lack. Improper DIY repairs can lead to recurring problems, further damage, or health risks from mold. For lasting solutions and safety, especially with larger issues, professional intervention is recommended.",
+        "@type": "Answer",
+        "description": "Call a professional if the source is unclear, damage is extensive, or mold is suspected, as DIY can lead to worse problems."
+      }
+    }
+  ],
+  "description": "Call a professional if the source is unclear, damage is extensive, or mold is suspected, as DIY can lead to worse problems."
+}

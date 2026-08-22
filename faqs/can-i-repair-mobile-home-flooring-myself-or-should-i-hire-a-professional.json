@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-mobile-home-flooring-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair mobile home flooring myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair mobile home flooring myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor surface flooring issues in a mobile home might be tackled by a DIY enthusiast, significant repairs, especially involving the subfloor or water damage, are best left to professionals. Mobile home subfloors often require specific repair techniques due to their construction. Professionals have the tools, experience, and knowledge to correctly identify the root cause of damage, choose appropriate materials, and ensure structural integrity. Hiring a contractor like City Dweller, LLC ensures the repair is done safely and effectively.",
+        "@type": "Answer",
+        "description": "Minor repairs might be DIY, but significant issues, especially subfloor or water damage, are best handled by professionals for safety and effectiveness."
+      }
+    }
+  ],
+  "description": "Minor repairs might be DIY, but significant issues, especially subfloor or water damage, are best handled by professionals for safety and effectiveness."
+}

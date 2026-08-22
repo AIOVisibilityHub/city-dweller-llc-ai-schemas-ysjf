@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-do-mobile-home-repairs-typically-take",
+  "name": "How long do mobile home repairs typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do mobile home repairs typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of mobile home repairs varies greatly depending on the complexity and extent of the damage. Minor fixes might be completed in a single day, while more extensive projects such as roof replacement, subfloor overhaul, or major structural work could take several days to a few weeks. We will provide an estimated timeline after assessing your specific repair needs.",
+        "@type": "Answer",
+        "description": "Repair duration depends on complexity; minor fixes might be a day, while extensive projects can take several days to weeks."
+      }
+    }
+  ],
+  "description": "Repair duration depends on complexity; minor fixes might be a day, while extensive projects can take several days to weeks."
+}

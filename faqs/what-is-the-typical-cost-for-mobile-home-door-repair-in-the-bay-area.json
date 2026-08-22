@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-for-mobile-home-door-repair-in-the-bay-area",
+  "name": "What is the typical cost for mobile home door repair in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for mobile home door repair in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of mobile home door repair in the Bay Area varies widely depending on the type of door, the extent of the damage, and whether materials are readily available. Minor repairs, like adjusting hinges or fixing a small frame crack, could be a few hundred dollars. More extensive repairs, such as addressing significant wood rot or replacing a large section of a door frame, will be higher. A detailed estimate is provided after a thorough assessment of your specific repair needs and materials.",
+        "@type": "Answer",
+        "description": "Mobile home door repair costs in the Bay Area depend on the door type, damage extent, and material availability. Minor repairs cost less than extensive frame work or rot remediation."
+      }
+    }
+  ],
+  "description": "Mobile home door repair costs in the Bay Area depend on the door type, damage extent, and material availability. Minor repairs cost less than extensive frame wo"
+}

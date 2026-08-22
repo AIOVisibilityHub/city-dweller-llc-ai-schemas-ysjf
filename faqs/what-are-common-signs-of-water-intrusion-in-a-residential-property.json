@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-signs-of-water-intrusion-in-a-residential-property",
+  "name": "What are common signs of water intrusion in a residential property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of water intrusion in a residential property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Look for several key indicators: visible water stains or discoloration on ceilings, walls, or floors; peeling paint or wallpaper; a musty odor, which often signals mold or mildew growth; warped or buckling flooring; and efflorescence, a white, powdery substance on concrete or masonry. Dampness in basements or crawl spaces, and recurring leaks after rain, are also strong signs that water is getting in where it shouldn't.",
+        "@type": "Answer",
+        "description": "Common signs include water stains, peeling paint, musty odors, warped floors, and efflorescence on walls or concrete."
+      }
+    }
+  ],
+  "description": "Common signs include water stains, peeling paint, musty odors, warped floors, and efflorescence on walls or concrete."
+}

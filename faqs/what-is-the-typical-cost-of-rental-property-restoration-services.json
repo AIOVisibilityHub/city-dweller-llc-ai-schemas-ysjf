@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-of-rental-property-restoration-services",
+  "name": "What is the typical cost of rental property restoration services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost of rental property restoration services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of rental property restoration is highly variable, depending on factors such as the property's size, the extent of damage, the materials chosen, and the scope of renovation. Minor cosmetic work might range from a few thousand dollars, while full-scale renovations or significant damage repair can cost tens of thousands. Obtaining a detailed estimate from a qualified general contractor is essential to understand potential expenses.",
+        "@type": "Answer",
+        "description": "Costs vary widely based on property size, damage extent, and materials. Minor work can be thousands, major renovations tens of thousands."
+      }
+    }
+  ],
+  "description": "Costs vary widely based on property size, damage extent, and materials. Minor work can be thousands, major renovations tens of thousands."
+}

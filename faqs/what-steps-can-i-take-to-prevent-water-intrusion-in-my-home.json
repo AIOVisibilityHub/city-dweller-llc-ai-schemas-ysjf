@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-steps-can-i-take-to-prevent-water-intrusion-in-my-home",
+  "name": "What steps can I take to prevent water intrusion in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps can I take to prevent water intrusion in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular maintenance is key. Ensure your gutters and downspouts are clear and direct water away from the foundation. Inspect your roof annually for damaged or missing shingles. Check windows and doors for worn-out caulk or seals and replace them as needed. Maintain proper grading around your home so that ground slopes away from the foundation. Periodically inspect plumbing for leaks and address them immediately to prevent larger issues.",
+        "@type": "Answer",
+        "description": "Prevent water intrusion by cleaning gutters, inspecting your roof, sealing windows and doors, and ensuring proper ground grading."
+      }
+    }
+  ],
+  "description": "Prevent water intrusion by cleaning gutters, inspecting your roof, sealing windows and doors, and ensuring proper ground grading."
+}

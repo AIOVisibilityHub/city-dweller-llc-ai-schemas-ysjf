@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-renovating-a-mobile-home-and-a-stick-built-home",
+  "name": "What is the difference between renovating a mobile home and a stick-built home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between renovating a mobile home and a stick-built home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While many renovation principles apply to both, mobile homes and stick-built homes have distinct differences. Mobile homes are typically built to HUD code standards, while stick-built homes adhere to local or state building codes. This can impact structural elements, material choices, and load-bearing capacities. Mobile homes often have different framing and foundation systems, requiring specialized knowledge for major alterations. Permitting and financing also tend to differ between the two housing types.",
+        "@type": "Answer",
+        "description": "Mobile homes follow HUD codes, while stick-built homes follow local building codes, affecting structural elements, materials, foundations, and often requiring specialized renovation approaches and different permitting."
+      }
+    }
+  ],
+  "description": "Mobile homes follow HUD codes, while stick-built homes follow local building codes, affecting structural elements, materials, foundations, and often requiring s"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-identify-if-my-mobile-home-has-structural-damage-requiring-interior-rep",
+  "name": "How do I identify if my mobile home has structural damage requiring interior repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I identify if my mobile home has structural damage requiring interior repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Identifying structural damage in a mobile home often requires careful inspection. Look for significant sagging or uneven floors, persistent doors or windows that stick, cracks in walls or ceilings that are larger than hairline fractures, or visible signs of water damage that could compromise wooden supports. Musty odors, especially after rain, might indicate hidden moisture issues leading to rot. If you notice any of these signs, it's advisable to consult a professional experienced with mobile home structures to assess the extent of the damage and recommend appropriate repairs.",
+        "@type": "Answer",
+        "description": "Look for uneven floors, sticking doors/windows, large wall/ceiling cracks, visible water damage, or musty odors, then consult a professional."
+      }
+    }
+  ],
+  "description": "Look for uneven floors, sticking doors/windows, large wall/ceiling cracks, visible water damage, or musty odors, then consult a professional."
+}

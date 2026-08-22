@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-involved-in-the-rot-damage-repair-process",
+  "name": "What is involved in the rot damage repair process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the rot damage repair process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically begins with a thorough inspection to determine the extent and cause of the rot. First, the source of moisture is identified and mitigated. Next, all damaged wood is carefully removed to prevent spread and ensure a sound base for new materials. Depending on the severity, new wood is then installed and reinforced. Finally, affected areas are treated to prevent future fungal growth, and finishes are restored to match existing structures. Each step ensures a lasting repair and protects against recurrence.",
+        "@type": "Answer",
+        "description": "Rot repair involves identifying and stopping the moisture source, removing damaged wood, installing new materials, and applying preventative treatments."
+      }
+    }
+  ],
+  "description": "Rot repair involves identifying and stopping the moisture source, removing damaged wood, installing new materials, and applying preventative treatments."
+}

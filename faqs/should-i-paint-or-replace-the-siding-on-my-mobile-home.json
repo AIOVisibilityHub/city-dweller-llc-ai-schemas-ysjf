@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-paint-or-replace-the-siding-on-my-mobile-home",
+  "name": "Should I paint or replace the siding on my mobile home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I paint or replace the siding on my mobile home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to paint or replace mobile home siding depends on its current condition and your budget. If the siding is structurally sound with minimal damage, painting can be a cost-effective way to refresh its appearance and add protection. However, if the siding has extensive damage, rot, or is severely deteriorated, replacement might be the more practical long-term solution. Replacing siding offers a complete refresh and can improve insulation, but it is a significantly higher investment. A professional assessment can help determine the best course of action for your specific situation.",
+        "@type": "Answer",
+        "description": "If siding is structurally sound, painting refreshes appearance cost-effectively; extensive damage often necessitates replacement for long-term durability."
+      }
+    }
+  ],
+  "description": "If siding is structurally sound, painting refreshes appearance cost-effectively; extensive damage often necessitates replacement for long-term durability."
+}

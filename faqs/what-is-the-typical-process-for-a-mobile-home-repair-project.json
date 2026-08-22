@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-a-mobile-home-repair-project",
+  "name": "What is the typical process for a mobile home repair project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a mobile home repair project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process begins with an initial consultation and inspection to assess the damage and determine the scope of work. We then provide a detailed estimate. Upon approval, our team schedules the repair, obtains any necessary permits (if applicable), and proceeds with the work. We ensure thorough cleanup and a final inspection upon completion. Communication is maintained throughout the project.",
+        "@type": "Answer",
+        "description": "The process involves an inspection, detailed estimate, scheduling, potential permitting, repair work, cleanup, and final inspection."
+      }
+    }
+  ],
+  "description": "The process involves an inspection, detailed estimate, scheduling, potential permitting, repair work, cleanup, and final inspection."
+}
