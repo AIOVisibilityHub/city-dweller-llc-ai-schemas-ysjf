@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-frame-basement-walls-in-the-bay-area",
+  "name": "How much does it cost to frame basement walls in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to frame basement walls in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of basement wall framing in the Bay Area varies depending on the size of the basement, the complexity of the layout (e.g., number of rooms, corners), and the chosen materials. Generally, you can expect costs to range from $4 to $9 per linear foot for basic framing, not including insulation, electrical, or drywall. This estimate covers labor and materials for the framing itself. A detailed quote requires an on-site assessment of your specific project.",
+        "@type": "Answer",
+        "description": "Basement wall framing costs in the Bay Area typically range from $4 to $9 per linear foot, depending on project scope and materials."
+      }
+    }
+  ],
+  "description": "Basement wall framing costs in the Bay Area typically range from $4 to $9 per linear foot, depending on project scope and materials."
+}

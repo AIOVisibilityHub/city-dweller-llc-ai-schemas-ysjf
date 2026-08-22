@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-is-a-repair-estimate-valid",
+  "name": "How long is a repair estimate valid?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long is a repair estimate valid?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repair estimates from City Dweller, LLC are generally valid for 30 days from the date of issuance. This allows time for material costs and subcontractor availability to be confirmed. Beyond this period, we may need to revise the estimate to account for potential fluctuations in material prices or labor rates. We recommend reviewing your estimate promptly to secure the quoted pricing and schedule your project efficiently.",
+        "@type": "Answer",
+        "description": "Our repair estimates are typically valid for 30 days. After this period, we may need to revise it due to potential changes in material costs or labor rates."
+      }
+    }
+  ],
+  "description": "Our repair estimates are typically valid for 30 days. After this period, we may need to revise it due to potential changes in material costs or labor rates."
+}

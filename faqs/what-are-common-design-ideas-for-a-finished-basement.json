@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-design-ideas-for-a-finished-basement",
+  "name": "What are common design ideas for a finished basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common design ideas for a finished basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Finished basements offer versatile space for various functions. Popular design ideas include creating an additional bedroom or guest suite, a family room or home theater, a home office, or a children's play area. Many homeowners also opt for a home gym, a wet bar, or even a secondary kitchen, depending on their lifestyle and needs. Maximizing natural light, improving ventilation, and incorporating smart storage solutions are key considerations for any design.",
+        "@type": "Answer",
+        "description": "Common basement design ideas include additional bedrooms, family rooms, home offices, home theaters, gyms, or wet bars."
+      }
+    }
+  ],
+  "description": "Common basement design ideas include additional bedrooms, family rooms, home offices, home theaters, gyms, or wet bars."
+}

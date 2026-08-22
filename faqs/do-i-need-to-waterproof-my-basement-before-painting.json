@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-waterproof-my-basement-before-painting",
+  "name": "Do I need to waterproof my basement before painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to waterproof my basement before painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While paint can offer some moisture resistance, it is not a substitute for proper waterproofing if you have significant water intrusion issues. If your basement has active leaks, excessive dampness, or efflorescence (white powdery deposits), addressing these problems with professional waterproofing methods (like crack repair, drainage systems, or exterior solutions) is crucial before painting. Painting over existing moisture problems will likely lead to peeling paint and continued issues.",
+        "@type": "Answer",
+        "description": "Yes, address active leaks or excessive dampness with professional waterproofing before painting. Paint provides resistance but isn't a waterproofing solution for major issues."
+      }
+    }
+  ],
+  "description": "Yes, address active leaks or excessive dampness with professional waterproofing before painting. Paint provides resistance but isn't a waterproofing solution fo"
+}

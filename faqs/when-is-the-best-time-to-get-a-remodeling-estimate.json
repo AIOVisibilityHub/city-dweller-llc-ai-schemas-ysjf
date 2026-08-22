@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-is-the-best-time-to-get-a-remodeling-estimate",
+  "name": "When is the best time to get a remodeling estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time to get a remodeling estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It's best to get a remodeling estimate once you have a clear idea of your project's scope, desired finishes, and a realistic budget range. This allows contractors to provide a more accurate bid. If you're planning a major renovation, obtaining estimates several months in advance is advisable, especially in busy markets like the Bay Area, to allow for contractor availability and permit processing.",
+        "@type": "Answer",
+        "description": "Get an estimate when you have a clear project scope and budget. For major renovations, secure bids several months in advance, particularly in busy markets like the Bay Area."
+      }
+    }
+  ],
+  "description": "Get an estimate when you have a clear project scope and budget. For major renovations, secure bids several months in advance, particularly in busy markets like"
+}

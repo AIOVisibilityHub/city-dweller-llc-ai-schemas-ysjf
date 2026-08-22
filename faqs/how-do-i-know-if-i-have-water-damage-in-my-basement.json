@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-i-have-water-damage-in-my-basement",
+  "name": "How do I know if I have water damage in my basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I have water damage in my basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of basement water damage include visible water puddles, damp spots on walls or floors, and a musty odor indicating mold growth. You might also notice peeling paint, efflorescence (white, powdery mineral deposits) on concrete surfaces, or warped baseboards. If you suspect an issue, checking less visible areas like behind stored items or in corners can reveal early signs.",
+        "@type": "Answer",
+        "description": "Look for puddles, damp spots, musty smells, peeling paint, or white mineral deposits (efflorescence) on basement walls or floors."
+      }
+    }
+  ],
+  "description": "Look for puddles, damp spots, musty smells, peeling paint, or white mineral deposits (efflorescence) on basement walls or floors."
+}

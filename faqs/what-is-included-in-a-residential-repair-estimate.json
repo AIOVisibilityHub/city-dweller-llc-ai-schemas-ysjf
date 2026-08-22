@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-included-in-a-residential-repair-estimate",
+  "name": "What is included in a residential repair estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a residential repair estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A residential repair estimate from City Dweller, LLC typically details the scope of work, including labor, materials, and any necessary subcontractor services. It will itemize tasks such as demolition, framing, electrical, plumbing, finishes, and clean-up. The estimate also outlines project timelines, payment schedules, and explicitly states what is and is not covered, providing a clear understanding of the project's financial and logistical aspects. We aim for transparency to avoid surprises.",
+        "@type": "Answer",
+        "description": "Our residential repair estimate includes labor, materials, subcontractor services, project timelines, and payment schedules, itemizing all tasks for clear understanding."
+      }
+    }
+  ],
+  "description": "Our residential repair estimate includes labor, materials, subcontractor services, project timelines, and payment schedules, itemizing all tasks for clear under"
+}

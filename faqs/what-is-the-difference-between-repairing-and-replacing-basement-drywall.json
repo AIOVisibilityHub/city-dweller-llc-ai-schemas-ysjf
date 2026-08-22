@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-repairing-and-replacing-basement-drywall",
+  "name": "What is the difference between repairing and replacing basement drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between repairing and replacing basement drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing basement drywall typically involves patching small holes, cracks, or minor water stains where the structural integrity of the sheet is largely intact. This is often quicker and less costly. Replacing drywall means removing entire sections or sheets due to extensive damage, such as significant water saturation, severe mold, or large structural damage. Replacement ensures a complete fresh start and addresses deep-seated issues that repair cannot resolve.",
+        "@type": "Answer",
+        "description": "Repairing fixes small, localized damage while replacement involves removing and installing new sections due to extensive issues like severe water damage or mold."
+      }
+    }
+  ],
+  "description": "Repairing fixes small, localized damage while replacement involves removing and installing new sections due to extensive issues like severe water damage or mold"
+}

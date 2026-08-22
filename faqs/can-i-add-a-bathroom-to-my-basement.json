@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-add-a-bathroom-to-my-basement",
+  "name": "Can I add a bathroom to my basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a bathroom to my basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, adding a bathroom to your basement is a common and valuable upgrade, provided the necessary plumbing and drainage can be accommodated. This often involves extending existing water supply and waste lines. If your basement is below the main sewer line, a sewage ejector pump may be required to move wastewater upwards. Proper ventilation is also crucial to prevent moisture issues. A professional contractor can assess your basement's feasibility and design a functional, code-compliant bathroom solution.",
+        "@type": "Answer",
+        "description": "Yes, adding a basement bathroom is possible and popular, but requires proper plumbing, drainage, and potentially a sewage ejector pump if below the main sewer line."
+      }
+    }
+  ],
+  "description": "Yes, adding a basement bathroom is possible and popular, but requires proper plumbing, drainage, and potentially a sewage ejector pump if below the main sewer l"
+}

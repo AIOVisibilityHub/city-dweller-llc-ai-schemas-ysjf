@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-door-frames-are-best-for-a-basement",
+  "name": "What types of door frames are best for a basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of door frames are best for a basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For basement applications, durability and resistance to moisture are key considerations. Steel door frames are often recommended due to their strength, security, and resistance to warping or rot, making them suitable for exterior basement entries. Fiberglass frames also offer good moisture resistance and are low maintenance, but may be more expensive. For interior basement doors, solid wood frames can be used, though they are more susceptible to moisture-related issues if the basement has high humidity. The best choice depends on whether the door leads to the exterior or interior, and the specific moisture conditions of your basement.",
+        "@type": "Answer",
+        "description": "Steel and fiberglass frames are best for basement doors due to moisture resistance and durability. Solid wood can be used for interior basement doors but is more susceptible to humidity."
+      }
+    }
+  ],
+  "description": "Steel and fiberglass frames are best for basement doors due to moisture resistance and durability. Solid wood can be used for interior basement doors but is mor"
+}

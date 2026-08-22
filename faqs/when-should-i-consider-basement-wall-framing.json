@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-basement-wall-framing",
+  "name": "When should I consider basement wall framing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider basement wall framing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider basement wall framing when you plan to finish your basement to create usable living space, such as bedrooms, bathrooms, a family room, or a home office. It's a foundational step that allows for the installation of insulation, electrical wiring, plumbing, and proper wall surfaces. If your goal is to transform an unfinished basement into a comfortable, functional area, framing is almost always necessary to achieve a finished aesthetic and meet building codes.",
+        "@type": "Answer",
+        "description": "Consider basement wall framing when you plan to finish your basement into usable living space, as it's essential for insulation, utilities, and wall surfaces."
+      }
+    }
+  ],
+  "description": "Consider basement wall framing when you plan to finish your basement into usable living space, as it's essential for insulation, utilities, and wall surfaces."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-custom-basement-renovation-typically-take",
+  "name": "How long does a custom basement renovation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a custom basement renovation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a custom basement renovation depends on the project's scale and complexity. A small-scale remodel might take a few weeks, while a comprehensive design involving structural changes, new bathrooms, or custom features could extend to several months. Our project planning includes a detailed schedule, and we work efficiently to minimize disruption while maintaining high quality standards.",
+        "@type": "Answer",
+        "description": "A custom basement renovation's duration varies from weeks to several months, depending on the project's size and complexity."
+      }
+    }
+  ],
+  "description": "A custom basement renovation's duration varies from weeks to several months, depending on the project's size and complexity."
+}

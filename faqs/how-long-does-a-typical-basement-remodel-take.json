@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-basement-remodel-take",
+  "name": "How long does a typical basement remodel take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical basement remodel take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a basement remodel varies significantly based on the project's complexity and scope. A basic finishing project, like adding a new living space, might take 6-10 weeks. If your remodel involves extensive structural changes, plumbing relocation, or adding a new bathroom or kitchen, it could extend to 12-20 weeks or more. Factors like material availability, permit approval times, and unforeseen issues can also influence the timeline. Your contractor can provide a more accurate estimate after evaluating your specific plans.",
+        "@type": "Answer",
+        "description": "A typical basement remodel can take 6-20 weeks, depending on complexity. Factors like structural changes, plumbing, and permit approvals impact the timeline."
+      }
+    }
+  ],
+  "description": "A typical basement remodel can take 6-20 weeks, depending on complexity. Factors like structural changes, plumbing, and permit approvals impact the timeline."
+}

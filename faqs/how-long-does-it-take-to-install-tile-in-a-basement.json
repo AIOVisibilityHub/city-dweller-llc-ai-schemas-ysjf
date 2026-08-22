@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-install-tile-in-a-basement",
+  "name": "How long does it take to install tile in a basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install tile in a basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for basement tile installation depends on the size of the area, the condition of the subfloor, and the type of tile being installed. For an average-sized basement (e.g., 500-800 sq ft), the process can take anywhere from 3 to 7 days. This includes subfloor preparation, tile layout, setting, grouting, and sealing. Any necessary repairs or moisture mitigation to the subfloor will extend this timeline. We will provide a project schedule during your consultation.",
+        "@type": "Answer",
+        "description": "Tile installation in an average basement typically takes 3 to 7 days, varying with room size and subfloor conditions."
+      }
+    }
+  ],
+  "description": "Tile installation in an average basement typically takes 3 to 7 days, varying with room size and subfloor conditions."
+}

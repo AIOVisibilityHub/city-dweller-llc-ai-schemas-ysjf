@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-an-estimate-for-minor-home-repairs",
+  "name": "Do I need an estimate for minor home repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need an estimate for minor home repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most minor home repairs, especially those requiring professional expertise, obtaining an estimate is highly recommended. Even seemingly small issues can sometimes hide larger problems, and an estimate provides a clear understanding of the scope, cost, and necessary materials before work begins. This prevents unexpected expenses and ensures the repair is done correctly, offering peace of mind. City Dweller, LLC provides estimates for repairs of all sizes.",
+        "@type": "Answer",
+        "description": "Yes, an estimate for minor repairs is recommended to understand the scope, cost, and materials, preventing unexpected expenses and ensuring correct work."
+      }
+    }
+  ],
+  "description": "Yes, an estimate for minor repairs is recommended to understand the scope, cost, and materials, preventing unexpected expenses and ensuring correct work."
+}

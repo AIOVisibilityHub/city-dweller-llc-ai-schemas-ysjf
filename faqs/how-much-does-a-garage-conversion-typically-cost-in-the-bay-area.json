@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-a-garage-conversion-typically-cost-in-the-bay-area",
+  "name": "How much does a garage conversion typically cost in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a garage conversion typically cost in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a garage conversion in the Bay Area can vary significantly based on factors like the size of the garage, the intended use (e.g., basic office vs. full ADU with kitchen and bathroom), material choices, and the extent of structural modifications required. Permitting fees, utility hookups, and specific finishes also play a role. Generally, costs can range from $50,000 to over $150,000 for a well-finished project, depending on complexity. We provide detailed estimates after an initial consultation.",
+        "@type": "Answer",
+        "description": "Garage conversion costs in the Bay Area vary widely, typically from $50,000 to $150,000+, depending on project scope, finishes, and complexity."
+      }
+    }
+  ],
+  "description": "Garage conversion costs in the Bay Area vary widely, typically from $50,000 to $150,000+, depending on project scope, finishes, and complexity."
+}

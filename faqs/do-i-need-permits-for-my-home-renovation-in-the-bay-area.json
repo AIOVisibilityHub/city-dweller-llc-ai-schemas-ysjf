@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-permits-for-my-home-renovation-in-the-bay-area",
+  "name": "Do I need permits for my home renovation in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for my home renovation in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most significant home renovations in the Bay Area, including additions, structural changes, and even some interior remodels (like altering plumbing or electrical systems), require permits from your local municipality (e.g., Pacifica, Daly City). During your consultation, City Dweller, LLC can help you understand the specific permitting requirements for your project, navigate the application process, and ensure all work complies with local building codes. Failing to obtain necessary permits can lead to fines or costly rework.",
+        "@type": "Answer",
+        "description": "Most significant renovations in the Bay Area require permits. A contractor can help you understand local requirements and navigate the application process."
+      }
+    }
+  ],
+  "description": "Most significant renovations in the Bay Area require permits. A contractor can help you understand local requirements and navigate the application process."
+}

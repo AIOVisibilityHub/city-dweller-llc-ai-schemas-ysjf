@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-ceramic-and-porcelain-tile-for-basements",
+  "name": "What's the difference between ceramic and porcelain tile for basements?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between ceramic and porcelain tile for basements?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary differences between ceramic and porcelain tile for basements lie in their density and water absorption rates. Porcelain tile is denser, less porous, and has a significantly lower water absorption rate (less than 0.5%) compared to ceramic tile. This makes porcelain highly resistant to moisture, frost, and stains, making it an excellent choice for moisture-prone basement environments. Ceramic tile is generally more affordable and easier to cut, but it's more porous and thus more susceptible to water damage if not properly installed and sealed.",
+        "@type": "Answer",
+        "description": "Porcelain tile is denser and more water-resistant than ceramic, making it better for moisture-prone basements. Ceramic is more affordable."
+      }
+    }
+  ],
+  "description": "Porcelain tile is denser and more water-resistant than ceramic, making it better for moisture-prone basements. Ceramic is more affordable."
+}

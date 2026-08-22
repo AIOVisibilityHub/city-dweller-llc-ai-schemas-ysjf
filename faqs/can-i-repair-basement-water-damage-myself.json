@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-basement-water-damage-myself",
+  "name": "Can I repair basement water damage myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair basement water damage myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor issues like small puddles from a spill can be handled by a homeowner, extensive basement water damage typically requires professional expertise. Improper drying can lead to hidden mold growth and structural issues. Professionals have specialized equipment for water extraction, drying, and identifying hidden moisture, ensuring a thorough and safe restoration process.",
+        "@type": "Answer",
+        "description": "Minor issues can be DIY, but extensive damage requires professionals to ensure proper drying, prevent mold, and address potential structural issues."
+      }
+    }
+  ],
+  "description": "Minor issues can be DIY, but extensive damage requires professionals to ensure proper drying, prevent mold, and address potential structural issues."
+}

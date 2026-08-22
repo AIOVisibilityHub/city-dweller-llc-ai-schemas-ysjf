@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-trim-are-suitable-for-basement-environments",
+  "name": "What types of trim are suitable for basement environments?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of trim are suitable for basement environments?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Basement environments often have higher humidity levels than other parts of a home. For trim installation, moisture-resistant materials are crucial. Popular choices include PVC trim, composite trim, and treated wood products. These materials resist warping, rot, and mold growth, ensuring longevity in a basement setting. Priming and painting traditional wood trim with moisture-resistant products can also extend its life, but PVC or composite options generally offer superior performance against dampness.",
+        "@type": "Answer",
+        "description": "Moisture-resistant materials like PVC, composite, or treated wood are best for basement trim to prevent warping and mold."
+      }
+    }
+  ],
+  "description": "Moisture-resistant materials like PVC, composite, or treated wood are best for basement trim to prevent warping and mold."
+}

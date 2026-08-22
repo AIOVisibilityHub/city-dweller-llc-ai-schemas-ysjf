@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-challenges-with-garage-conversions",
+  "name": "What are the common challenges with garage conversions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common challenges with garage conversions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges in garage conversions include navigating local permitting and zoning regulations, ensuring adequate insulation and weatherproofing, addressing foundation or structural issues, and integrating new plumbing and electrical systems with existing utilities. Parking requirements can also be a hurdle, as some cities require replacement parking if the garage is removed. Working with an experienced contractor familiar with these complexities can help mitigate these issues and ensure a smooth project.",
+        "@type": "Answer",
+        "description": "Challenges include permits, insulation, structural issues, utility integration, and potential parking replacement. An experienced contractor can help navigate these."
+      }
+    }
+  ],
+  "description": "Challenges include permits, insulation, structural issues, utility integration, and potential parking replacement. An experienced contractor can help navigate t"
+}

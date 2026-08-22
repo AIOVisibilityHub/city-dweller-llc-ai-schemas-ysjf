@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-basement-wall-framing-and-why-is-it-necessary",
+  "name": "What is basement wall framing and why is it necessary?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is basement wall framing and why is it necessary?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Basement wall framing involves constructing a new interior wall structure, typically using wood or metal studs, inside your existing concrete foundation walls. This creates a cavity between the new frame and the exterior wall, which can then be insulated, wired for electrical, and covered with drywall. It's essential for finishing a basement, providing a level surface for interior finishes, concealing utilities, and improving thermal performance and soundproofing.",
+        "@type": "Answer",
+        "description": "Basement wall framing creates a new interior wall structure for finishing, insulating, and concealing utilities."
+      }
+    }
+  ],
+  "description": "Basement wall framing creates a new interior wall structure for finishing, insulating, and concealing utilities."
+}

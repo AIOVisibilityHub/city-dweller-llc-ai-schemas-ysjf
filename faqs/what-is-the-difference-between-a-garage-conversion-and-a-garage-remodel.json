@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-a-garage-conversion-and-a-garage-remodel",
+  "name": "What is the difference between a garage conversion and a garage remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a garage conversion and a garage remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A garage conversion transforms the garage's primary function, such as turning it into an ADU or living space, often involving significant structural, plumbing, and electrical changes. A garage remodel typically focuses on updating the existing garage for its current use, like improving storage, flooring, lighting, or organization, without changing its fundamental purpose.",
+        "@type": "Answer",
+        "description": "A conversion changes the garage's function (e.g., to an ADU), while a remodel updates it for its current purpose."
+      }
+    }
+  ],
+  "description": "A conversion changes the garage's function (e.g., to an ADU), while a remodel updates it for its current purpose."
+}

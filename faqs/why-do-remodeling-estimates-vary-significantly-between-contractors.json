@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/why-do-remodeling-estimates-vary-significantly-between-contractors",
+  "name": "Why do remodeling estimates vary significantly between contractors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why do remodeling estimates vary significantly between contractors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Estimates can vary due to differences in contractor experience, overhead, proposed materials, and the level of detail in the scope of work. Some contractors might include higher-quality finishes or more extensive prep work, while others may bid on a more basic scope. Differences in insurance, warranty coverage, and subcontractor relationships also influence pricing. Always compare what's included in each estimate, not just the final number.",
+        "@type": "Answer",
+        "description": "Estimates vary due to differences in contractor experience, materials, scope of work, overhead, and insurance. Compare what's included, not just the total cost."
+      }
+    }
+  ],
+  "description": "Estimates vary due to differences in contractor experience, materials, scope of work, overhead, and insurance. Compare what's included, not just the total cost."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-average-cost-to-install-a-new-basement-door",
+  "name": "What is the average cost to install a new basement door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to install a new basement door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for a new basement door installation can range significantly. For a basic bulkhead door replacement, you might expect costs starting from $2,000 to $4,000. Installing a new standard exterior door with a new opening and framing can range from $5,000 to $10,000 or more, depending on materials, structural work, and labor. Factors like door material, size, complexity of site preparation, and any required permits will influence the final price.",
+        "@type": "Answer",
+        "description": "Costs vary widely, from $2,000-$4,000 for a basic bulkhead replacement to $5,000-$10,000+ for new standard door installations."
+      }
+    }
+  ],
+  "description": "Costs vary widely, from $2,000-$4,000 for a basic bulkhead replacement to $5,000-$10,000+ for new standard door installations."
+}

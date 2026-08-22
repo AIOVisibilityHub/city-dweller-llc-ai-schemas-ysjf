@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-happens-after-i-approve-a-residential-repair-estimate",
+  "name": "What happens after I approve a residential repair estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after I approve a residential repair estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Once you approve a residential repair estimate from City Dweller, LLC, we will finalize the project contract, including payment schedules and agreed-upon timelines. We then proceed with scheduling the work, ordering necessary materials, and coordinating our team and any subcontractors. Our project manager will keep you informed throughout the process, ensuring a smooth transition from estimate approval to project completion.",
+        "@type": "Answer",
+        "description": "After approval, we finalize the contract, schedule work, order materials, and coordinate our team. Our project manager will keep you updated."
+      }
+    }
+  ],
+  "description": "After approval, we finalize the contract, schedule work, order materials, and coordinate our team. Our project manager will keep you updated."
+}

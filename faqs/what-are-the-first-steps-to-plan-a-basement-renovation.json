@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-first-steps-to-plan-a-basement-renovation",
+  "name": "What are the first steps to plan a basement renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the first steps to plan a basement renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Starting a basement renovation typically involves defining your project goals, such as adding a new living space, bedroom, or home office. Next, research local building codes and permits, especially concerning egress windows, ceiling height, and electrical work. We recommend consulting with a general contractor early to discuss design options, budget, and feasibility. They can help you understand the structural requirements, waterproofing needs, and overall timeline. A clear plan ensures a smooth process and a functional, code-compliant space.",
+        "@type": "Answer",
+        "description": "Begin by defining your project goals and researching local building codes. Consult a contractor to discuss design, budget, and feasibility."
+      }
+    }
+  ],
+  "description": "Begin by defining your project goals and researching local building codes. Consult a contractor to discuss design, budget, and feasibility."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-direct-furring-and-stud-wall-framing-for-basement",
+  "name": "What is the difference between direct furring and stud wall framing for basements?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between direct furring and stud wall framing for basements?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Direct furring involves attaching thin strips of wood or metal directly to the concrete wall, often just enough to create an air gap or support drywall. It's space-saving but offers limited insulation depth and no space for utilities. Stud wall framing, conversely, builds a separate wall assembly a few inches away from the concrete, creating a larger cavity. This allows for significant insulation, routing electrical and plumbing, and better moisture control, making it a more comprehensive solution for finishing a basement.",
+        "@type": "Answer",
+        "description": "Direct furring attaches strips directly to concrete for minimal depth, while stud wall framing creates a separate cavity for insulation and utilities, offering a more comprehensive finish."
+      }
+    }
+  ],
+  "description": "Direct furring attaches strips directly to concrete for minimal depth, while stud wall framing creates a separate cavity for insulation and utilities, offering"
+}

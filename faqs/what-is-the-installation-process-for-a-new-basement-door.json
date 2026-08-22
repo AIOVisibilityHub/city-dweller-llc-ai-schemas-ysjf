@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-installation-process-for-a-new-basement-door",
+  "name": "What is the installation process for a new basement door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the installation process for a new basement door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process typically begins with site assessment and, if necessary, obtaining permits. For a new opening, this involves cutting the foundation. Then, the frame is installed and leveled. The door slab is fitted, aligned, and secured to the frame. Weatherstripping and sealing are crucial steps to ensure proper insulation and water resistance. Finally, hardware (hinges, locks) is installed, and any necessary finishing work, such as trim or painting, is completed.",
+        "@type": "Answer",
+        "description": "The process involves site assessment, permit (if needed), creating/preparing the opening, frame installation, door fitting, sealing, hardware installation, and finishing."
+      }
+    }
+  ],
+  "description": "The process involves site assessment, permit (if needed), creating/preparing the opening, frame installation, door fitting, sealing, hardware installation, and"
+}

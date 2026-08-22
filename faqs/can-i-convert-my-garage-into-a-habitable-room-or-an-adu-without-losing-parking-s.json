@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-convert-my-garage-into-a-habitable-room-or-an-adu-without-losing-parking-s",
+  "name": "Can I convert my garage into a habitable room or an ADU without losing parking space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert my garage into a habitable room or an ADU without losing parking space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting a garage into a habitable room or an ADU often raises concerns about parking. In many Bay Area cities, including Daly City and South San Francisco, local ordinances may require replacement parking if you convert an existing garage that contributes to the property's required off-street parking. This could mean creating a new parking pad or utilizing existing driveway space that meets specific dimensions. However, some jurisdictions offer waivers or relaxed requirements, particularly for ADUs, to encourage their development. Always check with your local planning department to understand specific parking requirements and options.",
+        "@type": "Answer",
+        "description": "Converting a garage might require replacement parking per local ordinances in areas like Daly City or South San Francisco. Check with your city's planning department for specific requirements."
+      }
+    }
+  ],
+  "description": "Converting a garage might require replacement parking per local ordinances in areas like Daly City or South San Francisco. Check with your city's planning depar"
+}

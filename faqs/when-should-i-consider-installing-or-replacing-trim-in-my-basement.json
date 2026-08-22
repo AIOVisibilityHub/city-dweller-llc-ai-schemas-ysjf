@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-installing-or-replacing-trim-in-my-basement",
+  "name": "When should I consider installing or replacing trim in my basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider installing or replacing trim in my basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider installing new trim during a basement finishing project to complete the aesthetic. Replacement is advisable if existing trim shows signs of water damage, such as warping, rot, or mold, indicating potential moisture issues. It's also a good idea when renovating to update the style, or if the current trim is outdated or damaged. Addressing damaged trim promptly can prevent further issues and enhance your basement's appearance.",
+        "@type": "Answer",
+        "description": "Install new trim during finishing or replace it if damaged by water, outdated, or during a renovation to update the style."
+      }
+    }
+  ],
+  "description": "Install new trim during finishing or replace it if damaged by water, outdated, or during a renovation to update the style."
+}

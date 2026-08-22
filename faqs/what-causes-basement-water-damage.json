@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-basement-water-damage",
+  "name": "What causes basement water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes basement water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Basement water damage can result from several issues. Common causes include foundation cracks, which allow groundwater to seep in; plumbing leaks from burst pipes or faulty appliances like water heaters; poor exterior drainage that directs rainwater towards the foundation; and overloaded gutters or downspouts. Additionally, significant storms and rising water tables can contribute to basement flooding.",
+        "@type": "Answer",
+        "description": "Basement water damage is often caused by foundation cracks, plumbing leaks, poor exterior drainage, and severe weather."
+      }
+    }
+  ],
+  "description": "Basement water damage is often caused by foundation cracks, plumbing leaks, poor exterior drainage, and severe weather."
+}

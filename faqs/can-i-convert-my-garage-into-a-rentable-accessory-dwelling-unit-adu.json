@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-convert-my-garage-into-a-rentable-accessory-dwelling-unit-adu",
+  "name": "Can I convert my garage into a rentable Accessory Dwelling Unit (ADU)?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert my garage into a rentable Accessory Dwelling Unit (ADU)?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, many homeowners choose to convert their garage into a rentable Accessory Dwelling Unit (ADU) to generate rental income or provide housing for family members. California state laws have become more favorable to ADU construction, streamlining the process. However, specific local zoning ordinances and building codes in your municipality will dictate the exact requirements, such as minimum lot size, parking provisions, and utility connections. We can help assess your property's potential and navigate the local regulations.",
+        "@type": "Answer",
+        "description": "Many garages can be converted into rentable ADUs, supported by state laws. Local zoning and building codes will dictate specific requirements."
+      }
+    }
+  ],
+  "description": "Many garages can be converted into rentable ADUs, supported by state laws. Local zoning and building codes will dictate specific requirements."
+}

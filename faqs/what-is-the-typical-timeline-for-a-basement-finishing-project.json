@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-timeline-for-a-basement-finishing-project",
+  "name": "What is the typical timeline for a basement finishing project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a basement finishing project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for finishing a basement generally ranges from 8 to 16 weeks, depending on the scope and complexity of the project. This duration includes planning, permit acquisition, demolition (if necessary), framing, electrical and plumbing rough-ins, insulation, drywall, flooring, and final finishes. Projects involving extensive structural changes, new bathrooms, or custom features will naturally take longer. Unexpected issues like water intrusion or unforeseen structural needs can also extend the timeline. We provide a detailed project schedule at the outset.",
+        "@type": "Answer",
+        "description": "A typical basement finishing project takes 8 to 16 weeks, varying with scope, complexity, and factors like permits or unexpected issues."
+      }
+    }
+  ],
+  "description": "A typical basement finishing project takes 8 to 16 weeks, varying with scope, complexity, and factors like permits or unexpected issues."
+}

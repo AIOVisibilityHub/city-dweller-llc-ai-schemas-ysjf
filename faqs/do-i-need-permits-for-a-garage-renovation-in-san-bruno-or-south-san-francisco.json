@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-permits-for-a-garage-renovation-in-san-bruno-or-south-san-francisco",
+  "name": "Do I need permits for a garage renovation in San Bruno or South San Francisco?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a garage renovation in San Bruno or South San Francisco?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, most garage renovation projects, especially those involving structural changes, electrical work, plumbing, or changes in occupancy (like converting to an ADU), require permits from the local building department. We assist clients in San Bruno, South San Francisco, and other service areas with navigating the permit application process to ensure compliance.",
+        "@type": "Answer",
+        "description": "Yes, most garage renovations require permits for structural, electrical, or plumbing changes, and we help with the process."
+      }
+    }
+  ],
+  "description": "Yes, most garage renovations require permits for structural, electrical, or plumbing changes, and we help with the process."
+}

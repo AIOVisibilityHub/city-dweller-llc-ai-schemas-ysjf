@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-benefits-of-converting-a-garage-into-an-accessory-dwelling-unit-adu",
+  "name": "What are the benefits of converting a garage into an Accessory Dwelling Unit (ADU)?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of converting a garage into an Accessory Dwelling Unit (ADU)?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting a garage into an Accessory Dwelling Unit (ADU) offers several benefits. It can significantly increase your property's value and provide a new source of rental income. ADUs offer flexible living space for family members, guests, or a home office, making them a practical solution for growing families or those seeking additional square footage without a costly home addition. Furthermore, ADUs contribute to addressing housing shortages in areas like the Bay Area, and local regulations often encourage their development, simplifying the permit process compared to traditional new construction.",
+        "@type": "Answer",
+        "description": "Converting a garage into an ADU increases property value, generates rental income, and provides flexible living space, addressing housing needs."
+      }
+    }
+  ],
+  "description": "Converting a garage into an ADU increases property value, generates rental income, and provides flexible living space, addressing housing needs."
+}

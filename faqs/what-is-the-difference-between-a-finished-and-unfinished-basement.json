@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-a-finished-and-unfinished-basement",
+  "name": "What is the difference between a finished and unfinished basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a finished and unfinished basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An unfinished basement is typically a raw, undeveloped space with exposed studs, concrete floors, visible plumbing, and electrical systems. It lacks insulation, drywall, proper flooring, or finished ceilings. A finished basement, conversely, has been transformed into a livable area, often resembling other rooms in the house with framed walls, insulation, drywall, flooring, finished ceilings, adequate lighting, and climate control. It may include additional rooms like bedrooms, bathrooms, or entertainment areas, increasing the home's functional square footage and potentially its value. Finishing a basement requires adherence to building codes for safety and habitability.",
+        "@type": "Answer",
+        "description": "An unfinished basement is a raw, undeveloped space, while a finished basement is a completed, livable area with walls, flooring, and utilities, similar to other rooms in a home."
+      }
+    }
+  ],
+  "description": "An unfinished basement is a raw, undeveloped space, while a finished basement is a completed, livable area with walls, flooring, and utilities, similar to other"
+}

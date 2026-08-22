@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-a-basement-door-installation-improve-my-home-s-energy-efficiency",
+  "name": "Can a basement door installation improve my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a basement door installation improve my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a properly installed new basement door can significantly improve your home's energy efficiency. Older or poorly sealed basement doors often allow conditioned air to escape and unconditioned air to enter, leading to higher heating and cooling costs. Modern basement doors, especially those with good insulation and effective weatherstripping, create a tighter seal, reducing drafts and thermal transfer. This helps maintain a more consistent indoor temperature and lowers your energy consumption.",
+        "@type": "Answer",
+        "description": "Yes, new basement doors with good insulation and sealing reduce drafts, improving energy efficiency and potentially lowering utility bills."
+      }
+    }
+  ],
+  "description": "Yes, new basement doors with good insulation and sealing reduce drafts, improving energy efficiency and potentially lowering utility bills."
+}

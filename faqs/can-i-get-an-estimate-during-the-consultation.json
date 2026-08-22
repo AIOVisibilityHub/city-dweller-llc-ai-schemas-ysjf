@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-get-an-estimate-during-the-consultation",
+  "name": "Can I get an estimate during the consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get an estimate during the consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During the initial consultation, City Dweller, LLC can often provide a general cost range or preliminary estimate based on your project description and our experience with similar renovations. For a detailed, fixed-price quote, more in-depth planning, site assessments, and material selections are usually required. The consultation serves to establish a foundational understanding of your project and its potential financial scope, guiding you toward a more precise estimate later.",
+        "@type": "Answer",
+        "description": "Yes, you can often receive a general cost range or preliminary estimate during the consultation, with more precise quotes requiring further planning."
+      }
+    }
+  ],
+  "description": "Yes, you can often receive a general cost range or preliminary estimate during the consultation, with more precise quotes requiring further planning."
+}

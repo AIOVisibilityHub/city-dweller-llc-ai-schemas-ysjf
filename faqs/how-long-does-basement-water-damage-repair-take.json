@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-basement-water-damage-repair-take",
+  "name": "How long does basement water damage repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does basement water damage repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of basement water damage repair depends on the severity and scope of the damage. Water extraction and initial drying might take a few days, but the complete restoration, including structural repairs, mold remediation, and material replacement, can extend to several weeks. Factors like the type of materials affected and the need for permits can also influence the timeline.",
+        "@type": "Answer",
+        "description": "Repair time varies; initial drying can take days, while full restoration, including repairs and material replacement, may take several weeks."
+      }
+    }
+  ],
+  "description": "Repair time varies; initial drying can take days, while full restoration, including repairs and material replacement, may take several weeks."
+}

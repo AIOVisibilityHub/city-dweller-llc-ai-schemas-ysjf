@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-install-tile-directly-over-concrete-in-my-basement",
+  "name": "Can I install tile directly over concrete in my basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install tile directly over concrete in my basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can often install tile directly over a concrete basement slab, provided the concrete is clean, dry, sound, and level. However, a crucial step is to test the concrete for moisture content and pH levels. Concrete is porous and can wick moisture from the ground, which can damage tile adhesive and grout. If moisture is detected, installing a waterproofing membrane or vapor barrier is highly recommended before tiling to protect your investment and prevent issues like efflorescence or mold.",
+        "@type": "Answer",
+        "description": "Yes, if the concrete is clean, dry, sound, and level, but a moisture test is critical. A waterproofing membrane may be needed."
+      }
+    }
+  ],
+  "description": "Yes, if the concrete is clean, dry, sound, and level, but a moisture test is critical. A waterproofing membrane may be needed."
+}

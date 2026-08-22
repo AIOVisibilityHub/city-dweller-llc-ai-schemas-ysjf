@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-a-basement-remodel-and-a-basement-finishing-proje",
+  "name": "What is the difference between a basement remodel and a basement finishing project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a basement remodel and a basement finishing project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Basement finishing refers to converting an unfinished, raw basement space into a habitable area, adding walls, flooring, ceilings, and utilities for the first time. A basement remodel, on the other hand, involves updating or altering an already finished basement. Custom basement design can encompass both, creating a tailored space whether starting from scratch or renovating an existing one.",
+        "@type": "Answer",
+        "description": "Finishing converts an unfinished basement into a living space, while remodeling updates an already finished basement."
+      }
+    }
+  ],
+  "description": "Finishing converts an unfinished basement into a living space, while remodeling updates an already finished basement."
+}

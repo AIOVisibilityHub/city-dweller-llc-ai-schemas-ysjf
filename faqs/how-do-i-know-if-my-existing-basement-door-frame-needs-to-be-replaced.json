@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-my-existing-basement-door-frame-needs-to-be-replaced",
+  "name": "How do I know if my existing basement door frame needs to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my existing basement door frame needs to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several signs indicate your basement door frame might need replacement. Visible damage such as rot, cracks, or warping often suggests a compromised frame. If the door no longer closes or latches properly, or if there are significant gaps between the door and the frame, it could be a sign of frame issues. Drafts, water leaks, or signs of pest intrusion around the frame are also strong indicators of a failing frame that is not providing adequate sealing. Addressing these issues promptly can prevent further damage to your basement and improve energy efficiency.",
+        "@type": "Answer",
+        "description": "Signs a basement door frame needs replacement include rot, cracks, warping, improper closing/latching, significant gaps, drafts, or water leaks."
+      }
+    }
+  ],
+  "description": "Signs a basement door frame needs replacement include rot, cracks, warping, improper closing/latching, significant gaps, drafts, or water leaks."
+}

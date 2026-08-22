@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-add-a-bathroom-or-kitchen-to-my-custom-basement-design",
+  "name": "Can I add a bathroom or kitchen to my custom basement design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a bathroom or kitchen to my custom basement design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, adding a bathroom or kitchen to your custom basement design is often possible and can significantly enhance the functionality and value of the space, especially if creating an in-law unit or a self-contained apartment. This typically involves extending existing plumbing and electrical systems, and may require specific permits. Our team can assess the feasibility and requirements during the design phase.",
+        "@type": "Answer",
+        "description": "Adding a bathroom or kitchen to a custom basement is possible, enhancing functionality but requiring plumbing, electrical work, and permits."
+      }
+    }
+  ],
+  "description": "Adding a bathroom or kitchen to a custom basement is possible, enhancing functionality but requiring plumbing, electrical work, and permits."
+}

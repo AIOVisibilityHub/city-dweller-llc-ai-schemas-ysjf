@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-custom-basement-design",
+  "name": "What is custom basement design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is custom basement design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom basement design involves transforming your lower level into a personalized, functional space tailored to your specific needs and preferences. This can include creating additional living areas, home offices, gyms, entertainment rooms, or guest suites. The process begins with understanding your vision and continues through detailed planning, material selection, and construction, ensuring the final product enhances your home's value and livability.",
+        "@type": "Answer",
+        "description": "Custom basement design transforms your lower level into a personalized, functional space like an office, gym, or entertainment room."
+      }
+    }
+  ],
+  "description": "Custom basement design transforms your lower level into a personalized, functional space like an office, gym, or entertainment room."
+}

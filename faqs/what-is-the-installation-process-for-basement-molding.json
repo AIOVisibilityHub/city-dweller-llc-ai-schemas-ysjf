@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-installation-process-for-basement-molding",
+  "name": "What is the installation process for basement molding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the installation process for basement molding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process typically begins with an on-site consultation and measurement to determine material and scope. Once materials are selected, the existing molding (if any) is carefully removed. New molding is then cut to precise lengths, mitered at corners for seamless joints, and securely attached to the walls using nails or adhesive. Finally, nail holes are filled, seams are caulked, and the molding is prepared for painting or finishing. We ensure proper preparation and cleanup throughout the project.",
+        "@type": "Answer",
+        "description": "Installation involves measurement, removal of old molding, precise cutting and attachment of new molding, followed by finishing work."
+      }
+    }
+  ],
+  "description": "Installation involves measurement, removal of old molding, precise cutting and attachment of new molding, followed by finishing work."
+}

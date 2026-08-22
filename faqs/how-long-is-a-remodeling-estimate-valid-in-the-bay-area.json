@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-is-a-remodeling-estimate-valid-in-the-bay-area",
+  "name": "How long is a remodeling estimate valid in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long is a remodeling estimate valid in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The validity period for a remodeling estimate can vary, but generally, contractors in the Bay Area will honor an estimate for 30 to 90 days. This timeframe allows for potential fluctuations in material costs and labor availability. It's important to review the estimate's terms for its specific expiration date, as delays in decision-making can necessitate a revised estimate due to market changes.",
+        "@type": "Answer",
+        "description": "Remodeling estimates are typically valid for 30-90 days due to fluctuating material and labor costs. Always check the specific expiration date on your estimate."
+      }
+    }
+  ],
+  "description": "Remodeling estimates are typically valid for 30-90 days due to fluctuating material and labor costs. Always check the specific expiration date on your estimate."
+}

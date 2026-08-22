@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-choose-baseboards-crown-molding-or-both-for-my-basement",
+  "name": "Should I choose baseboards, crown molding, or both for my basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose baseboards, crown molding, or both for my basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice between baseboards, crown molding, or both depends on the aesthetic you're aiming for and your budget. Baseboards are essential for protecting wall bases and creating a finished look where the wall meets the floor. Crown molding adds a decorative element at the ceiling line, enhancing architectural detail and a more elegant feel. For basements, baseboards are generally prioritized for practical reasons, while crown molding can be added to elevate the space. We can help you decide based on your design goals.",
+        "@type": "Answer",
+        "description": "Baseboards are practical for protection; crown molding adds decorative detail. Choose based on desired aesthetic and budget."
+      }
+    }
+  ],
+  "description": "Baseboards are practical for protection; crown molding adds decorative detail. Choose based on desired aesthetic and budget."
+}

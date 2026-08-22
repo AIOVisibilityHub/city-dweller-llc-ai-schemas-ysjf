@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-basement-water-damage-repair",
+  "name": "What is the typical process for basement water damage repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for basement water damage repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically begins with water extraction and complete drying of the affected area using specialized equipment. Next, damaged materials like drywall, flooring, and insulation are removed. The source of the water intrusion is then identified and repaired, which might involve foundation sealing or plumbing fixes. Finally, the affected areas are cleaned, sanitized, and rebuilt to their original condition.",
+        "@type": "Answer",
+        "description": "The process involves water extraction, drying, removal of damaged materials, repairing the source of intrusion, and then rebuilding."
+      }
+    }
+  ],
+  "description": "The process involves water extraction, drying, removal of damaged materials, repairing the source of intrusion, and then rebuilding."
+}

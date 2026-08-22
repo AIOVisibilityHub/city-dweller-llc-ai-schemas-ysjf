@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-basement-wall-framing-usually-take",
+  "name": "How long does basement wall framing usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does basement wall framing usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of basement wall framing depends on the size and complexity of your basement. For an average-sized basement (e.g., 800-1000 square feet) with a straightforward layout, framing can typically be completed in 3 to 7 days. More complex designs with multiple rooms, specialized openings, or material choices like metal studs might extend the timeline. This estimate does not include prep work, inspections, or subsequent finishing stages.",
+        "@type": "Answer",
+        "description": "Basement wall framing typically takes 3 to 7 days for an average-sized basement, depending on complexity and layout."
+      }
+    }
+  ],
+  "description": "Basement wall framing typically takes 3 to 7 days for an average-sized basement, depending on complexity and layout."
+}

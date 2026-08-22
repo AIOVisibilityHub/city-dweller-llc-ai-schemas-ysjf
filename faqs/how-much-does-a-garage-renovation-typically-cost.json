@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-a-garage-renovation-typically-cost",
+  "name": "How much does a garage renovation typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a garage renovation typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a garage renovation varies significantly based on the scope of work, materials chosen, and necessary structural or utility modifications. A basic conversion might start from $20,000 to $40,000, while a full ADU conversion with new plumbing and electrical could range from $80,000 to $150,000 or more. A detailed estimate requires an on-site assessment.",
+        "@type": "Answer",
+        "description": "Costs for garage renovations vary widely, from $20,000 for basic updates to over $150,000 for full ADU conversions."
+      }
+    }
+  ],
+  "description": "Costs for garage renovations vary widely, from $20,000 for basic updates to over $150,000 for full ADU conversions."
+}

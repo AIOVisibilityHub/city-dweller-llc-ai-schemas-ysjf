@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-best-type-of-drywall-for-a-basement",
+  "name": "What is the best type of drywall for a basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the best type of drywall for a basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For basement drywall installation, moisture-resistant drywall, often called green board or purple board, is highly recommended. These types offer enhanced protection against humidity and potential water damage common in basements, reducing the risk of mold and mildew growth. Regular drywall is not ideal for subterranean environments due to its susceptibility to moisture absorption. Consider specific building codes in your Bay Area city, as some may require mold-resistant drywall in basements.",
+        "@type": "Answer",
+        "description": "Moisture-resistant drywall (green board or purple board) is best for basements to prevent mold and water damage."
+      }
+    }
+  ],
+  "description": "Moisture-resistant drywall (green board or purple board) is best for basements to prevent mold and water damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-a-finished-basement-and-a-livable-basement",
+  "name": "What is the difference between a finished basement and a livable basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a finished basement and a livable basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A 'finished basement' typically refers to a basement that has undergone cosmetic improvements, such as drywall, flooring, and paint, making it a more pleasant space. However, a 'livable basement' or 'legal living space' implies that the basement meets all local building codes for occupancy, including egress windows, proper ceiling height, heating, ventilation, and often smoke detectors and carbon monoxide alarms. While a finished basement improves aesthetics, a livable basement ensures safety and legal compliance for use as bedrooms or extended living areas.",
+        "@type": "Answer",
+        "description": "A 'finished basement' has cosmetic improvements, while a 'livable basement' meets all building codes for safe occupancy, including egress and ventilation."
+      }
+    }
+  ],
+  "description": "A 'finished basement' has cosmetic improvements, while a 'livable basement' meets all building codes for safe occupancy, including egress and ventilation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-happens-after-i-approve-a-remodeling-estimate",
+  "name": "What happens after I approve a remodeling estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after I approve a remodeling estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Once you approve a remodeling estimate, the next steps typically involve signing a formal contract outlining all project details, payment schedules, and timelines. You may also be asked for an initial deposit. Following this, the contractor will finalize permits, assist with material selections if needed, and schedule the project start date. A pre-construction meeting is often held to review the plan and address any final questions before work begins.",
+        "@type": "Answer",
+        "description": "After approval, you'll sign a contract and provide an initial deposit. The contractor then finalizes permits, assists with material selections, and schedules the project start, often with a pre-construction meeting."
+      }
+    }
+  ],
+  "description": "After approval, you'll sign a contract and provide an initial deposit. The contractor then finalizes permits, assists with material selections, and schedules th"
+}

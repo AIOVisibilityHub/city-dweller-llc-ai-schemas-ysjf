@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-do-immediately-after-discovering-water-in-my-basement",
+  "name": "What should I do immediately after discovering water in my basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after discovering water in my basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First, ensure safety by turning off electricity to the affected area if safe to do so. Then, try to identify and stop the water source if possible, such as shutting off a leaky valve. Minimize further damage by moving valuable items and furniture out of the water. Document the damage with photos or videos for insurance purposes. Contact a professional water damage repair service promptly.",
+        "@type": "Answer",
+        "description": "Prioritize safety by cutting power, stop the water source if possible, move valuables, document damage, and then call a professional service."
+      }
+    }
+  ],
+  "description": "Prioritize safety by cutting power, stop the water source if possible, move valuables, document damage, and then call a professional service."
+}

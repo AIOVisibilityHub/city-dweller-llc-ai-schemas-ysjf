@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-garage-conversion-project-usually-take",
+  "name": "How long does a garage conversion project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a garage conversion project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a garage conversion project depends on its complexity, the scope of work, and the efficiency of the permitting process. On average, a garage conversion can take anywhere from 3 to 6 months from initial design to final inspection. This includes time for architectural plans, permit acquisition (which can vary widely), construction, and finishing touches. A detailed project schedule will be provided once the scope is defined.",
+        "@type": "Answer",
+        "description": "A garage conversion typically takes 3 to 6 months from design to completion, including permitting and construction phases."
+      }
+    }
+  ],
+  "description": "A garage conversion typically takes 3 to 6 months from design to completion, including permitting and construction phases."
+}

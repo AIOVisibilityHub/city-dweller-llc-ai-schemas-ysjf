@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-do-i-need-to-frame-my-basement-ceiling",
+  "name": "When do I need to frame my basement ceiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to frame my basement ceiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You typically need to frame your basement ceiling when you plan to finish the basement space, such as adding drywall, a suspended ceiling, or incorporating recessed lighting. Framing creates a level surface and provides support for finishes, while also creating space for electrical wiring, plumbing, and HVAC ducts. It's an essential step in converting an unfinished basement into a habitable or functional area, ensuring a clean and finished look, and meeting local building regulations for finished spaces.",
+        "@type": "Answer",
+        "description": "Framing is needed when finishing a basement to create a level surface for drywall or suspended ceilings, and to conceal utilities."
+      }
+    }
+  ],
+  "description": "Framing is needed when finishing a basement to create a level surface for drywall or suspended ceilings, and to conceal utilities."
+}

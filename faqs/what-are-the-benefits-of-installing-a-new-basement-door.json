@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-benefits-of-installing-a-new-basement-door",
+  "name": "What are the benefits of installing a new basement door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of installing a new basement door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a new basement door offers several benefits. It can improve accessibility to your basement, making it easier to move large items or use the space more functionally. Enhanced security is another key advantage, as older doors may be less robust. A new door also provides better weatherproofing and insulation, potentially reducing energy costs and preventing water intrusion. Additionally, it can boost your home's curb appeal and overall value.",
+        "@type": "Answer",
+        "description": "Benefits include improved accessibility, enhanced security, better weatherproofing, energy savings, and increased home value."
+      }
+    }
+  ],
+  "description": "Benefits include improved accessibility, enhanced security, better weatherproofing, energy savings, and increased home value."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-style-of-trim-for-my-basement",
+  "name": "How do I choose the right style of trim for my basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right style of trim for my basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right trim style depends on the overall aesthetic of your basement. For a traditional look, consider classic profiles like colonial or craftsman. Modern basements often benefit from simpler, cleaner lines such as flat stock or splayed trim. Ensure the trim's scale is appropriate for the room's height and proportions. Consistency with existing trim in other finished areas of your home can create a cohesive flow. Consider how trim interacts with doors, windows, and built-ins.",
+        "@type": "Answer",
+        "description": "Choose trim based on your basement's aesthetic (traditional, modern), room proportions, and consistency with your home's existing trim styles."
+      }
+    }
+  ],
+  "description": "Choose trim based on your basement's aesthetic (traditional, modern), room proportions, and consistency with your home's existing trim styles."
+}

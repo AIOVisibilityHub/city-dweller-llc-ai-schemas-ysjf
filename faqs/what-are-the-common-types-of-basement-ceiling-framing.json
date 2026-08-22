@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-types-of-basement-ceiling-framing",
+  "name": "What are the common types of basement ceiling framing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common types of basement ceiling framing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Basement ceiling framing typically involves two main methods: traditional wood framing using dimensional lumber, which is common for creating flat ceilings or drop ceiling grids, and metal stud framing, which offers advantages like being lightweight and resistant to rot or pests. The choice often depends on the ceiling height, desired finish, and local building codes. For instance, some homeowners prefer wood for its ease of modification, while others opt for metal studs in damp environments or when planning for a suspended ceiling system.",
+        "@type": "Answer",
+        "description": "Common types include traditional wood framing and metal stud framing. The best choice depends on your desired finish, ceiling height, and local building codes."
+      }
+    }
+  ],
+  "description": "Common types include traditional wood framing and metal stud framing. The best choice depends on your desired finish, ceiling height, and local building codes."
+}

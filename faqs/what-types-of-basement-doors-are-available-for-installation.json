@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-basement-doors-are-available-for-installation",
+  "name": "What types of basement doors are available for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of basement doors are available for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Basement doors primarily come in two main types: bulkhead (or cellar) doors and standard exterior doors. Bulkhead doors typically provide ground-level access, often sloped for water runoff, and are commonly made of steel or fiberglass for durability and weather resistance. Standard exterior doors are similar to those used for main entrances, requiring a proper frame and foundation opening. The best choice depends on your specific needs, such as direct outdoor access, aesthetic preferences, and the existing structure of your home.",
+        "@type": "Answer",
+        "description": "Common types include bulkhead (cellar) doors for ground-level access and standard exterior doors. The best option depends on your home's structure and access needs."
+      }
+    }
+  ],
+  "description": "Common types include bulkhead (cellar) doors for ground-level access and standard exterior doors. The best option depends on your home's structure and access ne"
+}

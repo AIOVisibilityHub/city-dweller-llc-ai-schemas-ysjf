@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-basement-door-installation-take",
+  "name": "How long does a typical basement door installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical basement door installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a basement door installation varies depending on the door type and complexity of the project. A standard bulkhead door replacement might take 1-2 days, assuming the existing opening is suitable. If a new opening needs to be created or structural modifications are required for a standard exterior door, the project could extend to 3-5 days. This includes preparation, installation, sealing, and any necessary finishing work.",
+        "@type": "Answer",
+        "description": "Installation time varies: 1-2 days for simple replacements, 3-5 days for new openings or structural modifications."
+      }
+    }
+  ],
+  "description": "Installation time varies: 1-2 days for simple replacements, 3-5 days for new openings or structural modifications."
+}

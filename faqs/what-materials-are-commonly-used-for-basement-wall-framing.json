@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-materials-are-commonly-used-for-basement-wall-framing",
+  "name": "What materials are commonly used for basement wall framing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are commonly used for basement wall framing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most common materials for basement wall framing are wood studs (2x4s or 2x6s) and metal studs. Wood is traditional, readily available, and easy to work with, but requires proper moisture management to prevent rot and mold. Metal studs are lighter, dimensionally stable, resistant to rot and pests, and non-combustible, making them a good choice in damp environments like basements. The best choice depends on specific project requirements and local building codes.",
+        "@type": "Answer",
+        "description": "Common materials include wood studs (2x4s, 2x6s) and metal studs. Each has benefits regarding moisture resistance and ease of use."
+      }
+    }
+  ],
+  "description": "Common materials include wood studs (2x4s, 2x6s) and metal studs. Each has benefits regarding moisture resistance and ease of use."
+}

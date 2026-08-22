@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-get-an-estimate-without-an-on-site-visit",
+  "name": "Can I get an estimate without an on-site visit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get an estimate without an on-site visit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While we can sometimes provide a preliminary ballpark figure based on photos and detailed descriptions, a precise and accurate repair estimate almost always requires an on-site visit. This allows our team to properly assess the full extent of the damage, identify any hidden issues, take accurate measurements, and evaluate site-specific conditions. An on-site visit ensures the most reliable estimate for your project.",
+        "@type": "Answer",
+        "description": "A preliminary estimate might be possible with photos, but an accurate repair estimate typically requires an on-site visit to properly assess damage and site conditions."
+      }
+    }
+  ],
+  "description": "A preliminary estimate might be possible with photos, but an accurate repair estimate typically requires an on-site visit to properly assess damage and site con"
+}

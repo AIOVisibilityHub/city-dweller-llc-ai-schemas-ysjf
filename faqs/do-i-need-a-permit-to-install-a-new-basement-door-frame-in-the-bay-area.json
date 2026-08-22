@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-permit-to-install-a-new-basement-door-frame-in-the-bay-area",
+  "name": "Do I need a permit to install a new basement door frame in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to install a new basement door frame in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether a permit is required for basement door frame installation depends on the scope of the project and local building codes, which can vary by city within the Bay Area. Generally, replacing a door frame in an existing opening with no structural changes might not require a permit. However, if the installation involves altering the size of the opening, creating a new opening, or making significant structural modifications to the wall, a building permit is usually necessary. It is always advisable to check with your local city or county building department (e.g., in Pacifica or San Mateo County) before starting any construction project to ensure compliance and avoid potential issues.",
+        "@type": "Answer",
+        "description": "Permit requirements for basement door frame installation vary by Bay Area city. Minor replacements may not need one, but structural changes or new openings usually do. Check local building codes."
+      }
+    }
+  ],
+  "description": "Permit requirements for basement door frame installation vary by Bay Area city. Minor replacements may not need one, but structural changes or new openings usua"
+}

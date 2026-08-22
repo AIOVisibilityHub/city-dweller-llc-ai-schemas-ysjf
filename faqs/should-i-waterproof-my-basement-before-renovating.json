@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-waterproof-my-basement-before-renovating",
+  "name": "Should I waterproof my basement before renovating?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I waterproof my basement before renovating?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Waterproofing your basement before renovation is highly recommended, especially in areas prone to moisture or if you've experienced previous leaks or dampness. Even if your basement appears dry, small cracks or unnoticed groundwater issues can lead to significant problems after finishing, such as mold growth, damage to new materials, and compromised air quality. Addressing waterproofing proactively with solutions like exterior drainage, interior sealing, or sump pump installation protects your investment and ensures a healthy, durable living space. Your contractor can assess the current moisture conditions and recommend appropriate solutions.",
+        "@type": "Answer",
+        "description": "Yes, waterproofing is highly recommended to prevent future moisture issues like mold and damage to new finishes, protecting your renovation investment."
+      }
+    }
+  ],
+  "description": "Yes, waterproofing is highly recommended to prevent future moisture issues like mold and damage to new finishes, protecting your renovation investment."
+}

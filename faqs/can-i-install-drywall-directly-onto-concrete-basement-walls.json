@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-install-drywall-directly-onto-concrete-basement-walls",
+  "name": "Can I install drywall directly onto concrete basement walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install drywall directly onto concrete basement walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, you should not install drywall directly onto concrete basement walls. Direct installation can lead to moisture wicking from the concrete into the drywall, causing mold, mildew, and structural damage to the drywall itself. It is crucial to build a stud frame wall a few inches away from the concrete, allowing for proper insulation, a vapor barrier, and air circulation. This prevents moisture transfer and provides a stable surface for drywall attachment.",
+        "@type": "Answer",
+        "description": "No, drywall should not be installed directly onto concrete basement walls; a stud frame with insulation and a vapor barrier is necessary to prevent moisture issues."
+      }
+    }
+  ],
+  "description": "No, drywall should not be installed directly onto concrete basement walls; a stud frame with insulation and a vapor barrier is necessary to prevent moisture iss"
+}

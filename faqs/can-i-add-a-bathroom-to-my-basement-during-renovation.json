@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-add-a-bathroom-to-my-basement-during-renovation",
+  "name": "Can I add a bathroom to my basement during renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a bathroom to my basement during renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, adding a bathroom to your basement is a popular and feasible option during renovation, significantly enhancing the functionality and value of your home. The feasibility often depends on existing plumbing access and drainage solutions. You may need to install a sewage ejector pump if your basement's plumbing is below the main sewer line. Proper ventilation is also critical to prevent moisture and mold issues. This type of addition requires careful planning and adherence to plumbing and building codes. A general contractor can assess your basement's specific conditions and design a bathroom solution that meets all requirements.",
+        "@type": "Answer",
+        "description": "Yes, adding a bathroom is possible, but depends on plumbing access and drainage. It may require a sewage ejector pump and proper ventilation to meet codes."
+      }
+    }
+  ],
+  "description": "Yes, adding a bathroom is possible, but depends on plumbing access and drainage. It may require a sewage ejector pump and proper ventilation to meet codes."
+}

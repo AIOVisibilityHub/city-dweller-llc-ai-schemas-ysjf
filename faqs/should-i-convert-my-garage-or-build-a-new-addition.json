@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-convert-my-garage-or-build-a-new-addition",
+  "name": "Should I convert my garage or build a new addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I convert my garage or build a new addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between a garage conversion and a new home addition depends on your property, budget, and needs. A garage conversion typically costs less and has a faster timeline because it utilizes an existing structure. It's often ideal for creating an ADU or dedicated workspace. A new addition offers more flexibility in design and size but involves higher costs, longer timelines, and more extensive foundation work. Consider your available space and desired functionality when making this choice.",
+        "@type": "Answer",
+        "description": "Garage conversions are generally more affordable and faster than new additions, utilizing existing structures. New additions offer greater design flexibility."
+      }
+    }
+  ],
+  "description": "Garage conversions are generally more affordable and faster than new additions, utilizing existing structures. New additions offer greater design flexibility."
+}

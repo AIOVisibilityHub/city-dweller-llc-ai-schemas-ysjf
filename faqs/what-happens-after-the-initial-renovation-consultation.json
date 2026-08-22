@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-happens-after-the-initial-renovation-consultation",
+  "name": "What happens after the initial renovation consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after the initial renovation consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After the initial consultation, City Dweller, LLC will typically follow up with a detailed proposal outlining the project scope, estimated costs, and a preliminary timeline. This proposal will incorporate all discussions from your consultation. If you decide to move forward, we will then work on design development, material selections, and securing necessary permits. The next steps will always be clearly communicated to ensure you are informed throughout the entire renovation process.",
+        "@type": "Answer",
+        "description": "After the consultation, you'll receive a detailed proposal. If approved, the process moves to design development, material selection, and permit acquisition."
+      }
+    }
+  ],
+  "description": "After the consultation, you'll receive a detailed proposal. If approved, the process moves to design development, material selection, and permit acquisition."
+}

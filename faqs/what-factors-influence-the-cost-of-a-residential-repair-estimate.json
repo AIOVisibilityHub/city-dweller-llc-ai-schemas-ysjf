@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-factors-influence-the-cost-of-a-residential-repair-estimate",
+  "name": "What factors influence the cost of a residential repair estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a residential repair estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence the cost of a residential repair estimate. These include the extent of the damage, the type and quality of materials chosen, the complexity of the work, and the need for specialized trades like plumbing or electrical. Accessibility to the repair area and the urgency of the project can also affect labor costs. Our estimates consider all these variables to provide an accurate reflection of the total project expense.",
+        "@type": "Answer",
+        "description": "Repair estimate costs are influenced by damage extent, material types, work complexity, need for specialized trades, and project accessibility."
+      }
+    }
+  ],
+  "description": "Repair estimate costs are influenced by damage extent, material types, work complexity, need for specialized trades, and project accessibility."
+}

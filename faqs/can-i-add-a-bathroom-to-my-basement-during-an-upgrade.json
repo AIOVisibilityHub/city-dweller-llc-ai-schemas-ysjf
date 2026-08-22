@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-add-a-bathroom-to-my-basement-during-an-upgrade",
+  "name": "Can I add a bathroom to my basement during an upgrade?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a bathroom to my basement during an upgrade?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a bathroom is a common and valuable basement upgrade. It typically involves extending existing plumbing lines, installing new fixtures, and ensuring proper ventilation. Considerations include the location of existing utility lines, the need for a sewage ejector pump if your basement is below the main sewer line, and compliance with local plumbing codes. This type of project significantly increases the functionality and value of your basement.",
+        "@type": "Answer",
+        "description": "Yes, adding a bathroom is a common upgrade, involving plumbing extensions, new fixtures, ventilation, and potential need for a sewage ejector pump."
+      }
+    }
+  ],
+  "description": "Yes, adding a bathroom is a common upgrade, involving plumbing extensions, new fixtures, ventilation, and potential need for a sewage ejector pump."
+}

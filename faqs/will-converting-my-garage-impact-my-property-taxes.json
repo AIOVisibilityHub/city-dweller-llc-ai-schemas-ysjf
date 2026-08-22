@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-converting-my-garage-impact-my-property-taxes",
+  "name": "Will converting my garage impact my property taxes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will converting my garage impact my property taxes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting your garage into a habitable living space, especially an ADU, will likely impact your property taxes. Any improvement that increases the value of your property is subject to reassessment for property tax purposes. The extent of the increase will depend on the added value and the specific tax assessment rules in your county (e.g., San Mateo County). It's advisable to consult with a local tax professional or the county assessor's office for a precise understanding of the potential tax implications for your specific project.",
+        "@type": "Answer",
+        "description": "Yes, converting your garage into a habitable space, particularly an ADU, will likely increase your property taxes due to increased property value."
+      }
+    }
+  ],
+  "description": "Yes, converting your garage into a habitable space, particularly an ADU, will likely increase your property taxes due to increased property value."
+}

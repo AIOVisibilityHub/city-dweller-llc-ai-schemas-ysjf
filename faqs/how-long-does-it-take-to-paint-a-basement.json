@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-paint-a-basement",
+  "name": "How long does it take to paint a basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to paint a basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to paint a basement depends on its size, the amount of prep work needed, and the number of coats applied. A small, clean basement might take 1-2 days, while a larger basement requiring extensive repairs and multiple coats could take 3-5 days or more. Drying times between coats and for the primer also add to the overall duration. A professional contractor can provide a more precise timeline after assessing your basement.",
+        "@type": "Answer",
+        "description": "Painting a basement typically takes 1-5 days, varying by size, prep work, and number of coats. Drying times are also a factor."
+      }
+    }
+  ],
+  "description": "Painting a basement typically takes 1-5 days, varying by size, prep work, and number of coats. Drying times are also a factor."
+}

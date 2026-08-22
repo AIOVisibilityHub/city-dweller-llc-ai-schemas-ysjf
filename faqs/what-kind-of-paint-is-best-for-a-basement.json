@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-paint-is-best-for-a-basement",
+  "name": "What kind of paint is best for a basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of paint is best for a basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For basements, a high-quality acrylic latex paint is generally recommended. It offers good breathability and resistance to moisture, which is crucial in below-grade environments. Look for paints labeled as mildew-resistant or specifically designed for damp areas. Avoid oil-based paints as they can trap moisture and are prone to peeling in humid conditions. Priming with a waterproof or moisture-blocking primer is also highly recommended before painting to ensure better adhesion and protection against efflorescence.",
+        "@type": "Answer",
+        "description": "Acrylic latex paint is usually best for basements due to its moisture resistance and breathability. Use a moisture-blocking primer first."
+      }
+    }
+  ],
+  "description": "Acrylic latex paint is usually best for basements due to its moisture resistance and breathability. Use a moisture-blocking primer first."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-regular-drywall-and-mold-resistant-drywall",
+  "name": "What is the difference between regular drywall and mold-resistant drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between regular drywall and mold-resistant drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular drywall, also known as standard gypsum board, has a paper face and core that can absorb moisture, making it susceptible to mold and mildew growth in damp conditions. Mold-resistant drywall, often labeled as green board or purple board, features an improved paper facing and sometimes an altered core composition designed to repel moisture and inhibit mold growth. It is highly recommended for basements and other high-humidity areas, offering greater durability in challenging environments.",
+        "@type": "Answer",
+        "description": "Regular drywall absorbs moisture and can grow mold, while mold-resistant drywall repels moisture and inhibits mold, making it better for basements."
+      }
+    }
+  ],
+  "description": "Regular drywall absorbs moisture and can grow mold, while mold-resistant drywall repels moisture and inhibits mold, making it better for basements."
+}

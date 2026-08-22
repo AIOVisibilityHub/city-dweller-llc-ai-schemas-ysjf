@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-drywall-damage-in-basements",
+  "name": "What causes drywall damage in basements?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes drywall damage in basements?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Basement drywall damage is commonly caused by moisture issues such as leaks, high humidity, or flooding, leading to water stains, mold growth, or structural weakening. Other causes include impact damage from moving furniture, pest infestations, or normal wear and tear over time. Identifying the root cause of the damage is crucial for effective and lasting repairs.",
+        "@type": "Answer",
+        "description": "Basement drywall damage is typically caused by moisture, impact, pests, or general wear. Addressing the source of moisture is key for effective repairs."
+      }
+    }
+  ],
+  "description": "Basement drywall damage is typically caused by moisture, impact, pests, or general wear. Addressing the source of moisture is key for effective repairs."
+}

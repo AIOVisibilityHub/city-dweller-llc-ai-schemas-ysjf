@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-different-molding-materials-compare-for-basement-use",
+  "name": "How do different molding materials compare for basement use?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do different molding materials compare for basement use?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Different molding materials offer various advantages for basement environments. MDF (Medium-Density Fiberboard) is cost-effective and paintable but susceptible to moisture damage. Solid wood (e.g., pine, oak) provides a classic look but requires diligent priming and sealing to resist humidity and is generally more expensive. PVC or composite moldings are highly moisture-resistant, durable, and low-maintenance, making them excellent choices for basements, though they may have fewer profile options than wood. We can help you weigh these options based on your budget and moisture concerns.",
+        "@type": "Answer",
+        "description": "MDF is budget-friendly but moisture-sensitive; wood is classic but needs sealing; PVC/composite are moisture-proof and durable."
+      }
+    }
+  ],
+  "description": "MDF is budget-friendly but moisture-sensitive; wood is classic but needs sealing; PVC/composite are moisture-proof and durable."
+}

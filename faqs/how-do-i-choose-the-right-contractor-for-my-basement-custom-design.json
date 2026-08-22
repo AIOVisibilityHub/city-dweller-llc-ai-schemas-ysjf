@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-contractor-for-my-basement-custom-design",
+  "name": "How do I choose the right contractor for my basement custom design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my basement custom design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for your basement custom design, look for experience with similar projects, valid licensing and insurance, and positive client testimonials. A transparent communication style, a clear understanding of the design-build process, and a detailed proposal that outlines scope and cost are also important factors. Consider a contractor who provides a comprehensive approach from initial design to final construction.",
+        "@type": "Answer",
+        "description": "Choose a contractor based on their experience, licensing, insurance, client reviews, transparent communication, and comprehensive design-build services."
+      }
+    }
+  ],
+  "description": "Choose a contractor based on their experience, licensing, insurance, client reviews, transparent communication, and comprehensive design-build services."
+}

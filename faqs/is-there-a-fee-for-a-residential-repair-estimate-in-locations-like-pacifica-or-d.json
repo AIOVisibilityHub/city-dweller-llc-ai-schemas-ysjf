@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/is-there-a-fee-for-a-residential-repair-estimate-in-locations-like-pacifica-or-d",
+  "name": "Is there a fee for a residential repair estimate in locations like Pacifica or Daly City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is there a fee for a residential repair estimate in locations like Pacifica or Daly City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC offers free, no-obligation residential repair estimates for properties in our service areas, including Pacifica, Daly City, San Bruno, South San Francisco, and other surrounding Bay Area locations. We believe in providing transparent information upfront so homeowners can make informed decisions without an initial financial commitment. Our goal is to assess your needs and provide a clear, detailed proposal for your repair project.",
+        "@type": "Answer",
+        "description": "No, City Dweller, LLC offers free, no-obligation residential repair estimates in Pacifica, Daly City, and our other service areas."
+      }
+    }
+  ],
+  "description": "No, City Dweller, LLC offers free, no-obligation residential repair estimates in Pacifica, Daly City, and our other service areas."
+}

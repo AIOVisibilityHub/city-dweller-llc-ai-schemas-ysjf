@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-design-considerations-for-garage-conversions",
+  "name": "What are common design considerations for garage conversions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common design considerations for garage conversions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key design considerations for garage conversions include maximizing natural light and ventilation, efficient space planning for intended use, selecting durable and aesthetically pleasing materials, and ensuring proper insulation and soundproofing. Integration with the existing home's aesthetic and meeting accessibility requirements are also important.",
+        "@type": "Answer",
+        "description": "Design considerations include light, ventilation, space planning, material selection, insulation, and integration with the home."
+      }
+    }
+  ],
+  "description": "Design considerations include light, ventilation, space planning, material selection, insulation, and integration with the home."
+}

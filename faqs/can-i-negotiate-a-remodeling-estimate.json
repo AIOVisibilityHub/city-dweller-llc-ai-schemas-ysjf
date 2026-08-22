@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-negotiate-a-remodeling-estimate",
+  "name": "Can I negotiate a remodeling estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I negotiate a remodeling estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is often possible to negotiate aspects of a remodeling estimate. Instead of focusing solely on the bottom line, discuss specific line items. You might negotiate material choices, the scope of work to fit your budget, or payment schedules. A reputable contractor will be open to discussing options to align the project with your financial constraints while maintaining quality and safety standards. Clear communication is key to a successful negotiation.",
+        "@type": "Answer",
+        "description": "Yes, you can negotiate remodeling estimates by discussing specific line items like materials or scope. Focus on aligning the project with your budget while maintaining quality."
+      }
+    }
+  ],
+  "description": "Yes, you can negotiate remodeling estimates by discussing specific line items like materials or scope. Focus on aligning the project with your budget while main"
+}

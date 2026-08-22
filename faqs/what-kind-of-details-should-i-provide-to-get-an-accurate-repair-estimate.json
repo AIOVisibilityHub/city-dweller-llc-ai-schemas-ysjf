@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-details-should-i-provide-to-get-an-accurate-repair-estimate",
+  "name": "What kind of details should I provide to get an accurate repair estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of details should I provide to get an accurate repair estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To receive the most accurate repair estimate, provide as much detail as possible. This includes a clear description of the problem, when it started, and any symptoms. Share photos or videos of the damage, mention previous repairs, and specify any preferences for materials or finishes. Highlighting accessibility challenges or specific property features can also help us tailor the estimate precisely to your needs.",
+        "@type": "Answer",
+        "description": "Provide a clear problem description, timeline, photos, videos, previous repair history, and material preferences to get an accurate repair estimate."
+      }
+    }
+  ],
+  "description": "Provide a clear problem description, timeline, photos, videos, previous repair history, and material preferences to get an accurate repair estimate."
+}

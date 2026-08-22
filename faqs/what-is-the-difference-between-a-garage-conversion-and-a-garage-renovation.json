@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-a-garage-conversion-and-a-garage-renovation",
+  "name": "What is the difference between a garage conversion and a garage renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a garage conversion and a garage renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A garage renovation typically involves updating the existing garage structure without changing its primary function as a parking or storage space. This could include adding new flooring, shelving, improving insulation, or painting. A garage conversion, however, changes the garage's original purpose into a habitable space, such as an Accessory Dwelling Unit (ADU), a home office, a gym, or an additional bedroom. Conversions are generally more extensive, often requiring structural modifications, plumbing, electrical upgrades, and building permits, making them a more complex and costly endeavor than a simple renovation.",
+        "@type": "Answer",
+        "description": "Renovation updates a garage's appearance or function as a garage, while conversion changes its purpose entirely, often requiring structural and utility modifications for habitation."
+      }
+    }
+  ],
+  "description": "Renovation updates a garage's appearance or function as a garage, while conversion changes its purpose entirely, often requiring structural and utility modifica"
+}

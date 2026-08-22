@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-my-existing-basement-door",
+  "name": "When should I consider replacing my existing basement door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my existing basement door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your basement door if you notice signs of significant wear and tear, such as rust, rot, cracks, or warping. Poor sealing leading to drafts, water leaks, or insect intrusion are also strong indicators. If the door's security is compromised, or if it's difficult to open and close, replacement is advisable. Upgrading can improve home efficiency, security, and access, especially if your current door is old or damaged beyond repair.",
+        "@type": "Answer",
+        "description": "Replace your basement door if it shows significant wear, rust, rot, poor sealing, security issues, or difficulty operating."
+      }
+    }
+  ],
+  "description": "Replace your basement door if it shows significant wear, rust, rot, poor sealing, security issues, or difficulty operating."
+}

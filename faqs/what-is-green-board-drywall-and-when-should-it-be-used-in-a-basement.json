@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-green-board-drywall-and-when-should-it-be-used-in-a-basement",
+  "name": "What is green board drywall and when should it be used in a basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is green board drywall and when should it be used in a basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Green board is a type of drywall with a water-resistant paper facing, making it suitable for areas with elevated humidity or moisture exposure. It should be used in basements, especially on exterior walls or near plumbing fixtures, to provide an extra layer of protection against moisture. While it resists moisture, it is not waterproof and should not be used in direct contact with water or in flood-prone areas. For shower enclosures, cement board or fiberglass mat gypsum panels are more appropriate.",
+        "@type": "Answer",
+        "description": "Green board is moisture-resistant drywall suitable for humid basement areas, particularly on exterior walls or near plumbing, but it is not waterproof."
+      }
+    }
+  ],
+  "description": "Green board is moisture-resistant drywall suitable for humid basement areas, particularly on exterior walls or near plumbing, but it is not waterproof."
+}

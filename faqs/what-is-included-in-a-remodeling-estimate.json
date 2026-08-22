@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-included-in-a-remodeling-estimate",
+  "name": "What is included in a remodeling estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a remodeling estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A remodeling estimate provides a detailed breakdown of the projected costs for your project. This typically includes labor, materials, subcontractor services (like plumbing or electrical), permits, and a contingency for unforeseen issues. It outlines the scope of work, specifications for materials, and a preliminary timeline. This helps you understand the financial commitment and what to expect during the renovation process.",
+        "@type": "Answer",
+        "description": "A remodeling estimate details projected costs, including labor, materials, permits, and a contingency. It outlines the scope of work, specifications, and a preliminary timeline."
+      }
+    }
+  ],
+  "description": "A remodeling estimate details projected costs, including labor, materials, permits, and a contingency. It outlines the scope of work, specifications, and a prel"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-basement-renovation-usually-take",
+  "name": "How long does a basement renovation usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a basement renovation usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a basement renovation depends on the project's complexity and size. A basic finishing project, like adding a playroom or general living space, might take 6 to 10 weeks from start to finish. If your project includes adding a new bathroom, kitchen, or involves significant structural modifications, it could extend to 12 to 20 weeks or longer. Factors such as permit approval times, material availability, and unforeseen issues like waterproofing needs can also influence the timeline. A detailed project schedule from your contractor will provide a more precise estimate.",
+        "@type": "Answer",
+        "description": "Project duration varies, with basic finishes taking 6-10 weeks and more complex renovations extending to 12-20 weeks or more, depending on scope and permits."
+      }
+    }
+  ],
+  "description": "Project duration varies, with basic finishes taking 6-10 weeks and more complex renovations extending to 12-20 weeks or more, depending on scope and permits."
+}

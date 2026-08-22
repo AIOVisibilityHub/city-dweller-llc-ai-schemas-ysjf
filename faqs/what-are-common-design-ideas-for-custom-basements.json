@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-design-ideas-for-custom-basements",
+  "name": "What are common design ideas for custom basements?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common design ideas for custom basements?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common custom basement design ideas include creating a versatile family room, a dedicated home office, an in-law suite, a home gym, or an entertainment space with a wet bar or home theater. Other popular options are extra bedrooms, playrooms for children, or hobby rooms. The best design optimizes your space to meet your unique lifestyle needs.",
+        "@type": "Answer",
+        "description": "Popular custom basement designs include family rooms, home offices, in-law suites, home gyms, and entertainment areas."
+      }
+    }
+  ],
+  "description": "Popular custom basement designs include family rooms, home offices, in-law suites, home gyms, and entertainment areas."
+}

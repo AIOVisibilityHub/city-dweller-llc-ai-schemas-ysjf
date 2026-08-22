@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-repairing-water-damaged-drywall-in-a-basement",
+  "name": "What is the process for repairing water-damaged drywall in a basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing water-damaged drywall in a basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing water-damaged drywall in a basement involves several steps. First, the source of water must be identified and fixed. Next, any saturated or mold-affected drywall is carefully removed. The exposed area is then dried thoroughly, and any mold is remediated. New drywall sheets are cut and installed, followed by taping and multiple layers of joint compound (mud). Each layer requires drying and sanding before the final finish and painting.",
+        "@type": "Answer",
+        "description": "The process involves fixing the water source, removing damaged drywall, drying, installing new drywall, applying joint compound, sanding, and finishing."
+      }
+    }
+  ],
+  "description": "The process involves fixing the water source, removing damaged drywall, drying, installing new drywall, applying joint compound, sanding, and finishing."
+}

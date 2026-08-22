@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-an-egress-basement-door-and-a-standard-one",
+  "name": "What is the difference between an egress basement door and a standard one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between an egress basement door and a standard one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An egress basement door is specifically designed and installed to meet local building codes for emergency exit, typically providing a clear opening large enough for someone to escape in case of fire or other emergencies. These often lead to an egress well. A standard basement door might provide access but not necessarily meet the specific size or accessibility requirements for emergency egress. If your basement is a living space (e.g., bedroom), an egress compliant door is often legally required for safety.",
+        "@type": "Answer",
+        "description": "An egress door meets specific building codes for emergency exit, offering a clear opening for safety. A standard door provides access but may not meet egress requirements."
+      }
+    }
+  ],
+  "description": "An egress door meets specific building codes for emergency exit, offering a clear opening for safety. A standard door provides access but may not meet egress re"
+}

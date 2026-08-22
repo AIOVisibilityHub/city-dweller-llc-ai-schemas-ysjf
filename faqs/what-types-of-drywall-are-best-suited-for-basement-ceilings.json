@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-drywall-are-best-suited-for-basement-ceilings",
+  "name": "What types of drywall are best suited for basement ceilings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of drywall are best suited for basement ceilings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For basement ceilings, standard drywall (1/2 inch thick) is generally suitable if there are no specific fire rating requirements. However, if sound transmission is a concern, such as a busy room directly above, consider using sound-resistant drywall. This type of drywall is denser or constructed to dampen sound waves. If there's a risk of high humidity or moisture in the ceiling area, moisture-resistant drywall can also be a good choice to prevent mold, similar to wall applications. Your specific needs will dictate the best choice.",
+        "@type": "Answer",
+        "description": "Standard 1/2-inch drywall is common for basement ceilings, but sound-resistant or moisture-resistant drywall can be better for specific needs."
+      }
+    }
+  ],
+  "description": "Standard 1/2-inch drywall is common for basement ceilings, but sound-resistant or moisture-resistant drywall can be better for specific needs."
+}

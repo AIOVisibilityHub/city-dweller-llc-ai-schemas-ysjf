@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-prevent-moisture-issues-under-my-basement-tile",
+  "name": "How do I prevent moisture issues under my basement tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prevent moisture issues under my basement tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing moisture under basement tile starts with thorough subfloor preparation. A professional contractor will conduct moisture tests on your concrete slab to assess its moisture vapor emission rate. If moisture levels are too high, installing a liquid waterproofing membrane or a sheet-style vapor barrier is essential. These barriers create a protective layer that prevents ground moisture from reaching your tile adhesive and grout, safeguarding against mold growth, efflorescence, and adhesive breakdown. Proper sealing of grout lines after installation also adds an extra layer of protection.",
+        "@type": "Answer",
+        "description": "Prevent moisture by conducting moisture tests and installing a waterproofing membrane or vapor barrier on the concrete slab before tiling."
+      }
+    }
+  ],
+  "description": "Prevent moisture by conducting moisture tests and installing a waterproofing membrane or vapor barrier on the concrete slab before tiling."
+}

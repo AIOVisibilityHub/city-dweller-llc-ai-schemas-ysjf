@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-baseboard-and-shoe-molding-in-a-basement",
+  "name": "What's the difference between baseboard and shoe molding in a basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between baseboard and shoe molding in a basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Baseboard is the trim piece that covers the joint where the wall meets the floor, providing a finished look and protecting the wall from damage. Shoe molding, also known as quarter round, is a smaller, often curved, piece of trim installed at the very bottom of the baseboard, directly against the floor. Its primary function is to cover small gaps between the baseboard and uneven flooring, creating a neat and seamless transition without needing to scribe the baseboard perfectly to the floor.",
+        "@type": "Answer",
+        "description": "Baseboard covers the wall-to-floor joint. Shoe molding is a smaller piece that covers gaps between the baseboard and uneven flooring."
+      }
+    }
+  ],
+  "description": "Baseboard covers the wall-to-floor joint. Shoe molding is a smaller piece that covers gaps between the baseboard and uneven flooring."
+}

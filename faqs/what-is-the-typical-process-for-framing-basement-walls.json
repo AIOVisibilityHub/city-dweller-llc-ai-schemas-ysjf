@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-framing-basement-walls",
+  "name": "What is the typical process for framing basement walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for framing basement walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically starts with planning the layout and marking the floor. Then, bottom plates are anchored to the concrete, and top plates are secured to the joists above. Studs are cut to size and installed between the plates, usually at 16 or 24-inch centers. Openings for doors and windows are framed next. Finally, blocking and bracing are added where necessary to ensure stability and provide support for fixtures or cabinetry.",
+        "@type": "Answer",
+        "description": "The process involves planning, anchoring bottom and top plates, installing studs, and framing openings for doors and windows."
+      }
+    }
+  ],
+  "description": "The process involves planning, anchoring bottom and top plates, installing studs, and framing openings for doors and windows."
+}

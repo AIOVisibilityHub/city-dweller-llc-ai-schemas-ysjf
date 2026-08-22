@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-garage-conversion",
+  "name": "What is a garage conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a garage conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A garage conversion transforms an existing garage space into a functional living area, such as an accessory dwelling unit (ADU), home office, gym, or extra bedroom. This process typically involves insulating walls, adding plumbing and electrical systems, modifying openings for windows and doors, and upgrading the interior finishes to match the home's aesthetic. It's an efficient way to expand living space without building a new structure from the ground up, often adding significant value to a property.",
+        "@type": "Answer",
+        "description": "A garage conversion reuses an existing garage structure to create new living space, like an ADU or home office, by adding insulation, utilities, and finishes."
+      }
+    }
+  ],
+  "description": "A garage conversion reuses an existing garage structure to create new living space, like an ADU or home office, by adding insulation, utilities, and finishes."
+}

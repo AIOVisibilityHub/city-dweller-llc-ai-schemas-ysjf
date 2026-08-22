@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-material-for-my-basement-door",
+  "name": "How do I choose the right material for my basement door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right material for my basement door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right material depends on factors like durability, weather exposure, security needs, and aesthetic preferences. Steel doors are highly durable and secure, often used for bulkhead applications due to their resistance to impacts and harsh weather. Fiberglass doors offer good insulation, resist rot and rust, and can be molded to resemble wood. Wood doors provide a classic look but require more maintenance and are generally not recommended for direct ground contact or heavy moisture exposure unless specially treated.",
+        "@type": "Answer",
+        "description": "Consider durability, weather exposure, security, and aesthetics. Steel offers durability, fiberglass insulation, and wood a classic look with more maintenance."
+      }
+    }
+  ],
+  "description": "Consider durability, weather exposure, security, and aesthetics. Steel offers durability, fiberglass insulation, and wood a classic look with more maintenance."
+}

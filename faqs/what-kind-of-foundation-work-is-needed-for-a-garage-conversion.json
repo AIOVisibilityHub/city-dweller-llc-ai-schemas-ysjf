@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-foundation-work-is-needed-for-a-garage-conversion",
+  "name": "What kind of foundation work is needed for a garage conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of foundation work is needed for a garage conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Foundation work for a garage conversion typically involves assessing the existing slab for cracks or settling, reinforcing it if necessary, and potentially adding new footings if walls are being moved or a second story is planned. Ensuring the foundation can support the new load and meet seismic requirements for the Bay Area is crucial.",
+        "@type": "Answer",
+        "description": "Foundation work includes assessing and reinforcing the existing slab, and possibly adding footings to support new structures or loads."
+      }
+    }
+  ],
+  "description": "Foundation work includes assessing and reinforcing the existing slab, and possibly adding footings to support new structures or loads."
+}
