@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-getting-my-window-operator-repaired",
+  "name": "What is the process for getting my window operator repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for getting my window operator repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our repair process begins with an initial consultation and inspection to accurately diagnose the problem with your window operator. Following the assessment, we provide a detailed quote outlining the necessary repairs and associated costs. Once approved, our experienced technicians will carefully remove the old or damaged parts and install new, high-quality replacements. We then test the window to ensure smooth and proper operation before completing the service.",
+        "@type": "Answer",
+        "description": "The process involves an inspection, diagnosis, detailed quote, repair with quality parts, and a final test to ensure proper operation."
+      }
+    }
+  ],
+  "description": "The process involves an inspection, diagnosis, detailed quote, repair with quality parts, and a final test to ensure proper operation."
+}

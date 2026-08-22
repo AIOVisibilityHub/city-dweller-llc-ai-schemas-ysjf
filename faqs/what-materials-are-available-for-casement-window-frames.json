@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-materials-are-available-for-casement-window-frames",
+  "name": "What materials are available for casement window frames?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are available for casement window frames?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Casement window frames are commonly available in several materials. Vinyl is popular for its low maintenance, durability, and energy efficiency. Fiberglass offers strength, stability, and paintability, resisting expansion and contraction. Wood provides a classic aesthetic and excellent insulation but requires more maintenance. Aluminum is also an option, known for its strength and slim profiles, but typically has lower thermal performance.",
+        "@type": "Answer",
+        "description": "Frame materials include vinyl (low maintenance, durable), fiberglass (strong, stable), wood (classic, insulative), and aluminum (strong, slim)."
+      }
+    }
+  ],
+  "description": "Frame materials include vinyl (low maintenance, durable), fiberglass (strong, stable), wood (classic, insulative), and aluminum (strong, slim)."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-an-stc-rating-and-what-stc-rating-should-i-look-for",
+  "name": "What is an STC rating, and what STC rating should I look for?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an STC rating, and what STC rating should I look for?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The Sound Transmission Class (STC) rating measures a window's ability to reduce airborne sound. A higher STC rating indicates better noise reduction performance. For most residential applications experiencing moderate street noise, an STC rating of 35 to 40 is often sufficient to notice a significant difference. In very noisy environments, such as next to a freeway or airport, you might consider windows with an STC of 40 or higher, sometimes reaching into the mid-50s. Our experts can help assess your specific noise concerns and recommend an appropriate STC rating for your property.",
+        "@type": "Answer",
+        "description": "The STC rating measures a window's sound reduction; higher numbers are better. For moderate noise, look for STC 35-40; for very noisy areas, consider STC 40 or higher."
+      }
+    }
+  ],
+  "description": "The STC rating measures a window's sound reduction; higher numbers are better. For moderate noise, look for STC 35-40; for very noisy areas, consider STC 40 or"
+}

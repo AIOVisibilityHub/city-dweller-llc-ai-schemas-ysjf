@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-bathroom-windows-require-special-glass-or-features",
+  "name": "Do bathroom windows require special glass or features?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do bathroom windows require special glass or features?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, bathroom windows often benefit from special glass and features due to the unique environment. Tempered or safety glass is often required by code in wet areas, including bathrooms, for safety. Obscure, frosted, or privacy glass is highly recommended to maintain privacy without sacrificing natural light. Additionally, low-emissivity (Low-E) coatings can improve energy efficiency, and argon gas fills between panes enhance insulation. Consider grids between the glass for easy cleaning and tilt-in features for maintenance.",
+        "@type": "Answer",
+        "description": "Bathroom windows often require tempered or privacy glass for safety and discretion. Low-E coatings and argon gas fills enhance energy efficiency and insulation."
+      }
+    }
+  ],
+  "description": "Bathroom windows often require tempered or privacy glass for safety and discretion. Low-E coatings and argon gas fills enhance energy efficiency and insulation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-my-window-frames-are-rotted",
+  "name": "How do I know if my window frames are rotted?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my window frames are rotted?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can check for rot by visually inspecting frames for discoloration, bubbling paint, or soft spots. Gently probe suspect areas with a screwdriver; if the wood feels soft, crumbles, or easily gives way, it's likely rotted. Other signs include difficulty opening/closing windows, drafts, or moisture around the frame's interior. Early detection can prevent more extensive damage.",
+        "@type": "Answer",
+        "description": "Check for discoloration, bubbling paint, soft spots, or a crumbly texture when probed with a screwdriver."
+      }
+    }
+  ],
+  "description": "Check for discoloration, bubbling paint, soft spots, or a crumbly texture when probed with a screwdriver."
+}

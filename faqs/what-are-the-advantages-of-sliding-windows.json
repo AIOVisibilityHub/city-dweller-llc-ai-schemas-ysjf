@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-advantages-of-sliding-windows",
+  "name": "What are the advantages of sliding windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the advantages of sliding windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sliding windows are a popular choice for their practical benefits. They operate horizontally, making them easy to open and close, and they don't protrude outwards, which can be ideal for walkways or patios. Their simple design often allows for larger glass panes, maximizing natural light and offering unobstructed views. Modern sliding windows feature energy-efficient glass options and improved sealing mechanisms to help reduce heat transfer and lower energy bills. They are generally durable and require minimal maintenance, making them a cost-effective and functional option for many homes.",
+        "@type": "Answer",
+        "description": "Sliding windows offer easy operation, maximize natural light, and are often energy-efficient. Their design saves space and provides unobstructed views."
+      }
+    }
+  ],
+  "description": "Sliding windows offer easy operation, maximize natural light, and are often energy-efficient. Their design saves space and provides unobstructed views."
+}

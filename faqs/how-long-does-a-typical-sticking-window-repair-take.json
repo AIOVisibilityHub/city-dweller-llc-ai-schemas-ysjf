@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-sticking-window-repair-take",
+  "name": "How long does a typical sticking window repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical sticking window repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a sticking window repair depends on the complexity of the problem. Simple repairs, such as cleaning and lubrication, might take an hour or less. Repairs involving the replacement of a sash balance or minor wood repair could take a few hours. More extensive issues, like significant frame repair or multiple window adjustments, might require a full day or staggered visits. A professional can provide a time estimate after assessing the damage.",
+        "@type": "Answer",
+        "description": "Repair time varies; simple fixes take under an hour, while replacing parts or repairing wood could take several hours to a full day, depending on complexity."
+      }
+    }
+  ],
+  "description": "Repair time varies; simple fixes take under an hour, while replacing parts or repairing wood could take several hours to a full day, depending on complexity."
+}

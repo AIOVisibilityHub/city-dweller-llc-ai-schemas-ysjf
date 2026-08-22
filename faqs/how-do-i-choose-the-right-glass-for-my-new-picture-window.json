@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-glass-for-my-new-picture-window",
+  "name": "How do I choose the right glass for my new picture window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right glass for my new picture window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right glass for your picture window involves considering factors like energy efficiency, UV protection, noise reduction, and safety. Double-pane (insulating glass) is standard for energy efficiency. Low-E coatings help block UV rays and improve insulation. For areas with significant noise, laminated or triple-pane glass can be beneficial. Tempered or safety glass is recommended for windows close to floors or high-traffic areas. We can help you select the optimal glass package based on your home's orientation, local climate, and personal priorities.",
+        "@type": "Answer",
+        "description": "Consider energy efficiency (double-pane, Low-E), noise reduction (laminated), and safety (tempered glass) based on your needs and home's location."
+      }
+    }
+  ],
+  "description": "Consider energy efficiency (double-pane, Low-E), noise reduction (laminated), and safety (tempered glass) based on your needs and home's location."
+}

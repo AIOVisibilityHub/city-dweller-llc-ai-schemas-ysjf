@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-my-options-if-a-window-lock-cannot-be-repaired",
+  "name": "What are my options if a window lock cannot be repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are my options if a window lock cannot be repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If a window lock is severely damaged or obsolete, making repair impractical, we will discuss replacement options with you. This might involve replacing just the locking mechanism with a compatible new part or, in some cases, recommending a full window replacement if the window frame itself is compromised. We will provide clear recommendations and transparent pricing for all viable solutions to restore your window's security.",
+        "@type": "Answer",
+        "description": "If repair isn't possible, options include replacing the locking mechanism or, if the frame is compromised, a full window replacement."
+      }
+    }
+  ],
+  "description": "If repair isn't possible, options include replacing the locking mechanism or, if the frame is compromised, a full window replacement."
+}

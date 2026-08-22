@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-window-hardware-replacement",
+  "name": "What is the typical process for window hardware replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for window hardware replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for window hardware replacement typically begins with an inspection to identify the specific parts needing replacement and assess their condition. Our technicians then source compatible replacement hardware, which may be original manufacturer parts or high-quality aftermarket equivalents. The old hardware is carefully removed, and the new components are installed, ensuring proper fit and function. Finally, the window is tested to confirm smooth operation, secure locking, and proper sealing. This often includes adjustments to ensure optimal performance.",
+        "@type": "Answer",
+        "description": "The process involves inspection, sourcing compatible parts, removing old hardware, installing new components, and testing for proper function."
+      }
+    }
+  ],
+  "description": "The process involves inspection, sourcing compatible parts, removing old hardware, installing new components, and testing for proper function."
+}

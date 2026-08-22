@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-windows-are-best-for-preventing-drafts",
+  "name": "What types of windows are best for preventing drafts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of windows are best for preventing drafts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Windows designed for energy efficiency are best for preventing drafts. This often includes double-pane or triple-pane windows with low-emissivity (Low-E) coatings and argon or krypton gas fills between the panes. These features reduce heat transfer and improve insulation. High-quality frames made from materials like vinyl, fiberglass, or wood also contribute to a tight seal and minimize air infiltration.",
+        "@type": "Answer",
+        "description": "Energy-efficient windows like double or triple-pane with Low-E coatings and gas fills are best for draft prevention."
+      }
+    }
+  ],
+  "description": "Energy-efficient windows like double or triple-pane with Low-E coatings and gas fills are best for draft prevention."
+}

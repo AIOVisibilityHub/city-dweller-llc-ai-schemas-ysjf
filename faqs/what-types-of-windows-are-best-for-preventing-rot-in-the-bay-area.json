@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-windows-are-best-for-preventing-rot-in-the-bay-area",
+  "name": "What types of windows are best for preventing rot in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of windows are best for preventing rot in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the Bay Area's climate, materials resistant to moisture and pests are ideal. Vinyl windows are a popular choice due to their inherent resistance to rot and low maintenance. Fiberglass windows offer similar benefits with greater strength and stability. While wood windows are aesthetically pleasing, they require more diligent maintenance, including regular painting and sealing, to prevent rot.",
+        "@type": "Answer",
+        "description": "Vinyl and fiberglass windows are highly resistant to rot and are good choices for the Bay Area climate."
+      }
+    }
+  ],
+  "description": "Vinyl and fiberglass windows are highly resistant to rot and are good choices for the Bay Area climate."
+}

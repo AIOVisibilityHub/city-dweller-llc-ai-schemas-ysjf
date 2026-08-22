@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-new-double-hung-windows-increase-my-home-s-energy-efficiency",
+  "name": "Will new double hung windows increase my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will new double hung windows increase my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, replacing old, inefficient windows with new double hung windows can significantly improve your home's energy efficiency. Modern double hung windows feature advanced technologies such as insulated glass units (double or triple-pane), low-emissivity (Low-E) coatings, and argon or krypton gas fills between panes. These elements help reduce heat transfer, keeping your home cooler in summer and warmer in winter. Improved energy efficiency can lead to noticeable reductions in your heating and cooling costs and a more comfortable indoor environment.",
+        "@type": "Answer",
+        "description": "New double hung windows with insulated glass, Low-E coatings, and gas fills significantly reduce heat transfer, improving energy efficiency and lowering utility bills."
+      }
+    }
+  ],
+  "description": "New double hung windows with insulated glass, Low-E coatings, and gas fills significantly reduce heat transfer, improving energy efficiency and lowering utility"
+}

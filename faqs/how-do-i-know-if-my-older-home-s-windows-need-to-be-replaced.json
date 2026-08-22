@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-my-older-home-s-windows-need-to-be-replaced",
+  "name": "How do I know if my older home's windows need to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my older home's windows need to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Look for signs like noticeable drafts, condensation between glass panes, difficulty opening or closing windows, or rotting wood frames. Increased energy bills, outside noise pollution, or a generally uncomfortable home temperature can also indicate inefficient windows. If your windows are single-pane, they are likely contributing to poor insulation and are strong candidates for replacement. A professional assessment can confirm the need.",
+        "@type": "Answer",
+        "description": "Signs include drafts, condensation between panes, difficulty operating, rotting frames, high energy bills, and increased outside noise. Single-pane windows are often inefficient."
+      }
+    }
+  ],
+  "description": "Signs include drafts, condensation between panes, difficulty operating, rotting frames, high energy bills, and increased outside noise. Single-pane windows are"
+}

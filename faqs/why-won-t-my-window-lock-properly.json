@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/why-won-t-my-window-lock-properly",
+  "name": "Why won't my window lock properly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why won't my window lock properly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Windows fail to lock for several reasons. Common issues include misalignment of the sash with the frame, which can be due to settling of the house or worn hardware. The locking mechanism itself might be damaged, bent, or obstructed by debris or paint. Sometimes, humidity changes can cause wood windows to swell, making it difficult for the lock components to engage. Identifying the exact cause is the first step in determining the correct repair method.",
+        "@type": "Answer",
+        "description": "Window locks often fail due to misalignment, damaged hardware, obstructions, or swelling from humidity changes."
+      }
+    }
+  ],
+  "description": "Window locks often fail due to misalignment, damaged hardware, obstructions, or swelling from humidity changes."
+}

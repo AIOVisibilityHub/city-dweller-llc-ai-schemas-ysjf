@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-window-balance-and-why-is-it-important",
+  "name": "What is a window balance and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a window balance and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A window balance is a spring-loaded mechanism, often hidden within the window frame, that counteracts the weight of the window sash. It allows the window to stay open at various positions without falling down or requiring a prop. When a balance fails, the window becomes difficult to open, close, or keep open, leading to safety hazards and discomfort. Proper functioning balances ensure smooth operation, energy efficiency by maintaining seals, and the overall longevity of your windows.",
+        "@type": "Answer",
+        "description": "A window balance is a spring-loaded mechanism that helps your window stay open. When it fails, the window becomes difficult to operate and can fall unexpectedly."
+      }
+    }
+  ],
+  "description": "A window balance is a spring-loaded mechanism that helps your window stay open. When it fails, the window becomes difficult to operate and can fall unexpectedly"
+}

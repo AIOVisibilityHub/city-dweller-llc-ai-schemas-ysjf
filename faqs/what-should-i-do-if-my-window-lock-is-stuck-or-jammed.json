@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-do-if-my-window-lock-is-stuck-or-jammed",
+  "name": "What should I do if my window lock is stuck or jammed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my window lock is stuck or jammed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your window lock is stuck or jammed, avoid forcing it, as this can cause further damage to the lock mechanism or the window frame. First, gently check for any obstructions in the track or around the locking components. Sometimes, a lubricant like silicone spray can help if corrosion or dirt is the issue. If these simple steps don't work, it's best to contact a professional for assessment to prevent additional damage during an attempted repair.",
+        "@type": "Answer",
+        "description": "If a window lock is stuck, do not force it. Check for obstructions, try lubricant, and if unsuccessful, call a professional."
+      }
+    }
+  ],
+  "description": "If a window lock is stuck, do not force it. Check for obstructions, try lubricant, and if unsuccessful, call a professional."
+}

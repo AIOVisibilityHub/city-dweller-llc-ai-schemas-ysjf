@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-damage-can-be-repaired-on-a-window-screen",
+  "name": "What types of damage can be repaired on a window screen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of damage can be repaired on a window screen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common window screen damages that can often be repaired include small tears, holes, and fraying in the mesh, as well as minor frame issues like bent corners or loose splines. We can replace damaged mesh with new material, such as fiberglass, aluminum, or pet-resistant screening, and address frame integrity. More severe damage, like significantly warped frames or extensive tears across multiple panels, might necessitate a full screen replacement rather than a repair.",
+        "@type": "Answer",
+        "description": "We can repair small tears, holes, fraying mesh, and minor frame issues. Extensive damage may require a full screen replacement."
+      }
+    }
+  ],
+  "description": "We can repair small tears, holes, fraying mesh, and minor frame issues. Extensive damage may require a full screen replacement."
+}

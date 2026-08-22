@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-fix-a-stiff-window-myself-or-do-i-need-a-professional",
+  "name": "Can I fix a stiff window myself, or do I need a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I fix a stiff window myself, or do I need a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can often address simple issues yourself, like thoroughly cleaning tracks and lubricating moving parts with a silicone-based spray. Check for obvious obstructions. However, if the problem persists, or if it involves broken hardware, warped frames, or complex internal mechanisms, it's generally best to consult a professional. Professionals have the tools, expertise, and replacement parts to ensure a proper and lasting repair without causing further damage.",
+        "@type": "Answer",
+        "description": "Simple issues like dirty tracks can be DIY fixed. For persistent problems, broken hardware, or warped frames, a professional is recommended to avoid further damage."
+      }
+    }
+  ],
+  "description": "Simple issues like dirty tracks can be DIY fixed. For persistent problems, broken hardware, or warped frames, a professional is recommended to avoid further dam"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-there-preventative-measures-i-can-take-to-avoid-windows-sticking",
+  "name": "Are there preventative measures I can take to avoid windows sticking?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there preventative measures I can take to avoid windows sticking?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular maintenance can significantly reduce the likelihood of windows sticking. This includes routinely cleaning tracks and frames to remove dirt, dust, and debris. For wood windows, ensuring they are properly sealed and painted can prevent moisture absorption and swelling. Lubricating moving parts with appropriate, non-greasy lubricants (like silicone spray for vinyl or metal) also helps maintain smooth operation. Addressing minor issues promptly can prevent them from escalating.",
+        "@type": "Answer",
+        "description": "Regularly clean tracks, seal and paint wood windows to prevent swelling, and lubricate moving parts with appropriate sprays to prevent sticking."
+      }
+    }
+  ],
+  "description": "Regularly clean tracks, seal and paint wood windows to prevent swelling, and lubricate moving parts with appropriate sprays to prevent sticking."
+}

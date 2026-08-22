@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-repair-or-replace-my-bay-window",
+  "name": "Should I repair or replace my bay window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my bay window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace depends on several factors. Repair is often suitable for localized issues like drafts, minor wood rot, or failed seals in individual glass panes. However, if the frame structure is compromised, extensive rot is present, multiple glass units have failed, or you're seeking significant energy efficiency upgrades, replacement might be more cost-effective in the long run. We can help assess the condition and advise on the best solution.",
+        "@type": "Answer",
+        "description": "Repair is suitable for minor, localized issues. Replacement is better for extensive damage, structural problems, or when seeking major energy efficiency improvements."
+      }
+    }
+  ],
+  "description": "Repair is suitable for minor, localized issues. Replacement is better for extensive damage, structural problems, or when seeking major energy efficiency improve"
+}

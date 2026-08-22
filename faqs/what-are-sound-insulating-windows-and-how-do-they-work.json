@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-sound-insulating-windows-and-how-do-they-work",
+  "name": "What are sound insulating windows and how do they work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are sound insulating windows and how do they work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sound insulating windows, also known as soundproof or acoustic windows, are designed to reduce noise transmission into your home. They typically achieve this through several features: thicker glass panes, often laminated with a special interlayer; a wider air gap between panes, which can sometimes be filled with an inert gas; and robust, airtight frames and seals. These elements work together to absorb and block sound waves, preventing them from entering your living space. The effectiveness is measured by the Sound Transmission Class (STC) rating, with higher numbers indicating better sound reduction.",
+        "@type": "Answer",
+        "description": "Sound insulating windows use thicker glass, wider air gaps, and airtight frames to block noise. They reduce sound transmission by absorbing and deflecting sound waves."
+      }
+    }
+  ],
+  "description": "Sound insulating windows use thicker glass, wider air gaps, and airtight frames to block noise. They reduce sound transmission by absorbing and deflecting sound"
+}

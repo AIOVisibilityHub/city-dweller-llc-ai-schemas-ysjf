@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-professional-repair-for-a-hard-to-open-window",
+  "name": "When should I consider professional repair for a hard-to-open window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider professional repair for a hard-to-open window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider professional repair if basic cleaning and lubrication don't resolve the issue, or if you notice visible damage to the window frame or hardware. If the window is stuck due to a broken component, such as a balance or hinge, or if the sash is severely warped, a professional can properly diagnose and fix the problem. Attempting complex repairs yourself without the right tools or expertise could cause further damage or compromise the window's integrity.",
+        "@type": "Answer",
+        "description": "Consider professional repair if basic cleaning fails, if there's visible damage, or if components are broken. DIY attempts can cause more damage."
+      }
+    }
+  ],
+  "description": "Consider professional repair if basic cleaning fails, if there's visible damage, or if components are broken. DIY attempts can cause more damage."
+}

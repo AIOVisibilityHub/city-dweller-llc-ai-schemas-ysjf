@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-repair-a-window-screen",
+  "name": "How long does it take to repair a window screen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a window screen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard window screen repairs, such as replacing the mesh for a single screen, can often be completed within 30-60 minutes per screen on-site, depending on the complexity and our current schedule. For multiple screens or more intricate frame repairs, the timeframe will be longer. We strive to complete repairs efficiently while maintaining high quality. We will provide an estimated completion time when scheduling your service.",
+        "@type": "Answer",
+        "description": "Most standard mesh replacements take 30-60 minutes per screen. Time varies for multiple screens or complex repairs."
+      }
+    }
+  ],
+  "description": "Most standard mesh replacements take 30-60 minutes per screen. Time varies for multiple screens or complex repairs."
+}

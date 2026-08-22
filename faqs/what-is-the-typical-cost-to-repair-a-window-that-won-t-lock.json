@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-to-repair-a-window-that-won-t-lock",
+  "name": "What is the typical cost to repair a window that won't lock?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to repair a window that won't lock?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a window that won't lock varies depending on the underlying issue and the type of window. Simple fixes like adjusting the sash or clearing an obstruction might be less expensive than replacing a broken lock mechanism or repairing significant frame damage. We offer free consultations to accurately assess the problem and provide a detailed, transparent estimate before any work begins. Get in touch for a precise quote.",
+        "@type": "Answer",
+        "description": "Repair costs depend on the issue, ranging from minor adjustments to hardware replacement. We provide free consultations for accurate estimates."
+      }
+    }
+  ],
+  "description": "Repair costs depend on the issue, ranging from minor adjustments to hardware replacement. We provide free consultations for accurate estimates."
+}

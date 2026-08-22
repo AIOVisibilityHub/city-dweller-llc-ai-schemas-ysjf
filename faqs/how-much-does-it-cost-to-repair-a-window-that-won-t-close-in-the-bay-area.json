@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-repair-a-window-that-won-t-close-in-the-bay-area",
+  "name": "How much does it cost to repair a window that won't close in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair a window that won't close in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of repairing a window that won't close in the Bay Area varies widely based on the specific problem and the type of window. Simple repairs, like clearing an obstruction or replacing a small component, might range from $100 to $300. More complex issues, such as replacing a broken balance system or repairing a warped frame, could cost $300 to $700 or more. These figures generally include labor and parts. Given the higher cost of living and labor in the Bay Area, prices can be on the higher end of national averages. Getting a detailed quote from a local contractor is recommended.",
+        "@type": "Answer",
+        "description": "Repair costs in the Bay Area vary from $100 for minor fixes to $700+ for complex issues, depending on the problem and window type. Local quotes are essential."
+      }
+    }
+  ],
+  "description": "Repair costs in the Bay Area vary from $100 for minor fixes to $700+ for complex issues, depending on the problem and window type. Local quotes are essential."
+}

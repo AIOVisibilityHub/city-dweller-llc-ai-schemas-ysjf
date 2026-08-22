@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-signs-that-my-window-operator-needs-repair",
+  "name": "What are common signs that my window operator needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my window operator needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs indicating your window operator needs repair include difficulty opening or closing the window, grinding noises when operating, a stripped crank, or the window not staying in its open position. You might also notice the crank spinning freely without engaging the window, or the window sash drooping. Addressing these issues early can prevent further damage to the window frame or glass, which could lead to more costly repairs.",
+        "@type": "Answer",
+        "description": "Difficulty opening or closing, grinding noises, a stripped crank, or the window not staying open are common signs your window operator needs repair."
+      }
+    }
+  ],
+  "description": "Difficulty opening or closing, grinding noises, a stripped crank, or the window not staying open are common signs your window operator needs repair."
+}

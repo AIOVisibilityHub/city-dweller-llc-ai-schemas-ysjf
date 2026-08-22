@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-permits-for-privacy-glass-installation-in-the-bay-area",
+  "name": "Do I need permits for privacy glass installation in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for privacy glass installation in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most standard privacy glass installations where existing window panes are replaced with similar types (e.g., swapping clear glass for frosted glass) or where films are applied, permits are typically not required. However, if the project involves structural changes to the window openings, altering the size or type of windows in a way that impacts the building's envelope, or any electrical work for smart glass, a permit might be necessary. We will assess your specific project and advise you on any potential permitting requirements with local authorities in your Bay Area city.",
+        "@type": "Answer",
+        "description": "Permits are usually not needed for basic privacy glass replacement or film application. However, structural changes, significant window alterations, or electrical work for smart glass may require permits. We will advise you on specific requirements."
+      }
+    }
+  ],
+  "description": "Permits are usually not needed for basic privacy glass replacement or film application. However, structural changes, significant window alterations, or electric"
+}

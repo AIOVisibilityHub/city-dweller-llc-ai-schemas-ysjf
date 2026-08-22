@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-hard-to-open-window-repair-take",
+  "name": "How long does a typical hard-to-open window repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical hard-to-open window repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a hard-to-open window repair depends on the complexity of the problem. Simple repairs like cleaning and lubricating tracks might take less than an hour per window. More involved repairs, such as replacing sash balances, repairing significant frame damage, or addressing multiple issues on several windows, could take several hours or even require a return visit if special parts need to be ordered. We aim to complete repairs efficiently while ensuring quality workmanship.",
+        "@type": "Answer",
+        "description": "Repair time varies; simple fixes take under an hour, while complex issues or multiple windows may take several hours or require parts to be ordered."
+      }
+    }
+  ],
+  "description": "Repair time varies; simple fixes take under an hour, while complex issues or multiple windows may take several hours or require parts to be ordered."
+}

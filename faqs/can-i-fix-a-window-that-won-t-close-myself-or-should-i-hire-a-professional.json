@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-fix-a-window-that-won-t-close-myself-or-should-i-hire-a-professional",
+  "name": "Can I fix a window that won't close myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I fix a window that won't close myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor issues like a simple obstruction in the tracks or a loose screw on a latch might be fixable by a homeowner with basic tools and some DIY knowledge. However, if the problem involves complex hardware, a warped frame, or potential structural damage, it's generally best to hire a professional. Incorrect repairs can worsen the problem, cause further damage, or compromise the window's security and energy efficiency. Professionals have the right tools, experience, and parts to diagnose and repair windows safely and effectively, ensuring a lasting solution.",
+        "@type": "Answer",
+        "description": "Simple issues might be DIY-friendly, but for complex hardware, warped frames, or structural damage, hiring a professional is safer and more effective."
+      }
+    }
+  ],
+  "description": "Simple issues might be DIY-friendly, but for complex hardware, warped frames, or structural damage, hiring a professional is safer and more effective."
+}

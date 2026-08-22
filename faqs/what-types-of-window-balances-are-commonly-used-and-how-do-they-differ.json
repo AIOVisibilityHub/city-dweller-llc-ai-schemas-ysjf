@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-window-balances-are-commonly-used-and-how-do-they-differ",
+  "name": "What types of window balances are commonly used, and how do they differ?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of window balances are commonly used, and how do they differ?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common window balance types include coil balances, which use a coiled spring to provide tension; channel balances, which are enclosed in a metal channel; and spiral balances, characterized by a spiral rod inside a tube. Each type is designed for specific window styles and weights. Coil balances are often found in modern windows, while channel and spiral balances are common in older double-hung windows. Identifying the correct type is crucial for proper replacement and window function.",
+        "@type": "Answer",
+        "description": "Common types are coil, channel, and spiral balances, each designed for specific window styles and weights. Identifying the correct type is key for proper repair."
+      }
+    }
+  ],
+  "description": "Common types are coil, channel, and spiral balances, each designed for specific window styles and weights. Identifying the correct type is key for proper repair"
+}

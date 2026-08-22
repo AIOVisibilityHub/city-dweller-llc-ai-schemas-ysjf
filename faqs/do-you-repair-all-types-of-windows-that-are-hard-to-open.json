@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-you-repair-all-types-of-windows-that-are-hard-to-open",
+  "name": "Do you repair all types of windows that are hard to open?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you repair all types of windows that are hard to open?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we have experience repairing various types of windows that are difficult to open, including single-hung, double-hung, casement, slider, and picture windows. Our team is equipped to diagnose and address issues across different frame materials like wood, vinyl, and aluminum. Whether the problem is with balances, hinges, tracks, or frames, we strive to provide comprehensive repair solutions for residential properties in the Bay Area and surrounding communities.",
+        "@type": "Answer",
+        "description": "Yes, we repair most window types—single-hung, double-hung, casement, slider—and frame materials, addressing issues with balances, hinges, tracks, or frames in the Bay Area."
+      }
+    }
+  ],
+  "description": "Yes, we repair most window types—single-hung, double-hung, casement, slider—and frame materials, addressing issues with balances, hinges, tracks, or frames in t"
+}

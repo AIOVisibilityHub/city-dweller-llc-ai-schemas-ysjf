@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-windows-can-city-dweller-llc-repair-in-the-bay-area",
+  "name": "What types of windows can City Dweller, LLC repair in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of windows can City Dweller, LLC repair in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC has expertise in repairing locking mechanisms for a wide variety of window types common in the Bay Area. This includes single-hung, double-hung, casement, sliding, and awning windows, regardless of whether they are made from vinyl, wood, or aluminum. Our technicians are trained to handle diverse locking hardware to restore security and functionality to your home's windows.",
+        "@type": "Answer",
+        "description": "City Dweller, LLC repairs locking mechanisms for various window types in the Bay Area, including single-hung, casement, and sliding windows made of vinyl, wood, or aluminum."
+      }
+    }
+  ],
+  "description": "City Dweller, LLC repairs locking mechanisms for various window types in the Bay Area, including single-hung, casement, and sliding windows made of vinyl, wood,"
+}

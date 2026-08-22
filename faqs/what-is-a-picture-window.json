@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-picture-window",
+  "name": "What is a picture window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a picture window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A picture window is a large, fixed pane of glass that does not open. Its primary purpose is to provide an unobstructed view and maximize natural light entry into a room. These windows are often chosen for their aesthetic appeal, creating a connection to the outdoors and enhancing the visual spaciousness of an interior. They are a popular choice in living rooms, dining areas, and bedrooms where ventilation is not a priority for that specific window opening.",
+        "@type": "Answer",
+        "description": "A picture window is a large, fixed pane of glass designed to offer expansive views and maximize natural light without opening."
+      }
+    }
+  ],
+  "description": "A picture window is a large, fixed pane of glass designed to offer expansive views and maximize natural light without opening."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-replace-a-window-damaged-by-water",
+  "name": "How much does it cost to replace a window damaged by water?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to replace a window damaged by water?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to replace a water-damaged window varies significantly based on the extent of the damage, the size and type of the new window, and any necessary structural repairs. Minor damage requiring only a window replacement might be less, but extensive water damage often necessitates repair of framing, drywall, or stucco, which adds to the overall cost. A professional assessment provides the most accurate estimate tailored to your specific situation.",
+        "@type": "Answer",
+        "description": "Costs vary based on damage extent, new window type, and necessary structural repairs. A professional assessment provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Costs vary based on damage extent, new window type, and necessary structural repairs. A professional assessment provides an accurate estimate."
+}

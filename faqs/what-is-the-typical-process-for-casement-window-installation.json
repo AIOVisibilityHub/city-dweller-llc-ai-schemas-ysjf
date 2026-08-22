@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-casement-window-installation",
+  "name": "What is the typical process for casement window installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for casement window installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process typically begins with a consultation and measurement. Once windows are ordered and delivered, the existing windows are carefully removed. The new casement windows are then fitted, leveled, and secured into the opening. The perimeter is sealed and insulated, and interior and exterior trim are installed to finish the job. The entire process is designed to minimize disruption to your home.",
+        "@type": "Answer",
+        "description": "The process involves consultation, measurement, removal of old windows, installation and sealing of new casement windows, and finishing trim."
+      }
+    }
+  ],
+  "description": "The process involves consultation, measurement, removal of old windows, installation and sealing of new casement windows, and finishing trim."
+}

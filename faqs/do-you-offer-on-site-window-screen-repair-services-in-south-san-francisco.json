@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-you-offer-on-site-window-screen-repair-services-in-south-san-francisco",
+  "name": "Do you offer on-site window screen repair services in South San Francisco?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer on-site window screen repair services in South San Francisco?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we offer convenient on-site window screen repair services in South San Francisco and other listed Bay Area communities like San Bruno and Colma. Our mobile repair unit can come to your location, assess the damage, and often complete repairs without needing to take your screens off-site. This minimizes disruption and allows for faster service, getting your screens back in working order quickly.",
+        "@type": "Answer",
+        "description": "Yes, we provide on-site window screen repair services in South San Francisco and surrounding areas for convenience."
+      }
+    }
+  ],
+  "description": "Yes, we provide on-site window screen repair services in South San Francisco and surrounding areas for convenience."
+}

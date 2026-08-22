@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-repairing-and-replacing-a-hard-to-open-window",
+  "name": "What's the difference between repairing and replacing a hard-to-open window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between repairing and replacing a hard-to-open window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a hard-to-open window focuses on fixing the specific component causing the issue, such as cleaning tracks, replacing balances, or adjusting hardware. This is often a cost-effective solution if the frame is in good condition and only minor parts are failing. Replacing a window involves removing the entire old unit and installing a new one. Replacement is typically considered when the window is severely damaged, outdated, energy inefficient, or multiple components are failing, making repair impractical or more expensive than a new unit.",
+        "@type": "Answer",
+        "description": "Repair fixes specific components like tracks or balances, suitable for minor issues. Replacement is for severely damaged, outdated, or energy-inefficient windows when repair is impractical."
+      }
+    }
+  ],
+  "description": "Repair fixes specific components like tracks or balances, suitable for minor issues. Replacement is for severely damaged, outdated, or energy-inefficient window"
+}

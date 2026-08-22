@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-repair-or-replace-my-entire-window-if-the-operator-is-broken",
+  "name": "Should I repair or replace my entire window if the operator is broken?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my entire window if the operator is broken?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to repair the operator or replace the entire window depends on several factors. If only the operator mechanism is faulty and the window frame, sash, and glass are in good condition, a repair is usually the more cost-effective option. However, if the window is old, inefficient, or has significant damage beyond the operator, replacing the entire window might offer better long-term benefits in terms of energy efficiency and overall home value. Our experts can help you make an informed decision.",
+        "@type": "Answer",
+        "description": "Repair if only the operator is faulty and the window is otherwise sound. Replace if the window is old, inefficient, or has extensive damage."
+      }
+    }
+  ],
+  "description": "Repair if only the operator is faulty and the window is otherwise sound. Replace if the window is old, inefficient, or has extensive damage."
+}

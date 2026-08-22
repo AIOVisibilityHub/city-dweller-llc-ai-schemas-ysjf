@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-prevent-my-windows-from-becoming-hard-to-open-again",
+  "name": "How can I prevent my windows from becoming hard to open again?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent my windows from becoming hard to open again?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular maintenance is key to preventing windows from sticking. Periodically clean window tracks and frames to remove dirt, dust, and debris. Use a silicone-based lubricant on moving parts and tracks to reduce friction. Inspect hardware for wear and tear, and address minor issues promptly. For wooden windows, ensure they are properly sealed and painted to prevent moisture absorption and swelling. Proper ventilation can also help control humidity levels around windows.",
+        "@type": "Answer",
+        "description": "Prevent sticking by regularly cleaning and lubricating tracks. Inspect hardware, seal wooden frames, and ensure proper ventilation to control humidity."
+      }
+    }
+  ],
+  "description": "Prevent sticking by regularly cleaning and lubricating tracks. Inspect hardware, seal wooden frames, and ensure proper ventilation to control humidity."
+}

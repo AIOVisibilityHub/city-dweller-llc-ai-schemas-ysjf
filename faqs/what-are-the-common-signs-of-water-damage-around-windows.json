@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-signs-of-water-damage-around-windows",
+  "name": "What are the common signs of water damage around windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of water damage around windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of water damage around windows include discoloration or staining on walls, peeling paint or wallpaper, soft or crumbling drywall, and a musty odor. You might also notice visible mold growth, warped window frames, or condensation between glass panes. Ignoring these signs can lead to structural damage and further problems, making timely inspection crucial.",
+        "@type": "Answer",
+        "description": "Look for discoloration, peeling paint, soft drywall, musty odors, or warped frames around your windows. These indicate potential water damage."
+      }
+    }
+  ],
+  "description": "Look for discoloration, peeling paint, soft drywall, musty odors, or warped frames around your windows. These indicate potential water damage."
+}

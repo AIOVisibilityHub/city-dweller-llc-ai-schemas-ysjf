@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-my-picture-window",
+  "name": "When should I consider replacing my picture window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my picture window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your picture window if you notice signs of wear, such as persistent drafts, condensation between the glass panes, difficulty cleaning due to fogginess, or visible damage to the frame. Rising energy bills can also indicate poor insulation from an old window. Furthermore, if you're undertaking a home renovation or simply want to improve your home's appearance and energy efficiency, it's an ideal time to replace your picture window.",
+        "@type": "Answer",
+        "description": "Consider replacement if you notice drafts, condensation, damage, rising energy bills, or during home renovations for improved efficiency and appearance."
+      }
+    }
+  ],
+  "description": "Consider replacement if you notice drafts, condensation, damage, rising energy bills, or during home renovations for improved efficiency and appearance."
+}

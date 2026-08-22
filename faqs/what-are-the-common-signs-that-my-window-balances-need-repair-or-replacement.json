@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-signs-that-my-window-balances-need-repair-or-replacement",
+  "name": "What are the common signs that my window balances need repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that my window balances need repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs include difficulty opening or closing the window, the window sash not staying up when opened, or the window falling shut unexpectedly. You might also notice a grinding noise or feel excessive resistance when trying to operate the window. If the window feels loose or wobbly when moving, or if there's visible damage to the balance mechanism, it's likely time for a repair or replacement. Addressing these issues promptly prevents further damage and restores window functionality.",
+        "@type": "Answer",
+        "description": "Signs include difficulty opening/closing, the window not staying open, or falling shut. Grinding noises or visible damage also indicate a need for repair."
+      }
+    }
+  ],
+  "description": "Signs include difficulty opening/closing, the window not staying open, or falling shut. Grinding noises or visible damage also indicate a need for repair."
+}

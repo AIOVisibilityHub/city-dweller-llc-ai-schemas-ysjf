@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-a-crank-operator-and-a-cam-lock-on-a-window",
+  "name": "What is the difference between a crank operator and a cam lock on a window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a crank operator and a cam lock on a window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A crank operator is a mechanical device, typically found on casement and awning windows, that uses a handle to turn a gear mechanism, pushing or pulling the window sash open and closed. A cam lock, on the other hand, is a latching mechanism primarily used to secure a window in its closed position, pulling the sashes tightly together to create a seal and enhance security. While both relate to window function, their roles are distinct: one opens and closes, the other secures.",
+        "@type": "Answer",
+        "description": "A crank operator opens and closes the window using a handle and gears, while a cam lock is a latching mechanism that secures the window in its closed position."
+      }
+    }
+  ],
+  "description": "A crank operator opens and closes the window using a handle and gears, while a cam lock is a latching mechanism that secures the window in its closed position."
+}

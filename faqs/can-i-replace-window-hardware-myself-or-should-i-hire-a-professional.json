@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-replace-window-hardware-myself-or-should-i-hire-a-professional",
+  "name": "Can I replace window hardware myself or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace window hardware myself or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While some basic hardware replacements, like a simple latch, might be manageable for a skilled DIY enthusiast, many components, such as window balances or complex operators, require specialized tools and expertise. Improper installation can lead to further damage, compromised security, or reduced energy efficiency. Hiring a professional ensures correct part identification, proper installation, and adjustments, which often come with a warranty for both parts and labor, saving you potential headaches and costs in the long run.",
+        "@type": "Answer",
+        "description": "Simple hardware might be DIY, but complex parts require professional tools and expertise. Hiring a professional ensures correct installation and often includes a warranty."
+      }
+    }
+  ],
+  "description": "Simple hardware might be DIY, but complex parts require professional tools and expertise. Hiring a professional ensures correct installation and often includes"
+}

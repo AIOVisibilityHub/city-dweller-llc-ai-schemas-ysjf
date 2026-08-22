@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-a-broken-window-lock-myself-or-do-i-need-a-professional",
+  "name": "Can I repair a broken window lock myself, or do I need a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair a broken window lock myself, or do I need a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor adjustments like tightening screws or clearing debris might be manageable for a homeowner, more complex issues often require professional expertise. Attempting to repair a damaged locking mechanism without the right tools or knowledge can lead to further damage or an ineffective repair. A professional can quickly diagnose the problem, ensure a secure fix, and often has access to specific replacement parts, saving you time and potential frustration.",
+        "@type": "Answer",
+        "description": "Minor issues can be DIY, but complex repairs often require a professional to ensure a secure fix and prevent further damage."
+      }
+    }
+  ],
+  "description": "Minor issues can be DIY, but complex repairs often require a professional to ensure a secure fix and prevent further damage."
+}

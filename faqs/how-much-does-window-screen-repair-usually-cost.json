@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-window-screen-repair-usually-cost",
+  "name": "How much does window screen repair usually cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does window screen repair usually cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of window screen repair varies depending on the size of the screen, the type of mesh material chosen (e.g., standard fiberglass, pet-resistant, solar), and the extent of the damage to the frame. Simple mesh replacement for a standard-sized window typically costs less than repairing a custom-sized or oddly shaped screen. We provide detailed estimates after assessing your specific repair needs, ensuring transparency before any work begins.",
+        "@type": "Answer",
+        "description": "Cost depends on screen size, mesh material, and damage extent. We provide estimates after assessment."
+      }
+    }
+  ],
+  "description": "Cost depends on screen size, mesh material, and damage extent. We provide estimates after assessment."
+}

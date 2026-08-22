@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-window-screen-repair",
+  "name": "What is the typical process for window screen repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for window screen repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our window screen repair process usually begins with an assessment of the damage to determine if repair or replacement is most suitable. For repairs, we carefully remove the damaged screen mesh from its frame. We then cut and install new screening material, securing it with a new spline. The repaired screen is then reinstalled in your window. For mobile services in our Bay Area service areas like Pacifica or Daly City, we can often complete repairs on-site.",
+        "@type": "Answer",
+        "description": "The process involves assessing damage, removing old mesh, installing new screening and spline, then reinstalling the screen. On-site repairs are often available."
+      }
+    }
+  ],
+  "description": "The process involves assessing damage, removing old mesh, installing new screening and spline, then reinstalling the screen. On-site repairs are often available"
+}

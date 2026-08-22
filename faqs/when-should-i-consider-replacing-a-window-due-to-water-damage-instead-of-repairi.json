@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-a-window-due-to-water-damage-instead-of-repairi",
+  "name": "When should I consider replacing a window due to water damage instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing a window due to water damage instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window replacement is often necessary when water damage is extensive, affecting the structural integrity of the frame, sill, or surrounding wall. If there's persistent mold, significant wood rot, or if the window unit itself is compromised beyond simple seal repair, replacement is usually the more cost-effective and long-lasting solution. Minor issues like a small leak from a failing seal might be repairable, but major damage warrants a full replacement to prevent recurrence.",
+        "@type": "Answer",
+        "description": "Replace windows when water damage is extensive, causing structural issues, persistent mold, or significant wood rot. Minor leaks might be repairable."
+      }
+    }
+  ],
+  "description": "Replace windows when water damage is extensive, causing structural issues, persistent mold, or significant wood rot. Minor leaks might be repairable."
+}

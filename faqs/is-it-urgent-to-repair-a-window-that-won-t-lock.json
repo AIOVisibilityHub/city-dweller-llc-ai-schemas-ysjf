@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/is-it-urgent-to-repair-a-window-that-won-t-lock",
+  "name": "Is it urgent to repair a window that won't lock?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it urgent to repair a window that won't lock?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is urgent to repair a window that won't lock. An unsecured window poses a significant security risk, making your home vulnerable to intruders. It also compromises your home's energy efficiency, leading to higher utility bills due to drafts. Prompt repair ensures your safety, protects your property, and maintains comfortable indoor temperatures. We recommend addressing this issue as soon as possible.",
+        "@type": "Answer",
+        "description": "Repairing an unlocked window is urgent due to security risks and compromised energy efficiency."
+      }
+    }
+  ],
+  "description": "Repairing an unlocked window is urgent due to security risks and compromised energy efficiency."
+}

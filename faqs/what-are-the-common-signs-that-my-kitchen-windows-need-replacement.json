@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-signs-that-my-kitchen-windows-need-replacement",
+  "name": "What are the common signs that my kitchen windows need replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that my kitchen windows need replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs your kitchen windows may need replacement include noticeable drafts, difficulty opening or closing them, condensation between glass panes, or visible damage like rot or cracks in the frames. If your energy bills have increased significantly, inefficient windows could be a contributing factor. Replacing old or damaged windows can improve energy efficiency, enhance home comfort, and update your kitchen's appearance. Consider replacement if windows are past their typical lifespan of 15-20 years for double-pane units.",
+        "@type": "Answer",
+        "description": "Signs include drafts, difficulty operating, condensation between panes, visible damage, or rising energy bills."
+      }
+    }
+  ],
+  "description": "Signs include drafts, difficulty operating, condensation between panes, visible damage, or rising energy bills."
+}

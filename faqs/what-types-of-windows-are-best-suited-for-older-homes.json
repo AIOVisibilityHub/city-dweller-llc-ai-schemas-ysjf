@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-windows-are-best-suited-for-older-homes",
+  "name": "What types of windows are best suited for older homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of windows are best suited for older homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For older homes, options like double-hung windows are popular as they maintain a classic aesthetic while offering modern efficiency. Casement windows provide excellent ventilation and energy performance. Consider materials like vinyl for low maintenance and good insulation, or fiberglass for durability and stability in various climates. Wood windows offer an authentic look but require more upkeep. The best choice often balances historical accuracy with energy efficiency and maintenance preferences.",
+        "@type": "Answer",
+        "description": "Double-hung and casement windows are popular. Materials like vinyl or fiberglass offer good efficiency, while wood maintains historical accuracy but requires more upkeep."
+      }
+    }
+  ],
+  "description": "Double-hung and casement windows are popular. Materials like vinyl or fiberglass offer good efficiency, while wood maintains historical accuracy but requires mo"
+}

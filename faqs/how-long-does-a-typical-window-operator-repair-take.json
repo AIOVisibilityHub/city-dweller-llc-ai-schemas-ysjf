@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-window-operator-repair-take",
+  "name": "How long does a typical window operator repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical window operator repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard window operator repairs can be completed within a few hours, often in a single visit, depending on the complexity of the issue and the availability of specific replacement parts. For more unusual window types or severe damage, it might take longer if custom parts need to be ordered. Our team aims to minimize disruption and complete repairs efficiently, restoring your window's functionality as quickly as possible.",
+        "@type": "Answer",
+        "description": "Most repairs take a few hours and can often be completed in one visit. More complex issues or custom parts may extend the repair time."
+      }
+    }
+  ],
+  "description": "Most repairs take a few hours and can often be completed in one visit. More complex issues or custom parts may extend the repair time."
+}

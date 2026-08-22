@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-repairing-a-bay-window",
+  "name": "What is the process for repairing a bay window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a bay window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically begins with an inspection to identify the root cause and extent of the damage. This determines whether components like sashes, glass, or structural elements need repair or replacement. Our team will then provide a detailed proposal. Once approved, necessary materials are sourced, and repairs are executed. This might involve replacing rotten wood, sealing leaks, repairing frames, or installing new insulated glass units. The area is cleaned upon completion.",
+        "@type": "Answer",
+        "description": "The process involves inspection, proposal, material sourcing, repair work (e.g., wood replacement, sealing, glass installation), and final cleanup."
+      }
+    }
+  ],
+  "description": "The process involves inspection, proposal, material sourcing, repair work (e.g., wood replacement, sealing, glass installation), and final cleanup."
+}

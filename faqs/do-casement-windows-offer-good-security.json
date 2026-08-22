@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-casement-windows-offer-good-security",
+  "name": "Do casement windows offer good security?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do casement windows offer good security?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, casement windows generally offer good security. Their design features a crank mechanism that makes them difficult to force open from the outside. Many modern casement windows also incorporate multi-point locking systems, which engage at several locations along the frame when the window is closed and locked. This enhances their resistance to forced entry, providing homeowners with added peace of mind.",
+        "@type": "Answer",
+        "description": "Casement windows offer good security due to their crank mechanism and often include multi-point locking systems, making them difficult to force open."
+      }
+    }
+  ],
+  "description": "Casement windows offer good security due to their crank mechanism and often include multi-point locking systems, making them difficult to force open."
+}

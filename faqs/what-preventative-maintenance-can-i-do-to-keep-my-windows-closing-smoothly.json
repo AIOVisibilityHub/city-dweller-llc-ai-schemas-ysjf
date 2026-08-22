@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-preventative-maintenance-can-i-do-to-keep-my-windows-closing-smoothly",
+  "name": "What preventative maintenance can I do to keep my windows closing smoothly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preventative maintenance can I do to keep my windows closing smoothly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular preventative maintenance can significantly extend the life of your windows and prevent closing issues. Annually, clean window tracks thoroughly of dirt, dust, and debris, then lubricate them with a silicone-based spray or dry lubricant (avoid oil-based products which attract dirt). Inspect hardware like latches, hinges, and balances for any signs of wear or looseness, tightening screws as needed. Check weather stripping for damage and replace it if it's cracked or missing. For wooden frames, ensure they are properly sealed and painted to prevent moisture damage and warping. These simple steps can help maintain smooth operation.",
+        "@type": "Answer",
+        "description": "Regularly clean and lubricate window tracks, inspect and tighten hardware, check weather stripping, and maintain wooden frames to prevent future closing issues."
+      }
+    }
+  ],
+  "description": "Regularly clean and lubricate window tracks, inspect and tighten hardware, check weather stripping, and maintain wooden frames to prevent future closing issues."
+}

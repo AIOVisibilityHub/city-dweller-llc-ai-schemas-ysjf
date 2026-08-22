@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-casement-window-and-why-should-i-consider-it-for-replacement",
+  "name": "What is a casement window and why should I consider it for replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a casement window and why should I consider it for replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A casement window is a window attached to its frame by one or more hinges at the side, allowing it to open outward like a door. They are known for providing excellent ventilation, as the entire sash opens to direct airflow into the home. Casement windows also offer superior energy efficiency due to a tight seal created when the sash presses against the frame, and a clear, unobstructed view without the interruption of a meeting rail.",
+        "@type": "Answer",
+        "description": "Casement windows are hinged at the side, opening outward for excellent ventilation, energy efficiency, and unobstructed views."
+      }
+    }
+  ],
+  "description": "Casement windows are hinged at the side, opening outward for excellent ventilation, energy efficiency, and unobstructed views."
+}

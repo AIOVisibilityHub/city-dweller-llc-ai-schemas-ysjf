@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-privacy-glass-are-available-for-residential-windows",
+  "name": "What types of privacy glass are available for residential windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of privacy glass are available for residential windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are several common types of privacy glass suitable for homes. Frosted glass uses an acid-etching or sandblasting process to create an opaque, diffused look. Tinted glass, often with a mirrored or dark finish, reduces visibility from the outside while allowing some light in. Smart glass, or switchable privacy glass, can change from transparent to opaque with an electrical current. Other options include decorative patterned glass or films that mimic these effects. The best choice depends on the desired aesthetic, level of privacy, and budget.",
+        "@type": "Answer",
+        "description": "Common types include frosted, tinted, and smart glass. Frosted glass offers diffused light, tinted glass reduces visibility, and smart glass changes transparency electronically."
+      }
+    }
+  ],
+  "description": "Common types include frosted, tinted, and smart glass. Frosted glass offers diffused light, tinted glass reduces visibility, and smart glass changes transparenc"
+}

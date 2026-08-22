@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-replacing-kitchen-windows",
+  "name": "What is the process for replacing kitchen windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing kitchen windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The kitchen window replacement process typically begins with an initial consultation and measurement, followed by ordering the new windows. Once windows arrive, the old windows are carefully removed, ensuring the opening is clean and prepared. The new windows are then installed, leveled, and securely fastened. After installation, insulation and sealing are applied around the frame to prevent drafts and ensure energy efficiency. Finally, interior and exterior trim work is completed. Most contractors also perform a final inspection to ensure proper function and finish.",
+        "@type": "Answer",
+        "description": "The process involves consultation, measurement, ordering, removal of old windows, installation of new ones, sealing, and finishing trim work."
+      }
+    }
+  ],
+  "description": "The process involves consultation, measurement, ordering, removal of old windows, installation of new ones, sealing, and finishing trim work."
+}

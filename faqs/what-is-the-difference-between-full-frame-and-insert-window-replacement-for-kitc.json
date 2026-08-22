@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-full-frame-and-insert-window-replacement-for-kitc",
+  "name": "What is the difference between full-frame and insert window replacement for kitchens?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between full-frame and insert window replacement for kitchens?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Full-frame replacement involves removing the entire existing window, including the frame, sashes, and trim, down to the rough opening. This is ideal if the old frame is damaged, rotten, or if you want to change the window size or style. Insert replacement, also known as 'pocket' replacement, involves installing a new window unit directly into the existing, sound frame. This method is generally quicker and less invasive but retains the original frame's dimensions. For kitchens, the choice depends on the condition of your existing frame and your desired changes.",
+        "@type": "Answer",
+        "description": "Full-frame replacement removes the entire window and frame, while insert replacement places a new window into the existing frame, each suited for different conditions."
+      }
+    }
+  ],
+  "description": "Full-frame replacement removes the entire window and frame, while insert replacement places a new window into the existing frame, each suited for different cond"
+}

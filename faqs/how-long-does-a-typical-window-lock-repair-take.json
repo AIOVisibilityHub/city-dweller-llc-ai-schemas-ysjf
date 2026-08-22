@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-window-lock-repair-take",
+  "name": "How long does a typical window lock repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical window lock repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard window lock repairs can be completed within one to two hours, provided the necessary parts are on hand. More complex repairs involving custom parts, significant frame adjustment, or multiple windows may take longer. Our technicians work efficiently to minimize disruption and restore your window's security as quickly as possible, aiming for same-day completion for most jobs.",
+        "@type": "Answer",
+        "description": "Most standard window lock repairs take 1-2 hours. Complex repairs or multiple windows may take longer."
+      }
+    }
+  ],
+  "description": "Most standard window lock repairs take 1-2 hours. Complex repairs or multiple windows may take longer."
+}

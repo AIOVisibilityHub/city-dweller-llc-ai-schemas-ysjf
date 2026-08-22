@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-replace-a-picture-window-in-the-bay-area",
+  "name": "How much does it cost to replace a picture window in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to replace a picture window in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to replace a picture window in the Bay Area varies significantly based on several factors. These include the window's size, the type of frame material (e.g., vinyl, fiberglass, wood), the glass options (e.g., double-pane, low-E, tempered), and the complexity of the installation. For an accurate estimate tailored to your specific needs and home, we recommend scheduling a consultation. Our team can assess your project and provide a detailed quote.",
+        "@type": "Answer",
+        "description": "Costs vary based on size, frame material, glass options, and installation complexity. Schedule a consultation for an accurate quote in the Bay Area."
+      }
+    }
+  ],
+  "description": "Costs vary based on size, frame material, glass options, and installation complexity. Schedule a consultation for an accurate quote in the Bay Area."
+}

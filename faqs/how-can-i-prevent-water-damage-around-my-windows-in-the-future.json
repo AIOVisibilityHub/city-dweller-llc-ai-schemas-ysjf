@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-prevent-water-damage-around-my-windows-in-the-future",
+  "name": "How can I prevent water damage around my windows in the future?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent water damage around my windows in the future?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing future water damage involves several key steps. Regularly inspect window caulking and seals, repairing any cracks or gaps promptly. Ensure gutters and downspouts are clean and direct water away from the foundation. Maintain proper exterior grading to prevent water from pooling near your home. Also, consider exterior treatments like proper overhangs or rainscreens, and address any roof or siding issues that might funnel water towards windows.",
+        "@type": "Answer",
+        "description": "Regularly inspect and repair caulking, ensure proper drainage from gutters, maintain exterior grading, and address any roof or siding issues."
+      }
+    }
+  ],
+  "description": "Regularly inspect and repair caulking, ensure proper drainage from gutters, maintain exterior grading, and address any roof or siding issues."
+}

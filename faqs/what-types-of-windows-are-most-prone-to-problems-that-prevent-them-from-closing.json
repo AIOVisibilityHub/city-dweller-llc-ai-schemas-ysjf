@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-windows-are-most-prone-to-problems-that-prevent-them-from-closing",
+  "name": "What types of windows are most prone to problems that prevent them from closing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of windows are most prone to problems that prevent them from closing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Certain window types can be more prone to specific closing issues. Double-hung and single-hung windows often experience problems with their balance systems (springs or cords) failing, which prevents the sash from staying up or closing properly. Casement and awning windows can suffer from hinge or crank mechanism failures, making them difficult to open and close securely. Sliding windows commonly face issues with worn rollers or obstructed tracks. Older wooden windows are also susceptible to warping and rot, which can severely impact their ability to close correctly, regardless of type.",
+        "@type": "Answer",
+        "description": "Double-hung and single-hung windows often have balance issues; casement/awning windows can have crank/hinge failures; sliding windows face roller/track problems. Older wooden windows are prone to warping."
+      }
+    }
+  ],
+  "description": "Double-hung and single-hung windows often have balance issues; casement/awning windows can have crank/hinge failures; sliding windows face roller/track problems"
+}

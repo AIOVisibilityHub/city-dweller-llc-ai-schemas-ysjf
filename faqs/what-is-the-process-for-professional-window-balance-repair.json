@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-professional-window-balance-repair",
+  "name": "What is the process for professional window balance repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for professional window balance repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The professional repair process typically begins with an inspection to identify the window balance type and diagnose the issue. The technician will then carefully remove the window sash, access the faulty balance mechanism, and replace it with a new, compatible part. After installation, the window sash is re-installed, and the window's operation is tested to ensure it opens, closes, and stays open smoothly and securely. Any necessary adjustments are made to optimize performance.",
+        "@type": "Answer",
+        "description": "The process involves inspection, sash removal, replacing the faulty balance, re-installing the sash, and testing for smooth operation. Adjustments are made as needed."
+      }
+    }
+  ],
+  "description": "The process involves inspection, sash removal, replacing the faulty balance, re-installing the sash, and testing for smooth operation. Adjustments are made as n"
+}

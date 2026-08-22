@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-fix-a-sticking-window-myself-or-should-i-hire-a-professional",
+  "name": "Can I fix a sticking window myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I fix a sticking window myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For minor issues like visible dirt in tracks or minor paint buildup, homeowners can often attempt DIY fixes by cleaning and lubricating. However, for persistent sticking, issues involving complex hardware (like spiral balances), extensive wood damage, or if you're unsure of the cause, hiring a professional is recommended. Professionals have the tools and expertise to correctly diagnose and repair problems safely, preventing further damage.",
+        "@type": "Answer",
+        "description": "DIY fixes are possible for minor issues like dirt or paint. For complex hardware problems, extensive damage, or if you're uncertain, hire a professional to ensure safe and effective repair."
+      }
+    }
+  ],
+  "description": "DIY fixes are possible for minor issues like dirt or paint. For complex hardware problems, extensive damage, or if you're uncertain, hire a professional to ensu"
+}

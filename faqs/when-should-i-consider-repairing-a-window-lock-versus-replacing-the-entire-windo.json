@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-repairing-a-window-lock-versus-replacing-the-entire-windo",
+  "name": "When should I consider repairing a window lock versus replacing the entire window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider repairing a window lock versus replacing the entire window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider repairing a window lock if the issue is isolated to the locking mechanism itself, the window frame and glass are in good condition, and the lock components are still available. Repair is often a more cost-effective solution. However, if the window frame is warped, the glass is cracked, or there are significant drafts, replacing the entire window might be a better long-term investment. A professional assessment can help determine the most appropriate action.",
+        "@type": "Answer",
+        "description": "Repair a window lock if only the mechanism is faulty and the window is otherwise sound. Consider replacement if there's wider damage to the frame or glass."
+      }
+    }
+  ],
+  "description": "Repair a window lock if only the mechanism is faulty and the window is otherwise sound. Consider replacement if there's wider damage to the frame or glass."
+}

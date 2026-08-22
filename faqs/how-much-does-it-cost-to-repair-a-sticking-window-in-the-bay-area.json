@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-repair-a-sticking-window-in-the-bay-area",
+  "name": "How much does it cost to repair a sticking window in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair a sticking window in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a sticking window in the Bay Area varies significantly based on the specific issue and the type of window. Simple repairs, like cleaning tracks or lubricating components, might be less expensive. More complex problems, such as replacing sash balances, repairing extensive wood rot, or addressing significant structural issues, will incur higher costs due to labor and materials. It's best to get a detailed quote after a professional assessment.",
+        "@type": "Answer",
+        "description": "Costs for sticking window repair in the Bay Area vary widely depending on the problem's complexity and window type. Simple fixes are less expensive than repairs involving significant parts replacement or wood rot."
+      }
+    }
+  ],
+  "description": "Costs for sticking window repair in the Bay Area vary widely depending on the problem's complexity and window type. Simple fixes are less expensive than repairs"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-a-broken-window-operator-affect-my-home-s-energy-efficiency-or-security",
+  "name": "Can a broken window operator affect my home's energy efficiency or security?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a broken window operator affect my home's energy efficiency or security?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a broken window operator can compromise both your home's energy efficiency and security. If the operator prevents the window from closing properly or sealing tightly, it can lead to drafts, heat loss in winter, and heat gain in summer, increasing energy bills. A window that cannot be securely latched or fully closed also poses a security risk, making your home more vulnerable. Repairing it promptly is important.",
+        "@type": "Answer",
+        "description": "Yes, a broken operator can impact energy efficiency by preventing a tight seal and can compromise home security if the window cannot close properly."
+      }
+    }
+  ],
+  "description": "Yes, a broken operator can impact energy efficiency by preventing a tight seal and can compromise home security if the window cannot close properly."
+}

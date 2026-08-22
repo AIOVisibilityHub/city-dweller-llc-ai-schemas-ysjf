@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-bay-window-damage-can-be-repaired",
+  "name": "What types of bay window damage can be repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of bay window damage can be repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many types of bay window damage can be repaired. This includes replacing rotten wood components like sills, sashes, or trim, repairing or replacing damaged glass panes (including insulated glass units with failed seals), fixing operational issues like sticky windows or broken locks, and resealing gaps to eliminate drafts and water leaks. Structural repairs to supports can also be undertaken if the damage is not too severe.",
+        "@type": "Answer",
+        "description": "Repairs can address rotten wood, damaged glass, operational issues (sticky windows, broken locks), leaks, drafts, and some structural damage."
+      }
+    }
+  ],
+  "description": "Repairs can address rotten wood, damaged glass, operational issues (sticky windows, broken locks), leaks, drafts, and some structural damage."
+}

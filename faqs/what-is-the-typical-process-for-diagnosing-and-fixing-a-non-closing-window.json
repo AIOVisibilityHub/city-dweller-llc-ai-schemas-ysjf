@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-diagnosing-and-fixing-a-non-closing-window",
+  "name": "What is the typical process for diagnosing and fixing a non-closing window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for diagnosing and fixing a non-closing window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically begins with a thorough inspection by a professional to identify the root cause. This involves checking the tracks for debris, examining hardware like balances, latches, and hinges for damage, and assessing the frame for warping or rot. Once diagnosed, the repair could involve cleaning tracks, lubricating moving parts, adjusting the window's alignment, or replacing faulty components. For more severe issues like a warped frame, structural adjustments or even partial frame replacement might be necessary. The goal is to restore smooth operation and a secure seal.",
+        "@type": "Answer",
+        "description": "The process involves inspection to diagnose the issue, then cleaning, lubricating, adjusting, or replacing faulty components. Severe issues may require structural adjustments."
+      }
+    }
+  ],
+  "description": "The process involves inspection to diagnose the issue, then cleaning, lubricating, adjusting, or replacing faulty components. Severe issues may require structur"
+}

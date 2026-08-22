@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-replacing-a-rotted-window-frame-also-fix-water-leaks",
+  "name": "Will replacing a rotted window frame also fix water leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will replacing a rotted window frame also fix water leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, replacing a window with a rotted frame, when done correctly, should resolve existing water leaks stemming from the window itself. The replacement process includes proper flashing, sealing, and caulking of the new window unit within the rough opening. This creates a watertight barrier, addressing the points where water previously entered and caused the rot.",
+        "@type": "Answer",
+        "description": "Yes, proper window replacement addresses water leaks by installing a watertight barrier with new flashing and seals."
+      }
+    }
+  ],
+  "description": "Yes, proper window replacement addresses water leaks by installing a watertight barrier with new flashing and seals."
+}

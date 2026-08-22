@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-replacing-a-water-damaged-window",
+  "name": "What is the process for replacing a water-damaged window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing a water-damaged window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with a thorough inspection to assess the extent of the water damage to the window and surrounding structure. Next, the old window and any damaged framing or wall materials are carefully removed. New framing or sheathing is installed if needed, followed by proper flashing and sealing to prevent future water intrusion. Finally, the new window unit is installed, insulated, and trimmed, ensuring a watertight and aesthetically pleasing finish.",
+        "@type": "Answer",
+        "description": "The process involves inspection, removal of the old window and damaged materials, repairing the framing, installing proper flashing, and then installing the new window."
+      }
+    }
+  ],
+  "description": "The process involves inspection, removal of the old window and damaged materials, repairing the framing, installing proper flashing, and then installing the new"
+}

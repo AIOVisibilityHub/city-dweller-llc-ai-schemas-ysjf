@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-bedroom-window-replacement-project-take",
+  "name": "How long does a typical bedroom window replacement project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bedroom window replacement project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a bedroom window replacement project can vary. For a single window, installation can often be completed within a few hours. Replacing multiple windows in a bedroom, or an entire house, will take longer. Factors like the condition of the existing frame, the type of new window, and any unforeseen structural issues can influence the timeline. We aim to complete projects efficiently while maintaining high quality standards.",
+        "@type": "Answer",
+        "description": "A single bedroom window can be replaced in a few hours; multiple windows will take longer, depending on project complexity."
+      }
+    }
+  ],
+  "description": "A single bedroom window can be replaced in a few hours; multiple windows will take longer, depending on project complexity."
+}

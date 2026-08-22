@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-repair-or-replace-a-typical-window-balance",
+  "name": "How long does it take to repair or replace a typical window balance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair or replace a typical window balance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to repair or replace a window balance depends on the window type, the accessibility of the balance mechanism, and the severity of the issue. For a single window with a readily available replacement part, the process can often be completed within an hour or two by an experienced technician. However, if multiple windows require service, custom parts are needed, or if there are complications during the repair, the job could take longer. Our team strives for efficient service.",
+        "@type": "Answer",
+        "description": "A single window balance repair usually takes 1-2 hours. Multiple windows or complex issues may require more time, depending on parts availability and accessibility."
+      }
+    }
+  ],
+  "description": "A single window balance repair usually takes 1-2 hours. Multiple windows or complex issues may require more time, depending on parts availability and accessibil"
+}

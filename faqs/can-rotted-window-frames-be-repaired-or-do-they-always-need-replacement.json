@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-rotted-window-frames-be-repaired-or-do-they-always-need-replacement",
+  "name": "Can rotted window frames be repaired, or do they always need replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can rotted window frames be repaired, or do they always need replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor rot in a localized area might be repairable. This often involves removing the damaged wood, treating the area, and filling it with an epoxy wood filler or replacing a small section. However, extensive rot, especially in structural components of the frame or sills, usually necessitates full window replacement. Repairing severely rotted frames may not be cost-effective or provide a lasting solution.",
+        "@type": "Answer",
+        "description": "Minor rot might be repairable with epoxy, but extensive or structural rot typically requires full window replacement."
+      }
+    }
+  ],
+  "description": "Minor rot might be repairable with epoxy, but extensive or structural rot typically requires full window replacement."
+}

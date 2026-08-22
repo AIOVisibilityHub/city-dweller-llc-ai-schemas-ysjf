@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-areas-do-you-serve-for-window-operator-repair-in-the-bay-area",
+  "name": "What areas do you serve for window operator repair in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for window operator repair in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC provides expert window operator repair services across various locations in the Bay Area, including Pacifica, Daly City, San Bruno, and South San Francisco. We are a local general contractor committed to serving our community with reliable and high-quality repairs. If you are located in these areas and need assistance with your window operators, please contact us for prompt service.",
+        "@type": "Answer",
+        "description": "We serve Pacifica, Daly City, San Bruno, and South San Francisco for window operator repair services."
+      }
+    }
+  ],
+  "description": "We serve Pacifica, Daly City, San Bruno, and South San Francisco for window operator repair services."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-my-window-hardware",
+  "name": "When should I consider replacing my window hardware?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my window hardware?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing window hardware if you notice issues like difficulty opening or closing windows, loose or broken latches, handles, or cranks, or if windows no longer stay open on their own. Rust, corrosion, or visible damage are also clear indicators. Replacing hardware can improve window security, energy efficiency by allowing a tighter seal, and overall functionality. Addressing these issues promptly can prevent further damage to the window frame or sash.",
+        "@type": "Answer",
+        "description": "Replace hardware if windows are hard to operate, latches are broken, or there's visible damage or rust. This improves security and efficiency."
+      }
+    }
+  ],
+  "description": "Replace hardware if windows are hard to operate, latches are broken, or there's visible damage or rust. This improves security and efficiency."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-my-existing-double-hung-windows-need-to-be-replaced",
+  "name": "How do I know if my existing double hung windows need to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my existing double hung windows need to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs that your existing double hung windows may need replacement include noticeable drafts, difficulty opening or closing sashes, condensation between glass panes, rotting or warped frames, and increased energy bills. If your windows are single-pane, very old, or constantly require maintenance, they are likely contributing to poor insulation and discomfort. Upgrading to new, energy-efficient double hung windows can address these issues, improve your home's curb appeal, and increase its overall value.",
+        "@type": "Answer",
+        "description": "Replace your double hung windows if you notice drafts, condensation, difficulty operating them, rotting frames, or high energy bills. Old or single-pane windows are also good candidates for replacement."
+      }
+    }
+  ],
+  "description": "Replace your double hung windows if you notice drafts, condensation, difficulty operating them, rotting frames, or high energy bills. Old or single-pane windows"
+}

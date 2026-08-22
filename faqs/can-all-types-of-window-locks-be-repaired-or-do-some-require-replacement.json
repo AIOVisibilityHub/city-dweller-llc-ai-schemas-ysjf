@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-all-types-of-window-locks-be-repaired-or-do-some-require-replacement",
+  "name": "Can all types of window locks be repaired, or do some require replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can all types of window locks be repaired, or do some require replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most common types of window locks, such as cam locks, sash locks, and casement locks, are generally repairable, especially if replacement parts are available. However, highly specialized or discontinued lock mechanisms might be challenging or impossible to repair without custom fabrication. In such cases, replacing the entire lock assembly or upgrading to a modern equivalent might be necessary. We will advise you on the best course of action after assessing your specific lock.",
+        "@type": "Answer",
+        "description": "Most common window locks are repairable if parts are available. Specialized or discontinued locks might require full replacement."
+      }
+    }
+  ],
+  "description": "Most common window locks are repairable if parts are available. Specialized or discontinued locks might require full replacement."
+}

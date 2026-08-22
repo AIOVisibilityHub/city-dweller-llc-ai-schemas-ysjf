@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-materials-are-available-for-picture-window-frames",
+  "name": "What materials are available for picture window frames?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are available for picture window frames?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Picture window frames are commonly available in several materials, each with distinct advantages. Vinyl frames are popular for their affordability, energy efficiency, and low maintenance. Fiberglass frames offer superior durability, strength, and resistance to extreme temperatures, making them a long-lasting option. Wood frames provide a classic aesthetic and excellent insulation but require more maintenance. Aluminum frames are slender and durable, often used in modern designs, though less energy-efficient than other options.",
+        "@type": "Answer",
+        "description": "Common frame materials include vinyl (affordable, efficient), fiberglass (durable, strong), wood (classic, insulated), and aluminum (modern, slender)."
+      }
+    }
+  ],
+  "description": "Common frame materials include vinyl (affordable, efficient), fiberglass (durable, strong), wood (classic, insulated), and aluminum (modern, slender)."
+}

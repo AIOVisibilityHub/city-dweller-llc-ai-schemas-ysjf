@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-replace-window-hardware",
+  "name": "How long does it take to replace window hardware?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace window hardware?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to replace window hardware depends on the specific component, the number of windows, and the complexity of the installation. Simple replacements like latches or handles might take as little as 30 minutes per window. More complex tasks, such as replacing a casement operator or multiple balances, could take several hours per window. Our technicians work efficiently to minimize disruption, and we can provide a time estimate during the initial assessment.",
+        "@type": "Answer",
+        "description": "Replacement time varies by hardware type and complexity; simple fixes take about 30 minutes, while complex ones can take several hours per window."
+      }
+    }
+  ],
+  "description": "Replacement time varies by hardware type and complexity; simple fixes take about 30 minutes, while complex ones can take several hours per window."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-repairing-my-bay-window-improve-home-energy-efficiency",
+  "name": "Can repairing my bay window improve home energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can repairing my bay window improve home energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, repairing your bay window can significantly improve your home's energy efficiency. Common repairs such as resealing gaps and cracks eliminate drafts, preventing heat loss in winter and heat gain in summer. Replacing failed insulated glass units (IGUs) that have condensation between the panes restores their thermal performance. Addressing deteriorating frames and sashes ensures a tighter seal, leading to lower utility bills and a more comfortable indoor environment.",
+        "@type": "Answer",
+        "description": "Yes, repairs like resealing gaps, replacing failed insulated glass, or fixing deteriorating frames can reduce drafts and restore thermal performance, improving energy efficiency."
+      }
+    }
+  ],
+  "description": "Yes, repairs like resealing gaps, replacing failed insulated glass, or fixing deteriorating frames can reduce drafts and restore thermal performance, improving"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-my-window-screens",
+  "name": "When should I consider replacing my window screens?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my window screens?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your window screens if they show visible signs of damage such as tears, holes, frayed edges, or if the frame is bent or corroded. Damaged screens compromise insect protection and can detract from your home's appearance. Additionally, if you notice increased dust or pollen entering your home, or if your current screens obstruct your view or block too much natural light, upgrading to a different mesh type might be beneficial. Regular inspection for wear and tear can help determine the optimal time for replacement.",
+        "@type": "Answer",
+        "description": "Replace window screens when they have tears, holes, frayed edges, or bent frames. Consider replacement if they no longer keep out insects, or if you want to improve visibility or airflow with a new screen type."
+      }
+    }
+  ],
+  "description": "Replace window screens when they have tears, holes, frayed edges, or bent frames. Consider replacement if they no longer keep out insects, or if you want to imp"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-reasons-a-window-lock-might-fail",
+  "name": "What are common reasons a window lock might fail?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common reasons a window lock might fail?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window locks can fail for several reasons, including wear and tear from frequent use, misalignment of the window sash or frame, or damage from attempted forced entry. Environmental factors like humidity causing wood frames to swell, or corrosion on metal components, can also lead to issues. Sometimes, manufacturing defects or improper installation can cause premature failure. Identifying the root cause is crucial for an effective repair.",
+        "@type": "Answer",
+        "description": "Common reasons for window lock failure include wear and tear, misalignment, damage from forced entry, environmental factors, or manufacturing defects."
+      }
+    }
+  ],
+  "description": "Common reasons for window lock failure include wear and tear, misalignment, damage from forced entry, environmental factors, or manufacturing defects."
+}

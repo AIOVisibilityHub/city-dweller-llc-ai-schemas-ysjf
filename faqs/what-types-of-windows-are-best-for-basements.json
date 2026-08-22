@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-windows-are-best-for-basements",
+  "name": "What types of windows are best for basements?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of windows are best for basements?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For basements, common window types include hopper, slider, and casement windows. Hopper windows open inward from the top, allowing ventilation while deterring debris and offering good security. Slider windows open horizontally and are a good option for wider openings. Casement windows crank outward, providing maximum ventilation and are often used for egress. Egress windows are a specific safety requirement, often larger, ensuring an escape route in finished basements. The best type depends on your basement's specific needs, ventilation requirements, and local building codes.",
+        "@type": "Answer",
+        "description": "Hopper, slider, and casement windows are common for basements. Egress windows are crucial for safety in finished basements. The best choice depends on needs and codes."
+      }
+    }
+  ],
+  "description": "Hopper, slider, and casement windows are common for basements. Egress windows are crucial for safety in finished basements. The best choice depends on needs and"
+}

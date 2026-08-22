@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-is-it-time-to-replace-my-casement-windows",
+  "name": "When is it time to replace my casement windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it time to replace my casement windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It's time to consider replacing your casement windows if you notice drafts, condensation between glass panes, difficulty opening or closing, or rising energy bills. Visible damage like rot, cracks, or warping in the frames are also clear indicators. Newer windows offer improved insulation, security, and aesthetics, enhancing both comfort and property value.",
+        "@type": "Answer",
+        "description": "Replace casement windows if you notice drafts, condensation, difficulty operating, rising energy bills, or visible frame damage."
+      }
+    }
+  ],
+  "description": "Replace casement windows if you notice drafts, condensation, difficulty operating, rising energy bills, or visible frame damage."
+}

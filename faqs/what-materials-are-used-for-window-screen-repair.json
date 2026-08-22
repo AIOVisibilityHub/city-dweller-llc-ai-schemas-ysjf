@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-materials-are-used-for-window-screen-repair",
+  "name": "What materials are used for window screen repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used for window screen repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We use various durable materials for window screen repair to suit different needs. Common options include fiberglass mesh, which is flexible and resistant to creasing; aluminum mesh, known for its strength and longevity; and specialty meshes like pet-resistant screening, which is thicker and more durable against animal claws, or solar screening for UV protection. We discuss the best material for your specific requirements.",
+        "@type": "Answer",
+        "description": "We use fiberglass, aluminum, pet-resistant, or solar mesh, depending on your needs and preference."
+      }
+    }
+  ],
+  "description": "We use fiberglass, aluminum, pet-resistant, or solar mesh, depending on your needs and preference."
+}

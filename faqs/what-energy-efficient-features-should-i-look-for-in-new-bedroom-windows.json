@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-energy-efficient-features-should-i-look-for-in-new-bedroom-windows",
+  "name": "What energy-efficient features should I look for in new bedroom windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What energy-efficient features should I look for in new bedroom windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For improved energy efficiency, look for features such as Low-E (low-emissivity) glass coatings, which reflect heat while allowing light in. Argon or krypton gas fills between glass panes provide better insulation than air. Double or triple-pane glazing also significantly reduces heat transfer. The U-factor, Solar Heat Gain Coefficient (SHGC), and air leakage ratings are important metrics to consider, indicating how well a window insulates and blocks solar heat.",
+        "@type": "Answer",
+        "description": "Key energy-efficient features include Low-E glass, argon/krypton gas fills, and multiple panes. Check U-factor and SHGC ratings."
+      }
+    }
+  ],
+  "description": "Key energy-efficient features include Low-E glass, argon/krypton gas fills, and multiple panes. Check U-factor and SHGC ratings."
+}

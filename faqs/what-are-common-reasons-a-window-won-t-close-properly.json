@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-reasons-a-window-won-t-close-properly",
+  "name": "What are common reasons a window won't close properly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common reasons a window won't close properly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Windows may fail to close due to several common issues. Obstructions in the window tracks, such as debris or dirt, can prevent smooth operation. Damaged or worn-out hardware, like balances, hinges, or latches, often cause misalignments or prevent the window from securing. The frame itself might be warped due to moisture or temperature fluctuations, making it difficult for the sash to fit correctly. Sometimes, foundation settling can also affect window frames, leading to closure problems. Identifying the specific cause is the first step toward effective repair.",
+        "@type": "Answer",
+        "description": "Common reasons include obstructions in tracks, damaged hardware, warped frames, or foundation settling. Each issue requires specific attention for repair."
+      }
+    }
+  ],
+  "description": "Common reasons include obstructions in tracks, damaged hardware, warped frames, or foundation settling. Each issue requires specific attention for repair."
+}

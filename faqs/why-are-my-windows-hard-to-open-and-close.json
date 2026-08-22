@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/why-are-my-windows-hard-to-open-and-close",
+  "name": "Why are my windows hard to open and close?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why are my windows hard to open and close?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Windows can become difficult to open or close for several reasons. Common culprits include accumulated dirt, dust, and debris in the tracks, which create friction. Humidity changes can cause wooden frames to swell or contract, while metal frames might experience corrosion or rust. Faulty or worn-out hardware, such as balances, hinges, or latches, can also impede smooth operation. Misaligned sashes or issues with the window's installation can also lead to sticking.",
+        "@type": "Answer",
+        "description": "Windows can be hard to open due to dirt in tracks, swollen frames from humidity, corroded hardware, or misaligned sashes."
+      }
+    }
+  ],
+  "description": "Windows can be hard to open due to dirt in tracks, swollen frames from humidity, corroded hardware, or misaligned sashes."
+}

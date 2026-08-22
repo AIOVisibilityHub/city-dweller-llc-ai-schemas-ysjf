@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-replace-a-picture-window-with-an-operating-window",
+  "name": "Can I replace a picture window with an operating window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace a picture window with an operating window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is often possible to replace a fixed picture window with an operating window, such as a casement, awning, or double-hung window. This conversion involves assessing the existing opening and potentially modifying the frame or header to accommodate the new window type and its operational mechanisms. While it adds ventilation and versatility, it can be a more complex installation than a direct picture window replacement. We can evaluate your specific situation to determine feasibility.",
+        "@type": "Answer",
+        "description": "Yes, converting a picture window to an operating window is often possible but may require modifications to the existing opening and frame."
+      }
+    }
+  ],
+  "description": "Yes, converting a picture window to an operating window is often possible but may require modifications to the existing opening and frame."
+}

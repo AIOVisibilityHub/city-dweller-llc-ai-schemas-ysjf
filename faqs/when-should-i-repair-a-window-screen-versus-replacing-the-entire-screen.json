@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-repair-a-window-screen-versus-replacing-the-entire-screen",
+  "name": "When should I repair a window screen versus replacing the entire screen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair a window screen versus replacing the entire screen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should repair a window screen if the damage is limited to small tears, holes in the mesh, or minor frame issues that don't compromise the screen's overall integrity. Opt for replacement if the frame is significantly bent, rusted, or warped, if multiple large sections of mesh are damaged beyond simple patching, or if you desire an upgrade to a different type of screen material. We can help assess the most cost-effective option.",
+        "@type": "Answer",
+        "description": "Repair for minor mesh or frame issues. Replace if the frame is severely damaged or if you need a material upgrade."
+      }
+    }
+  ],
+  "description": "Repair for minor mesh or frame issues. Replace if the frame is severely damaged or if you need a material upgrade."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-my-bathroom-window",
+  "name": "When should I consider replacing my bathroom window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my bathroom window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider replacing your bathroom window if you notice signs of damage like persistent condensation between glass panes, drafts, difficulty opening or closing, or visible rot or mold on the frame. Older windows, especially single-pane types, may also be significant sources of energy loss, increasing your heating or cooling bills. Upgrading can improve energy efficiency, enhance privacy, boost your home's aesthetic appeal, and prevent further moisture-related issues.",
+        "@type": "Answer",
+        "description": "Replace your bathroom window if you notice damage like condensation, drafts, difficulty operating, or rot. Upgrading improves energy efficiency, privacy, and prevents moisture issues."
+      }
+    }
+  ],
+  "description": "Replace your bathroom window if you notice damage like condensation, drafts, difficulty operating, or rot. Upgrading improves energy efficiency, privacy, and pr"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-an-egress-window-and-when-is-it-required",
+  "name": "What is an egress window and when is it required?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an egress window and when is it required?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An egress window is a window specifically designed to meet building code requirements for an emergency escape and rescue opening. It must have a minimum net clear opening of 5.7 square feet, with minimum height and width dimensions, and be easily openable from the inside without special tools. Egress windows are typically required in all habitable basements with sleeping rooms, or when converting a basement into living space in the Bay Area. They are essential for safety, providing an alternative exit in case of fire or other emergencies.",
+        "@type": "Answer",
+        "description": "An egress window is a code-required emergency escape route from basements, typically needed in habitable basements or those with sleeping areas."
+      }
+    }
+  ],
+  "description": "An egress window is a code-required emergency escape route from basements, typically needed in habitable basements or those with sleeping areas."
+}

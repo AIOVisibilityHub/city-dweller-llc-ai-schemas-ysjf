@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-you-offer-emergency-window-lock-repair-services-in-south-san-francisco",
+  "name": "Do you offer emergency window lock repair services in South San Francisco?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer emergency window lock repair services in South San Francisco?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While we strive to accommodate urgent requests, our standard service is scheduled during regular business hours. For security concerns in South San Francisco, we recommend contacting us as soon as possible to arrange a prompt visit. We prioritize repairs that impact the safety and security of your home or business, and our team will work to schedule your repair efficiently.",
+        "@type": "Answer",
+        "description": "We prioritize urgent window lock repairs in South San Francisco. Contact us immediately to schedule a prompt visit during business hours."
+      }
+    }
+  ],
+  "description": "We prioritize urgent window lock repairs in South San Francisco. Contact us immediately to schedule a prompt visit during business hours."
+}

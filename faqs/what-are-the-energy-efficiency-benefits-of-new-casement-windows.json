@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-energy-efficiency-benefits-of-new-casement-windows",
+  "name": "What are the energy efficiency benefits of new casement windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the energy efficiency benefits of new casement windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New casement windows offer significant energy efficiency benefits due to advanced glazing technologies and superior sealing. Their crank-out design creates a tight seal against the frame when closed, minimizing air leaks. Features like low-emissivity (Low-E) coatings, argon gas fills between panes, and multiple glass layers reduce heat transfer, keeping your home warmer in winter and cooler in summer, ultimately lowering energy consumption.",
+        "@type": "Answer",
+        "description": "New casement windows provide energy efficiency through tight seals, Low-E coatings, and gas fills, reducing heat transfer and energy bills."
+      }
+    }
+  ],
+  "description": "New casement windows provide energy efficiency through tight seals, Low-E coatings, and gas fills, reducing heat transfer and energy bills."
+}

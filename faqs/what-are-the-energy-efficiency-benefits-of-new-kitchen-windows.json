@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-energy-efficiency-benefits-of-new-kitchen-windows",
+  "name": "What are the energy efficiency benefits of new kitchen windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the energy efficiency benefits of new kitchen windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New kitchen windows, especially those with features like double or triple-pane glass, low-emissivity (Low-E) coatings, and argon or krypton gas fills, significantly improve energy efficiency. These features help reduce heat transfer, keeping your home warmer in winter and cooler in summer. This can lead to lower heating and cooling costs and a more comfortable indoor environment. Look for windows with a good U-factor and Solar Heat Gain Coefficient (SHGC) rating to ensure optimal energy performance.",
+        "@type": "Answer",
+        "description": "New windows with features like double-pane glass and Low-E coatings reduce heat transfer, lowering energy bills and improving comfort."
+      }
+    }
+  ],
+  "description": "New windows with features like double-pane glass and Low-E coatings reduce heat transfer, lowering energy bills and improving comfort."
+}

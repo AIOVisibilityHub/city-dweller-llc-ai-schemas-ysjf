@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-replacing-a-window-with-a-rotted-frame",
+  "name": "What is the process for replacing a window with a rotted frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing a window with a rotted frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with removing the old window and frame. Any rotted structural wood in the rough opening is then carefully removed and replaced with new, treated lumber. The opening is prepared with proper flashing and sealing to prevent future moisture intrusion. A new window unit is then installed, leveled, sealed, and trimmed. Finally, exterior caulking and interior finishing are completed.",
+        "@type": "Answer",
+        "description": "The process involves removing the old window, replacing rotted structural wood, preparing the opening with flashing, installing a new window, and finishing."
+      }
+    }
+  ],
+  "description": "The process involves removing the old window, replacing rotted structural wood, preparing the opening with flashing, installing a new window, and finishing."
+}

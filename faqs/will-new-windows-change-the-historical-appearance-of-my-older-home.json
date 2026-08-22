@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-new-windows-change-the-historical-appearance-of-my-older-home",
+  "name": "Will new windows change the historical appearance of my older home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will new windows change the historical appearance of my older home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not necessarily. Many manufacturers offer window styles specifically designed to replicate the appearance of historical windows, including grilles, frame profiles, and even specialized glass. For homes with historical preservation requirements, custom-matched windows can be ordered to maintain architectural integrity. It's important to discuss your aesthetic preferences and any historical district guidelines with your contractor to choose options that blend seamlessly with your home's character.",
+        "@type": "Answer",
+        "description": "New windows can maintain a historical look. Many options replicate older styles, and custom orders can match architectural integrity, especially for historic homes."
+      }
+    }
+  ],
+  "description": "New windows can maintain a historical look. Many options replicate older styles, and custom orders can match architectural integrity, especially for historic ho"
+}

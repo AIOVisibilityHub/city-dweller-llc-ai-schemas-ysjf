@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-my-basement-windows-need-replacement",
+  "name": "How do I know if my basement windows need replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my basement windows need replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs that your basement windows need replacement include drafts, condensation between glass panes, difficulty opening or closing, and visible damage like rot or rust on frames. If you notice a musty smell, increased energy bills, or water leaks around the window, these are strong indicators. Old single-pane windows are also candidates for replacement due to poor insulation. Modern windows offer better security, energy performance, and can update the look of your basement.",
+        "@type": "Answer",
+        "description": "Look for drafts, condensation, difficulty operating, visible damage, water leaks, or increased energy bills to determine if replacement is needed."
+      }
+    }
+  ],
+  "description": "Look for drafts, condensation, difficulty operating, visible damage, water leaks, or increased energy bills to determine if replacement is needed."
+}

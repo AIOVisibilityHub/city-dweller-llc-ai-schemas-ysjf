@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/why-is-my-window-sticking-and-difficult-to-open-or-close",
+  "name": "Why is my window sticking and difficult to open or close?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my window sticking and difficult to open or close?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Windows can stick for several reasons. Common causes include accumulated dirt, dust, or paint on the tracks or frame. Humidity can cause wood frames to swell, leading to friction. Metal windows might experience corrosion. Mechanical issues like worn-out balances, rollers, or hinges can also prevent smooth operation. Identifying the specific cause is crucial for an effective repair.",
+        "@type": "Answer",
+        "description": "Windows stick due to dirt, paint, humidity causing wood swelling, corrosion, or worn-out mechanical parts like balances or rollers."
+      }
+    }
+  ],
+  "description": "Windows stick due to dirt, paint, humidity causing wood swelling, corrosion, or worn-out mechanical parts like balances or rollers."
+}

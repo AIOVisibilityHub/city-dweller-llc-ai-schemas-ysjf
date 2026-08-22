@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-replace-basement-windows",
+  "name": "How long does it take to replace basement windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace basement windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of basement window replacement depends on the number of windows, their size, and the complexity of the installation. For a typical residential project involving a few standard basement windows, the installation can often be completed within one to two days. More extensive projects, such as installing multiple egress windows or addressing structural changes, may take longer. We aim to complete projects efficiently while maintaining quality, providing a more precise timeline after an initial on-site assessment.",
+        "@type": "Answer",
+        "description": "Replacement typically takes one to two days for a few standard windows. Larger projects or egress window installations may take longer."
+      }
+    }
+  ],
+  "description": "Replacement typically takes one to two days for a few standard windows. Larger projects or egress window installations may take longer."
+}

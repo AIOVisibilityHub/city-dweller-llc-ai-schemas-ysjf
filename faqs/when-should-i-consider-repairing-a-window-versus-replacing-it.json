@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-repairing-a-window-versus-replacing-it",
+  "name": "When should I consider repairing a window versus replacing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider repairing a window versus replacing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repair and replacement depends on the extent of the damage and the window's overall condition. If the issue is minor, such as a faulty latch, a broken balance, or a simple obstruction, repair is usually more cost-effective. However, if the window has extensive frame rot, severe drafts, broken glass, or multiple malfunctioning components, replacement might be the better long-term solution. Also, consider the age of your windows; older, inefficient windows might justify replacement for energy savings. A professional assessment can help determine the best course.",
+        "@type": "Answer",
+        "description": "Repair is suitable for minor issues like latches or balances, while replacement is better for extensive damage, rot, or very old, inefficient windows."
+      }
+    }
+  ],
+  "description": "Repair is suitable for minor issues like latches or balances, while replacement is better for extensive damage, rot, or very old, inefficient windows."
+}

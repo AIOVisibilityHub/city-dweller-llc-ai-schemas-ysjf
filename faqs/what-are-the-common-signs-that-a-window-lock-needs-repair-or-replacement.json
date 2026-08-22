@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-signs-that-a-window-lock-needs-repair-or-replacement",
+  "name": "What are the common signs that a window lock needs repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that a window lock needs repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key indicators that your window lock needs attention include difficulty engaging the lock, a loose or wobbly handle, visible damage to the lock components, or if the window feels less secure even when you attempt to lock it. If you notice drafts coming from the window when it should be locked, or hear unusual noises when operating the lock, these are also signs it's time for an inspection.",
+        "@type": "Answer",
+        "description": "Signs include difficulty locking, loose handles, visible damage, feeling insecure, drafts, or unusual noises during operation."
+      }
+    }
+  ],
+  "description": "Signs include difficulty locking, loose handles, visible damage, feeling insecure, drafts, or unusual noises during operation."
+}

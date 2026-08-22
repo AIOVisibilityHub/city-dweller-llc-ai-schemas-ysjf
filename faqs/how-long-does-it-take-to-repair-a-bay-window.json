@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-repair-a-bay-window",
+  "name": "How long does it take to repair a bay window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a bay window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a bay window repair depends on the complexity and scope of the work. Minor repairs, such as re-caulking or hardware replacement, might take a few hours to a full day. More involved repairs, like replacing a sash or addressing significant water damage, could extend to several days. If custom parts are required, the project timeline may be affected by material lead times. We strive to complete repairs efficiently while ensuring quality.",
+        "@type": "Answer",
+        "description": "Minor repairs can take hours to a day; more extensive work might take several days, especially if custom parts are needed."
+      }
+    }
+  ],
+  "description": "Minor repairs can take hours to a day; more extensive work might take several days, especially if custom parts are needed."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-signs-that-my-bedroom-windows-need-replacing",
+  "name": "What are the signs that my bedroom windows need replacing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my bedroom windows need replacing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs include drafts, difficulty opening or closing, condensation between glass panes, increased energy bills, and visible damage like rot or decay on the frames. Older windows, especially single-pane models, often lack proper insulation, leading to uncomfortable temperatures and higher heating or cooling costs. Replacing them can improve comfort, reduce noise, and enhance your home's energy efficiency.",
+        "@type": "Answer",
+        "description": "Drafts, condensation, high energy bills, and difficulty operating are key signs your bedroom windows may need replacement."
+      }
+    }
+  ],
+  "description": "Drafts, condensation, high energy bills, and difficulty operating are key signs your bedroom windows may need replacement."
+}

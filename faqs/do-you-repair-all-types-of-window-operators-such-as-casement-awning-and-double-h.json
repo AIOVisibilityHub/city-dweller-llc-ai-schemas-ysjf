@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-you-repair-all-types-of-window-operators-such-as-casement-awning-and-double-h",
+  "name": "Do you repair all types of window operators, such as casement, awning, and double-hung?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you repair all types of window operators, such as casement, awning, and double-hung?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, our skilled technicians are experienced in repairing a wide range of window operator types, including those found on casement, awning, double-hung, and sliding windows. We work with various brands and styles of hardware. Regardless of your window type, we can diagnose the operator issue and provide an effective repair solution to restore its functionality.",
+        "@type": "Answer",
+        "description": "Yes, we repair operators for most window types, including casement, awning, double-hung, and sliding windows."
+      }
+    }
+  ],
+  "description": "Yes, we repair operators for most window types, including casement, awning, double-hung, and sliding windows."
+}

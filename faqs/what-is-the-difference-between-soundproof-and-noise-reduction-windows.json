@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-soundproof-and-noise-reduction-windows",
+  "name": "What is the difference between soundproof and noise reduction windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between soundproof and noise reduction windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The terms 'soundproof' and 'noise reduction' are often used interchangeably, but 'noise reduction' is a more accurate description for most commercially available windows. True soundproofing implies blocking 100% of sound, which is practically impossible for a window that needs to be functional. Noise reduction windows significantly reduce sound transmission by using specialized glass, gas fills, and frames. They aim to lower the decibel level of incoming noise to a more comfortable level, rather than eliminating it entirely. Always check the Sound Transmission Class (STC) rating for specific performance metrics.",
+        "@type": "Answer",
+        "description": "While often used interchangeably, 'noise reduction' is more accurate as true 'soundproofing' (100% sound blockage) is impractical for windows. Noise reduction windows significantly lower decibel levels, not eliminate them."
+      }
+    }
+  ],
+  "description": "While often used interchangeably, 'noise reduction' is more accurate as true 'soundproofing' (100% sound blockage) is impractical for windows. Noise reduction w"
+}

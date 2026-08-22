@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-repairing-a-sticking-window-versus-replacing-it",
+  "name": "When should I consider repairing a sticking window versus replacing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider repairing a sticking window versus replacing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repair and replacement depends on the extent of the damage and the window's overall condition. Repairs are often suitable for minor issues like paint buildup, track cleaning, or replacing individual hardware components. If the window frame is extensively rotted, warped, or if multiple components are failing, replacement might be more cost-effective in the long run. Energy efficiency improvements are also a common reason for replacement, as older windows may not meet current standards.",
+        "@type": "Answer",
+        "description": "Consider repair for minor issues like cleaning or hardware replacement. Opt for replacement if there's extensive frame damage, multiple failures, or if you seek significant energy efficiency upgrades."
+      }
+    }
+  ],
+  "description": "Consider repair for minor issues like cleaning or hardware replacement. Opt for replacement if there's extensive frame damage, multiple failures, or if you seek"
+}

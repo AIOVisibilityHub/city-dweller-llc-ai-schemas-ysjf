@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-you-repair-screens-on-large-or-custom-sized-windows",
+  "name": "Can you repair screens on large or custom-sized windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you repair screens on large or custom-sized windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we are equipped to repair screens for various window dimensions, including large, oversized, and custom-shaped windows. While standard window screens are often straightforward, custom sizes may require precise measurements and specialized handling. We ensure that the replacement mesh is cut accurately and installed securely, maintaining the integrity and fit of your existing custom screen frames. Please provide details about your custom screens when scheduling.",
+        "@type": "Answer",
+        "description": "Yes, we can repair screens for large and custom-sized windows, ensuring precise fit and secure installation."
+      }
+    }
+  ],
+  "description": "Yes, we can repair screens for large and custom-sized windows, ensuring precise fit and secure installation."
+}

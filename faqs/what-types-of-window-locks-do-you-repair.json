@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-window-locks-do-you-repair",
+  "name": "What types of window locks do you repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of window locks do you repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We repair a wide range of window lock types common in residential and commercial properties. This includes standard cam locks, sash locks for double-hung windows, casement window locks, and some sliding window locks. Our technicians are trained to identify and address issues with various locking mechanisms from different manufacturers. If you have a specific or less common type of lock, please provide details during your inquiry.",
+        "@type": "Answer",
+        "description": "We repair various window lock types, including cam locks, sash locks, casement locks, and sliding window locks, for residential and commercial properties."
+      }
+    }
+  ],
+  "description": "We repair various window lock types, including cam locks, sash locks, casement locks, and sliding window locks, for residential and commercial properties."
+}

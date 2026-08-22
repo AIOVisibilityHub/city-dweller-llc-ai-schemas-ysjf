@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-replace-all-my-windows-if-only-a-few-frames-are-rotted",
+  "name": "Should I replace all my windows if only a few frames are rotted?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I replace all my windows if only a few frames are rotted?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If only a few frames exhibit rot, you don't necessarily need to replace all windows immediately. However, it's wise to have all windows inspected to assess their condition and determine the underlying cause of the rot. If the rot is widespread, or if your windows are old and inefficient, replacing all of them simultaneously might be more cost-effective in the long run due to energy savings and avoiding future issues.",
+        "@type": "Answer",
+        "description": "Not necessarily, but inspect all windows. Widespread rot or old, inefficient windows might make full replacement more cost-effective."
+      }
+    }
+  ],
+  "description": "Not necessarily, but inspect all windows. Widespread rot or old, inefficient windows might make full replacement more cost-effective."
+}

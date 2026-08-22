@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-noise-reduction-windows-also-improve-thermal-insulation",
+  "name": "Do noise reduction windows also improve thermal insulation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do noise reduction windows also improve thermal insulation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, noise reduction windows frequently offer improved thermal insulation as a significant secondary benefit. The features that make them effective at blocking sound, such as multiple panes of glass, laminated glass, and inert gas fills (like argon or krypton) between panes, also create superior thermal barriers. This construction helps to reduce heat transfer, keeping your home warmer in winter and cooler in summer. This can lead to greater energy efficiency and potentially lower heating and cooling costs, in addition to a quieter living space.",
+        "@type": "Answer",
+        "description": "Yes, noise reduction windows often improve thermal insulation because their multi-pane, gas-filled construction reduces heat transfer, leading to better energy efficiency."
+      }
+    }
+  ],
+  "description": "Yes, noise reduction windows often improve thermal insulation because their multi-pane, gas-filled construction reduces heat transfer, leading to better energy"
+}

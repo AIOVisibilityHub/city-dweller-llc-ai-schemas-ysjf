@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-my-windows-are-causing-drafts",
+  "name": "How do I know if my windows are causing drafts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my windows are causing drafts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of drafty windows include a noticeable chill near closed windows, rattling panes, condensation between glass layers, or higher energy bills. You can perform a simple test by holding a lit candle or an incense stick near the window frame on a windy day. If the flame flickers or smoke moves inward, it indicates air leakage. Old, damaged, or improperly sealed windows are often the culprits.",
+        "@type": "Answer",
+        "description": "Look for chills near windows, rattling panes, condensation, or high energy bills. A candle test can confirm air leaks."
+      }
+    }
+  ],
+  "description": "Look for chills near windows, rattling panes, condensation, or high energy bills. A candle test can confirm air leaks."
+}

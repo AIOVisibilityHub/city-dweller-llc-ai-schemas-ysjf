@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-window-hardware-can-be-replaced",
+  "name": "What types of window hardware can be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of window hardware can be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common window hardware that can be replaced includes latches, locks, hinges, operators (cranks), balances (sash support mechanisms), and handles. These components are essential for the proper functioning, security, and energy efficiency of windows. Replacement might be necessary due to wear and tear, damage, or to upgrade to more secure or aesthetically pleasing options. The specific hardware available will depend on the type of window you have, such as casement, double-hung, or sliding windows.",
+        "@type": "Answer",
+        "description": "Common window hardware includes latches, locks, hinges, operators, and balances. These parts ensure proper function, security, and efficiency."
+      }
+    }
+  ],
+  "description": "Common window hardware includes latches, locks, hinges, operators, and balances. These parts ensure proper function, security, and efficiency."
+}
