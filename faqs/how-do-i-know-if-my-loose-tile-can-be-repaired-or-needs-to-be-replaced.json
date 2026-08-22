@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-my-loose-tile-can-be-repaired-or-needs-to-be-replaced",
+  "name": "How do I know if my loose tile can be repaired or needs to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my loose tile can be repaired or needs to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If a tile is loose but undamaged, it can often be re-adhered. The repair process usually involves carefully removing the tile, cleaning the old adhesive from both the tile and the subfloor, and then re-setting it with fresh mortar. However, if the tile is cracked, chipped, or the subfloor beneath it is severely damaged by moisture or rot, replacement is generally the more durable solution. An assessment by a professional can confirm the best approach.",
+        "@type": "Answer",
+        "description": "Undamaged loose tiles can often be re-adhered. If the tile is cracked or the subfloor is damaged, replacement is usually necessary."
+      }
+    }
+  ],
+  "description": "Undamaged loose tiles can often be re-adhered. If the tile is cracked or the subfloor is damaged, replacement is usually necessary."
+}

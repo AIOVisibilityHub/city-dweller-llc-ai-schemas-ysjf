@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-often-should-i-replace-flooring-in-a-rental-property",
+  "name": "How often should I replace flooring in a rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I replace flooring in a rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The replacement timeline for rental property flooring depends on the material, tenant turnover, and wear and tear. High-quality LVP or laminate can last 10-20 years, while ceramic tile can last 50 years or more. Carpet typically requires replacement every 5-7 years, sometimes sooner with frequent tenant changes. You should consider replacement when flooring shows significant damage, excessive wear, or when it looks outdated, which can impact tenant attraction. Regular inspections will help determine the optimal replacement schedule.",
+        "@type": "Answer",
+        "description": "Flooring replacement frequency depends on material; carpet every 5-7 years, LVP/laminate 10-20, tile 50+. Replace when significant damage or wear is evident, or if it looks outdated."
+      }
+    }
+  ],
+  "description": "Flooring replacement frequency depends on material; carpet every 5-7 years, LVP/laminate 10-20, tile 50+. Replace when significant damage or wear is evident, or"
+}

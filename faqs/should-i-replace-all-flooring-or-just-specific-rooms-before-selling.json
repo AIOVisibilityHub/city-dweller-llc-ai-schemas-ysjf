@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-replace-all-flooring-or-just-specific-rooms-before-selling",
+  "name": "Should I replace all flooring or just specific rooms before selling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I replace all flooring or just specific rooms before selling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to replace all or some flooring depends on its condition and consistency. If only a few rooms have severely damaged or outdated flooring, focusing on those areas might suffice. However, a consistent flooring type throughout main living areas can create a more cohesive and spacious feel, which appeals to buyers. Avoid mixing too many different flooring types, as this can make a home feel disjointed. Prioritize high-traffic areas and rooms where flooring is most visible or damaged.",
+        "@type": "Answer",
+        "description": "Replace flooring in all main living areas for a cohesive look, or target severely damaged rooms. Avoid mixing too many types to maintain a spacious feel."
+      }
+    }
+  ],
+  "description": "Replace flooring in all main living areas for a cohesive look, or target severely damaged rooms. Avoid mixing too many types to maintain a spacious feel."
+}

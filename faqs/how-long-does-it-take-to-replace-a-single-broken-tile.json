@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-replace-a-single-broken-tile",
+  "name": "How long does it take to replace a single broken tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace a single broken tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing a single broken tile typically takes a few hours to complete the physical work, depending on the tile type, the complexity of removal, and accessibility. However, the overall project timeline extends due to curing times for both the thin-set mortar and the grout. Mortar usually needs 24-48 hours to cure before grouting, and grout itself requires another 24-72 hours before the area can be fully used. Therefore, while the hands-on labor is quick, plan for the area to be out of commission for several days.",
+        "@type": "Answer",
+        "description": "Physical replacement takes a few hours, but overall, it can take several days due to mortar and grout curing times, which range from 24 to 72 hours each."
+      }
+    }
+  ],
+  "description": "Physical replacement takes a few hours, but overall, it can take several days due to mortar and grout curing times, which range from 24 to 72 hours each."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-tile-are-best-for-shower-walls-and-floors",
+  "name": "What types of tile are best for shower walls and floors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of tile are best for shower walls and floors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For shower walls, ceramic, porcelain, and natural stone are popular choices due to their durability and water resistance. Porcelain is highly recommended for shower floors because it is less porous, very durable, and often comes with a slip-resistant finish. Ceramic is also a good option for walls, offering a wide range of styles. Natural stone, while beautiful, requires regular sealing to prevent water absorption and staining. Consider the material's water absorption rate, maintenance requirements, and slip resistance when making your selection.",
+        "@type": "Answer",
+        "description": "Porcelain and ceramic are excellent for shower walls and floors due to their water resistance and durability. Natural stone is also an option but requires more maintenance."
+      }
+    }
+  ],
+  "description": "Porcelain and ceramic are excellent for shower walls and floors due to their water resistance and durability. Natural stone is also an option but requires more"
+}

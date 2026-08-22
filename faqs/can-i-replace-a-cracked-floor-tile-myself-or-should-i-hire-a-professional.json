@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-replace-a-cracked-floor-tile-myself-or-should-i-hire-a-professional",
+  "name": "Can I replace a cracked floor tile myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace a cracked floor tile myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a single cracked tile, an experienced DIYer might be able to handle the replacement. However, if multiple tiles are damaged, the subfloor is compromised, or you lack the necessary tools and experience, hiring a professional is recommended. Professionals ensure proper removal to prevent damage to surrounding tiles, correct subfloor preparation, proper mortar application for durability, and seamless grout matching. This prevents future issues and ensures a durable, aesthetically pleasing result.",
+        "@type": "Answer",
+        "description": "An experienced DIYer can replace a single tile, but for multiple tiles, subfloor issues, or lack of experience, hire a professional for a durable result."
+      }
+    }
+  ],
+  "description": "An experienced DIYer can replace a single tile, but for multiple tiles, subfloor issues, or lack of experience, hire a professional for a durable result."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-a-handyman-and-a-general-contractor-for-home-repai",
+  "name": "What's the difference between a handyman and a general contractor for home repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a handyman and a general contractor for home repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A handyman typically handles smaller, non-specialized tasks and minor repairs that don't require specific licenses or permits. This includes odd jobs like hanging shelves, small painting projects, or basic maintenance. A general contractor, like City Dweller, LLC, is licensed to oversee larger, more complex projects that often involve multiple trades, require permits, and have structural implications, such as renovations, additions, or extensive repairs across various systems.",
+        "@type": "Answer",
+        "description": "Handymen do small, non-specialized tasks; general contractors handle larger, complex projects requiring permits and multiple trades."
+      }
+    }
+  ],
+  "description": "Handymen do small, non-specialized tasks; general contractors handle larger, complex projects requiring permits and multiple trades."
+}

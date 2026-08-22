@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-loose-tiles-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair loose tiles myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair loose tiles myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While DIY repair for a single loose tile is possible for experienced homeowners, hiring a professional general contractor is often recommended, especially for multiple loose tiles or underlying subfloor issues. Professionals have the right tools, materials, and expertise to identify the root cause, ensure proper surface preparation, and achieve a lasting repair that matches existing finishes. Incorrect repairs can lead to further problems or re-occurrence of the issue.",
+        "@type": "Answer",
+        "description": "Professionals are recommended for multiple loose tiles or subfloor issues, ensuring proper diagnosis and lasting repairs. DIY is suitable for minor, single tile repairs if experienced."
+      }
+    }
+  ],
+  "description": "Professionals are recommended for multiple loose tiles or subfloor issues, ensuring proper diagnosis and lasting repairs. DIY is suitable for minor, single tile"
+}

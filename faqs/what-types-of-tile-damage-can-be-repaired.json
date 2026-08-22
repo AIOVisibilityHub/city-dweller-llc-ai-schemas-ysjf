@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-tile-damage-can-be-repaired",
+  "name": "What types of tile damage can be repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of tile damage can be repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tile damage can range from minor chips and cracks to loose or hollow-sounding tiles. Common issues include shattered tiles due to impact, hairline cracks from shifting foundations, and tiles detaching from the substrate. Grout deterioration and discoloration are also frequently addressed during tile repair. While significant structural damage might require more extensive work, many types of aesthetic and functional tile problems can be effectively repaired, restoring the surface's appearance and integrity.",
+        "@type": "Answer",
+        "description": "Many types of tile damage, including chips, cracks, loose tiles, and deteriorated grout, can be repaired to restore their appearance and function."
+      }
+    }
+  ],
+  "description": "Many types of tile damage, including chips, cracks, loose tiles, and deteriorated grout, can be repaired to restore their appearance and function."
+}

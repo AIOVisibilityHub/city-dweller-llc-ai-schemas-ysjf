@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-signs-that-my-door-threshold-needs-repair-or-replacement",
+  "name": "What are the common signs that my door threshold needs repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that my door threshold needs repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Look for visible damage such as cracks, splintering wood, rust on metal components, or signs of rot, especially at the edges. You might also notice drafts coming from under the door, water seeping in after rain, or difficulty opening or closing the door smoothly. An uneven or loose threshold can also indicate a need for repair. Addressing these signs early can prevent more extensive and costly repairs to your flooring or door frame.",
+        "@type": "Answer",
+        "description": "Common signs include cracks, rot, drafts, water leaks, or difficulty closing the door."
+      }
+    }
+  ],
+  "description": "Common signs include cracks, rot, drafts, water leaks, or difficulty closing the door."
+}

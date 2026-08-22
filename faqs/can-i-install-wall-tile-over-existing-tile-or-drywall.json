@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-install-wall-tile-over-existing-tile-or-drywall",
+  "name": "Can I install wall tile over existing tile or drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install wall tile over existing tile or drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in some cases, wall tile can be installed over existing tile or properly prepared drywall. When tiling over existing tile, the surface must be clean, sound, and level. For drywall, it needs to be structurally sound, free of damage, and often requires a specific primer or backer board depending on the moisture exposure (e.g., in a shower). It's crucial to assess the existing surface's condition to ensure proper adhesion and a long-lasting installation, avoiding issues like cracking or detachment.",
+        "@type": "Answer",
+        "description": "Wall tile can be installed over existing tile or drywall if the surface is sound, clean, and properly prepared, but careful assessment is needed."
+      }
+    }
+  ],
+  "description": "Wall tile can be installed over existing tile or drywall if the surface is sound, clean, and properly prepared, but careful assessment is needed."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-replace-a-single-cracked-tile",
+  "name": "How long does it take to replace a single cracked tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace a single cracked tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing a single cracked tile can typically take a few hours, assuming you have a matching replacement tile readily available. The process involves carefully removing the old grout, extracting the damaged tile, preparing the subfloor, laying the new tile, and then regrouting. The total time can extend if the surrounding tiles are difficult to remove without damage, or if the subfloor requires additional repair. Allowing adequate time for thin-set mortar and grout to cure is also important before the area can be used.",
+        "@type": "Answer",
+        "description": "Replacing a single tile usually takes a few hours, including removal, installation, and regrouting. Cure time for mortar and grout is also needed."
+      }
+    }
+  ],
+  "description": "Replacing a single tile usually takes a few hours, including removal, installation, and regrouting. Cure time for mortar and grout is also needed."
+}

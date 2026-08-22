@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/does-city-dweller-llc-offer-flooring-replacement-services-in-south-san-francisco",
+  "name": "Does City Dweller, LLC offer flooring replacement services in South San Francisco?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does City Dweller, LLC offer flooring replacement services in South San Francisco?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, City Dweller, LLC provides comprehensive flooring replacement services for rental properties in South San Francisco and surrounding Bay Area communities including Pacifica, Daly City, San Bruno, and Brisbane. As a general contractor, we manage the entire project from material selection and demolition to professional installation and final cleanup. Our services are tailored to help landlords and property managers choose durable, cost-effective flooring solutions that enhance property value and tenant satisfaction.",
+        "@type": "Answer",
+        "description": "Yes, City Dweller, LLC offers full flooring replacement services for rental properties in South San Francisco, Pacifica, Daly City, San Bruno, and Brisbane."
+      }
+    }
+  ],
+  "description": "Yes, City Dweller, LLC offers full flooring replacement services for rental properties in South San Francisco, Pacifica, Daly City, San Bruno, and Brisbane."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-trip-hazard-repair-take",
+  "name": "How long does a typical trip hazard repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical trip hazard repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a trip hazard repair project depends on its complexity and size. Small repairs, such as grinding a single uneven concrete slab, might be completed in a few hours. Larger projects involving multiple sections, mudjacking, or extensive asphalt work could take one to several days. We aim to minimize disruption and will provide a clear timeline during the estimation process, ensuring efficient completion.",
+        "@type": "Answer",
+        "description": "Repair time varies from a few hours for small jobs to several days for larger, more complex projects. We provide a clear timeline during estimation."
+      }
+    }
+  ],
+  "description": "Repair time varies from a few hours for small jobs to several days for larger, more complex projects. We provide a clear timeline during estimation."
+}

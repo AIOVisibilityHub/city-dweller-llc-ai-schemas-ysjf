@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-there-specific-regulations-for-trip-hazard-repairs-in-cities-like-pacifica-o",
+  "name": "Are there specific regulations for trip hazard repairs in cities like Pacifica or Daly City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific regulations for trip hazard repairs in cities like Pacifica or Daly City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, cities like Pacifica and Daly City, like many municipalities, often have specific codes and regulations regarding sidewalk maintenance and public right-of-way repairs. These can include requirements for permit acquisition, material specifications, and ADA compliance standards for public access. A knowledgeable local contractor will be aware of these specific rules and ensure all repairs meet the necessary standards, avoiding potential fines or rework.",
+        "@type": "Answer",
+        "description": "Cities like Pacifica and Daly City have specific codes for sidewalk repairs, including permits, material specs, and ADA compliance. A local contractor knows these rules."
+      }
+    }
+  ],
+  "description": "Cities like Pacifica and Daly City have specific codes for sidewalk repairs, including permits, material specs, and ADA compliance. A local contractor knows the"
+}

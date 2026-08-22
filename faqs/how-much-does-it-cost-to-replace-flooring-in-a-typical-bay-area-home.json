@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-replace-flooring-in-a-typical-bay-area-home",
+  "name": "How much does it cost to replace flooring in a typical Bay Area home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to replace flooring in a typical Bay Area home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Flooring replacement costs vary widely based on material, square footage, existing floor removal needs, and installation complexity. In the Bay Area, labor costs can be higher than national averages. For LVP, you might estimate between $5-$10 per square foot installed, while engineered hardwood can range from $8-$15+ per square foot. Carpet installation typically falls between $3-$7 per square foot. It's crucial to get detailed quotes from local contractors to understand the specific costs for your property in cities like Pacifica or Daly City.",
+        "@type": "Answer",
+        "description": "Costs vary by material, square footage, and labor. In the Bay Area, LVP might be $5-$10/sq ft installed, engineered hardwood $8-$15+, and carpet $3-$7/sq ft. Get local quotes."
+      }
+    }
+  ],
+  "description": "Costs vary by material, square footage, and labor. In the Bay Area, LVP might be $5-$10/sq ft installed, engineered hardwood $8-$15+, and carpet $3-$7/sq ft. Ge"
+}

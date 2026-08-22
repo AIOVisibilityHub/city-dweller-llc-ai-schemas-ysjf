@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-getting-a-home-repair-done-by-city-dweller-llc",
+  "name": "What is the typical process for getting a home repair done by City Dweller, LLC?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for getting a home repair done by City Dweller, LLC?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation where we discuss your repair needs and assess the scope of work. We then provide a detailed estimate outlining the costs and timeline. Once approved, we schedule the work at your convenience. Our skilled technicians complete the repair efficiently, keeping you informed throughout the process. We conclude with a final walkthrough to ensure your complete satisfaction with the repair.",
+        "@type": "Answer",
+        "description": "Our process involves consultation, detailed estimate, scheduling, efficient repair, and a final walkthrough for your satisfaction."
+      }
+    }
+  ],
+  "description": "Our process involves consultation, detailed estimate, scheduling, efficient repair, and a final walkthrough for your satisfaction."
+}

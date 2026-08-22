@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-replace-a-cracked-tile-versus-repairing-it",
+  "name": "When should I replace a cracked tile versus repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I replace a cracked tile versus repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to replace or repair a cracked tile depends on the extent of the damage and the type of tile. Minor surface cracks might be repairable with epoxy or grout, especially if the tile is otherwise stable. However, deep cracks, multiple fractures, or a tile that is loose or hollow-sounding typically require full replacement. Replacement ensures the structural integrity of the surface and prevents further damage to the subfloor or surrounding tiles, which can be critical in moisture-prone areas like bathrooms or kitchens.",
+        "@type": "Answer",
+        "description": "Replace deeply cracked or loose tiles; minor surface cracks might be repairable. Replacement ensures structural integrity and prevents further damage."
+      }
+    }
+  ],
+  "description": "Replace deeply cracked or loose tiles; minor surface cracks might be repairable. Replacement ensures structural integrity and prevents further damage."
+}

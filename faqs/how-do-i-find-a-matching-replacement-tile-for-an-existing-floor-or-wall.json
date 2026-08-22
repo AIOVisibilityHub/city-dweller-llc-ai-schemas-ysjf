@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-find-a-matching-replacement-tile-for-an-existing-floor-or-wall",
+  "name": "How do I find a matching replacement tile for an existing floor or wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I find a matching replacement tile for an existing floor or wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Finding a matching replacement tile can be challenging, especially for older installations. Start by checking if you have any leftover tiles from the original installation. If not, take a sample of the broken tile to local tile suppliers or home improvement stores in the Bay Area. They may be able to identify the tile or suggest a close match in terms of color, size, texture, and finish. Online searches using descriptive keywords can also be helpful. Be aware that dye lots can vary, so even the exact same tile may have slight color differences from your existing ones.",
+        "@type": "Answer",
+        "description": "Look for leftover tiles or take a broken tile sample to local suppliers to find a match. Be aware of potential dye lot variations."
+      }
+    }
+  ],
+  "description": "Look for leftover tiles or take a broken tile sample to local suppliers to find a match. Be aware of potential dye lot variations."
+}

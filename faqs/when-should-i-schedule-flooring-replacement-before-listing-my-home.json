@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-schedule-flooring-replacement-before-listing-my-home",
+  "name": "When should I schedule flooring replacement before listing my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I schedule flooring replacement before listing my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It's best to complete flooring replacement projects well before professional photos are taken and your home is listed. Aim to finish at least two weeks prior to listing. This allows for any dust to settle, for the new flooring to off-gas (if applicable), and for final cleaning. It also provides a buffer for any unexpected delays. Completing this major renovation early ensures your home is presented in its best possible condition from day one, maximizing buyer interest.",
+        "@type": "Answer",
+        "description": "Schedule flooring replacement at least two weeks before listing your home to allow for completion, cleaning, and professional photos."
+      }
+    }
+  ],
+  "description": "Schedule flooring replacement at least two weeks before listing your home to allow for completion, cleaning, and professional photos."
+}

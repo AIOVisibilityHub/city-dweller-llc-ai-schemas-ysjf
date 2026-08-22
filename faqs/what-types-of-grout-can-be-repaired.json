@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-grout-can-be-repaired",
+  "name": "What types of grout can be repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of grout can be repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most common types of grout can be repaired, including sanded, unsanded, and epoxy grout. Sanded grout is typically used for wider grout lines and is durable, while unsanded grout is for narrower lines. Both can develop cracks or stains over time and are amenable to targeted repair. Epoxy grout, known for its superior durability, stain resistance, and waterproof properties, is less prone to damage but can still require repair if improperly installed or subjected to extreme impacts. The repair method and materials chosen will depend on the specific type of grout currently installed, often aiming to match the existing material for consistency.",
+        "@type": "Answer",
+        "description": "Most common grout types, including sanded, unsanded, and epoxy, can be repaired, with methods varying based on the specific material."
+      }
+    }
+  ],
+  "description": "Most common grout types, including sanded, unsanded, and epoxy, can be repaired, with methods varying based on the specific material."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-slip-resistant-flooring-be-installed-over-existing-floors",
+  "name": "Can slip-resistant flooring be installed over existing floors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can slip-resistant flooring be installed over existing floors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many cases, slip-resistant flooring can be installed over existing floors, but it largely depends on the condition and type of the current flooring. The existing surface must be clean, dry, level, and structurally sound to ensure proper adhesion and performance of the new material. Issues like cracks, unevenness, or moisture in the existing subfloor will need to be addressed through preparation work before installation can proceed. A professional assessment is crucial to determine feasibility and identify any necessary subfloor remediation, which can impact both cost and timeline.",
+        "@type": "Answer",
+        "description": "Yes, if the existing floor is clean, dry, level, and structurally sound. Professional assessment is needed to confirm feasibility and address any subfloor issues."
+      }
+    }
+  ],
+  "description": "Yes, if the existing floor is clean, dry, level, and structurally sound. Professional assessment is needed to confirm feasibility and address any subfloor issue"
+}

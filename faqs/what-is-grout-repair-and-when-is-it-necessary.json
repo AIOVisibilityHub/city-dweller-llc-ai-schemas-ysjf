@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-grout-repair-and-when-is-it-necessary",
+  "name": "What is grout repair and when is it necessary?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is grout repair and when is it necessary?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Grout repair involves fixing damaged or deteriorated grout lines between tiles. This is necessary when grout becomes cracked, chipped, discolored, or starts to crumble. Damaged grout can allow water to penetrate beneath tiles, leading to mold growth, mildew, and potential structural issues like subfloor damage. Repairing grout not only improves the appearance of tiled surfaces but also protects the underlying structure and extends the lifespan of your tile installation. Early intervention can prevent more extensive and costly repairs later.",
+        "@type": "Answer",
+        "description": "Grout repair fixes damaged grout lines, which is necessary when grout cracks, chips, or crumbles to prevent water penetration and further damage."
+      }
+    }
+  ],
+  "description": "Grout repair fixes damaged grout lines, which is necessary when grout cracks, chips, or crumbles to prevent water penetration and further damage."
+}

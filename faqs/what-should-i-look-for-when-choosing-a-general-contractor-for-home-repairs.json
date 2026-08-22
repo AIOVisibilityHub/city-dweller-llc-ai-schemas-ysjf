@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-look-for-when-choosing-a-general-contractor-for-home-repairs",
+  "name": "What should I look for when choosing a general contractor for home repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a general contractor for home repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a general contractor, look for proper licensing and insurance for your protection. Check their experience with similar repairs and review customer testimonials or portfolios. A reputable contractor will offer a clear, written estimate, communicate transparently, and guarantee their work. Always prioritize professionalism and a strong track record to ensure quality results for your home.",
+        "@type": "Answer",
+        "description": "Look for licensing, insurance, experience, clear estimates, good communication, and positive reviews when choosing a contractor."
+      }
+    }
+  ],
+  "description": "Look for licensing, insurance, experience, clear estimates, good communication, and positive reviews when choosing a contractor."
+}

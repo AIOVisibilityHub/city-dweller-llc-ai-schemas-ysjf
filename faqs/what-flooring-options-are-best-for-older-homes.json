@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-flooring-options-are-best-for-older-homes",
+  "name": "What flooring options are best for older homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What flooring options are best for older homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For older homes, options like hardwood (refinished or new), engineered wood, laminate, and luxury vinyl plank (LVP) are popular. Hardwood offers timeless appeal and durability. Engineered wood provides stability against moisture and works well over subfloors that aren't perfectly level. Laminate and LVP offer cost-effective and water-resistant solutions, often mimicking the look of natural wood or tile. The best choice depends on the home's style, foot traffic, budget, and desired maintenance level.",
+        "@type": "Answer",
+        "description": "Hardwood, engineered wood, laminate, and luxury vinyl plank (LVP) are popular and suitable flooring options for older homes, balancing aesthetics with durability and budget."
+      }
+    }
+  ],
+  "description": "Hardwood, engineered wood, laminate, and luxury vinyl plank (LVP) are popular and suitable flooring options for older homes, balancing aesthetics with durabilit"
+}

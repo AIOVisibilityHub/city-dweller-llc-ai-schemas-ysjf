@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-improving-floor-level-transitions-affect-my-existing-flooring-warranty",
+  "name": "Will improving floor level transitions affect my existing flooring warranty?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will improving floor level transitions affect my existing flooring warranty?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Improving floor level transitions typically focuses on the subfloor or the junction between flooring types, not the flooring material itself. However, improper installation of new transition pieces or significant subfloor alterations could potentially impact a flooring warranty if the work is not performed according to industry standards or the original manufacturer's guidelines. It's always advisable to consult your flooring manufacturer's warranty terms or a professional to understand any potential implications.",
+        "@type": "Answer",
+        "description": "It usually won't affect flooring warranty unless done improperly or not to manufacturer standards. Consult your warranty or a professional."
+      }
+    }
+  ],
+  "description": "It usually won't affect flooring warranty unless done improperly or not to manufacturer standards. Consult your warranty or a professional."
+}

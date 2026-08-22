@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-professional-trip-hazard-repair-instead-of-diy-solutions",
+  "name": "When should I consider professional trip hazard repair instead of DIY solutions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider professional trip hazard repair instead of DIY solutions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor patching might seem like a DIY option, professional repair is recommended for most trip hazards, especially those involving concrete, asphalt, or significant structural issues. Professionals have the right equipment, expertise, and knowledge of local codes to ensure a durable and safe repair. Improper DIY fixes can often be temporary, lead to further damage, or fail to meet safety standards, potentially creating new liabilities.",
+        "@type": "Answer",
+        "description": "Professional repair is recommended for most trip hazards, especially concrete or asphalt, to ensure durability, safety, and compliance with local codes."
+      }
+    }
+  ],
+  "description": "Professional repair is recommended for most trip hazards, especially concrete or asphalt, to ensure durability, safety, and compliance with local codes."
+}

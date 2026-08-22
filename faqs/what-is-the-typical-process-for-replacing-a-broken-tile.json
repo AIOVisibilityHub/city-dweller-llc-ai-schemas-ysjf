@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-replacing-a-broken-tile",
+  "name": "What is the typical process for replacing a broken tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for replacing a broken tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for replacing a broken tile typically involves carefully removing the damaged tile without disturbing adjacent tiles. This often requires scoring the grout lines, then breaking and prying out the old tile. Once the old tile is removed, the area is cleaned thoroughly to remove old mortar and debris. New thin-set mortar is applied, and a new tile is carefully set into place, ensuring it's level with surrounding tiles. After the mortar cures, new grout is applied to match the existing grout lines. The final step involves cleaning excess grout and allowing it to cure completely.",
+        "@type": "Answer",
+        "description": "The process involves removing the old tile, cleaning the area, applying new mortar, setting a new tile, and finally grouting and cleaning."
+      }
+    }
+  ],
+  "description": "The process involves removing the old tile, cleaning the area, applying new mortar, setting a new tile, and finally grouting and cleaning."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-non-slip-flooring-are-available-for-homes-and-businesses",
+  "name": "What types of non-slip flooring are available for homes and businesses?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of non-slip flooring are available for homes and businesses?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There's a wide range of non-slip flooring options. For homes, popular choices include textured ceramic or porcelain tiles, vinyl, and rubber flooring, especially for bathrooms and kitchens. Businesses often opt for more durable solutions like non-slip epoxy coatings, safety vinyl, or specialized textured concrete finishes, particularly in high-traffic commercial kitchens, industrial settings, or public restrooms. Each type offers varying degrees of slip resistance, durability, and aesthetic appeal to suit different needs.",
+        "@type": "Answer",
+        "description": "Options include textured tiles, vinyl, and rubber for homes. Businesses often choose durable epoxy coatings, safety vinyl, or textured concrete."
+      }
+    }
+  ],
+  "description": "Options include textured tiles, vinyl, and rubber for homes. Businesses often choose durable epoxy coatings, safety vinyl, or textured concrete."
+}

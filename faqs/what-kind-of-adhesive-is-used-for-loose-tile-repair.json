@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-adhesive-is-used-for-loose-tile-repair",
+  "name": "What kind of adhesive is used for loose tile repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of adhesive is used for loose tile repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For loose tile repair, the choice of adhesive largely depends on the tile type, subfloor material, and moisture exposure. Typically, a high-quality thin-set mortar is used, often a polymer-modified version for enhanced bond strength and flexibility. For areas prone to moisture, like bathrooms, a waterproof or moisture-resistant thin-set is crucial. Our contractors select the appropriate adhesive based on the specific conditions of your installation.",
+        "@type": "Answer",
+        "description": "High-quality thin-set mortar, often polymer-modified, is typically used. The specific type depends on the tile, subfloor, and moisture conditions."
+      }
+    }
+  ],
+  "description": "High-quality thin-set mortar, often polymer-modified, is typically used. The specific type depends on the tile, subfloor, and moisture conditions."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-signs-that-my-tile-floor-needs-to-be-replaced",
+  "name": "What are the signs that my tile floor needs to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my tile floor needs to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common indicators that your tile floor needs replacement include widespread cracks, loose or missing tiles, significant grout damage, or uneven surfaces. Beyond aesthetics, water damage, especially in bathrooms or kitchens, often compromises the subfloor and necessitates a full replacement to prevent further structural issues. If your current tile is outdated or no longer suits your home's style and functionality needs, a replacement can also significantly improve your living space and property value.",
+        "@type": "Answer",
+        "description": "Signs include widespread cracks, loose tiles, significant grout damage, uneven surfaces, or water damage. Outdated styles can also prompt replacement."
+      }
+    }
+  ],
+  "description": "Signs include widespread cracks, loose tiles, significant grout damage, uneven surfaces, or water damage. Outdated styles can also prompt replacement."
+}

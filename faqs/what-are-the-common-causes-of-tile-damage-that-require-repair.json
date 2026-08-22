@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-causes-of-tile-damage-that-require-repair",
+  "name": "What are the common causes of tile damage that require repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common causes of tile damage that require repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors commonly lead to tile damage. Impact from dropped objects is a frequent cause of chips and cracks. Subfloor issues, such as settling, inadequate preparation, or moisture intrusion, can cause tiles to crack, lift, or become loose. Improper installation techniques, including insufficient adhesive coverage or incorrect grout application, can also contribute to premature failure. Additionally, extreme temperature fluctuations or heavy foot traffic can stress tiles and grout over time, leading to wear and tear.",
+        "@type": "Answer",
+        "description": "Common causes of tile damage include impact, subfloor issues, improper installation, and environmental stressors like temperature changes or heavy traffic."
+      }
+    }
+  ],
+  "description": "Common causes of tile damage include impact, subfloor issues, improper installation, and environmental stressors like temperature changes or heavy traffic."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-tile-are-commonly-used-for-kitchen-backsplashes",
+  "name": "What types of tile are commonly used for kitchen backsplashes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of tile are commonly used for kitchen backsplashes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common backsplash tile materials include ceramic, porcelain, glass, and natural stone. Ceramic and porcelain are durable, cost-effective, and offer a wide range of styles. Glass tiles add a modern, reflective look. Natural stone, such as marble or travertine, provides a unique, luxurious finish but may require more maintenance due to its porous nature. Each material has different characteristics regarding durability, water resistance, and aesthetic appeal, influencing the overall look and longevity of your kitchen backsplash.",
+        "@type": "Answer",
+        "description": "Common backsplash tile types are ceramic, porcelain, glass, and natural stone. Each offers different durability, water resistance, and aesthetic qualities."
+      }
+    }
+  ],
+  "description": "Common backsplash tile types are ceramic, porcelain, glass, and natural stone. Each offers different durability, water resistance, and aesthetic qualities."
+}

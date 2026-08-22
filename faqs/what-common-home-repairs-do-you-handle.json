@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-common-home-repairs-do-you-handle",
+  "name": "What common home repairs do you handle?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common home repairs do you handle?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC handles a wide range of common home repairs. This includes minor plumbing fixes like leaky faucets or running toilets, electrical repairs such as faulty outlets or light switches, and general carpentry for damaged trim, doors, or cabinets. We also address drywall repair, painting, and basic appliance troubleshooting to keep your home functioning smoothly and looking its best.",
+        "@type": "Answer",
+        "description": "We handle common repairs like plumbing, electrical, carpentry, drywall, and painting for various home issues."
+      }
+    }
+  ],
+  "description": "We handle common repairs like plumbing, electrical, carpentry, drywall, and painting for various home issues."
+}

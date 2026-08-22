@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-replace-a-broken-tile-myself-or-should-i-hire-a-professional",
+  "name": "Can I replace a broken tile myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace a broken tile myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's possible for an experienced DIYer to replace a single broken tile, hiring a professional contractor is often recommended for the best results. Professionals have the right tools and expertise to safely remove the damaged tile without harming adjacent ones, properly prepare the surface, and ensure the new tile is installed level and with consistent grout lines. Improper installation can lead to future issues, including uneven surfaces, loose tiles, or moisture problems. For multiple tiles or complex patterns, a professional ensures a seamless finish.",
+        "@type": "Answer",
+        "description": "Hiring a professional is recommended for broken tile replacement to ensure proper removal, installation, and a seamless finish, especially for multiple tiles."
+      }
+    }
+  ],
+  "description": "Hiring a professional is recommended for broken tile replacement to ensure proper removal, installation, and a seamless finish, especially for multiple tiles."
+}

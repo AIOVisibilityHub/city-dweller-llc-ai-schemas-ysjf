@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-floor-transition-and-why-does-it-need-repair",
+  "name": "What is a floor transition and why does it need repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a floor transition and why does it need repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A floor transition, also known as a transition strip or reducer, is a piece of molding that bridges the gap between two different flooring surfaces or heights. It creates a smooth, safe, and aesthetic connection, preventing tripping hazards and protecting the edges of your flooring. Transitions can need repair due to wear and tear, loosening from the subfloor, water damage, or incorrect installation, leading to instability, gaps, or splintering. Addressing these issues promptly prevents further damage and maintains your home's safety and appearance.",
+        "@type": "Answer",
+        "description": "A floor transition connects two different flooring types or heights. Repair is needed when it's damaged, loose, or creates a tripping hazard."
+      }
+    }
+  ],
+  "description": "A floor transition connects two different flooring types or heights. Repair is needed when it's damaged, loose, or creates a tripping hazard."
+}

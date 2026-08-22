@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-flooring-are-considered-accessible-for-homes",
+  "name": "What types of flooring are considered accessible for homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of flooring are considered accessible for homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Accessible flooring prioritizes safety, stability, and ease of movement. Common accessible options include low-pile carpeting, which provides a comfortable surface without hindering mobility devices; non-slip vinyl or linoleum, known for its seamless installation and water resistance; hardwood or laminate with a smooth, even finish; and polished concrete. The key is to avoid high-pile carpets, uneven transitions, or highly reflective surfaces that can cause disorientation. Materials should also be durable and easy to maintain.",
+        "@type": "Answer",
+        "description": "Accessible flooring options include low-pile carpet, non-slip vinyl/linoleum, smooth hardwood/laminate, and polished concrete, focusing on safety and ease of movement."
+      }
+    }
+  ],
+  "description": "Accessible flooring options include low-pile carpet, non-slip vinyl/linoleum, smooth hardwood/laminate, and polished concrete, focusing on safety and ease of mo"
+}

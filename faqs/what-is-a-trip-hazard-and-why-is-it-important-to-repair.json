@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-trip-hazard-and-why-is-it-important-to-repair",
+  "name": "What is a trip hazard and why is it important to repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a trip hazard and why is it important to repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A trip hazard is anything that can cause someone to stumble or fall, such as uneven sidewalks, cracked pavement, or raised tree roots. Repairing these hazards is crucial for safety, as falls can lead to serious injuries. Property owners are generally responsible for maintaining safe conditions on their premises, and addressing trip hazards helps prevent accidents and potential liability.",
+        "@type": "Answer",
+        "description": "A trip hazard is an uneven surface that can cause falls. Repairing them is important for safety and to prevent accidents."
+      }
+    }
+  ],
+  "description": "A trip hazard is an uneven surface that can cause falls. Repairing them is important for safety and to prevent accidents."
+}

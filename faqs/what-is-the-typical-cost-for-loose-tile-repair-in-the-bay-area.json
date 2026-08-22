@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-for-loose-tile-repair-in-the-bay-area",
+  "name": "What is the typical cost for loose tile repair in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for loose tile repair in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for loose tile repair in the Bay Area varies depending on several factors, such as the number of tiles needing repair, the type of tile, the extent of subfloor damage, and the complexity of accessing the area. Small repairs involving a few tiles might range from a few hundred dollars, while more extensive issues could cost more. We provide detailed estimates after an on-site evaluation in cities like Pacifica or Daly City.",
+        "@type": "Answer",
+        "description": "Cost varies based on the number of tiles, damage extent, and tile type. Expect a few hundred dollars for small repairs, with larger jobs costing more."
+      }
+    }
+  ],
+  "description": "Cost varies based on the number of tiles, damage extent, and tile type. Expect a few hundred dollars for small repairs, with larger jobs costing more."
+}

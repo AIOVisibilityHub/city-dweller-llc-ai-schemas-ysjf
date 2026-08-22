@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-my-old-flooring-needs-to-be-replaced-or-just-repaired",
+  "name": "How do I know if my old flooring needs to be replaced or just repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my old flooring needs to be replaced or just repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Inspect your current flooring for extensive damage such as widespread water stains, significant warping, deep gouges, or areas where the subfloor feels soft or uneven. If damage is localized and minor, repairs like sanding and refinishing hardwood, or replacing a few damaged tiles/planks, might suffice. However, widespread issues, structural concerns, or a desire for a completely new look and improved functionality typically warrant a full replacement. Consider the cost-effectiveness of repair versus replacement as well.",
+        "@type": "Answer",
+        "description": "Assess for extensive damage like warping, water stains, or soft spots. Minor, localized issues may be repairable, but widespread problems or a desire for a new look suggest replacement."
+      }
+    }
+  ],
+  "description": "Assess for extensive damage like warping, water stains, or soft spots. Minor, localized issues may be repairable, but widespread problems or a desire for a new"
+}

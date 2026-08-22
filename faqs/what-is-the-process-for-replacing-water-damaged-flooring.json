@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-replacing-water-damaged-flooring",
+  "name": "What is the process for replacing water-damaged flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing water-damaged flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with a thorough inspection to assess damage and identify the water source. Next, the damaged flooring and subfloor materials are carefully removed, followed by drying and dehumidification to prevent mold growth. Any necessary subfloor repairs or replacements are completed before the new flooring is installed. Finally, finishing touches and a quality check ensure a durable and aesthetically pleasing result.",
+        "@type": "Answer",
+        "description": "The process involves inspection, removal of damaged materials, drying and subfloor repair, then installation of new flooring, followed by finishing touches and quality checks."
+      }
+    }
+  ],
+  "description": "The process involves inspection, removal of damaged materials, drying and subfloor repair, then installation of new flooring, followed by finishing touches and"
+}

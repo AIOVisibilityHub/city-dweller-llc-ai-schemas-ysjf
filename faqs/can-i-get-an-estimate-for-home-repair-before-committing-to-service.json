@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-get-an-estimate-for-home-repair-before-committing-to-service",
+  "name": "Can I get an estimate for home repair before committing to service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get an estimate for home repair before committing to service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. City Dweller, LLC believes in transparent pricing and will always provide a detailed estimate for your home repair project before any work begins. This estimate will outline the scope of work, estimated material costs, and labor charges. We want to ensure you fully understand the investment required and are comfortable with the plan before proceeding, with no hidden fees or surprises.",
+        "@type": "Answer",
+        "description": "Yes, we always provide a detailed, transparent estimate before starting any home repair work, outlining costs and scope."
+      }
+    }
+  ],
+  "description": "Yes, we always provide a detailed, transparent estimate before starting any home repair work, outlining costs and scope."
+}

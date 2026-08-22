@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-prevent-future-trip-hazards-on-my-property",
+  "name": "How can I prevent future trip hazards on my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future trip hazards on my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing future trip hazards involves regular property maintenance. This includes monitoring sidewalks and driveways for cracks or unevenness, addressing tree root growth before it lifts pavement, ensuring proper drainage to prevent erosion, and promptly repairing small issues before they worsen. Consider installing root barriers when planting trees near paved areas, and periodically inspect all walking surfaces for any signs of wear or shifting.",
+        "@type": "Answer",
+        "description": "Prevent future hazards with regular maintenance: monitor surfaces, address tree roots, ensure drainage, and promptly repair small issues to prevent worsening."
+      }
+    }
+  ],
+  "description": "Prevent future hazards with regular maintenance: monitor surfaces, address tree roots, ensure drainage, and promptly repair small issues to prevent worsening."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-maintenance-requirements-for-aging-in-place-friendly-flooring",
+  "name": "What are the maintenance requirements for aging-in-place friendly flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the maintenance requirements for aging-in-place friendly flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance for aging-in-place friendly flooring focuses on keeping surfaces clean and safe. Low-pile carpets require regular vacuuming to prevent dust and allergen buildup, and occasional deep cleaning. Luxury Vinyl Plank (LVP) and non-slip tiles are low maintenance, typically requiring sweeping or vacuuming, and damp mopping with a mild cleaner. Avoid harsh chemicals that can damage finishes or leave slippery residues. Promptly clean spills to prevent stains and ensure surfaces remain slip-resistant. Regular inspection for wear and tear, especially in high-traffic areas, helps maintain safety over time.",
+        "@type": "Answer",
+        "description": "Aging-in-place flooring needs simple maintenance: regular vacuuming for carpet, and sweeping/damp mopping for LVP and tile. Prompt spill cleanup is essential."
+      }
+    }
+  ],
+  "description": "Aging-in-place flooring needs simple maintenance: regular vacuuming for carpet, and sweeping/damp mopping for LVP and tile. Prompt spill cleanup is essential."
+}

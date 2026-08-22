@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-for-tile-repair-services-in-the-bay-area",
+  "name": "What is the typical cost for tile repair services in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for tile repair services in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tile repair costs in the Bay Area vary widely depending on several factors, including the type of tile, the extent of the damage, and the complexity of the repair. Minor repairs, like replacing a few broken tiles or re-grouting a small area, will be less expensive than extensive work involving subfloor issues or custom tile matching. Material costs for specific tiles, especially if they are discontinued, can also influence the price. Most contractors provide an estimate after an on-site evaluation.",
+        "@type": "Answer",
+        "description": "Costs for tile repair in the Bay Area vary based on damage extent, tile type, and complexity. Minor repairs are less expensive than extensive work."
+      }
+    }
+  ],
+  "description": "Costs for tile repair in the Bay Area vary based on damage extent, tile type, and complexity. Minor repairs are less expensive than extensive work."
+}

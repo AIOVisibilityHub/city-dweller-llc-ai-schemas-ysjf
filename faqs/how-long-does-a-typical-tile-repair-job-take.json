@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-tile-repair-job-take",
+  "name": "How long does a typical tile repair job take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical tile repair job take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a tile repair job is highly dependent on the scope of work. Simple tasks like re-grouting a small section or replacing a single tile might take a few hours. More complex repairs involving multiple tiles, subfloor remediation, or specialized matching could extend to a full day or even several days, particularly if curing times for adhesives and grout are needed. Your contractor will provide a time estimate based on the specific requirements of your project.",
+        "@type": "Answer",
+        "description": "Repair times vary; simple jobs may take a few hours, while complex ones involving multiple tiles or subfloor issues could take several days, including curing."
+      }
+    }
+  ],
+  "description": "Repair times vary; simple jobs may take a few hours, while complex ones involving multiple tiles or subfloor issues could take several days, including curing."
+}

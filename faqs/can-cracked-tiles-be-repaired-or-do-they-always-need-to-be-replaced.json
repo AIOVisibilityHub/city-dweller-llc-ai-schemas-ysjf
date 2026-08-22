@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-cracked-tiles-be-repaired-or-do-they-always-need-to-be-replaced",
+  "name": "Can cracked tiles be repaired, or do they always need to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can cracked tiles be repaired, or do they always need to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor hairline cracks in tiles can often be successfully repaired using epoxy fillers or color-matched grout, especially if the tile is otherwise secure. This method restores the aesthetic and helps prevent further damage. However, larger cracks, cracks that indicate structural issues underneath, or tiles that are severely fractured typically require replacement. The decision often depends on the crack's size, location, and the underlying cause.",
+        "@type": "Answer",
+        "description": "Minor hairline cracks can often be repaired with fillers or grout, but larger or structurally indicative cracks usually require tile replacement."
+      }
+    }
+  ],
+  "description": "Minor hairline cracks can often be repaired with fillers or grout, but larger or structurally indicative cracks usually require tile replacement."
+}

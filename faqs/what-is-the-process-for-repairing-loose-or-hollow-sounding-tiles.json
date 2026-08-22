@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-repairing-loose-or-hollow-sounding-tiles",
+  "name": "What is the process for repairing loose or hollow-sounding tiles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing loose or hollow-sounding tiles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing loose or hollow-sounding tiles usually involves re-bonding them to the subfloor. First, the old grout around the tile is removed. If possible, a specialized adhesive is injected underneath the tile through small holes or the loosened edges. The tile is then pressed down and secured until the adhesive cures. If the tile cannot be re-bonded, it may need to be carefully removed, the old adhesive scraped off, and then reinstalled with new thin-set mortar and grout. This process ensures stability and prevents further loosening.",
+        "@type": "Answer",
+        "description": "Loose tiles are typically re-bonded by injecting adhesive underneath. If that's not possible, the tile is removed, subfloor prepared, and reinstalled with new mortar and grout."
+      }
+    }
+  ],
+  "description": "Loose tiles are typically re-bonded by injecting adhesive underneath. If that's not possible, the tile is removed, subfloor prepared, and reinstalled with new m"
+}

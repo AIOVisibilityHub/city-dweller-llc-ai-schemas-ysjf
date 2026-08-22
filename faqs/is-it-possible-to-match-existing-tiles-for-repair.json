@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/is-it-possible-to-match-existing-tiles-for-repair",
+  "name": "Is it possible to match existing tiles for repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it possible to match existing tiles for repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Matching existing tiles for repair can be challenging but is often possible. Contractors will first try to source identical tiles if the original manufacturer and color/style are known and still available. If not, they may look for close matches from various suppliers or salvaged materials. For very unique or discontinued tiles, a repair might involve using a contrasting but complementary tile, or in some cases, custom fabrication may be explored, though this is significantly more expensive. Always keep spare tiles from the original installation if possible.",
+        "@type": "Answer",
+        "description": "Matching existing tiles is often possible by sourcing identical tiles or close alternatives. Keep spare tiles if you have them."
+      }
+    }
+  ],
+  "description": "Matching existing tiles is often possible by sourcing identical tiles or close alternatives. Keep spare tiles if you have them."
+}

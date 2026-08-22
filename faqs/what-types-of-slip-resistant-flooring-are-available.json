@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-slip-resistant-flooring-are-available",
+  "name": "What types of slip-resistant flooring are available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of slip-resistant flooring are available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There's a wide variety of slip-resistant flooring options, each suited for different applications. Common types include vinyl, rubber, epoxy coatings with aggregate, safety tiles, and specific types of concrete finishes. Vinyl and rubber are popular for commercial and healthcare settings due to their durability and ease of maintenance. Epoxy coatings offer high chemical resistance and can be customized for various slip-resistance levels. Safety tiles often feature textured surfaces, while certain concrete treatments can enhance grip. The best choice depends on traffic, environment, and aesthetic preferences.",
+        "@type": "Answer",
+        "description": "Available types include vinyl, rubber, epoxy coatings, safety tiles, and specialized concrete finishes, each suited for different needs."
+      }
+    }
+  ],
+  "description": "Available types include vinyl, rubber, epoxy coatings, safety tiles, and specialized concrete finishes, each suited for different needs."
+}

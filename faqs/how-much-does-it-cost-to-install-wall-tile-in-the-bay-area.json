@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-install-wall-tile-in-the-bay-area",
+  "name": "How much does it cost to install wall tile in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install wall tile in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of wall tile installation in the Bay Area can vary significantly based on factors such as tile material, square footage, wall preparation required, and the intricacy of the design. Labor costs in our service areas like Pacifica, Daly City, and South San Francisco might differ slightly. Generally, prices include labor, setting materials, and grout. For an accurate estimate, we recommend a personalized consultation where we can assess your project's specific needs and provide a detailed quote.",
+        "@type": "Answer",
+        "description": "Wall tile installation costs in the Bay Area vary by tile type, project size, and labor. A personalized consultation provides an accurate quote."
+      }
+    }
+  ],
+  "description": "Wall tile installation costs in the Bay Area vary by tile type, project size, and labor. A personalized consultation provides an accurate quote."
+}

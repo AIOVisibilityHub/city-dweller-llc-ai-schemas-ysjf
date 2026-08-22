@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-hire-a-handyman-versus-a-specialized-contractor",
+  "name": "When should I hire a handyman versus a specialized contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I hire a handyman versus a specialized contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should hire a handyman for smaller, general maintenance, repair tasks, and odd jobs around your property that don't require specialized licenses or extensive project management. This includes tasks like drywall repair, fixture installation, fence mending, or furniture assembly. A specialized contractor, such as an electrician or plumber, is necessary for larger projects that require specific trade expertise, permits, or involve complex system installations like new wiring, major plumbing overhauls, or structural changes. Handymen offer a cost-effective solution for a broad range of minor fixes and improvements.",
+        "@type": "Answer",
+        "description": "Hire a handyman for general repairs and odd jobs, but choose a specialized contractor for larger projects requiring specific trade licenses, permits, or complex system installations."
+      }
+    }
+  ],
+  "description": "Hire a handyman for general repairs and odd jobs, but choose a specialized contractor for larger projects requiring specific trade licenses, permits, or complex"
+}

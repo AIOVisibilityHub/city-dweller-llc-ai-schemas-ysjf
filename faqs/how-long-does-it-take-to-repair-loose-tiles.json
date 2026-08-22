@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-repair-loose-tiles",
+  "name": "How long does it take to repair loose tiles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair loose tiles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required for loose tile repair depends on the number of tiles, the extent of underlying damage, and the drying time for adhesives and grout. A repair involving a few individual tiles might be completed within a few hours of work, but the area will typically need 24-48 hours before it can bear foot traffic due to mortar and grout curing times. Larger projects with significant subfloor repairs will naturally take longer.",
+        "@type": "Answer",
+        "description": "Repairing a few tiles takes a few hours, but the area needs 24-48 hours to cure. Larger projects take more time."
+      }
+    }
+  ],
+  "description": "Repairing a few tiles takes a few hours, but the area needs 24-48 hours to cure. Larger projects take more time."
+}

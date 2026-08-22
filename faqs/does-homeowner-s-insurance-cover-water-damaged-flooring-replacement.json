@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/does-homeowner-s-insurance-cover-water-damaged-flooring-replacement",
+  "name": "Does homeowner's insurance cover water-damaged flooring replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does homeowner's insurance cover water-damaged flooring replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance typically covers flooring replacement due to sudden and accidental water damage, such as a burst pipe or appliance malfunction. However, damage from neglected maintenance, floods (which require separate flood insurance), or sewer backups may not be covered. It's crucial to review your specific policy details and contact your insurance provider immediately after discovering damage to understand your coverage and claims process.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance often covers sudden, accidental water damage but usually excludes damage from neglect, floods (separate insurance needed), or sewer backups. Review your policy."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance often covers sudden, accidental water damage but usually excludes damage from neglect, floods (separate insurance needed), or sewer backup"
+}

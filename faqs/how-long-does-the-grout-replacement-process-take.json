@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-the-grout-replacement-process-take",
+  "name": "How long does the grout replacement process take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the grout replacement process take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a grout replacement project depends on the size of the area, the current condition of the grout, and the complexity of the tile pattern. A small bathroom floor or backsplash might take one to two days. Larger areas, such as multiple rooms or extensive shower walls, could require several days, including drying and curing times for the new grout. Your contractor can provide a more precise timeline after assessing the job.",
+        "@type": "Answer",
+        "description": "Grout replacement time varies by area size and complexity. Small jobs may take 1-2 days, larger projects several days, including drying."
+      }
+    }
+  ],
+  "description": "Grout replacement time varies by area size and complexity. Small jobs may take 1-2 days, larger projects several days, including drying."
+}

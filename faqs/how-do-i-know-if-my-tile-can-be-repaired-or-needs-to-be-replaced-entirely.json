@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-my-tile-can-be-repaired-or-needs-to-be-replaced-entirely",
+  "name": "How do I know if my tile can be repaired or needs to be replaced entirely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my tile can be repaired or needs to be replaced entirely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repair and replacement depends on the extent of the damage. Small chips, hairline cracks, or a few loose tiles are often repairable by re-grouting, re-bonding, or replacing individual tiles. However, if the damage is widespread, affects the underlying structure, or if matching new tiles to existing ones is impossible, full replacement might be more cost-effective and provide a better long-term solution. A professional assessment can determine the best course of action.",
+        "@type": "Answer",
+        "description": "Small, isolated damage often allows for repair, while widespread or structural issues may require full replacement. A professional can assess the best option."
+      }
+    }
+  ],
+  "description": "Small, isolated damage often allows for repair, while widespread or structural issues may require full replacement. A professional can assess the best option."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-install-non-slip-flooring",
+  "name": "How long does it take to install non-slip flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install non-slip flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of non-slip flooring installation depends on the project's scope, the type of material, and the condition of the existing subfloor. Small rooms with straightforward material like vinyl sheets might take a day or two. Larger areas or installations involving epoxy coatings, which require drying and curing times between layers, could extend to several days. Subfloor preparation, such as leveling or moisture remediation, can also add to the overall timeline. A precise estimate will be provided after an assessment of your specific project.",
+        "@type": "Answer",
+        "description": "Installation time varies from a day for small areas to several days for larger projects or those with epoxy coatings due to material type and subfloor conditions."
+      }
+    }
+  ],
+  "description": "Installation time varies from a day for small areas to several days for larger projects or those with epoxy coatings due to material type and subfloor condition"
+}

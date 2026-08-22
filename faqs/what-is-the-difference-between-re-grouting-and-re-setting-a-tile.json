@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-re-grouting-and-re-setting-a-tile",
+  "name": "What is the difference between re-grouting and re-setting a tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between re-grouting and re-setting a tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Re-grouting involves removing the old, compromised grout from around the tiles and replacing it with new grout. This is typically done when grout is cracked, discolored, or missing, but the tiles themselves are firmly adhered. Re-setting a tile, however, addresses a tile that has become loose or detached from the subfloor. It involves removing the tile, cleaning the old adhesive, applying new mortar, and then re-grouting. Re-setting is a more involved repair than just re-grouting.",
+        "@type": "Answer",
+        "description": "Re-grouting replaces old grout while tiles are firm. Re-setting involves removing a loose tile, applying new adhesive, and then re-grouting."
+      }
+    }
+  ],
+  "description": "Re-grouting replaces old grout while tiles are firm. Re-setting involves removing a loose tile, applying new adhesive, and then re-grouting."
+}

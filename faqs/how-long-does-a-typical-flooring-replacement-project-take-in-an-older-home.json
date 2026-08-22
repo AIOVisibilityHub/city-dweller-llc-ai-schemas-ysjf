@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-flooring-replacement-project-take-in-an-older-home",
+  "name": "How long does a typical flooring replacement project take in an older home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical flooring replacement project take in an older home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a flooring replacement project in an older home varies based on several factors: the size of the area, the type of new flooring, and the condition of the existing subfloor. Demolition of old materials, especially if hazardous like asbestos, adds time. Subfloor repairs or leveling can also extend the timeline. Generally, a project for an average-sized room might take a few days, while an entire home could span one to two weeks, not including any necessary drying times for glues or finishes.",
+        "@type": "Answer",
+        "description": "Project duration varies by area size, new flooring type, and subfloor condition. It can range from a few days for a room to one to two weeks for an entire home, plus any drying times."
+      }
+    }
+  ],
+  "description": "Project duration varies by area size, new flooring type, and subfloor condition. It can range from a few days for a room to one to two weeks for an entire home,"
+}

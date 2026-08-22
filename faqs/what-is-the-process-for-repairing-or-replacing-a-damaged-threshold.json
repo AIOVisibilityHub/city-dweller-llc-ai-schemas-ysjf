@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-repairing-or-replacing-a-damaged-threshold",
+  "name": "What is the process for repairing or replacing a damaged threshold?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing or replacing a damaged threshold?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process typically begins with an inspection to assess the damage and determine if repair or full replacement is needed. For replacement, we carefully remove the old threshold, clean the area, and prepare the subfloor. A new threshold is then custom-cut and installed, ensuring a tight, weather-sealed fit. For repairs, we address specific issues like sealing cracks or reinforcing loose sections. We finish by sealing or painting to match your existing aesthetic and protect against future damage.",
+        "@type": "Answer",
+        "description": "The process involves inspection, removal of old material, preparing the area, installing or repairing the new threshold, and finishing with sealing."
+      }
+    }
+  ],
+  "description": "The process involves inspection, removal of old material, preparing the area, installing or repairing the new threshold, and finishing with sealing."
+}

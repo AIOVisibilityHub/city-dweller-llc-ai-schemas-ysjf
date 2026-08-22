@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-maintenance-is-required-for-tiled-showers",
+  "name": "What maintenance is required for tiled showers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for tiled showers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintaining a tiled shower primarily involves regular cleaning to prevent mold, mildew, and soap scum buildup. Use pH-neutral cleaners and avoid harsh abrasives that can damage grout or tile surfaces. For natural stone tiles, use cleaners specifically designed for stone. Grout lines, especially cement-based ones, may require periodic sealing to maintain their water resistance and prevent staining. Inspect grout and caulk lines annually for cracks or deterioration, and repair them promptly to prevent water penetration. Proper ventilation after each shower also helps reduce moisture buildup.",
+        "@type": "Answer",
+        "description": "Regular cleaning with pH-neutral cleaners and proper ventilation are essential. Periodically seal grout lines, especially for natural stone, and inspect for any cracks or deterioration."
+      }
+    }
+  ],
+  "description": "Regular cleaning with pH-neutral cleaners and proper ventilation are essential. Periodically seal grout lines, especially for natural stone, and inspect for any"
+}

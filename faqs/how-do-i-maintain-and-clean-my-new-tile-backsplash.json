@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-maintain-and-clean-my-new-tile-backsplash",
+  "name": "How do I maintain and clean my new tile backsplash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I maintain and clean my new tile backsplash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintaining your tile backsplash primarily depends on the tile and grout material. For most ceramic, porcelain, and glass tiles, a mild soap and water solution with a soft cloth or sponge is sufficient for regular cleaning. Avoid abrasive cleaners or scouring pads, as they can scratch the tile or damage the grout. For natural stone, use pH-neutral cleaners specifically designed for stone to prevent etching or discoloration. Grout should be sealed periodically, especially with porous types, to prevent staining and mildew. Regular, gentle cleaning helps preserve its appearance.",
+        "@type": "Answer",
+        "description": "Clean most backsplashes with mild soap and water. Use pH-neutral cleaners for natural stone. Avoid abrasives and seal grout periodically."
+      }
+    }
+  ],
+  "description": "Clean most backsplashes with mild soap and water. Use pH-neutral cleaners for natural stone. Avoid abrasives and seal grout periodically."
+}

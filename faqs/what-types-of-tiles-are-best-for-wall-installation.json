@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-tiles-are-best-for-wall-installation",
+  "name": "What types of tiles are best for wall installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of tiles are best for wall installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common types of tiles suitable for wall installation include ceramic, porcelain, glass, and natural stone (like marble or travertine). Ceramic and porcelain are popular choices due to their durability, variety of designs, and ease of maintenance. Glass tiles offer a unique aesthetic with light-reflecting qualities, while natural stone provides a luxurious and earthy feel. The best choice depends on the specific application, desired aesthetic, and practical considerations like moisture exposure and budget.",
+        "@type": "Answer",
+        "description": "Popular wall tiles include ceramic, porcelain, glass, and natural stone. The best choice depends on aesthetics, application, and budget."
+      }
+    }
+  ],
+  "description": "Popular wall tiles include ceramic, porcelain, glass, and natural stone. The best choice depends on aesthetics, application, and budget."
+}

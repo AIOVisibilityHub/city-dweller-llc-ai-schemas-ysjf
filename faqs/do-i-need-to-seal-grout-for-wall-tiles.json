@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-seal-grout-for-wall-tiles",
+  "name": "Do I need to seal grout for wall tiles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to seal grout for wall tiles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, sealing grout for wall tiles is generally recommended, especially in high-moisture areas like bathrooms and kitchens. Grout is porous and can absorb water, stains, and mildew if not sealed. Sealing helps to protect the grout from discoloration, makes cleaning easier, and prolongs its lifespan. There are various types of sealers, including penetrating and topical options, and the choice depends on the grout type and location. We ensure proper sealing for all applicable installations.",
+        "@type": "Answer",
+        "description": "Yes, sealing grout is recommended for wall tiles, especially in wet areas, to prevent stains, mildew, and prolong its lifespan."
+      }
+    }
+  ],
+  "description": "Yes, sealing grout is recommended for wall tiles, especially in wet areas, to prevent stains, mildew, and prolong its lifespan."
+}

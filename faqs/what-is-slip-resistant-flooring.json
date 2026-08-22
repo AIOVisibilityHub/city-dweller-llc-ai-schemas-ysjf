@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-slip-resistant-flooring",
+  "name": "What is slip-resistant flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is slip-resistant flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Slip-resistant flooring is designed with textured surfaces or specific materials to increase friction, even when wet, reducing the risk of slips and falls. Unlike standard flooring, these options prioritize safety, making them ideal for high-traffic areas, commercial kitchens, bathrooms, or industrial settings where spills are common. The degree of slip resistance varies by product and is often measured by its coefficient of friction. This type of flooring is essential in environments where safety and compliance with regulations are paramount.",
+        "@type": "Answer",
+        "description": "Slip-resistant flooring uses textured surfaces or specialized materials to increase friction and prevent slips, especially in wet conditions."
+      }
+    }
+  ],
+  "description": "Slip-resistant flooring uses textured surfaces or specialized materials to increase friction and prevent slips, especially in wet conditions."
+}

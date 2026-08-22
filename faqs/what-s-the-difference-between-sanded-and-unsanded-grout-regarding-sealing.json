@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-sanded-and-unsanded-grout-regarding-sealing",
+  "name": "What's the difference between sanded and unsanded grout regarding sealing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between sanded and unsanded grout regarding sealing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sanded grout contains sand particles, making it ideal for wider grout lines (typically 1/8 inch or more) and providing greater strength and resistance to cracking. Its porous nature makes sealing particularly important to prevent stains and moisture absorption. Unsanded grout, which lacks sand, is smoother and used for narrower grout lines (less than 1/8 inch) and softer tiles that could be scratched by sand. While less porous than sanded grout, unsanded grout can still benefit from sealing, especially in wet areas, to enhance stain resistance and ease of cleaning.",
+        "@type": "Answer",
+        "description": "Sanded grout is porous and requires sealing, especially for wider lines. Unsanded grout is smoother, used for narrower lines, and benefits from sealing for stain resistance, even if less porous."
+      }
+    }
+  ],
+  "description": "Sanded grout is porous and requires sealing, especially for wider lines. Unsanded grout is smoother, used for narrower lines, and benefits from sealing for stai"
+}

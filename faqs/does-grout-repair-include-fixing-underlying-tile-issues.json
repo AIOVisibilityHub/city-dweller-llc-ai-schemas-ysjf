@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/does-grout-repair-include-fixing-underlying-tile-issues",
+  "name": "Does grout repair include fixing underlying tile issues?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does grout repair include fixing underlying tile issues?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Grout repair primarily focuses on addressing the grout itself. However, if the grout damage is a symptom of a larger underlying issue, such as loose tiles, subfloor movement, or significant water damage, those issues would typically need to be addressed separately or as part of a more comprehensive renovation. A professional contractor performing grout repair will often inspect for these underlying problems during the initial assessment. If such issues are found, they will usually recommend a plan that includes repairing or replacing the affected tiles and addressing the structural problem before proceeding with new grout, ensuring a lasting repair.",
+        "@type": "Answer",
+        "description": "Grout repair focuses on grout, but professionals will identify and recommend solutions for underlying tile issues, like loose tiles or water damage, if present."
+      }
+    }
+  ],
+  "description": "Grout repair focuses on grout, but professionals will identify and recommend solutions for underlying tile issues, like loose tiles or water damage, if present."
+}

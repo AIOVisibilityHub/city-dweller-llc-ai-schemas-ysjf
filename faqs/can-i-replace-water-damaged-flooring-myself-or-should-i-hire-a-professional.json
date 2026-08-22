@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-replace-water-damaged-flooring-myself-or-should-i-hire-a-professional",
+  "name": "Can I replace water-damaged flooring myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace water-damaged flooring myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor surface repairs might be a DIY project, replacing water-damaged flooring, especially with subfloor involvement or potential mold, is best handled by professionals. Contractors have the specialized equipment for proper drying and moisture detection, expertise in safe material removal, and knowledge of correct installation techniques. This ensures structural integrity, prevents future issues like mold, and maintains warranty validity for new materials.",
+        "@type": "Answer",
+        "description": "It's best to hire professionals for water-damaged flooring replacement, especially with subfloor damage or mold. They have specialized equipment and expertise for proper drying and installation."
+      }
+    }
+  ],
+  "description": "It's best to hire professionals for water-damaged flooring replacement, especially with subfloor damage or mold. They have specialized equipment and expertise f"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-for-flooring-replacement-in-a-bay-area-rental-property",
+  "name": "What is the typical cost for flooring replacement in a Bay Area rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for flooring replacement in a Bay Area rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Flooring replacement costs in the Bay Area vary widely based on material, property size, and installation complexity. For luxury vinyl plank (LVP) or laminate, expect costs to range from $4 to $9 per square foot for materials and installation. Ceramic tile can be $8 to $15+ per square foot. These figures typically include old flooring removal, subfloor preparation, and new installation. Given the higher labor costs in the Bay Area, professional installation is a significant component. Obtaining multiple quotes from local general contractors like City Dweller, LLC is recommended for accurate pricing.",
+        "@type": "Answer",
+        "description": "Costs for flooring replacement in the Bay Area range from $4-9 per sq ft for LVP/laminate, and $8-15+ per sq ft for ceramic tile, including materials and installation."
+      }
+    }
+  ],
+  "description": "Costs for flooring replacement in the Bay Area range from $4-9 per sq ft for LVP/laminate, and $8-15+ per sq ft for ceramic tile, including materials and instal"
+}

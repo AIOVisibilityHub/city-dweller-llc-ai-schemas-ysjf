@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-request-a-quote-for-handyman-services",
+  "name": "How do I request a quote for handyman services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I request a quote for handyman services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To request a quote, you can contact City Dweller, LLC directly through our website or by phone. We will typically ask for details about the specific task or repair needed, such as the type of work, estimated scope, and any relevant photos. For smaller, straightforward jobs, we might provide an estimate over the phone or email. For more complex projects, we may schedule a brief on-site visit to accurately assess the work required and provide a detailed, written quote. Our aim is to provide transparent and fair pricing.",
+        "@type": "Answer",
+        "description": "You can request a quote by contacting City Dweller, LLC via our website or phone, providing details about the task; we may offer an estimate remotely or schedule an on-site assessment for complex jobs."
+      }
+    }
+  ],
+  "description": "You can request a quote by contacting City Dweller, LLC via our website or phone, providing details about the task; we may offer an estimate remotely or schedul"
+}

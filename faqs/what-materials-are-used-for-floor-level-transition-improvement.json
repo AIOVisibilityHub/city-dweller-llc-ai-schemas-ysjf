@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-materials-are-used-for-floor-level-transition-improvement",
+  "name": "What materials are used for floor level transition improvement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used for floor level transition improvement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials include self-leveling compounds to smooth out uneven subfloors, plywood or backer board for building up low spots, and various types of transition strips. Transition strips can be made from wood, metal (like aluminum or brass), or PVC, chosen to match or complement your existing flooring. Adhesives, fasteners, and sealants are also critical for secure and durable installations.",
+        "@type": "Answer",
+        "description": "Materials include self-leveling compounds, plywood, and transition strips made of wood, metal, or PVC. Adhesives and fasteners are also used."
+      }
+    }
+  ],
+  "description": "Materials include self-leveling compounds, plywood, and transition strips made of wood, metal, or PVC. Adhesives and fasteners are also used."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-you-repair-loose-tiles-in-both-residential-and-commercial-properties",
+  "name": "Do you repair loose tiles in both residential and commercial properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you repair loose tiles in both residential and commercial properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we provide loose tile repair services for both residential and commercial properties throughout our service areas, including cities like San Bruno and South San Francisco. Our team is equipped to handle various types of tile and flooring systems found in homes, offices, retail spaces, and other commercial environments. We understand the need for minimal disruption and efficient service in commercial settings.",
+        "@type": "Answer",
+        "description": "Yes, we repair loose tiles in both residential and commercial properties across our service areas, including San Bruno and South San Francisco."
+      }
+    }
+  ],
+  "description": "Yes, we repair loose tiles in both residential and commercial properties across our service areas, including San Bruno and South San Francisco."
+}

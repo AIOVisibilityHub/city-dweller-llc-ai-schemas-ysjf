@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-materials-are-used-for-door-thresholds-and-which-is-best-for-my-ho",
+  "name": "What types of materials are used for door thresholds, and which is best for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are used for door thresholds, and which is best for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Thresholds are typically made from wood (oak, mahogany), aluminum, vinyl, or composite materials. Wood offers a classic look but can be prone to rot if not maintained. Aluminum is durable and weather-resistant, often used for exterior doors. Vinyl and composite thresholds provide good insulation and resistance to moisture. The best material depends on your door type, exposure to weather, desired aesthetic, and budget. For exterior doors, weather-resistant options are generally preferred.",
+        "@type": "Answer",
+        "description": "Thresholds use wood, aluminum, vinyl, or composite. The best choice depends on door type, weather exposure, and aesthetic preferences."
+      }
+    }
+  ],
+  "description": "Thresholds use wood, aluminum, vinyl, or composite. The best choice depends on door type, weather exposure, and aesthetic preferences."
+}

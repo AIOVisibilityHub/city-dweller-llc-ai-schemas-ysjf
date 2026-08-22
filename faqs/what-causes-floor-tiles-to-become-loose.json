@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-floor-tiles-to-become-loose",
+  "name": "What causes floor tiles to become loose?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes floor tiles to become loose?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Loose floor tiles are often caused by issues with the subfloor or the adhesive used during installation. Common culprits include moisture penetration, inadequate or improperly mixed thin-set mortar, structural shifts in the building, or a subfloor that wasn't prepared correctly. Expansion and contraction due to temperature changes can also weaken the bond over time, leading to tiles detaching from the base.",
+        "@type": "Answer",
+        "description": "Loose tiles are typically caused by subfloor problems, improper adhesive application, moisture, or structural movement."
+      }
+    }
+  ],
+  "description": "Loose tiles are typically caused by subfloor problems, improper adhesive application, moisture, or structural movement."
+}

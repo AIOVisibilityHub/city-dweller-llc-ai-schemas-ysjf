@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-wall-tile-installation",
+  "name": "What is the typical process for wall tile installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for wall tile installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The wall tile installation process begins with surface preparation, ensuring the wall is clean, dry, and flat. This may involve repairing drywall or removing old finishes. Next, a layout plan is created to ensure proper alignment and minimize cuts. Adhesive (thin-set mortar) is then applied, and tiles are carefully set with spacers for consistent grout lines. After the adhesive cures, grout is applied to fill the spaces between tiles, followed by cleaning and sealing the grout. Finally, any necessary trim or caulk is installed to complete the project.",
+        "@type": "Answer",
+        "description": "The process involves surface preparation, layout planning, tile setting with adhesive, grouting, and sealing."
+      }
+    }
+  ],
+  "description": "The process involves surface preparation, layout planning, tile setting with adhesive, grouting, and sealing."
+}

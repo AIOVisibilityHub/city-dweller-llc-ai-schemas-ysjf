@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-a-typical-home-repair-cost-in-the-bay-area",
+  "name": "How much does a typical home repair cost in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a typical home repair cost in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of home repairs in the Bay Area varies significantly depending on the type and complexity of the job, as well as materials used. Minor repairs, like fixing a leaky faucet, might range from $150-$350, while more involved projects, such as drywall replacement or electrical panel work, could be $500 or more. We provide a detailed, transparent estimate after assessing your specific repair needs to ensure clarity on pricing.",
+        "@type": "Answer",
+        "description": "Repair costs in the Bay Area vary widely; minor fixes might be $150-$350, while larger jobs could exceed $500. We provide detailed estimates."
+      }
+    }
+  ],
+  "description": "Repair costs in the Bay Area vary widely; minor fixes might be $150-$350, while larger jobs could exceed $500. We provide detailed estimates."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-non-slip-flooring-and-where-is-it-commonly-used",
+  "name": "What is non-slip flooring and where is it commonly used?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is non-slip flooring and where is it commonly used?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Non-slip flooring is designed with a textured surface or special coatings to increase friction and reduce the risk of slips and falls, especially when wet. It's commonly used in kitchens, bathrooms, commercial facilities, healthcare environments, and outdoor areas where moisture or spills are frequent. Materials can range from textured tiles and vinyl to specialized epoxy coatings. This type of flooring is essential for enhancing safety in both residential and commercial settings to prevent accidents.",
+        "@type": "Answer",
+        "description": "Non-slip flooring has textured surfaces or special coatings to prevent slips, commonly used in wet areas like kitchens and commercial facilities for enhanced safety."
+      }
+    }
+  ],
+  "description": "Non-slip flooring has textured surfaces or special coatings to prevent slips, commonly used in wet areas like kitchens and commercial facilities for enhanced sa"
+}

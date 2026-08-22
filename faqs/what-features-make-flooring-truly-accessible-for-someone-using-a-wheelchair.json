@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-features-make-flooring-truly-accessible-for-someone-using-a-wheelchair",
+  "name": "What features make flooring truly accessible for someone using a wheelchair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What features make flooring truly accessible for someone using a wheelchair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For wheelchair users, truly accessible flooring features include a firm, stable, and slip-resistant surface that allows for easy propulsion and turning without resistance. Low-pile carpeting (less than 1/2 inch thick) or hard surfaces like smooth hardwood, laminate, or vinyl are ideal. Crucially, all transitions between different flooring materials or rooms should be flush or feature a gradual bevel of no more than 1/4 inch vertical rise without a bevel, or 1/2 inch with a bevel. Avoid highly textured, uneven, or excessively soft surfaces, which can impede wheelchair movement and create a fall risk.",
+        "@type": "Answer",
+        "description": "Accessible flooring for wheelchairs needs a firm, stable, slip-resistant surface like low-pile carpet or hard floors, with flush or gently beveled transitions to prevent impedance."
+      }
+    }
+  ],
+  "description": "Accessible flooring for wheelchairs needs a firm, stable, slip-resistant surface like low-pile carpet or hard floors, with flush or gently beveled transitions t"
+}

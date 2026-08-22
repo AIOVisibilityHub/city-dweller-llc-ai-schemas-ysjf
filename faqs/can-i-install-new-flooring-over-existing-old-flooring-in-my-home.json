@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-install-new-flooring-over-existing-old-flooring-in-my-home",
+  "name": "Can I install new flooring over existing old flooring in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install new flooring over existing old flooring in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In some cases, new flooring can be installed directly over existing flooring, but it depends entirely on the type and condition of the current floor and the new material. For instance, luxury vinyl plank (LVP) can sometimes go over well-adhered, level linoleum or tile. However, soft or uneven existing floors, multiple layers of old flooring, or materials containing asbestos must be removed. Installing over unsuitable existing flooring can lead to an unstable, uneven, or short-lived new floor. Proper preparation is key.",
+        "@type": "Answer",
+        "description": "It depends on the existing floor's type and condition. Some new flooring can go over level, well-adhered old surfaces, but uneven, soft, or asbestos-containing floors require removal."
+      }
+    }
+  ],
+  "description": "It depends on the existing floor's type and condition. Some new flooring can go over level, well-adhered old surfaces, but uneven, soft, or asbestos-containing"
+}

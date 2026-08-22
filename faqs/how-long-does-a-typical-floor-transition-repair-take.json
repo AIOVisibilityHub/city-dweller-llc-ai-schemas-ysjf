@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-floor-transition-repair-take",
+  "name": "How long does a typical floor transition repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical floor transition repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a floor transition repair depends on the complexity and number of transitions involved. A simple re-securing of one or two loose strips might only take an hour or two. However, if multiple transitions need to be replaced, especially with custom-cut or specialized materials, the job could extend to a few hours or even a full day. City Dweller, LLC will provide an estimated timeline after an on-site assessment, ensuring minimal disruption to your home while delivering quality results.",
+        "@type": "Answer",
+        "description": "Repair time varies from an hour for simple fixes to a full day for complex replacements, depending on the scope of work."
+      }
+    }
+  ],
+  "description": "Repair time varies from an hour for simple fixes to a full day for complex replacements, depending on the scope of work."
+}

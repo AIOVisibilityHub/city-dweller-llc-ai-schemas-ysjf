@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-address-loose-tiles",
+  "name": "When should I address loose tiles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I address loose tiles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should address loose tiles as soon as you notice them. Ignoring loose tiles can lead to several problems: water infiltration if the grout joint is compromised, tripping hazards, and potential damage to adjacent tiles or the subfloor. Early intervention can prevent minor issues from escalating into more extensive and costly repairs, preserving the integrity and safety of your flooring.",
+        "@type": "Answer",
+        "description": "Address loose tiles immediately to prevent water damage, tripping hazards, and escalating repair costs."
+      }
+    }
+  ],
+  "description": "Address loose tiles immediately to prevent water damage, tripping hazards, and escalating repair costs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-floor-level-transition-improvement-fix-severe-subfloor-damage",
+  "name": "Can floor level transition improvement fix severe subfloor damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can floor level transition improvement fix severe subfloor damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Floor level transition improvement primarily addresses surface unevenness and the junction between different floor coverings. While it can often correct minor to moderate subfloor issues using leveling compounds or patches, severe subfloor damage—such as extensive water damage, structural rot, or significant sagging—may require more comprehensive subfloor repair or replacement before transition improvements can be effectively implemented. An assessment will determine the best approach.",
+        "@type": "Answer",
+        "description": "It can fix minor to moderate subfloor unevenness. Severe damage may require more extensive subfloor repair or replacement before improvement."
+      }
+    }
+  ],
+  "description": "It can fix minor to moderate subfloor unevenness. Severe damage may require more extensive subfloor repair or replacement before improvement."
+}

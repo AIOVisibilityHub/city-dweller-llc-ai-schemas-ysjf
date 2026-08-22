@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-non-slip-flooring-be-installed-over-existing-floors",
+  "name": "Can non-slip flooring be installed over existing floors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can non-slip flooring be installed over existing floors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many cases, non-slip flooring can be installed over existing floors, but proper preparation of the current surface is critical. The existing floor must be clean, dry, sound, and level. Any damage, cracks, or unevenness will need to be repaired before installation to ensure proper adhesion and a smooth finish. For some non-slip materials like certain epoxies, a full removal of the existing floor might be recommended for optimal performance and longevity. An on-site assessment can determine feasibility and necessary preparatory steps.",
+        "@type": "Answer",
+        "description": "Yes, but the existing floor must be clean, dry, sound, and level. Repairs or full removal might be necessary depending on the material and existing surface condition."
+      }
+    }
+  ],
+  "description": "Yes, but the existing floor must be clean, dry, sound, and level. Repairs or full removal might be necessary depending on the material and existing surface cond"
+}

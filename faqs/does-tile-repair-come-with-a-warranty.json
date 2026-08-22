@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/does-tile-repair-come-with-a-warranty",
+  "name": "Does tile repair come with a warranty?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does tile repair come with a warranty?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many reputable general contractors offer a warranty on their tile repair work, covering both labor and materials for a specified period. The length and scope of the warranty can vary by contractor and the nature of the repair. It's crucial to discuss warranty details before the work begins and ensure they are clearly outlined in your service agreement. This provides peace of mind that any issues arising shortly after the repair will be addressed.",
+        "@type": "Answer",
+        "description": "Many reputable contractors offer a warranty on tile repair work, covering labor and materials. Discuss and confirm warranty details before starting."
+      }
+    }
+  ],
+  "description": "Many reputable contractors offer a warranty on tile repair work, covering labor and materials. Discuss and confirm warranty details before starting."
+}

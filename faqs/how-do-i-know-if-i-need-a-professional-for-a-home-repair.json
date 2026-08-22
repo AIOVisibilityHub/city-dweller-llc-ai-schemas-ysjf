@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-i-need-a-professional-for-a-home-repair",
+  "name": "How do I know if I need a professional for a home repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I need a professional for a home repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider hiring a professional for home repairs when the task involves electrical wiring, complex plumbing, structural integrity, or if you're uncomfortable with the work. Professionals have the experience, tools, and often licenses required to ensure the repair is done safely and correctly, preventing further damage or safety hazards. For minor cosmetic issues, DIY might be an option, but anything beyond that often warrants expert help.",
+        "@type": "Answer",
+        "description": "Hire a professional for complex tasks like electrical, plumbing, or structural repairs, or if you're unsure about safety."
+      }
+    }
+  ],
+  "description": "Hire a professional for complex tasks like electrical, plumbing, or structural repairs, or if you're unsure about safety."
+}

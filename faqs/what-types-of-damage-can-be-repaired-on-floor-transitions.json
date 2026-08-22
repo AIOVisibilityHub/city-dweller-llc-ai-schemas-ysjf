@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-damage-can-be-repaired-on-floor-transitions",
+  "name": "What types of damage can be repaired on floor transitions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of damage can be repaired on floor transitions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many types of damage to floor transitions can be repaired. Common issues include loose or detached strips that create tripping hazards, minor chips or cracks in wood or laminate transitions, and faded or scratched surfaces. For metal transitions, we can often address dents or bending. Sometimes, a full replacement is necessary, especially if there's extensive water damage, severe splintering, or if the strip is completely broken. Our team at City Dweller, LLC can assess the damage and determine the best course of action for a durable repair.",
+        "@type": "Answer",
+        "description": "Common repairs include fixing loose strips, minor chips, cracks, and scratches. Severe damage may require replacement."
+      }
+    }
+  ],
+  "description": "Common repairs include fixing loose strips, minor chips, cracks, and scratches. Severe damage may require replacement."
+}

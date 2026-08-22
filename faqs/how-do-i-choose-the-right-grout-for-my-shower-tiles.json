@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-grout-for-my-shower-tiles",
+  "name": "How do I choose the right grout for my shower tiles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right grout for my shower tiles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right grout involves considering its type, color, and suitability for wet environments. Cement-based grouts are common but require sealing to resist stains and moisture. Epoxy grouts are highly water-resistant, durable, and stain-proof, making them an excellent choice for showers, though they can be more challenging to apply. Sanded grouts are used for wider joints, while unsanded are for narrower ones. Color choice impacts the overall look and how visible dirt or stains become. Consult with your installer for the best option for your specific tile and shower usage.",
+        "@type": "Answer",
+        "description": "Select grout based on type (cement-based or epoxy), color, and joint width. Epoxy grout offers superior water resistance and durability for showers."
+      }
+    }
+  ],
+  "description": "Select grout based on type (cement-based or epoxy), color, and joint width. Epoxy grout offers superior water resistance and durability for showers."
+}

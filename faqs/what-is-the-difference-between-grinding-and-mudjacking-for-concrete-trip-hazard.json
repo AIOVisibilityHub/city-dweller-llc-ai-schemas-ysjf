@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-grinding-and-mudjacking-for-concrete-trip-hazard",
+  "name": "What is the difference between grinding and mudjacking for concrete trip hazard repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between grinding and mudjacking for concrete trip hazard repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Grinding involves using specialized equipment to shave down the higher edge of an uneven concrete slab, creating a smoother transition. It's best for smaller elevation differences. Mudjacking (also known as concrete leveling or slab jacking) involves drilling small holes into the uneven slab and injecting a slurry mixture underneath to lift it back to its original position. Mudjacking addresses the underlying cause of settlement and is suitable for more significant elevation changes, providing a more comprehensive repair.",
+        "@type": "Answer",
+        "description": "Grinding shaves down high spots, suitable for small differences. Mudjacking lifts the slab by injecting material underneath, addressing settlement for larger differences."
+      }
+    }
+  ],
+  "description": "Grinding shaves down high spots, suitable for small differences. Mudjacking lifts the slab by injecting material underneath, addressing settlement for larger di"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-floor-level-issues-can-be-addressed-through-improvement",
+  "name": "What types of floor level issues can be addressed through improvement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of floor level issues can be addressed through improvement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Floor level improvement can address a variety of issues, such as height differences between rooms with different flooring, uneven subfloors causing dips or humps, and gaps where flooring meets walls or other surfaces. It also includes rectifying loose or damaged existing transitions, ensuring a smooth and safe connection between various floor coverings like tile, hardwood, and carpet. This process creates a more uniform and functional surface.",
+        "@type": "Answer",
+        "description": "It addresses height differences between flooring types, uneven subfloors, gaps, and damaged existing transitions, creating a uniform surface."
+      }
+    }
+  ],
+  "description": "It addresses height differences between flooring types, uneven subfloors, gaps, and damaged existing transitions, creating a uniform surface."
+}

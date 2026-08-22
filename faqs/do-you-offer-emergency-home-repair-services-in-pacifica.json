@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-you-offer-emergency-home-repair-services-in-pacifica",
+  "name": "Do you offer emergency home repair services in Pacifica?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer emergency home repair services in Pacifica?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, City Dweller, LLC understands that some home repairs can't wait. We offer emergency repair services for critical issues that require immediate attention, such as major plumbing leaks, electrical hazards, or secure door/window repairs that compromise your home's safety. For residents in Pacifica and our other service areas, please call us directly to assess your emergency and dispatch a team as quickly as possible.",
+        "@type": "Answer",
+        "description": "Yes, we offer emergency home repair services in Pacifica for critical issues like major leaks or electrical hazards. Call us directly."
+      }
+    }
+  ],
+  "description": "Yes, we offer emergency home repair services in Pacifica for critical issues like major leaks or electrical hazards. Call us directly."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-remove-my-old-tile-before-new-tile-can-be-installed",
+  "name": "Do I need to remove my old tile before new tile can be installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to remove my old tile before new tile can be installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most tile replacement projects, the old tile must be removed to ensure a stable and level subfloor for the new installation. Installing new tile over existing tile can lead to an uneven surface, compromised adhesion, and potential cracking. It also adds significant weight to the floor structure. While there are rare exceptions for very specific conditions, demolition is usually a necessary and crucial step to guarantee the longevity and quality of your new tile floor. This ensures proper subfloor preparation and a professional finish.",
+        "@type": "Answer",
+        "description": "Typically, old tile must be removed to ensure a stable, level subfloor and proper adhesion for new tile. Installing over old tile can cause unevenness and cracking."
+      }
+    }
+  ],
+  "description": "Typically, old tile must be removed to ensure a stable, level subfloor and proper adhesion for new tile. Installing over old tile can cause unevenness and crack"
+}

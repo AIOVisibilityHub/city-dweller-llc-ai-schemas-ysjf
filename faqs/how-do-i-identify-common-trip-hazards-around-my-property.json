@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-identify-common-trip-hazards-around-my-property",
+  "name": "How do I identify common trip hazards around my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I identify common trip hazards around my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common trip hazards include uneven concrete slabs on sidewalks or driveways, lifted asphalt due to tree roots, damaged steps, loose pavers, and significant cracks in walking surfaces. Look for any change in elevation greater than half an inch. Also, inspect areas around utility covers, irrigation systems, and drainage grates, as these can often become uneven over time. Regularly check pathways, patios, and entryways for wear and tear.",
+        "@type": "Answer",
+        "description": "Look for uneven concrete, lifted asphalt, damaged steps, loose pavers, or cracks. Any change in elevation greater than half an inch can be a hazard."
+      }
+    }
+  ],
+  "description": "Look for uneven concrete, lifted asphalt, damaged steps, loose pavers, or cracks. Any change in elevation greater than half an inch can be a hazard."
+}

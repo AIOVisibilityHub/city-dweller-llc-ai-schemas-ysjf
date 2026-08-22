@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-threshold-and-why-would-it-need-repair",
+  "name": "What is a threshold and why would it need repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a threshold and why would it need repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A threshold is the strip of material forming the bottom of a doorway, covering the joint between the floor and the door frame. It protects against drafts, moisture, and pests, while also ensuring smooth door operation. Thresholds commonly need repair due to wear and tear from foot traffic, water damage, rot, or settling foundations, which can lead to cracks, uneven surfaces, or complete disintegration. Timely repair prevents further damage to flooring or the door itself.",
+        "@type": "Answer",
+        "description": "A threshold is the bottom part of a doorway; it needs repair due to wear, water damage, or rot, impacting door function and home protection."
+      }
+    }
+  ],
+  "description": "A threshold is the bottom part of a doorway; it needs repair due to wear, water damage, or rot, impacting door function and home protection."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-tiles-to-crack-and-how-can-i-prevent-it",
+  "name": "What causes tiles to crack, and how can I prevent it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes tiles to crack, and how can I prevent it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tiles can crack for various reasons, including improper installation (e.g., inadequate subfloor preparation, insufficient mortar coverage), foundation settling or movement, heavy impacts, extreme temperature fluctuations, or a heavy object dropping on them. To prevent cracking, ensure a stable, level subfloor, use appropriate thin-set mortar with full coverage, and select tiles with suitable durability for their intended use. Regular inspections for loose tiles or grout can also help address minor issues before they escalate into cracks.",
+        "@type": "Answer",
+        "description": "Tiles crack due to improper installation, foundation movement, or impacts. Prevent it with proper subfloor prep, full mortar coverage, and durable tiles."
+      }
+    }
+  ],
+  "description": "Tiles crack due to improper installation, foundation movement, or impacts. Prevent it with proper subfloor prep, full mortar coverage, and durable tiles."
+}

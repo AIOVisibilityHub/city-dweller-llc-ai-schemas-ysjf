@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-replace-water-damaged-flooring",
+  "name": "How long does it take to replace water-damaged flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace water-damaged flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of water-damaged flooring replacement varies depending on the affected area's size, the type of new flooring chosen, and the extent of subfloor damage. Generally, the process includes moisture mitigation, subfloor preparation, and new flooring installation. A typical room might take 3-7 days, while larger areas or complex installations could extend to 1-3 weeks. A detailed timeline is provided after a site assessment.",
+        "@type": "Answer",
+        "description": "Replacement time varies by area size, flooring type, and subfloor damage. A typical room takes 3-7 days, larger projects 1-3 weeks, with a detailed timeline provided after assessment."
+      }
+    }
+  ],
+  "description": "Replacement time varies by area size, flooring type, and subfloor damage. A typical room takes 3-7 days, larger projects 1-3 weeks, with a detailed timeline pro"
+}

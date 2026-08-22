@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-installing-slip-resistant-flooring",
+  "name": "When should I consider installing slip-resistant flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider installing slip-resistant flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider slip-resistant flooring in any area prone to moisture, grease, or spills, or where maintaining traction is critical for safety. Common applications include commercial kitchens, healthcare facilities, restrooms, entryways, laboratories, and manufacturing plants. It's also highly recommended for residential areas with elderly residents or young children, or in garages and basements. Installing it proactively can prevent accidents, injuries, and potential liability issues, enhancing safety for employees, customers, or family members.",
+        "@type": "Answer",
+        "description": "Install slip-resistant flooring in areas prone to moisture, grease, or spills, or where enhanced traction is critical for safety."
+      }
+    }
+  ],
+  "description": "Install slip-resistant flooring in areas prone to moisture, grease, or spills, or where enhanced traction is critical for safety."
+}

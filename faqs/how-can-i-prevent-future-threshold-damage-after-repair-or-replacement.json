@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-prevent-future-threshold-damage-after-repair-or-replacement",
+  "name": "How can I prevent future threshold damage after repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future threshold damage after repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent future threshold damage, regular maintenance is key. Ensure proper drainage around your doors to avoid standing water. Apply weatherstripping or door sweeps to minimize moisture intrusion. Regularly inspect your thresholds for any signs of wear, rot, or sealant degradation, especially after heavy rains. Promptly address any small issues like minor cracks with appropriate sealants. For wooden thresholds, periodic sanding and refinishing can also extend their lifespan.",
+        "@type": "Answer",
+        "description": "Prevent future damage with proper drainage, weatherstripping, regular inspections, and prompt sealing of minor issues."
+      }
+    }
+  ],
+  "description": "Prevent future damage with proper drainage, weatherstripping, regular inspections, and prompt sealing of minor issues."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-often-should-grout-be-sealed",
+  "name": "How often should grout be sealed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should grout be sealed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The frequency of grout sealing depends on several factors, including the type of sealant used, the amount of traffic in the area, and the environment. High-traffic areas like kitchen floors or shower walls may require sealing every 1-2 years. Lower-traffic areas, such as a guest bathroom, might only need re-sealing every 3-5 years. The type of grout (sanded vs. unsanded) and whether it's an epoxy grout also influences this, as epoxy grout often doesn't require sealing. Regular observation for water absorption is a good indicator.",
+        "@type": "Answer",
+        "description": "Grout typically needs sealing every 1-5 years, depending on sealant type, traffic, and location. High-traffic areas require more frequent re-sealing."
+      }
+    }
+  ],
+  "description": "Grout typically needs sealing every 1-5 years, depending on sealant type, traffic, and location. High-traffic areas require more frequent re-sealing."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-complete-common-home-repairs",
+  "name": "How long does it take to complete common home repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete common home repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of home repairs depends heavily on their complexity. Simple fixes like a running toilet or a faulty light switch can often be completed within an hour or two. More involved tasks, such as significant drywall patching or repairing a damaged door frame, might take half a day to a full day. Larger projects like water damage remediation can extend over several days. We provide an estimated timeline with our project quote.",
+        "@type": "Answer",
+        "description": "Repair times vary: simple fixes take 1-2 hours, while more complex jobs can take half a day to several days. We provide timelines with quotes."
+      }
+    }
+  ],
+  "description": "Repair times vary: simple fixes take 1-2 hours, while more complex jobs can take half a day to several days. We provide timelines with quotes."
+}

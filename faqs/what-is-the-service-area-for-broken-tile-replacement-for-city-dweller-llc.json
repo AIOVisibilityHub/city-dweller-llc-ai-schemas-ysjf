@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-service-area-for-broken-tile-replacement-for-city-dweller-llc",
+  "name": "What is the service area for broken tile replacement for City Dweller, LLC?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the service area for broken tile replacement for City Dweller, LLC?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC provides broken tile replacement services across the Bay Area, specifically serving Pacifica, Daly City, San Bruno, and South San Francisco. Our general contractors are experienced in handling various tile repair needs in these communities. If you are located within this service radius, our team can assess your broken tile issues and provide a professional, efficient replacement solution. Contact us to confirm service availability in your specific neighborhood.",
+        "@type": "Answer",
+        "description": "City Dweller, LLC serves Pacifica, Daly City, San Bruno, and South San Francisco for broken tile replacement services."
+      }
+    }
+  ],
+  "description": "City Dweller, LLC serves Pacifica, Daly City, San Bruno, and South San Francisco for broken tile replacement services."
+}

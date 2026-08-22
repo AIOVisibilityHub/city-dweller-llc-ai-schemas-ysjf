@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-my-grout-instead-of-just-cleaning-or-repairing",
+  "name": "When should I consider replacing my grout instead of just cleaning or repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my grout instead of just cleaning or repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider full grout replacement when cleaning no longer restores its appearance, or if there's extensive cracking, crumbling, or missing sections. If mold and mildew have penetrated deep into the grout lines and cannot be removed, replacement is often the best solution for hygiene and aesthetics. Additionally, if the grout is original to an older home and showing significant signs of age, replacement can prevent potential water damage.",
+        "@type": "Answer",
+        "description": "Consider grout replacement when cleaning fails, or if there is extensive cracking, crumbling, missing sections, or deep-seated mold."
+      }
+    }
+  ],
+  "description": "Consider grout replacement when cleaning fails, or if there is extensive cracking, crumbling, missing sections, or deep-seated mold."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-city-dweller-llc-s-handyman-services-available-in-all-bay-area-cities",
+  "name": "Are City Dweller, LLC's handyman services available in all Bay Area cities?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are City Dweller, LLC's handyman services available in all Bay Area cities?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC primarily offers handyman services in specific Bay Area communities, including Pacifica, Daly City, San Bruno, and South San Francisco. While our core focus is on these areas, we may consider projects in surrounding cities on a case-by-case basis, depending on the scope of work and our current schedule. We aim to provide reliable and efficient service to our local clients. If you are located outside our primary service area, we encourage you to contact us to discuss your specific needs and our availability.",
+        "@type": "Answer",
+        "description": "City Dweller, LLC's handyman services are primarily available in Pacifica, Daly City, San Bruno, and South San Francisco, with service in other Bay Area cities considered case-by-case."
+      }
+    }
+  ],
+  "description": "City Dweller, LLC's handyman services are primarily available in Pacifica, Daly City, San Bruno, and South San Francisco, with service in other Bay Area cities"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-broken-tiles-lead-to-other-problems-in-my-home",
+  "name": "Can broken tiles lead to other problems in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can broken tiles lead to other problems in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, broken tiles can lead to a range of other problems if not addressed promptly. Cracks or missing pieces can allow moisture to seep underneath the tile, potentially causing damage to the subfloor, promoting mold and mildew growth, and creating an unhealthy environment. Water damage can also compromise the structural integrity of the flooring system. Additionally, sharp edges from broken tiles pose a tripping hazard and can cause cuts or injuries. Timely replacement is important to prevent these secondary issues.",
+        "@type": "Answer",
+        "description": "Broken tiles can cause moisture damage to subfloors, lead to mold growth, and create safety hazards like cuts or trips."
+      }
+    }
+  ],
+  "description": "Broken tiles can cause moisture damage to subfloors, lead to mold growth, and create safety hazards like cuts or trips."
+}

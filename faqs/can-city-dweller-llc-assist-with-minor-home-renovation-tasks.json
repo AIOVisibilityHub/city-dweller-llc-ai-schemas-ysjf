@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-city-dweller-llc-assist-with-minor-home-renovation-tasks",
+  "name": "Can City Dweller, LLC assist with minor home renovation tasks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can City Dweller, LLC assist with minor home renovation tasks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, City Dweller, LLC can assist with various minor home renovation tasks that fall within the scope of general handyman work. This might include tasks such as installing new trim, mounting fixtures, light painting, or minor repairs related to a renovation project. We are equipped to handle tasks that improve the aesthetics and functionality of your home without requiring extensive structural changes or specialized trade licenses typically associated with large-scale remodels. For larger renovation projects that involve significant structural work, plumbing, or electrical system overhauls, we recommend consulting with a general contractor or specialized tradesperson.",
+        "@type": "Answer",
+        "description": "City Dweller, LLC can assist with minor home renovation tasks like installing trim, mounting fixtures, or light painting, but recommends specialized contractors for major structural or system overhauls."
+      }
+    }
+  ],
+  "description": "City Dweller, LLC can assist with minor home renovation tasks like installing trim, mounting fixtures, or light painting, but recommends specialized contractors"
+}

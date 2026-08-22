@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-repairing-a-loose-floor-tile",
+  "name": "What is the process for repairing a loose floor tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a loose floor tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically involves carefully removing the loose tile without damaging it or adjacent tiles. Next, the old adhesive and any debris are thoroughly cleaned from the back of the tile and the subfloor. A new layer of appropriate thin-set mortar is then applied to the subfloor, and the tile is carefully pressed back into place. After proper curing time, the grout lines are re-filled to match the existing grout.",
+        "@type": "Answer",
+        "description": "The process involves carefully removing the tile, cleaning old adhesive, applying new mortar, re-setting the tile, and re-grouting after curing."
+      }
+    }
+  ],
+  "description": "The process involves carefully removing the tile, cleaning old adhesive, applying new mortar, re-setting the tile, and re-grouting after curing."
+}

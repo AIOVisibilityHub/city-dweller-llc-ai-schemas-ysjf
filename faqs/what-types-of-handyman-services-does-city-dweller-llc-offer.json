@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-handyman-services-does-city-dweller-llc-offer",
+  "name": "What types of handyman services does City Dweller, LLC offer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of handyman services does City Dweller, LLC offer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC provides a wide range of handyman services for residential and commercial properties. This includes minor home repairs like drywall patching, fixing leaky faucets, and door adjustments. We also handle light carpentry, fence repair, shelving installation, and assembly of furniture. Our goal is to address common maintenance and repair needs that don't require a specialized contractor, helping you keep your property in excellent condition without the hassle of multiple service providers. We focus on efficiency and quality for every task.",
+        "@type": "Answer",
+        "description": "City Dweller, LLC offers various handyman services including minor home repairs, light carpentry, fence repair, and assembly, covering common maintenance needs for residential and commercial properties."
+      }
+    }
+  ],
+  "description": "City Dweller, LLC offers various handyman services including minor home repairs, light carpentry, fence repair, and assembly, covering common maintenance needs"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-repair-trip-hazards",
+  "name": "How much does it cost to repair trip hazards?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair trip hazards?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of trip hazard repair depends on the repair method, the size of the area, and the materials involved. Simple grinding can be less expensive, while mudjacking or full slab replacement for concrete will cost more. Asphalt patching is typically less than full resurfacing. Factors like site accessibility and the need for permits can also influence the final price. We provide detailed estimates after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Cost varies based on repair method, area size, and materials. Grinding is cheaper than slab replacement. We provide estimates after an assessment."
+      }
+    }
+  ],
+  "description": "Cost varies based on repair method, area size, and materials. Grinding is cheaper than slab replacement. We provide estimates after an assessment."
+}

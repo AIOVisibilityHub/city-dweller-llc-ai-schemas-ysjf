@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/does-city-dweller-llc-offer-emergency-handyman-services",
+  "name": "Does City Dweller, LLC offer emergency handyman services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does City Dweller, LLC offer emergency handyman services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC focuses on scheduled maintenance, repairs, and general handyman tasks. While we do our best to accommodate urgent requests and prioritize them based on availability, we generally do not offer dedicated 24/7 emergency services for situations like burst pipes or electrical failures that require immediate, specialized attention from emergency plumbers or electricians. For such critical emergencies, it's always best to contact a specialized emergency service provider. For non-critical but time-sensitive issues, please contact us, and we will advise on our earliest availability.",
+        "@type": "Answer",
+        "description": "City Dweller, LLC does not offer 24/7 emergency services for critical issues like burst pipes; however, we prioritize urgent, non-critical requests and advise on earliest availability."
+      }
+    }
+  ],
+  "description": "City Dweller, LLC does not offer 24/7 emergency services for critical issues like burst pipes; however, we prioritize urgent, non-critical requests and advise o"
+}

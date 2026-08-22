@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-rectified-and-non-rectified-tile-for-a-backsplash",
+  "name": "What is the difference between rectified and non-rectified tile for a backsplash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between rectified and non-rectified tile for a backsplash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rectified tiles are mechanically cut or ground to have extremely precise, uniform dimensions and sharp, 90-degree edges. This allows for very tight grout lines, creating a sleek, continuous look that can mimic the appearance of a single slab. Non-rectified tiles, also known as pressed or cushion-edged tiles, have slightly softer, beveled edges and may vary subtly in size. They typically require wider grout lines, which can add a rustic or traditional feel. The choice affects both the aesthetic and the overall installation cost due to different labor requirements.",
+        "@type": "Answer",
+        "description": "Rectified tiles have precise dimensions and sharp edges, allowing for tight grout lines. Non-rectified tiles have softer edges and require wider grout lines."
+      }
+    }
+  ],
+  "description": "Rectified tiles have precise dimensions and sharp edges, allowing for tight grout lines. Non-rectified tiles have softer edges and require wider grout lines."
+}

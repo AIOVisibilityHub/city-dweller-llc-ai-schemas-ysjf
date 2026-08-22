@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-a-damaged-threshold-myself-or-should-i-hire-a-professional-contract",
+  "name": "Can I repair a damaged threshold myself, or should I hire a professional contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair a damaged threshold myself, or should I hire a professional contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor cosmetic repairs like sealing small cracks might be manageable for a homeowner, more significant damage such as rot, structural issues, or full replacement is best handled by a professional contractor. Improper installation can lead to ongoing problems like water leaks, drafts, or operational issues with your door. A professional ensures proper material selection, correct installation techniques, and effective weatherproofing, guaranteeing a durable and effective repair.",
+        "@type": "Answer",
+        "description": "Minor repairs might be DIY, but significant damage or full replacement requires a professional to ensure proper installation and durability."
+      }
+    }
+  ],
+  "description": "Minor repairs might be DIY, but significant damage or full replacement requires a professional to ensure proper installation and durability."
+}

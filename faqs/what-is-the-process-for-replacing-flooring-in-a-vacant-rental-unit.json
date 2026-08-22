@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-replacing-flooring-in-a-vacant-rental-unit",
+  "name": "What is the process for replacing flooring in a vacant rental unit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing flooring in a vacant rental unit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with removing the existing flooring and assessing the subfloor for any necessary repairs or leveling. Next, the new flooring material is delivered and acclimated to the unit's environment, if required. Installation follows, adhering to manufacturer guidelines and local building codes. Once the flooring is laid, trim and baseboards are reinstalled or replaced, and the area is thoroughly cleaned. This typically takes 3-7 days depending on the unit size and material, ensuring the property is ready for new tenants promptly.",
+        "@type": "Answer",
+        "description": "The process involves old flooring removal, subfloor prep, new material acclimation and installation, followed by trim replacement and final cleaning. It typically takes 3-7 days."
+      }
+    }
+  ],
+  "description": "The process involves old flooring removal, subfloor prep, new material acclimation and installation, followed by trim replacement and final cleaning. It typical"
+}

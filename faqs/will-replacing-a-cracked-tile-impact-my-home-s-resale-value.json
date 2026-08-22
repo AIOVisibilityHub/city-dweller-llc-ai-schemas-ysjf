@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-replacing-a-cracked-tile-impact-my-home-s-resale-value",
+  "name": "Will replacing a cracked tile impact my home's resale value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will replacing a cracked tile impact my home's resale value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing a cracked tile, especially if done professionally and seamlessly, can positively impact your home's resale value. Damaged or cracked flooring is a visible defect that can detract from a home's appeal and suggest a lack of maintenance, potentially lowering buyer offers. A well-maintained and uniform floor demonstrates care for the property and eliminates a potential negotiation point for buyers. It shows that the home is in good repair and ready for new occupants, enhancing its overall marketability.",
+        "@type": "Answer",
+        "description": "Yes, professionally replacing cracked tiles can positively impact resale value by eliminating visible defects and showing good home maintenance."
+      }
+    }
+  ],
+  "description": "Yes, professionally replacing cracked tiles can positively impact resale value by eliminating visible defects and showing good home maintenance."
+}

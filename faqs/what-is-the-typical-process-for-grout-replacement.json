@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-grout-replacement",
+  "name": "What is the typical process for grout replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for grout replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The grout replacement process typically begins with the removal of old grout using specialized tools. Care is taken to avoid damaging existing tiles. Once the old grout is removed and the area cleaned, new grout is meticulously applied into the joints. Excess grout is then wiped away, and the new grout is allowed to cure. Finally, a sealant may be applied to protect the new grout, depending on the type used. This ensures a clean, durable, and refreshed look.",
+        "@type": "Answer",
+        "description": "The process involves removing old grout, cleaning, applying new grout, wiping excess, curing, and potentially sealing for a refreshed tile surface."
+      }
+    }
+  ],
+  "description": "The process involves removing old grout, cleaning, applying new grout, wiping excess, curing, and potentially sealing for a refreshed tile surface."
+}

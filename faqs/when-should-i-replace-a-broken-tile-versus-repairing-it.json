@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-replace-a-broken-tile-versus-repairing-it",
+  "name": "When should I replace a broken tile versus repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I replace a broken tile versus repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing a broken tile is generally recommended when the tile has significant cracks, chips, or has completely fractured. While minor surface chips or hairline cracks might be suitable for repair with epoxy or colored caulk, a full replacement ensures structural integrity and a uniform appearance. Replacing a tile also prevents moisture intrusion through damaged areas, which can lead to larger issues like mold growth or subfloor damage. Your contractor can assess the damage and recommend the most effective solution based on the extent of the break and the tile's location.",
+        "@type": "Answer",
+        "description": "Replace tiles with significant cracks or fractures; minor chips may be repairable. Replacement ensures structural integrity and prevents moisture issues."
+      }
+    }
+  ],
+  "description": "Replace tiles with significant cracks or fractures; minor chips may be repairable. Replacement ensures structural integrity and prevents moisture issues."
+}

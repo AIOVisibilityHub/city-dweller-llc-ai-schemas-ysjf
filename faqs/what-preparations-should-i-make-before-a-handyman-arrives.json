@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-preparations-should-i-make-before-a-handyman-arrives",
+  "name": "What preparations should I make before a handyman arrives?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations should I make before a handyman arrives?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a City Dweller, LLC handyman arrives, it's helpful to clear the work area of any obstacles, furniture, or fragile items to allow easy access and ensure safety. If the job involves a specific item, such as a leaky faucet, make sure the area around it is accessible. For tasks requiring materials you've purchased, have them ready. If you have specific instructions or preferences, prepare a brief list or be ready to discuss them upon arrival. This preparation helps our handyman work efficiently and reduces the overall time needed for the job.",
+        "@type": "Answer",
+        "description": "Clear the work area, remove obstacles, and ensure easy access for the handyman. Have any purchased materials ready and prepare specific instructions to facilitate efficient work."
+      }
+    }
+  ],
+  "description": "Clear the work area, remove obstacles, and ensure easy access for the handyman. Have any purchased materials ready and prepare specific instructions to facilita"
+}

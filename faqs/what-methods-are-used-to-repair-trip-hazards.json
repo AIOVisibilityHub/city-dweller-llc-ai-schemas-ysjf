@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-methods-are-used-to-repair-trip-hazards",
+  "name": "What methods are used to repair trip hazards?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What methods are used to repair trip hazards?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repair methods vary depending on the type and severity of the hazard. For concrete, options include grinding down the raised section, mudjacking (injecting material beneath the slab to lift it), or full slab replacement. Asphalt can be patched or resurfaced. For tree root issues, root barriers or root removal followed by surface repair might be necessary. The best method ensures a smooth, even surface and addresses the underlying cause to prevent recurrence.",
+        "@type": "Answer",
+        "description": "Methods include grinding, mudjacking, or replacing concrete slabs, patching asphalt, or addressing tree roots with barriers or removal."
+      }
+    }
+  ],
+  "description": "Methods include grinding, mudjacking, or replacing concrete slabs, patching asphalt, or addressing tree roots with barriers or removal."
+}

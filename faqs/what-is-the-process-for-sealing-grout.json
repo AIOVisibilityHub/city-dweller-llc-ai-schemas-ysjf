@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-sealing-grout",
+  "name": "What is the process for sealing grout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for sealing grout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The grout sealing process begins with a thorough cleaning of the grout lines to remove any dirt, grime, or mildew. This ensures the sealant adheres properly. Once the grout is completely dry, a high-quality sealant is carefully applied to the grout lines. Depending on the product, multiple coats may be necessary. After application, the sealant is allowed to cure for the recommended time, which can range from a few hours to a couple of days, before the area is used or exposed to moisture. Proper ventilation is also important during application.",
+        "@type": "Answer",
+        "description": "Grout sealing involves thoroughly cleaning and drying the grout, then applying a protective sealant. The area must cure completely before use."
+      }
+    }
+  ],
+  "description": "Grout sealing involves thoroughly cleaning and drying the grout, then applying a protective sealant. The area must cure completely before use."
+}

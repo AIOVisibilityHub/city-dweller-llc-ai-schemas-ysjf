@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-grout-color-for-my-wall-tiles",
+  "name": "How do I choose the right grout color for my wall tiles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right grout color for my wall tiles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right grout color can significantly impact the overall look of your tiled wall. A contrasting grout color will highlight each individual tile and pattern, creating a more pronounced design. A matching grout color, on the other hand, creates a seamless, uniform look that allows the texture or subtle variations of the tile to stand out. Consider the tile color, the room's lighting, and the desired aesthetic. We can provide samples to help you visualize the final outcome.",
+        "@type": "Answer",
+        "description": "Choose a contrasting grout to highlight tiles or a matching grout for a seamless look. Consider tile color, lighting, and desired aesthetic."
+      }
+    }
+  ],
+  "description": "Choose a contrasting grout to highlight tiles or a matching grout for a seamless look. Consider tile color, lighting, and desired aesthetic."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-considered-a-minor-home-repair",
+  "name": "What is considered a minor home repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered a minor home repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor home repairs typically involve small, isolated issues that don't require extensive renovation or specialized permits. Examples include fixing leaky faucets, patching drywall holes, repairing loose floorboards, replacing light fixtures, or mending screen doors. These repairs often address wear and tear, cosmetic damage, or minor functional problems that can prevent larger issues if addressed promptly. They are generally completed quickly and with minimal disruption to your home.",
+        "@type": "Answer",
+        "description": "Minor home repairs are small, isolated fixes like leaky faucets, drywall patches, or light fixture replacements, preventing bigger problems."
+      }
+    }
+  ],
+  "description": "Minor home repairs are small, isolated fixes like leaky faucets, drywall patches, or light fixture replacements, preventing bigger problems."
+}

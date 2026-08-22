@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/does-replacing-a-tile-require-re-grouting-the-entire-area",
+  "name": "Does replacing a tile require re-grouting the entire area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does replacing a tile require re-grouting the entire area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, replacing a single tile typically does not require re-grouting the entire floor or wall. Only the grout lines immediately surrounding the new tile need to be removed and replaced. Your contractor will carefully cut out the old grout from around the broken tile and then re-grout the newly installed tile, making sure the new grout matches the existing lines as closely as possible. While complete re-grouting can provide a fresh look, it's not a necessary step for an isolated tile replacement.",
+        "@type": "Answer",
+        "description": "No, typically only the grout lines directly around the new tile need to be removed and replaced, not the entire area."
+      }
+    }
+  ],
+  "description": "No, typically only the grout lines directly around the new tile need to be removed and replaced, not the entire area."
+}

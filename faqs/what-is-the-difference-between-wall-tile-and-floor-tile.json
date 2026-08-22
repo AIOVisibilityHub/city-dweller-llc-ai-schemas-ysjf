@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-wall-tile-and-floor-tile",
+  "name": "What is the difference between wall tile and floor tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between wall tile and floor tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main difference between wall tile and floor tile lies in their durability and strength. Floor tiles are generally thicker, denser, and have a higher PEI (Porcelain Enamel Institute) rating, indicating greater resistance to abrasion and foot traffic. Wall tiles are typically lighter, thinner, and designed for decorative purposes where impact resistance is less critical. While some floor tiles can be used on walls, wall-specific tiles are not usually suitable for floors due to insufficient durability.",
+        "@type": "Answer",
+        "description": "Wall tiles are lighter and designed for decorative use, while floor tiles are thicker, denser, and more durable to withstand foot traffic."
+      }
+    }
+  ],
+  "description": "Wall tiles are lighter and designed for decorative use, while floor tiles are thicker, denser, and more durable to withstand foot traffic."
+}

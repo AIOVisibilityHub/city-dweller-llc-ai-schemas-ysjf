@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-replacing-flooring-with-a-general-contractor",
+  "name": "What is the process for replacing flooring with a general contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing flooring with a general contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with an initial consultation and estimate, where the contractor assesses your existing floors, discusses material options, and measures the space. Once materials are selected, the contractor will prepare the site by removing old flooring and making any necessary subfloor repairs. New flooring is then installed according to manufacturer specifications. Finally, a thorough cleanup and walk-through are conducted to ensure your satisfaction. A general contractor manages all these steps, including coordinating labor and materials.",
+        "@type": "Answer",
+        "description": "The process involves consultation, estimate, old floor removal, subfloor prep, new floor installation, and cleanup. A general contractor manages all steps."
+      }
+    }
+  ],
+  "description": "The process involves consultation, estimate, old floor removal, subfloor prep, new floor installation, and cleanup. A general contractor manages all steps."
+}

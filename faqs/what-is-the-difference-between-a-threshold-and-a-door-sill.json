@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-a-threshold-and-a-door-sill",
+  "name": "What is the difference between a threshold and a door sill?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a threshold and a door sill?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often used interchangeably, a threshold and a door sill have distinct functions. The door sill is the bottom structural component of the door frame, providing support for the door and often sloped outwards to shed water. The threshold is typically a separate piece that sits on top of or integrates with the sill, providing a smooth transition between floor surfaces and acting as a seal against weather. Thresholds are primarily functional and aesthetic, while sills are foundational.",
+        "@type": "Answer",
+        "description": "The sill is the structural base of the door frame, shedding water; the threshold sits on it, providing transition and sealing."
+      }
+    }
+  ],
+  "description": "The sill is the structural base of the door frame, shedding water; the threshold sits on it, providing transition and sealing."
+}

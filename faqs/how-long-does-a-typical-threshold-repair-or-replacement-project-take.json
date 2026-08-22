@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-threshold-repair-or-replacement-project-take",
+  "name": "How long does a typical threshold repair or replacement project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical threshold repair or replacement project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a threshold repair or replacement project can vary based on the extent of the damage, the type of material, and whether other structural issues are discovered. A simple replacement of a standard threshold might take a few hours. However, if there's significant rot extending into the door frame or subfloor, or if custom fitting is required, the project could extend to a full day or potentially longer. We provide an estimated timeline after a thorough assessment.",
+        "@type": "Answer",
+        "description": "Simple repairs may take a few hours; complex issues or custom work could extend to a full day or more."
+      }
+    }
+  ],
+  "description": "Simple repairs may take a few hours; complex issues or custom work could extend to a full day or more."
+}

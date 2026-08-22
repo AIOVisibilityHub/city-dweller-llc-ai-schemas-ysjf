@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-consider-when-choosing-new-tile-for-my-home",
+  "name": "What should I consider when choosing new tile for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing new tile for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting new tile, consider the area's function and traffic level; for example, kitchens and bathrooms require more durable, water-resistant options. Think about your home's aesthetic and design goals—do you prefer a modern, rustic, or classic look? Budget is also a key factor, as tile prices vary widely. Finally, consider maintenance requirements; some tiles are easier to clean and upkeep than others. Our team can guide you through options to match durability, style, and budget.",
+        "@type": "Answer",
+        "description": "Consider the area's function and traffic, your home's aesthetic, budget, and maintenance requirements. Durable, water-resistant tiles are best for high-traffic or wet areas."
+      }
+    }
+  ],
+  "description": "Consider the area's function and traffic, your home's aesthetic, budget, and maintenance requirements. Durable, water-resistant tiles are best for high-traffic"
+}
