@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-a-bathroom-refresh-and-a-full-bathroom-remodel",
+  "name": "What's the difference between a bathroom refresh and a full bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a bathroom refresh and a full bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom refresh focuses on cosmetic and functional updates, typically without changing the layout or major plumbing/electrical systems. This includes painting, replacing fixtures, flooring, and vanities. A full bathroom remodel, conversely, often involves reconfiguring the layout, moving plumbing lines, replacing the bathtub or shower enclosure entirely, and can be a more extensive and costly project. A refresh is ideal for improving aesthetics and functionality efficiently, especially for foreclosed properties.",
+        "@type": "Answer",
+        "description": "A refresh updates cosmetics and fixtures without changing layout; a full remodel reconfigures layout and involves major plumbing/electrical changes."
+      }
+    }
+  ],
+  "description": "A refresh updates cosmetics and fixtures without changing layout; a full remodel reconfigures layout and involves major plumbing/electrical changes."
+}

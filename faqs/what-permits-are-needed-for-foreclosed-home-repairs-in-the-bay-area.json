@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-permits-are-needed-for-foreclosed-home-repairs-in-the-bay-area",
+  "name": "What permits are needed for foreclosed home repairs in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for foreclosed home repairs in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for foreclosed home repairs in the Bay Area depend on the city (e.g., Pacifica, Daly City, South San Francisco) and the nature of the work. Major structural changes, electrical work, plumbing, and significant remodels typically require permits to ensure compliance with local building codes. Your general contractor can help identify necessary permits and assist with the application process with local authorities.",
+        "@type": "Answer",
+        "description": "Permit needs in the Bay Area vary by city and project scope; major structural, electrical, or plumbing work usually requires them."
+      }
+    }
+  ],
+  "description": "Permit needs in the Bay Area vary by city and project scope; major structural, electrical, or plumbing work usually requires them."
+}

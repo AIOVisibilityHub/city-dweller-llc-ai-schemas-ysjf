@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-challenges-when-renovating-a-foreclosed-home",
+  "name": "What are the common challenges when renovating a foreclosed home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common challenges when renovating a foreclosed home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Renovating foreclosed homes often presents unique challenges. These can include unexpected damage not visible during initial inspections, such as mold, water damage, or structural issues. Utilities might be disconnected, requiring re-establishment and inspection before work can begin. Vandalism, theft of fixtures, and extensive debris left by previous occupants are also common. Additionally, some properties may have code violations or require permits for extensive work, which can extend timelines. A contractor experienced in foreclosures anticipates these issues and develops contingency plans.",
+        "@type": "Answer",
+        "description": "Common challenges in renovating foreclosed homes include hidden damage, disconnected utilities, vandalism, extensive debris, and potential code violations, requiring experienced contractor foresight."
+      }
+    }
+  ],
+  "description": "Common challenges in renovating foreclosed homes include hidden damage, disconnected utilities, vandalism, extensive debris, and potential code violations, requ"
+}

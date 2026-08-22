@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-accessibility-remodeling-for-my-home",
+  "name": "When should I consider accessibility remodeling for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider accessibility remodeling for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider accessibility remodeling if you or a family member are experiencing mobility challenges, planning to age in place, or recovering from an injury or illness that affects movement. Proactive modifications can prevent accidents and maintain independence. It's also beneficial to plan if you anticipate future needs or want to increase your home's long-term functionality and market appeal.",
+        "@type": "Answer",
+        "description": "Consider accessibility remodeling if you face mobility challenges, plan to age in place, or want to improve home safety and independence."
+      }
+    }
+  ],
+  "description": "Consider accessibility remodeling if you face mobility challenges, plan to age in place, or want to improve home safety and independence."
+}

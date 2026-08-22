@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-unique-about-painting-a-foreclosed-property-compared-to-other-homes",
+  "name": "What is unique about painting a foreclosed property compared to other homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is unique about painting a foreclosed property compared to other homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Foreclosed properties often require more extensive preparation due to neglect or previous occupants. This can include significant cleaning, repairs to walls and trim, mold remediation, and priming to cover strong odors or stains. The scope of work might be larger than a standard repaint, focusing on maximizing appeal for a quick sale and addressing deferred maintenance effectively.",
+        "@type": "Answer",
+        "description": "Foreclosed properties often need more preparation like cleaning, repairs, and odor remediation due to neglect, which differs from standard home painting."
+      }
+    }
+  ],
+  "description": "Foreclosed properties often need more preparation like cleaning, repairs, and odor remediation due to neglect, which differs from standard home painting."
+}

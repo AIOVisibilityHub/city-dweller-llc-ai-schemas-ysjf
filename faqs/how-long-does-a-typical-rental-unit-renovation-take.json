@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-rental-unit-renovation-take",
+  "name": "How long does a typical rental unit renovation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical rental unit renovation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a rental unit renovation depends heavily on the project's scope. A minor cosmetic update (paint, flooring) might take 2-4 weeks, while a full kitchen and bathroom remodel could extend to 6-12 weeks. Major overhauls involving structural changes can take several months. Factors like material availability, permit approval times, and contractor scheduling also influence the timeline. Discuss realistic timelines with your general contractor to set appropriate expectations and minimize vacancy periods.",
+        "@type": "Answer",
+        "description": "Renovation timelines vary from 2-4 weeks for minor updates to 6-12 weeks for full kitchen/bath remodels, or several months for major overhauls, depending on scope and other factors."
+      }
+    }
+  ],
+  "description": "Renovation timelines vary from 2-4 weeks for minor updates to 6-12 weeks for full kitchen/bath remodels, or several months for major overhauls, depending on sco"
+}

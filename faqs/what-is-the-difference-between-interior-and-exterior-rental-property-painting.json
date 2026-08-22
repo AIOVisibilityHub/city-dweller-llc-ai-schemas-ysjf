@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-interior-and-exterior-rental-property-painting",
+  "name": "What is the difference between interior and exterior rental property painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between interior and exterior rental property painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interior and exterior painting for rental properties differ primarily in the types of paint used, surface preparation, and weather considerations. Interior paints are formulated for durability, washability, and low VOCs for occupant health, while exterior paints are designed to withstand harsh weather, UV radiation, and moisture. Preparation for interiors focuses on smoothness and repairs, whereas exteriors involve cleaning, scraping loose paint, and addressing mildew. Exterior painting is also highly dependent on favorable weather conditions, which impacts project scheduling.",
+        "@type": "Answer",
+        "description": "Interior painting uses paints for durability and low VOCs, while exterior painting uses weather-resistant paints. Prep work and weather considerations also differ significantly."
+      }
+    }
+  ],
+  "description": "Interior painting uses paints for durability and low VOCs, while exterior painting uses weather-resistant paints. Prep work and weather considerations also diff"
+}

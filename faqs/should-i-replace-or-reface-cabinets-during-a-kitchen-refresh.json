@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-replace-or-reface-cabinets-during-a-kitchen-refresh",
+  "name": "Should I replace or reface cabinets during a kitchen refresh?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I replace or reface cabinets during a kitchen refresh?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to replace or reface cabinets depends on their existing condition and your budget. Refacing is a more budget-friendly option, ideal if the cabinet boxes are structurally sound. It involves updating doors, drawer fronts, and exterior finishes, giving a new look at a lower cost and faster timeline. Replacing cabinets is necessary if the existing boxes are damaged or if a completely new layout or higher-end material is desired. We can help you assess the best option.",
+        "@type": "Answer",
+        "description": "Reface cabinets if their boxes are sound and you seek a budget-friendly update; replace them if they're damaged or you want a new layout."
+      }
+    }
+  ],
+  "description": "Reface cabinets if their boxes are sound and you seek a budget-friendly update; replace them if they're damaged or you want a new layout."
+}

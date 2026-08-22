@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-choose-luxury-vinyl-plank-lvp-or-laminate-for-my-rental-property",
+  "name": "Should I choose luxury vinyl plank (LVP) or laminate for my rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose luxury vinyl plank (LVP) or laminate for my rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Both LVP and laminate are popular for rentals, but they have key differences. LVP is 100% waterproof, making it ideal for kitchens, bathrooms, and areas prone to spills. It's also generally more durable against impacts. Laminate offers excellent scratch resistance and is often more budget-friendly upfront. However, laminate is not waterproof and can swell if exposed to significant moisture. Consider your budget, the specific room's use, and desired longevity when making your choice.",
+        "@type": "Answer",
+        "description": "LVP is waterproof and more impact-resistant, suitable for all areas. Laminate is scratch-resistant and more budget-friendly but not waterproof. Choose based on budget, room use, and durability needs."
+      }
+    }
+  ],
+  "description": "LVP is waterproof and more impact-resistant, suitable for all areas. Laminate is scratch-resistant and more budget-friendly but not waterproof. Choose based on"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-disability-remodeling-and-what-does-it-involve",
+  "name": "What is disability remodeling and what does it involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is disability remodeling and what does it involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Disability remodeling, also known as accessible design or universal design, involves modifying a home to improve safety, accessibility, and independence for individuals with disabilities or limited mobility. This can include widening doorways, installing ramps or stairlifts, creating zero-entry showers, lowering countertops, and adding grab bars. The goal is to make daily activities easier and safer, allowing residents to navigate their home comfortably and independently. We focus on practical and aesthetically pleasing solutions tailored to specific needs.",
+        "@type": "Answer",
+        "description": "Disability remodeling modifies homes for improved safety and accessibility, often including features like ramps, wider doorways, and accessible bathrooms."
+      }
+    }
+  ],
+  "description": "Disability remodeling modifies homes for improved safety and accessibility, often including features like ramps, wider doorways, and accessible bathrooms."
+}

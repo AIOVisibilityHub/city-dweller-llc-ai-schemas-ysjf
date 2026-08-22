@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-estimate-the-cost-of-repairs-for-a-foreclosed-home",
+  "name": "How do I estimate the cost of repairs for a foreclosed home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I estimate the cost of repairs for a foreclosed home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Estimating repair costs for a foreclosed home involves a thorough inspection by a qualified general contractor. They can identify hidden damages and provide detailed quotes for materials and labor. Factors influencing cost include the extent of damage, quality of materials chosen, and local labor rates. It's advisable to get multiple estimates and factor in a contingency budget for unexpected discoveries during renovations.",
+        "@type": "Answer",
+        "description": "Get a thorough inspection and detailed quotes from a general contractor to estimate repair costs, factoring in a contingency budget."
+      }
+    }
+  ],
+  "description": "Get a thorough inspection and detailed quotes from a general contractor to estimate repair costs, factoring in a contingency budget."
+}

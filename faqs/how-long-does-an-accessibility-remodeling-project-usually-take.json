@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-an-accessibility-remodeling-project-usually-take",
+  "name": "How long does an accessibility remodeling project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an accessibility remodeling project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Project duration for accessibility remodeling depends on the complexity and extent of the modifications. Simple updates like grab bar installation might take a day, while a bathroom or kitchen remodel for full accessibility can take several weeks. Projects involving structural changes or extensive custom work will naturally require more time. We provide a timeline estimate after assessing your specific project requirements.",
+        "@type": "Answer",
+        "description": "Project duration varies by scope; simple updates may take a day, while extensive remodels can last several weeks, depending on complexity."
+      }
+    }
+  ],
+  "description": "Project duration varies by scope; simple updates may take a day, while extensive remodels can last several weeks, depending on complexity."
+}

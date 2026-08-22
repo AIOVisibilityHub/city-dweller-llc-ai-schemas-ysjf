@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-repair-or-replace-items-in-a-foreclosed-bathroom",
+  "name": "Should I repair or replace items in a foreclosed bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace items in a foreclosed bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to repair or replace depends on the item's condition, cost-effectiveness, and your budget. For example, if a bathtub is structurally sound but stained, reglazing might be a cost-effective repair. However, a severely damaged or outdated toilet is usually better replaced. We assess each component to recommend the most practical and valuable option, considering both immediate needs and long-term durability for properties in San Bruno or South San Francisco.",
+        "@type": "Answer",
+        "description": "Decide based on condition, cost, and budget. Repair minor issues like stained tubs with reglazing, but replace severely damaged or outdated items."
+      }
+    }
+  ],
+  "description": "Decide based on condition, cost, and budget. Repair minor issues like stained tubs with reglazing, but replace severely damaged or outdated items."
+}

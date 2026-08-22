@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-a-general-contractor-and-a-property-preservation-c",
+  "name": "What's the difference between a general contractor and a property preservation company for foreclosures?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a general contractor and a property preservation company for foreclosures?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A property preservation company primarily focuses on maintaining a foreclosed property's condition and security during the bank's ownership period, often before it goes to market. Their services typically include securing the property, winterizing, debris removal, lawn maintenance, and minor repairs to prevent further damage. A general contractor, on the other hand, comes in when the goal is a comprehensive renovation or extensive repair to prepare the property for sale. While preservation aims to maintain, a general contractor aims to significantly improve and add value.",
+        "@type": "Answer",
+        "description": "Property preservation companies maintain foreclosed homes before sale, while general contractors perform comprehensive renovations to improve and add value for resale."
+      }
+    }
+  ],
+  "description": "Property preservation companies maintain foreclosed homes before sale, while general contractors perform comprehensive renovations to improve and add value for"
+}

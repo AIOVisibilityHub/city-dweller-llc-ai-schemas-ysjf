@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-prioritize-when-repairing-a-foreclosed-home-s-interior",
+  "name": "What should I prioritize when repairing a foreclosed home's interior?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prioritize when repairing a foreclosed home's interior?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Prioritize repairs that address safety, structural integrity, and essential systems first. This includes fixing any electrical hazards, plumbing leaks, roof damage, or foundational issues. Next, focus on making the home habitable, such as repairing broken windows and doors, ensuring functioning HVAC, and resolving severe mold or pest problems. Cosmetic improvements like painting and new flooring come last, after all critical repairs are complete, to maximize resale value.",
+        "@type": "Answer",
+        "description": "Prioritize safety, structural integrity, and essential systems first. Address electrical, plumbing, and roof issues before moving to habitability fixes and cosmetic updates."
+      }
+    }
+  ],
+  "description": "Prioritize safety, structural integrity, and essential systems first. Address electrical, plumbing, and roof issues before moving to habitability fixes and cosm"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-interior-repairs-are-landlords-typically-responsible-for-in-a-rental-proper",
+  "name": "What interior repairs are landlords typically responsible for in a rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What interior repairs are landlords typically responsible for in a rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Landlords are generally responsible for maintaining a safe and habitable living environment. This includes repairs to structural elements, plumbing, electrical systems, heating, and ensuring major appliances provided by the landlord are in working order. Routine wear and tear is typically covered by the landlord, but damages caused by tenant negligence or misuse are the tenant's responsibility. It's crucial for both parties to understand their lease agreement regarding maintenance and repairs.",
+        "@type": "Answer",
+        "description": "Landlords are responsible for structural, plumbing, electrical, and heating repairs, plus major appliances and routine wear and tear. Tenant-caused damage is the tenant's responsibility."
+      }
+    }
+  ],
+  "description": "Landlords are responsible for structural, plumbing, electrical, and heating repairs, plus major appliances and routine wear and tear. Tenant-caused damage is th"
+}

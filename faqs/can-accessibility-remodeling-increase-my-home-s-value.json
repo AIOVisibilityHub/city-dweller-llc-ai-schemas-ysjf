@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-accessibility-remodeling-increase-my-home-s-value",
+  "name": "Can accessibility remodeling increase my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can accessibility remodeling increase my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While the primary goal of accessibility remodeling is enhanced functionality and safety for occupants, certain universal design improvements can increase a home's appeal and value. Features like a main-floor bedroom and bathroom, step-free entrances, or wider doorways can attract a broader range of potential buyers, including those looking to age in place or with multi-generational living needs.",
+        "@type": "Answer",
+        "description": "Accessibility remodeling can increase home value by enhancing appeal to a broader buyer base, especially those seeking universal design or aging-in-place features."
+      }
+    }
+  ],
+  "description": "Accessibility remodeling can increase home value by enhancing appeal to a broader buyer base, especially those seeking universal design or aging-in-place featur"
+}

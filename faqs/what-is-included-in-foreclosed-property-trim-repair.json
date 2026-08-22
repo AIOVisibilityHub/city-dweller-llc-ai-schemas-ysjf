@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-included-in-foreclosed-property-trim-repair",
+  "name": "What is included in foreclosed property trim repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in foreclosed property trim repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Foreclosed property trim repair typically involves restoring the interior and exterior trim elements that may have been damaged, neglected, or removed. This can include repairing or replacing baseboards, door and window casings, crown molding, and exterior trim like fascia boards, soffits, and window sills. The goal is to bring the property back to an acceptable aesthetic and functional standard, often to enhance curb appeal and prepare it for sale. The specific scope depends on the property's condition and the client's objectives.",
+        "@type": "Answer",
+        "description": "It involves restoring or replacing interior and exterior trim elements like baseboards, casings, and crown molding to improve aesthetics and function."
+      }
+    }
+  ],
+  "description": "It involves restoring or replacing interior and exterior trim elements like baseboards, casings, and crown molding to improve aesthetics and function."
+}

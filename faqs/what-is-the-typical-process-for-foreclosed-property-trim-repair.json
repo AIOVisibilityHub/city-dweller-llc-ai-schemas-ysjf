@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-foreclosed-property-trim-repair",
+  "name": "What is the typical process for foreclosed property trim repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for foreclosed property trim repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process usually begins with an initial assessment to identify all damaged or missing trim, both interior and exterior. Following this, a detailed proposal outlining the scope of work, materials, and estimated cost is provided. Once approved, the existing damaged trim is removed. New trim is then cut, fitted, and installed, often requiring sanding, priming, and painting to match the property's aesthetic. The final step involves a thorough cleanup and inspection to ensure all repairs meet quality standards and client expectations.",
+        "@type": "Answer",
+        "description": "The process includes assessment, proposal, removal of old trim, installation of new trim, finishing, and final inspection."
+      }
+    }
+  ],
+  "description": "The process includes assessment, proposal, removal of old trim, installation of new trim, finishing, and final inspection."
+}

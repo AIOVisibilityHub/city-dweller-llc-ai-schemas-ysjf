@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-install-flooring-over-existing-tiles-in-a-foreclosed-property",
+  "name": "Can I install flooring over existing tiles in a foreclosed property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install flooring over existing tiles in a foreclosed property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing new flooring over existing tiles is sometimes possible, but it depends on the type of new flooring and the condition of the existing tiles. For example, LVP or certain engineered wood products can occasionally be floated over stable, level tiles, provided there are no cracked or loose tiles. However, this often raises the floor height, which can affect doorways and transitions. For best results and longevity, especially if the tiles are damaged or uneven, removal is usually recommended to ensure a flat, secure subfloor for the new installation.",
+        "@type": "Answer",
+        "description": "Sometimes possible for LVP or engineered wood over stable, level tiles, but it raises floor height. Removal is often recommended for best results, especially if tiles are damaged."
+      }
+    }
+  ],
+  "description": "Sometimes possible for LVP or engineered wood over stable, level tiles, but it raises floor height. Removal is often recommended for best results, especially if"
+}

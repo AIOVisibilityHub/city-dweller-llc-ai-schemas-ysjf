@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-timeframe-for-interior-repairs-after-a-tenant-moves-out",
+  "name": "What is the typical timeframe for interior repairs after a tenant moves out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeframe for interior repairs after a tenant moves out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeframe for interior repairs after a tenant moves out varies greatly depending on the extent of the damage and the scope of work. Minor cosmetic repairs like painting or small drywall patches might take a few days. More extensive repairs, such as kitchen or bathroom remodels, or addressing significant damage, could take weeks or even a month or more, especially if materials need to be ordered or permits are required. Prompt assessment and scheduling are key to minimizing vacancy time.",
+        "@type": "Answer",
+        "description": "Repair time varies; minor cosmetic work may take days, while extensive remodels or significant damage could take weeks to over a month. Prompt assessment helps reduce vacancy."
+      }
+    }
+  ],
+  "description": "Repair time varies; minor cosmetic work may take days, while extensive remodels or significant damage could take weeks to over a month. Prompt assessment helps"
+}

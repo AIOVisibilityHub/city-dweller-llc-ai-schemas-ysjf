@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-involved-in-preparing-a-rental-property-for-painting",
+  "name": "What is involved in preparing a rental property for painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in preparing a rental property for painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper preparation is key to a long-lasting and professional paint job. This typically includes thoroughly cleaning all surfaces to remove dirt, grease, and grime. Any holes or cracks in the walls are repaired and patched, followed by sanding smooth. Loose or peeling paint is scraped away, and surfaces are primed, especially if changing colors significantly or painting over repairs. Furniture and floors are covered and protected, and fixtures are removed or taped off. This meticulous preparation ensures the paint adheres properly and results in a smooth, even finish.",
+        "@type": "Answer",
+        "description": "Preparation for painting involves cleaning, repairing holes and cracks, sanding, scraping loose paint, priming, and protecting furniture and floors."
+      }
+    }
+  ],
+  "description": "Preparation for painting involves cleaning, repairing holes and cracks, sanding, scraping loose paint, priming, and protecting furniture and floors."
+}

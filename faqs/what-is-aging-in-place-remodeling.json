@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-aging-in-place-remodeling",
+  "name": "What is 'Aging In Place' remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is 'Aging In Place' remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Aging in Place remodeling involves modifying a home to allow individuals to live independently and safely for longer as they age. This can include a wide range of changes, from minor adjustments like installing grab bars to major renovations such as creating zero-entry showers or widening doorways for wheelchair access. The goal is to enhance accessibility, safety, and comfort, anticipating future needs while maintaining the home's aesthetic and functionality. It supports continued independence and quality of life in a familiar environment.",
+        "@type": "Answer",
+        "description": "Aging in Place remodeling modifies homes for long-term independent and safe living, enhancing accessibility and safety as residents age."
+      }
+    }
+  ],
+  "description": "Aging in Place remodeling modifies homes for long-term independent and safe living, enhancing accessibility and safety as residents age."
+}

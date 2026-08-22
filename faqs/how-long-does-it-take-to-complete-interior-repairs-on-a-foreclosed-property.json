@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-complete-interior-repairs-on-a-foreclosed-property",
+  "name": "How long does it take to complete interior repairs on a foreclosed property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete interior repairs on a foreclosed property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for interior repairs on a foreclosed property depends on the scope of work. Minor cosmetic updates, like painting and replacing flooring in a small home, might take 2-4 weeks. More extensive renovations involving kitchen and bathroom remodels, plumbing, and electrical work could extend to 2-4 months or even longer for properties with significant damage or structural issues. We work diligently to provide realistic timelines and complete projects efficiently.",
+        "@type": "Answer",
+        "description": "Repair times vary based on project scope; minor updates can take 2-4 weeks, while extensive renovations might require 2-4 months or more."
+      }
+    }
+  ],
+  "description": "Repair times vary based on project scope; minor updates can take 2-4 weeks, while extensive renovations might require 2-4 months or more."
+}

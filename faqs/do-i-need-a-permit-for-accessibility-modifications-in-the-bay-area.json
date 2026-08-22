@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-permit-for-accessibility-modifications-in-the-bay-area",
+  "name": "Do I need a permit for accessibility modifications in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for accessibility modifications in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many accessibility modifications, especially those involving structural changes, plumbing, or electrical work, typically require permits in Bay Area cities like Pacifica or Daly City. Minor installations like grab bars may not. It's crucial to consult with your contractor, as permit requirements vary by specific city and the scope of work. We assist clients in navigating local permitting processes.",
+        "@type": "Answer",
+        "description": "Permits are often required for accessibility remodels involving structural, plumbing, or electrical changes in Bay Area cities. Consult your contractor."
+      }
+    }
+  ],
+  "description": "Permits are often required for accessibility remodels involving structural, plumbing, or electrical changes in Bay Area cities. Consult your contractor."
+}

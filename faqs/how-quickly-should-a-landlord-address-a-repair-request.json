@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-quickly-should-a-landlord-address-a-repair-request",
+  "name": "How quickly should a landlord address a repair request?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly should a landlord address a repair request?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The urgency of a repair dictates the response time. For emergencies that impact health or safety, such as a burst pipe or no heat in winter, landlords should respond immediately, typically within 24-72 hours. Non-urgent repairs, like a dripping faucet or a malfunctioning appliance, usually require a response within 7-14 days. Timely communication regarding the repair schedule is also important for tenant satisfaction.",
+        "@type": "Answer",
+        "description": "Emergency repairs require immediate action (24-72 hours), while non-urgent repairs typically allow 7-14 days for a response."
+      }
+    }
+  ],
+  "description": "Emergency repairs require immediate action (24-72 hours), while non-urgent repairs typically allow 7-14 days for a response."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-common-repairs-are-needed-for-foreclosed-properties",
+  "name": "What common repairs are needed for foreclosed properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common repairs are needed for foreclosed properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Foreclosed properties often require various repairs due to neglect or intentional damage. Common issues include plumbing leaks, damaged electrical systems, broken windows, missing fixtures, and structural concerns like roof leaks or foundation cracks. Cosmetic updates such as fresh paint, new flooring, and updated kitchens or bathrooms are also frequently necessary to restore the property's value and appeal.",
+        "@type": "Answer",
+        "description": "Common repairs include plumbing, electrical, structural issues, and cosmetic updates like paint and flooring."
+      }
+    }
+  ],
+  "description": "Common repairs include plumbing, electrical, structural issues, and cosmetic updates like paint and flooring."
+}

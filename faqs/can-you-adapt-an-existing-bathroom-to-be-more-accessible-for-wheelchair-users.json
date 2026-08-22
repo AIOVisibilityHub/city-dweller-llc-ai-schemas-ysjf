@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-you-adapt-an-existing-bathroom-to-be-more-accessible-for-wheelchair-users",
+  "name": "Can you adapt an existing bathroom to be more accessible for wheelchair users?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you adapt an existing bathroom to be more accessible for wheelchair users?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, adapting an existing bathroom for wheelchair users is a common disability remodeling project. This often involves widening the doorway to at least 32 inches, creating a roll-in or zero-entry shower with grab bars and a handheld showerhead, and installing a wall-mounted or comfort-height toilet. We can also lower or modify sinks for knee clearance, add non-slip flooring, and ensure sufficient turning radius within the bathroom. The specific modifications depend on the existing layout and the user's individual needs.",
+        "@type": "Answer",
+        "description": "Yes, we can adapt bathrooms for wheelchair users by widening doorways, creating roll-in showers, modifying sinks, and ensuring adequate turning space."
+      }
+    }
+  ],
+  "description": "Yes, we can adapt bathrooms for wheelchair users by widening doorways, creating roll-in showers, modifying sinks, and ensuring adequate turning space."
+}

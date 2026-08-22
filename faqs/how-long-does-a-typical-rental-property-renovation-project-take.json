@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-rental-property-renovation-project-take",
+  "name": "How long does a typical rental property renovation project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical rental property renovation project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a rental property renovation varies based on scope. Minor cosmetic updates like painting and flooring might take 1-3 weeks. A full kitchen or bathroom remodel could extend to 3-6 weeks. Whole-house renovations, especially those involving layout changes, can take 2-4 months or more. We provide a detailed timeline after assessing your project.",
+        "@type": "Answer",
+        "description": "Project duration depends on scope, from 1-3 weeks for minor updates to several months for extensive renovations."
+      }
+    }
+  ],
+  "description": "Project duration depends on scope, from 1-3 weeks for minor updates to several months for extensive renovations."
+}

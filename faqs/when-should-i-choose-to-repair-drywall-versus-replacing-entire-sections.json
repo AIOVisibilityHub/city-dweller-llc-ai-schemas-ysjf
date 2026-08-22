@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-choose-to-repair-drywall-versus-replacing-entire-sections",
+  "name": "When should I choose to repair drywall versus replacing entire sections?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I choose to repair drywall versus replacing entire sections?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choose to repair drywall for minor imperfections like small holes, cracks, or surface blemishes. Patching and blending can seamlessly restore the wall's appearance. Replacement is typically necessary for extensive damage such as large holes, severe water damage causing structural weakness, widespread mold, or crumbling sections. Replacing ensures structural integrity and a uniform finish, preventing recurring issues. A professional assessment can help determine the most cost-effective and durable solution for your specific situation.",
+        "@type": "Answer",
+        "description": "Repair minor drywall damage like small holes or cracks. Replace entire sections for extensive water damage, widespread mold, or structural issues."
+      }
+    }
+  ],
+  "description": "Repair minor drywall damage like small holes or cracks. Replace entire sections for extensive water damage, widespread mold, or structural issues."
+}

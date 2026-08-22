@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-paint-before-or-after-a-tenant-moves-out",
+  "name": "Should I paint before or after a tenant moves out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I paint before or after a tenant moves out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally best to paint your rental property after the previous tenant has moved out and before a new tenant moves in. This allows painters full access to the unit without disturbing occupants or their belongings. It also provides an opportunity to thoroughly clean, repair any wall damage, and address other maintenance tasks concurrently. Painting during this vacancy period ensures the property is fresh and appealing for showings, potentially attracting new tenants faster and reducing vacancy time.",
+        "@type": "Answer",
+        "description": "Paint rental units after the old tenant moves out and before a new one moves in. This allows full access, avoids disruption, and ensures the unit is ready for showings."
+      }
+    }
+  ],
+  "description": "Paint rental units after the old tenant moves out and before a new one moves in. This allows full access, avoids disruption, and ensures the unit is ready for s"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-does-foreclosed-property-repair-differ-from-a-standard-home-renovation",
+  "name": "How does foreclosed property repair differ from a standard home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does foreclosed property repair differ from a standard home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Foreclosed property repair often differs from standard renovations due to a higher likelihood of significant neglect, intentional damage, and unknown underlying issues. This can lead to more extensive structural work, environmental remediation (like mold removal), and a greater need for thorough inspections. Standard renovations typically focus more on upgrades and modernization, whereas foreclosures often prioritize restoration to a livable and safe condition.",
+        "@type": "Answer",
+        "description": "Foreclosed property repair often involves more extensive damage, neglect, and unknown issues compared to standard renovations that focus on upgrades."
+      }
+    }
+  ],
+  "description": "Foreclosed property repair often involves more extensive damage, neglect, and unknown issues compared to standard renovations that focus on upgrades."
+}

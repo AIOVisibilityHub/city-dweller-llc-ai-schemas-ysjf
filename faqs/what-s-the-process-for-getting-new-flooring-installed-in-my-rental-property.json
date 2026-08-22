@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-process-for-getting-new-flooring-installed-in-my-rental-property",
+  "name": "What's the process for getting new flooring installed in my rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the process for getting new flooring installed in my rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an initial consultation and measurement of the property to determine material needs and provide an accurate estimate. Once materials are selected, existing flooring is removed, and the subfloor is inspected and prepared. New flooring is then installed according to manufacturer specifications. After installation, a final walkthrough ensures quality and addresses any concerns. We manage the entire process, minimizing disruption to your property management schedule.",
+        "@type": "Answer",
+        "description": "The process involves consultation, measurement, estimate, old flooring removal, subfloor prep, new flooring installation, and a final walkthrough."
+      }
+    }
+  ],
+  "description": "The process involves consultation, measurement, estimate, old flooring removal, subfloor prep, new flooring installation, and a final walkthrough."
+}

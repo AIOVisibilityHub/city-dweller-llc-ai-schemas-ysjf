@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-typically-take-to-paint-a-foreclosed-home",
+  "name": "How long does it typically take to paint a foreclosed home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to paint a foreclosed home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for painting a foreclosed home varies significantly based on its size, condition, and the extent of prep work required. A small, well-maintained property might take a few days, while a larger home needing extensive repairs, cleaning, and multiple coats could take a week or more. We assess each property to provide an accurate timeline during the estimate phase.",
+        "@type": "Answer",
+        "description": "Painting time depends on the property's size and condition. A small home may take days, while larger ones needing repairs could take over a week."
+      }
+    }
+  ],
+  "description": "Painting time depends on the property's size and condition. A small home may take days, while larger ones needing repairs could take over a week."
+}

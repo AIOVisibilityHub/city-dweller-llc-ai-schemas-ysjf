@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-vacate-my-rental-property-during-renovation",
+  "name": "Do I need to vacate my rental property during renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to vacate my rental property during renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need to vacate depends on the scope and invasiveness of the renovation. Minor updates like painting or small repairs typically don't require vacating. However, major renovations involving plumbing, electrical, structural changes, or extensive demolition often necessitate temporary relocation for safety and efficiency. We assess each project and advise on the best approach.",
+        "@type": "Answer",
+        "description": "Vacating depends on the renovation's scope; minor work usually doesn't require it, but major structural or utility changes often do."
+      }
+    }
+  ],
+  "description": "Vacating depends on the renovation's scope; minor work usually doesn't require it, but major structural or utility changes often do."
+}

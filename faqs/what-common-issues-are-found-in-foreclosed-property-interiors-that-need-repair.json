@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-common-issues-are-found-in-foreclosed-property-interiors-that-need-repair",
+  "name": "What common issues are found in foreclosed property interiors that need repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common issues are found in foreclosed property interiors that need repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common issues in foreclosed property interiors include extensive cosmetic damage like holes in walls, peeling paint, and damaged flooring. Often, you'll find vandalized plumbing fixtures, missing appliances, or non-functional electrical systems due to neglect or theft. Water damage from leaks or burst pipes, mold growth, and pest infestations are also frequent problems that require professional remediation and repair.",
+        "@type": "Answer",
+        "description": "Common issues include cosmetic damage, vandalized plumbing/electrical, missing appliances, water damage, mold, and pest infestations, all requiring various repairs."
+      }
+    }
+  ],
+  "description": "Common issues include cosmetic damage, vandalized plumbing/electrical, missing appliances, water damage, mold, and pest infestations, all requiring various repa"
+}

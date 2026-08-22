@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-permits-for-accessible-home-modifications",
+  "name": "Do I need permits for accessible home modifications?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for accessible home modifications?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many accessible home modifications, especially those involving structural changes, electrical work, plumbing, or significant alterations to a home's footprint, typically require building permits. Minor cosmetic changes or the installation of non-structural items like grab bars usually do not. We can advise you on the specific permit requirements for your project in the Bay Area and surrounding cities.",
+        "@type": "Answer",
+        "description": "Permits are often required for structural, electrical, or plumbing changes. Minor installations typically do not. We advise on permit needs for your project."
+      }
+    }
+  ],
+  "description": "Permits are often required for structural, electrical, or plumbing changes. Minor installations typically do not. We advise on permit needs for your project."
+}

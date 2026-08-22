@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-universal-design-and-accessible-design",
+  "name": "What is the difference between universal design and accessible design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between universal design and accessible design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Universal design aims to create environments that are usable by all people, to the greatest extent possible, without the need for adaptation or specialized design. It focuses on broad usability from the outset. Accessible design, conversely, specifically addresses the needs of people with disabilities, often retrofitting or modifying existing spaces to comply with accessibility standards and remove barriers. While related, universal design is a broader concept.",
+        "@type": "Answer",
+        "description": "Universal design aims for usability by all people without adaptation, while accessible design specifically modifies spaces to meet the needs of people with disabilities."
+      }
+    }
+  ],
+  "description": "Universal design aims for usability by all people without adaptation, while accessible design specifically modifies spaces to meet the needs of people with disa"
+}

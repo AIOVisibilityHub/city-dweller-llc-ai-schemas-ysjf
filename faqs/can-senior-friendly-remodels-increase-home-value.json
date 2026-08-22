@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-senior-friendly-remodels-increase-home-value",
+  "name": "Can senior-friendly remodels increase home value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can senior-friendly remodels increase home value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, senior-friendly remodels can potentially increase home value, especially in areas with a growing senior population or multigenerational households. Features like accessible bathrooms, curbless showers, wider doorways, and ramps appeal to a broader demographic, including families with young children or individuals with temporary injuries. These modifications enhance functionality and safety, making the home more attractive to future buyers who may prioritize accessibility and long-term livability. The extent of value increase depends on the specific improvements and local market demand.",
+        "@type": "Answer",
+        "description": "Yes, senior-friendly remodels can increase home value by appealing to a broader demographic that prioritizes accessibility and safety."
+      }
+    }
+  ],
+  "description": "Yes, senior-friendly remodels can increase home value by appealing to a broader demographic that prioritizes accessibility and safety."
+}

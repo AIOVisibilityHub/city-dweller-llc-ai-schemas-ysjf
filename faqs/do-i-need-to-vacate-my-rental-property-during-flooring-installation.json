@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-vacate-my-rental-property-during-flooring-installation",
+  "name": "Do I need to vacate my rental property during flooring installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to vacate my rental property during flooring installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it is possible to live in a property during flooring installation, it's generally recommended for tenants to vacate, especially if the entire unit's flooring is being replaced. This minimizes inconvenience to residents, allows installers to work more efficiently, and ensures proper drying/curing times for adhesives or finishes without interruption. If vacating isn't an option, arrangements can be made to complete work in sections, though this may extend the project timeline.",
+        "@type": "Answer",
+        "description": "It's recommended that tenants vacate during full-unit flooring installation for efficiency and proper curing, though sectional work is possible if necessary."
+      }
+    }
+  ],
+  "description": "It's recommended that tenants vacate during full-unit flooring installation for efficiency and proper curing, though sectional work is possible if necessary."
+}

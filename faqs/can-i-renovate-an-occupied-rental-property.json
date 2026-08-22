@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-renovate-an-occupied-rental-property",
+  "name": "Can I renovate an occupied rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I renovate an occupied rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Renovating an occupied rental property is possible but presents unique challenges. It requires clear communication and cooperation with your tenants. Depending on the scope of work, you might need to provide temporary housing or offer rent concessions for the disruption. Consider if the renovations are essential or if they can wait until the unit is vacant. Major renovations are often best performed during vacancies to ensure tenant comfort, minimize legal complications, and allow the contractor unrestricted access to complete the work efficiently and safely.",
+        "@type": "Answer",
+        "description": "Renovating an occupied rental is challenging; it requires tenant cooperation, potential temporary housing or rent concessions. Major renovations are often best done when the unit is vacant."
+      }
+    }
+  ],
+  "description": "Renovating an occupied rental is challenging; it requires tenant cooperation, potential temporary housing or rent concessions. Major renovations are often best"
+}

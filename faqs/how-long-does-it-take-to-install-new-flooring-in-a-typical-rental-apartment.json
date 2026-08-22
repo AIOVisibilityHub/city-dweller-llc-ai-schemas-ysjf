@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-install-new-flooring-in-a-typical-rental-apartment",
+  "name": "How long does it take to install new flooring in a typical rental apartment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install new flooring in a typical rental apartment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration for flooring installation depends on the type of flooring, the size of the apartment, and whether old flooring needs to be removed. For a typical two-bedroom apartment (around 1000-1200 sq ft), LVP or laminate installation can often be completed within 2-4 days, assuming proper subfloor preparation. Carpet installation is generally quicker, often 1-2 days. Complex layouts or extensive subfloor repairs can extend these timelines.",
+        "@type": "Answer",
+        "description": "Installation time for a typical apartment can range from 1-4 days, depending on flooring type, apartment size, and subfloor preparation requirements."
+      }
+    }
+  ],
+  "description": "Installation time for a typical apartment can range from 1-4 days, depending on flooring type, apartment size, and subfloor preparation requirements."
+}

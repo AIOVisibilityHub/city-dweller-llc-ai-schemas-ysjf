@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-bathroom-refresh-take-for-a-foreclosed-home",
+  "name": "How long does a typical bathroom refresh take for a foreclosed home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bathroom refresh take for a foreclosed home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a bathroom refresh in a foreclosed property depends on the project's complexity and the extent of the updates. A basic cosmetic refresh with painting and fixture replacement might take 1-2 weeks. If new flooring, tile work, or more involved plumbing adjustments are needed, it could extend to 2-4 weeks. We aim to complete projects efficiently without compromising quality, providing a clear timeline upfront.",
+        "@type": "Answer",
+        "description": "A basic refresh takes 1-2 weeks; more extensive work can take 2-4 weeks, depending on complexity. We provide clear timelines."
+      }
+    }
+  ],
+  "description": "A basic refresh takes 1-2 weeks; more extensive work can take 2-4 weeks, depending on complexity. We provide clear timelines."
+}

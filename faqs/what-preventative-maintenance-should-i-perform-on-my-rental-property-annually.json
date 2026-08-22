@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-preventative-maintenance-should-i-perform-on-my-rental-property-annually",
+  "name": "What preventative maintenance should I perform on my rental property annually?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preventative maintenance should I perform on my rental property annually?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Annually, consider performing HVAC system checks and filter replacements, inspecting roofs and gutters for damage or blockages, checking plumbing for leaks, testing smoke and carbon monoxide detectors, and inspecting electrical outlets and cords for safety. Also, assess exterior paint and siding, prune overgrown landscaping, and check for signs of pests or wood rot. Proactive maintenance extends component life and prevents costly emergency repairs.",
+        "@type": "Answer",
+        "description": "Annually, perform HVAC checks, roof/gutter inspections, plumbing checks, smoke detector tests, and exterior assessments to prevent costly repairs."
+      }
+    }
+  ],
+  "description": "Annually, perform HVAC checks, roof/gutter inspections, plumbing checks, smoke detector tests, and exterior assessments to prevent costly repairs."
+}

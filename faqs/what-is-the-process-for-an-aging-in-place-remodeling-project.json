@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-an-aging-in-place-remodeling-project",
+  "name": "What is the process for an Aging In Place remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for an Aging In Place remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with an initial consultation to assess your current and future needs and discuss design options. Next, a detailed proposal and design plan are developed, including material selections and a timeline. Once approved, necessary permits are secured. Construction then commences, with regular communication and project management to ensure quality and adherence to the plan. The project concludes with a final walkthrough to confirm satisfaction and address any remaining details.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design and proposal, permit acquisition, construction, and a final walkthrough to ensure satisfaction."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design and proposal, permit acquisition, construction, and a final walkthrough to ensure satisfaction."
+}

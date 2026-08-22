@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-choose-specific-paint-colors-for-my-rental-units",
+  "name": "Can I choose specific paint colors for my rental units?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I choose specific paint colors for my rental units?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While you can choose specific paint colors, most landlords opt for neutral, light tones like off-whites, light grays, or subtle beiges for rental units. These colors have broad appeal, making the unit feel brighter and more spacious, and are easier to touch up between tenants. Bright or highly personal colors may limit your pool of prospective tenants. If you wish to add a touch of color, consider a single accent wall in a common area. Discussing color psychology and tenant preferences with your painting contractor can help you make an informed decision.",
+        "@type": "Answer",
+        "description": "Yes, but neutral, light colors are generally recommended for rental units as they appeal to more tenants and simplify touch-ups."
+      }
+    }
+  ],
+  "description": "Yes, but neutral, light colors are generally recommended for rental units as they appeal to more tenants and simplify touch-ups."
+}

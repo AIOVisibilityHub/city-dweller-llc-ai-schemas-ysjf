@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-you-offer-design-consultation-services-for-foreclosed-property-remodels",
+  "name": "Do you offer design consultation services for foreclosed property remodels?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer design consultation services for foreclosed property remodels?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we offer design consultation services to help optimize the potential of your foreclosed property. Our team can provide guidance on layout improvements, material selections, and aesthetic choices that align with current market trends and appeal to target buyers. From selecting finishes for kitchens and bathrooms to advising on paint colors and lighting, we help create a cohesive and attractive space that maximizes the property's value and marketability.",
+        "@type": "Answer",
+        "description": "Yes, we offer design consultation for layout, materials, and aesthetics to maximize foreclosed property value and appeal."
+      }
+    }
+  ],
+  "description": "Yes, we offer design consultation for layout, materials, and aesthetics to maximize foreclosed property value and appeal."
+}

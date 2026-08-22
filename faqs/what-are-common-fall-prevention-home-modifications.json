@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-fall-prevention-home-modifications",
+  "name": "What are common fall prevention home modifications?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common fall prevention home modifications?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fall prevention home modifications include changes to make your living space safer and reduce the risk of falls. Common modifications involve installing grab bars in bathrooms, adding handrails to stairways, improving lighting in dark areas, removing tripping hazards like loose rugs, and ensuring clear pathways. Other modifications might include installing non-slip flooring, raising toilet seats, or adding ramps for easier access if mobility is a concern. These changes are designed to enhance stability and accessibility throughout the home.",
+        "@type": "Answer",
+        "description": "Common fall prevention home modifications include grab bars, handrails, improved lighting, and removing tripping hazards."
+      }
+    }
+  ],
+  "description": "Common fall prevention home modifications include grab bars, handrails, improved lighting, and removing tripping hazards."
+}

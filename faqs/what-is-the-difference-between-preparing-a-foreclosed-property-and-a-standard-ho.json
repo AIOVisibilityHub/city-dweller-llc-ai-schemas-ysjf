@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-preparing-a-foreclosed-property-and-a-standard-ho",
+  "name": "What is the difference between preparing a foreclosed property and a standard home for sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between preparing a foreclosed property and a standard home for sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary difference lies in the typical condition and ownership structure. Foreclosed properties often require more extensive repairs due to neglect or damage incurred during the foreclosure process, and they are usually sold by lenders or investors. Standard homes for sale are generally better maintained and owned by individuals. Preparation for foreclosures often involves significant cleanouts and remediation of deferred maintenance, whereas standard home preparation usually focuses on cosmetic enhancements and minor repairs.",
+        "@type": "Answer",
+        "description": "Foreclosed properties often require more extensive repairs due to prior neglect, contrasting with standard homes that typically need cosmetic updates and minor fixes."
+      }
+    }
+  ],
+  "description": "Foreclosed properties often require more extensive repairs due to prior neglect, contrasting with standard homes that typically need cosmetic updates and minor"
+}

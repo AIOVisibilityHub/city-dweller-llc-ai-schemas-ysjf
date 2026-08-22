@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-starting-a-disability-remodeling-project-with-your-compa",
+  "name": "What is the process for starting a disability remodeling project with your company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for starting a disability remodeling project with your company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process for disability remodeling begins with an initial consultation to understand your specific needs, challenges, and goals. We then conduct a home assessment to evaluate the existing structure and identify potential solutions. Based on this, we develop a detailed proposal outlining the recommended modifications, materials, timeline, and cost estimate. Once approved, we handle all necessary permits, manage the construction, and ensure the project is completed to your satisfaction and local building codes.",
+        "@type": "Answer",
+        "description": "Our process starts with a consultation and home assessment, followed by a detailed proposal, permit handling, and construction management until completion."
+      }
+    }
+  ],
+  "description": "Our process starts with a consultation and home assessment, followed by a detailed proposal, permit handling, and construction management until completion."
+}

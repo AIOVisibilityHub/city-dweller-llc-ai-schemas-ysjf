@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-be-present-during-the-painting-process",
+  "name": "Do I need to be present during the painting process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be present during the painting process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's not strictly necessary for you to be present throughout the entire painting process, it is advisable to be available for an initial walkthrough with the contractor to discuss project specifics and expectations. It's also helpful to be accessible by phone for any questions that may arise. For the final walkthrough, your presence is highly recommended to inspect the finished work and ensure everything meets your satisfaction. A reliable contractor will handle the daily supervision, allowing you to focus on other tasks.",
+        "@type": "Answer",
+        "description": "You don't need to be present throughout, but be available for initial and final walkthroughs, and accessible by phone for questions."
+      }
+    }
+  ],
+  "description": "You don't need to be present throughout, but be available for initial and final walkthroughs, and accessible by phone for questions."
+}

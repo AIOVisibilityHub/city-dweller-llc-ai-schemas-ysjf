@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-universal-design-and-aging-in-place-remodeling",
+  "name": "What's the difference between universal design and Aging In Place remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between universal design and Aging In Place remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Universal design is a broader concept focused on creating environments and products usable by all people, to the greatest extent possible, without the need for adaptation or specialized design. It aims to be inclusive from the outset. Aging In Place remodeling, while often incorporating universal design principles, is specifically targeted at modifying an existing home to accommodate the changing needs of its current residents as they age. Universal design is about designing for everyone; Aging In Place is about adapting for specific residents' aging needs.",
+        "@type": "Answer",
+        "description": "Universal design creates spaces for all people from the start, while Aging In Place remodeling adapts existing homes for residents' specific aging needs."
+      }
+    }
+  ],
+  "description": "Universal design creates spaces for all people from the start, while Aging In Place remodeling adapts existing homes for residents' specific aging needs."
+}

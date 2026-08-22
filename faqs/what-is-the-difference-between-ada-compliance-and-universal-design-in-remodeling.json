@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-ada-compliance-and-universal-design-in-remodeling",
+  "name": "What is the difference between ADA compliance and universal design in remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between ADA compliance and universal design in remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "ADA (Americans with Disabilities Act) compliance refers to strict guidelines primarily for public and commercial spaces, ensuring accessibility for people with disabilities. Universal design, on the other hand, is a broader concept focused on creating environments that are usable by all people, to the greatest extent possible, without the need for adaptation. In residential remodeling, universal design principles are often applied to create a home that is comfortable and accessible for everyone, regardless of age or ability, going beyond minimum ADA standards.",
+        "@type": "Answer",
+        "description": "ADA compliance sets specific accessibility standards for public spaces, while universal design aims to create environments usable by everyone in any setting, including homes."
+      }
+    }
+  ],
+  "description": "ADA compliance sets specific accessibility standards for public spaces, while universal design aims to create environments usable by everyone in any setting, in"
+}

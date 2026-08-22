@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-accessible-home-modifications",
+  "name": "What are accessible home modifications?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are accessible home modifications?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Accessible home modifications are changes made to a residence to improve its usability and safety for individuals with disabilities, aging adults, or those with limited mobility. These modifications can range from minor adjustments like grab bar installations to major renovations such as widening doorways, installing ramps, or creating zero-entry showers. The goal is to enhance independence and ensure comfortable, safe access throughout the home.",
+        "@type": "Answer",
+        "description": "Accessible home modifications adapt a residence to improve safety and usability for individuals with disabilities or limited mobility."
+      }
+    }
+  ],
+  "description": "Accessible home modifications adapt a residence to improve safety and usability for individuals with disabilities or limited mobility."
+}

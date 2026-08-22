@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-accessibility-remodeling-add-value-to-my-home",
+  "name": "Can accessibility remodeling add value to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can accessibility remodeling add value to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, accessibility remodeling can add significant value to your home, particularly in areas with aging populations or those seeking multi-generational living solutions. Features like zero-threshold showers, wider doorways, and convenient kitchen layouts appeal to a broader market, including individuals planning to age in place. While not all modifications yield a direct financial return, they enhance marketability and improve the quality of life for residents, which is a key value proposition.",
+        "@type": "Answer",
+        "description": "Yes, accessibility remodeling can add value by appealing to a broader market, supporting aging in place, and enhancing long-term functionality."
+      }
+    }
+  ],
+  "description": "Yes, accessibility remodeling can add value by appealing to a broader market, supporting aging in place, and enhancing long-term functionality."
+}

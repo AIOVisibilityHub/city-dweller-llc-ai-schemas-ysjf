@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-common-drywall-issues-are-found-in-foreclosed-properties",
+  "name": "What common drywall issues are found in foreclosed properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common drywall issues are found in foreclosed properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Foreclosed properties often sit vacant for extended periods, leading to common drywall issues such as moisture damage, mold growth, cracks from settling, holes from removed fixtures or vandalism, and general wear and tear. Water leaks from neglected plumbing or roofing can cause significant damage, requiring patching, repairs, or full panel replacement to restore the property's integrity and appearance.",
+        "@type": "Answer",
+        "description": "Common drywall issues in foreclosed properties include moisture damage, mold, cracks, and holes due to vacancy and neglect."
+      }
+    }
+  ],
+  "description": "Common drywall issues in foreclosed properties include moisture damage, mold, cracks, and holes due to vacancy and neglect."
+}

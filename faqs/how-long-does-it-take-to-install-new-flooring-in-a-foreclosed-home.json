@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-install-new-flooring-in-a-foreclosed-home",
+  "name": "How long does it take to install new flooring in a foreclosed home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install new flooring in a foreclosed home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for flooring installation depends on the property's size, the type of flooring chosen, and the condition of the existing subfloor. For an average 1,500 sq ft home, laminate or LVP installation might take 2-4 days. Carpet installation is often quicker, potentially 1-2 days per large area. Hardwood installation, particularly if sanding and finishing are required, can extend to 5-7 days or more. Significant subfloor repairs, old flooring removal, or acclimatization periods for certain materials can add to the project duration.",
+        "@type": "Answer",
+        "description": "Installation time varies by property size and flooring type. Laminate/LVP typically takes 2-4 days for an average home, while hardwood can take 5-7 days or more."
+      }
+    }
+  ],
+  "description": "Installation time varies by property size and flooring type. Laminate/LVP typically takes 2-4 days for an average home, while hardwood can take 5-7 days or more"
+}

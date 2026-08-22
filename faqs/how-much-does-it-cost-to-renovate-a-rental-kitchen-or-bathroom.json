@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-renovate-a-rental-kitchen-or-bathroom",
+  "name": "How much does it cost to renovate a rental kitchen or bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to renovate a rental kitchen or bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of renovating a rental kitchen or bathroom varies widely based on material choices, fixture quality, and the extent of the remodel. Basic refreshes might start around $8,000 for a bathroom and $15,000 for a kitchen, while mid-range remodels can range from $15,000-$30,000+ for bathrooms and $25,000-$50,000+ for kitchens. We provide detailed estimates tailored to your budget and goals.",
+        "@type": "Answer",
+        "description": "Costs for kitchen and bathroom renovations vary by scope and materials, typically ranging from $8,000 to over $50,000."
+      }
+    }
+  ],
+  "description": "Costs for kitchen and bathroom renovations vary by scope and materials, typically ranging from $8,000 to over $50,000."
+}

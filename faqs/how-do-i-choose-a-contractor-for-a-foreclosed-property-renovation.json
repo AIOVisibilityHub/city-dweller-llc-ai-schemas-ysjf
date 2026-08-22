@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-a-contractor-for-a-foreclosed-property-renovation",
+  "name": "How do I choose a contractor for a foreclosed property renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a contractor for a foreclosed property renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor for a foreclosed property renovation, look for experience with similar projects and a strong understanding of local building codes. Check their licensing, insurance, and references. Obtain multiple detailed bids that clearly outline the scope of work, timeline, and payment schedule. A good contractor will communicate effectively, provide transparent pricing, and offer a warranty on their work. Prioritize those who specialize in comprehensive renovations.",
+        "@type": "Answer",
+        "description": "Choose a contractor with experience in similar projects, local code knowledge, proper licensing, insurance, and good references. Get multiple detailed bids."
+      }
+    }
+  ],
+  "description": "Choose a contractor with experience in similar projects, local code knowledge, proper licensing, insurance, and good references. Get multiple detailed bids."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-bathroom-remodel-take-for-a-rental-property",
+  "name": "How long does a typical bathroom remodel take for a rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bathroom remodel take for a rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a typical bathroom remodel for a rental property can vary, but generally, a standard remodel without major layout changes takes between 2 to 4 weeks. This timeframe accounts for demolition, plumbing and electrical rough-ins, new fixture installation, tiling, painting, and final touches. More extensive remodels involving structural changes or custom work can extend this timeline. Efficiency is key to minimize vacancy periods for landlords.",
+        "@type": "Answer",
+        "description": "A standard bathroom remodel typically takes 2 to 4 weeks, depending on the scope and if there are major layout changes."
+      }
+    }
+  ],
+  "description": "A standard bathroom remodel typically takes 2 to 4 weeks, depending on the scope and if there are major layout changes."
+}

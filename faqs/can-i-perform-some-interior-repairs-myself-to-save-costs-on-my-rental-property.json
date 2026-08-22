@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-perform-some-interior-repairs-myself-to-save-costs-on-my-rental-property",
+  "name": "Can I perform some interior repairs myself to save costs on my rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I perform some interior repairs myself to save costs on my rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can perform certain interior repairs yourself to save costs, especially if you have the necessary skills and tools. Tasks like painting, minor drywall patching, replacing light fixtures, or basic landscaping are often manageable for landlords. However, for complex jobs involving plumbing, electrical, structural work, or anything requiring permits, it's best to hire licensed professionals. Improperly done repairs can lead to safety hazards, costly future damage, or issues with insurance and tenant safety.",
+        "@type": "Answer",
+        "description": "You can do minor repairs like painting or patching drywall. For complex tasks involving plumbing, electrical, or structural work, or anything needing permits, always hire licensed professionals to avoid future issues."
+      }
+    }
+  ],
+  "description": "You can do minor repairs like painting or patching drywall. For complex tasks involving plumbing, electrical, or structural work, or anything needing permits, a"
+}

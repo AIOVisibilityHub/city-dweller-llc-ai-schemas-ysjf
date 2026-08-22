@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-permits-are-required-for-rental-property-remodeling-in-the-bay-area",
+  "name": "What permits are required for rental property remodeling in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for rental property remodeling in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for rental property remodeling vary by the scope of work and specific city within the Bay Area (e.g., Pacifica, Daly City, San Mateo). Generally, permits are needed for structural changes, significant electrical or plumbing work, new construction, and sometimes for extensive cosmetic renovations. It's essential to consult with your general contractor and check with the local building department in your property's jurisdiction before starting any work. Failing to obtain necessary permits can lead to fines and delays.",
+        "@type": "Answer",
+        "description": "Permit requirements depend on the scope of work and specific city in the Bay Area. Structural, electrical, and plumbing changes typically require permits. Always check with local building departments."
+      }
+    }
+  ],
+  "description": "Permit requirements depend on the scope of work and specific city in the Bay Area. Structural, electrical, and plumbing changes typically require permits. Alway"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-permit-for-rental-property-repairs-in-pacifica-or-daly-city",
+  "name": "Do I need a permit for rental property repairs in Pacifica or Daly City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for rental property repairs in Pacifica or Daly City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need a permit depends on the nature and extent of the repair. Minor repairs like painting or replacing a light fixture typically do not require one. However, significant structural changes, electrical work, plumbing work beyond simple fixture replacement, HVAC system installations, or additions often require permits from the respective city's building department (e.g., Pacifica or Daly City). It's crucial to check local building codes before starting work.",
+        "@type": "Answer",
+        "description": "Permits are generally needed for structural changes, electrical, plumbing, or HVAC work, but not for minor repairs like painting. Check local city building codes."
+      }
+    }
+  ],
+  "description": "Permits are generally needed for structural changes, electrical, plumbing, or HVAC work, but not for minor repairs like painting. Check local city building code"
+}

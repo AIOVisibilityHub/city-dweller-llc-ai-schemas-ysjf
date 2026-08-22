@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-interior-and-exterior-trim-repair",
+  "name": "What is the difference between interior and exterior trim repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between interior and exterior trim repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interior trim repair focuses on cosmetic and functional elements inside the home, such as baseboards, crown molding, door and window casings, and chair rails. These repairs often use materials like MDF or pine and prioritize aesthetics. Exterior trim repair addresses elements outside the house, including fascia boards, soffits, window sills, and door frames. These materials, such as PVC, redwood, or treated lumber, are chosen for their durability and weather resistance to protect the home's structure from moisture and pests. The techniques and materials differ due to exposure to the elements.",
+        "@type": "Answer",
+        "description": "Interior trim repair focuses on indoor cosmetic elements (e.g., baseboards, casings), while exterior trim repair addresses outdoor elements (e.g., fascia, soffits) using weather-resistant materials."
+      }
+    }
+  ],
+  "description": "Interior trim repair focuses on indoor cosmetic elements (e.g., baseboards, casings), while exterior trim repair addresses outdoor elements (e.g., fascia, soffi"
+}

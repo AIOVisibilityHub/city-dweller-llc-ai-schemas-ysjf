@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-permits-are-typically-required-for-interior-repairs-in-cities-like-daly-cit",
+  "name": "What permits are typically required for interior repairs in cities like Daly City or San Mateo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are typically required for interior repairs in cities like Daly City or San Mateo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for interior repairs in cities like Daly City or San Mateo depend on the scope of the work. Minor cosmetic changes like painting or flooring typically don't require permits. However, permits are usually necessary for projects involving structural modifications, significant electrical or plumbing work, adding or removing walls, or changing the building's footprint. It's always advisable to consult with your contractor or the local planning department before starting any major repair to ensure compliance with city regulations.",
+        "@type": "Answer",
+        "description": "Permits are usually required for structural modifications, significant electrical/plumbing work, or wall changes. Minor cosmetic repairs typically don't need them. Always check with your contractor or local planning department."
+      }
+    }
+  ],
+  "description": "Permits are usually required for structural modifications, significant electrical/plumbing work, or wall changes. Minor cosmetic repairs typically don't need th"
+}

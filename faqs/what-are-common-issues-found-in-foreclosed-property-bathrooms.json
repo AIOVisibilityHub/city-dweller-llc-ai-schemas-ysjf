@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-issues-found-in-foreclosed-property-bathrooms",
+  "name": "What are common issues found in foreclosed property bathrooms?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common issues found in foreclosed property bathrooms?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common issues in foreclosed property bathrooms often include outdated fixtures, peeling paint, damaged flooring, water stains, mold or mildew (especially from neglect), and sometimes basic plumbing leaks. Missing hardware, damaged vanity cabinets, and poor ventilation are also frequently encountered. Addressing these issues systematically improves hygiene, aesthetics, and overall property value.",
+        "@type": "Answer",
+        "description": "Common issues include outdated fixtures, peeling paint, damaged flooring, water stains, mold, leaks, and damaged vanities."
+      }
+    }
+  ],
+  "description": "Common issues include outdated fixtures, peeling paint, damaged flooring, water stains, mold, leaks, and damaged vanities."
+}

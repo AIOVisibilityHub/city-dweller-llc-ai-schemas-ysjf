@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-assess-the-extent-of-drywall-damage-in-a-foreclosed-home",
+  "name": "How do I assess the extent of drywall damage in a foreclosed home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I assess the extent of drywall damage in a foreclosed home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Assessing drywall damage involves visually inspecting for cracks, holes, water stains, or signs of mold. Gently press on affected areas to check for softness or crumbling, which indicates moisture. Tap around to identify hollow spots. It's crucial to look behind furniture or in closets for hidden damage. For comprehensive assessment, consider a professional inspection, especially if water damage or mold is suspected, as it may extend beyond the visible surface.",
+        "@type": "Answer",
+        "description": "Assess drywall damage by visually inspecting for cracks, stains, and mold, and checking for softness. A professional can provide a comprehensive evaluation."
+      }
+    }
+  ],
+  "description": "Assess drywall damage by visually inspecting for cracks, stains, and mold, and checking for softness. A professional can provide a comprehensive evaluation."
+}

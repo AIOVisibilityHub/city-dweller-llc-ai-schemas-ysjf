@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-permits-are-needed-for-a-bathroom-refresh-in-the-bay-area",
+  "name": "What permits are needed for a bathroom refresh in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for a bathroom refresh in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a standard cosmetic bathroom refresh (e.g., painting, replacing a vanity or toilet), permits are generally not required. However, if the refresh involves significant alterations to plumbing, electrical systems, or structural changes, permits from your local building department (e.g., in Pacifica, Daly City, or San Bruno) will likely be necessary. We can help identify if permits are needed for your specific project and assist with the application process.",
+        "@type": "Answer",
+        "description": "Permits are usually not needed for cosmetic refreshes. They are required for significant plumbing, electrical, or structural changes, and we can assist."
+      }
+    }
+  ],
+  "description": "Permits are usually not needed for cosmetic refreshes. They are required for significant plumbing, electrical, or structural changes, and we can assist."
+}

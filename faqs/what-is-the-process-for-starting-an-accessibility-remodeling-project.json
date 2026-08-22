@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-starting-an-accessibility-remodeling-project",
+  "name": "What is the process for starting an accessibility remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for starting an accessibility remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an initial consultation where we discuss your specific needs, assess your current space, and understand your budget. Following this, we develop a detailed design plan and provide a comprehensive estimate. Once approved, we handle permitting, material selection, and then proceed with construction. Regular communication ensures the project stays on track and meets your expectations.",
+        "@type": "Answer",
+        "description": "The process starts with a consultation, followed by design, estimate, permitting, and construction, with regular client communication."
+      }
+    }
+  ],
+  "description": "The process starts with a consultation, followed by design, estimate, permitting, and construction, with regular client communication."
+}

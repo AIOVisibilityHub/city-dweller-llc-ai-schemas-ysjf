@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-a-senior-friendly-home-remodel",
+  "name": "What is the typical process for a senior-friendly home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a senior-friendly home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process for a senior-friendly home remodel begins with a consultation to assess needs and discuss goals. This is followed by design and planning, where detailed plans and material selections are finalized. Once designs are approved and permits (if needed) are secured, the construction phase begins, involving demolition, structural changes, installations, and finishes. Regular communication with the contractor is key throughout. The project concludes with a final walkthrough to ensure all work meets expectations and compliance.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design, planning, securing permits, construction (demolition, installation, finishes), and a final walkthrough with regular communication."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design, planning, securing permits, construction (demolition, installation, finishes), and a final walkthrough with regular c"
+}

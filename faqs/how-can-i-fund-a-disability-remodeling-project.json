@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-fund-a-disability-remodeling-project",
+  "name": "How can I fund a disability remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I fund a disability remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Funding options for disability remodeling projects vary. Many homeowners use personal savings or home equity loans. There may also be state or local programs, grants, or tax credits available for accessible home modifications, although these vary by location and eligibility. Some non-profit organizations offer assistance. It's recommended to research specific programs within your area and consult with financial advisors. We focus on providing transparent project costs, which can assist in your financial planning.",
+        "@type": "Answer",
+        "description": "Funding for disability remodeling can come from personal savings, home equity loans, or specific state/local grants and programs. Research local options."
+      }
+    }
+  ],
+  "description": "Funding for disability remodeling can come from personal savings, home equity loans, or specific state/local grants and programs. Research local options."
+}

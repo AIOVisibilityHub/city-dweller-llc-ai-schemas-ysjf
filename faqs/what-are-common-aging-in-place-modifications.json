@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-aging-in-place-modifications",
+  "name": "What are common Aging In Place modifications?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common Aging In Place modifications?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common modifications include installing grab bars in bathrooms, adding no-slip flooring, improving lighting, and enhancing shower accessibility with walk-in or roll-in designs and bench seating. Kitchen modifications might involve lower countertops, pull-out shelves, and easy-to-use faucet handles. Other common changes include widening doorways, installing ramps or stairlifts, and updating door hardware for easier grip. These changes are designed to prevent falls, improve mobility, and simplify daily tasks.",
+        "@type": "Answer",
+        "description": "Common modifications include grab bars, no-slip flooring, improved lighting, accessible showers, wider doorways, and ramps or stairlifts."
+      }
+    }
+  ],
+  "description": "Common modifications include grab bars, no-slip flooring, improved lighting, accessible showers, wider doorways, and ramps or stairlifts."
+}

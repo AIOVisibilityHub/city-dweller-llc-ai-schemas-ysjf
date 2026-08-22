@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-a-reputable-contractor-for-foreclosed-property-repair",
+  "name": "How do I choose a reputable contractor for foreclosed property repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reputable contractor for foreclosed property repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor, look for licenses, insurance, and experience specifically with foreclosed or distressed properties. Request references from previous clients and check their portfolio. Obtain detailed, written bids outlining the scope of work, materials, and payment schedule. A good contractor will communicate clearly, understand your budget, and be familiar with local regulations.",
+        "@type": "Answer",
+        "description": "Choose a reputable contractor by checking licenses, insurance, references, experience with similar properties, and reviewing detailed bids."
+      }
+    }
+  ],
+  "description": "Choose a reputable contractor by checking licenses, insurance, references, experience with similar properties, and reviewing detailed bids."
+}

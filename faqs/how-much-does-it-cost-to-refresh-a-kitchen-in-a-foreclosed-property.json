@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-it-cost-to-refresh-a-kitchen-in-a-foreclosed-property",
+  "name": "How much does it cost to refresh a kitchen in a foreclosed property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to refresh a kitchen in a foreclosed property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for a kitchen refresh in a foreclosed property varies widely based on the scope of work and materials chosen. Minor updates like painting, new hardware, and refacing cabinets might range from $5,000 to $15,000. More extensive refreshes involving new countertops, a backsplash, and some appliance upgrades could be $15,000 to $30,000. For an accurate estimate in the Bay Area, we recommend a personalized consultation.",
+        "@type": "Answer",
+        "description": "Costs for a kitchen refresh vary from $5,000 for minor updates to $30,000 for more extensive changes, depending on materials and scope."
+      }
+    }
+  ],
+  "description": "Costs for a kitchen refresh vary from $5,000 for minor updates to $30,000 for more extensive changes, depending on materials and scope."
+}

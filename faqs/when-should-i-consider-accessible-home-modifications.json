@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-accessible-home-modifications",
+  "name": "When should I consider accessible home modifications?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider accessible home modifications?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider accessible home modifications when a household member experiences changes in mobility due to age, injury, illness, or disability. Proactive modifications can prevent falls and improve quality of life. Even if current needs are minor, planning ahead can ensure your home remains safe and functional as needs evolve, allowing individuals to age in place comfortably.",
+        "@type": "Answer",
+        "description": "Consider modifications when a household member's mobility changes due to age, injury, or disability, or to proactively plan for future needs."
+      }
+    }
+  ],
+  "description": "Consider modifications when a household member's mobility changes due to age, injury, or disability, or to proactively plan for future needs."
+}

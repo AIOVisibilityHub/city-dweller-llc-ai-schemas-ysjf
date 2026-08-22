@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-accessibility-remodeling",
+  "name": "What is accessibility remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is accessibility remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Accessibility remodeling involves modifying a home to make it safer and easier to navigate for individuals with disabilities, aging in place, or those with temporary mobility challenges. This can include features like ramp installations, wider doorways, grab bars, roll-in showers, and accessible kitchen designs. The goal is to enhance independence and comfort within the living space.",
+        "@type": "Answer",
+        "description": "Accessibility remodeling adapts a home to improve safety and ease of use for individuals with mobility challenges or those aging in place."
+      }
+    }
+  ],
+  "description": "Accessibility remodeling adapts a home to improve safety and ease of use for individuals with mobility challenges or those aging in place."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-accessibility-modifications-for-entryways-and-exits",
+  "name": "What are common accessibility modifications for entryways and exits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common accessibility modifications for entryways and exits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common accessibility modifications for entryways and exits include installing ramps or gently sloped pathways to replace steps, widening door frames to accommodate wheelchairs or walkers, and replacing traditional doorknobs with lever handles for easier gripping. Ensuring thresholds are low or flush with the floor also helps prevent tripping hazards. Good lighting and covered entryways enhance safety in various weather conditions.",
+        "@type": "Answer",
+        "description": "Common entryway modifications include ramps, wider doors, lever handles, and flush thresholds to improve access and safety."
+      }
+    }
+  ],
+  "description": "Common entryway modifications include ramps, wider doors, lever handles, and flush thresholds to improve access and safety."
+}

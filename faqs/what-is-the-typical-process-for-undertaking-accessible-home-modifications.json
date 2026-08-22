@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-undertaking-accessible-home-modifications",
+  "name": "What is the typical process for undertaking accessible home modifications?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for undertaking accessible home modifications?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with an initial consultation to assess your specific needs and the home's current layout. This is followed by design and planning, where a tailored solution is developed. Once plans are approved, permits are obtained, and construction begins. Throughout the project, we ensure minimal disruption and clear communication, concluding with a final inspection to confirm all modifications meet safety and accessibility standards.",
+        "@type": "Answer",
+        "description": "The process involves an initial consultation, design and planning, permit acquisition, construction, and a final inspection to ensure accessibility and safety."
+      }
+    }
+  ],
+  "description": "The process involves an initial consultation, design and planning, permit acquisition, construction, and a final inspection to ensure accessibility and safety."
+}

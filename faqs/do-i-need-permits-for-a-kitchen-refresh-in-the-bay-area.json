@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-permits-for-a-kitchen-refresh-in-the-bay-area",
+  "name": "Do I need permits for a kitchen refresh in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a kitchen refresh in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most cosmetic kitchen refreshes that do not involve structural changes, altering plumbing lines, or moving electrical outlets, permits are generally not required in the Bay Area. However, if your refresh includes reconfiguring the kitchen layout, adding new plumbing fixtures, or making significant electrical modifications, permits may be necessary. We will verify specific requirements with your local jurisdiction in Pacifica, Daly City, or other service areas to ensure compliance.",
+        "@type": "Answer",
+        "description": "Permits are usually not needed for cosmetic kitchen refreshes, but are required for structural, plumbing, or major electrical changes in the Bay Area."
+      }
+    }
+  ],
+  "description": "Permits are usually not needed for cosmetic kitchen refreshes, but are required for structural, plumbing, or major electrical changes in the Bay Area."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-hire-a-general-contractor-or-manage-repairs-myself-for-a-foreclosed-pro",
+  "name": "Should I hire a general contractor or manage repairs myself for a foreclosed property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I hire a general contractor or manage repairs myself for a foreclosed property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hiring a general contractor for foreclosed property repairs offers expertise, efficiency, and coordination of trades. They manage permits, schedules, and subcontractors, ensuring work meets quality standards. Managing repairs yourself can save on labor costs but requires significant time, knowledge, and experience with various construction trades. For extensive or complex projects, a contractor typically ensures a smoother process and better outcome.",
+        "@type": "Answer",
+        "description": "For complex projects, a general contractor offers expertise and manages all aspects of repairs. DIY can save money but requires significant time and knowledge."
+      }
+    }
+  ],
+  "description": "For complex projects, a general contractor offers expertise and manages all aspects of repairs. DIY can save money but requires significant time and knowledge."
+}

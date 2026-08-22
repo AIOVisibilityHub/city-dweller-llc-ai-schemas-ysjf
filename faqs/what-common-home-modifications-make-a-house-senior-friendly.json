@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-common-home-modifications-make-a-house-senior-friendly",
+  "name": "What common home modifications make a house senior-friendly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common home modifications make a house senior-friendly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Senior-friendly home modifications focus on safety, accessibility, and ease of use. Common updates include installing grab bars in bathrooms, widening doorways for wheelchair access, replacing steps with ramps, and converting traditional doorknobs to lever handles. Other improvements involve enhanced lighting, non-slip flooring, and accessible kitchen designs such as pull-out shelves and lower countertops. These changes help seniors maintain independence and navigate their homes safely as they age.",
+        "@type": "Answer",
+        "description": "Common senior-friendly modifications include grab bars, wider doorways, ramps, lever handles, improved lighting, and non-slip flooring."
+      }
+    }
+  ],
+  "description": "Common senior-friendly modifications include grab bars, wider doorways, ramps, lever handles, improved lighting, and non-slip flooring."
+}

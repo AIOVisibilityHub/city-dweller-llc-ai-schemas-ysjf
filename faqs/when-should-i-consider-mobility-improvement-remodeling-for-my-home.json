@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-mobility-improvement-remodeling-for-my-home",
+  "name": "When should I consider mobility improvement remodeling for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider mobility improvement remodeling for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider mobility improvement remodeling when a resident experiences increasing difficulty with daily tasks due to mobility challenges, such as using stairs, entering showers, or navigating narrow hallways. It's also advisable after a fall, a new diagnosis impacting mobility, or proactively planning for future accessibility needs. Early planning can prevent accidents, maintain independence, and allow for a more thoughtful design process tailored to evolving requirements.",
+        "@type": "Answer",
+        "description": "Consider remodeling when mobility challenges affect daily tasks, after a fall, or proactively for future accessibility needs."
+      }
+    }
+  ],
+  "description": "Consider remodeling when mobility challenges affect daily tasks, after a fall, or proactively for future accessibility needs."
+}

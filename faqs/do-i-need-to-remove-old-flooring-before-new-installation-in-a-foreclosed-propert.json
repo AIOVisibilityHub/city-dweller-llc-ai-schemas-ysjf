@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-remove-old-flooring-before-new-installation-in-a-foreclosed-propert",
+  "name": "Do I need to remove old flooring before new installation in a foreclosed property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to remove old flooring before new installation in a foreclosed property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most cases, yes, existing flooring should be removed before installing new materials. This ensures a proper, level subfloor for the new installation, preventing issues like unevenness, squeaks, or future damage. Removing old flooring also allows for inspection and repair of the subfloor if needed, which is common in foreclosed properties that may have water damage or neglect. Some types of thin, resilient flooring might be installed over existing hard surfaces, but this is less common for major renovations and requires professional assessment.",
+        "@type": "Answer",
+        "description": "Generally, old flooring should be removed to ensure a proper, level subfloor for new installation and to address any hidden damage."
+      }
+    }
+  ],
+  "description": "Generally, old flooring should be removed to ensure a proper, level subfloor for new installation and to address any hidden damage."
+}

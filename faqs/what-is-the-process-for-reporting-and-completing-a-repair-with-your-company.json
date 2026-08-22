@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-reporting-and-completing-a-repair-with-your-company",
+  "name": "What is the process for reporting and completing a repair with your company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for reporting and completing a repair with your company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins when you contact us with a repair request, detailing the issue. We'll then schedule an assessment to evaluate the damage and provide a comprehensive estimate. Once approved, we will coordinate materials and schedule the work at your convenience. Our team handles all aspects of the repair, from preparation to cleanup, ensuring quality and minimal disruption to your tenants. We provide updates throughout the project until completion.",
+        "@type": "Answer",
+        "description": "You report the issue, we assess and provide an estimate, then we schedule and complete the repair with updates throughout the process."
+      }
+    }
+  ],
+  "description": "You report the issue, we assess and provide an estimate, then we schedule and complete the repair with updates throughout the process."
+}

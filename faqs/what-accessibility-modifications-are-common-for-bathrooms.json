@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-accessibility-modifications-are-common-for-bathrooms",
+  "name": "What accessibility modifications are common for bathrooms?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What accessibility modifications are common for bathrooms?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common bathroom accessibility modifications include installing grab bars near toilets and in showers, converting to a roll-in or curbless shower, raising toilet heights, and adding adjustable-height showerheads. Other popular changes involve widening doorways, installing lever-style faucet handles, and ensuring clear floor space for wheelchair maneuverability under sinks. These changes enhance safety and ease of use.",
+        "@type": "Answer",
+        "description": "Common bathroom modifications include grab bars, roll-in showers, raised toilets, and wider doorways to improve safety and access."
+      }
+    }
+  ],
+  "description": "Common bathroom modifications include grab bars, roll-in showers, raised toilets, and wider doorways to improve safety and access."
+}

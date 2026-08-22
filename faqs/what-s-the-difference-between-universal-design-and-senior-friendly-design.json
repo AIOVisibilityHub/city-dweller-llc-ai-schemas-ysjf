@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-universal-design-and-senior-friendly-design",
+  "name": "What's the difference between universal design and senior-friendly design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between universal design and senior-friendly design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Universal design aims to create environments usable by all people, to the greatest extent possible, without the need for adaptation or specialized design. It focuses on broad accessibility for diverse abilities and ages. Senior-friendly design, or aging-in-place design, specifically tailors modifications to meet the current and anticipated needs of older adults, often addressing common age-related challenges like reduced mobility, vision, or strength. While overlapping, senior-friendly design is a subset of the broader universal design philosophy, focusing on a specific demographic.",
+        "@type": "Answer",
+        "description": "Universal design creates spaces usable by everyone; senior-friendly design specifically tailors modifications for the needs of older adults."
+      }
+    }
+  ],
+  "description": "Universal design creates spaces usable by everyone; senior-friendly design specifically tailors modifications for the needs of older adults."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-permits-for-foreclosed-property-renovations",
+  "name": "Do I need permits for foreclosed property renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for foreclosed property renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, permits are typically required for most significant renovations on foreclosed properties, just as they are for any other property. This includes work involving structural changes, electrical system upgrades, plumbing alterations, HVAC installation, and sometimes even extensive cosmetic changes that impact safety or code compliance. Failing to obtain necessary permits can result in fines, project delays, or even the requirement to undo completed work. An experienced general contractor will identify all necessary permits and manage the application process with local authorities.",
+        "@type": "Answer",
+        "description": "Permits are usually required for significant foreclosed property renovations like structural, electrical, or plumbing work. An experienced contractor will manage the permit application process."
+      }
+    }
+  ],
+  "description": "Permits are usually required for significant foreclosed property renovations like structural, electrical, or plumbing work. An experienced contractor will manag"
+}

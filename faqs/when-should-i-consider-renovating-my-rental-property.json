@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-renovating-my-rental-property",
+  "name": "When should I consider renovating my rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider renovating my rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider renovating your rental property when significant wear and tear impacts its appeal, you're experiencing long vacancy periods, or you want to increase rental income. Renovations are also wise before selling, if major components (like plumbing or electrical) are outdated, or if you need to comply with updated building codes. Strategic updates can help maintain competitiveness.",
+        "@type": "Answer",
+        "description": "Consider renovating when wear and tear is visible, vacancy rates are high, or you aim to increase rent or property value."
+      }
+    }
+  ],
+  "description": "Consider renovating when wear and tear is visible, vacancy rates are high, or you aim to increase rent or property value."
+}

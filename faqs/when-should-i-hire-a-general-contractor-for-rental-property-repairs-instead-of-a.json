@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-hire-a-general-contractor-for-rental-property-repairs-instead-of-a",
+  "name": "When should I hire a general contractor for rental property repairs instead of a handyman?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I hire a general contractor for rental property repairs instead of a handyman?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should hire a general contractor for larger projects that involve multiple trades, require permits, or complex coordination, such as a major renovation, water damage restoration, or a complete kitchen or bathroom remodel. Handymen are suitable for smaller, isolated tasks like fixing a leaky faucet, painting a single room, or minor carpentry. A general contractor provides oversight, manages subcontractors, and ensures compliance with building codes.",
+        "@type": "Answer",
+        "description": "Hire a general contractor for large, complex projects involving multiple trades or permits; a handyman is suitable for small, isolated tasks."
+      }
+    }
+  ],
+  "description": "Hire a general contractor for large, complex projects involving multiple trades or permits; a handyman is suitable for small, isolated tasks."
+}

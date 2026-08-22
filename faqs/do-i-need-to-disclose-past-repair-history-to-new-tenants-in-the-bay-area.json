@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-disclose-past-repair-history-to-new-tenants-in-the-bay-area",
+  "name": "Do I need to disclose past repair history to new tenants in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to disclose past repair history to new tenants in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In California, landlords are generally required to disclose certain material facts about the property that could affect a tenant's health, safety, or enjoyment, such as known environmental hazards or defects. While there isn't a blanket rule for all past repair history, significant issues like past flood damage, mold remediation, or pest infestations that were repaired should typically be disclosed. It's best practice to be transparent about any issues that might reasonably concern a prospective tenant to avoid future disputes.",
+        "@type": "Answer",
+        "description": "In California, landlords must disclose material facts affecting tenant health, safety, or enjoyment, such as past flood damage or mold. Transparency about significant issues is recommended."
+      }
+    }
+  ],
+  "description": "In California, landlords must disclose material facts affecting tenant health, safety, or enjoyment, such as past flood damage or mold. Transparency about signi"
+}

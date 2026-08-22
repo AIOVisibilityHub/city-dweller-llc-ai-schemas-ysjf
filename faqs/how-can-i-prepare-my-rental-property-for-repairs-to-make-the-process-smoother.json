@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-prepare-my-rental-property-for-repairs-to-make-the-process-smoother",
+  "name": "How can I prepare my rental property for repairs to make the process smoother?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare my rental property for repairs to make the process smoother?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To streamline the repair process, clear out personal belongings and furniture from the work areas. If utilities like water or electricity need to be temporarily shut off, inform your contractor and tenants if the property is occupied. Ensure access to the property is easy and that workers have space to set up. Providing clear instructions on specific repair needs and any property-specific considerations will also help the contractor work efficiently.",
+        "@type": "Answer",
+        "description": "Prepare by clearing work areas, informing contractors and tenants about utility needs, ensuring easy access, and providing clear instructions on repair specifics."
+      }
+    }
+  ],
+  "description": "Prepare by clearing work areas, informing contractors and tenants about utility needs, ensuring easy access, and providing clear instructions on repair specific"
+}

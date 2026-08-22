@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-timeline-for-a-kitchen-refresh-project",
+  "name": "What is the typical timeline for a kitchen refresh project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a kitchen refresh project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical kitchen refresh project generally takes between 2 to 4 weeks, depending on the complexity and availability of materials. This timeline includes planning, material selection, demolition (if any), installation of new components like countertops, cabinets, and fixtures, and final touches. Factors such as custom orders or unexpected repairs can extend the project duration. We aim for efficient execution to minimize disruption.",
+        "@type": "Answer",
+        "description": "A kitchen refresh usually takes 2 to 4 weeks, varying by project complexity and material availability."
+      }
+    }
+  ],
+  "description": "A kitchen refresh usually takes 2 to 4 weeks, varying by project complexity and material availability."
+}

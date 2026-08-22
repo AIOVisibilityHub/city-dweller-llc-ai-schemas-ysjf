@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/is-it-better-to-paint-over-minor-drywall-imperfections-or-repair-them",
+  "name": "Is it better to paint over minor drywall imperfections or repair them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it better to paint over minor drywall imperfections or repair them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is always better to repair minor drywall imperfections like small cracks or nail holes before painting. Painting directly over these issues will not hide them; in fact, it can make them more noticeable by drawing attention to the uneven surface. Properly repairing, patching, sanding, and priming the drywall creates a smooth, uniform surface that allows the new paint to adhere correctly and provides a professional, long-lasting finish.",
+        "@type": "Answer",
+        "description": "Always repair minor drywall imperfections before painting, as paint will not hide them and may highlight the flaws."
+      }
+    }
+  ],
+  "description": "Always repair minor drywall imperfections before painting, as paint will not hide them and may highlight the flaws."
+}

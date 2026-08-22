@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-paint-is-best-for-rental-properties",
+  "name": "What kind of paint is best for rental properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of paint is best for rental properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For rental properties, durable, washable, and low-VOC (volatile organic compound) paints are generally recommended. Eggshell or satin finishes are popular choices for walls as they offer a good balance of durability and aesthetic appeal, and are easier to clean than matte finishes. For high-traffic areas like kitchens and bathrooms, semi-gloss or gloss paints provide maximum durability and moisture resistance. Opting for neutral, light colors can also make units feel larger and appeal to a wider range of potential tenants, simplifying future touch-ups.",
+        "@type": "Answer",
+        "description": "Durable, washable, low-VOC paints with eggshell or satin finishes are best for rental properties. Semi-gloss works well in high-moisture areas."
+      }
+    }
+  ],
+  "description": "Durable, washable, low-VOC paints with eggshell or satin finishes are best for rental properties. Semi-gloss works well in high-moisture areas."
+}

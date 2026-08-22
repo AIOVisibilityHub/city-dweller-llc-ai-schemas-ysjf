@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-common-issues-require-repair-after-a-tenant-moves-out",
+  "name": "What common issues require repair after a tenant moves out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common issues require repair after a tenant moves out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a tenant moves out, common issues requiring repair often include repainting walls due to scuffs or excessive wear, repairing nail holes, cleaning or replacing carpets and flooring, addressing minor plumbing issues like leaky faucets or running toilets, fixing damaged blinds or window treatments, and patching small holes in drywall. Often, general cleaning and landscape maintenance are also necessary.",
+        "@type": "Answer",
+        "description": "Common post-tenant repairs include repainting, flooring repair/replacement, addressing minor plumbing issues, and patching drywall."
+      }
+    }
+  ],
+  "description": "Common post-tenant repairs include repainting, flooring repair/replacement, addressing minor plumbing issues, and patching drywall."
+}

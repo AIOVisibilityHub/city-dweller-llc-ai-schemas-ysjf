@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-identify-if-a-repair-is-normal-wear-and-tear-versus-tenant-damage",
+  "name": "How do I identify if a repair is normal wear and tear versus tenant damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I identify if a repair is normal wear and tear versus tenant damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Normal wear and tear refers to the deterioration that occurs with the regular use of a property over time, such as faded paint, minor scuffs on walls, or worn carpet. Tenant damage, conversely, implies neglect or abuse beyond normal use, like large holes in walls, broken windows, or stained carpets from spills. Often, the distinction is based on whether the damage would happen regardless of who lived there, versus being caused by specific actions of the tenant.",
+        "@type": "Answer",
+        "description": "Normal wear and tear is deterioration from regular use (e.g., faded paint), while tenant damage is from neglect or abuse (e.g., large holes). The key is if it would happen regardless of the tenant."
+      }
+    }
+  ],
+  "description": "Normal wear and tear is deterioration from regular use (e.g., faded paint), while tenant damage is from neglect or abuse (e.g., large holes). The key is if it w"
+}

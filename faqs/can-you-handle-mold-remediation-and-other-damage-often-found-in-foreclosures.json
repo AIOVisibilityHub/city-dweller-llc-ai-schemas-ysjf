@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-you-handle-mold-remediation-and-other-damage-often-found-in-foreclosures",
+  "name": "Can you handle mold remediation and other damage often found in foreclosures?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you handle mold remediation and other damage often found in foreclosures?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we are equipped to handle various types of damage commonly found in foreclosed properties, including mold remediation, water damage repair, and addressing issues from neglect or vandalism. Our team can assess the extent of the damage, develop a comprehensive plan for remediation and repair, and restore the property to a safe and habitable condition. We ensure proper procedures are followed to mitigate health risks and prevent recurrence.",
+        "@type": "Answer",
+        "description": "Yes, we handle common foreclosure damage like mold remediation, water damage, and repairs from neglect or vandalism."
+      }
+    }
+  ],
+  "description": "Yes, we handle common foreclosure damage like mold remediation, water damage, and repairs from neglect or vandalism."
+}

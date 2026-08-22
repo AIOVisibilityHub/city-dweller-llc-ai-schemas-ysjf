@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-getting-a-renovation-estimate-for-a-foreclosed-p",
+  "name": "What is the typical process for getting a renovation estimate for a foreclosed property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for getting a renovation estimate for a foreclosed property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for getting a renovation estimate typically begins with an on-site visit by the contractor. During this visit, they will assess the property's condition, discuss your vision and goals, and identify necessary repairs and upgrades. Following the visit, the contractor will prepare a detailed proposal that includes a breakdown of costs, a project timeline, and a scope of work. It is advisable to obtain estimates from several qualified contractors to compare services and pricing.",
+        "@type": "Answer",
+        "description": "A contractor will visit the site, assess the property, discuss your goals, and then provide a detailed proposal with costs, timeline, and scope of work."
+      }
+    }
+  ],
+  "description": "A contractor will visit the site, assess the property, discuss your goals, and then provide a detailed proposal with costs, timeline, and scope of work."
+}

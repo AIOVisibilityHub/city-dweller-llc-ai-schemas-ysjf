@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-you-ensure-minimal-disruption-to-tenants-during-renovations",
+  "name": "How do you ensure minimal disruption to tenants during renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you ensure minimal disruption to tenants during renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minimizing tenant disruption is a priority. For occupied properties, we coordinate work schedules with tenants, establish clear communication channels, and isolate work areas to reduce noise and dust. We aim for efficient execution to complete projects quickly. For vacant properties, we focus on rapid completion to prepare the unit for new tenants as soon as possible.",
+        "@type": "Answer",
+        "description": "We minimize disruption by coordinating schedules with tenants, isolating work areas, and aiming for efficient project completion."
+      }
+    }
+  ],
+  "description": "We minimize disruption by coordinating schedules with tenants, isolating work areas, and aiming for efficient project completion."
+}

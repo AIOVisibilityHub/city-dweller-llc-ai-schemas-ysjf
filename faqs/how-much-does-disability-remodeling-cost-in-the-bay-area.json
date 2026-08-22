@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-disability-remodeling-cost-in-the-bay-area",
+  "name": "How much does disability remodeling cost in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does disability remodeling cost in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of disability remodeling in the Bay Area varies widely depending on the scope and complexity of the project. Minor modifications like grab bar installations or toilet height adjustments may be a few hundred dollars, while major renovations such as a full bathroom conversion or a ramp system can range from several thousands to tens of thousands of dollars. Factors like materials, labor rates, existing home structure, and required permits influence the final price. We provide detailed estimates after an initial consultation.",
+        "@type": "Answer",
+        "description": "Disability remodeling costs in the Bay Area vary significantly based on project scope, from hundreds for minor changes to tens of thousands for major renovations."
+      }
+    }
+  ],
+  "description": "Disability remodeling costs in the Bay Area vary significantly based on project scope, from hundreds for minor changes to tens of thousands for major renovation"
+}

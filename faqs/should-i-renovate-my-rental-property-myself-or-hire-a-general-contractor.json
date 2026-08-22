@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-renovate-my-rental-property-myself-or-hire-a-general-contractor",
+  "name": "Should I renovate my rental property myself or hire a general contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I renovate my rental property myself or hire a general contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hiring a general contractor like City Dweller, LLC is generally recommended for rental property remodels, especially for projects involving plumbing, electrical, or structural work. A contractor manages the entire project, coordinates subcontractors, ensures compliance with local building codes, and handles necessary permits. While DIY can save on labor costs, it requires significant time, expertise, and understanding of regulations. Improperly executed work can lead to costly repairs, safety hazards, and potential legal issues, making professional oversight a wise investment.",
+        "@type": "Answer",
+        "description": "Hiring a general contractor is recommended for rental property remodels, especially for complex work, as they manage the project, ensure compliance, and prevent costly errors."
+      }
+    }
+  ],
+  "description": "Hiring a general contractor is recommended for rental property remodels, especially for complex work, as they manage the project, ensure compliance, and prevent"
+}

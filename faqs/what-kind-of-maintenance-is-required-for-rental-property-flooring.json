@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-maintenance-is-required-for-rental-property-flooring",
+  "name": "What kind of maintenance is required for rental property flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance is required for rental property flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance requirements vary by flooring type. For LVP and laminate, regular sweeping or vacuuming and damp mopping with a manufacturer-approved cleaner are usually sufficient. Avoid excessive water. Carpets require frequent vacuuming and periodic professional cleaning to remove embedded dirt and allergens. Regardless of type, promptly cleaning up spills and using furniture pads can prevent damage and extend the life of the flooring, reducing the frequency of costly replacements.",
+        "@type": "Answer",
+        "description": "Maintenance involves regular cleaning (sweeping, vacuuming, mopping) and prompt spill cleanup. LVP/laminate needs damp mopping, carpets need frequent vacuuming and professional cleaning."
+      }
+    }
+  ],
+  "description": "Maintenance involves regular cleaning (sweeping, vacuuming, mopping) and prompt spill cleanup. LVP/laminate needs damp mopping, carpets need frequent vacuuming"
+}

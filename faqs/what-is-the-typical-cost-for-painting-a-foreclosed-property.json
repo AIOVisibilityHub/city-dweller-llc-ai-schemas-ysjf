@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-for-painting-a-foreclosed-property",
+  "name": "What is the typical cost for painting a foreclosed property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for painting a foreclosed property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of painting a foreclosed property depends on several factors: the home's square footage, the number of rooms, the condition of the surfaces requiring preparation (e.g., drywall repairs, extensive cleaning, sanding), and the quality of paint chosen. We provide detailed, no-obligation estimates after an on-site evaluation to ensure accuracy, considering the specific needs of each project.",
+        "@type": "Answer",
+        "description": "Painting costs depend on the home's size, condition, required prep work, and paint quality. We offer detailed estimates after an on-site evaluation."
+      }
+    }
+  ],
+  "description": "Painting costs depend on the home's size, condition, required prep work, and paint quality. We offer detailed estimates after an on-site evaluation."
+}

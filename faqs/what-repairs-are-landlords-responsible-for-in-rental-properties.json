@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-repairs-are-landlords-responsible-for-in-rental-properties",
+  "name": "What repairs are landlords responsible for in rental properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What repairs are landlords responsible for in rental properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Landlords are generally responsible for maintaining a habitable living environment. This includes structural elements like roofs, walls, and foundations, as well as essential utilities such as plumbing, heating, and electrical systems. They must also address issues that affect health and safety, like pest infestations or mold, if not caused by tenant negligence. Regular maintenance of common areas and ensuring appliances provided by the landlord are in working order also falls under their purview.",
+        "@type": "Answer",
+        "description": "Landlords are responsible for structural elements, essential utilities, and issues affecting health and safety not caused by tenant negligence."
+      }
+    }
+  ],
+  "description": "Landlords are responsible for structural elements, essential utilities, and issues affecting health and safety not caused by tenant negligence."
+}

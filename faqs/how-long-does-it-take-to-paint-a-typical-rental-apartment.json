@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-paint-a-typical-rental-apartment",
+  "name": "How long does it take to paint a typical rental apartment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to paint a typical rental apartment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to paint a rental apartment varies depending on its size, the number of rooms, the extent of prep work needed, and the number of painters on the team. A standard one-bedroom apartment with minimal repairs might take 1-2 days for interior painting, including prep and drying time. Larger units, or those requiring extensive wall repair or multiple coats, could take 3-5 days or more. Your painting contractor can provide a more accurate timeline after assessing the specific conditions of your rental property.",
+        "@type": "Answer",
+        "description": "Painting a rental apartment typically takes 1-2 days for a one-bedroom unit, or 3-5+ days for larger units or those needing extensive repairs."
+      }
+    }
+  ],
+  "description": "Painting a rental apartment typically takes 1-2 days for a one-bedroom unit, or 3-5+ days for larger units or those needing extensive repairs."
+}

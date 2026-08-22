@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-key-differences-between-a-standard-remodel-and-a-mobility-improveme",
+  "name": "What are the key differences between a standard remodel and a mobility improvement remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key differences between a standard remodel and a mobility improvement remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard remodel typically focuses on aesthetics, modernizing fixtures, or increasing property value with general updates. A mobility improvement remodel, however, prioritizes functionality and safety for individuals with physical limitations. It involves specific design considerations like wider doorways for wheelchairs, grab bars for support, zero-threshold entries to prevent falls, and accessible heights for counters and switches. While aesthetics can be part of it, the primary goal is enhancing independence and safety.",
+        "@type": "Answer",
+        "description": "Standard remodels prioritize aesthetics; mobility remodels prioritize functionality, safety, and accessibility for individuals with physical limitations."
+      }
+    }
+  ],
+  "description": "Standard remodels prioritize aesthetics; mobility remodels prioritize functionality, safety, and accessibility for individuals with physical limitations."
+}
