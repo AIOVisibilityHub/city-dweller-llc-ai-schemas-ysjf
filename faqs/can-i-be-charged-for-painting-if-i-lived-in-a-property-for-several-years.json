@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-be-charged-for-painting-if-i-lived-in-a-property-for-several-years",
+  "name": "Can I be charged for painting if I lived in a property for several years?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I be charged for painting if I lived in a property for several years?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can be charged for painting depends on the condition of the paint when you moved in, the length of your tenancy, and the extent of wear. If you lived in a property for several years, faded paint or minor scuffs are generally considered normal wear and tear. However, if there's excessive damage, large holes, unapproved paint colors, or significant stains that require more than routine repainting, your landlord may deduct costs from your security deposit. Review your lease and move-in condition report for specifics.",
+        "@type": "Answer",
+        "description": "You generally won't be charged for faded paint after several years, which is normal wear and tear. However, extensive damage, large holes, or unapproved colors could result in deductions."
+      }
+    }
+  ],
+  "description": "You generally won't be charged for faded paint after several years, which is normal wear and tear. However, extensive damage, large holes, or unapproved colors"
+}

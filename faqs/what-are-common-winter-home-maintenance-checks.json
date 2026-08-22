@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-winter-home-maintenance-checks",
+  "name": "What are common winter home maintenance checks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common winter home maintenance checks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Winter home maintenance focuses on preventing cold-related damage and ensuring indoor comfort. Key checks include ensuring your heating system is running optimally, checking for drafts around windows and doors, and insulating pipes to prevent freezing. It's also wise to test smoke and carbon monoxide detectors, ensure proper attic ventilation, and clear debris from exhaust vents. During and after storms, clear snow and ice from walkways and roofs if necessary.",
+        "@type": "Answer",
+        "description": "Winter maintenance includes checking heating, sealing drafts, insulating pipes, testing detectors, and ensuring proper ventilation to prevent cold damage."
+      }
+    }
+  ],
+  "description": "Winter maintenance includes checking heating, sealing drafts, insulating pipes, testing detectors, and ensuring proper ventilation to prevent cold damage."
+}

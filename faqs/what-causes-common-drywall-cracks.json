@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-causes-common-drywall-cracks",
+  "name": "What causes common drywall cracks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes common drywall cracks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common drywall cracks often stem from house settling, which is a natural process as a building ages and foundation shifts slightly. Other causes include changes in temperature and humidity, which can cause wood framing to expand and contract, putting stress on drywall seams. Poor drywall installation, such as insufficient fasteners or improper joint taping, can also lead to cracking. Occasionally, more serious issues like structural movement or water damage can be underlying causes. Identifying the cause helps determine the most effective repair strategy.",
+        "@type": "Answer",
+        "description": "Common drywall cracks are caused by house settling, temperature/humidity changes, poor installation, or occasionally structural movement and water damage."
+      }
+    }
+  ],
+  "description": "Common drywall cracks are caused by house settling, temperature/humidity changes, poor installation, or occasionally structural movement and water damage."
+}

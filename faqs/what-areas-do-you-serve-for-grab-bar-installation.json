@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-areas-do-you-serve-for-grab-bar-installation",
+  "name": "What areas do you serve for grab bar installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for grab bar installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC provides professional grab bar installation services throughout the Bay Area. Specifically, our primary service areas include Pacifica, Daly City, San Bruno, and South San Francisco. We are a local general contractor committed to serving our community with reliable and high-quality home safety solutions. Please contact us to confirm service availability for your specific address within these regions.",
+        "@type": "Answer",
+        "description": "City Dweller, LLC serves the Bay Area, specifically Pacifica, Daly City, San Bruno, and South San Francisco for grab bar installation."
+      }
+    }
+  ],
+  "description": "City Dweller, LLC serves the Bay Area, specifically Pacifica, Daly City, San Bruno, and South San Francisco for grab bar installation."
+}

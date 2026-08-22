@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-floating-shelves-and-traditional-wall-mounted-she",
+  "name": "What is the difference between floating shelves and traditional wall-mounted shelves?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between floating shelves and traditional wall-mounted shelves?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary difference lies in their visible support structure. Traditional wall-mounted shelves typically use visible brackets, corbels, or pilasters to support the shelf board. While functional and often decorative, these supports are part of the aesthetic. Floating shelves, on the other hand, are designed to appear as if they are emerging directly from the wall with no visible support. This effect is achieved by using concealed mounting hardware, such as rods or hidden brackets, installed directly into wall studs, providing a clean, minimalist look.",
+        "@type": "Answer",
+        "description": "Floating shelves have no visible supports, using concealed hardware for a minimalist look. Traditional wall-mounted shelves use visible brackets, corbels, or pilasters for support and aesthetic."
+      }
+    }
+  ],
+  "description": "Floating shelves have no visible supports, using concealed hardware for a minimalist look. Traditional wall-mounted shelves use visible brackets, corbels, or pi"
+}

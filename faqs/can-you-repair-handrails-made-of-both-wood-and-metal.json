@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-you-repair-handrails-made-of-both-wood-and-metal",
+  "name": "Can you repair handrails made of both wood and metal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you repair handrails made of both wood and metal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, our team is equipped to repair handrails constructed from a variety of materials, including wood and various metals like iron, steel, and aluminum. For wood handrails, we address issues such as rot, cracks, loose joints, and finish damage. For metal handrails, we handle rust remediation, bent components, faulty welds, and loose anchor points. We match our repair techniques to the specific material and damage type.",
+        "@type": "Answer",
+        "description": "Yes, we repair handrails made from both wood and various metals like iron, steel, and aluminum, addressing material-specific damage."
+      }
+    }
+  ],
+  "description": "Yes, we repair handrails made from both wood and various metals like iron, steel, and aluminum, addressing material-specific damage."
+}

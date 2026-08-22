@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-a-reliable-contractor-for-handrail-repair",
+  "name": "How do I choose a reliable contractor for handrail repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reliable contractor for handrail repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a handrail repair contractor, look for experience with various materials and types of damage. Check for proper licensing and insurance to ensure they are qualified and protected. Read customer reviews and ask for references to gauge their reliability and quality of work. A reputable contractor will also provide a clear, detailed estimate and stand behind their repairs with a warranty.",
+        "@type": "Answer",
+        "description": "Choose a contractor with experience, proper licensing, insurance, positive reviews, and who offers a detailed estimate and warranty."
+      }
+    }
+  ],
+  "description": "Choose a contractor with experience, proper licensing, insurance, positive reviews, and who offers a detailed estimate and warranty."
+}

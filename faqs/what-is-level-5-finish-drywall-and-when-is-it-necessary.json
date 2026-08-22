@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-level-5-finish-drywall-and-when-is-it-necessary",
+  "name": "What is 'Level 5 finish' drywall and when is it necessary?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is 'Level 5 finish' drywall and when is it necessary?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Level 5 finish is the highest standard of drywall finishing, where the entire surface of the drywall is skim-coated with a thin layer of joint compound. This eliminates all minor imperfections and creates an exceptionally smooth, uniform surface. It is necessary in areas with critical lighting conditions (e.g., large windows or direct artificial light) where shadows would highlight even minor wall imperfections. It's also chosen for premium interior spaces where the highest aesthetic quality is desired.",
+        "@type": "Answer",
+        "description": "Level 5 finish is the highest drywall standard, involving a full skim-coat for an exceptionally smooth surface, necessary for critical lighting or premium aesthetics."
+      }
+    }
+  ],
+  "description": "Level 5 finish is the highest drywall standard, involving a full skim-coat for an exceptionally smooth surface, necessary for critical lighting or premium aesth"
+}

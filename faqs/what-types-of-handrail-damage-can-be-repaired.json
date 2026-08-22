@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-handrail-damage-can-be-repaired",
+  "name": "What types of handrail damage can be repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of handrail damage can be repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common handrail damage includes loose connections, wobbling posts, corroded metal, rotting wood, and surface scratches or dents. Minor issues like tightening fasteners or sanding out small imperfections are often straightforward. More significant problems, such as structural compromises, extensive rust, or severe wood rot, typically require professional assessment and repair to ensure safety and stability. We address both aesthetic and structural repairs for various materials.",
+        "@type": "Answer",
+        "description": "We repair loose, wobbly, corroded, rotting, or damaged handrails made from various materials."
+      }
+    }
+  ],
+  "description": "We repair loose, wobbly, corroded, rotting, or damaged handrails made from various materials."
+}

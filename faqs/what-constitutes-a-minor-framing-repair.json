@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-constitutes-a-minor-framing-repair",
+  "name": "What constitutes a 'minor' framing repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What constitutes a 'minor' framing repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor framing repairs typically involve addressing localized damage or structural issues that do not compromise the overall integrity of the building. This can include replacing a few damaged studs, repairing sections of top or bottom plates, reinforcing joists or rafters, or fixing non-load-bearing wall framing. These repairs are often needed due to water damage, pest infestation, or small impacts. Our team assesses the extent of the damage to determine if it falls within the scope of a minor repair, ensuring the work focuses on restoring the structural soundness of the affected area without requiring extensive demolition or reconstruction.",
+        "@type": "Answer",
+        "description": "Minor framing repairs fix localized damage like replacing studs or repairing plates without affecting the building's overall structural integrity."
+      }
+    }
+  ],
+  "description": "Minor framing repairs fix localized damage like replacing studs or repairing plates without affecting the building's overall structural integrity."
+}

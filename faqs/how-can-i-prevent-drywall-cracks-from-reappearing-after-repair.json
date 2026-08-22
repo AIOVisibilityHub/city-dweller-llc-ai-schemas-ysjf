@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-can-i-prevent-drywall-cracks-from-reappearing-after-repair",
+  "name": "How can I prevent drywall cracks from reappearing after repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent drywall cracks from reappearing after repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing reappearing cracks often involves addressing the root cause. If it's due to minor settling, a flexible patching compound can help. For cracks caused by significant structural movement, addressing the foundation or framing issues is critical before repair. Maintaining consistent indoor humidity and temperature can also reduce stress on drywall. Proper material selection and application during repair are also key.",
+        "@type": "Answer",
+        "description": "Address the root cause, such as structural issues or settling, before repair. Use flexible compounds and maintain consistent indoor humidity."
+      }
+    }
+  ],
+  "description": "Address the root cause, such as structural issues or settling, before repair. Use flexible compounds and maintain consistent indoor humidity."
+}

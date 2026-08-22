@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-drywall-damage-can-be-repaired",
+  "name": "What types of drywall damage can be repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of drywall damage can be repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common drywall damage suitable for repair includes holes from impacts, cracks from settling or stress, water stains, screw pops, and peeling tape joints. Small dents and scuffs can often be patched and blended seamlessly. More extensive damage, such as large sections of crumbling drywall due to severe water damage or structural issues, might require replacement rather than repair. Our team assesses the damage to determine the most effective and durable solution for your walls.",
+        "@type": "Answer",
+        "description": "Drywall repair addresses holes, cracks, water stains, screw pops, and peeling tape. Severe damage might require replacement."
+      }
+    }
+  ],
+  "description": "Drywall repair addresses holes, cracks, water stains, screw pops, and peeling tape. Severe damage might require replacement."
+}

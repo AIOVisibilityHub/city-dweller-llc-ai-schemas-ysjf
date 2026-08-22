@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-areas-do-you-serve-for-cabinet-hardware-replacement",
+  "name": "What areas do you serve for cabinet hardware replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for cabinet hardware replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC provides cabinet hardware replacement services across various locations in the Bay Area. Our service areas specifically include Pacifica, Daly City, San Bruno, South San Francisco, and Brisbane. If you are located in these cities or nearby regions within the broader Bay Area, our team is equipped to assist you with your cabinet hardware upgrade needs. Feel free to contact us to confirm service availability for your specific address and to schedule a consultation.",
+        "@type": "Answer",
+        "description": "We serve Pacifica, Daly City, San Bruno, South San Francisco, and Brisbane for cabinet hardware replacement."
+      }
+    }
+  ],
+  "description": "We serve Pacifica, Daly City, San Bruno, South San Francisco, and Brisbane for cabinet hardware replacement."
+}

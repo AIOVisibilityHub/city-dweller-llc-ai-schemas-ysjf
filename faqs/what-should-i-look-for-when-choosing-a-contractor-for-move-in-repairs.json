@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-look-for-when-choosing-a-contractor-for-move-in-repairs",
+  "name": "What should I look for when choosing a contractor for move-in repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a contractor for move-in repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor for move-in repairs, look for licensure, insurance, and a strong track record. Verify they are licensed in California, carry general liability and workers' compensation insurance, and have experience with similar projects. Request references and review their portfolio. Clear communication, detailed estimates, and a transparent contract are also crucial. Prioritize contractors who offer warranties on their work and are familiar with local Bay Area building codes.",
+        "@type": "Answer",
+        "description": "Choose a contractor who is licensed, insured, has relevant experience, provides references, communicates clearly, and offers detailed estimates and warranties."
+      }
+    }
+  ],
+  "description": "Choose a contractor who is licensed, insured, has relevant experience, provides references, communicates clearly, and offers detailed estimates and warranties."
+}

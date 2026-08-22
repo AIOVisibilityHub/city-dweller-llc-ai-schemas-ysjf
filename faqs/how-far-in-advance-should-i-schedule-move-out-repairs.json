@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-far-in-advance-should-i-schedule-move-out-repairs",
+  "name": "How far in advance should I schedule move-out repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How far in advance should I schedule move-out repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is recommended to schedule move-out repairs as soon as you know your move-out date, ideally at least 2-4 weeks in advance. This provides ample time to get quotes, select a contractor, and ensure the work is completed before your final walkthrough or lease termination. During peak moving seasons, contractor availability can be limited, so early scheduling helps avoid rushed jobs and potential delays that could impact your security deposit return. Planning ahead ensures a smooth transition.",
+        "@type": "Answer",
+        "description": "Schedule move-out repairs 2-4 weeks in advance of your move-out date. This allows time for quotes and completion, especially during busy seasons, ensuring a smooth process."
+      }
+    }
+  ],
+  "description": "Schedule move-out repairs 2-4 weeks in advance of your move-out date. This allows time for quotes and completion, especially during busy seasons, ensuring a smo"
+}

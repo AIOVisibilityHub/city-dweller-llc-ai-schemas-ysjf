@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-a-handrail-repair-service",
+  "name": "What is the typical process for a handrail repair service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a handrail repair service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The handrail repair process begins with an initial inspection to assess the damage and determine the best course of action. Following this, we provide a detailed estimate. Once approved, we prepare the work area, procure necessary materials, and perform the repairs, which may include tightening, welding, replacing sections, or restoring finishes. We conclude with a final inspection to ensure the handrail meets safety standards and client satisfaction.",
+        "@type": "Answer",
+        "description": "Our repair process involves inspection, estimate, material procurement, repair execution, and a final safety inspection."
+      }
+    }
+  ],
+  "description": "Our repair process involves inspection, estimate, material procurement, repair execution, and a final safety inspection."
+}

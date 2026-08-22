@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-repair-or-replace-major-appliances-before-selling-my-home",
+  "name": "Should I repair or replace major appliances before selling my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace major appliances before selling my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to repair or replace major appliances depends on their age, condition, and the cost of repair versus replacement. If an appliance is older, frequently malfunctions, and repairs are costly, replacement might be a better investment, especially for kitchen appliances. However, if an appliance is relatively new with a minor, inexpensive fix, repair is usually sufficient. Consider what appeals most to potential buyers in your target market. We can help assess the best approach for your specific situation.",
+        "@type": "Answer",
+        "description": "Assess appliance age, condition, and repair cost. Replace older, frequently malfunctioning appliances, but repair newer ones with minor fixes to appeal to buyers."
+      }
+    }
+  ],
+  "description": "Assess appliance age, condition, and repair cost. Replace older, frequently malfunctioning appliances, but repair newer ones with minor fixes to appeal to buyer"
+}

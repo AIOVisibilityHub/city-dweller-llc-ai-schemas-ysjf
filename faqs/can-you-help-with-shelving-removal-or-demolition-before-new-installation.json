@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-you-help-with-shelving-removal-or-demolition-before-new-installation",
+  "name": "Can you help with shelving removal or demolition before new installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you help with shelving removal or demolition before new installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, as a general contractor, we can certainly assist with the removal or demolition of existing shelving units or other fixtures prior to installing new ones. This service is often part of a larger shelving project, especially when upgrading old or damaged units, or reconfiguring a space entirely. We ensure proper demolition and disposal, preparing the area for a clean and efficient new installation. Please mention any existing structures during your initial consultation so we can include it in the project scope.",
+        "@type": "Answer",
+        "description": "Yes, we can remove or demolish existing shelving units or fixtures before installing new ones. We handle proper demolition and disposal to prepare the area for a new installation."
+      }
+    }
+  ],
+  "description": "Yes, we can remove or demolish existing shelving units or fixtures before installing new ones. We handle proper demolition and disposal to prepare the area for"
+}

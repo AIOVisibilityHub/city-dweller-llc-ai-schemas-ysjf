@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-to-replace-cabinet-hardware",
+  "name": "What is the typical cost to replace cabinet hardware?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to replace cabinet hardware?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to replace cabinet hardware varies significantly based on the type, quality, and quantity of hardware chosen, as well as labor costs if professionally installed. Hardware pieces themselves can range from a few dollars for basic knobs to over twenty dollars for premium designer pulls or specialty hinges. For professional installation, factors like the number of cabinets and the complexity of the hardware (e.g., precise adjustments for soft-close hinges) will influence the final price. We can provide a detailed estimate after assessing your specific project requirements.",
+        "@type": "Answer",
+        "description": "Costs vary based on hardware type, quality, quantity, and professional labor. Basic pieces are inexpensive, while premium options cost more. Estimates are project-specific."
+      }
+    }
+  ],
+  "description": "Costs vary based on hardware type, quality, quantity, and professional labor. Basic pieces are inexpensive, while premium options cost more. Estimates are proje"
+}

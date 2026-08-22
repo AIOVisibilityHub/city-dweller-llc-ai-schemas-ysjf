@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-common-signs-that-my-floor-transition-needs-repair",
+  "name": "What are the common signs that my floor transition needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that my floor transition needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Look for visible signs like loose strips, gaps between the transition and the flooring, splintering wood, bent metal, or cracking in plastic transitions. You might also notice a tripping hazard if the transition is uneven or protruding. Squeaking or creaking sounds when you step on or near the transition can also indicate underlying issues such as loose fasteners or subfloor movement. Promptly addressing these signs can prevent further damage to your flooring and ensure safety.",
+        "@type": "Answer",
+        "description": "Common signs include looseness, gaps, splintering, bending, cracking, tripping hazards, or unusual noises when stepped on."
+      }
+    }
+  ],
+  "description": "Common signs include looseness, gaps, splintering, bending, cracking, tripping hazards, or unusual noises when stepped on."
+}

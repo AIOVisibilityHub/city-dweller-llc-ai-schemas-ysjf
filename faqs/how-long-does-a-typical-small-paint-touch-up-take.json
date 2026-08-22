@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-small-paint-touch-up-take",
+  "name": "How long does a typical small paint touch-up take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical small paint touch-up take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a small paint touch-up largely depends on the scope of work and the drying time of the paint. Most minor touch-ups can be completed within a few hours, from preparation to final application. However, if multiple coats are required or if the paint needs specific drying conditions, the project might extend over a day. We aim to complete projects efficiently while ensuring a quality finish that blends seamlessly.",
+        "@type": "Answer",
+        "description": "Most small paint touch-ups take a few hours, though some may extend over a day if multiple coats or specific drying times are needed."
+      }
+    }
+  ],
+  "description": "Most small paint touch-ups take a few hours, though some may extend over a day if multiple coats or specific drying times are needed."
+}

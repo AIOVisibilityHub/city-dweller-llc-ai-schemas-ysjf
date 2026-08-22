@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-prime-after-repairing-a-drywall-crack",
+  "name": "Do I need to prime after repairing a drywall crack?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to prime after repairing a drywall crack?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, priming after repairing a drywall crack is highly recommended. Primer seals the repaired area, preventing the new paint from absorbing unevenly into the patch material, which can cause a dull spot or 'flashing.' It also provides a uniform surface for the topcoat, ensuring a smooth, consistent finish that blends seamlessly with the surrounding wall.",
+        "@type": "Answer",
+        "description": "Yes, prime after repair to seal the patch, prevent uneven paint absorption, and ensure a smooth, consistent final paint finish."
+      }
+    }
+  ],
+  "description": "Yes, prime after repair to seal the patch, prevent uneven paint absorption, and ensure a smooth, consistent final paint finish."
+}

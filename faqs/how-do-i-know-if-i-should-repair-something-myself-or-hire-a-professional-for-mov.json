@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-i-should-repair-something-myself-or-hire-a-professional-for-mov",
+  "name": "How do I know if I should repair something myself or hire a professional for move-out repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I should repair something myself or hire a professional for move-out repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to DIY or hire a professional depends on the repair's complexity, your skill level, and the time you have available. Small tasks like patching nail holes or minor paint touch-ups are often manageable for tenants. However, for issues like significant drywall damage, plumbing leaks, electrical problems, or extensive cleaning, hiring a professional can save time, ensure quality, and prevent potential deductions from your security deposit due to improper repairs. Always check your lease agreement for specific repair responsibilities.",
+        "@type": "Answer",
+        "description": "Assess the complexity and your skill level. DIY minor repairs, but consider professionals for complex issues like major drywall, plumbing, or electrical work to ensure quality and avoid deposit deductions."
+      }
+    }
+  ],
+  "description": "Assess the complexity and your skill level. DIY minor repairs, but consider professionals for complex issues like major drywall, plumbing, or electrical work to"
+}

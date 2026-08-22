@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-be-present-during-the-rental-property-repair-process",
+  "name": "Do I need to be present during the rental property repair process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be present during the rental property repair process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You do not typically need to be present during the entire repair process. Once the scope of work is defined and agreed upon, our team can manage the project independently. We communicate regularly with property owners, providing updates and addressing any questions that may arise. For properties in areas like San Bruno or South San Francisco, we handle logistics and supervision, allowing you to focus on other responsibilities while ensuring the work progresses smoothly and efficiently.",
+        "@type": "Answer",
+        "description": "No, you don't need to be present throughout. We manage the project independently, provide regular updates, and handle logistics."
+      }
+    }
+  ],
+  "description": "No, you don't need to be present throughout. We manage the project independently, provide regular updates, and handle logistics."
+}

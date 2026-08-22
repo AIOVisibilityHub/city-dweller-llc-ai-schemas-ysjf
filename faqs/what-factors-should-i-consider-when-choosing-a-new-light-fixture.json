@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-factors-should-i-consider-when-choosing-a-new-light-fixture",
+  "name": "What factors should I consider when choosing a new light fixture?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a new light fixture?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a new light fixture, consider the room's function, desired ambiance, and existing decor. Evaluate the required lumen output and color temperature for the space. Also, check the fixture's compatibility with your home's electrical system and ensure it meets local safety standards. Energy efficiency, such as LED compatibility, is also an important factor for long-term savings.",
+        "@type": "Answer",
+        "description": "Consider room function, ambiance, decor, light output, color temperature, electrical compatibility, and energy efficiency when choosing a fixture."
+      }
+    }
+  ],
+  "description": "Consider room function, ambiance, decor, light output, color temperature, electrical compatibility, and energy efficiency when choosing a fixture."
+}

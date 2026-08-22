@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-preparation-is-needed-before-a-small-paint-touch-up",
+  "name": "What preparation is needed before a small paint touch-up?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before a small paint touch-up?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a small paint touch-up, the surface needs to be clean, dry, and free of dust or debris. Any loose paint should be carefully scraped or sanded smooth. For minor dents or holes, light spackling may be required. While we handle most preparation as part of our service, clearing the area around the damage and identifying the original paint (if available) can help streamline the process. Proper preparation ensures the new paint adheres well and the touch-up blends effectively.",
+        "@type": "Answer",
+        "description": "Surfaces must be clean, dry, and free of debris; loose paint should be removed, and minor imperfections filled for optimal touch-up results."
+      }
+    }
+  ],
+  "description": "Surfaces must be clean, dry, and free of debris; loose paint should be removed, and minor imperfections filled for optimal touch-up results."
+}

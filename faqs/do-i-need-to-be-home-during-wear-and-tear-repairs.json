@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-be-home-during-wear-and-tear-repairs",
+  "name": "Do I need to be home during wear and tear repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home during wear and tear repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's not always required for you to be present for the entire duration of the repairs, we do recommend being available for the initial consultation and a final walkthrough to ensure your satisfaction. For the actual repair work, as long as our team has secure access to the areas needing attention, you are welcome to go about your day. We respect your privacy and schedule, and our team is fully vetted and trustworthy to work unsupervised once instructions are clear.",
+        "@type": "Answer",
+        "description": "You don't need to be home for the entire repair, but we recommend being available for the initial consultation and final walkthrough."
+      }
+    }
+  ],
+  "description": "You don't need to be home for the entire repair, but we recommend being available for the initial consultation and final walkthrough."
+}

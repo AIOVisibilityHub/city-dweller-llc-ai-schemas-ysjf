@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/will-repairing-a-drywall-crack-prevent-it-from-reappearing",
+  "name": "Will repairing a drywall crack prevent it from reappearing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will repairing a drywall crack prevent it from reappearing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a drywall crack will provide a smooth, finished surface, but whether it prevents recurrence depends on addressing the underlying cause. If the crack was due to minor house settling, a proper repair using flexible materials can often prevent it from reappearing for a long time. However, if the cause is ongoing structural movement, persistent moisture issues, or seismic activity, the crack may reappear over time without addressing the root problem.",
+        "@type": "Answer",
+        "description": "Repairing a drywall crack can prevent recurrence if the underlying cause is addressed. If not, especially with ongoing structural issues, it may reappear."
+      }
+    }
+  ],
+  "description": "Repairing a drywall crack can prevent recurrence if the underlying cause is addressed. If not, especially with ongoing structural issues, it may reappear."
+}

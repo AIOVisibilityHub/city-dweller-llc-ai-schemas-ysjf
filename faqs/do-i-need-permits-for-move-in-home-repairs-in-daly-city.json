@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-permits-for-move-in-home-repairs-in-daly-city",
+  "name": "Do I need permits for move-in home repairs in Daly City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for move-in home repairs in Daly City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need permits for move-in home repairs in Daly City depends on the nature of the work. Cosmetic changes like painting or minor flooring replacement typically do not require permits. However, structural modifications, significant electrical work (like panel upgrades), major plumbing changes, or additions usually do. It is crucial to check with the Daly City Building Division before starting any work to understand local requirements and avoid potential fines or issues during future property sales.",
+        "@type": "Answer",
+        "description": "Permits are usually required in Daly City for structural, significant electrical, or major plumbing work, but not for cosmetic changes."
+      }
+    }
+  ],
+  "description": "Permits are usually required in Daly City for structural, significant electrical, or major plumbing work, but not for cosmetic changes."
+}

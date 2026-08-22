@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-considered-normal-wear-and-tear-versus-damage-when-moving-out",
+  "name": "What is considered 'normal wear and tear' versus damage when moving out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered 'normal wear and tear' versus damage when moving out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Normal wear and tear refers to the expected deterioration that occurs with everyday use over time, such as faded paint, minor carpet indentations from furniture, or slightly worn-down finishes. Damage, conversely, is deterioration resulting from abuse, neglect, or accidents, like large holes in walls, pet stains on carpets, broken windows, or significant appliance malfunctions caused by misuse. Landlords are generally responsible for normal wear and tear, while tenants are responsible for repairing damages beyond this, to avoid security deposit deductions.",
+        "@type": "Answer",
+        "description": "Normal wear and tear is expected deterioration from everyday use, while damage results from abuse or accidents. Tenants are typically responsible for repairing damages beyond normal wear and tear."
+      }
+    }
+  ],
+  "description": "Normal wear and tear is expected deterioration from everyday use, while damage results from abuse or accidents. Tenants are typically responsible for repairing"
+}

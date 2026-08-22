@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-drywall-repair",
+  "name": "What is the process for drywall repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for drywall repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The drywall repair process typically begins with cleaning and preparing the damaged area, often involving trimming rough edges. Next, a patch is applied, or joint compound is layered onto the imperfection. Each layer of compound requires drying time, followed by sanding to create a smooth surface. Finally, the repaired area is primed and painted to match the surrounding wall, ensuring an invisible repair. This methodical approach guarantees a professional finish.",
+        "@type": "Answer",
+        "description": "The process involves preparing the damaged area, applying and layering joint compound with drying times, sanding, and then priming and painting."
+      }
+    }
+  ],
+  "description": "The process involves preparing the damaged area, applying and layering joint compound with drying times, sanding, and then priming and painting."
+}

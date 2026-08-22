@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-often-should-a-senior-s-home-be-inspected-for-potential-hazards-or-maintenan",
+  "name": "How often should a senior's home be inspected for potential hazards or maintenance needs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should a senior's home be inspected for potential hazards or maintenance needs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular home inspections are crucial for senior safety. A general home inspection by a qualified professional is recommended every one to two years to identify potential hazards like faulty wiring, plumbing issues, or structural concerns. Additionally, routine maintenance checks should be performed quarterly or semi-annually. This includes checking smoke detectors, clearing gutters, inspecting railings, and ensuring pathways are clear. Addressing small issues proactively prevents larger, more costly problems and maintains a safe living environment.",
+        "@type": "Answer",
+        "description": "A professional home inspection every 1-2 years and routine maintenance checks quarterly or semi-annually are recommended for senior homes."
+      }
+    }
+  ],
+  "description": "A professional home inspection every 1-2 years and routine maintenance checks quarterly or semi-annually are recommended for senior homes."
+}

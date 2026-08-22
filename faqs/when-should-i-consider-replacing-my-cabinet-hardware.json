@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-my-cabinet-hardware",
+  "name": "When should I consider replacing my cabinet hardware?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my cabinet hardware?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider replacing your cabinet hardware when it shows signs of wear, damage, or malfunction, such as loose knobs, rusted hinges, or sticky drawer slides. Hardware replacement is also an excellent option if you want to update the aesthetic of your kitchen or bathroom without undergoing a complete remodel. New hardware can significantly change the look and feel of your cabinets, matching a new design scheme or simply refreshing an outdated appearance. It's a relatively inexpensive upgrade with a big visual impact.",
+        "@type": "Answer",
+        "description": "Replace hardware when it's worn, damaged, malfunctioning, or if you want to update your cabinet's appearance without a full remodel."
+      }
+    }
+  ],
+  "description": "Replace hardware when it's worn, damaged, malfunctioning, or if you want to update your cabinet's appearance without a full remodel."
+}

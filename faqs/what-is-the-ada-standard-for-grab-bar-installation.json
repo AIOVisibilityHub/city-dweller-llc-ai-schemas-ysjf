@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-ada-standard-for-grab-bar-installation",
+  "name": "What is the ADA standard for grab bar installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the ADA standard for grab bar installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The Americans with Disabilities Act (ADA) provides specific guidelines for grab bar installation in public accommodations and commercial facilities, which can also serve as a useful reference for residential installations. ADA standards specify mounting heights, lengths, diameter, and distance from walls. For example, grab bars must be able to withstand a force of 250 pounds. Adhering to these guidelines ensures the highest level of accessibility and safety for users. We are familiar with these standards.",
+        "@type": "Answer",
+        "description": "ADA standards for grab bars specify requirements for mounting height, length, diameter, and strength (250 lbs force) to ensure accessibility and safety."
+      }
+    }
+  ],
+  "description": "ADA standards for grab bars specify requirements for mounting height, length, diameter, and strength (250 lbs force) to ensure accessibility and safety."
+}

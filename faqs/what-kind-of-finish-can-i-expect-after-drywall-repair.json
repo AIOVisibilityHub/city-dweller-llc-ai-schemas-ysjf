@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-kind-of-finish-can-i-expect-after-drywall-repair",
+  "name": "What kind of finish can I expect after drywall repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of finish can I expect after drywall repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a professional drywall repair, you can expect a seamless and smooth finish that blends perfectly with the surrounding wall or ceiling. Our goal is to make the repaired area undetectable. This involves meticulous sanding and feathering of joint compounds to match existing textures, whether smooth or textured. The surface will be ready for priming and painting, ensuring a uniform appearance across the entire wall. We strive for high-quality results that restore your surfaces to their original condition.",
+        "@type": "Answer",
+        "description": "Expect a seamless, smooth finish that matches existing textures, ready for priming and painting, making the repaired area undetectable."
+      }
+    }
+  ],
+  "description": "Expect a seamless, smooth finish that matches existing textures, ready for priming and painting, making the repaired area undetectable."
+}

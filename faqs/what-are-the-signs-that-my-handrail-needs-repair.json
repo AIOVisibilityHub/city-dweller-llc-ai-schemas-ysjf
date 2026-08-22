@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-signs-that-my-handrail-needs-repair",
+  "name": "What are the signs that my handrail needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my handrail needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key signs your handrail needs repair include noticeable wobbling or looseness when gripped, visible rust or corrosion on metal components, soft or rotting spots in wood, cracked or splintered surfaces, or missing balusters. Any difficulty in safely gripping the handrail or visible structural damage indicates an immediate need for inspection and potential repair to prevent accidents.",
+        "@type": "Answer",
+        "description": "Look for wobbling, looseness, rust, rot, cracks, splinters, or missing parts. Any structural issue means it's time for repair."
+      }
+    }
+  ],
+  "description": "Look for wobbling, looseness, rust, rot, cracks, splinters, or missing parts. Any structural issue means it's time for repair."
+}

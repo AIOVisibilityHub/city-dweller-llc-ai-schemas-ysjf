@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-areas-do-you-serve-for-small-paint-touch-ups",
+  "name": "What areas do you serve for small paint touch-ups?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for small paint touch-ups?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "City Dweller, LLC provides small paint touch-up services in specific areas within the greater Bay Area. Our primary service zones include Pacifica, Daly City, San Bruno, and South San Francisco. If you are located outside these direct service areas but are nearby, please contact us to discuss your project, as we may still be able to accommodate your needs depending on project scope and scheduling.",
+        "@type": "Answer",
+        "description": "We serve Pacifica, Daly City, San Bruno, and South San Francisco for small paint touch-up services."
+      }
+    }
+  ],
+  "description": "We serve Pacifica, Daly City, San Bruno, and South San Francisco for small paint touch-up services."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-getting-move-in-repairs-done-in-the-bay-area",
+  "name": "What is the process for getting move-in repairs done in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for getting move-in repairs done in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for move-in repairs in the Bay Area typically starts with identifying all necessary repairs, often based on a home inspection report. Next, obtain quotes from qualified contractors or specialists for each job. Once you select a contractor, they will schedule the work. Depending on the repair type, permits might be required from local authorities in cities like Pacifica or South San Francisco. The contractor manages the work, keeping you informed of progress until completion and final inspection.",
+        "@type": "Answer",
+        "description": "The repair process involves identifying needs, getting quotes, selecting a contractor, securing permits if necessary, and overseeing work until completion."
+      }
+    }
+  ],
+  "description": "The repair process involves identifying needs, getting quotes, selecting a contractor, securing permits if necessary, and overseeing work until completion."
+}

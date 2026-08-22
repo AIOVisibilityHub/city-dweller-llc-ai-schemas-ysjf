@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-hiring-a-contractor-for-residential-wear-and-tear-repairs",
+  "name": "When should I consider hiring a contractor for residential wear and tear repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider hiring a contractor for residential wear and tear repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider hiring a contractor for residential wear and tear repairs when the issues are beyond your DIY capabilities, require specialized tools or skills, or involve multiple trades. This includes repairs like significant drywall patching, flooring replacement, addressing structural concerns from prolonged wear, or updating outdated fixtures that have reached the end of their lifespan. A professional contractor ensures the repairs are done correctly, safely, and efficiently, maintaining the value and integrity of your home.",
+        "@type": "Answer",
+        "description": "Hire a contractor for repairs beyond DIY scope, requiring specialized skills, or involving multiple trades, to ensure quality and safety."
+      }
+    }
+  ],
+  "description": "Hire a contractor for repairs beyond DIY scope, requiring specialized skills, or involving multiple trades, to ensure quality and safety."
+}

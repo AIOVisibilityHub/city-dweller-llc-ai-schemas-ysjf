@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-permit-for-drywall-replacement-in-daly-city",
+  "name": "Do I need a permit for drywall replacement in Daly City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for drywall replacement in Daly City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, minor drywall repairs that do not involve structural changes, electrical work, or plumbing modifications typically do not require a permit. However, if the drywall replacement is part of a larger renovation project, involves altering load-bearing walls, or is a result of extensive damage requiring structural repair, a permit from the Daly City Building Division is likely required. It's always best to consult with your contractor or the local building department to confirm permit requirements for your specific project.",
+        "@type": "Answer",
+        "description": "Minor drywall repairs usually don't need a permit. Extensive projects, structural changes, or those involving electrical/plumbing often require one from the Daly City Building Division."
+      }
+    }
+  ],
+  "description": "Minor drywall repairs usually don't need a permit. Extensive projects, structural changes, or those involving electrical/plumbing often require one from the Dal"
+}

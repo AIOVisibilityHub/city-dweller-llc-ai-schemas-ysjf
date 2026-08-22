@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-factors-affect-the-cost-of-small-paint-touch-ups",
+  "name": "What factors affect the cost of small paint touch-ups?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors affect the cost of small paint touch-ups?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of small paint touch-ups can vary based on several factors. These include the size and number of areas needing repair, the type of paint (e.g., standard latex, specialized finishes), the complexity of matching the existing color and texture, and the accessibility of the damaged area. Travel distance within our Bay Area service zones (Pacifica, Daly City, etc.) might also be a minor factor. We provide clear estimates after assessing the specific requirements of your project.",
+        "@type": "Answer",
+        "description": "Cost factors include the size/number of repairs, paint type, color matching complexity, and accessibility of the area."
+      }
+    }
+  ],
+  "description": "Cost factors include the size/number of repairs, paint type, color matching complexity, and accessibility of the area."
+}

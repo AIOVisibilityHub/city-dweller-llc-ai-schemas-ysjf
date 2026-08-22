@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-shelving-are-available-for-home-installation",
+  "name": "What types of shelving are available for home installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of shelving are available for home installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Shelving options vary widely to suit different needs and aesthetics. Common types include floating shelves, which offer a clean, modern look without visible supports; built-in shelves that integrate seamlessly into a wall recess; and freestanding units like bookcases or pantry shelving. Material choices range from wood and laminate to metal and glass, each offering different durability, weight capacity, and design possibilities. We can help you select the best type based on your space, storage requirements, and decor.",
+        "@type": "Answer",
+        "description": "Common shelving types include floating, built-in, and freestanding units, made from materials like wood, metal, or glass. Your choice depends on your space, storage needs, and design preferences."
+      }
+    }
+  ],
+  "description": "Common shelving types include floating, built-in, and freestanding units, made from materials like wood, metal, or glass. Your choice depends on your space, sto"
+}

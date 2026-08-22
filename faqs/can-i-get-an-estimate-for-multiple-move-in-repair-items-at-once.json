@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-get-an-estimate-for-multiple-move-in-repair-items-at-once",
+  "name": "Can I get an estimate for multiple move-in repair items at once?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get an estimate for multiple move-in repair items at once?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is highly recommended to get a comprehensive estimate for multiple move-in repair items at once, especially if you are working with a general contractor. This allows the contractor to assess the overall scope, identify potential efficiencies in combining tasks, and provide a more accurate total project cost and timeline. Grouping repairs can often result in better pricing and smoother project management than scheduling individual services separately. Clearly detail all items you want addressed during the initial consultation.",
+        "@type": "Answer",
+        "description": "Yes, getting a comprehensive estimate for multiple repair items simultaneously is recommended. It can improve accuracy, efficiency, and potentially cost."
+      }
+    }
+  ],
+  "description": "Yes, getting a comprehensive estimate for multiple repair items simultaneously is recommended. It can improve accuracy, efficiency, and potentially cost."
+}

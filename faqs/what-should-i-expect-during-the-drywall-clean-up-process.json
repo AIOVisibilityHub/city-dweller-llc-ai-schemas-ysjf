@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-expect-during-the-drywall-clean-up-process",
+  "name": "What should I expect during the drywall clean-up process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I expect during the drywall clean-up process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During and after drywall installation, dust is a significant byproduct. A professional clean-up typically involves daily sweeping or vacuuming of debris to maintain a workable and somewhat tidy environment. Upon project completion, all drywall scraps, joint compound containers, and other related materials should be removed from the site. The final clean-up will include a thorough sweeping and vacuuming of all surfaces to remove gypsum dust, leaving the area ready for the next phase of construction or finishing.",
+        "@type": "Answer",
+        "description": "Expect ongoing debris removal during installation and a thorough final clean-up, including vacuuming dust and removing all materials."
+      }
+    }
+  ],
+  "description": "Expect ongoing debris removal during installation and a thorough final clean-up, including vacuuming dust and removing all materials."
+}

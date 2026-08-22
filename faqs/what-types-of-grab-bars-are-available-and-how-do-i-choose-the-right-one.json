@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-grab-bars-are-available-and-how-do-i-choose-the-right-one",
+  "name": "What types of grab bars are available, and how do I choose the right one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of grab bars are available, and how do I choose the right one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Grab bars come in various materials, lengths, and styles. Common materials include stainless steel, chrome, and textured finishes for better grip. Lengths range from 12 to 48 inches, depending on the application. To choose, consider the user's specific needs, the location of installation, and the weight capacity required. Horizontal bars are good for pulling up, vertical for balance, and angled for versatile support. Consult with an installer to determine the most suitable type for your home's structure and aesthetic.",
+        "@type": "Answer",
+        "description": "Grab bars vary by material, length, and style. Choose based on user needs, installation location, and required support, considering horizontal, vertical, or angled options."
+      }
+    }
+  ],
+  "description": "Grab bars vary by material, length, and style. Choose based on user needs, installation location, and required support, considering horizontal, vertical, or ang"
+}

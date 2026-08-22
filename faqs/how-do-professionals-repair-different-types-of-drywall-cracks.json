@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-professionals-repair-different-types-of-drywall-cracks",
+  "name": "How do professionals repair different types of drywall cracks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do professionals repair different types of drywall cracks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional drywall crack repair methods vary based on the crack's cause and severity. For minor cracks, technicians often use specialized joint compounds and fiberglass mesh tape, followed by sanding and painting for a seamless finish. For more significant cracks, they might need to reinforce the area with new drywall sections or apply flexible patching materials. If a structural issue is identified, the repair will involve addressing the root cause before patching the drywall.",
+        "@type": "Answer",
+        "description": "Professionals use joint compound and mesh for minor cracks, or new drywall sections and flexible patches for larger ones. Underlying structural issues are addressed first."
+      }
+    }
+  ],
+  "description": "Professionals use joint compound and mesh for minor cracks, or new drywall sections and flexible patches for larger ones. Underlying structural issues are addre"
+}

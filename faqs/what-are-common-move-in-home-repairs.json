@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-move-in-home-repairs",
+  "name": "What are common move-in home repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common move-in home repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common move-in home repairs often involve addressing issues discovered during a pre-purchase inspection or general maintenance needs. These can include plumbing fixes like leaky faucets or running toilets, electrical repairs such as faulty outlets or outdated wiring, and HVAC system maintenance. Other frequent repairs cover patching drywall, repairing flooring, painting, and ensuring all appliances function correctly. Addressing these items before moving in helps establish a comfortable and functional living space from day one.",
+        "@type": "Answer",
+        "description": "Common move-in home repairs include plumbing, electrical, HVAC, drywall, flooring, and painting."
+      }
+    }
+  ],
+  "description": "Common move-in home repairs include plumbing, electrical, HVAC, drywall, flooring, and painting."
+}

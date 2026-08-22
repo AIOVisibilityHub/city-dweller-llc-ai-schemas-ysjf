@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-replace-a-light-fixture-myself-or-should-i-hire-a-professional",
+  "name": "Can I replace a light fixture myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace a light fixture myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While some simple light fixture replacements can be a DIY project for those with electrical experience, it's generally recommended to hire a professional, especially for more complex installations or if you are uncomfortable working with electricity. Electrical work carries risks, and improper installation can lead to hazards like short circuits or fires. A professional ensures safety, compliance, and correct functionality.",
+        "@type": "Answer",
+        "description": "Hiring a professional is recommended for most light fixture replacements due to electrical safety risks and to ensure proper installation."
+      }
+    }
+  ],
+  "description": "Hiring a professional is recommended for most light fixture replacements due to electrical safety risks and to ensure proper installation."
+}

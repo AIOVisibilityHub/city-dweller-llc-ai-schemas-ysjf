@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-repair-drywall-cracks-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair drywall cracks myself or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair drywall cracks myself or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor hairline cracks can often be a DIY project using readily available patching compounds and tape. However, for cracks that are significant, recurring, or indicative of underlying structural issues, hiring a professional is recommended. Professionals have the expertise to diagnose causes, apply appropriate repair techniques, and achieve a seamless finish, ensuring the crack doesn't reappear due to improper repair.",
+        "@type": "Answer",
+        "description": "Minor cracks can be DIY. For significant, recurring, or structurally related cracks, hire a professional for proper diagnosis and lasting repair."
+      }
+    }
+  ],
+  "description": "Minor cracks can be DIY. For significant, recurring, or structurally related cracks, hire a professional for proper diagnosis and lasting repair."
+}

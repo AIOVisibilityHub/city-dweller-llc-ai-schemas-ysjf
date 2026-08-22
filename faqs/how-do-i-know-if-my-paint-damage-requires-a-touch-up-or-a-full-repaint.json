@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-my-paint-damage-requires-a-touch-up-or-a-full-repaint",
+  "name": "How do I know if my paint damage requires a touch-up or a full repaint?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my paint damage requires a touch-up or a full repaint?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between a touch-up and a full repaint depends on the extent of the damage, the age of the existing paint, and the overall condition of the surface. If the damage is isolated, relatively small, and the surrounding paint is in good condition with a matching color readily available, a touch-up is usually sufficient. However, if there are widespread scuffs, significant fading, extensive cracking, or multiple large areas of damage, a full repaint will likely yield a more uniform and lasting result.",
+        "@type": "Answer",
+        "description": "Opt for a touch-up if damage is small and isolated; choose a full repaint for widespread damage, fading, or extensive cracking."
+      }
+    }
+  ],
+  "description": "Opt for a touch-up if damage is small and isolated; choose a full repaint for widespread damage, fading, or extensive cracking."
+}

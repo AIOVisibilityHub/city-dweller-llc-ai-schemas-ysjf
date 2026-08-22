@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-drywall-patching",
+  "name": "What is drywall patching?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is drywall patching?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall patching involves repairing damage to drywall, such as holes, cracks, dents, or water stains, to restore the wall's integrity and appearance. The process typically includes preparing the damaged area, applying a patch or joint compound, sanding, and then priming and painting to seamlessly blend with the existing wall. This repair is crucial for maintaining the aesthetic and structural quality of your interior spaces.",
+        "@type": "Answer",
+        "description": "Drywall patching repairs damage to walls like holes or cracks, restoring their appearance and integrity through filling, sanding, and painting."
+      }
+    }
+  ],
+  "description": "Drywall patching repairs damage to walls like holes or cracks, restoring their appearance and integrity through filling, sanding, and painting."
+}

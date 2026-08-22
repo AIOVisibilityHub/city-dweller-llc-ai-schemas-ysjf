@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-repair-a-drywall-crack-myself-versus-hiring-a-professional",
+  "name": "When should I repair a drywall crack myself versus hiring a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair a drywall crack myself versus hiring a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Small, hairline cracks, often found near windows or doors, can usually be repaired with joint compound and paint by a homeowner. However, if cracks are wider than a quarter-inch, long, recurring, or accompanied by water stains or bulging, it's best to consult a professional. These signs can indicate underlying structural problems or water damage that require expert assessment and repair to prevent further, more costly issues.",
+        "@type": "Answer",
+        "description": "Repair small hairline cracks yourself. For wider, recurring, or water-stained cracks, hire a professional to assess potential underlying issues."
+      }
+    }
+  ],
+  "description": "Repair small hairline cracks yourself. For wider, recurring, or water-stained cracks, hire a professional to assess potential underlying issues."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-repair-or-replace-a-section-of-drywall",
+  "name": "When should I repair or replace a section of drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair or replace a section of drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Small holes or minor cracks, typically less than six inches in diameter, are usually suitable for patching. Larger damage, extensive water damage causing structural weakness, or multiple complex repairs in one area might warrant replacing an entire section of drywall. Replacement ensures a more durable and aesthetically pleasing result when damage is severe, preventing future issues. Consider the extent of the damage and your desired long-term outcome.",
+        "@type": "Answer",
+        "description": "Patch small holes and cracks; replace larger, structurally compromised, or extensively water-damaged drywall sections."
+      }
+    }
+  ],
+  "description": "Patch small holes and cracks; replace larger, structurally compromised, or extensively water-damaged drywall sections."
+}

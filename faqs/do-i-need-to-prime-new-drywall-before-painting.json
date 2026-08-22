@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-prime-new-drywall-before-painting",
+  "name": "Do I need to prime new drywall before painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to prime new drywall before painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is essential to prime new drywall before painting. New drywall and joint compound have different porosities, meaning they absorb paint at varying rates. Priming creates a uniform surface, ensuring consistent paint absorption and a smooth, even finish. Skipping this step can lead to a patchy appearance, visible seams, and requires more paint coats to achieve desired coverage, ultimately affecting the final look and durability of your paint job.",
+        "@type": "Answer",
+        "description": "Yes, priming new drywall is essential to create a uniform surface for consistent paint absorption and a smooth, even finish."
+      }
+    }
+  ],
+  "description": "Yes, priming new drywall is essential to create a uniform surface for consistent paint absorption and a smooth, even finish."
+}

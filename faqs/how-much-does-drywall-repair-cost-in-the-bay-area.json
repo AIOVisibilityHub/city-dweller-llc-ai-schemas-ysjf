@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-drywall-repair-cost-in-the-bay-area",
+  "name": "How much does drywall repair cost in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does drywall repair cost in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of drywall repair in the Bay Area can vary significantly based on the extent of the damage, the type of repair needed, and the specific finishes required. Small patch jobs might range from a few hundred dollars, while more extensive repairs involving multiple sections or complex textures could cost upwards of several hundred to over a thousand dollars. Factors like material costs, labor rates, and the need for scaffolding can also influence the final price. We provide detailed estimates after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Drywall repair costs in the Bay Area vary widely depending on damage extent and complexity, from a few hundred dollars for small patches to over a thousand for extensive repairs."
+      }
+    }
+  ],
+  "description": "Drywall repair costs in the Bay Area vary widely depending on damage extent and complexity, from a few hundred dollars for small patches to over a thousand for"
+}

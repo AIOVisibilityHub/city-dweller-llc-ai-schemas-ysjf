@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-installing-built-in-shelving",
+  "name": "What is the process for installing built-in shelving?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing built-in shelving?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our installation process typically begins with an initial consultation to discuss your needs, style preferences, and budget. Next, we conduct a site visit for precise measurements and develop a custom design plan. Once the design is approved, materials are sourced and fabrication begins off-site. Our skilled team then handles the on-site installation, which includes securely attaching the units, ensuring they are level and plumb, and applying any final finishes. We aim to minimize disruption and leave your space clean and tidy.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design, precise measurements, off-site fabrication, and professional on-site installation, ensuring a clean and secure finish."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design, precise measurements, off-site fabrication, and professional on-site installation, ensuring a clean and secure finish"
+}

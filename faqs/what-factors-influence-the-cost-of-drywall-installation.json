@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-factors-influence-the-cost-of-drywall-installation",
+  "name": "What factors influence the cost of drywall installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of drywall installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of drywall installation is influenced by several factors. These include the total square footage of walls and ceilings, the type of drywall chosen (e.g., standard, moisture-resistant, fire-rated), the complexity of the project (e.g., high ceilings, many corners, arches), and the level of finish required (e.g., Level 3 for basic paint, Level 5 for high-gloss paint). Material costs, labor rates, and whether old drywall needs to be removed and disposed of also contribute to the overall expense.",
+        "@type": "Answer",
+        "description": "Factors influencing cost include square footage, drywall type, project complexity, desired finish level, materials, and labor."
+      }
+    }
+  ],
+  "description": "Factors influencing cost include square footage, drywall type, project complexity, desired finish level, materials, and labor."
+}

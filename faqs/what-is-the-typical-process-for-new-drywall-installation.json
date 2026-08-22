@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-new-drywall-installation",
+  "name": "What is the typical process for new drywall installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for new drywall installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New drywall installation typically begins with framing inspection and preparation. We then measure and cut drywall panels to fit, followed by hanging them with screws. Joints are taped, and multiple layers of joint compound are applied and sanded smooth to create a seamless finish. Finally, the surface is primed, preparing it for paint or other finishes. This process ensures a durable and aesthetically pleasing result.",
+        "@type": "Answer",
+        "description": "The process involves framing inspection, hanging panels, taping joints, applying and sanding joint compound, and priming for finish."
+      }
+    }
+  ],
+  "description": "The process involves framing inspection, hanging panels, taping joints, applying and sanding joint compound, and priming for finish."
+}

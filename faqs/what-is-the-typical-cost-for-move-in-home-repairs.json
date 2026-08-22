@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-cost-for-move-in-home-repairs",
+  "name": "What is the typical cost for move-in home repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for move-in home repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for move-in home repairs varies widely depending on the scope and type of work required. Minor repairs like patching and painting might cost a few hundred dollars, while more extensive projects such as electrical panel upgrades or plumbing overhauls could range from several thousand dollars. Factors like materials chosen, complexity of the job, and local labor rates in the Bay Area will influence the final price. It's recommended to get detailed estimates for each specific repair.",
+        "@type": "Answer",
+        "description": "Move-in repair costs vary widely based on the work needed, from hundreds for minor fixes to thousands for major overhauls. Obtain detailed estimates."
+      }
+    }
+  ],
+  "description": "Move-in repair costs vary widely based on the work needed, from hundreds for minor fixes to thousands for major overhauls. Obtain detailed estimates."
+}

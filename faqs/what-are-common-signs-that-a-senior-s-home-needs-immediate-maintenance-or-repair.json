@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-signs-that-a-senior-s-home-needs-immediate-maintenance-or-repair",
+  "name": "What are common signs that a senior's home needs immediate maintenance or repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that a senior's home needs immediate maintenance or repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several signs indicate immediate maintenance or repairs are needed in a senior's home. These include persistent leaks, sudden loss of hot water or heating/cooling, electrical issues like flickering lights or tripped breakers, uneven or damaged flooring, and broken handrails or steps. Additionally, strong unusual odors, pests, or difficulty operating doors and windows can also signal urgent problems. Addressing these quickly prevents further damage and ensures safety.",
+        "@type": "Answer",
+        "description": "Immediate maintenance is needed for leaks, loss of utilities, electrical issues, damaged flooring or railings, unusual odors, or difficulty with doors/windows."
+      }
+    }
+  ],
+  "description": "Immediate maintenance is needed for leaks, loss of utilities, electrical issues, damaged flooring or railings, unusual odors, or difficulty with doors/windows."
+}

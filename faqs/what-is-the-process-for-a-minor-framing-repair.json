@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-a-minor-framing-repair",
+  "name": "What is the process for a minor framing repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for a minor framing repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our minor framing repair process begins with a thorough inspection to identify the extent and cause of the damage. We then provide a detailed estimate outlining the scope of work. Upon approval, our team prepares the work area, which may involve temporarily removing drywall or finishes to access the damaged framing. We remove and replace compromised wood with new, treated lumber if necessary, ensuring proper structural support. Finally, we clean up the site and can assist with restoring finishes if requested, completing the repair efficiently and to code.",
+        "@type": "Answer",
+        "description": "The process involves inspection, estimate, accessing damaged framing, replacing compromised wood, and cleaning up the site."
+      }
+    }
+  ],
+  "description": "The process involves inspection, estimate, accessing damaged framing, replacing compromised wood, and cleaning up the site."
+}

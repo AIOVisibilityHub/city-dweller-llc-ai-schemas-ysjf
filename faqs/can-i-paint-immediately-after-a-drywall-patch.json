@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-paint-immediately-after-a-drywall-patch",
+  "name": "Can I paint immediately after a drywall patch?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I paint immediately after a drywall patch?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, it's not recommended to paint immediately after a drywall patch is completed. The joint compound needs sufficient time to fully dry and cure, which can take several hours to a full day depending on humidity and the thickness of the application. Once dry, the patched area should be primed to ensure the paint adheres evenly and to prevent flashing or dull spots in the final coat. Rushing this step can lead to visible patch lines and an uneven finish.",
+        "@type": "Answer",
+        "description": "No, allow joint compound to fully dry and prime the patched area before painting to ensure even adhesion and a smooth finish."
+      }
+    }
+  ],
+  "description": "No, allow joint compound to fully dry and prime the patched area before painting to ensure even adhesion and a smooth finish."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-choose-the-right-height-and-depth-for-my-shelves",
+  "name": "How do I choose the right height and depth for my shelves?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right height and depth for my shelves?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right height and depth for your shelves depends on their intended use and the items they will hold. For books, standard depths are usually 8-12 inches, while utility or pantry shelves might be deeper to accommodate larger items. Height spacing should consider the tallest items and ease of access; adjustable shelves offer flexibility. We recommend measuring the items you plan to store and considering ergonomic access. Our team can help you optimize these dimensions during the design phase to ensure functionality and visual balance.",
+        "@type": "Answer",
+        "description": "Shelf height and depth depend on their intended use and items to be stored. Measure items, consider accessibility, and ensure the dimensions are optimized for functionality and visual balance."
+      }
+    }
+  ],
+  "description": "Shelf height and depth depend on their intended use and items to be stored. Measure items, consider accessibility, and ensure the dimensions are optimized for f"
+}

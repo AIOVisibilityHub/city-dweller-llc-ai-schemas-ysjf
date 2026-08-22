@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-schedule-spring-home-maintenance-in-the-bay-area",
+  "name": "When should I schedule spring home maintenance in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I schedule spring home maintenance in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Spring home maintenance in the Bay Area is typically best scheduled between March and May. After the winter rains, it's crucial to inspect for moisture damage, clean gutters, and check the roof. This period is also ideal for preparing air conditioning systems for warmer months, examining exterior paint, and addressing any landscaping needs. Early spring ensures your home is ready before the busiest contractor seasons.",
+        "@type": "Answer",
+        "description": "Schedule spring home maintenance in the Bay Area between March and May to inspect for winter damage, clean gutters, and prepare for warmer weather."
+      }
+    }
+  ],
+  "description": "Schedule spring home maintenance in the Bay Area between March and May to inspect for winter damage, clean gutters, and prepare for warmer weather."
+}

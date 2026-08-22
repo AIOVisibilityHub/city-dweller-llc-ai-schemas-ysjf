@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-replace-cabinet-hardware",
+  "name": "How long does it take to replace cabinet hardware?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace cabinet hardware?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to replace cabinet hardware depends on the number of cabinets, the complexity of the existing and new hardware, and whether any modifications are needed. For a typical kitchen with standard knobs or pulls, a professional can often complete the replacement in a few hours. If you're upgrading to specialty hinges or drawer slides that require precise alignment or drilling, the process may take longer. We can provide a more accurate timeframe once we understand the scope of your specific cabinet hardware replacement project.",
+        "@type": "Answer",
+        "description": "Replacement time varies by the number of cabinets and hardware complexity. A typical kitchen can take a few hours; complex upgrades may take longer."
+      }
+    }
+  ],
+  "description": "Replacement time varies by the number of cabinets and hardware complexity. A typical kitchen can take a few hours; complex upgrades may take longer."
+}

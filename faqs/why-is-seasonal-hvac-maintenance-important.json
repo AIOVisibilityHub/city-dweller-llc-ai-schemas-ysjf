@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/why-is-seasonal-hvac-maintenance-important",
+  "name": "Why is seasonal HVAC maintenance important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is seasonal HVAC maintenance important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Seasonal HVAC maintenance is crucial for several reasons. It ensures your heating and cooling systems operate efficiently, which can significantly reduce energy bills. Regular servicing helps prevent unexpected breakdowns, extending the lifespan of your units and avoiding costly emergency repairs. Technicians can identify minor issues before they become major problems, improve indoor air quality, and maintain consistent comfort levels throughout your home, especially during extreme weather.",
+        "@type": "Answer",
+        "description": "Seasonal HVAC maintenance ensures efficient operation, lowers energy bills, prevents breakdowns, extends unit lifespan, and maintains indoor air quality and comfort."
+      }
+    }
+  ],
+  "description": "Seasonal HVAC maintenance ensures efficient operation, lowers energy bills, prevents breakdowns, extends unit lifespan, and maintains indoor air quality and com"
+}

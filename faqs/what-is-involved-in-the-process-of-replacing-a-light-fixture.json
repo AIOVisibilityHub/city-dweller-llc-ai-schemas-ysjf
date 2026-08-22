@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-involved-in-the-process-of-replacing-a-light-fixture",
+  "name": "What is involved in the process of replacing a light fixture?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the process of replacing a light fixture?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically involves safely disconnecting power, removing the old fixture, inspecting the electrical box and wiring, installing the new mounting bracket, wiring the new fixture according to manufacturer specifications and local codes, securing it to the ceiling or wall, and finally, restoring power and testing. It requires careful attention to electrical safety and proper connections.",
+        "@type": "Answer",
+        "description": "The process includes disconnecting power, removing the old fixture, installing the new one, wiring, and testing. Safety and proper connections are key."
+      }
+    }
+  ],
+  "description": "The process includes disconnecting power, removing the old fixture, installing the new one, wiring, and testing. Safety and proper connections are key."
+}

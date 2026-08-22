@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-damage-can-be-repaired-with-drywall-patching",
+  "name": "What types of damage can be repaired with drywall patching?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of damage can be repaired with drywall patching?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall patching is effective for a wide range of common damages. This includes small nail or screw holes, minor cracks from settling, dents, scuffs, and areas where old fixtures were removed. It can also address small sections of water-damaged drywall if the underlying moisture issue has been resolved. However, extensive structural damage, severe moisture intrusion, or widespread crumbling may require more comprehensive repairs than simple patching.",
+        "@type": "Answer",
+        "description": "Drywall patching can fix small holes, cracks, dents, scuffs, and minor water damage, but not extensive structural or moisture-related issues."
+      }
+    }
+  ],
+  "description": "Drywall patching can fix small holes, cracks, dents, scuffs, and minor water damage, but not extensive structural or moisture-related issues."
+}

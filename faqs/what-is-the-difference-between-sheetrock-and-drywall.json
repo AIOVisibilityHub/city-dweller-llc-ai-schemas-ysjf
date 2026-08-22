@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-sheetrock-and-drywall",
+  "name": "What is the difference between Sheetrock and drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between Sheetrock and drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sheetrock is a brand name for gypsum board, which is commonly known as drywall. In essence, all Sheetrock is drywall, but not all drywall is Sheetrock. Drywall is a construction material made of gypsum plaster pressed between two sheets of thick paper, used to make interior walls and ceilings. Various manufacturers produce drywall, with Sheetrock being one of the most recognized and widely used brands due to its long-standing presence and quality reputation in the industry.",
+        "@type": "Answer",
+        "description": "Sheetrock is a specific brand of drywall. Drywall is the general term for gypsum board used in construction."
+      }
+    }
+  ],
+  "description": "Sheetrock is a specific brand of drywall. Drywall is the general term for gypsum board used in construction."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-repair-or-replace-my-door-threshold",
+  "name": "Should I repair or replace my door threshold?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my door threshold?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repair and replacement depends on the extent and type of damage. If the damage is superficial, such as minor cracks, splinters, or worn-out sealant, a repair might suffice. However, if there's significant rot, severe warping, structural compromise, or if the threshold is old and continuously failing, replacement is usually the better long-term solution. A professional evaluation can help determine the most cost-effective and durable option for your specific situation, ensuring optimal performance and longevity.",
+        "@type": "Answer",
+        "description": "Choose repair for superficial damage; opt for replacement if there is significant rot, warping, or structural compromise. A professional evaluation helps decide the best option."
+      }
+    }
+  ],
+  "description": "Choose repair for superficial damage; opt for replacement if there is significant rot, warping, or structural compromise. A professional evaluation helps decide"
+}

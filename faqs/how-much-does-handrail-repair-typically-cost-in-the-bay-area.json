@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-does-handrail-repair-typically-cost-in-the-bay-area",
+  "name": "How much does handrail repair typically cost in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does handrail repair typically cost in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Handrail repair costs in the Bay Area vary widely depending on the material, extent of damage, and complexity of the job. Minor repairs, like tightening or small section replacements, might range from a few hundred dollars. Extensive repairs, such as replacing multiple balusters, significant wood rot remediation, or custom metalwork, can cost more. A professional estimate is recommended to assess the specific needs of your handrail system accurately.",
+        "@type": "Answer",
+        "description": "Handrail repair costs in the Bay Area vary based on material, damage, and complexity. Minor fixes are generally less, while extensive work costs more."
+      }
+    }
+  ],
+  "description": "Handrail repair costs in the Bay Area vary based on material, damage, and complexity. Minor fixes are generally less, while extensive work costs more."
+}

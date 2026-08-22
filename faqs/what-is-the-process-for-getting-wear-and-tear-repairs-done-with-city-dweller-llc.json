@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-getting-wear-and-tear-repairs-done-with-city-dweller-llc",
+  "name": "What is the process for getting wear and tear repairs done with City Dweller, LLC?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for getting wear and tear repairs done with City Dweller, LLC?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process for residential wear and tear repairs at City Dweller, LLC begins with an initial consultation to discuss your needs and assess the scope of work. We then provide a detailed, transparent estimate. Once approved, we schedule the work at your convenience. Our skilled team performs the repairs efficiently and professionally, ensuring minimal disruption to your daily life. We maintain open communication throughout the project and conduct a final walkthrough to ensure your complete satisfaction with the completed work.",
+        "@type": "Answer",
+        "description": "Our process involves an initial consultation, detailed estimate, scheduled work, efficient repairs, and a final walkthrough for your satisfaction."
+      }
+    }
+  ],
+  "description": "Our process involves an initial consultation, detailed estimate, scheduled work, efficient repairs, and a final walkthrough for your satisfaction."
+}

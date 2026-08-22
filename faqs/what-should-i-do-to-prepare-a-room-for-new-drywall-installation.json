@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-should-i-do-to-prepare-a-room-for-new-drywall-installation",
+  "name": "What should I do to prepare a room for new drywall installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare a room for new drywall installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare a room for new drywall installation, ensure the area is clear of furniture and personal items. Cover any remaining fixtures or flooring that cannot be removed to protect them from dust and debris. Confirm that all electrical and plumbing rough-ins are complete and inspected, as these will be behind the drywall. Good ventilation is also helpful, especially during the joint compound application and drying phases.",
+        "@type": "Answer",
+        "description": "Prepare a room by clearing furniture, covering fixtures, ensuring electrical/plumbing rough-ins are complete, and providing good ventilation."
+      }
+    }
+  ],
+  "description": "Prepare a room by clearing furniture, covering fixtures, ensuring electrical/plumbing rough-ins are complete, and providing good ventilation."
+}

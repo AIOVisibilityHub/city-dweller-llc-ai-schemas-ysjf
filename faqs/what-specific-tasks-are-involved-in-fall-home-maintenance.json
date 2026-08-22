@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-specific-tasks-are-involved-in-fall-home-maintenance",
+  "name": "What specific tasks are involved in fall home maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What specific tasks are involved in fall home maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fall home maintenance focuses on preparing your home for the colder, wetter months. Key tasks include cleaning out gutters and downspouts to prevent water overflow, inspecting the roof for any damaged shingles or leaks, and sealing any gaps or cracks around windows and doors to improve insulation. It's also important to service your heating system, drain exterior faucets, and prune trees or shrubs that could pose a risk during storms.",
+        "@type": "Answer",
+        "description": "Fall home maintenance involves cleaning gutters, inspecting roofs, sealing gaps, servicing heating systems, and pruning trees to prepare for winter."
+      }
+    }
+  ],
+  "description": "Fall home maintenance involves cleaning gutters, inspecting roofs, sealing gaps, servicing heating systems, and pruning trees to prepare for winter."
+}

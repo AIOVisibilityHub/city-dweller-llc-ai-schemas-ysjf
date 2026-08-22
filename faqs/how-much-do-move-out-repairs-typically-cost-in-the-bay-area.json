@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-do-move-out-repairs-typically-cost-in-the-bay-area",
+  "name": "How much do move-out repairs typically cost in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much do move-out repairs typically cost in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of move-out repairs in the Bay Area can vary significantly based on the type and extent of damage, as well as the specific contractor. Minor repairs like wall patching and painting might range from a few hundred dollars, while more extensive work such as significant drywall repair, flooring replacement, or plumbing fixes could cost upwards of $1,000 or more. Obtaining multiple quotes from local contractors is advisable to understand the potential expenses and ensure fair pricing for your specific needs.",
+        "@type": "Answer",
+        "description": "Move-out repair costs in the Bay Area vary greatly by damage type and extent. Minor repairs can be a few hundred dollars, while extensive work may exceed $1,000. Get multiple quotes."
+      }
+    }
+  ],
+  "description": "Move-out repair costs in the Bay Area vary greatly by damage type and extent. Minor repairs can be a few hundred dollars, while extensive work may exceed $1,000"
+}

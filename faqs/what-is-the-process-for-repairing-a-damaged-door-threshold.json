@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-process-for-repairing-a-damaged-door-threshold",
+  "name": "What is the process for repairing a damaged door threshold?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a damaged door threshold?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically begins with an inspection to assess the damage and determine if repair or replacement is needed. For minor damage like small cracks, we might use fillers or sealants. For rot, the damaged section is carefully removed and replaced with new, treated wood. If the entire threshold is compromised, it will be fully removed and a new one installed, ensuring proper leveling, sealing, and integration with the door frame. The process often includes sanding, painting, or staining to match your existing finishes.",
+        "@type": "Answer",
+        "description": "The repair process involves inspection, assessing damage, then using fillers for minor issues or replacing sections for rot. Full replacement is done if severely damaged, ensuring proper leveling and finishing."
+      }
+    }
+  ],
+  "description": "The repair process involves inspection, assessing damage, then using fillers for minor issues or replacing sections for rot. Full replacement is done if severel"
+}

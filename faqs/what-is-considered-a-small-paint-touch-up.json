@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-considered-a-small-paint-touch-up",
+  "name": "What is considered a 'small paint touch up'?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered a 'small paint touch up'?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A small paint touch up typically involves addressing minor imperfections on painted surfaces, such as scuffs, scratches, chips, or small areas of discoloration. These are usually localized issues that don't require repainting an entire wall or room. Our services in the Bay Area focus on seamlessly blending the repair with the existing paint to maintain a consistent finish without extensive preparation or disruption.",
+        "@type": "Answer",
+        "description": "A small paint touch up addresses minor imperfections like scuffs, scratches, or chips on painted surfaces."
+      }
+    }
+  ],
+  "description": "A small paint touch up addresses minor imperfections like scuffs, scratches, or chips on painted surfaces."
+}

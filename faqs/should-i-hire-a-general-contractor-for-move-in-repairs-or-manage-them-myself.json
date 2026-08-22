@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-hire-a-general-contractor-for-move-in-repairs-or-manage-them-myself",
+  "name": "Should I hire a general contractor for move-in repairs, or manage them myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I hire a general contractor for move-in repairs, or manage them myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hiring a general contractor for move-in repairs is beneficial for extensive projects or if you lack the time or expertise to manage multiple trades. A contractor can coordinate plumbers, electricians, painters, and other specialists, ensuring efficient project completion. For minor, isolated repairs, DIY might be feasible if you have the skills. However, for significant renovations or multiple interconnected repairs, a general contractor offers expertise, project management, and often access to reliable subcontractors, simplifying the process for you.",
+        "@type": "Answer",
+        "description": "For extensive or complex move-in repairs, hiring a general contractor is often best to coordinate trades and ensure efficiency. DIY works for minor fixes."
+      }
+    }
+  ],
+  "description": "For extensive or complex move-in repairs, hiring a general contractor is often best to coordinate trades and ensure efficiency. DIY works for minor fixes."
+}

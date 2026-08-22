@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-cabinet-knobs-and-pulls",
+  "name": "What is the difference between cabinet knobs and pulls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between cabinet knobs and pulls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cabinet knobs are typically single-point attachments, offering a compact and often decorative look. They come in various shapes and sizes, from round to square. Cabinet pulls, on the other hand, are linear pieces that attach at two points, providing a more elongated and often easier grip, especially for larger drawers or pantry doors. While knobs offer versatility and can be more cost-effective, pulls generally distribute force better, making them ideal for heavier use. The choice between them often comes down to aesthetic preference and functional needs.",
+        "@type": "Answer",
+        "description": "Knobs are single-point attachments, compact and decorative. Pulls are linear, two-point attachments, offering an easier grip, especially for larger drawers. The choice depends on aesthetics and function."
+      }
+    }
+  ],
+  "description": "Knobs are single-point attachments, compact and decorative. Pulls are linear, two-point attachments, offering an easier grip, especially for larger drawers. The"
+}

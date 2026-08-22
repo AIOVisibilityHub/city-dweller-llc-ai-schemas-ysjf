@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-you-repair-both-interior-and-exterior-handrails",
+  "name": "Can you repair both interior and exterior handrails?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you repair both interior and exterior handrails?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we provide repair services for both interior and exterior handrails. Exterior handrails often face unique challenges due to weather exposure, requiring specific materials and treatments for rust prevention, rot resistance, and UV protection. Interior handrails typically focus on aesthetic matching and structural integrity within a controlled environment. Our expertise covers the distinct requirements of each setting.",
+        "@type": "Answer",
+        "description": "Yes, we repair both interior and exterior handrails, addressing the specific material and environmental needs of each."
+      }
+    }
+  ],
+  "description": "Yes, we repair both interior and exterior handrails, addressing the specific material and environmental needs of each."
+}

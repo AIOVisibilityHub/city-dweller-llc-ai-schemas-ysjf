@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-involved-in-the-drywall-hole-repair-process",
+  "name": "What is involved in the drywall hole repair process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the drywall hole repair process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically starts with assessing the damage and preparing the area. For small holes, a patch is applied, followed by multiple thin coats of joint compound, sanding between coats, and priming. Larger holes require cutting out the damaged section, installing a new piece of drywall, taping the seams, applying joint compound, sanding, and priming. The final step is texturing and painting to match the surrounding wall, ensuring an invisible repair.",
+        "@type": "Answer",
+        "description": "The process includes assessing damage, applying patches or new drywall, taping, mudding, sanding, priming, and finishing with texturing and paint."
+      }
+    }
+  ],
+  "description": "The process includes assessing damage, applying patches or new drywall, taping, mudding, sanding, priming, and finishing with texturing and paint."
+}

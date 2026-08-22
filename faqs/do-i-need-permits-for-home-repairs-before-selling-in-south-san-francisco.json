@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-permits-for-home-repairs-before-selling-in-south-san-francisco",
+  "name": "Do I need permits for home repairs before selling in South San Francisco?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for home repairs before selling in South San Francisco?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need permits for home repairs in South San Francisco depends on the scope of the work. Minor cosmetic changes like painting or replacing flooring typically do not require permits. However, structural changes, electrical work, plumbing modifications, or significant alterations to the building's envelope generally do require permits to ensure compliance with local building codes. Failing to obtain necessary permits can lead to delays, fines, or issues during the sale. City Dweller, LLC is knowledgeable about local permit requirements and can guide you.",
+        "@type": "Answer",
+        "description": "Permits are required for structural changes, electrical/plumbing work, or significant alterations, but not for minor cosmetic changes. Failing to get permits can cause issues during sale."
+      }
+    }
+  ],
+  "description": "Permits are required for structural changes, electrical/plumbing work, or significant alterations, but not for minor cosmetic changes. Failing to get permits ca"
+}

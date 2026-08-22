@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-do-i-need-to-inspect-my-roof-for-seasonal-maintenance",
+  "name": "When do I need to inspect my roof for seasonal maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to inspect my roof for seasonal maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Roof inspection is a critical part of seasonal maintenance and should ideally be done twice a year: once in the spring and again in the fall. The spring inspection helps identify any damage from winter storms and heavy rains, while the fall inspection prepares your roof for the upcoming wet and windy season. Look for missing or damaged shingles, cracks, loose flashing, and signs of moss or algae growth. Early detection can prevent leaks and structural damage.",
+        "@type": "Answer",
+        "description": "Inspect your roof twice a year, in spring to check for winter damage and in fall to prepare for wet weather, to prevent leaks and damage."
+      }
+    }
+  ],
+  "description": "Inspect your roof twice a year, in spring to check for winter damage and in fall to prepare for wet weather, to prevent leaks and damage."
+}

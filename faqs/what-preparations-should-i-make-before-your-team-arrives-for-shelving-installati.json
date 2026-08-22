@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-preparations-should-i-make-before-your-team-arrives-for-shelving-installati",
+  "name": "What preparations should I make before your team arrives for shelving installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations should I make before your team arrives for shelving installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before our team arrives, we recommend clearing the installation area of any furniture, decor, or obstructions to allow for easy access and a safe working environment. If necessary, cover nearby items to protect them from dust, especially during drilling or cutting. Please also ensure that any electrical outlets or switches in the immediate area are accessible and that you have communicated any specific concerns or preferences regarding the placement or alignment of the shelving. This preparation helps ensure a smooth and efficient installation.",
+        "@type": "Answer",
+        "description": "Clear the installation area of furniture and obstructions, cover nearby items to protect from dust, and ensure electrical outlets are accessible. Communicate any specific placement preferences."
+      }
+    }
+  ],
+  "description": "Clear the installation area of furniture and obstructions, cover nearby items to protect from dust, and ensure electrical outlets are accessible. Communicate an"
+}

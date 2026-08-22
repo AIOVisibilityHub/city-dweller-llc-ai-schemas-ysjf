@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-common-repairs-are-typically-needed-when-moving-out-of-a-rental-property",
+  "name": "What common repairs are typically needed when moving out of a rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common repairs are typically needed when moving out of a rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common move-out repairs often include patching and painting walls to cover nail holes or minor scuffs, repairing small holes in drywall, fixing leaky faucets or running toilets, and addressing minor wear and tear on flooring. Landlords expect the property to be returned in a condition similar to how it was received, excluding normal wear and tear. This helps ensure the security deposit can be fully returned and the property is ready for the next tenant with minimal downtime.",
+        "@type": "Answer",
+        "description": "Typical move-out repairs include patching walls, fixing minor plumbing issues, and addressing small damages to return the property in good condition, excluding normal wear and tear."
+      }
+    }
+  ],
+  "description": "Typical move-out repairs include patching walls, fixing minor plumbing issues, and addressing small damages to return the property in good condition, excluding"
+}

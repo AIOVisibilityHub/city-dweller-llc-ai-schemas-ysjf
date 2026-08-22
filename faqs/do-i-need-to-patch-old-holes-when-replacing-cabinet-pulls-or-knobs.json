@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-patch-old-holes-when-replacing-cabinet-pulls-or-knobs",
+  "name": "Do I need to patch old holes when replacing cabinet pulls or knobs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to patch old holes when replacing cabinet pulls or knobs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You will likely need to patch old holes if your new hardware has a different center-to-center measurement for pulls or if you're switching from pulls to knobs (or vice-versa) that don't align with existing holes. For knobs, a single hole usually needs to be patched if the new knob is a different size or location. If your new hardware covers the existing holes, patching may not be necessary. Our team can assess whether patching is required for your specific hardware choice and ensure a seamless, professional finish.",
+        "@type": "Answer",
+        "description": "Patching old holes is usually needed if new hardware has different measurements or doesn't cover existing holes, especially when switching between pulls and knobs."
+      }
+    }
+  ],
+  "description": "Patching old holes is usually needed if new hardware has different measurements or doesn't cover existing holes, especially when switching between pulls and kno"
+}

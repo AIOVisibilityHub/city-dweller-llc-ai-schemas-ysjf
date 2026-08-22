@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-match-existing-interior-paint-for-a-touch-up",
+  "name": "How do I match existing interior paint for a touch-up?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I match existing interior paint for a touch-up?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Matching existing paint precisely is crucial for a seamless touch-up. Ideally, use leftover paint from the original job, stored in an airtight container. If unavailable, try to find the original paint can or color code. If neither exists, take a small, chipped paint sample (about the size of a quarter) from an inconspicuous area to a paint store for color matching. Specialized tools can scan the color and provide a custom match. Remember that paint fades over time, so even a perfect match might appear slightly different initially. Consider touching up a larger, less noticeable area first to test the match.",
+        "@type": "Answer",
+        "description": "Use leftover original paint if possible. If not, take a paint chip to a store for color matching. Be aware that paint fades over time."
+      }
+    }
+  ],
+  "description": "Use leftover original paint if possible. If not, take a paint chip to a store for color matching. Be aware that paint fades over time."
+}

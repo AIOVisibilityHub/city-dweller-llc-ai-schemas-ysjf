@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-emergency-and-non-emergency-move-in-repairs",
+  "name": "What's the difference between emergency and non-emergency move-in repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between emergency and non-emergency move-in repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Emergency move-in repairs are critical issues that pose immediate risks to safety, health, or property, requiring urgent attention. Examples include burst pipes causing significant water damage, electrical hazards like exposed wiring, or a malfunctioning furnace in cold weather. Non-emergency repairs, while important, do not present immediate danger and can be scheduled at a more convenient time. These might include cosmetic issues, minor leaks, or updating outdated fixtures. Prioritize emergencies to mitigate further damage and ensure safety.",
+        "@type": "Answer",
+        "description": "Emergency repairs pose immediate safety/property risks (e.g., burst pipes, electrical hazards), while non-emergency repairs can be scheduled later."
+      }
+    }
+  ],
+  "description": "Emergency repairs pose immediate safety/property risks (e.g., burst pipes, electrical hazards), while non-emergency repairs can be scheduled later."
+}

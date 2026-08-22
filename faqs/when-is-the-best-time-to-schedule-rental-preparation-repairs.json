@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-is-the-best-time-to-schedule-rental-preparation-repairs",
+  "name": "When is the best time to schedule rental preparation repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time to schedule rental preparation repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best time to schedule rental preparation repairs is immediately after your current tenants vacate and before a new lease is signed. This minimizes vacancy periods and allows sufficient time for necessary repairs and cleaning without inconveniencing new tenants. If possible, having a buffer period between tenants is ideal. For extensive work, scheduling during off-peak rental seasons might provide more flexibility. We recommend contacting us as soon as you know your property will be vacant.",
+        "@type": "Answer",
+        "description": "Schedule repairs immediately after current tenants vacate and before a new lease, ideally with a buffer period, to minimize vacancy and inconvenience."
+      }
+    }
+  ],
+  "description": "Schedule repairs immediately after current tenants vacate and before a new lease, ideally with a buffer period, to minimize vacancy and inconvenience."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-hang-new-drywall-in-a-typical-room",
+  "name": "How long does it take to hang new drywall in a typical room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to hang new drywall in a typical room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration for hanging new drywall in a typical room (e.g., 12x12 feet) can vary depending on factors like ceiling height, wall complexity, and the number of openings. Generally, installation, taping, and the multiple drying/sanding cycles for joint compound can take anywhere from 3 to 7 days. This estimate does not include demolition or final painting, focusing solely on the drywall process.",
+        "@type": "Answer",
+        "description": "Hanging new drywall in a typical room can take 3 to 7 days, including installation, taping, and compound drying/sanding."
+      }
+    }
+  ],
+  "description": "Hanging new drywall in a typical room can take 3 to 7 days, including installation, taping, and compound drying/sanding."
+}

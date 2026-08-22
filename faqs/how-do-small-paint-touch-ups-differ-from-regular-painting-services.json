@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-small-paint-touch-ups-differ-from-regular-painting-services",
+  "name": "How do small paint touch-ups differ from regular painting services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do small paint touch-ups differ from regular painting services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Small paint touch-ups are highly localized repairs addressing minor surface imperfections, focusing on blending new paint seamlessly with existing finishes. They typically involve minimal surface preparation and small amounts of paint. Regular painting services, in contrast, cover larger areas, often entire rooms or exteriors, and involve extensive preparation like patching, priming, and applying multiple coats to achieve a uniform new look. Touch-ups are for maintenance; full painting is for renovation or significant aesthetic change.",
+        "@type": "Answer",
+        "description": "Touch-ups are localized repairs for minor imperfections, while regular painting covers larger areas for a new, uniform finish."
+      }
+    }
+  ],
+  "description": "Touch-ups are localized repairs for minor imperfections, while regular painting covers larger areas for a new, uniform finish."
+}

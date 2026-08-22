@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-much-do-typical-wear-and-tear-repairs-cost-in-the-bay-area",
+  "name": "How much do typical wear and tear repairs cost in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much do typical wear and tear repairs cost in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of wear and tear repairs in the Bay Area varies widely depending on the type and extent of the damage, the materials chosen, and local labor rates. Minor repairs like patching small holes or fixing a loose railing might cost a few hundred dollars. Larger projects, such as repainting multiple rooms, replacing worn flooring, or repairing a deteriorating deck, could range from several hundred to several thousand dollars. We provide detailed estimates after an on-site assessment to give you an accurate cost for your specific needs.",
+        "@type": "Answer",
+        "description": "Costs for wear and tear repairs in the Bay Area vary greatly by damage type and extent, from hundreds for minor fixes to thousands for larger projects."
+      }
+    }
+  ],
+  "description": "Costs for wear and tear repairs in the Bay Area vary greatly by damage type and extent, from hundreds for minor fixes to thousands for larger projects."
+}

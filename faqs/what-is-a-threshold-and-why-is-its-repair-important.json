@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-a-threshold-and-why-is-its-repair-important",
+  "name": "What is a threshold and why is its repair important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a threshold and why is its repair important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A threshold is the bottom part of a door frame that transitions between two spaces, often providing a seal against weather, insects, and drafts. It helps prevent water intrusion and energy loss, and contributes to the structural integrity and aesthetic of the doorway. Repairing a damaged or worn threshold is crucial for maintaining your home's energy efficiency, preventing water damage, improving security, and preserving the overall appearance of your entryways. Ignoring threshold damage can lead to more extensive and costly issues over time.",
+        "@type": "Answer",
+        "description": "A threshold is the base of a door frame, sealing against elements. Repair is important for energy efficiency, water prevention, and structural integrity."
+      }
+    }
+  ],
+  "description": "A threshold is the base of a door frame, sealing against elements. Repair is important for energy efficiency, water prevention, and structural integrity."
+}

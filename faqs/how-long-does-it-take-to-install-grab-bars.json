@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-install-grab-bars",
+  "name": "How long does it take to install grab bars?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install grab bars?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard grab bar installations are relatively quick. A single grab bar can often be installed within one to two hours, provided there are no unforeseen structural challenges like locating studs in tiled walls. For multiple grab bars or more complex placements requiring wall reinforcement or specialized tools, the process might take longer, potentially a half-day. We aim to complete installations efficiently while ensuring structural integrity and safety.",
+        "@type": "Answer",
+        "description": "A single grab bar installation usually takes 1-2 hours. More complex projects or multiple bars may take longer, up to a half-day, depending on structural conditions."
+      }
+    }
+  ],
+  "description": "A single grab bar installation usually takes 1-2 hours. More complex projects or multiple bars may take longer, up to a half-day, depending on structural condit"
+}

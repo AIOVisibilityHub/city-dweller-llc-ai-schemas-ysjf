@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-documentation-should-i-keep-regarding-move-out-repairs",
+  "name": "What documentation should I keep regarding move-out repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documentation should I keep regarding move-out repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is crucial to keep thorough documentation for all move-out repairs. This includes copies of your signed lease agreement, a move-in condition checklist or photos, any communication with your landlord, and all repair-related invoices or receipts from contractors. Before and after photos or videos of the repaired areas are also highly recommended. This documentation serves as proof of the property's condition and the work completed, protecting your security deposit in case of disputes.",
+        "@type": "Answer",
+        "description": "Keep all documentation, including lease, move-in checklist/photos, landlord communications, and repair invoices/photos. This protects your security deposit in case of disputes."
+      }
+    }
+  ],
+  "description": "Keep all documentation, including lease, move-in checklist/photos, landlord communications, and repair invoices/photos. This protects your security deposit in c"
+}

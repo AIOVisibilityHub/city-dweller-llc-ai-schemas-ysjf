@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-is-it-better-to-repaint-an-entire-wall-instead-of-just-doing-touch-ups",
+  "name": "When is it better to repaint an entire wall instead of just doing touch-ups?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it better to repaint an entire wall instead of just doing touch-ups?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It's often better to repaint an entire wall rather than just doing touch-ups when the existing paint has significant fading, discoloration across a large area, or numerous imperfections. If you can't find a perfect paint match, or if the touch-up area is very large and prominent, a full repaint ensures a uniform and seamless appearance. Additionally, if the wall has extensive damage, water stains, or if you're updating the room's color scheme, repainting the entire wall is the more effective and aesthetically pleasing solution, providing a fresh, consistent look.",
+        "@type": "Answer",
+        "description": "Repaint an entire wall if there's significant fading, discoloration, extensive damage, poor paint match, or if the touch-up area is large and prominent."
+      }
+    }
+  ],
+  "description": "Repaint an entire wall if there's significant fading, discoloration, extensive damage, poor paint match, or if the touch-up area is large and prominent."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-do-typical-wear-and-tear-repairs-take-to-complete",
+  "name": "How long do typical wear and tear repairs take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do typical wear and tear repairs take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of wear and tear repairs varies significantly based on the complexity and scope of the work. Small repairs, such as patching drywall or fixing a leaky faucet, might take a few hours to a day. More extensive projects like repainting an entire room, replacing flooring, or repairing multiple issues across different areas could take several days to a week or more. We provide an estimated timeline with our project proposal so you know what to expect.",
+        "@type": "Answer",
+        "description": "Repair times vary; small fixes take hours to a day, while extensive projects like repainting or flooring replacement can take several days to a week or more."
+      }
+    }
+  ],
+  "description": "Repair times vary; small fixes take hours to a day, while extensive projects like repainting or flooring replacement can take several days to a week or more."
+}

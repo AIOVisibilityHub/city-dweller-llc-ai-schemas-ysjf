@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-you-replace-a-light-fixture-if-the-existing-wiring-is-old-or-damaged",
+  "name": "Can you replace a light fixture if the existing wiring is old or damaged?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you replace a light fixture if the existing wiring is old or damaged?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If the existing wiring connected to your light fixture is old, frayed, or damaged, it is crucial to address these issues before or during the fixture replacement. Simply replacing the fixture without addressing compromised wiring can be unsafe. A qualified electrician will inspect the wiring, make necessary repairs, or upgrade the circuit to ensure the new fixture operates safely and in compliance with current electrical codes.",
+        "@type": "Answer",
+        "description": "Damaged or old wiring must be repaired or upgraded by a qualified electrician before replacing a light fixture to ensure safety and compliance."
+      }
+    }
+  ],
+  "description": "Damaged or old wiring must be repaired or upgraded by a qualified electrician before replacing a light fixture to ensure safety and compliance."
+}

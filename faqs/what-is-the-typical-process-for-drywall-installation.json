@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-drywall-installation",
+  "name": "What is the typical process for drywall installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for drywall installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall installation generally begins with framing inspection, followed by hanging the drywall sheets to walls and ceilings using screws. After hanging, the joints between sheets are taped and covered with multiple layers of joint compound, known as 'mudding.' This process creates a seamless surface. Once the compound is dry, it's sanded smooth, and a primer is applied in preparation for painting or other finishes. Proper ventilation is maintained throughout to ensure efficient drying of the compound.",
+        "@type": "Answer",
+        "description": "The process involves hanging sheets, taping and mudding joints, sanding, and priming for a smooth finish."
+      }
+    }
+  ],
+  "description": "The process involves hanging sheets, taping and mudding joints, sanding, and priming for a smooth finish."
+}

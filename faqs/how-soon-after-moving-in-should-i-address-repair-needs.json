@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-soon-after-moving-in-should-i-address-repair-needs",
+  "name": "How soon after moving in should I address repair needs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How soon after moving in should I address repair needs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally advisable to address significant repair needs as soon as possible after moving in, ideally before or during the first few weeks. Minor cosmetic issues can be deferred, but critical items affecting safety, functionality, or structural integrity should be prioritized. Prompt repairs prevent small problems from escalating into larger, more costly issues. Creating a prioritized list based on urgency and impact on daily living can help manage the process efficiently.",
+        "@type": "Answer",
+        "description": "Address critical repairs immediately after moving in, ideally within the first few weeks, to prevent small issues from worsening."
+      }
+    }
+  ],
+  "description": "Address critical repairs immediately after moving in, ideally within the first few weeks, to prevent small issues from worsening."
+}

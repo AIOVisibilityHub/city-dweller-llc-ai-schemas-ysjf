@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-type-of-drywall-should-i-use-for-a-bathroom-or-kitchen",
+  "name": "What type of drywall should I use for a bathroom or kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of drywall should I use for a bathroom or kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For areas prone to moisture like bathrooms, kitchens, and laundry rooms, moisture-resistant drywall, often called 'green board' or cement board, is recommended. Green board has an additive that makes it more resistant to moisture than standard drywall, helping to prevent mold and mildew growth. For shower enclosures or areas with direct water contact, cement board is typically used as a backer for tile, offering superior water resistance and structural integrity.",
+        "@type": "Answer",
+        "description": "Use moisture-resistant drywall (green board) for bathrooms and kitchens, and cement board for shower enclosures due to high moisture."
+      }
+    }
+  ],
+  "description": "Use moisture-resistant drywall (green board) for bathrooms and kitchens, and cement board for shower enclosures due to high moisture."
+}

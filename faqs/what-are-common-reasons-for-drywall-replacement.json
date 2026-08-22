@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-common-reasons-for-drywall-replacement",
+  "name": "What are common reasons for drywall replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common reasons for drywall replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall often needs replacement due to water damage from leaks or floods, which can compromise its structural integrity and lead to mold growth. Impact damage, such as large holes or cracks, also necessitates replacement. Additionally, wear and tear over time, fire damage, or issues stemming from improper initial installation can warrant removing and replacing sections or entire panels of drywall to restore a smooth, safe, and aesthetically pleasing surface.",
+        "@type": "Answer",
+        "description": "Common reasons include water damage, impact damage, fire, mold, or significant wear and tear that compromises structural integrity or appearance."
+      }
+    }
+  ],
+  "description": "Common reasons include water damage, impact damage, fire, mold, or significant wear and tear that compromises structural integrity or appearance."
+}

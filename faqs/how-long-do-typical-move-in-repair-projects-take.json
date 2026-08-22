@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-do-typical-move-in-repair-projects-take",
+  "name": "How long do typical move-in repair projects take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do typical move-in repair projects take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of move-in repair projects depends heavily on their complexity and scope. Small repairs like drywall patching or faucet replacement might take a few hours to a day. More involved projects, such as a partial kitchen refresh or addressing multiple electrical issues, could span several days to a week. Major renovations or repairs involving permits and multiple trades can take several weeks. A clear timeline should be discussed and agreed upon with your chosen contractor before work begins.",
+        "@type": "Answer",
+        "description": "Repair times vary from a few hours for minor fixes to several weeks for major projects, depending on complexity and scope."
+      }
+    }
+  ],
+  "description": "Repair times vary from a few hours for minor fixes to several weeks for major projects, depending on complexity and scope."
+}

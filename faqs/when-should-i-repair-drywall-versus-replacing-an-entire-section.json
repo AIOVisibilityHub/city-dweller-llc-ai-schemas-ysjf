@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-repair-drywall-versus-replacing-an-entire-section",
+  "name": "When should I repair drywall versus replacing an entire section?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair drywall versus replacing an entire section?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should repair drywall when the damage is localized and structurally sound, such as small holes, minor cracks, or water stains. If the damage is extensive, covers a large area, involves structural integrity issues (like sagging), or is due to persistent moisture problems causing mold, replacement of a section is often more practical and cost-effective. Replacement ensures the removal of compromised material and provides a fresh, stable surface. Our experts can assess the severity to recommend the best approach.",
+        "@type": "Answer",
+        "description": "Repair localized damage like small holes or cracks. Replace if damage is extensive, structural, or due to severe moisture and mold."
+      }
+    }
+  ],
+  "description": "Repair localized damage like small holes or cracks. Replace if damage is extensive, structural, or due to severe moisture and mold."
+}

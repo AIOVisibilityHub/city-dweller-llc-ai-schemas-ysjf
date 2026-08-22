@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-perform-threshold-repair-myself-or-should-i-hire-a-professional",
+  "name": "Can I perform threshold repair myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I perform threshold repair myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor repairs like caulking or light sanding might be a DIY project for some, extensive threshold repair or replacement often requires professional expertise. Proper installation involves precise measurements, sealing techniques, and knowledge of structural integrity to prevent future issues like water leaks or drafts. A professional contractor ensures the job is done correctly, using appropriate materials and tools, which saves time, prevents costly mistakes, and guarantees a durable, long-lasting solution that maintains your home's integrity.",
+        "@type": "Answer",
+        "description": "Minor threshold repairs can be DIY, but extensive damage or replacement should be handled by professionals for proper sealing, structural integrity, and long-term durability."
+      }
+    }
+  ],
+  "description": "Minor threshold repairs can be DIY, but extensive damage or replacement should be handled by professionals for proper sealing, structural integrity, and long-te"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-tools-are-needed-for-basic-drywall-patching",
+  "name": "What tools are needed for basic drywall patching?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What tools are needed for basic drywall patching?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For basic drywall patching, you typically need a few essential tools. These include a utility knife for trimming edges, a drywall saw for larger cuts, various sizes of joint compound knives or spatulas for applying mud, and sanding blocks or paper for smoothing. Additionally, a mud pan, mixing bucket, and personal protective equipment like dust masks are important. For structural support, drywall mesh tape or patch kits are often used.",
+        "@type": "Answer",
+        "description": "Basic drywall patching requires a utility knife, joint compound knives, sanding tools, a mud pan, and potentially mesh tape or patch kits."
+      }
+    }
+  ],
+  "description": "Basic drywall patching requires a utility knife, joint compound knives, sanding tools, a mud pan, and potentially mesh tape or patch kits."
+}

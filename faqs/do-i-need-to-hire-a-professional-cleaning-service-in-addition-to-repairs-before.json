@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-hire-a-professional-cleaning-service-in-addition-to-repairs-before",
+  "name": "Do I need to hire a professional cleaning service in addition to repairs before moving out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to hire a professional cleaning service in addition to repairs before moving out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Your lease agreement is the primary guide for cleaning requirements. Many leases stipulate that the property must be returned in a professionally cleaned condition, or at least to a high standard of cleanliness. While professional cleaning isn't always legally mandated unless specified, it can significantly increase your chances of receiving your full security deposit, especially if you lack the time or resources to deep clean yourself. It's often a worthwhile investment to avoid cleaning deductions from your landlord.",
+        "@type": "Answer",
+        "description": "Check your lease for cleaning requirements. While not always legally mandated, professional cleaning often increases your chances of a full security deposit return by meeting landlord expectations."
+      }
+    }
+  ],
+  "description": "Check your lease for cleaning requirements. While not always legally mandated, professional cleaning often increases your chances of a full security deposit ret"
+}

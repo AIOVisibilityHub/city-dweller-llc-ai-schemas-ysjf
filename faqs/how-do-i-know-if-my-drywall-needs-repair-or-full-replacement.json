@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-my-drywall-needs-repair-or-full-replacement",
+  "name": "How do I know if my drywall needs repair or full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my drywall needs repair or full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor imperfections like small cracks, nail pops, or superficial dents can often be repaired with spackle and sanding. However, if the damage is extensive, such as large holes, severe water saturation causing softness or swelling, widespread mold, or structural compromise from fire, full replacement is usually the more effective and long-lasting solution. A professional assessment can determine if the underlying structure is also affected, guiding the best approach.",
+        "@type": "Answer",
+        "description": "Small cosmetic issues can be repaired, but extensive damage like large holes, severe water damage, or widespread mold typically requires full replacement."
+      }
+    }
+  ],
+  "description": "Small cosmetic issues can be repaired, but extensive damage like large holes, severe water damage, or widespread mold typically requires full replacement."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-cabinet-hardware-can-i-replace",
+  "name": "What types of cabinet hardware can I replace?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of cabinet hardware can I replace?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can replace most types of cabinet hardware, including hinges, pulls, knobs, and drawer slides. Hinges come in various styles like concealed, surface-mount, and specialty options. Pulls and knobs offer a wide range of aesthetic choices, from contemporary to traditional. Drawer slides can be side-mount, under-mount, or center-mount, impacting drawer function and capacity. The selection depends on your cabinet style, desired functionality, and aesthetic preferences. Replacing hardware is a cost-effective way to update your kitchen or bathroom cabinets without a full renovation.",
+        "@type": "Answer",
+        "description": "You can replace hinges, pulls, knobs, and drawer slides. The type depends on your cabinet style and desired functionality."
+      }
+    }
+  ],
+  "description": "You can replace hinges, pulls, knobs, and drawer slides. The type depends on your cabinet style and desired functionality."
+}

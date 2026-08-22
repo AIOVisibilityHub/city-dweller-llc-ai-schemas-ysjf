@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-benefits-of-upgrading-to-led-light-fixtures",
+  "name": "What are the benefits of upgrading to LED light fixtures?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of upgrading to LED light fixtures?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upgrading to LED light fixtures offers several significant benefits. LEDs are highly energy-efficient, consuming far less electricity than traditional incandescent or fluorescent bulbs, which leads to lower utility bills. They also have a much longer lifespan, reducing the frequency and cost of replacements. Additionally, LEDs provide instant-on light, are more durable, and offer a wide range of color temperatures and dimming options.",
+        "@type": "Answer",
+        "description": "LED light fixtures offer energy efficiency, longer lifespan, lower utility bills, durability, and a wide range of lighting options."
+      }
+    }
+  ],
+  "description": "LED light fixtures offer energy efficiency, longer lifespan, lower utility bills, durability, and a wide range of lighting options."
+}

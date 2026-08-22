@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-reinforce-my-walls-before-installing-heavy-shelves",
+  "name": "Do I need to reinforce my walls before installing heavy shelves?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to reinforce my walls before installing heavy shelves?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For heavy-duty shelving or shelves intended to hold substantial weight, such as books, large appliances, or extensive collections, wall reinforcement is often recommended. Standard drywall may not provide sufficient support for heavy loads and can lead to structural damage or shelves pulling away from the wall over time. We assess your wall type and the expected load during our consultation and advise on appropriate reinforcement methods, which may involve locating studs or installing blocking for secure attachment.",
+        "@type": "Answer",
+        "description": "Yes, for heavy shelves, wall reinforcement is often needed to prevent damage and ensure secure attachment. We assess wall types and expected loads to advise on appropriate methods like locating studs or installing blocking."
+      }
+    }
+  ],
+  "description": "Yes, for heavy shelves, wall reinforcement is often needed to prevent damage and ensure secure attachment. We assess wall types and expected loads to advise on"
+}

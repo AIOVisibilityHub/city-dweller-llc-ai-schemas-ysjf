@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-do-i-know-if-i-need-a-minor-framing-repair",
+  "name": "How do I know if I need a minor framing repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I need a minor framing repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs that you might need a minor framing repair include visible cracks in walls or ceilings, sagging floors or ceilings, doors or windows that stick or don't close properly, or soft spots in walls. These issues can indicate underlying framing problems such as rot, insect damage, or settling. It's crucial to address these signs early to prevent more significant structural damage. A professional inspection can accurately diagnose the cause and recommend the appropriate repair, ensuring your property remains safe and stable.",
+        "@type": "Answer",
+        "description": "Look for cracked walls, sagging floors, sticky doors/windows, or soft spots, which can signal underlying framing issues requiring repair."
+      }
+    }
+  ],
+  "description": "Look for cracked walls, sagging floors, sticky doors/windows, or soft spots, which can signal underlying framing issues requiring repair."
+}

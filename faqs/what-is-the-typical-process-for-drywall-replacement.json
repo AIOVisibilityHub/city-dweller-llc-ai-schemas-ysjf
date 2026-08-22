@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-typical-process-for-drywall-replacement",
+  "name": "What is the typical process for drywall replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for drywall replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The drywall replacement process begins with careful removal of the damaged sections, including necessary demolition and debris disposal. This is followed by preparing the area, ensuring proper framing and insulation are in place. New drywall sheets are then cut and securely fastened to the studs. Taping and mudding fill seams and screw holes, creating a smooth, seamless surface. Multiple layers of joint compound and sanding are performed to achieve a level finish, ready for primer and paint.",
+        "@type": "Answer",
+        "description": "The process involves removing old drywall, preparing the area, installing new sheets, taping and mudding seams, and sanding to create a smooth, paint-ready surface."
+      }
+    }
+  ],
+  "description": "The process involves removing old drywall, preparing the area, installing new sheets, taping and mudding seams, and sanding to create a smooth, paint-ready surf"
+}

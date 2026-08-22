@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/should-i-perform-seasonal-maintenance-myself-or-hire-a-contractor",
+  "name": "Should I perform seasonal maintenance myself or hire a contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I perform seasonal maintenance myself or hire a contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to DIY or hire a contractor depends on the complexity of the task and your skill level. Simple tasks like cleaning filters or checking smoke detectors can often be done by homeowners. However, tasks involving heights (roof inspection, gutter cleaning), electrical systems (HVAC servicing), or specialized knowledge (plumbing repairs) are safer and more effectively handled by professionals. A contractor also brings expertise, specialized tools, and insurance.",
+        "@type": "Answer",
+        "description": "Perform simple tasks yourself, but hire a contractor for complex, high-risk, or specialized tasks like roof work, HVAC servicing, or significant repairs."
+      }
+    }
+  ],
+  "description": "Perform simple tasks yourself, but hire a contractor for complex, high-risk, or specialized tasks like roof work, HVAC servicing, or significant repairs."
+}

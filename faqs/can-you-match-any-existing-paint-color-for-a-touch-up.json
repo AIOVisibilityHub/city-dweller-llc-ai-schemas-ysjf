@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-you-match-any-existing-paint-color-for-a-touch-up",
+  "name": "Can you match any existing paint color for a touch-up?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you match any existing paint color for a touch-up?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While we strive for the best possible match, perfectly matching aged or custom paint colors can be challenging. We utilize techniques like color scanning and physical swatch matching. Having the original paint can greatly improve accuracy. Over time, paint can fade or change hue due to UV exposure and wear, making an exact match difficult without repainting the entire surface. We aim for a blend that minimizes visibility of the repaired area.",
+        "@type": "Answer",
+        "description": "We use color scanning and swatches to match existing paint, but exact matches can be challenging due to paint aging and fading."
+      }
+    }
+  ],
+  "description": "We use color scanning and swatches to match existing paint, but exact matches can be challenging due to paint aging and fading."
+}

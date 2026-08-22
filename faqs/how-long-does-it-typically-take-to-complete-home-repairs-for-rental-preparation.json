@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-typically-take-to-complete-home-repairs-for-rental-preparation",
+  "name": "How long does it typically take to complete home repairs for rental preparation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to complete home repairs for rental preparation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for home repairs before a new tenant moves in varies significantly based on the property's condition and the scope of work. Minor repairs and painting might take a few days, while more extensive projects like flooring replacement or kitchen updates could extend to several weeks. We recommend scheduling an assessment as soon as a tenant vacates to get an accurate estimate. Our goal is to complete repairs efficiently to minimize vacancy periods while ensuring quality workmanship for your Bay Area property.",
+        "@type": "Answer",
+        "description": "Repair time varies from a few days for minor fixes to several weeks for extensive renovations, depending on the property's condition."
+      }
+    }
+  ],
+  "description": "Repair time varies from a few days for minor fixes to several weeks for extensive renovations, depending on the property's condition."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-common-repairs-are-needed-to-prepare-a-rental-property-for-a-new-tenant",
+  "name": "What common repairs are needed to prepare a rental property for a new tenant?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common repairs are needed to prepare a rental property for a new tenant?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common repairs for rental preparation often include fresh paint, fixing minor wall damage like nail holes or scuffs, addressing leaky faucets or toilets, repairing damaged flooring, and ensuring all appliances are in good working order. It's also important to check for any safety hazards, such as loose handrails or non-functional smoke detectors. Basic landscaping and deep cleaning are also crucial to make the property appealing and move-in ready for new occupants. These preventative repairs can reduce maintenance calls during the tenancy.",
+        "@type": "Answer",
+        "description": "Common repairs include painting, fixing minor wall and plumbing issues, repairing flooring, checking appliances, and addressing safety hazards like smoke detectors."
+      }
+    }
+  ],
+  "description": "Common repairs include painting, fixing minor wall and plumbing issues, repairing flooring, checking appliances, and addressing safety hazards like smoke detect"
+}

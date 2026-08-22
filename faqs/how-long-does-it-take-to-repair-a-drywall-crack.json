@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-repair-a-drywall-crack",
+  "name": "How long does it take to repair a drywall crack?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a drywall crack?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of drywall crack repair depends on the crack's severity and size. A small hairline crack might take a few hours for preparation, patching, and initial drying, often completed within a single day. Larger or more complex repairs, especially those requiring multiple layers of compound and drying times between coats, could extend over 1-2 days, with final painting typically done after the repair is fully cured.",
+        "@type": "Answer",
+        "description": "Small crack repairs can take a few hours to a day. Larger, more complex cracks requiring multiple coats and drying time may take 1-2 days."
+      }
+    }
+  ],
+  "description": "Small crack repairs can take a few hours to a day. Larger, more complex cracks requiring multiple coats and drying time may take 1-2 days."
+}

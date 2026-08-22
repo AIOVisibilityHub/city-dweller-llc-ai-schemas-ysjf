@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/are-there-specific-building-codes-or-regulations-in-the-bay-area-i-should-be-awa",
+  "name": "Are there specific building codes or regulations in the Bay Area I should be aware of for rental repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific building codes or regulations in the Bay Area I should be aware of for rental repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, rental properties in the Bay Area, including cities like San Mateo and Burlingame, must comply with various state and local building codes and housing regulations. These often cover safety standards (e.g., smoke/CO detectors), habitability requirements (e.g., heating, plumbing, electrical), and accessibility standards where applicable. It's crucial to ensure all repairs meet these codes to avoid legal issues and ensure tenant safety. Our team is familiar with local regulations and ensures all work is compliant.",
+        "@type": "Answer",
+        "description": "Yes, Bay Area rental properties must comply with state and local building codes and housing regulations, covering safety, habitability, and accessibility. Our team ensures compliance."
+      }
+    }
+  ],
+  "description": "Yes, Bay Area rental properties must comply with state and local building codes and housing regulations, covering safety, habitability, and accessibility. Our t"
+}

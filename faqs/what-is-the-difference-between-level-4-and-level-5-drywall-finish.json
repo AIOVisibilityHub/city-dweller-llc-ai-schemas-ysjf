@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-level-4-and-level-5-drywall-finish",
+  "name": "What is the difference between Level 4 and Level 5 drywall finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between Level 4 and Level 5 drywall finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Level 4 drywall finish typically involves taping joints and corners, followed by three coats of joint compound, leaving a smooth surface suitable for most flat paints or light textures. Imperfections might be visible under critical lighting. A Level 5 finish, considered the highest standard, includes all steps of Level 4 plus a thin skim coat of joint compound applied over the entire surface. This creates an exceptionally smooth, uniform surface, ideal for high-gloss paints, dark colors, or areas with critical lighting, minimizing any visible imperfections.",
+        "@type": "Answer",
+        "description": "Level 4 uses three coats of compound, suitable for most paints. Level 5 adds a full skim coat for a flawless, ultra-smooth surface, ideal for high-gloss paints."
+      }
+    }
+  ],
+  "description": "Level 4 uses three coats of compound, suitable for most paints. Level 5 adds a full skim coat for a flawless, ultra-smooth surface, ideal for high-gloss paints."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-materials-are-used-for-drywall-hole-repair",
+  "name": "What materials are used for drywall hole repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used for drywall hole repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The materials used depend on the size and type of hole. Common materials include drywall joint compound (mud), fiberglass mesh tape or paper tape for seams, drywall patches (self-adhesive or paper-faced), and new sections of drywall for larger repairs. We also use primers specifically designed for drywall to ensure proper paint adhesion and a uniform finish. High-quality tools like mud pans, taping knives, and sanding equipment are also essential.",
+        "@type": "Answer",
+        "description": "Materials include joint compound, fiberglass mesh or paper tape, drywall patches, new drywall sections, and primers for paint adhesion."
+      }
+    }
+  ],
+  "description": "Materials include joint compound, fiberglass mesh or paper tape, drywall patches, new drywall sections, and primers for paint adhesion."
+}

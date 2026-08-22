@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-are-the-advantages-of-using-moisture-resistant-drywall",
+  "name": "What are the advantages of using moisture-resistant drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the advantages of using moisture-resistant drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Moisture-resistant drywall, often called green board, is treated to repel moisture, making it ideal for high-humidity areas like bathrooms, kitchens, laundries, and basements. Its core contains additives that prevent water absorption, significantly reducing the risk of mold and mildew growth compared to standard drywall. This enhanced resistance helps maintain indoor air quality and extends the lifespan of the wall structure in moisture-prone environments, although it is not waterproof.",
+        "@type": "Answer",
+        "description": "Moisture-resistant drywall repels water, reducing mold and mildew risk in high-humidity areas like bathrooms and kitchens, extending wall lifespan."
+      }
+    }
+  ],
+  "description": "Moisture-resistant drywall repels water, reducing mold and mildew risk in high-humidity areas like bathrooms and kitchens, extending wall lifespan."
+}

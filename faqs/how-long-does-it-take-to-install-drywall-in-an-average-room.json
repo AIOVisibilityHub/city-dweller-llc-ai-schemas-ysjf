@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-take-to-install-drywall-in-an-average-room",
+  "name": "How long does it take to install drywall in an average room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install drywall in an average room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration for drywall installation in an average room (e.g., 10x12 feet) can vary based on factors like room complexity, ceiling height, and the number of corners or openings. Typically, hanging and initial mudding might take 1-2 days. Subsequent coats of joint compound and sanding require drying time between applications, adding another 2-3 days. Therefore, a complete, ready-to-paint finish usually takes about 3-5 days for a standard room, not including any extensive repairs or custom work.",
+        "@type": "Answer",
+        "description": "For a standard room, drywall installation, including drying time for joint compound, typically takes 3-5 days to be ready for paint."
+      }
+    }
+  ],
+  "description": "For a standard room, drywall installation, including drying time for joint compound, typically takes 3-5 days to be ready for paint."
+}

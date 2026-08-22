@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-use-a-different-sheen-of-paint-for-touch-ups",
+  "name": "Can I use a different sheen of paint for touch-ups?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I use a different sheen of paint for touch-ups?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Using a different sheen of paint for touch-ups is generally not recommended as it will almost certainly be noticeable. Even if the color is an exact match, a different sheen (e.g., flat, eggshell, satin, semi-gloss) will reflect light differently, creating a visible patch on the wall. For a truly seamless repair, it's crucial to use paint with the identical sheen as the original. If you're unsure of the original sheen, you might need to test a small, inconspicuous area or consult with a paint professional for identification and matching.",
+        "@type": "Answer",
+        "description": "No, using a different paint sheen will create a noticeable patch. Always use the identical sheen for a seamless touch-up."
+      }
+    }
+  ],
+  "description": "No, using a different paint sheen will create a noticeable patch. Always use the identical sheen for a seamless touch-up."
+}

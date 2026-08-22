@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-drywall-texture-repair-take",
+  "name": "How long does a typical drywall texture repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical drywall texture repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a drywall texture repair depends on the size and complexity of the damage. Small patches can often be completed within a few hours to one day, including drying time for mud and paint. Larger repairs or those involving intricate texture matching might take several days, especially if multiple layers of mud and texture application are required with proper drying time between each step. Your contractor will provide a more precise timeline after assessing the scope of work.",
+        "@type": "Answer",
+        "description": "Small drywall texture repairs can take a few hours to one day. Larger or complex repairs requiring multiple layers and drying time may take several days."
+      }
+    }
+  ],
+  "description": "Small drywall texture repairs can take a few hours to one day. Larger or complex repairs requiring multiple layers and drying time may take several days."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-drywall-be-installed-directly-over-existing-walls",
+  "name": "Can drywall be installed directly over existing walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can drywall be installed directly over existing walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In some cases, new drywall can be installed directly over existing walls, provided the existing surface is stable, flat, and free from significant damage or moisture issues. This method, often called 'resurfacing' or 'overboarding,' can save on demolition costs. However, it will reduce room dimensions slightly and may require extending electrical outlets and window/door frames. A professional assessment is crucial to determine if this approach is suitable for your specific situation.",
+        "@type": "Answer",
+        "description": "Yes, new drywall can be installed over stable, flat existing walls, but it reduces room dimensions and may require electrical/frame adjustments; professional assessment is key."
+      }
+    }
+  ],
+  "description": "Yes, new drywall can be installed over stable, flat existing walls, but it reduces room dimensions and may require electrical/frame adjustments; professional as"
+}

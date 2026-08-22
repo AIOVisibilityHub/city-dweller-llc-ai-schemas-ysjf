@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-replace-just-a-few-pieces-of-hardware-or-do-i-need-to-replace-all-of-it",
+  "name": "Can I replace just a few pieces of hardware or do I need to replace all of it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace just a few pieces of hardware or do I need to replace all of it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can replace just a few pieces of hardware if you're only addressing specific broken items or if you can find exact matches for your existing hardware. However, for a cohesive and updated look, it's generally recommended to replace all cabinet hardware simultaneously, especially if you're changing the style or finish. Replacing all hardware ensures uniformity in appearance and functionality across all your cabinets and drawers. This approach also prevents a mismatched look if you cannot perfectly replicate older, discontinued pieces.",
+        "@type": "Answer",
+        "description": "You can replace individual pieces if they are broken or you find exact matches. For a cohesive, updated look, replacing all hardware simultaneously is recommended."
+      }
+    }
+  ],
+  "description": "You can replace individual pieces if they are broken or you find exact matches. For a cohesive, updated look, replacing all hardware simultaneously is recommend"
+}

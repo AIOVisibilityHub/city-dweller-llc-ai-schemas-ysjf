@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-an-existing-light-fixture",
+  "name": "When should I consider replacing an existing light fixture?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing an existing light fixture?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing a light fixture if it's no longer functioning reliably, flickers persistently, shows visible signs of damage like frayed wires or cracks, or if you're upgrading your home's aesthetics or energy efficiency. Older fixtures may also pose safety risks or simply not provide adequate lighting for your needs. Professional replacement ensures safety and proper functionality.",
+        "@type": "Answer",
+        "description": "Replace a light fixture if it's damaged, not working, or if you're upgrading for aesthetics or energy efficiency."
+      }
+    }
+  ],
+  "description": "Replace a light fixture if it's damaged, not working, or if you're upgrading for aesthetics or energy efficiency."
+}

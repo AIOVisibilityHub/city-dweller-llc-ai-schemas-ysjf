@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-to-prime-drywall-before-painting",
+  "name": "Do I need to prime drywall before painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to prime drywall before painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, priming new drywall before painting is crucial. Primer serves several important functions. It seals the porous surface of the drywall and joint compound, preventing the paint from soaking in unevenly, which can lead to a splotchy finish. Primer also provides a uniform base for the paint, improving its adhesion and often reducing the number of topcoats needed for full coverage and a consistent color. Skipping primer can result in a less durable and aesthetically unpleasing paint job.",
+        "@type": "Answer",
+        "description": "Yes, priming seals the porous drywall surface, ensures even paint absorption, and improves paint adhesion and finish quality."
+      }
+    }
+  ],
+  "description": "Yes, priming seals the porous drywall surface, ensures even paint absorption, and improves paint adhesion and finish quality."
+}

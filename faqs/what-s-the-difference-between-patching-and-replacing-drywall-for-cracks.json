@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-s-the-difference-between-patching-and-replacing-drywall-for-cracks",
+  "name": "What's the difference between patching and replacing drywall for cracks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between patching and replacing drywall for cracks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Patching is suitable for smaller, isolated cracks where the surrounding drywall is stable. It involves applying joint compound and tape over the crack. Replacement, on the other hand, is necessary for large sections of damaged drywall, severe cracks accompanied by significant moisture damage, or areas with extensive structural compromise. Replacement involves cutting out and installing new drywall sheets.",
+        "@type": "Answer",
+        "description": "Patching fixes smaller cracks. Replacement is needed for large, severely damaged sections or areas with extensive structural compromise."
+      }
+    }
+  ],
+  "description": "Patching fixes smaller cracks. Replacement is needed for large, severely damaged sections or areas with extensive structural compromise."
+}

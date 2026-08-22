@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-i-need-a-permit-to-replace-a-light-fixture-in-the-bay-area",
+  "name": "Do I need a permit to replace a light fixture in the Bay Area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to replace a light fixture in the Bay Area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Typically, replacing an existing light fixture with a similar one in the same location does not require a permit in most Bay Area cities we serve, such as Pacifica or Daly City. However, if the replacement involves altering the electrical wiring, adding new circuits, or changing the location of the fixture, a permit may be necessary to ensure compliance with local building codes. It's always best to consult with a professional or your local building department.",
+        "@type": "Answer",
+        "description": "Permits are usually not needed for simple replacements in the same location. However, major wiring changes or new installations often require one."
+      }
+    }
+  ],
+  "description": "Permits are usually not needed for simple replacements in the same location. However, major wiring changes or new installations often require one."
+}

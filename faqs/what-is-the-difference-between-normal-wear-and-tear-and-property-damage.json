@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-normal-wear-and-tear-and-property-damage",
+  "name": "What is the difference between normal wear and tear and property damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between normal wear and tear and property damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The key difference lies in the cause and severity. Normal wear and tear is the natural, gradual degradation of a property through everyday use, like faded paint, worn-out carpets, or minor scratches. Property damage, conversely, is typically caused by tenant negligence, misuse, abuse, or accidents. This includes large holes in walls, broken windows, pet stains, significant water damage from unaddressed issues, or fixtures broken due to improper use. Landlords are usually responsible for wear and tear, while tenants are responsible for damage.",
+        "@type": "Answer",
+        "description": "Normal wear and tear is gradual deterioration from everyday use, while property damage results from negligence, misuse, or accidents."
+      }
+    }
+  ],
+  "description": "Normal wear and tear is gradual deterioration from everyday use, while property damage results from negligence, misuse, or accidents."
+}

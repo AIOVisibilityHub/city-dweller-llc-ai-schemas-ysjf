@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-types-of-floor-transitions-can-be-repaired",
+  "name": "What types of floor transitions can be repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of floor transitions can be repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most common types of floor transitions can be repaired, including those made from wood, laminate, metal (like aluminum or brass), and PVC/vinyl. The repair method depends on the material and the extent of the damage. Simple repairs might involve re-securing loose strips or replacing small sections. More extensive damage could require a full replacement of the transition piece. Our team assesses the material and damage to recommend the most effective and durable repair solution for your specific flooring.",
+        "@type": "Answer",
+        "description": "We can repair most wood, laminate, metal, and PVC/vinyl floor transitions. The repair method varies by material and damage extent."
+      }
+    }
+  ],
+  "description": "We can repair most wood, laminate, metal, and PVC/vinyl floor transitions. The repair method varies by material and damage extent."
+}

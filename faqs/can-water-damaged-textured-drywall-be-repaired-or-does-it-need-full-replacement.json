@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-water-damaged-textured-drywall-be-repaired-or-does-it-need-full-replacement",
+  "name": "Can water-damaged textured drywall be repaired, or does it need full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can water-damaged textured drywall be repaired, or does it need full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor water-damaged textured drywall can often be repaired if the damage is superficial and the drywall structure remains sound. This involves cutting out affected sections, ensuring no mold is present, and then patching and re-texturing the area. However, if the water damage is extensive, has compromised the structural integrity of the drywall, or led to significant mold growth, full replacement of the affected panels is usually necessary to prevent future issues and ensure safety.",
+        "@type": "Answer",
+        "description": "Minor water-damaged textured drywall can be repaired if superficial. Extensive damage, structural compromise, or mold often requires full replacement."
+      }
+    }
+  ],
+  "description": "Minor water-damaged textured drywall can be repaired if superficial. Extensive damage, structural compromise, or mold often requires full replacement."
+}

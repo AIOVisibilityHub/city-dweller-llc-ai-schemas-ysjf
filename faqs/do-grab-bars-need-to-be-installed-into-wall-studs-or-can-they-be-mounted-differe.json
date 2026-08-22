@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/do-grab-bars-need-to-be-installed-into-wall-studs-or-can-they-be-mounted-differe",
+  "name": "Do grab bars need to be installed into wall studs, or can they be mounted differently?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do grab bars need to be installed into wall studs, or can they be mounted differently?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For maximum safety and weight bearing, grab bars should ideally be securely fastened directly into wall studs. This provides the strongest and most reliable support. If studs are not accessible at the desired location, specialized anchors designed for high weight capacity can be used, such as WingIts or other ADA-compliant fasteners, which distribute weight effectively across the wall. Our installation experts will assess your wall structure to determine the safest mounting method.",
+        "@type": "Answer",
+        "description": "For safety, grab bars should be anchored into wall studs. If not possible, specialized high-capacity anchors are used to ensure secure mounting."
+      }
+    }
+  ],
+  "description": "For safety, grab bars should be anchored into wall studs. If not possible, specialized high-capacity anchors are used to ensure secure mounting."
+}

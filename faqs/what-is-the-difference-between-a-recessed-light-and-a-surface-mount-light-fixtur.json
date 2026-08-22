@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-the-difference-between-a-recessed-light-and-a-surface-mount-light-fixtur",
+  "name": "What is the difference between a recessed light and a surface-mount light fixture?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a recessed light and a surface-mount light fixture?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Recessed light fixtures are installed directly into the ceiling, creating a flush, streamlined appearance where the light source is hidden. They are often used for general ambient or task lighting. Surface-mount fixtures, conversely, are installed directly onto the ceiling surface, with the entire fixture body visible. They are easier to install and can provide more decorative options, often serving as a central light source.",
+        "@type": "Answer",
+        "description": "Recessed lights are flush with the ceiling, offering a hidden light source, while surface-mount fixtures sit on the ceiling, with the entire body visible."
+      }
+    }
+  ],
+  "description": "Recessed lights are flush with the ceiling, offering a hidden light source, while surface-mount fixtures sit on the ceiling, with the entire body visible."
+}

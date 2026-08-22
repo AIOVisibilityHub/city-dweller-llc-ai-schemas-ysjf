@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-universal-design-and-how-does-it-apply-to-senior-home-maintenance",
+  "name": "What is universal design and how does it apply to senior home maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is universal design and how does it apply to senior home maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Universal design is an approach to creating environments and products that are usable by all people, to the greatest extent possible, without the need for adaptation or specialized design. For senior home maintenance, this means incorporating features that benefit individuals of all ages and abilities, including those with limited mobility. Examples include curbless showers, wider hallways, lever handles, and adjustable-height countertops. Applying universal design principles ensures a home remains functional and accessible as needs change over time, making it truly age-in-place friendly.",
+        "@type": "Answer",
+        "description": "Universal design creates environments usable by all, including seniors, through features like curbless showers and lever handles, promoting long-term home accessibility."
+      }
+    }
+  ],
+  "description": "Universal design creates environments usable by all, including seniors, through features like curbless showers and lever handles, promoting long-term home acces"
+}

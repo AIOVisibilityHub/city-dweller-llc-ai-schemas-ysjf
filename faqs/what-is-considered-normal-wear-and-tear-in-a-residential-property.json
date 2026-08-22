@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-considered-normal-wear-and-tear-in-a-residential-property",
+  "name": "What is considered 'normal wear and tear' in a residential property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered 'normal wear and tear' in a residential property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Normal wear and tear refers to the deterioration that occurs in a property with ordinary use and exposure over time. This includes minor scuffs on walls, faded paint, loose door handles, worn carpet in high-traffic areas, or minor scratches on flooring. It does not include damage resulting from neglect, abuse, or accidents, such as large holes in walls, broken windows, pet damage, or significant water stains from unaddressed leaks. Understanding this distinction is crucial for both homeowners and tenants, especially during move-out inspections.",
+        "@type": "Answer",
+        "description": "Normal wear and tear is the expected deterioration from ordinary use over time, like faded paint or worn carpet, not damage from neglect or accidents."
+      }
+    }
+  ],
+  "description": "Normal wear and tear is the expected deterioration from ordinary use over time, like faded paint or worn carpet, not damage from neglect or accidents."
+}

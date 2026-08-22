@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/what-is-seasonal-home-maintenance",
+  "name": "What is seasonal home maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is seasonal home maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Seasonal home maintenance involves tasks performed at specific times of the year to prepare your home for changing weather conditions and prevent potential issues. This proactive approach helps preserve your property's value, extend the lifespan of its components, and ensure comfort and safety. Tasks typically include inspecting roofs, cleaning gutters, servicing HVAC systems, checking plumbing, and maintaining landscaping, all tailored to the demands of spring, summer, fall, and winter.",
+        "@type": "Answer",
+        "description": "Seasonal home maintenance consists of routine tasks performed throughout the year to prepare your home for changing weather and prevent issues, preserving its value and functionality."
+      }
+    }
+  ],
+  "description": "Seasonal home maintenance consists of routine tasks performed throughout the year to prepare your home for changing weather and prevent issues, preserving its v"
+}

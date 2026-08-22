@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-it-typically-take-to-install-new-shelving",
+  "name": "How long does it typically take to install new shelving?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to install new shelving?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation time for shelving can vary significantly based on the complexity of the project. Simple floating shelves or pre-assembled units might take a few hours. More involved projects, such as custom built-in shelving or extensive closet systems, could require a full day or even several days, especially if painting, finishing, or structural modifications are involved. We provide an estimated timeline after assessing your specific shelving design and the current condition of the installation area.",
+        "@type": "Answer",
+        "description": "Installation time varies with project complexity; simple shelves might take a few hours, while custom or extensive systems can take a full day or several days. We provide an estimate after assessment."
+      }
+    }
+  ],
+  "description": "Installation time varies with project complexity; simple shelves might take a few hours, while custom or extensive systems can take a full day or several days."
+}

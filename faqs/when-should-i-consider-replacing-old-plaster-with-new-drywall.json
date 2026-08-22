@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/when-should-i-consider-replacing-old-plaster-with-new-drywall",
+  "name": "When should I consider replacing old plaster with new drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing old plaster with new drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing old plaster with new drywall if your plaster walls are extensively damaged, crumbling, or show signs of severe cracking that are difficult to repair. Drywall offers a smoother, more uniform surface and is generally easier and more cost-effective to repair in the long term. Replacing plaster can also provide an opportunity to update insulation or address electrical wiring behind the walls, improving overall home efficiency and safety.",
+        "@type": "Answer",
+        "description": "Consider replacing old plaster with drywall if it's extensively damaged, crumbling, or severely cracked, as drywall offers a smoother finish and easier repairs."
+      }
+    }
+  ],
+  "description": "Consider replacing old plaster with drywall if it's extensively damaged, crumbling, or severely cracked, as drywall offers a smoother finish and easier repairs."
+}

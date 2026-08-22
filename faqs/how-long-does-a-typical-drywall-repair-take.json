@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/how-long-does-a-typical-drywall-repair-take",
+  "name": "How long does a typical drywall repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical drywall repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a drywall repair depends on the size and complexity of the damage. A small patch for a nail hole might take a few hours, including drying time for spackle and paint. Larger repairs, such as those involving significant water damage or multiple cracks, could extend over one to two days. This includes preparation, patching, mudding, sanding, and allowing adequate drying time between coats before painting. We aim to complete projects efficiently while ensuring a high-quality, durable finish.",
+        "@type": "Answer",
+        "description": "Repair time varies; small patches take hours, while larger projects can take one to two days, including drying time."
+      }
+    }
+  ],
+  "description": "Repair time varies; small patches take hours, while larger projects can take one to two days, including drying time."
+}

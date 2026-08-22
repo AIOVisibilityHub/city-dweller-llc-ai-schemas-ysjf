@@ -1,0 +1,27 @@
+{
+  "url": "http://bayareacitydweller.com/faq/can-i-paint-immediately-after-a-drywall-repair",
+  "name": "Can I paint immediately after a drywall repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I paint immediately after a drywall repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, you should not paint immediately after a drywall repair. The patching compound or joint compound needs adequate time to dry completely and cure. Depending on the humidity and the thickness of the application, this can take anywhere from 12 to 24 hours, or even longer for multiple layers. Painting over wet or uncured compound can lead to bubbling, cracking, or an uneven finish, compromising the repair's durability and appearance. Once dry, the repaired area should be lightly sanded, wiped clean, and primed before painting.",
+        "@type": "Answer",
+        "description": "Do not paint immediately after drywall repair; allow patching compound to dry and cure for 12-24 hours or more to prevent issues."
+      }
+    }
+  ],
+  "description": "Do not paint immediately after drywall repair; allow patching compound to dry and cure for 12-24 hours or more to prevent issues."
+}
